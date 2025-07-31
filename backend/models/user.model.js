@@ -20,8 +20,8 @@ const userSchema = new Schema(
     location: String,
     skills: { type: [String], default: [] },
     company: String, // For employers only
-    avatar: { type: Buffer, contentType: String }, // Image
-    resume: { type: Buffer, contentType: String }, // PDF format of resume
+    avatar: { buffer: Buffer, contentType: String }, // Image
+    resume: { buffer: Buffer, contentType: String }, // PDF format of resume
   },
   {
     timestamps: true,

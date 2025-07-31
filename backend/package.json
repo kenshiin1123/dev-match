@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon server.js",
-    "start": "node server.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
@@ -20,7 +20,7 @@
     "mongoose": "^8.16.5",
     "morgan": "^1.10.1",
     "multer": "^2.0.2",
-    "uuid": "^11.1.0"
-  },
-  "devDependencies": {}
+    "uuid": "^11.1.0",
+    "zod": "^4.0.14"
+  }
 }
