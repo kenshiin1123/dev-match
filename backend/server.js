@@ -12,11 +12,16 @@ app.use(morgan("dev"));
 
 app.get("/", (req, res) => {
   console.log(req.body);
-
   return res.json({
     message: "This is the root route of dev-match!",
     success: true,
   });
+});
+
+// Error Handler Middleware
+app.use((err, req, res, next) => {
+  const { message = "Internal Server Error", status = 500, stack } = err;
+  res.status(status).json({ message, success: false, data: { stack } });
 });
 
 app.listen(PORT, () => {
