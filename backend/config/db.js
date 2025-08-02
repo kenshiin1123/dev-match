@@ -1,15 +1,28 @@
-import mongoose from "mongoose";
+import { Client } from "pg";
 import "dotenv/config";
 
-const { connect, connection } = mongoose;
-const MONGODB_URI = process.env.MONGODB_URI;
+const {
+  SQL_HOST: host,
+  SQL_USER: user,
+  SQL_PORT: port,
+  SQL_PASSWORD: password,
+  SQL_DATABASE: database,
+} = process.env;
+
+const dbClient = new Client({
+  host,
+  user,
+  port,
+  password,
+  database,
+});
 
 const connectDB = () => {
-  connect(MONGODB_URI);
-  connection.on("error", console.error.bind("Connection Error"));
-  connection.once("open", () => {
-    console.log("MongoDB connected!");
-  });
+  dbClient
+    .connect()
+    .then(() => console.log("PostgreSQL Connected!"))
+    .catch((err) => console.error("Connection error:", err));
 };
 
+export { dbClient };
 export default connectDB;

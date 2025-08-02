@@ -1,6 +1,5 @@
 import UserValidator from "../../schemas/user.schema.js";
 import AppError from "../../utils/AppError.js";
-import User from "../../models/user.model.js";
 import { hashPassword } from "../../utils/passwordHandler.js";
 
 const register = async (req, res) => {
@@ -32,10 +31,7 @@ const register = async (req, res) => {
     skills,
   };
 
-  const newUser = new User(userData);
-
   // Save to database
-  await newUser.save();
 
   res.json({
     message: "Successfully registered user",
