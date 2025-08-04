@@ -24,7 +24,6 @@ app.use(helmet());
 app.use(limiter);
 
 app.get("/", (req, res) => {
-  console.log(req.body);
   return res.json({
     message: "This is the root route of dev-match!",
     success: true,
