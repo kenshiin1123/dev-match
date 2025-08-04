@@ -66,6 +66,15 @@ const patchUser = wrapAsync(async (req, res) => {
   // Get user Id from token
   const user_id = req.token.user_id;
 
+  // Find user
+  const user = await dbClient.query("SELECT name FROM users WHERE user_id=$1", [
+    user_id,
+  ]);
+
+  if (user.rows.length < 1 || user.rowCount < 1) {
+    throw new AppError("Update failure: user not found.", 404);
+  }
+
   const queryResult = await dbClient.query(
     "UPDATE users SET name=$1, location=$2, skills=$3, company=$4 WHERE user_id=$5;",
     [name, location, skills, company, user_id]
@@ -77,4 +86,23 @@ const patchUser = wrapAsync(async (req, res) => {
   });
 });
 
-export { patchUser, getUser, getUsers };
+const deleteUser = wrapAsync(async (req, res) => {
+  const user_id = req.token.user_id;
+  if (!user_id)
+    throw new AppError("User ID is required in deleting a user.", 422);
+
+  // Find user
+  const user = await dbClient.query("SELECT name FROM users WHERE user_id=$1", [
+    user_id,
+  ]);
+
+  if (user.rows.length < 1 || user.rowCount < 1) {
+    throw new AppError("Deletion failure: user not found.", 404);
+  }
+
+  await dbClient.query("DELETE FROM users WHERE user_id=$1", [user_id]);
+
+  res.json({ message: "Successfully deleted user", success: true });
+});
+
+export { patchUser, getUser, getUsers, deleteUser };

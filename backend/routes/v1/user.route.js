@@ -7,6 +7,7 @@ import {
   patchUser,
   getUser,
   getUsers,
+  deleteUser,
 } from "../../controllers/v1/user.controller.js";
 
 // Get specific user
@@ -21,5 +22,8 @@ router.use(authMiddleware);
 // This route can only modify these following user data:
 // name, location, skills, and company
 router.patch("/", patchUser);
+
+// Delete user
+router.delete("/", deleteUser);
 
 export default router;
