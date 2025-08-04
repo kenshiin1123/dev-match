@@ -112,4 +112,5 @@ const login = wrapAsync(async (req, res) => {
     data: { token },
   });
 });
+
 export { register, login };
