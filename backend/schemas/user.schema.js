@@ -9,6 +9,19 @@ const loginValidator = z.object({
     .min(8, "Password must be at least 8 characters long"),
 });
 
+const patchUserValidator = z.object({
+  name: z
+    .string({ required_error: "Name is required" })
+    .min(2, "Name must be at least 2 characters long"),
+  location: z.string({ required_error: "Location is required" }),
+  skills: z
+    .array(z.string({ required_error: "Skill must be a string" }), {
+      invalid_type_error: "Skills must be an array of strings",
+    })
+    .default([]),
+  company: z.string({ required_error: "Company is required" }),
+});
+
 const User = z.object({
   name: z
     .string({ required_error: "Name is required" })
@@ -47,5 +60,5 @@ const User = z.object({
   //   .optional(),
 });
 
-export { loginValidator };
+export { loginValidator, patchUserValidator };
 export default User;

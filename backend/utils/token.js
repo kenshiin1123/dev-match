@@ -9,6 +9,8 @@ const genJWT = (payload_obj) => {
   return sign(payload_obj, JWT_SECRET, option);
 };
 
-const verifyJWT = (token) => {};
+const validateJWT = (token) => {
+  return verify(token, JWT_SECRET);
+};
 
-export { genJWT };
+export { genJWT, validateJWT };

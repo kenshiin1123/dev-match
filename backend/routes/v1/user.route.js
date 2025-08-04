@@ -1,49 +1,25 @@
 import express from "express";
 const router = express.Router();
+import authMiddleware from "../../middlewares/authMiddleware.js";
 
-import { dbClient } from "../../config/db.js";
-import AppError from "../../utils/AppError.js";
+// Controllers
+import {
+  patchUser,
+  getUser,
+  getUsers,
+} from "../../controllers/v1/user.controller.js";
 
-router.get("/", async (req, res, next) => {
-  try {
-    const result = await dbClient.query("SELECT * FROM users");
+// Get specific user
+router.get("/:user_id", getUser);
 
-    if (!result || !result.rows || result.rows.length === 0) {
-      throw new AppError("No users found", 404);
-    }
+// Get all users
+router.get("/", getUsers);
 
-    return res.json({
-      message: "Successfully retrieved users",
-      success: true,
-      data: result.rows,
-    });
-  } catch (err) {
-    console.log(err);
-    next(err);
-  }
-});
+// Validate authorization token
+router.use(authMiddleware);
 
-router.get("/:user_id", async (req, res) => {
-  const user_id = req.params.user_id;
-  if (!user_id) throw new AppError("User id is required!", 422);
-
-  // Find user in database by the id provided
-
-  const user = await dbClient.query(
-    "SELECT name, email, skills, company, avatar, avatar_content_type, created_at FROM users WHERE user_id=$1;",
-    [user_id]
-  );
-
-  // Verify if user is available
-  if (user.rows.length < 1 || user.rowCount < 1) {
-    throw AppError("User not found!", 404);
-  }
-
-  res.json({
-    message: "Successfully retrieved user data",
-    success: true,
-    data: user.rows[0],
-  });
-});
+// This route can only modify these following user data:
+// name, location, skills, and company
+router.patch("/", patchUser);
 
 export default router;
