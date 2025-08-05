@@ -1,17 +1,21 @@
 import * as z from "zod";
 
-const jobSchema = z.object({
-  posted_by: z.string().uuid("Invalid UUID for posted_by"),
+const initialSchema = {
+  title: z.string("Title is required").nonempty("Title is required"),
+  description: z
+    .string("Description is required")
+    .nonempty("Description is required"),
+  company: z.string("Company is required").nonempty("Company is required"),
+  location: z.string("Location is required").nonempty("Location is required"),
 
-  title: z.string().nonempty("Title is required"),
-  description: z.string().nonempty("Description is required"),
-  company: z.string().nonempty("Company is required"),
-  location: z.string().nonempty("Location is required"),
+  salary_min: z
+    .number("Salary must be a positive number")
+    .nonnegative("Salary must be a positive number"),
+  salary_max: z
+    .number("Salary must be a positive number")
+    .nonnegative("Salary must be a positive number"),
 
-  salary_min: z.number().nonnegative("Salary must be a positive number"),
-  salary_max: z.number().nonnegative("Salary must be a positive number"),
-
-  required_skills: z.array(z.string()).default([]),
+  required_skills: z.array(z.string("Skill is required")).default([]),
 
   employment_type: z.enum(["full-time", "part-time", "contract"], {
     required_error: "Employment type is required",
@@ -20,6 +24,16 @@ const jobSchema = z.object({
   remote: z.boolean({
     required_error: "Remote value is required",
   }),
+};
+
+const jobSchema = z.object({
+  posted_by: z.string().uuid("Invalid UUID for posted_by"),
+  ...initialSchema,
 });
 
+const updateJobSchema = z.object({
+  ...initialSchema,
+});
+
+export { updateJobSchema };
 export default jobSchema;
