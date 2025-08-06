@@ -100,7 +100,45 @@ const acceptConnection = wrapAsync(async (req, res) => {
   res.json({ message: "Successfully accepted connection", success: true });
 });
 
-const removeConnection = wrapAsync(async (req, res) => {});
+const removeConnection = wrapAsync(async (req, res) => {
+  const connection_id = req.params.connection_id;
+  const user_id = req.token.user_id;
+  const connected_user_id = req.body.connected_user_id;
+
+  // Verify if connection is available
+  const existingConnection = await dbClient.query(
+    `SELECT * FROM user_connections 
+   WHERE connection_id = $1`,
+    [connection_id]
+  );
+
+  if (existingConnection.rows.length < 1) {
+    throw new AppError("User connection is not found", 404);
+  }
+
+  const { sender_id, receiver_id } = existingConnection.rows[0];
+
+  // Validate if the user is part of this connection
+  const isSenderToReceiver =
+    user_id === sender_id && connected_user_id === receiver_id;
+
+  const isReceiverToSender =
+    user_id === receiver_id && connected_user_id === sender_id;
+
+  if (!isSenderToReceiver && !isReceiverToSender) {
+    throw new AppError(
+      "Invalid connection: user is not part of this connection.",
+      403
+    );
+  }
+
+  await dbClient.query(
+    "DELETE FROM user_connections WHERE connection_id = $1 ",
+    [connection_id]
+  );
+
+  res.json({ message: "Successfully removed connection", success: true });
+});
 
 const receivedConnectionRequest = wrapAsync(async (req, res) => {});
 const sentConnectionRequest = wrapAsync(async (req, res) => {});
