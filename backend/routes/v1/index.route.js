@@ -10,7 +10,7 @@ const router = express.Router();
 
 router.use("/auth", authRoute);
 router.use("/users", userRoute);
-router.use("/users/connection", connectionRoute);
+router.use("/users/connections", connectionRoute);
 router.use("/users/jobposts", jobRoute);
 
 export default router;

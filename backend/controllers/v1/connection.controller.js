@@ -2,6 +2,7 @@ import userConnectionValidator from "../../schemas/connection.schema.js";
 import { dbClient } from "../../config/db.js";
 import AppError from "../../utils/AppError.js";
 import wrapAsync from "../../utils/wrapAsync.js";
+import { success } from "zod";
 
 // This function validates input data using the userConnectionValidator schema.
 // If validation passes, it returns the validated data with success=true.
@@ -62,26 +63,57 @@ const establishConnection = wrapAsync(async (req, res) => {
     [sender_id, receiver_id, status]
   );
 
-  res.json(validatedData);
+  res.json({ message: "Successfully established a connection", success: true });
 });
 
-const blockConnection = wrapAsync(async (req, res) => {});
-const unblockConnection = wrapAsync(async (req, res) => {});
-const acceptConnection = wrapAsync(async (req, res) => {});
-const rejectConnection = wrapAsync(async (req, res) => {});
-const cancelConnection = wrapAsync(async (req, res) => {});
+const acceptConnection = wrapAsync(async (req, res) => {
+  const connection_id = req.params.connection_id;
+  const receiver_id = req.token.user_id;
+  const sender_id = req.body.sender_id;
+
+  // Verify if connection is available
+  const existingConnection = await dbClient.query(
+    `SELECT * FROM user_connections 
+   WHERE connection_id = $1 AND receiver_id = $2 AND sender_id = $3`,
+    [connection_id, receiver_id, sender_id]
+  );
+
+  if (existingConnection.rows.length < 1) {
+    throw new AppError("User connection is not found", 404);
+  }
+
+  // Ensure that the status is pending and not blocked
+  const { status } = existingConnection.rows[0];
+  console.log(status);
+  if (status !== "pending") {
+    throw new AppError(
+      `Cannot accept connection: current status is '${status}', expected 'pending'.`,
+      422
+    );
+  }
+
+  await dbClient.query(
+    `UPDATE user_connections SET status = 'accepted' WHERE connection_id = $1`,
+    [connection_id]
+  );
+
+  res.json({ message: "Successfully accepted connection", success: true });
+});
+
 const removeConnection = wrapAsync(async (req, res) => {});
+
 const receivedConnectionRequest = wrapAsync(async (req, res) => {});
 const sentConnectionRequest = wrapAsync(async (req, res) => {});
+
+// const blockConnection = wrapAsync(async (req, res) => {});
+// const getBlockedConnection = wrapAsync(async (req, res) => {});
 
 export {
   establishConnection,
   acceptConnection,
-  rejectConnection,
-  cancelConnection,
   removeConnection,
-  blockConnection,
-  unblockConnection,
   receivedConnectionRequest,
   sentConnectionRequest,
+  // blockConnection,
+  // getBlockedConnection,
 };
