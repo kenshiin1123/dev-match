@@ -2,7 +2,6 @@ import userConnectionValidator from "../../schemas/connection.schema.js";
 import { dbClient } from "../../config/db.js";
 import AppError from "../../utils/AppError.js";
 import wrapAsync from "../../utils/wrapAsync.js";
-import { success } from "zod";
 
 // This function validates input data using the userConnectionValidator schema.
 // If validation passes, it returns the validated data with success=true.
@@ -23,6 +22,34 @@ const validateData = (unvalidatedData) => {
 
   return result; // Returns the validated data not the complete zod OBJ
 };
+
+const getConnections = wrapAsync(async (req, res) => {
+  const user_id = req.token.user_id;
+
+  // verify if user is available based on given id
+  const existingUser = await dbClient.query(
+    "SELECT user_id FROM users WHERE user_id=$1",
+    [user_id]
+  );
+
+  if (existingUser.rowCount < 1) {
+    throw new AppError("User not found", 404);
+  }
+
+  // GET ACCEPTED CONNECTIONS
+  const queryResult = await dbClient.query(
+    "SELECT * FROM user_connections WHERE status = $1 AND sender_id = $2 OR receiver_id = $3",
+    ["accepted", user_id, user_id]
+  );
+
+  const acceptedConnections = queryResult.rows;
+
+  return res.json({
+    message: "Successfully received connections",
+    success: true,
+    data: { acceptedConnections },
+  });
+});
 
 const establishConnection = wrapAsync(async (req, res) => {
   // Get all required fields
@@ -200,6 +227,7 @@ const sentConnectionRequest = wrapAsync(async (req, res) => {
 // const getBlockedConnection = wrapAsync(async (req, res) => {});
 
 export {
+  getConnections,
   establishConnection,
   acceptConnection,
   removeConnection,
