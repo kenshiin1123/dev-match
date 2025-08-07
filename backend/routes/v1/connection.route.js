@@ -16,7 +16,8 @@ router.patch("/:connection_id/accept", acceptConnection);
 router.delete("/:connection_id/remove", removeConnection);
 
 // router.post("/block", blockConnection);
-router.get("/:incoming", receivedConnectionRequest);
-router.get("/:sent", sentConnectionRequest);
+router.get("/incoming", receivedConnectionRequest);
+router.get("/sent", sentConnectionRequest);
+// router.get("/", sentConnectionRequest);
 
 export default router;

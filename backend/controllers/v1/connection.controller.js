@@ -140,8 +140,61 @@ const removeConnection = wrapAsync(async (req, res) => {
   res.json({ message: "Successfully removed connection", success: true });
 });
 
-const receivedConnectionRequest = wrapAsync(async (req, res) => {});
-const sentConnectionRequest = wrapAsync(async (req, res) => {});
+const receivedConnectionRequest = wrapAsync(async (req, res) => {
+  const user_id = req.token.user_id;
+
+  // verify if user is available based on given id
+  const existingUser = await dbClient.query(
+    "SELECT user_id FROM users WHERE user_id=$1",
+    [user_id]
+  );
+
+  if (existingUser.rowCount < 1) {
+    throw new AppError("User not found", 404);
+  }
+
+  // Get user received connections
+  // Received Connection Request Query Result
+  const queryResult = await dbClient.query(
+    "SELECT * FROM user_connections WHERE receiver_id = $1 AND status=$2",
+    [user_id, "pending"]
+  );
+
+  const receivedConnections = queryResult.rows;
+
+  res.json({
+    message: "Successfully retrieved connection requests.",
+    success: true,
+    data: { receivedConnections },
+  });
+});
+
+const sentConnectionRequest = wrapAsync(async (req, res) => {
+  const user_id = req.token.user_id;
+
+  // verify if user is available based on given id
+  const existingUser = await dbClient.query(
+    "SELECT user_id FROM users WHERE user_id=$1",
+    [user_id]
+  );
+
+  if (existingUser.rowCount < 1) {
+    throw new AppError("User not found", 404);
+  }
+
+  // Get user sent connections
+  const queryResult = await dbClient.query(
+    "SELECT * FROM user_connections WHERE sender_id = $1 AND status=$2",
+    [user_id, "pending"]
+  );
+  const sentConnections = queryResult.rows;
+
+  res.json({
+    message: "Successfully retrieved sent connections.",
+    success: true,
+    data: { sentConnections },
+  });
+});
 
 // const blockConnection = wrapAsync(async (req, res) => {});
 // const getBlockedConnection = wrapAsync(async (req, res) => {});
