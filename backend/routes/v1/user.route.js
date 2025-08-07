@@ -6,9 +6,13 @@ import authMiddleware from "../../middlewares/authMiddleware.js";
 import {
   patchUser,
   getUser,
+  getUserApplications,
   getUsers,
   deleteUser,
 } from "../../controllers/v1/user.controller.js";
+
+// Get specific user applications
+router.get("/applications", authMiddleware, getUserApplications);
 
 // Get specific user
 router.get("/:user_id", getUser);

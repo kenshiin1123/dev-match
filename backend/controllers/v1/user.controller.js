@@ -1,12 +1,7 @@
 import AppError from "../../utils/AppError.js";
 import { patchUserValidator } from "../../schemas/user.schema.js";
 import { dbClient } from "../../config/db.js";
-
-const wrapAsync = (fn) => {
-  return function (req, res, next) {
-    fn(req, res, next).catch((err) => next(err));
-  };
-};
+import wrapAsync from "../../utils/wrapAsync.js";
 
 const getUser = wrapAsync(async (req, res) => {
   const user_id = req.params.user_id;
@@ -21,7 +16,7 @@ const getUser = wrapAsync(async (req, res) => {
 
   // Verify if user is available
   if (user.rows.length < 1 || user.rowCount < 1) {
-    throw AppError("User not found!", 404);
+    throw new AppError("User not found!", 404);
   }
 
   res.json({
@@ -32,22 +27,44 @@ const getUser = wrapAsync(async (req, res) => {
 });
 
 const getUsers = wrapAsync(async (req, res, next) => {
-  try {
-    const result = await dbClient.query("SELECT * FROM users");
+  const result = await dbClient.query("SELECT * FROM users");
 
-    if (!result || !result.rows || result.rows.length === 0) {
-      throw new AppError("No users found", 404);
-    }
-
-    return res.json({
-      message: "Successfully retrieved users",
-      success: true,
-      data: result.rows,
-    });
-  } catch (err) {
-    console.log(err);
-    next(err);
+  if (!result || !result.rows || result.rows.length === 0) {
+    throw new AppError("No users found", 404);
   }
+
+  return res.json({
+    message: "Successfully retrieved users",
+    success: true,
+    data: result.rows,
+  });
+});
+
+const getUserApplications = wrapAsync(async (req, res) => {
+  const user_id = req.token.user_id;
+  if (!user_id) throw new AppError("User id is required!", 422);
+
+  // Verify if user is available
+  const existingUser = await dbClient.query(
+    "SELECT user_id FROM users WHERE user_id = $1",
+    [user_id]
+  );
+
+  if (existingUser.rowCount < 1)
+    throw new AppError("User id is required!", 422);
+
+  const applicationsQuery = await dbClient.query(
+    "SELECT * FROM applications WHERE applicant_id = $1",
+    [user_id]
+  );
+
+  const applications = applicationsQuery.rows;
+
+  res.json({
+    message: "Successfully retrieved user applications",
+    success: true,
+    data: applications,
+  });
 });
 
 const patchUser = wrapAsync(async (req, res) => {
@@ -105,4 +122,4 @@ const deleteUser = wrapAsync(async (req, res) => {
   res.json({ message: "Successfully deleted user", success: true });
 });
 
-export { patchUser, getUser, getUsers, deleteUser };
+export { patchUser, getUser, getUserApplications, getUsers, deleteUser };
