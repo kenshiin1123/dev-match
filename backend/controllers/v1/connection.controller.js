@@ -47,7 +47,7 @@ const getConnections = wrapAsync(async (req, res) => {
   return res.json({
     message: "Successfully received connections",
     success: true,
-    data: { acceptedConnections },
+    data: acceptedConnections,
   });
 });
 
@@ -192,7 +192,7 @@ const receivedConnectionRequest = wrapAsync(async (req, res) => {
   res.json({
     message: "Successfully retrieved connection requests.",
     success: true,
-    data: { receivedConnections },
+    data: receivedConnections,
   });
 });
 
@@ -219,7 +219,7 @@ const sentConnectionRequest = wrapAsync(async (req, res) => {
   res.json({
     message: "Successfully retrieved sent connections.",
     success: true,
-    data: { sentConnections },
+    data: sentConnections,
   });
 });
 

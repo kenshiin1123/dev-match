@@ -126,9 +126,40 @@ const patchJob = wrapAsync(async (req, res) => {
   });
 });
 
-const getListOfJobs = wrapAsync(async (req, res) => {});
+const getListOfJobs = wrapAsync(async (req, res) => {
+  const jobsQuery = await dbClient.query("SELECT * FROM jobposts");
+  const jobs = jobsQuery.rows;
+  res.json({
+    message: "Successfully retrieved jobs",
+    success: true,
+    data: jobs,
+  });
+});
 
-const getJob = wrapAsync(async (req, res) => {});
+const getJob = wrapAsync(async (req, res) => {
+  const jobpost_id = req.params.jobpost_id;
+
+  if (!jobpost_id) {
+    throw AppError("Job not found", 404);
+  }
+
+  const jobQuery = await dbClient.query(
+    "SELECT * FROM jobposts WHERE jobpost_id=$1;",
+    [jobpost_id]
+  );
+
+  if (jobQuery.rowCount < 1) {
+    throw AppError("Job not found", 404);
+  }
+
+  const job = jobQuery.rows[0];
+
+  res.json({
+    message: "Successfully retrieved job data",
+    success: true,
+    data: job,
+  });
+});
 
 const applyJob = wrapAsync(async (req, res) => {});
 
