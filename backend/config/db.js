@@ -1,28 +1,26 @@
-import { Client } from "pg";
-import "dotenv/config";
+import { Pool } from "pg";
 
-const {
-  SQL_HOST: host,
-  SQL_USER: user,
-  SQL_PORT: port,
-  SQL_PASSWORD: password,
-  SQL_DATABASE: database,
-} = process.env;
-
-const dbClient = new Client({
-  host,
-  user,
-  port,
-  password,
-  database,
+const pool = new Pool({
+  connectionString: process.env.DATABASE_URL,
+  ssl: {
+    rejectUnauthorized: false, // Required for some environments, adjust based on your setup
+  },
 });
 
 const connectDB = () => {
-  dbClient
-    .connect()
-    .then(() => console.log("PostgreSQL Connected!"))
-    .catch((err) => console.error("Connection error:", err));
+  pool
+    .query(
+      "SELECT table_name FROM information_schema.tables WHERE table_schema = 'public';"
+    )
+    .then((result) => {
+      console.log(
+        `Connected to NEON PostgreSQL with a total of ${result.rows.length} tables!`
+      );
+    })
+    .catch((err) => {
+      console.err(err);
+    });
 };
 
-export { dbClient };
+export { pool as dbClient };
 export default connectDB;
