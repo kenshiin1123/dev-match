@@ -1,7 +1,8 @@
 import { dbClient } from "../../config/db.js";
 import AppError from "../../utils/AppError.js";
 import wrapAsync from "../../utils/wrapAsync.js";
-import { isEmployerFn, verifyReqBody } from "../../utils/jobpost.util.js";
+import { verifyReqBody } from "../../utils/jobpost.util.js";
+import * as z from "zod";
 
 const postJob = wrapAsync(async (req, res) => {
   // Validate extracted job post information from request body
@@ -13,8 +14,10 @@ const postJob = wrapAsync(async (req, res) => {
   const user_id = req.token.user_id;
 
   // This verifies if the user's role is employer and throw an error if not
-  const isEmployer = await isEmployerFn(user_id);
-  if (!isEmployer.success) throw isEmployer.error;
+  const role = req.token.role;
+  if (role !== "employer") {
+    throw new AppError("Cannot post a job", 401);
+  }
 
   // Extract validated data
   const {
@@ -91,9 +94,11 @@ const patchJob = wrapAsync(async (req, res) => {
 
   // Get user_id from token
   const user_id = req.token.user_id;
-  // Verify if user is an employer
-  const isEmployer = await isEmployerFn(user_id);
-  if (!isEmployer.success) throw isEmployer.error;
+
+  // This verifies if the user's role is employer and throw an error if not
+  const role = req.token.role;
+  if (role !== "employer") throw new AppError("Cannot post a job", 401);
+
   // Initiate SQL update
   console.log(validInfo);
   const result = await dbClient.query(
@@ -140,7 +145,7 @@ const getJob = wrapAsync(async (req, res) => {
   const jobpost_id = req.params.jobpost_id;
 
   if (!jobpost_id) {
-    throw AppError("Job not found", 404);
+    throw new AppError("Job not found", 404);
   }
 
   const jobQuery = await dbClient.query(
@@ -149,7 +154,7 @@ const getJob = wrapAsync(async (req, res) => {
   );
 
   if (jobQuery.rowCount < 1) {
-    throw AppError("Job not found", 404);
+    throw new AppError("Job not found", 404);
   }
 
   const job = jobQuery.rows[0];
@@ -161,6 +166,80 @@ const getJob = wrapAsync(async (req, res) => {
   });
 });
 
-const applyJob = wrapAsync(async (req, res) => {});
+const applyJob = wrapAsync(async (req, res) => {
+  const MessageSchema = z
+    .string()
+    .trim()
+    .min(1, "Developer message is required")
+    .max(500, "Message must be less than 500 characters");
+
+  const user_id = req.token.user_id;
+  const message = req.body.message;
+
+  // Verify if message is available and validate it
+  const validatedMessage = MessageSchema.safeParse(message);
+  if (!validatedMessage.success) {
+    const errors = isValid.error._zod.def.map((err) => {
+      return `${err.message}`;
+    });
+    throw new AppError("Error while validating", 400, { errors });
+  }
+
+  // Verify if user exist
+  const existingUser = await dbClient.query(
+    "SELECT user_id FROM users WHERE user_id = $1",
+    [user_id]
+  );
+
+  if (existingUser.rowCount < 1) {
+    throw new AppError("User not found", 404);
+  }
+
+  // This verifies if the user's role is employer and throw an error if not
+  const role = req.token.role;
+  if (role !== "developer") {
+    throw new AppError("Cannot post a job", 401);
+  }
+
+  // Verify if jobpost exist
+  const jobpost_id = req.params.jobpost_id;
+
+  if (!jobpost_id) {
+    throw new AppError("Job Post not found", 404);
+  }
+
+  const existingJobPost = await dbClient.query(
+    "SELECT * FROM jobposts WHERE jobpost_id = $1",
+    [jobpost_id]
+  );
+
+  if (existingJobPost.rowCount < 1) {
+    throw new AppError("Job Post not found", 404);
+  }
+
+  // Create new application
+
+  await dbClient
+    .query(
+      `
+    INSERT INTO applications
+      (applicant_id, jobpost_id, message, status, note_from_employer)
+    VALUES ($1, $2, $3, $4, $5)
+    `,
+      [user_id, jobpost_id, message, "applied", ""]
+    )
+    .catch((err) => {
+      if (err.code == 23505) {
+        throw new AppError("Already applied to this job", 409);
+      } else {
+        throw new AppError("Failed to apply to this job", 400);
+      }
+    });
+
+  res.json({
+    message: "Successfully applied to a job",
+    success: true,
+  });
+});
 
 export { postJob, patchJob, getListOfJobs, getJob, applyJob };

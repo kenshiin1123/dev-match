@@ -23,6 +23,6 @@ router.post("/", postJob);
 router.patch("/:jobpost_id", patchJob);
 
 // This is for developers
-router.patch("/:jobpost_id/apply", applyJob);
+router.post("/:jobpost_id/apply", applyJob);
 
 export default router;

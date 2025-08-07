@@ -1,20 +1,5 @@
 import jobPostValidator, { updateJobSchema } from "../schemas/job.schema.js";
-
-const isEmployerFn = async (user_id) => {
-  const result = {
-    success: true,
-    error: new AppError("Failed to post a job", 401),
-  };
-  // Get the user information in database
-  const user = await dbClient.query("SELECT role FROM users WHERE user_id=$1", [
-    user_id,
-  ]);
-  // Verify if user is an employer
-  if (user.rows[0].role !== "employer") {
-    result.success = false;
-  }
-  return result;
-};
+import AppError from "./AppError.js";
 
 const verifyReqBody = (method, req) => {
   const result = { success: true, data: {}, errors: new AppError() };
@@ -39,4 +24,4 @@ const verifyReqBody = (method, req) => {
   return result;
 };
 
-export { isEmployerFn, verifyReqBody };
+export { verifyReqBody };

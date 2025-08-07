@@ -32,6 +32,13 @@ app.get("/", (req, res) => {
 
 app.use("/api/v1", indexRouteV1);
 
+app.use((req, res, next) => {
+  res.status(404).json({
+    message: "Resource not found. Please check the URL and try again.",
+    success: false,
+  });
+});
+
 // Error Handler Middleware
 app.use((err, req, res, next) => {
   const { message = "Internal Server Error", status = 500, stack, data } = err;
