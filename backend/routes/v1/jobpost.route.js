@@ -20,6 +20,7 @@ router.use(authMiddleware);
 
 // This is responsible for posting a job. the employers can only do this
 router.post("/", postJob);
+
 router.patch("/:jobpost_id", patchJob);
 
 // This is for developers

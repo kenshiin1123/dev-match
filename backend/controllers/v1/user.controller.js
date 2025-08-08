@@ -2,6 +2,7 @@ import AppError from "../../utils/AppError.js";
 import { patchUserValidator } from "../../schemas/user.schema.js";
 import { dbClient } from "../../config/db.js";
 import wrapAsync from "../../utils/wrapAsync.js";
+import { userExist } from "../../utils/user.util.js";
 
 const getUser = wrapAsync(async (req, res) => {
   const user_id = req.params.user_id;
@@ -67,6 +68,32 @@ const getUserApplications = wrapAsync(async (req, res) => {
   });
 });
 
+const getEmployerPostedJobs = wrapAsync(async (req, res) => {
+  const user_id = req.token.user_id;
+
+  // Verify if user is available
+  const existingUser = await userExist(user_id);
+  if (!existingUser)
+    throw new AppError("Jobpost retrieval failure: user not found.", 404);
+
+  // Verify if role is employer
+  const role = req.token.role;
+  if (role !== "employer")
+    throw new AppError("Failed to retrieve jobposts", 401);
+
+  const jobpostsQuery = await dbClient
+    .query("SELECT * FROM jobposts WHERE posted_by = $1", [user_id])
+    .catch((err) => {
+      throw new AppError(`Failed to retrieve jobposts`, 500, err);
+    });
+
+  res.json({
+    message: "Successfully retrieved jobposts",
+    success: true,
+    data: jobpostsQuery.rows,
+  });
+});
+
 const patchUser = wrapAsync(async (req, res) => {
   const isValid = patchUserValidator.safeParse(req.body);
 
@@ -83,14 +110,9 @@ const patchUser = wrapAsync(async (req, res) => {
   // Get user Id from token
   const user_id = req.token.user_id;
 
-  // Find user
-  const user = await dbClient.query("SELECT name FROM users WHERE user_id=$1", [
-    user_id,
-  ]);
-
-  if (user.rows.length < 1 || user.rowCount < 1) {
-    throw new AppError("Update failure: user not found.", 404);
-  }
+  // Verify if user exist
+  const existingUser = await userExist(user_id);
+  if (!existingUser) throw new AppError("Update failure: user not found.", 404);
 
   const queryResult = await dbClient.query(
     "UPDATE users SET name=$1, location=$2, skills=$3, company=$4 WHERE user_id=$5;",
@@ -109,17 +131,20 @@ const deleteUser = wrapAsync(async (req, res) => {
     throw new AppError("User ID is required in deleting a user.", 422);
 
   // Find user
-  const user = await dbClient.query("SELECT name FROM users WHERE user_id=$1", [
-    user_id,
-  ]);
-
-  if (user.rows.length < 1 || user.rowCount < 1) {
+  const existingUser = await userExist(user_id);
+  if (!existingUser)
     throw new AppError("Deletion failure: user not found.", 404);
-  }
 
   await dbClient.query("DELETE FROM users WHERE user_id=$1", [user_id]);
 
   res.json({ message: "Successfully deleted user", success: true });
 });
 
-export { patchUser, getUser, getUserApplications, getUsers, deleteUser };
+export {
+  patchUser,
+  getUser,
+  getEmployerPostedJobs,
+  getUserApplications,
+  getUsers,
+  deleteUser,
+};

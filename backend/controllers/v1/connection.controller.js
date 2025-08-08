@@ -69,6 +69,23 @@ const establishConnection = wrapAsync(async (req, res) => {
     status,
   } = validatedData.data;
 
+  // Prevent users from connecting to themselves
+  if (sender_id === receiver_id)
+    throw new AppError("You cannot establish a connection with yourself.", 409);
+
+  // Prevents connecting to connected users
+  const existingConnection = await dbClient.query(
+    "SELECT * FROM user_connections WHERE sender_id = $1 AND receiver_id = $2",
+    [sender_id, receiver_id]
+  );
+
+  if (existingConnection.rowCount > 0) {
+    throw new AppError(
+      "A connection request between these users already exists.",
+      409
+    );
+  }
+
   // Verify if sender and receiver ever exist in database
   const existingUsersDBQuery = await dbClient.query(
     "SELECT user_id FROM users WHERE user_id = $1 OR user_id = $2",

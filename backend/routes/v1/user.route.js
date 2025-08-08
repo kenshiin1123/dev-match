@@ -6,13 +6,17 @@ import authMiddleware from "../../middlewares/authMiddleware.js";
 import {
   patchUser,
   getUser,
+  getEmployerPostedJobs,
   getUserApplications,
   getUsers,
   deleteUser,
 } from "../../controllers/v1/user.controller.js";
 
-// Get specific user applications
+// Get user applications
 router.get("/applications", authMiddleware, getUserApplications);
+
+// Employer role gets its posted jobs
+router.get("/jobs", authMiddleware, getEmployerPostedJobs);
 
 // Get specific user
 router.get("/:user_id", getUser);
