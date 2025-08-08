@@ -3,6 +3,7 @@ import { patchUserValidator } from "../../schemas/user.schema.js";
 import { dbClient } from "../../config/db.js";
 import wrapAsync from "../../utils/wrapAsync.js";
 import { userExist } from "../../utils/user.util.js";
+import * as z from "zod";
 
 const getUser = wrapAsync(async (req, res) => {
   const user_id = req.params.user_id;
@@ -94,6 +95,62 @@ const getEmployerPostedJobs = wrapAsync(async (req, res) => {
   });
 });
 
+const employerApplicationResponse = wrapAsync(async (req, res) => {
+  const noteSchema = z.string("Note from employer is required").min(1);
+  const statusSchema = ["shortlisted", "interview", "rejected"];
+
+  const employer_id = req.token.user_id;
+  const application_id = req.params.application_id;
+  const validatedNote = noteSchema.safeParse(req.body.note_from_employer);
+  const status = req.body.status;
+
+  if (!statusSchema.includes(status)) {
+    throw new AppError("Invalid status value", 400);
+  }
+
+  if (!validatedNote.success) throw new AppError("Failed to validate note");
+
+  const note_from_employer = validatedNote.data;
+
+  // verify if employer exists
+  const existingEmployer = await userExist(employer_id);
+  if (!existingEmployer)
+    throw new AppError(
+      "Could not respond to an application due to missing user",
+      404
+    );
+
+  // verify if application exist
+  const existingApplication = await dbClient.query(
+    "SELECT * FROM applications WHERE application_id = $1",
+    [application_id]
+  );
+
+  if (existingApplication.rows.length < 1)
+    throw new AppError(
+      "Could not respond to an application due missing application",
+      404
+    );
+
+  if (existingApplication.rows[0].status !== "applied") {
+    throw new AppError("Already responded to this application", 409);
+  }
+
+  await dbClient
+    .query(
+      "UPDATE applications SET status = $1, note_from_employer = $2 WHERE application_id = $3",
+      [status, note_from_employer, application_id]
+    )
+    .catch((err) => {
+      throw new AppError("Failed to save application response", 500, err);
+    });
+
+  res.json({
+    message: "Successfully responded to an application",
+    success: true,
+  });
+});
+
 const patchUser = wrapAsync(async (req, res) => {
   const isValid = patchUserValidator.safeParse(req.body);
 
@@ -145,6 +202,7 @@ export {
   getUser,
   getEmployerPostedJobs,
   getUserApplications,
+  employerApplicationResponse,
   getUsers,
   deleteUser,
 };

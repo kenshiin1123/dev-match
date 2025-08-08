@@ -8,12 +8,17 @@ import {
   getUser,
   getEmployerPostedJobs,
   getUserApplications,
+  employerApplicationResponse,
   getUsers,
   deleteUser,
 } from "../../controllers/v1/user.controller.js";
 
 // Get user applications
 router.get("/applications", authMiddleware, getUserApplications);
+
+// prettier-ignore
+// This is used for employers to respond to an application
+router.patch( "/applications/:application_id", authMiddleware, employerApplicationResponse );
 
 // Employer role gets its posted jobs
 router.get("/jobs", authMiddleware, getEmployerPostedJobs);

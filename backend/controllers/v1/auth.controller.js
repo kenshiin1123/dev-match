@@ -3,13 +3,7 @@ import { hashPassword, verifyPassword } from "../../utils/passwordHandler.js";
 import { dbClient } from "../../config/db.js";
 import AppError from "../../utils/AppError.js";
 import { genJWT } from "../../utils/token.js";
-
-// An error handler for asynchronous operations.
-const wrapAsync = (fn) => {
-  return function (req, res, next) {
-    fn(req, res, next).catch((err) => next(err));
-  };
-};
+import wrapAsync from "../../utils/wrapAsync.js";
 
 const register = wrapAsync(async (req, res) => {
   // Validate request body
