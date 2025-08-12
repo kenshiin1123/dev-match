@@ -16,13 +16,17 @@ export function SiteHeader() {
         <h1 className="text-base font-medium" id="header-text">
           Home
         </h1>
-        <div className="ml-auto flex items-center gap-2">
+        <div className="ml-auto flex items-center gap-1">
           <ThemeSelector />
           <Link to={"/login"}>
-            <Button variant={"outline"}>Login</Button>
+            <Button variant={"outline"} className="max-sm:px-3">
+              Login
+            </Button>
           </Link>
           <Link to={"/signup"}>
-            <Button variant={"outline"}>Signup</Button>
+            <Button variant={"outline"} className="max-sm:px-3">
+              Signup
+            </Button>
           </Link>
         </div>
       </div>

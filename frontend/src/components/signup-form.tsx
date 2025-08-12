@@ -12,7 +12,7 @@ import {
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { useRef, useState, type ChangeEvent, type FormEvent } from "react";
+import { useRef, useState, type ChangeEvent } from "react";
 import { toast } from "sonner";
 import { Info } from "lucide-react";
 import { CountrySelect, CitySelect } from "@/components/location-select";
@@ -80,9 +80,9 @@ type ContentType = {
 export function SignupForm() {
   const [inputValues, setInputValues] = useState<InputsType>(initialInputValue);
 
-  const handleFormSubmit = (event: FormEvent<HTMLFormElement>) => {
-    event.preventDefault();
-  };
+  // const handleFormSubmit = (event: FormEvent<HTMLFormElement>) => {
+  //   event.preventDefault();
+  // };
 
   const handleInputValuesChange = (
     event: React.ChangeEvent<HTMLInputElement>
