@@ -1,0 +1,722 @@
+[
+  {
+    "city": "Asunción",
+    "city_ascii": "Asuncion",
+    "admin_name": "Asunción",
+    "lat": "-25.2945",
+    "lng": "-57.6435",
+    "id": "1600057911"
+  },
+  {
+    "city": "Ciudad del Este",
+    "city_ascii": "Ciudad del Este",
+    "admin_name": "Alto Paraná",
+    "lat": "-25.5167",
+    "lng": "-54.6161",
+    "id": "1600265252"
+  },
+  {
+    "city": "San Lorenzo",
+    "city_ascii": "San Lorenzo",
+    "admin_name": "Central",
+    "lat": "-25.3400",
+    "lng": "-57.5200",
+    "id": "1600667303"
+  },
+  {
+    "city": "Luque",
+    "city_ascii": "Luque",
+    "admin_name": "Central",
+    "lat": "-25.2672",
+    "lng": "-57.4853",
+    "id": "1600773205"
+  },
+  {
+    "city": "Capiatá",
+    "city_ascii": "Capiata",
+    "admin_name": "Central",
+    "lat": "-25.3538",
+    "lng": "-57.4426",
+    "id": "1600122166"
+  },
+  {
+    "city": "Fernando de la Mora",
+    "city_ascii": "Fernando de la Mora",
+    "admin_name": "Central",
+    "lat": "-25.3281",
+    "lng": "-57.5509",
+    "id": "1600276744"
+  },
+  {
+    "city": "Ñemby",
+    "city_ascii": "Nemby",
+    "admin_name": "Central",
+    "lat": "-25.3940",
+    "lng": "-57.5398",
+    "id": "1600221007"
+  },
+  {
+    "city": "Pedro Juan Caballero",
+    "city_ascii": "Pedro Juan Caballero",
+    "admin_name": "Amambay",
+    "lat": "-22.5446",
+    "lng": "-55.7600",
+    "id": "1600089732"
+  },
+  {
+    "city": "Presidente Franco",
+    "city_ascii": "Presidente Franco",
+    "admin_name": "Alto Paraná",
+    "lat": "-25.5638",
+    "lng": "-54.6110",
+    "id": "1600286603"
+  },
+  {
+    "city": "Itauguá",
+    "city_ascii": "Itaugua",
+    "admin_name": "Central",
+    "lat": "-25.3926",
+    "lng": "-57.3542",
+    "id": "1600707082"
+  },
+  {
+    "city": "Mariano Roque Alonso",
+    "city_ascii": "Mariano Roque Alonso",
+    "admin_name": "Central",
+    "lat": "-25.2079",
+    "lng": "-57.5320",
+    "id": "1600527067"
+  },
+  {
+    "city": "Limpio",
+    "city_ascii": "Limpio",
+    "admin_name": "Central",
+    "lat": "-25.1673",
+    "lng": "-57.4695",
+    "id": "1600926242"
+  },
+  {
+    "city": "Itá",
+    "city_ascii": "Ita",
+    "admin_name": "Central",
+    "lat": "-25.5096",
+    "lng": "-57.3600",
+    "id": "1600969782"
+  },
+  {
+    "city": "Villa Elisa",
+    "city_ascii": "Villa Elisa",
+    "admin_name": "Central",
+    "lat": "-25.3734",
+    "lng": "-57.5841",
+    "id": "1600500180"
+  },
+  {
+    "city": "San Antonio",
+    "city_ascii": "San Antonio",
+    "admin_name": "Central",
+    "lat": "-25.4138",
+    "lng": "-57.5659",
+    "id": "1600088413"
+  },
+  {
+    "city": "Encarnación",
+    "city_ascii": "Encarnacion",
+    "admin_name": "Itapúa",
+    "lat": "-27.3472",
+    "lng": "-55.8739",
+    "id": "1600377819"
+  },
+  {
+    "city": "Areguá",
+    "city_ascii": "Aregua",
+    "admin_name": "Central",
+    "lat": "-25.3125",
+    "lng": "-57.3847",
+    "id": "1600141362"
+  },
+  {
+    "city": "Ayolas",
+    "city_ascii": "Ayolas",
+    "admin_name": "Misiones",
+    "lat": "-27.3842",
+    "lng": "-56.8395",
+    "id": "1600970538"
+  },
+  {
+    "city": "Villa Curuguaty",
+    "city_ascii": "Villa Curuguaty",
+    "admin_name": "Canindeyú",
+    "lat": "-24.4692",
+    "lng": "-55.6947",
+    "id": "1600752971"
+  },
+  {
+    "city": "Horqueta",
+    "city_ascii": "Horqueta",
+    "admin_name": "Concepción",
+    "lat": "-23.3396",
+    "lng": "-57.0500",
+    "id": "1600363376"
+  },
+  {
+    "city": "Villa Hayes",
+    "city_ascii": "Villa Hayes",
+    "admin_name": "Presidente Hayes",
+    "lat": "-25.0900",
+    "lng": "-57.5300",
+    "id": "1600405064"
+  },
+  {
+    "city": "Caacupé",
+    "city_ascii": "Caacupe",
+    "admin_name": "Cordillera",
+    "lat": "-25.3870",
+    "lng": "-57.1400",
+    "id": "1600095784"
+  },
+  {
+    "city": "Villarrica",
+    "city_ascii": "Villarrica",
+    "admin_name": "Guairá",
+    "lat": "-25.7500",
+    "lng": "-56.4333",
+    "id": "1600446518"
+  },
+  {
+    "city": "San Estanislao",
+    "city_ascii": "San Estanislao",
+    "admin_name": "San Pedro",
+    "lat": "-24.6657",
+    "lng": "-56.4467",
+    "id": "1600701903"
+  },
+  {
+    "city": "Coronel Oviedo",
+    "city_ascii": "Coronel Oviedo",
+    "admin_name": "Caaguazú",
+    "lat": "-25.4500",
+    "lng": "-56.4400",
+    "id": "1600075989"
+  },
+  {
+    "city": "San Ignacio",
+    "city_ascii": "San Ignacio",
+    "admin_name": "Misiones",
+    "lat": "-26.8876",
+    "lng": "-57.0230",
+    "id": "1600346775"
+  },
+  {
+    "city": "Concepción",
+    "city_ascii": "Concepcion",
+    "admin_name": "Concepción",
+    "lat": "-23.4064",
+    "lng": "-57.4344",
+    "id": "1600557615"
+  },
+  {
+    "city": "Salto del Guairá",
+    "city_ascii": "Salto del Guaira",
+    "admin_name": "Canindeyú",
+    "lat": "-24.0625",
+    "lng": "-54.3069",
+    "id": "1600283545"
+  },
+  {
+    "city": "Villeta",
+    "city_ascii": "Villeta",
+    "admin_name": "Central",
+    "lat": "-25.5123",
+    "lng": "-57.5647",
+    "id": "1600551877"
+  },
+  {
+    "city": "San Pedro de Ycuamandiyú",
+    "city_ascii": "San Pedro de Ycuamandiyu",
+    "admin_name": "San Pedro",
+    "lat": "-24.0900",
+    "lng": "-57.0800",
+    "id": "1600189153"
+  },
+  {
+    "city": "Ypané",
+    "city_ascii": "Ypane",
+    "admin_name": "Central",
+    "lat": "-25.4561",
+    "lng": "-57.5069",
+    "id": "1600647389"
+  },
+  {
+    "city": "Yhú",
+    "city_ascii": "Yhu",
+    "admin_name": "Caaguazú",
+    "lat": "-25.0578",
+    "lng": "-55.9227",
+    "id": "1600450977"
+  },
+  {
+    "city": "Guarambaré",
+    "city_ascii": "Guarambare",
+    "admin_name": "Central",
+    "lat": "-25.4910",
+    "lng": "-57.4557",
+    "id": "1600825126"
+  },
+  {
+    "city": "Carapeguá",
+    "city_ascii": "Carapegua",
+    "admin_name": "Paraguarí",
+    "lat": "-25.7634",
+    "lng": "-57.2468",
+    "id": "1600844405"
+  },
+  {
+    "city": "Pilar",
+    "city_ascii": "Pilar",
+    "admin_name": "Ñeembucú",
+    "lat": "-26.8695",
+    "lng": "-58.3000",
+    "id": "1600377954"
+  },
+  {
+    "city": "Yaguarón",
+    "city_ascii": "Yaguaron",
+    "admin_name": "Paraguarí",
+    "lat": "-25.5622",
+    "lng": "-57.2866",
+    "id": "1600386044"
+  },
+  {
+    "city": "Yby Yaú",
+    "city_ascii": "Yby Yau",
+    "admin_name": "Concepción",
+    "lat": "-22.9661",
+    "lng": "-56.5407",
+    "id": "1600498095"
+  },
+  {
+    "city": "Ypacaraí",
+    "city_ascii": "Ypacarai",
+    "admin_name": "Central",
+    "lat": "-25.4100",
+    "lng": "-57.2800",
+    "id": "1600844536"
+  },
+  {
+    "city": "Teniente Primero Manuel Irala Fernández",
+    "city_ascii": "Teniente Primero Manuel Irala Fernandez",
+    "admin_name": "Presidente Hayes",
+    "lat": "-22.8174",
+    "lng": "-59.5820",
+    "id": "1600002648"
+  },
+  {
+    "city": "San Juan Nepomuceno",
+    "city_ascii": "San Juan Nepomuceno",
+    "admin_name": "Caazapá",
+    "lat": "-26.1117",
+    "lng": "-55.9353",
+    "id": "1600809234"
+  },
+  {
+    "city": "Caazapá",
+    "city_ascii": "Caazapa",
+    "admin_name": "Caazapá",
+    "lat": "-26.2000",
+    "lng": "-56.3800",
+    "id": "1600103814"
+  },
+  {
+    "city": "Tobatí",
+    "city_ascii": "Tobati",
+    "admin_name": "Cordillera",
+    "lat": "-25.2611",
+    "lng": "-57.0833",
+    "id": "1600471923"
+  },
+  {
+    "city": "Paraguarí",
+    "city_ascii": "Paraguari",
+    "admin_name": "Paraguarí",
+    "lat": "-25.6200",
+    "lng": "-57.1600",
+    "id": "1600581132"
+  },
+  {
+    "city": "Arroyito",
+    "city_ascii": "Arroyito",
+    "admin_name": "Concepción",
+    "lat": "-23.1751",
+    "lng": "-56.7781",
+    "id": "1600329256"
+  },
+  {
+    "city": "San Bernardino",
+    "city_ascii": "San Bernardino",
+    "admin_name": "Cordillera",
+    "lat": "-25.3044",
+    "lng": "-57.2938",
+    "id": "1600530109"
+  },
+  {
+    "city": "Santa Rosa",
+    "city_ascii": "Santa Rosa",
+    "admin_name": "Misiones",
+    "lat": "-26.8873",
+    "lng": "-56.8490",
+    "id": "1600899720"
+  },
+  {
+    "city": "Loreto",
+    "city_ascii": "Loreto",
+    "admin_name": "Concepción",
+    "lat": "-23.2747",
+    "lng": "-57.3269",
+    "id": "1600806400"
+  },
+  {
+    "city": "Filadelfia",
+    "city_ascii": "Filadelfia",
+    "admin_name": "Boquerón",
+    "lat": "-22.3400",
+    "lng": "-60.0300",
+    "id": "1600948743"
+  },
+  {
+    "city": "Tres de Mayo",
+    "city_ascii": "Tres de Mayo",
+    "admin_name": "Caazapá",
+    "lat": "-26.4813",
+    "lng": "-56.0959",
+    "id": "1600000015"
+  },
+  {
+    "city": "Estancia Pozo Colorado",
+    "city_ascii": "Estancia Pozo Colorado",
+    "admin_name": "Presidente Hayes",
+    "lat": "-23.4333",
+    "lng": "-58.9667",
+    "id": "1600995173"
+  },
+  {
+    "city": "Pirayú",
+    "city_ascii": "Pirayu",
+    "admin_name": "Paraguarí",
+    "lat": "-25.4842",
+    "lng": "-57.2361",
+    "id": "1600633221"
+  },
+  {
+    "city": "San Juan Bautista",
+    "city_ascii": "San Juan Bautista",
+    "admin_name": "Misiones",
+    "lat": "-26.6800",
+    "lng": "-57.1500",
+    "id": "1600185723"
+  },
+  {
+    "city": "Loma Plata",
+    "city_ascii": "Loma Plata",
+    "admin_name": "Boquerón",
+    "lat": "-22.3820",
+    "lng": "-59.8325",
+    "id": "1600342774"
+  },
+  {
+    "city": "Acahay",
+    "city_ascii": "Acahay",
+    "admin_name": "Paraguarí",
+    "lat": "-25.9141",
+    "lng": "-57.1133",
+    "id": "1600352357"
+  },
+  {
+    "city": "Benjamín Aceval",
+    "city_ascii": "Benjamin Aceval",
+    "admin_name": "Presidente Hayes",
+    "lat": "-24.9974",
+    "lng": "-57.5524",
+    "id": "1600309049"
+  },
+  {
+    "city": "Quiindy",
+    "city_ascii": "Quiindy",
+    "admin_name": "Paraguarí",
+    "lat": "-25.9725",
+    "lng": "-57.2382",
+    "id": "1600822993"
+  },
+  {
+    "city": "Atyrá",
+    "city_ascii": "Atyra",
+    "admin_name": "Cordillera",
+    "lat": "-25.2794",
+    "lng": "-57.1729",
+    "id": "1600262669"
+  },
+  {
+    "city": "Mbuyapey",
+    "city_ascii": "Mbuyapey",
+    "admin_name": "Paraguarí",
+    "lat": "-26.2210",
+    "lng": "-56.7565",
+    "id": "1600084808"
+  },
+  {
+    "city": "Doctor Juan Eulogio Estigarribia",
+    "city_ascii": "Doctor Juan Eulogio Estigarribia",
+    "admin_name": "Caaguazú",
+    "lat": "-25.3718",
+    "lng": "-55.7046",
+    "id": "1600438790"
+  },
+  {
+    "city": "Coronel Bogado",
+    "city_ascii": "Coronel Bogado",
+    "admin_name": "Itapúa",
+    "lat": "-27.1700",
+    "lng": "-56.2500",
+    "id": "1600512741"
+  },
+  {
+    "city": "Altos",
+    "city_ascii": "Altos",
+    "admin_name": "Cordillera",
+    "lat": "-25.2621",
+    "lng": "-57.2494",
+    "id": "1600982607"
+  },
+  {
+    "city": "Emboscada",
+    "city_ascii": "Emboscada",
+    "admin_name": "Cordillera",
+    "lat": "-25.1241",
+    "lng": "-57.3481",
+    "id": "1600056650"
+  },
+  {
+    "city": "Caraguatay",
+    "city_ascii": "Caraguatay",
+    "admin_name": "Cordillera",
+    "lat": "-25.2384",
+    "lng": "-56.8269",
+    "id": "1600813357"
+  },
+  {
+    "city": "San Lázaro",
+    "city_ascii": "San Lazaro",
+    "admin_name": "Concepción",
+    "lat": "-22.1074",
+    "lng": "-57.9622",
+    "id": "1600340714"
+  },
+  {
+    "city": "Belén",
+    "city_ascii": "Belen",
+    "admin_name": "Concepción",
+    "lat": "-23.4695",
+    "lng": "-57.2400",
+    "id": "1600551990"
+  },
+  {
+    "city": "Capitán Bado",
+    "city_ascii": "Capitan Bado",
+    "admin_name": "Amambay",
+    "lat": "-23.2673",
+    "lng": "-55.5388",
+    "id": "1600353180"
+  },
+  {
+    "city": "Itacurubí de la Cordillera",
+    "city_ascii": "Itacurubi de la Cordillera",
+    "admin_name": "Cordillera",
+    "lat": "-25.4616",
+    "lng": "-56.8533",
+    "id": "1600603490"
+  },
+  {
+    "city": "Lima",
+    "city_ascii": "Lima",
+    "admin_name": "San Pedro",
+    "lat": "-23.8850",
+    "lng": "-56.4789",
+    "id": "1600187731"
+  },
+  {
+    "city": "Repatriación",
+    "city_ascii": "Repatriacion",
+    "admin_name": "Caaguazú",
+    "lat": "-25.5352",
+    "lng": "-55.9924",
+    "id": "1600644492"
+  },
+  {
+    "city": "Alberdi",
+    "city_ascii": "Alberdi",
+    "admin_name": "Ñeembucú",
+    "lat": "-26.1873",
+    "lng": "-58.1426",
+    "id": "1600904463"
+  },
+  {
+    "city": "Capitán Mauricio José Troche",
+    "city_ascii": "Capitan Mauricio Jose Troche",
+    "admin_name": "Guairá",
+    "lat": "-25.6189",
+    "lng": "-56.2769",
+    "id": "1600161114"
+  },
+  {
+    "city": "Borja",
+    "city_ascii": "Borja",
+    "admin_name": "Guairá",
+    "lat": "-25.9514",
+    "lng": "-56.4961",
+    "id": "1600620882"
+  },
+  {
+    "city": "Veinticinco de Diciembre",
+    "city_ascii": "Veinticinco de Diciembre",
+    "admin_name": "San Pedro",
+    "lat": "-24.7000",
+    "lng": "-56.5500",
+    "id": "1600631538"
+  },
+  {
+    "city": "Francisco Caballero Álvarez",
+    "city_ascii": "Francisco Caballero Alvarez",
+    "admin_name": "Canindeyú",
+    "lat": "-24.1533",
+    "lng": "-54.6672",
+    "id": "1600193449"
+  },
+  {
+    "city": "Katueté",
+    "city_ascii": "Katuete",
+    "admin_name": "Canindeyú",
+    "lat": "-24.2483",
+    "lng": "-54.7596",
+    "id": "1600304725"
+  },
+  {
+    "city": "Bella Vista",
+    "city_ascii": "Bella Vista",
+    "admin_name": "Amambay",
+    "lat": "-22.1296",
+    "lng": "-56.5200",
+    "id": "1600430147"
+  },
+  {
+    "city": "Hohenau",
+    "city_ascii": "Hohenau",
+    "admin_name": "Itapúa",
+    "lat": "-27.0796",
+    "lng": "-55.7500",
+    "id": "1600972500"
+  },
+  {
+    "city": "Villa del Rosario",
+    "city_ascii": "Villa del Rosario",
+    "admin_name": "San Pedro",
+    "lat": "-24.4196",
+    "lng": "-57.1000",
+    "id": "1600049206"
+  },
+  {
+    "city": "Puerto Casado",
+    "city_ascii": "Puerto Casado",
+    "admin_name": "Alto Paraguay",
+    "lat": "-22.2896",
+    "lng": "-57.9400",
+    "id": "1600731282"
+  },
+  {
+    "city": "Fuerte Olimpo",
+    "city_ascii": "Fuerte Olimpo",
+    "admin_name": "Alto Paraguay",
+    "lat": "-21.0696",
+    "lng": "-57.9000",
+    "id": "1600444658"
+  },
+  {
+    "city": "Villa Ygatimí",
+    "city_ascii": "Villa Ygatimi",
+    "admin_name": "Canindeyú",
+    "lat": "-24.0796",
+    "lng": "-55.5000",
+    "id": "1600339943"
+  },
+  {
+    "city": "Arroyos y Esteros",
+    "city_ascii": "Arroyos y Esteros",
+    "admin_name": "Cordillera",
+    "lat": "-25.0500",
+    "lng": "-57.0900",
+    "id": "1600827428"
+  },
+  {
+    "city": "Abaí",
+    "city_ascii": "Abai",
+    "admin_name": "Caazapá",
+    "lat": "-26.0296",
+    "lng": "-55.9400",
+    "id": "1600189926"
+  },
+  {
+    "city": "Mariscal José Félix Estigarribia",
+    "city_ascii": "Mariscal Jose Felix Estigarribia",
+    "admin_name": "Boquerón",
+    "lat": "-22.0300",
+    "lng": "-60.6100",
+    "id": "1600781023"
+  },
+  {
+    "city": "Ypejhú",
+    "city_ascii": "Ypejhu",
+    "admin_name": "Canindeyú",
+    "lat": "-23.9100",
+    "lng": "-55.4600",
+    "id": "1600827924"
+  },
+  {
+    "city": "Pozo Colorado",
+    "city_ascii": "Pozo Colorado",
+    "admin_name": "Presidente Hayes",
+    "lat": "-23.4300",
+    "lng": "-58.8600",
+    "id": "1600340660"
+  },
+  {
+    "city": "Capitán Pablo Lagerenza",
+    "city_ascii": "Capitan Pablo Lagerenza",
+    "admin_name": "Alto Paraguay",
+    "lat": "-19.9161",
+    "lng": "-60.7833",
+    "id": "1600527430"
+  },
+  {
+    "city": "Ñacunday",
+    "city_ascii": "Nacunday",
+    "admin_name": "Alto Paraná",
+    "lat": "-26.0200",
+    "lng": "-54.7699",
+    "id": "1600303466"
+  },
+  {
+    "city": "General Eugenio A. Garay",
+    "city_ascii": "General Eugenio A. Garay",
+    "admin_name": "Boquerón",
+    "lat": "-20.5200",
+    "lng": "-62.2100",
+    "id": "1600467772"
+  },
+  {
+    "city": "Puerto Pinasco",
+    "city_ascii": "Puerto Pinasco",
+    "admin_name": "Presidente Hayes",
+    "lat": "-22.6400",
+    "lng": "-57.7900",
+    "id": "1600670025"
+  }
+]

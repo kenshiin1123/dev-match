@@ -1,0 +1,1618 @@
+[
+  {
+    "city": "Zürich",
+    "city_ascii": "Zurich",
+    "admin_name": "Zürich",
+    "lat": "47.3744",
+    "lng": "8.5411",
+    "id": "1756539143"
+  },
+  {
+    "city": "Geneva",
+    "city_ascii": "Geneva",
+    "admin_name": "Genève",
+    "lat": "46.2017",
+    "lng": "6.1469",
+    "id": "1756810813"
+  },
+  {
+    "city": "Basel",
+    "city_ascii": "Basel",
+    "admin_name": "Basel-Stadt",
+    "lat": "47.5606",
+    "lng": "7.5906",
+    "id": "1756731313"
+  },
+  {
+    "city": "Lausanne",
+    "city_ascii": "Lausanne",
+    "admin_name": "Vaud",
+    "lat": "46.5200",
+    "lng": "6.6333",
+    "id": "1756055099"
+  },
+  {
+    "city": "Bern",
+    "city_ascii": "Bern",
+    "admin_name": "Bern",
+    "lat": "46.9480",
+    "lng": "7.4474",
+    "id": "1756374318"
+  },
+  {
+    "city": "Winterthur",
+    "city_ascii": "Winterthur",
+    "admin_name": "Zürich",
+    "lat": "47.4992",
+    "lng": "8.7267",
+    "id": "1756362130"
+  },
+  {
+    "city": "Lucerne",
+    "city_ascii": "Lucerne",
+    "admin_name": "Luzern",
+    "lat": "47.0523",
+    "lng": "8.3059",
+    "id": "1756544536"
+  },
+  {
+    "city": "Sankt Gallen",
+    "city_ascii": "Sankt Gallen",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.4233",
+    "lng": "9.3772",
+    "id": "1756343098"
+  },
+  {
+    "city": "Lugano",
+    "city_ascii": "Lugano",
+    "admin_name": "Ticino",
+    "lat": "46.0103",
+    "lng": "8.9625",
+    "id": "1756503816"
+  },
+  {
+    "city": "Biel/Bienne",
+    "city_ascii": "Biel/Bienne",
+    "admin_name": "Bern",
+    "lat": "47.1372",
+    "lng": "7.2472",
+    "id": "1756649723"
+  },
+  {
+    "city": "Bellinzona",
+    "city_ascii": "Bellinzona",
+    "admin_name": "Ticino",
+    "lat": "46.1956",
+    "lng": "9.0238",
+    "id": "1756130026"
+  },
+  {
+    "city": "Thun",
+    "city_ascii": "Thun",
+    "admin_name": "Bern",
+    "lat": "46.7590",
+    "lng": "7.6300",
+    "id": "1756018756"
+  },
+  {
+    "city": "Köniz",
+    "city_ascii": "Koniz",
+    "admin_name": "Bern",
+    "lat": "46.9250",
+    "lng": "7.4153",
+    "id": "1756022220"
+  },
+  {
+    "city": "La Chaux-de-Fonds",
+    "city_ascii": "La Chaux-de-Fonds",
+    "admin_name": "Neuchâtel",
+    "lat": "47.1028",
+    "lng": "6.8300",
+    "id": "1756289727"
+  },
+  {
+    "city": "Fribourg",
+    "city_ascii": "Fribourg",
+    "admin_name": "Fribourg",
+    "lat": "46.8000",
+    "lng": "7.1500",
+    "id": "1756145667"
+  },
+  {
+    "city": "Uster",
+    "city_ascii": "Uster",
+    "admin_name": "Zürich",
+    "lat": "47.3492",
+    "lng": "8.7192",
+    "id": "1756180752"
+  },
+  {
+    "city": "Schaffhausen",
+    "city_ascii": "Schaffhausen",
+    "admin_name": "Schaffhausen",
+    "lat": "47.6965",
+    "lng": "8.6339",
+    "id": "1756849233"
+  },
+  {
+    "city": "Chur",
+    "city_ascii": "Chur",
+    "admin_name": "Graubünden",
+    "lat": "46.8521",
+    "lng": "9.5297",
+    "id": "1756471395"
+  },
+  {
+    "city": "Vernier",
+    "city_ascii": "Vernier",
+    "admin_name": "Genève",
+    "lat": "46.2000",
+    "lng": "6.1000",
+    "id": "1756335917"
+  },
+  {
+    "city": "Sion",
+    "city_ascii": "Sion",
+    "admin_name": "Valais",
+    "lat": "46.2304",
+    "lng": "7.3661",
+    "id": "1756457392"
+  },
+  {
+    "city": "Neuchâtel",
+    "city_ascii": "Neuchatel",
+    "admin_name": "Neuchâtel",
+    "lat": "47.0000",
+    "lng": "6.9333",
+    "id": "1756726571"
+  },
+  {
+    "city": "Landecy",
+    "city_ascii": "Landecy",
+    "admin_name": "Genève",
+    "lat": "46.1834",
+    "lng": "6.1166",
+    "id": "1756407034"
+  },
+  {
+    "city": "Zug",
+    "city_ascii": "Zug",
+    "admin_name": "Zug",
+    "lat": "47.1681",
+    "lng": "8.5169",
+    "id": "1756703208"
+  },
+  {
+    "city": "Yverdon-les-Bains",
+    "city_ascii": "Yverdon-les-Bains",
+    "admin_name": "Vaud",
+    "lat": "46.7785",
+    "lng": "6.6408",
+    "id": "1756916105"
+  },
+  {
+    "city": "Emmen",
+    "city_ascii": "Emmen",
+    "admin_name": "Luzern",
+    "lat": "47.0772",
+    "lng": "8.3000",
+    "id": "1756487266"
+  },
+  {
+    "city": "Dübendorf",
+    "city_ascii": "Dubendorf",
+    "admin_name": "Zürich",
+    "lat": "47.3981",
+    "lng": "8.6194",
+    "id": "1756017706"
+  },
+  {
+    "city": "Kriens",
+    "city_ascii": "Kriens",
+    "admin_name": "Luzern",
+    "lat": "47.0344",
+    "lng": "8.2800",
+    "id": "1756901807"
+  },
+  {
+    "city": "Rapperswil-Jona",
+    "city_ascii": "Rapperswil-Jona",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.2286",
+    "lng": "8.8317",
+    "id": "1756219797"
+  },
+  {
+    "city": "Dietikon",
+    "city_ascii": "Dietikon",
+    "admin_name": "Aargau",
+    "lat": "47.4056",
+    "lng": "8.4039",
+    "id": "1756546516"
+  },
+  {
+    "city": "Montreux",
+    "city_ascii": "Montreux",
+    "admin_name": "Vaud",
+    "lat": "46.4350",
+    "lng": "6.9125",
+    "id": "1756041272"
+  },
+  {
+    "city": "Baar",
+    "city_ascii": "Baar",
+    "admin_name": "Zug",
+    "lat": "47.1956",
+    "lng": "8.5264",
+    "id": "1756858308"
+  },
+  {
+    "city": "Wetzikon",
+    "city_ascii": "Wetzikon",
+    "admin_name": "Zürich",
+    "lat": "47.3208",
+    "lng": "8.7931",
+    "id": "1756078126"
+  },
+  {
+    "city": "Meyrin",
+    "city_ascii": "Meyrin",
+    "admin_name": "Genève",
+    "lat": "46.2167",
+    "lng": "6.0667",
+    "id": "1756962454"
+  },
+  {
+    "city": "Wil",
+    "city_ascii": "Wil",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.4664",
+    "lng": "9.0497",
+    "id": "1756263917"
+  },
+  {
+    "city": "Horgen",
+    "city_ascii": "Horgen",
+    "admin_name": "Zürich",
+    "lat": "47.2608",
+    "lng": "8.5975",
+    "id": "1756066280"
+  },
+  {
+    "city": "Bulle",
+    "city_ascii": "Bulle",
+    "admin_name": "Fribourg",
+    "lat": "46.6167",
+    "lng": "7.0500",
+    "id": "1756347311"
+  },
+  {
+    "city": "Carouge",
+    "city_ascii": "Carouge",
+    "admin_name": "Genève",
+    "lat": "46.1833",
+    "lng": "6.1333",
+    "id": "1756165206"
+  },
+  {
+    "city": "Frauenfeld",
+    "city_ascii": "Frauenfeld",
+    "admin_name": "Thurgau",
+    "lat": "47.5580",
+    "lng": "8.8964",
+    "id": "1756399413"
+  },
+  {
+    "city": "Kreuzlingen",
+    "city_ascii": "Kreuzlingen",
+    "admin_name": "Thurgau",
+    "lat": "47.6458",
+    "lng": "9.1783",
+    "id": "1756463563"
+  },
+  {
+    "city": "Oberwingert",
+    "city_ascii": "Oberwingert",
+    "admin_name": "Zürich",
+    "lat": "47.5170",
+    "lng": "8.7690",
+    "id": "1756012377"
+  },
+  {
+    "city": "Wädenswil",
+    "city_ascii": "Wadenswil",
+    "admin_name": "Zürich",
+    "lat": "47.2303",
+    "lng": "8.6722",
+    "id": "1756533832"
+  },
+  {
+    "city": "Aarau",
+    "city_ascii": "Aarau",
+    "admin_name": "Aargau",
+    "lat": "47.3923",
+    "lng": "8.0446",
+    "id": "1756722157"
+  },
+  {
+    "city": "Riehen",
+    "city_ascii": "Riehen",
+    "admin_name": "Basel-Stadt",
+    "lat": "47.5806",
+    "lng": "7.6492",
+    "id": "1756991792"
+  },
+  {
+    "city": "Allschwil",
+    "city_ascii": "Allschwil",
+    "admin_name": "Basel-Landschaft",
+    "lat": "47.5508",
+    "lng": "7.5358",
+    "id": "1756684864"
+  },
+  {
+    "city": "Renens",
+    "city_ascii": "Renens",
+    "admin_name": "Vaud",
+    "lat": "46.5333",
+    "lng": "6.5833",
+    "id": "1756264043"
+  },
+  {
+    "city": "Wettingen",
+    "city_ascii": "Wettingen",
+    "admin_name": "Aargau",
+    "lat": "47.4659",
+    "lng": "8.3267",
+    "id": "1756544966"
+  },
+  {
+    "city": "Nyon",
+    "city_ascii": "Nyon",
+    "admin_name": "Vaud",
+    "lat": "46.3833",
+    "lng": "6.2333",
+    "id": "1756289111"
+  },
+  {
+    "city": "Bülach",
+    "city_ascii": "Bulach",
+    "admin_name": "Zürich",
+    "lat": "47.5189",
+    "lng": "8.5422",
+    "id": "1756393445"
+  },
+  {
+    "city": "Vevey",
+    "city_ascii": "Vevey",
+    "admin_name": "Vaud",
+    "lat": "46.4667",
+    "lng": "6.8500",
+    "id": "1756579162"
+  },
+  {
+    "city": "Opfikon",
+    "city_ascii": "Opfikon",
+    "admin_name": "Zürich",
+    "lat": "47.4331",
+    "lng": "8.5719",
+    "id": "1756222668"
+  },
+  {
+    "city": "Kloten",
+    "city_ascii": "Kloten",
+    "admin_name": "Zürich",
+    "lat": "47.4481",
+    "lng": "8.5828",
+    "id": "1756844710"
+  },
+  {
+    "city": "Reinach",
+    "city_ascii": "Reinach",
+    "admin_name": "Basel-Landschaft",
+    "lat": "47.4936",
+    "lng": "7.5908",
+    "id": "1756011617"
+  },
+  {
+    "city": "Baden",
+    "city_ascii": "Baden",
+    "admin_name": "Aargau",
+    "lat": "47.4729",
+    "lng": "8.3080",
+    "id": "1756517451"
+  },
+  {
+    "city": "Onex",
+    "city_ascii": "Onex",
+    "admin_name": "Genève",
+    "lat": "46.1833",
+    "lng": "6.1000",
+    "id": "1756617916"
+  },
+  {
+    "city": "Adliswil",
+    "city_ascii": "Adliswil",
+    "admin_name": "Zürich",
+    "lat": "47.3122",
+    "lng": "8.5256",
+    "id": "1756221733"
+  },
+  {
+    "city": "Schlieren",
+    "city_ascii": "Schlieren",
+    "admin_name": "Zürich",
+    "lat": "47.3989",
+    "lng": "8.4497",
+    "id": "1756013633"
+  },
+  {
+    "city": "Volketswil",
+    "city_ascii": "Volketswil",
+    "admin_name": "Zürich",
+    "lat": "47.3906",
+    "lng": "8.6953",
+    "id": "1756554999"
+  },
+  {
+    "city": "Thalwil",
+    "city_ascii": "Thalwil",
+    "admin_name": "Zürich",
+    "lat": "47.2953",
+    "lng": "8.5647",
+    "id": "1756199955"
+  },
+  {
+    "city": "Olten",
+    "city_ascii": "Olten",
+    "admin_name": "Solothurn",
+    "lat": "47.3531",
+    "lng": "7.9078",
+    "id": "1756558985"
+  },
+  {
+    "city": "Pully",
+    "city_ascii": "Pully",
+    "admin_name": "Vaud",
+    "lat": "46.5167",
+    "lng": "6.6667",
+    "id": "1756456471"
+  },
+  {
+    "city": "Regensdorf",
+    "city_ascii": "Regensdorf",
+    "admin_name": "Zürich",
+    "lat": "47.4383",
+    "lng": "8.4744",
+    "id": "1756820070"
+  },
+  {
+    "city": "Gossau",
+    "city_ascii": "Gossau",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.4164",
+    "lng": "9.2500",
+    "id": "1756392610"
+  },
+  {
+    "city": "Muttenz",
+    "city_ascii": "Muttenz",
+    "admin_name": "Basel-Landschaft",
+    "lat": "47.5228",
+    "lng": "7.6452",
+    "id": "1756008285"
+  },
+  {
+    "city": "Monthey",
+    "city_ascii": "Monthey",
+    "admin_name": "Valais",
+    "lat": "46.2500",
+    "lng": "6.9500",
+    "id": "1756628597"
+  },
+  {
+    "city": "Ostermundigen",
+    "city_ascii": "Ostermundigen",
+    "admin_name": "Bern",
+    "lat": "46.9553",
+    "lng": "7.4833",
+    "id": "1756779389"
+  },
+  {
+    "city": "Stegen",
+    "city_ascii": "Stegen",
+    "admin_name": "Zürich",
+    "lat": "47.4764",
+    "lng": "8.7697",
+    "id": "1756008872"
+  },
+  {
+    "city": "Littau",
+    "city_ascii": "Littau",
+    "admin_name": "Luzern",
+    "lat": "47.0494",
+    "lng": "8.2639",
+    "id": "1756821740"
+  },
+  {
+    "city": "Martigny",
+    "city_ascii": "Martigny",
+    "admin_name": "Valais",
+    "lat": "46.1022",
+    "lng": "7.0750",
+    "id": "1756450627"
+  },
+  {
+    "city": "Grenchen",
+    "city_ascii": "Grenchen",
+    "admin_name": "Solothurn",
+    "lat": "47.1931",
+    "lng": "7.3958",
+    "id": "1756258549"
+  },
+  {
+    "city": "Sierre",
+    "city_ascii": "Sierre",
+    "admin_name": "Valais",
+    "lat": "46.2918",
+    "lng": "7.5320",
+    "id": "1756959511"
+  },
+  {
+    "city": "Solothurn",
+    "city_ascii": "Solothurn",
+    "admin_name": "Solothurn",
+    "lat": "47.2081",
+    "lng": "7.5375",
+    "id": "1756650126"
+  },
+  {
+    "city": "Pratteln",
+    "city_ascii": "Pratteln",
+    "admin_name": "Basel-Landschaft",
+    "lat": "47.5185",
+    "lng": "7.6928",
+    "id": "1756235773"
+  },
+  {
+    "city": "Burgdorf",
+    "city_ascii": "Burgdorf",
+    "admin_name": "Bern",
+    "lat": "47.0567",
+    "lng": "7.6264",
+    "id": "1756999920"
+  },
+  {
+    "city": "Freienbach",
+    "city_ascii": "Freienbach",
+    "admin_name": "Schwyz",
+    "lat": "47.2047",
+    "lng": "8.7578",
+    "id": "1756905696"
+  },
+  {
+    "city": "Wallisellen",
+    "city_ascii": "Wallisellen",
+    "admin_name": "Zürich",
+    "lat": "47.4150",
+    "lng": "8.5967",
+    "id": "1756960820"
+  },
+  {
+    "city": "Wohlen",
+    "city_ascii": "Wohlen",
+    "admin_name": "Aargau",
+    "lat": "47.3506",
+    "lng": "8.2778",
+    "id": "1756643512"
+  },
+  {
+    "city": "Locarno",
+    "city_ascii": "Locarno",
+    "admin_name": "Ticino",
+    "lat": "46.1664",
+    "lng": "8.7997",
+    "id": "1756696211"
+  },
+  {
+    "city": "Herisau",
+    "city_ascii": "Herisau",
+    "admin_name": "Appenzell Ausserrhoden",
+    "lat": "47.3851",
+    "lng": "9.2786",
+    "id": "1756581563"
+  },
+  {
+    "city": "Steffisburg",
+    "city_ascii": "Steffisburg",
+    "admin_name": "Bern",
+    "lat": "46.7831",
+    "lng": "7.6333",
+    "id": "1756440418"
+  },
+  {
+    "city": "Morges",
+    "city_ascii": "Morges",
+    "admin_name": "Vaud",
+    "lat": "46.5167",
+    "lng": "6.5000",
+    "id": "1756647288"
+  },
+  {
+    "city": "Binningen",
+    "city_ascii": "Binningen",
+    "admin_name": "Basel-Landschaft",
+    "lat": "47.5333",
+    "lng": "7.5667",
+    "id": "1756488918"
+  },
+  {
+    "city": "Langenthal",
+    "city_ascii": "Langenthal",
+    "admin_name": "Bern",
+    "lat": "47.2153",
+    "lng": "7.7889",
+    "id": "1756087578"
+  },
+  {
+    "city": "Einsiedeln",
+    "city_ascii": "Einsiedeln",
+    "admin_name": "Schwyz",
+    "lat": "47.1278",
+    "lng": "8.7431",
+    "id": "1756410538"
+  },
+  {
+    "city": "Lyss",
+    "city_ascii": "Lyss",
+    "admin_name": "Bern",
+    "lat": "47.0750",
+    "lng": "7.3069",
+    "id": "1756010328"
+  },
+  {
+    "city": "Schwyz",
+    "city_ascii": "Schwyz",
+    "admin_name": "Schwyz",
+    "lat": "47.0211",
+    "lng": "8.6536",
+    "id": "1756270644"
+  },
+  {
+    "city": "Wülflingen",
+    "city_ascii": "Wulflingen",
+    "admin_name": "Zürich",
+    "lat": "47.5100",
+    "lng": "8.6830",
+    "id": "1756013743"
+  },
+  {
+    "city": "Mendrisio",
+    "city_ascii": "Mendrisio",
+    "admin_name": "Ticino",
+    "lat": "45.8667",
+    "lng": "8.9833",
+    "id": "1756337416"
+  },
+  {
+    "city": "Arbon",
+    "city_ascii": "Arbon",
+    "admin_name": "Thurgau",
+    "lat": "47.5167",
+    "lng": "9.4333",
+    "id": "1756486653"
+  },
+  {
+    "city": "Liestal",
+    "city_ascii": "Liestal",
+    "admin_name": "Basel-Landschaft",
+    "lat": "47.4839",
+    "lng": "7.7350",
+    "id": "1756371637"
+  },
+  {
+    "city": "Stäfa",
+    "city_ascii": "Stafa",
+    "admin_name": "Zürich",
+    "lat": "47.2401",
+    "lng": "8.7328",
+    "id": "1756312480"
+  },
+  {
+    "city": "Küsnacht",
+    "city_ascii": "Kusnacht",
+    "admin_name": "Zürich",
+    "lat": "47.3181",
+    "lng": "8.5825",
+    "id": "1756976671"
+  },
+  {
+    "city": "Horw",
+    "city_ascii": "Horw",
+    "admin_name": "Luzern",
+    "lat": "47.0164",
+    "lng": "8.3111",
+    "id": "1756927189"
+  },
+  {
+    "city": "Thônex",
+    "city_ascii": "Thonex",
+    "admin_name": "Genève",
+    "lat": "46.1833",
+    "lng": "6.1833",
+    "id": "1756784451"
+  },
+  {
+    "city": "Meilen",
+    "city_ascii": "Meilen",
+    "admin_name": "Zürich",
+    "lat": "47.2703",
+    "lng": "8.6411",
+    "id": "1756411281"
+  },
+  {
+    "city": "Oftringen",
+    "city_ascii": "Oftringen",
+    "admin_name": "Aargau",
+    "lat": "47.3150",
+    "lng": "7.9236",
+    "id": "1756569554"
+  },
+  {
+    "city": "Amriswil",
+    "city_ascii": "Amriswil",
+    "admin_name": "Thurgau",
+    "lat": "47.5497",
+    "lng": "9.3000",
+    "id": "1756967253"
+  },
+  {
+    "city": "Rheinfelden",
+    "city_ascii": "Rheinfelden",
+    "admin_name": "Aargau",
+    "lat": "47.5539",
+    "lng": "7.7958",
+    "id": "1756486705"
+  },
+  {
+    "city": "Versoix",
+    "city_ascii": "Versoix",
+    "admin_name": "Genève",
+    "lat": "46.2833",
+    "lng": "6.1667",
+    "id": "1756526224"
+  },
+  {
+    "city": "Richterswil",
+    "city_ascii": "Richterswil",
+    "admin_name": "Zürich",
+    "lat": "47.2081",
+    "lng": "8.7058",
+    "id": "1756472939"
+  },
+  {
+    "city": "Zollikon",
+    "city_ascii": "Zollikon",
+    "admin_name": "Zürich",
+    "lat": "47.3422",
+    "lng": "8.5783",
+    "id": "1756438023"
+  },
+  {
+    "city": "Brig-Glis",
+    "city_ascii": "Brig-Glis",
+    "admin_name": "Valais",
+    "lat": "46.3159",
+    "lng": "7.9876",
+    "id": "1756778801"
+  },
+  {
+    "city": "Gland",
+    "city_ascii": "Gland",
+    "admin_name": "Vaud",
+    "lat": "46.4200",
+    "lng": "6.2700",
+    "id": "1756505867"
+  },
+  {
+    "city": "Küssnacht",
+    "city_ascii": "Kussnacht",
+    "admin_name": "Schwyz",
+    "lat": "47.0828",
+    "lng": "8.4408",
+    "id": "1756750260"
+  },
+  {
+    "city": "Muri",
+    "city_ascii": "Muri",
+    "admin_name": "Bern",
+    "lat": "46.9319",
+    "lng": "7.4872",
+    "id": "1756349869"
+  },
+  {
+    "city": "Uzwil",
+    "city_ascii": "Uzwil",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.4367",
+    "lng": "9.1342",
+    "id": "1756713626"
+  },
+  {
+    "city": "Ecublens",
+    "city_ascii": "Ecublens",
+    "admin_name": "Vaud",
+    "lat": "46.5333",
+    "lng": "6.5667",
+    "id": "1756001755"
+  },
+  {
+    "city": "Spiez",
+    "city_ascii": "Spiez",
+    "admin_name": "Bern",
+    "lat": "46.6831",
+    "lng": "7.6664",
+    "id": "1756813024"
+  },
+  {
+    "city": "Delémont",
+    "city_ascii": "Delemont",
+    "admin_name": "Jura",
+    "lat": "47.3653",
+    "lng": "7.3472",
+    "id": "1756748908"
+  },
+  {
+    "city": "Buchs",
+    "city_ascii": "Buchs",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.1656",
+    "lng": "9.4711",
+    "id": "1756006204"
+  },
+  {
+    "city": "Prilly",
+    "city_ascii": "Prilly",
+    "admin_name": "Vaud",
+    "lat": "46.5333",
+    "lng": "6.6000",
+    "id": "1756590980"
+  },
+  {
+    "city": "Affoltern am Albis",
+    "city_ascii": "Affoltern am Albis",
+    "admin_name": "Zürich",
+    "lat": "47.2817",
+    "lng": "8.4502",
+    "id": "1756025824"
+  },
+  {
+    "city": "Chêne-Bougeries",
+    "city_ascii": "Chene-Bougeries",
+    "admin_name": "Genève",
+    "lat": "46.1833",
+    "lng": "6.1833",
+    "id": "1756147685"
+  },
+  {
+    "city": "Rüti",
+    "city_ascii": "Ruti",
+    "admin_name": "Zürich",
+    "lat": "47.2614",
+    "lng": "8.8556",
+    "id": "1756152565"
+  },
+  {
+    "city": "Le Grand-Saconnex",
+    "city_ascii": "Le Grand-Saconnex",
+    "admin_name": "Genève",
+    "lat": "46.2333",
+    "lng": "6.1167",
+    "id": "1756885352"
+  },
+  {
+    "city": "Mattenhof",
+    "city_ascii": "Mattenhof",
+    "admin_name": "Zürich",
+    "lat": "47.5165",
+    "lng": "8.8020",
+    "id": "1756012852"
+  },
+  {
+    "city": "Münchenstein",
+    "city_ascii": "Munchenstein",
+    "admin_name": "Basel-Landschaft",
+    "lat": "47.5186",
+    "lng": "7.6174",
+    "id": "1756012839"
+  },
+  {
+    "city": "Villars-sur-Glâne",
+    "city_ascii": "Villars-sur-Glane",
+    "admin_name": "Fribourg",
+    "lat": "46.7833",
+    "lng": "7.1167",
+    "id": "1756439374"
+  },
+  {
+    "city": "Arth",
+    "city_ascii": "Arth",
+    "admin_name": "Schwyz",
+    "lat": "47.0644",
+    "lng": "8.5242",
+    "id": "1756840226"
+  },
+  {
+    "city": "Pfäffikon",
+    "city_ascii": "Pfaffikon",
+    "admin_name": "Zürich",
+    "lat": "47.3667",
+    "lng": "8.7822",
+    "id": "1756406468"
+  },
+  {
+    "city": "La Tour-de-Peilz",
+    "city_ascii": "La Tour-de-Peilz",
+    "admin_name": "Vaud",
+    "lat": "46.4500",
+    "lng": "6.8667",
+    "id": "1756611497"
+  },
+  {
+    "city": "Spreitenbach",
+    "city_ascii": "Spreitenbach",
+    "admin_name": "Aargau",
+    "lat": "47.4181",
+    "lng": "8.3661",
+    "id": "1756282407"
+  },
+  {
+    "city": "Waltikon",
+    "city_ascii": "Waltikon",
+    "admin_name": "Zürich",
+    "lat": "47.3667",
+    "lng": "8.5833",
+    "id": "1756526339"
+  },
+  {
+    "city": "Altstätten",
+    "city_ascii": "Altstatten",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.3780",
+    "lng": "9.5488",
+    "id": "1756529261"
+  },
+  {
+    "city": "Zofingen",
+    "city_ascii": "Zofingen",
+    "admin_name": "Aargau",
+    "lat": "47.2884",
+    "lng": "7.9475",
+    "id": "1756295445"
+  },
+  {
+    "city": "Veyrier",
+    "city_ascii": "Veyrier",
+    "admin_name": "Genève",
+    "lat": "46.1667",
+    "lng": "6.1833",
+    "id": "1756988678"
+  },
+  {
+    "city": "Bassersdorf",
+    "city_ascii": "Bassersdorf",
+    "admin_name": "Zürich",
+    "lat": "47.4431",
+    "lng": "8.6283",
+    "id": "1756124438"
+  },
+  {
+    "city": "Weinfelden",
+    "city_ascii": "Weinfelden",
+    "admin_name": "Thurgau",
+    "lat": "47.5698",
+    "lng": "9.1120",
+    "id": "1756205526"
+  },
+  {
+    "city": "Belp",
+    "city_ascii": "Belp",
+    "admin_name": "Bern",
+    "lat": "46.8914",
+    "lng": "7.4972",
+    "id": "1756855405"
+  },
+  {
+    "city": "Worb",
+    "city_ascii": "Worb",
+    "admin_name": "Bern",
+    "lat": "46.9306",
+    "lng": "7.5644",
+    "id": "1756060343"
+  },
+  {
+    "city": "Männedorf",
+    "city_ascii": "Mannedorf",
+    "admin_name": "Zürich",
+    "lat": "47.2553",
+    "lng": "8.6917",
+    "id": "1756961965"
+  },
+  {
+    "city": "Hinwil",
+    "city_ascii": "Hinwil",
+    "admin_name": "Zürich",
+    "lat": "47.3033",
+    "lng": "8.8444",
+    "id": "1756628529"
+  },
+  {
+    "city": "Romanshorn",
+    "city_ascii": "Romanshorn",
+    "admin_name": "Thurgau",
+    "lat": "47.5635",
+    "lng": "9.3564",
+    "id": "1756539997"
+  },
+  {
+    "city": "Oberwil",
+    "city_ascii": "Oberwil",
+    "admin_name": "Basel-Landschaft",
+    "lat": "47.5135",
+    "lng": "7.5546",
+    "id": "1756150153"
+  },
+  {
+    "city": "Brugg",
+    "city_ascii": "Brugg",
+    "admin_name": "Aargau",
+    "lat": "47.4864",
+    "lng": "8.2083",
+    "id": "1756121125"
+  },
+  {
+    "city": "Möhlin",
+    "city_ascii": "Mohlin",
+    "admin_name": "Aargau",
+    "lat": "47.5583",
+    "lng": "7.8458",
+    "id": "1756997029"
+  },
+  {
+    "city": "Davos",
+    "city_ascii": "Davos",
+    "admin_name": "Graubünden",
+    "lat": "46.8091",
+    "lng": "9.8398",
+    "id": "1756286446"
+  },
+  {
+    "city": "Risch",
+    "city_ascii": "Risch",
+    "admin_name": "Zug",
+    "lat": "47.1340",
+    "lng": "8.4662",
+    "id": "1756009086"
+  },
+  {
+    "city": "Plan-les-Ouates",
+    "city_ascii": "Plan-les-Ouates",
+    "admin_name": "Genève",
+    "lat": "46.1667",
+    "lng": "6.1167",
+    "id": "1756223041"
+  },
+  {
+    "city": "Lenzburg",
+    "city_ascii": "Lenzburg",
+    "admin_name": "Aargau",
+    "lat": "47.3875",
+    "lng": "8.1803",
+    "id": "1756304845"
+  },
+  {
+    "city": "Flawil",
+    "city_ascii": "Flawil",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.4053",
+    "lng": "9.1977",
+    "id": "1756417053"
+  },
+  {
+    "city": "Neuhausen am Rheinfall",
+    "city_ascii": "Neuhausen am Rheinfall",
+    "admin_name": "Schaffhausen",
+    "lat": "47.6831",
+    "lng": "8.6167",
+    "id": "1756815481"
+  },
+  {
+    "city": "Le Locle",
+    "city_ascii": "Le Locle",
+    "admin_name": "Neuchâtel",
+    "lat": "47.0532",
+    "lng": "6.7482",
+    "id": "1756888589"
+  },
+  {
+    "city": "Suhr",
+    "city_ascii": "Suhr",
+    "admin_name": "Aargau",
+    "lat": "47.3747",
+    "lng": "8.0806",
+    "id": "1756546975"
+  },
+  {
+    "city": "Sarnen",
+    "city_ascii": "Sarnen",
+    "admin_name": "Obwalden",
+    "lat": "46.8969",
+    "lng": "8.2469",
+    "id": "1756451113"
+  },
+  {
+    "city": "Aesch",
+    "city_ascii": "Aesch",
+    "admin_name": "Basel-Landschaft",
+    "lat": "47.4694",
+    "lng": "7.5942",
+    "id": "1756884116"
+  },
+  {
+    "city": "Birsfelden",
+    "city_ascii": "Birsfelden",
+    "admin_name": "Basel-Stadt",
+    "lat": "47.5531",
+    "lng": "7.6231",
+    "id": "1756780364"
+  },
+  {
+    "city": "Lutry",
+    "city_ascii": "Lutry",
+    "admin_name": "Vaud",
+    "lat": "46.5000",
+    "lng": "6.6833",
+    "id": "1756885956"
+  },
+  {
+    "city": "Bernex",
+    "city_ascii": "Bernex",
+    "admin_name": "Genève",
+    "lat": "46.1667",
+    "lng": "6.0667",
+    "id": "1756532909"
+  },
+  {
+    "city": "Maur",
+    "city_ascii": "Maur",
+    "admin_name": "Zürich",
+    "lat": "47.3417",
+    "lng": "8.6703",
+    "id": "1756776962"
+  },
+  {
+    "city": "Aigle",
+    "city_ascii": "Aigle",
+    "admin_name": "Vaud",
+    "lat": "46.3167",
+    "lng": "6.9667",
+    "id": "1756593148"
+  },
+  {
+    "city": "Naters",
+    "city_ascii": "Naters",
+    "admin_name": "Valais",
+    "lat": "46.3237",
+    "lng": "7.9886",
+    "id": "1756559781"
+  },
+  {
+    "city": "Steinhaus",
+    "city_ascii": "Steinhaus",
+    "admin_name": "Luzern",
+    "lat": "47.1969",
+    "lng": "8.4861",
+    "id": "1756020648"
+  },
+  {
+    "city": "Payerne",
+    "city_ascii": "Payerne",
+    "admin_name": "Vaud",
+    "lat": "46.8167",
+    "lng": "6.9333",
+    "id": "1756860201"
+  },
+  {
+    "city": "Gossau",
+    "city_ascii": "Gossau",
+    "admin_name": "Zürich",
+    "lat": "47.3081",
+    "lng": "8.7567",
+    "id": "1756178316"
+  },
+  {
+    "city": "Sursee",
+    "city_ascii": "Sursee",
+    "admin_name": "Luzern",
+    "lat": "47.1742",
+    "lng": "8.1081",
+    "id": "1756349177"
+  },
+  {
+    "city": "Therwil",
+    "city_ascii": "Therwil",
+    "admin_name": "Basel-Landschaft",
+    "lat": "47.4997",
+    "lng": "7.5500",
+    "id": "1756897872"
+  },
+  {
+    "city": "Hochdorf",
+    "city_ascii": "Hochdorf",
+    "admin_name": "Luzern",
+    "lat": "47.1664",
+    "lng": "8.2889",
+    "id": "1756537486"
+  },
+  {
+    "city": "Urdorf",
+    "city_ascii": "Urdorf",
+    "admin_name": "Zürich",
+    "lat": "47.3867",
+    "lng": "8.4278",
+    "id": "1756382154"
+  },
+  {
+    "city": "Wald",
+    "city_ascii": "Wald",
+    "admin_name": "Zürich",
+    "lat": "47.2753",
+    "lng": "8.9144",
+    "id": "1756156476"
+  },
+  {
+    "city": "Estavayer-le-Lac",
+    "city_ascii": "Estavayer-le-Lac",
+    "admin_name": "Fribourg",
+    "lat": "46.8500",
+    "lng": "6.8472",
+    "id": "1756917471"
+  },
+  {
+    "city": "Wittenbach",
+    "city_ascii": "Wittenbach",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.4667",
+    "lng": "9.3795",
+    "id": "1756489674"
+  },
+  {
+    "city": "Widnau",
+    "city_ascii": "Widnau",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.3997",
+    "lng": "9.6333",
+    "id": "1756016282"
+  },
+  {
+    "city": "Epalinges",
+    "city_ascii": "Epalinges",
+    "admin_name": "Vaud",
+    "lat": "46.5500",
+    "lng": "6.6667",
+    "id": "1756549876"
+  },
+  {
+    "city": "Eschenbach",
+    "city_ascii": "Eschenbach",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.2398",
+    "lng": "8.9216",
+    "id": "1756626480"
+  },
+  {
+    "city": "Rorschach",
+    "city_ascii": "Rorschach",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.4786",
+    "lng": "9.4936",
+    "id": "1756630924"
+  },
+  {
+    "city": "Embrach",
+    "city_ascii": "Embrach",
+    "admin_name": "Zürich",
+    "lat": "47.5103",
+    "lng": "8.5933",
+    "id": "1756762127"
+  },
+  {
+    "city": "Altdorf",
+    "city_ascii": "Altdorf",
+    "admin_name": "Uri",
+    "lat": "46.8806",
+    "lng": "8.6394",
+    "id": "1756957308"
+  },
+  {
+    "city": "Langnau",
+    "city_ascii": "Langnau",
+    "admin_name": "Bern",
+    "lat": "46.9433",
+    "lng": "7.7853",
+    "id": "1756946550"
+  },
+  {
+    "city": "Wohleiberg",
+    "city_ascii": "Wohleiberg",
+    "admin_name": "Bern",
+    "lat": "46.9719",
+    "lng": "7.3569",
+    "id": "1756011124"
+  },
+  {
+    "city": "Goldach",
+    "city_ascii": "Goldach",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.4831",
+    "lng": "9.4664",
+    "id": "1756725037"
+  },
+  {
+    "city": "Niederhasli",
+    "city_ascii": "Niederhasli",
+    "admin_name": "Zürich",
+    "lat": "47.4822",
+    "lng": "8.4861",
+    "id": "1756015493"
+  },
+  {
+    "city": "Schübelbach",
+    "city_ascii": "Schubelbach",
+    "admin_name": "Schwyz",
+    "lat": "47.1733",
+    "lng": "8.9264",
+    "id": "1756445670"
+  },
+  {
+    "city": "Mels",
+    "city_ascii": "Mels",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.0497",
+    "lng": "9.4167",
+    "id": "1756869318"
+  },
+  {
+    "city": "Arlesheim",
+    "city_ascii": "Arlesheim",
+    "admin_name": "Basel-Landschaft",
+    "lat": "47.4922",
+    "lng": "7.6203",
+    "id": "1756790806"
+  },
+  {
+    "city": "Rothrist",
+    "city_ascii": "Rothrist",
+    "admin_name": "Aargau",
+    "lat": "47.3028",
+    "lng": "7.8833",
+    "id": "1756245430"
+  },
+  {
+    "city": "Kirchberg",
+    "city_ascii": "Kirchberg",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.4116",
+    "lng": "9.0402",
+    "id": "1756912325"
+  },
+  {
+    "city": "Aadorf",
+    "city_ascii": "Aadorf",
+    "admin_name": "Thurgau",
+    "lat": "47.4939",
+    "lng": "8.8975",
+    "id": "1756022542"
+  },
+  {
+    "city": "Ingenbohl",
+    "city_ascii": "Ingenbohl",
+    "admin_name": "Schwyz",
+    "lat": "47.0028",
+    "lng": "8.6117",
+    "id": "1756840092"
+  },
+  {
+    "city": "Oberriet",
+    "city_ascii": "Oberriet",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.3164",
+    "lng": "9.5664",
+    "id": "1756217595"
+  },
+  {
+    "city": "Zuchwil",
+    "city_ascii": "Zuchwil",
+    "admin_name": "Solothurn",
+    "lat": "47.2056",
+    "lng": "7.5597",
+    "id": "1756623180"
+  },
+  {
+    "city": "Unterägeri",
+    "city_ascii": "Unterageri",
+    "admin_name": "Zug",
+    "lat": "47.1386",
+    "lng": "8.5844",
+    "id": "1756124106"
+  },
+  {
+    "city": "Kilchberg",
+    "city_ascii": "Kilchberg",
+    "admin_name": "Zürich",
+    "lat": "47.3247",
+    "lng": "8.5492",
+    "id": "1756715308"
+  },
+  {
+    "city": "Landquart",
+    "city_ascii": "Landquart",
+    "admin_name": "Graubünden",
+    "lat": "46.9497",
+    "lng": "9.5667",
+    "id": "1756905419"
+  },
+  {
+    "city": "Neuenhof",
+    "city_ascii": "Neuenhof",
+    "admin_name": "Aargau",
+    "lat": "47.4469",
+    "lng": "8.3292",
+    "id": "1756512493"
+  },
+  {
+    "city": "Hünenberg",
+    "city_ascii": "Hunenberg",
+    "admin_name": "Zug",
+    "lat": "47.1761",
+    "lng": "8.4264",
+    "id": "1756393402"
+  },
+  {
+    "city": "La Grande Racine",
+    "city_ascii": "La Grande Racine",
+    "admin_name": "Neuchâtel",
+    "lat": "46.9068",
+    "lng": "6.7633",
+    "id": "1756005735"
+  },
+  {
+    "city": "Fully",
+    "city_ascii": "Fully",
+    "admin_name": "Valais",
+    "lat": "46.1333",
+    "lng": "7.1167",
+    "id": "1756803962"
+  },
+  {
+    "city": "Hombrechtikon",
+    "city_ascii": "Hombrechtikon",
+    "admin_name": "Zürich",
+    "lat": "47.2533",
+    "lng": "8.7703",
+    "id": "1756295495"
+  },
+  {
+    "city": "Lachen",
+    "city_ascii": "Lachen",
+    "admin_name": "Schwyz",
+    "lat": "47.1911",
+    "lng": "8.8567",
+    "id": "1756890037"
+  },
+  {
+    "city": "Wattwil",
+    "city_ascii": "Wattwil",
+    "admin_name": "Sankt Gallen",
+    "lat": "47.2957",
+    "lng": "9.0830",
+    "id": "1756957329"
+  },
+  {
+    "city": "Bussy",
+    "city_ascii": "Bussy",
+    "admin_name": "Vaud",
+    "lat": "46.5500",
+    "lng": "6.5500",
+    "id": "1756000766"
+  },
+  {
+    "city": "Conthey",
+    "city_ascii": "Conthey",
+    "admin_name": "Valais",
+    "lat": "46.2167",
+    "lng": "7.3000",
+    "id": "1756401433"
+  },
+  {
+    "city": "Bremgarten",
+    "city_ascii": "Bremgarten",
+    "admin_name": "Aargau",
+    "lat": "47.3528",
+    "lng": "8.3400",
+    "id": "1756590715"
+  },
+  {
+    "city": "Egg",
+    "city_ascii": "Egg",
+    "admin_name": "Zürich",
+    "lat": "47.1987",
+    "lng": "8.6699",
+    "id": "1756020746"
+  },
+  {
+    "city": "Egg",
+    "city_ascii": "Egg",
+    "admin_name": "Zürich",
+    "lat": "47.3019",
+    "lng": "8.6906",
+    "id": "1756058713"
+  },
+  {
+    "city": "Fällanden",
+    "city_ascii": "Fallanden",
+    "admin_name": "Zürich",
+    "lat": "47.3717",
+    "lng": "8.6400",
+    "id": "1756176388"
+  },
+  {
+    "city": "Biberist",
+    "city_ascii": "Biberist",
+    "admin_name": "Solothurn",
+    "lat": "47.1828",
+    "lng": "7.5586",
+    "id": "1756746716"
+  },
+  {
+    "city": "Obersiggenthal",
+    "city_ascii": "Obersiggenthal",
+    "admin_name": "Aargau",
+    "lat": "47.4869",
+    "lng": "8.2921",
+    "id": "1756136415"
+  },
+  {
+    "city": "Le Mont-sur-Lausanne",
+    "city_ascii": "Le Mont-sur-Lausanne",
+    "admin_name": "Vaud",
+    "lat": "46.5217",
+    "lng": "6.6269",
+    "id": "1756684739"
+  },
+  {
+    "city": "Stans",
+    "city_ascii": "Stans",
+    "admin_name": "Nidwalden",
+    "lat": "46.9594",
+    "lng": "8.3667",
+    "id": "1756019042"
+  },
+  {
+    "city": "Glarus",
+    "city_ascii": "Glarus",
+    "admin_name": "Glarus",
+    "lat": "47.0333",
+    "lng": "9.0667",
+    "id": "1756095767"
+  },
+  {
+    "city": "Appenzell",
+    "city_ascii": "Appenzell",
+    "admin_name": "Appenzell Innerrhoden",
+    "lat": "47.3306",
+    "lng": "9.4086",
+    "id": "1756770881"
+  }
+]

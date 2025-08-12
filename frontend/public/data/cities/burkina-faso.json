@@ -1,0 +1,618 @@
+[
+  {
+    "city": "Ouagadougou",
+    "city_ascii": "Ouagadougou",
+    "admin_name": "Centre",
+    "lat": "12.3686",
+    "lng": "-1.5275",
+    "id": "1854029208"
+  },
+  {
+    "city": "Bobo-Dioulasso",
+    "city_ascii": "Bobo-Dioulasso",
+    "admin_name": "Hauts-Bassins",
+    "lat": "11.1833",
+    "lng": "-4.2833",
+    "id": "1854348796"
+  },
+  {
+    "city": "Koudougou",
+    "city_ascii": "Koudougou",
+    "admin_name": "Centre-Ouest",
+    "lat": "12.2500",
+    "lng": "-2.3667",
+    "id": "1854839075"
+  },
+  {
+    "city": "Ouahigouya",
+    "city_ascii": "Ouahigouya",
+    "admin_name": "Nord",
+    "lat": "13.5833",
+    "lng": "-2.4167",
+    "id": "1854011699"
+  },
+  {
+    "city": "Kaya",
+    "city_ascii": "Kaya",
+    "admin_name": "Centre-Nord",
+    "lat": "13.0833",
+    "lng": "-1.0833",
+    "id": "1854170035"
+  },
+  {
+    "city": "Banfora",
+    "city_ascii": "Banfora",
+    "admin_name": "Cascades",
+    "lat": "10.6308",
+    "lng": "-4.7589",
+    "id": "1854763822"
+  },
+  {
+    "city": "Pouytenga",
+    "city_ascii": "Pouytenga",
+    "admin_name": "Centre-Est",
+    "lat": "12.2500",
+    "lng": "-0.4333",
+    "id": "1854151910"
+  },
+  {
+    "city": "Houndé",
+    "city_ascii": "Hounde",
+    "admin_name": "Hauts-Bassins",
+    "lat": "11.5000",
+    "lng": "-3.5167",
+    "id": "1854289245"
+  },
+  {
+    "city": "Fada Ngourma",
+    "city_ascii": "Fada Ngourma",
+    "admin_name": "Est",
+    "lat": "12.0500",
+    "lng": "0.3667",
+    "id": "1854057074"
+  },
+  {
+    "city": "Dédougou",
+    "city_ascii": "Dedougou",
+    "admin_name": "Boucle du Mouhoun",
+    "lat": "12.4667",
+    "lng": "-3.4667",
+    "id": "1854743311"
+  },
+  {
+    "city": "Djibo",
+    "city_ascii": "Djibo",
+    "admin_name": "Sahel",
+    "lat": "14.1011",
+    "lng": "-1.6306",
+    "id": "1854364299"
+  },
+  {
+    "city": "Tenkodogo",
+    "city_ascii": "Tenkodogo",
+    "admin_name": "Centre-Est",
+    "lat": "11.7833",
+    "lng": "-0.3667",
+    "id": "1854646157"
+  },
+  {
+    "city": "Kongoussi",
+    "city_ascii": "Kongoussi",
+    "admin_name": "Centre-Nord",
+    "lat": "13.3333",
+    "lng": "-1.5333",
+    "id": "1854493633"
+  },
+  {
+    "city": "Titao",
+    "city_ascii": "Titao",
+    "admin_name": "Nord",
+    "lat": "13.2500",
+    "lng": "-2.0500",
+    "id": "1854649320"
+  },
+  {
+    "city": "Dori",
+    "city_ascii": "Dori",
+    "admin_name": "Sahel",
+    "lat": "14.0300",
+    "lng": "-0.0300",
+    "id": "1854096946"
+  },
+  {
+    "city": "Koupéla",
+    "city_ascii": "Koupela",
+    "admin_name": "Centre-Est",
+    "lat": "12.1794",
+    "lng": "-0.3517",
+    "id": "1854841246"
+  },
+  {
+    "city": "Aribinda",
+    "city_ascii": "Aribinda",
+    "admin_name": "Sahel",
+    "lat": "14.2292",
+    "lng": "-0.8633",
+    "id": "1854268234"
+  },
+  {
+    "city": "Gaoua",
+    "city_ascii": "Gaoua",
+    "admin_name": "Sud-Ouest",
+    "lat": "10.3167",
+    "lng": "-3.1667",
+    "id": "1854285570"
+  },
+  {
+    "city": "Gaoua",
+    "city_ascii": "Gaoua",
+    "admin_name": "Sud-Ouest",
+    "lat": "10.3167",
+    "lng": "-3.1667",
+    "id": "1854142068"
+  },
+  {
+    "city": "Garango",
+    "city_ascii": "Garango",
+    "admin_name": "Centre-Est",
+    "lat": "11.8000",
+    "lng": "-0.5500",
+    "id": "1854695901"
+  },
+  {
+    "city": "Tanghin-Dassouri",
+    "city_ascii": "Tanghin-Dassouri",
+    "admin_name": "Centre",
+    "lat": "12.2667",
+    "lng": "-1.7167",
+    "id": "1854307252"
+  },
+  {
+    "city": "Gourcy",
+    "city_ascii": "Gourcy",
+    "admin_name": "Nord",
+    "lat": "13.2167",
+    "lng": "-2.3500",
+    "id": "1854167073"
+  },
+  {
+    "city": "Yako",
+    "city_ascii": "Yako",
+    "admin_name": "Nord",
+    "lat": "12.9667",
+    "lng": "-2.2667",
+    "id": "1854815200"
+  },
+  {
+    "city": "Bindé",
+    "city_ascii": "Binde",
+    "admin_name": "Centre-Sud",
+    "lat": "11.7500",
+    "lng": "-1.1000",
+    "id": "1854349204"
+  },
+  {
+    "city": "Zorgo",
+    "city_ascii": "Zorgo",
+    "admin_name": "Plateau-Central",
+    "lat": "12.2500",
+    "lng": "-0.6167",
+    "id": "1854077108"
+  },
+  {
+    "city": "Réo",
+    "city_ascii": "Reo",
+    "admin_name": "Centre-Ouest",
+    "lat": "12.3167",
+    "lng": "-2.4667",
+    "id": "1854684997"
+  },
+  {
+    "city": "Léo",
+    "city_ascii": "Leo",
+    "admin_name": "Centre-Ouest",
+    "lat": "11.1000",
+    "lng": "-2.1000",
+    "id": "1854225723"
+  },
+  {
+    "city": "Niangoloko",
+    "city_ascii": "Niangoloko",
+    "admin_name": "Cascades",
+    "lat": "10.2833",
+    "lng": "-4.9167",
+    "id": "1854857887"
+  },
+  {
+    "city": "Orodara",
+    "city_ascii": "Orodara",
+    "admin_name": "Hauts-Bassins",
+    "lat": "10.9800",
+    "lng": "-4.9100",
+    "id": "1854111637"
+  },
+  {
+    "city": "Ziniaré",
+    "city_ascii": "Ziniare",
+    "admin_name": "Plateau-Central",
+    "lat": "12.5833",
+    "lng": "-1.3000",
+    "id": "1854052758"
+  },
+  {
+    "city": "Nouna",
+    "city_ascii": "Nouna",
+    "admin_name": "Boucle du Mouhoun",
+    "lat": "12.7333",
+    "lng": "-3.8667",
+    "id": "1854190171"
+  },
+  {
+    "city": "Kindi",
+    "city_ascii": "Kindi",
+    "admin_name": "",
+    "lat": "12.4333",
+    "lng": "-2.0167",
+    "id": "1854813860"
+  },
+  {
+    "city": "Bittou",
+    "city_ascii": "Bittou",
+    "admin_name": "Centre-Est",
+    "lat": "11.2575",
+    "lng": "-0.3039",
+    "id": "1854307960"
+  },
+  {
+    "city": "Kombissiri",
+    "city_ascii": "Kombissiri",
+    "admin_name": "Centre-Sud",
+    "lat": "12.0667",
+    "lng": "-1.3333",
+    "id": "1854637161"
+  },
+  {
+    "city": "Manga",
+    "city_ascii": "Manga",
+    "admin_name": "Centre-Sud",
+    "lat": "11.6667",
+    "lng": "-1.0667",
+    "id": "1854485968"
+  },
+  {
+    "city": "Pô",
+    "city_ascii": "Po",
+    "admin_name": "Centre-Sud",
+    "lat": "11.1667",
+    "lng": "-1.1500",
+    "id": "1854979912"
+  },
+  {
+    "city": "Bourzanga",
+    "city_ascii": "Bourzanga",
+    "admin_name": "Centre-Nord",
+    "lat": "13.6781",
+    "lng": "-1.5461",
+    "id": "1854447025"
+  },
+  {
+    "city": "Tougan",
+    "city_ascii": "Tougan",
+    "admin_name": "Boucle du Mouhoun",
+    "lat": "13.0667",
+    "lng": "-3.0667",
+    "id": "1854407539"
+  },
+  {
+    "city": "Sapouy",
+    "city_ascii": "Sapouy",
+    "admin_name": "Centre-Ouest",
+    "lat": "11.5544",
+    "lng": "-1.7736",
+    "id": "1854971695"
+  },
+  {
+    "city": "Dano",
+    "city_ascii": "Dano",
+    "admin_name": "Sud-Ouest",
+    "lat": "11.1436",
+    "lng": "-3.0628",
+    "id": "1854971871"
+  },
+  {
+    "city": "Mogtédo",
+    "city_ascii": "Mogtedo",
+    "admin_name": "Plateau-Central",
+    "lat": "12.2833",
+    "lng": "-0.8333",
+    "id": "1854602237"
+  },
+  {
+    "city": "Diébougou",
+    "city_ascii": "Diebougou",
+    "admin_name": "Sud-Ouest",
+    "lat": "10.9667",
+    "lng": "-3.2500",
+    "id": "1854858995"
+  },
+  {
+    "city": "Boussé",
+    "city_ascii": "Bousse",
+    "admin_name": "Plateau-Central",
+    "lat": "12.6667",
+    "lng": "-1.8975",
+    "id": "1854235785"
+  },
+  {
+    "city": "Salanso",
+    "city_ascii": "Salanso",
+    "admin_name": "Boucle du Mouhoun",
+    "lat": "12.1833",
+    "lng": "-4.0833",
+    "id": "1854892822"
+  },
+  {
+    "city": "Boulsa",
+    "city_ascii": "Boulsa",
+    "admin_name": "Centre-Nord",
+    "lat": "12.6667",
+    "lng": "-0.5833",
+    "id": "1854535753"
+  },
+  {
+    "city": "Pissila",
+    "city_ascii": "Pissila",
+    "admin_name": "Centre-Nord",
+    "lat": "13.1667",
+    "lng": "-0.8167",
+    "id": "1854949911"
+  },
+  {
+    "city": "Béguédo",
+    "city_ascii": "Beguedo",
+    "admin_name": "Centre-Est",
+    "lat": "11.7833",
+    "lng": "-0.7333",
+    "id": "1854929240"
+  },
+  {
+    "city": "Zabré",
+    "city_ascii": "Zabre",
+    "admin_name": "Centre-Est",
+    "lat": "11.1833",
+    "lng": "-0.6333",
+    "id": "1854284230"
+  },
+  {
+    "city": "Bogandé",
+    "city_ascii": "Bogande",
+    "admin_name": "Est",
+    "lat": "12.9667",
+    "lng": "-0.1500",
+    "id": "1854811035"
+  },
+  {
+    "city": "Saponé",
+    "city_ascii": "Sapone",
+    "admin_name": "Centre-Sud",
+    "lat": "12.0528",
+    "lng": "-1.6036",
+    "id": "1854915322"
+  },
+  {
+    "city": "Vili",
+    "city_ascii": "Vili",
+    "admin_name": "Centre-Ouest",
+    "lat": "12.2833",
+    "lng": "-2.2167",
+    "id": "1854996122"
+  },
+  {
+    "city": "Fara",
+    "city_ascii": "Fara",
+    "admin_name": "Boucle du Mouhoun",
+    "lat": "11.5333",
+    "lng": "-2.7667",
+    "id": "1854783851"
+  },
+  {
+    "city": "Boromo",
+    "city_ascii": "Boromo",
+    "admin_name": "Boucle du Mouhoun",
+    "lat": "11.7500",
+    "lng": "-2.9333",
+    "id": "1854589040"
+  },
+  {
+    "city": "Korsimoro",
+    "city_ascii": "Korsimoro",
+    "admin_name": "Centre-Nord",
+    "lat": "12.8250",
+    "lng": "-1.0672",
+    "id": "1854567141"
+  },
+  {
+    "city": "Batié",
+    "city_ascii": "Batie",
+    "admin_name": "Sud-Ouest",
+    "lat": "9.8833",
+    "lng": "-2.9167",
+    "id": "1854437674"
+  },
+  {
+    "city": "Kouka",
+    "city_ascii": "Kouka",
+    "admin_name": "Boucle du Mouhoun",
+    "lat": "11.9000",
+    "lng": "-4.3333",
+    "id": "1854523229"
+  },
+  {
+    "city": "Toma",
+    "city_ascii": "Toma",
+    "admin_name": "Boucle du Mouhoun",
+    "lat": "12.7667",
+    "lng": "-2.8833",
+    "id": "1854082077"
+  },
+  {
+    "city": "Diapaga",
+    "city_ascii": "Diapaga",
+    "admin_name": "Est",
+    "lat": "12.0667",
+    "lng": "1.7833",
+    "id": "1854687079"
+  },
+  {
+    "city": "Gomboussougou",
+    "city_ascii": "Gomboussougou",
+    "admin_name": "Centre-Sud",
+    "lat": "11.4333",
+    "lng": "-0.7667",
+    "id": "1854877911"
+  },
+  {
+    "city": "Gayéri",
+    "city_ascii": "Gayeri",
+    "admin_name": "Est",
+    "lat": "12.6500",
+    "lng": "0.5000",
+    "id": "1854170724"
+  },
+  {
+    "city": "Pâ",
+    "city_ascii": "Pa",
+    "admin_name": "Boucle du Mouhoun",
+    "lat": "11.5500",
+    "lng": "-3.2600",
+    "id": "1854939518"
+  },
+  {
+    "city": "Mani",
+    "city_ascii": "Mani",
+    "admin_name": "Est",
+    "lat": "13.2600",
+    "lng": "-0.2094",
+    "id": "1854799448"
+  },
+  {
+    "city": "Sabou",
+    "city_ascii": "Sabou",
+    "admin_name": "Centre-Ouest",
+    "lat": "12.0667",
+    "lng": "-2.2333",
+    "id": "1854948165"
+  },
+  {
+    "city": "Pama",
+    "city_ascii": "Pama",
+    "admin_name": "Est",
+    "lat": "11.2500",
+    "lng": "0.7000",
+    "id": "1854514463"
+  },
+  {
+    "city": "Niaogho",
+    "city_ascii": "Niaogho",
+    "admin_name": "Centre-Est",
+    "lat": "11.7667",
+    "lng": "-0.7667",
+    "id": "1854748181"
+  },
+  {
+    "city": "Ouargaye",
+    "city_ascii": "Ouargaye",
+    "admin_name": "Centre-Est",
+    "lat": "11.5000",
+    "lng": "0.0500",
+    "id": "1854385112"
+  },
+  {
+    "city": "Imassogo",
+    "city_ascii": "Imassogo",
+    "admin_name": "Centre-Ouest",
+    "lat": "12.4393",
+    "lng": "-2.3331",
+    "id": "1854514348"
+  },
+  {
+    "city": "Béna",
+    "city_ascii": "Bena",
+    "admin_name": "Boucle du Mouhoun",
+    "lat": "12.0804",
+    "lng": "-4.1890",
+    "id": "1854971765"
+  },
+  {
+    "city": "Sidéradougou",
+    "city_ascii": "Sideradougou",
+    "admin_name": "Cascades",
+    "lat": "10.6876",
+    "lng": "-4.2627",
+    "id": "1854474871"
+  },
+  {
+    "city": "Sebba",
+    "city_ascii": "Sebba",
+    "admin_name": "Sahel",
+    "lat": "13.4333",
+    "lng": "0.5333",
+    "id": "1854960093"
+  },
+  {
+    "city": "Nandiala",
+    "city_ascii": "Nandiala",
+    "admin_name": "Centre-Ouest",
+    "lat": "12.3333",
+    "lng": "-2.1667",
+    "id": "1854416310"
+  },
+  {
+    "city": "Gorom-Gorom",
+    "city_ascii": "Gorom-Gorom",
+    "admin_name": "Sahel",
+    "lat": "14.4500",
+    "lng": "-0.2333",
+    "id": "1854609702"
+  },
+  {
+    "city": "Kokologo",
+    "city_ascii": "Kokologo",
+    "admin_name": "Centre-Ouest",
+    "lat": "12.1833",
+    "lng": "-1.8833",
+    "id": "1854194060"
+  },
+  {
+    "city": "Soubakaniédougou",
+    "city_ascii": "Soubakaniedougou",
+    "admin_name": "Cascades",
+    "lat": "10.4824",
+    "lng": "-5.0098",
+    "id": "1854966202"
+  },
+  {
+    "city": "Ouarégou",
+    "city_ascii": "Ouaregou",
+    "admin_name": "Centre-Est",
+    "lat": "11.8000",
+    "lng": "-0.7000",
+    "id": "1854034830"
+  },
+  {
+    "city": "Bérégadougou",
+    "city_ascii": "Beregadougou",
+    "admin_name": "Cascades",
+    "lat": "10.7667",
+    "lng": "-4.7500",
+    "id": "1854196124"
+  },
+  {
+    "city": "Tiou",
+    "city_ascii": "Tiou",
+    "admin_name": "Centre-Ouest",
+    "lat": "11.9500",
+    "lng": "-2.2000",
+    "id": "1854986756"
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "city": "Port Louis",
+    "city_ascii": "Port Louis",
+    "admin_name": "Port Louis",
+    "lat": "-20.1644",
+    "lng": "57.5042",
+    "id": "1480131261"
+  },
+  {
+    "city": "Curepipe",
+    "city_ascii": "Curepipe",
+    "admin_name": "Plaines Wilhems",
+    "lat": "-20.3188",
+    "lng": "57.5263",
+    "id": "1480343099"
+  },
+  {
+    "city": "Quatre Bornes",
+    "city_ascii": "Quatre Bornes",
+    "admin_name": "Plaines Wilhems",
+    "lat": "-20.2654",
+    "lng": "57.4791",
+    "id": "1480144531"
+  },
+  {
+    "city": "Quartier Militaire",
+    "city_ascii": "Quartier Militaire",
+    "admin_name": "Moka",
+    "lat": "-20.2500",
+    "lng": "57.5500",
+    "id": "1480030855"
+  },
+  {
+    "city": "Goodlands",
+    "city_ascii": "Goodlands",
+    "admin_name": "Rivière du Rempart",
+    "lat": "-20.0350",
+    "lng": "57.6431",
+    "id": "1480043599"
+  },
+  {
+    "city": "Triolet",
+    "city_ascii": "Triolet",
+    "admin_name": "Pamplemousses",
+    "lat": "-20.0500",
+    "lng": "57.5500",
+    "id": "1480961556"
+  },
+  {
+    "city": "Bel Air",
+    "city_ascii": "Bel Air",
+    "admin_name": "Flacq",
+    "lat": "-20.2582",
+    "lng": "57.7545",
+    "id": "1480143096"
+  },
+  {
+    "city": "Centre de Flacq",
+    "city_ascii": "Centre de Flacq",
+    "admin_name": "Flacq",
+    "lat": "-20.2002",
+    "lng": "57.7177",
+    "id": "1480176466"
+  },
+  {
+    "city": "Bambous",
+    "city_ascii": "Bambous",
+    "admin_name": "Black River",
+    "lat": "-20.2600",
+    "lng": "57.4148",
+    "id": "1480968056"
+  },
+  {
+    "city": "Le Hochet",
+    "city_ascii": "Le Hochet",
+    "admin_name": "Pamplemousses",
+    "lat": "-20.1350",
+    "lng": "57.5211",
+    "id": "1480875761"
+  },
+  {
+    "city": "Baie du Tombeau",
+    "city_ascii": "Baie du Tombeau",
+    "admin_name": "Pamplemousses",
+    "lat": "-20.1138",
+    "lng": "57.5066",
+    "id": "1480279659"
+  },
+  {
+    "city": "Rose Belle",
+    "city_ascii": "Rose Belle",
+    "admin_name": "Grand Port",
+    "lat": "-20.4025",
+    "lng": "57.6061",
+    "id": "1480996186"
+  },
+  {
+    "city": "Grand Baie",
+    "city_ascii": "Grand Baie",
+    "admin_name": "Rivière du Rempart",
+    "lat": "-20.0131",
+    "lng": "57.5844",
+    "id": "1480922858"
+  },
+  {
+    "city": "Lalmatie",
+    "city_ascii": "Lalmatie",
+    "admin_name": "Flacq",
+    "lat": "-20.0184",
+    "lng": "57.5802",
+    "id": "1480729311"
+  },
+  {
+    "city": "Surinam",
+    "city_ascii": "Surinam",
+    "admin_name": "Savanne",
+    "lat": "-20.5139",
+    "lng": "57.5111",
+    "id": "1480977904"
+  },
+  {
+    "city": "Plaine Magnien",
+    "city_ascii": "Plaine Magnien",
+    "admin_name": "Grand Port",
+    "lat": "-20.4286",
+    "lng": "57.6531",
+    "id": "1480551714"
+  },
+  {
+    "city": "Moka",
+    "city_ascii": "Moka",
+    "admin_name": "Moka",
+    "lat": "-20.2190",
+    "lng": "57.4960",
+    "id": "1480573073"
+  }
+]

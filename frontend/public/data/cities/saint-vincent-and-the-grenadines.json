@@ -1,0 +1,18 @@
+[
+  {
+    "city": "Calliaqua",
+    "city_ascii": "Calliaqua",
+    "admin_name": "Saint George",
+    "lat": "13.1308",
+    "lng": "-61.1928",
+    "id": "1670040822"
+  },
+  {
+    "city": "Kingstown",
+    "city_ascii": "Kingstown",
+    "admin_name": "Saint George",
+    "lat": "13.1578",
+    "lng": "-61.2250",
+    "id": "1670376659"
+  }
+]

@@ -1,0 +1,298 @@
+[
+  {
+    "city": "Bangui",
+    "city_ascii": "Bangui",
+    "admin_name": "Bangui",
+    "lat": "4.3733",
+    "lng": "18.5628",
+    "id": "1140080881"
+  },
+  {
+    "city": "Mambéré",
+    "city_ascii": "Mambere",
+    "admin_name": "Nana-Mambéré",
+    "lat": "5.5000",
+    "lng": "15.5000",
+    "id": "1140081585"
+  },
+  {
+    "city": "Bimbo",
+    "city_ascii": "Bimbo",
+    "admin_name": "Ombella-Mpoko",
+    "lat": "4.2558",
+    "lng": "18.4042",
+    "id": "1140257478"
+  },
+  {
+    "city": "Berbérati",
+    "city_ascii": "Berberati",
+    "admin_name": "Mambéré-Kadéï",
+    "lat": "4.2614",
+    "lng": "15.7894",
+    "id": "1140239733"
+  },
+  {
+    "city": "Bocaranga",
+    "city_ascii": "Bocaranga",
+    "admin_name": "Ouham-Pendé",
+    "lat": "6.9844",
+    "lng": "15.6408",
+    "id": "1140638385"
+  },
+  {
+    "city": "Carnot",
+    "city_ascii": "Carnot",
+    "admin_name": "Mambéré-Kadéï",
+    "lat": "4.9400",
+    "lng": "15.8700",
+    "id": "1140319605"
+  },
+  {
+    "city": "Bambari",
+    "city_ascii": "Bambari",
+    "admin_name": "Ouaka",
+    "lat": "5.7653",
+    "lng": "20.6742",
+    "id": "1140304277"
+  },
+  {
+    "city": "Bouar",
+    "city_ascii": "Bouar",
+    "admin_name": "Nana-Mambéré",
+    "lat": "5.9500",
+    "lng": "15.6000",
+    "id": "1140144321"
+  },
+  {
+    "city": "Bossangoa",
+    "city_ascii": "Bossangoa",
+    "admin_name": "Ouham",
+    "lat": "6.4833",
+    "lng": "17.4500",
+    "id": "1140523604"
+  },
+  {
+    "city": "Bria",
+    "city_ascii": "Bria",
+    "admin_name": "Haute-Kotto",
+    "lat": "6.5369",
+    "lng": "21.9919",
+    "id": "1140582053"
+  },
+  {
+    "city": "Bangassou",
+    "city_ascii": "Bangassou",
+    "admin_name": "Mbomou",
+    "lat": "4.7374",
+    "lng": "22.8195",
+    "id": "1140539356"
+  },
+  {
+    "city": "Nola",
+    "city_ascii": "Nola",
+    "admin_name": "Sangha-Mbaéré",
+    "lat": "3.5333",
+    "lng": "16.0667",
+    "id": "1140236347"
+  },
+  {
+    "city": "Kaga Bandoro",
+    "city_ascii": "Kaga Bandoro",
+    "admin_name": "Nana-Grébizi",
+    "lat": "7.0000",
+    "lng": "19.1833",
+    "id": "1140658026"
+  },
+  {
+    "city": "Sibut",
+    "city_ascii": "Sibut",
+    "admin_name": "Kémo",
+    "lat": "5.7333",
+    "lng": "19.0833",
+    "id": "1140802055"
+  },
+  {
+    "city": "Mbaïki",
+    "city_ascii": "Mbaiki",
+    "admin_name": "Lobaye",
+    "lat": "3.8833",
+    "lng": "18.0000",
+    "id": "1140040245"
+  },
+  {
+    "city": "Bozoum",
+    "city_ascii": "Bozoum",
+    "admin_name": "Ouham-Pendé",
+    "lat": "6.3172",
+    "lng": "16.3783",
+    "id": "1140416562"
+  },
+  {
+    "city": "Zemio",
+    "city_ascii": "Zemio",
+    "admin_name": "Haut-Mbomou",
+    "lat": "5.0333",
+    "lng": "25.1333",
+    "id": "1140178462"
+  },
+  {
+    "city": "Bakouma",
+    "city_ascii": "Bakouma",
+    "admin_name": "Mbomou",
+    "lat": "5.6986",
+    "lng": "22.7833",
+    "id": "1140312993"
+  },
+  {
+    "city": "Paoua",
+    "city_ascii": "Paoua",
+    "admin_name": "Ouham-Pendé",
+    "lat": "7.2500",
+    "lng": "16.4333",
+    "id": "1140636739"
+  },
+  {
+    "city": "Ippy",
+    "city_ascii": "Ippy",
+    "admin_name": "Ouaka",
+    "lat": "6.2500",
+    "lng": "21.2000",
+    "id": "1140476425"
+  },
+  {
+    "city": "Grimari",
+    "city_ascii": "Grimari",
+    "admin_name": "Ouaka",
+    "lat": "5.7167",
+    "lng": "20.0500",
+    "id": "1140969115"
+  },
+  {
+    "city": "Bobangui",
+    "city_ascii": "Bobangui",
+    "admin_name": "Lobaye",
+    "lat": "4.0500",
+    "lng": "18.1167",
+    "id": "1140666891"
+  },
+  {
+    "city": "Batangafo",
+    "city_ascii": "Batangafo",
+    "admin_name": "Ouham",
+    "lat": "7.3000",
+    "lng": "18.3000",
+    "id": "1140264100"
+  },
+  {
+    "city": "Kabo",
+    "city_ascii": "Kabo",
+    "admin_name": "Ouham",
+    "lat": "7.6994",
+    "lng": "18.6292",
+    "id": "1140386370"
+  },
+  {
+    "city": "Alindao",
+    "city_ascii": "Alindao",
+    "admin_name": "Basse-Kotto",
+    "lat": "5.0333",
+    "lng": "21.2167",
+    "id": "1140620640"
+  },
+  {
+    "city": "Rafaï",
+    "city_ascii": "Rafai",
+    "admin_name": "Mbomou",
+    "lat": "4.9731",
+    "lng": "23.9319",
+    "id": "1140732903"
+  },
+  {
+    "city": "Ndélé",
+    "city_ascii": "Ndele",
+    "admin_name": "Bamingui-Bangoran",
+    "lat": "8.4092",
+    "lng": "20.6531",
+    "id": "1140271951"
+  },
+  {
+    "city": "Gamboula",
+    "city_ascii": "Gamboula",
+    "admin_name": "Mambéré-Kadéï",
+    "lat": "4.1333",
+    "lng": "15.1500",
+    "id": "1140530300"
+  },
+  {
+    "city": "Bouca",
+    "city_ascii": "Bouca",
+    "admin_name": "Ouham",
+    "lat": "6.5000",
+    "lng": "18.2833",
+    "id": "1140720840"
+  },
+  {
+    "city": "Birao",
+    "city_ascii": "Birao",
+    "admin_name": "Vakaga",
+    "lat": "10.2940",
+    "lng": "22.7820",
+    "id": "1140392673"
+  },
+  {
+    "city": "Mboki",
+    "city_ascii": "Mboki",
+    "admin_name": "Haut-Mbomou",
+    "lat": "5.3160",
+    "lng": "25.9571",
+    "id": "1140277329"
+  },
+  {
+    "city": "Boali",
+    "city_ascii": "Boali",
+    "admin_name": "Ombella-Mpoko",
+    "lat": "4.8000",
+    "lng": "18.1167",
+    "id": "1140101002"
+  },
+  {
+    "city": "Bossembele",
+    "city_ascii": "Bossembele",
+    "admin_name": "Ombella-Mpoko",
+    "lat": "5.2667",
+    "lng": "17.6500",
+    "id": "1140955210"
+  },
+  {
+    "city": "Obo",
+    "city_ascii": "Obo",
+    "admin_name": "Haut-Mbomou",
+    "lat": "5.4000",
+    "lng": "26.5000",
+    "id": "1140533897"
+  },
+  {
+    "city": "Mobaye",
+    "city_ascii": "Mobaye",
+    "admin_name": "Basse-Kotto",
+    "lat": "4.3254",
+    "lng": "21.1778",
+    "id": "1140935252"
+  },
+  {
+    "city": "Ouadda",
+    "city_ascii": "Ouadda",
+    "admin_name": "Haute-Kotto",
+    "lat": "8.0667",
+    "lng": "22.4000",
+    "id": "1140640564"
+  },
+  {
+    "city": "Yakossi",
+    "city_ascii": "Yakossi",
+    "admin_name": "Mbomou",
+    "lat": "5.6170",
+    "lng": "23.3167",
+    "id": "1140246753"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "city": "Paramaribo",
+    "city_ascii": "Paramaribo",
+    "admin_name": "Paramaribo",
+    "lat": "5.8522",
+    "lng": "-55.2039",
+    "id": "1740518660"
+  },
+  {
+    "city": "Cottica",
+    "city_ascii": "Cottica",
+    "admin_name": "Sipaliwini",
+    "lat": "3.8542",
+    "lng": "-54.2281",
+    "id": "1740371814"
+  },
+  {
+    "city": "Koewarasan",
+    "city_ascii": "Koewarasan",
+    "admin_name": "Wanica",
+    "lat": "5.7697",
+    "lng": "-55.2922",
+    "id": "1740587100"
+  },
+  {
+    "city": "Lelydorp",
+    "city_ascii": "Lelydorp",
+    "admin_name": "Wanica",
+    "lat": "5.6967",
+    "lng": "-55.2167",
+    "id": "1740222585"
+  },
+  {
+    "city": "Nieuw Nickerie",
+    "city_ascii": "Nieuw Nickerie",
+    "admin_name": "Nickerie",
+    "lat": "5.9333",
+    "lng": "-56.9833",
+    "id": "1740480869"
+  },
+  {
+    "city": "Meerzorg",
+    "city_ascii": "Meerzorg",
+    "admin_name": "Commewijne",
+    "lat": "5.8072",
+    "lng": "-55.1469",
+    "id": "1740663491"
+  },
+  {
+    "city": "Moengo",
+    "city_ascii": "Moengo",
+    "admin_name": "Marowijne",
+    "lat": "5.6167",
+    "lng": "-54.4000",
+    "id": "1740230194"
+  },
+  {
+    "city": "Nieuw Amsterdam",
+    "city_ascii": "Nieuw Amsterdam",
+    "admin_name": "Commewijne",
+    "lat": "5.8833",
+    "lng": "-55.0833",
+    "id": "1740547119"
+  },
+  {
+    "city": "Albina",
+    "city_ascii": "Albina",
+    "admin_name": "Marowijne",
+    "lat": "5.5000",
+    "lng": "-54.0500",
+    "id": "1740921776"
+  },
+  {
+    "city": "Brownsweg",
+    "city_ascii": "Brownsweg",
+    "admin_name": "Brokopondo",
+    "lat": "5.0164",
+    "lng": "-55.1669",
+    "id": "1740310469"
+  },
+  {
+    "city": "Groningen",
+    "city_ascii": "Groningen",
+    "admin_name": "Saramacca",
+    "lat": "5.8000",
+    "lng": "-55.4667",
+    "id": "1740072928"
+  },
+  {
+    "city": "Brokopondo",
+    "city_ascii": "Brokopondo",
+    "admin_name": "Brokopondo",
+    "lat": "5.0667",
+    "lng": "-54.9667",
+    "id": "1740558611"
+  },
+  {
+    "city": "Onverwacht",
+    "city_ascii": "Onverwacht",
+    "admin_name": "Para",
+    "lat": "5.5931",
+    "lng": "-55.1939",
+    "id": "1740007571"
+  },
+  {
+    "city": "Totness",
+    "city_ascii": "Totness",
+    "admin_name": "Coronie",
+    "lat": "5.8775",
+    "lng": "-56.3292",
+    "id": "1740738832"
+  }
+]

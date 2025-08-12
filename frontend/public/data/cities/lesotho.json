@@ -1,0 +1,218 @@
+[
+  {
+    "city": "Maseru",
+    "city_ascii": "Maseru",
+    "admin_name": "Maseru",
+    "lat": "-29.3100",
+    "lng": "27.4800",
+    "id": "1426977668"
+  },
+  {
+    "city": "Teyateyaneng",
+    "city_ascii": "Teyateyaneng",
+    "admin_name": "Berea",
+    "lat": "-29.1511",
+    "lng": "27.7425",
+    "id": "1426159118"
+  },
+  {
+    "city": "Mafeteng",
+    "city_ascii": "Mafeteng",
+    "admin_name": "Mafeteng",
+    "lat": "-29.8167",
+    "lng": "27.2500",
+    "id": "1426506047"
+  },
+  {
+    "city": "Leribe",
+    "city_ascii": "Leribe",
+    "admin_name": "Leribe",
+    "lat": "-28.8734",
+    "lng": "28.0416",
+    "id": "1426721246"
+  },
+  {
+    "city": "Maputsoe",
+    "city_ascii": "Maputsoe",
+    "admin_name": "Leribe",
+    "lat": "-28.8950",
+    "lng": "27.9070",
+    "id": "1426999579"
+  },
+  {
+    "city": "Mazenod",
+    "city_ascii": "Mazenod",
+    "admin_name": "Maseru",
+    "lat": "-29.4642",
+    "lng": "27.4969",
+    "id": "1426996323"
+  },
+  {
+    "city": "Ratau",
+    "city_ascii": "Ratau",
+    "admin_name": "Maseru",
+    "lat": "-29.3828",
+    "lng": "27.7892",
+    "id": "1426355442"
+  },
+  {
+    "city": "Mohale’s Hoek",
+    "city_ascii": "Mohale's Hoek",
+    "admin_name": "Mohale’s Hoek",
+    "lat": "-30.1500",
+    "lng": "27.4667",
+    "id": "1426343192"
+  },
+  {
+    "city": "Qiloane",
+    "city_ascii": "Qiloane",
+    "admin_name": "Maseru",
+    "lat": "-29.3625",
+    "lng": "27.6319",
+    "id": "1426291915"
+  },
+  {
+    "city": "Mapoteng",
+    "city_ascii": "Mapoteng",
+    "admin_name": "Berea",
+    "lat": "-29.1097",
+    "lng": "27.9739",
+    "id": "1426371012"
+  },
+  {
+    "city": "Senekane",
+    "city_ascii": "Senekane",
+    "admin_name": "Berea",
+    "lat": "-29.2525",
+    "lng": "27.7433",
+    "id": "1426773784"
+  },
+  {
+    "city": "Kueneng",
+    "city_ascii": "Kueneng",
+    "admin_name": "Berea",
+    "lat": "-29.0161",
+    "lng": "27.9981",
+    "id": "1426216569"
+  },
+  {
+    "city": "Maghalleen",
+    "city_ascii": "Maghalleen",
+    "admin_name": "Mohale’s Hoek",
+    "lat": "-30.0942",
+    "lng": "27.4189",
+    "id": "1426440371"
+  },
+  {
+    "city": "Pitseng",
+    "city_ascii": "Pitseng",
+    "admin_name": "Leribe",
+    "lat": "-29.0097",
+    "lng": "28.2575",
+    "id": "1426276649"
+  },
+  {
+    "city": "Siloe",
+    "city_ascii": "Siloe",
+    "admin_name": "Mohale’s Hoek",
+    "lat": "-29.9836",
+    "lng": "27.2792",
+    "id": "1426116869"
+  },
+  {
+    "city": "Peka",
+    "city_ascii": "Peka",
+    "admin_name": "Leribe",
+    "lat": "-28.9667",
+    "lng": "27.7667",
+    "id": "1426883047"
+  },
+  {
+    "city": "Quthing",
+    "city_ascii": "Quthing",
+    "admin_name": "Quthing",
+    "lat": "-30.4001",
+    "lng": "27.7002",
+    "id": "1426618526"
+  },
+  {
+    "city": "Nako",
+    "city_ascii": "Nako",
+    "admin_name": "Maseru",
+    "lat": "-29.6481",
+    "lng": "27.7336",
+    "id": "1426816465"
+  },
+  {
+    "city": "Ramabitsa",
+    "city_ascii": "Ramabitsa",
+    "admin_name": "Maseru",
+    "lat": "-29.7625",
+    "lng": "27.6139",
+    "id": "1426883500"
+  },
+  {
+    "city": "Nyakosoba",
+    "city_ascii": "Nyakosoba",
+    "admin_name": "Maseru",
+    "lat": "-29.5047",
+    "lng": "27.8692",
+    "id": "1426143192"
+  },
+  {
+    "city": "Rasebetsane",
+    "city_ascii": "Rasebetsane",
+    "admin_name": "Mafeteng",
+    "lat": "-29.8992",
+    "lng": "27.6628",
+    "id": "1426189375"
+  },
+  {
+    "city": "Butha-Buthe",
+    "city_ascii": "Butha-Buthe",
+    "admin_name": "Butha-Buthe",
+    "lat": "-28.7833",
+    "lng": "28.2333",
+    "id": "1426574356"
+  },
+  {
+    "city": "Mohlanapeng",
+    "city_ascii": "Mohlanapeng",
+    "admin_name": "Thaba-Tseka",
+    "lat": "-29.6975",
+    "lng": "28.6947",
+    "id": "1426075936"
+  },
+  {
+    "city": "Seforong",
+    "city_ascii": "Seforong",
+    "admin_name": "Quthing",
+    "lat": "-30.1028",
+    "lng": "28.1864",
+    "id": "1426821523"
+  },
+  {
+    "city": "Mokhotlong",
+    "city_ascii": "Mokhotlong",
+    "admin_name": "Mokhotlong",
+    "lat": "-29.2885",
+    "lng": "29.0656",
+    "id": "1426785819"
+  },
+  {
+    "city": "Thaba-Tseka",
+    "city_ascii": "Thaba-Tseka",
+    "admin_name": "Thaba-Tseka",
+    "lat": "-29.5333",
+    "lng": "28.6000",
+    "id": "1426611266"
+  },
+  {
+    "city": "Qacha’s Nek",
+    "city_ascii": "Qacha's Nek",
+    "admin_name": "Qacha’s Nek",
+    "lat": "-30.1167",
+    "lng": "28.6833",
+    "id": "1426361264"
+  }
+]

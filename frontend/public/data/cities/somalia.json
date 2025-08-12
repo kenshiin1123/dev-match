@@ -1,0 +1,586 @@
+[
+  {
+    "city": "Mogadishu",
+    "city_ascii": "Mogadishu",
+    "admin_name": "Banaadir",
+    "lat": "2.0392",
+    "lng": "45.3419",
+    "id": "1706893395"
+  },
+  {
+    "city": "Hargeysa",
+    "city_ascii": "Hargeysa",
+    "admin_name": "Woqooyi Galbeed",
+    "lat": "9.5600",
+    "lng": "44.0650",
+    "id": "1706832021"
+  },
+  {
+    "city": "Baidoa",
+    "city_ascii": "Baidoa",
+    "admin_name": "Bay",
+    "lat": "3.1167",
+    "lng": "43.6500",
+    "id": "1706563100"
+  },
+  {
+    "city": "Baardheere",
+    "city_ascii": "Baardheere",
+    "admin_name": "Gedo",
+    "lat": "2.3447",
+    "lng": "42.2764",
+    "id": "1706822684"
+  },
+  {
+    "city": "Gaalkacyo",
+    "city_ascii": "Gaalkacyo",
+    "admin_name": "Mudug",
+    "lat": "6.7697",
+    "lng": "47.4308",
+    "id": "1706067930"
+  },
+  {
+    "city": "Boosaaso",
+    "city_ascii": "Boosaaso",
+    "admin_name": "Bari",
+    "lat": "11.2800",
+    "lng": "49.1800",
+    "id": "1706054548"
+  },
+  {
+    "city": "Cadaado",
+    "city_ascii": "Cadaado",
+    "admin_name": "Galguduud",
+    "lat": "6.1393",
+    "lng": "46.6241",
+    "id": "1706406560"
+  },
+  {
+    "city": "Garoowe",
+    "city_ascii": "Garoowe",
+    "admin_name": "Nugaal",
+    "lat": "8.4000",
+    "lng": "48.4833",
+    "id": "1706512367"
+  },
+  {
+    "city": "Berbera",
+    "city_ascii": "Berbera",
+    "admin_name": "Woqooyi Galbeed",
+    "lat": "10.4396",
+    "lng": "45.0143",
+    "id": "1706893125"
+  },
+  {
+    "city": "Burco",
+    "city_ascii": "Burco",
+    "admin_name": "Togdheer",
+    "lat": "9.5221",
+    "lng": "45.5336",
+    "id": "1706322754"
+  },
+  {
+    "city": "Ceel Baraf",
+    "city_ascii": "Ceel Baraf",
+    "admin_name": "Shabeellaha Dhexe",
+    "lat": "3.2072",
+    "lng": "45.7593",
+    "id": "1706959191"
+  },
+  {
+    "city": "Qardho",
+    "city_ascii": "Qardho",
+    "admin_name": "Bari",
+    "lat": "9.5004",
+    "lng": "49.1660",
+    "id": "1706405003"
+  },
+  {
+    "city": "Buurhakaba",
+    "city_ascii": "Buurhakaba",
+    "admin_name": "Bay",
+    "lat": "2.7837",
+    "lng": "44.0833",
+    "id": "1706176225"
+  },
+  {
+    "city": "Marka",
+    "city_ascii": "Marka",
+    "admin_name": "Shabeellaha Hoose",
+    "lat": "1.7156",
+    "lng": "44.7703",
+    "id": "1706165964"
+  },
+  {
+    "city": "Kismaayo",
+    "city_ascii": "Kismaayo",
+    "admin_name": "Jubbada Hoose",
+    "lat": "-0.3603",
+    "lng": "42.5489",
+    "id": "1706091701"
+  },
+  {
+    "city": "Luuq",
+    "city_ascii": "Luuq",
+    "admin_name": "Gedo",
+    "lat": "3.8005",
+    "lng": "42.5500",
+    "id": "1706505283"
+  },
+  {
+    "city": "Jamaame",
+    "city_ascii": "Jamaame",
+    "admin_name": "Jubbada Hoose",
+    "lat": "0.0722",
+    "lng": "42.7506",
+    "id": "1706288768"
+  },
+  {
+    "city": "Jilib",
+    "city_ascii": "Jilib",
+    "admin_name": "Jubbada Dhexe",
+    "lat": "0.4883",
+    "lng": "42.7853",
+    "id": "1706018650"
+  },
+  {
+    "city": "Aw Dheegle",
+    "city_ascii": "Aw Dheegle",
+    "admin_name": "Shabeellaha Hoose",
+    "lat": "1.9775",
+    "lng": "44.8325",
+    "id": "1706678463"
+  },
+  {
+    "city": "Bu’aale",
+    "city_ascii": "Bu'aale",
+    "admin_name": "Jubbada Dhexe",
+    "lat": "1.0833",
+    "lng": "42.5833",
+    "id": "1706765820"
+  },
+  {
+    "city": "Jawhar",
+    "city_ascii": "Jawhar",
+    "admin_name": "Shabeellaha Dhexe",
+    "lat": "2.7833",
+    "lng": "45.5000",
+    "id": "1706737655"
+  },
+  {
+    "city": "Afmadow",
+    "city_ascii": "Afmadow",
+    "admin_name": "Jubbada Hoose",
+    "lat": "0.5127",
+    "lng": "42.0796",
+    "id": "1706654469"
+  },
+  {
+    "city": "Barwaaqo",
+    "city_ascii": "Barwaaqo",
+    "admin_name": "Gedo",
+    "lat": "3.4832",
+    "lng": "42.1868",
+    "id": "1706735840"
+  },
+  {
+    "city": "Caracase",
+    "city_ascii": "Caracase",
+    "admin_name": "Gedo",
+    "lat": "3.7532",
+    "lng": "42.5441",
+    "id": "1706846074"
+  },
+  {
+    "city": "Xuddur",
+    "city_ascii": "Xuddur",
+    "admin_name": "Bakool",
+    "lat": "4.1200",
+    "lng": "43.8878",
+    "id": "1706568226"
+  },
+  {
+    "city": "Ufeyn",
+    "city_ascii": "Ufeyn",
+    "admin_name": "Bari",
+    "lat": "10.6524",
+    "lng": "49.7537",
+    "id": "1706398122"
+  },
+  {
+    "city": "Afgooye",
+    "city_ascii": "Afgooye",
+    "admin_name": "Shabeellaha Hoose",
+    "lat": "2.1381",
+    "lng": "45.1212",
+    "id": "1706930457"
+  },
+  {
+    "city": "Wisil",
+    "city_ascii": "Wisil",
+    "admin_name": "Mudug",
+    "lat": "5.4281",
+    "lng": "48.1201",
+    "id": "1706820984"
+  },
+  {
+    "city": "Badhan",
+    "city_ascii": "Badhan",
+    "admin_name": "Sanaag",
+    "lat": "10.7142",
+    "lng": "48.3359",
+    "id": "1706819798"
+  },
+  {
+    "city": "Xarardheere",
+    "city_ascii": "Xarardheere",
+    "admin_name": "Mudug",
+    "lat": "4.6544",
+    "lng": "47.8575",
+    "id": "1706020308"
+  },
+  {
+    "city": "Beledweyne",
+    "city_ascii": "Beledweyne",
+    "admin_name": "Hiiraan",
+    "lat": "4.7360",
+    "lng": "45.2040",
+    "id": "1706018197"
+  },
+  {
+    "city": "Qoryooley",
+    "city_ascii": "Qoryooley",
+    "admin_name": "Shabeellaha Hoose",
+    "lat": "1.7878",
+    "lng": "44.5300",
+    "id": "1706713350"
+  },
+  {
+    "city": "Qoorlugud",
+    "city_ascii": "Qoorlugud",
+    "admin_name": "Togdheer",
+    "lat": "8.5533",
+    "lng": "46.2256",
+    "id": "1706197639"
+  },
+  {
+    "city": "Buqda Caqable",
+    "city_ascii": "Buqda Caqable",
+    "admin_name": "Hiiraan",
+    "lat": "4.0601",
+    "lng": "45.2577",
+    "id": "1706953037"
+  },
+  {
+    "city": "Oodweyne",
+    "city_ascii": "Oodweyne",
+    "admin_name": "Togdheer",
+    "lat": "9.4092",
+    "lng": "45.0640",
+    "id": "1706384679"
+  },
+  {
+    "city": "Bura",
+    "city_ascii": "Bura",
+    "admin_name": "Gedo",
+    "lat": "3.1722",
+    "lng": "42.1411",
+    "id": "1706744119"
+  },
+  {
+    "city": "Bilis Qooqaani",
+    "city_ascii": "Bilis Qooqaani",
+    "admin_name": "Jubbada Hoose",
+    "lat": "0.2837",
+    "lng": "41.7141",
+    "id": "1706381746"
+  },
+  {
+    "city": "Bacaadweyn",
+    "city_ascii": "Bacaadweyn",
+    "admin_name": "Mudug",
+    "lat": "7.1919",
+    "lng": "47.5261",
+    "id": "1706478159"
+  },
+  {
+    "city": "Godinlabe",
+    "city_ascii": "Godinlabe",
+    "admin_name": "Galguduud",
+    "lat": "5.8794",
+    "lng": "46.6308",
+    "id": "1706143900"
+  },
+  {
+    "city": "Ceel Dheere",
+    "city_ascii": "Ceel Dheere",
+    "admin_name": "Galguduud",
+    "lat": "5.3686",
+    "lng": "46.1913",
+    "id": "1706349687"
+  },
+  {
+    "city": "Busaar",
+    "city_ascii": "Busaar",
+    "admin_name": "Gedo",
+    "lat": "2.6778",
+    "lng": "41.3253",
+    "id": "1706248273"
+  },
+  {
+    "city": "Garbahaarrey",
+    "city_ascii": "Garbahaarrey",
+    "admin_name": "Gedo",
+    "lat": "3.3500",
+    "lng": "42.2667",
+    "id": "1706488487"
+  },
+  {
+    "city": "Baraawe",
+    "city_ascii": "Baraawe",
+    "admin_name": "Shabeellaha Hoose",
+    "lat": "1.1133",
+    "lng": "44.0303",
+    "id": "1706566007"
+  },
+  {
+    "city": "Uar Esgudud",
+    "city_ascii": "Uar Esgudud",
+    "admin_name": "Gedo",
+    "lat": "1.2667",
+    "lng": "41.3833",
+    "id": "1706563157"
+  },
+  {
+    "city": "Wanlaweyn",
+    "city_ascii": "Wanlaweyn",
+    "admin_name": "Shabeellaha Hoose",
+    "lat": "2.6185",
+    "lng": "44.8938",
+    "id": "1706708274"
+  },
+  {
+    "city": "Baxdo",
+    "city_ascii": "Baxdo",
+    "admin_name": "Galguduud",
+    "lat": "5.7890",
+    "lng": "47.2266",
+    "id": "1706255273"
+  },
+  {
+    "city": "Eyl",
+    "city_ascii": "Eyl",
+    "admin_name": "Nugaal",
+    "lat": "7.9667",
+    "lng": "49.8500",
+    "id": "1706929381"
+  },
+  {
+    "city": "Dan Gorayo",
+    "city_ascii": "Dan Gorayo",
+    "admin_name": "Bari",
+    "lat": "8.7269",
+    "lng": "49.3416",
+    "id": "1706372631"
+  },
+  {
+    "city": "Diinsoor",
+    "city_ascii": "Diinsoor",
+    "admin_name": "Bay",
+    "lat": "2.4085",
+    "lng": "42.9771",
+    "id": "1706924480"
+  },
+  {
+    "city": "Qandala",
+    "city_ascii": "Qandala",
+    "admin_name": "Bari",
+    "lat": "11.4667",
+    "lng": "49.8667",
+    "id": "1706605271"
+  },
+  {
+    "city": "Saylac",
+    "city_ascii": "Saylac",
+    "admin_name": "Awdal",
+    "lat": "11.3539",
+    "lng": "43.4731",
+    "id": "1706903180"
+  },
+  {
+    "city": "Bandar Murcaayo",
+    "city_ascii": "Bandar Murcaayo",
+    "admin_name": "Bari",
+    "lat": "11.6833",
+    "lng": "50.4500",
+    "id": "1706146146"
+  },
+  {
+    "city": "Yufle",
+    "city_ascii": "Yufle",
+    "admin_name": "Sanaag",
+    "lat": "10.3758",
+    "lng": "47.1964",
+    "id": "1706706214"
+  },
+  {
+    "city": "Bandarbeyla",
+    "city_ascii": "Bandarbeyla",
+    "admin_name": "Bari",
+    "lat": "9.4833",
+    "lng": "50.8167",
+    "id": "1706279652"
+  },
+  {
+    "city": "Xaafuun",
+    "city_ascii": "Xaafuun",
+    "admin_name": "Bari",
+    "lat": "10.4167",
+    "lng": "51.2667",
+    "id": "1706739156"
+  },
+  {
+    "city": "Buqkoosaar",
+    "city_ascii": "Buqkoosaar",
+    "admin_name": "Hiiraan",
+    "lat": "4.5109",
+    "lng": "44.8165",
+    "id": "1706633414"
+  },
+  {
+    "city": "Jalalaqsi",
+    "city_ascii": "Jalalaqsi",
+    "admin_name": "Hiiraan",
+    "lat": "3.3766",
+    "lng": "45.5996",
+    "id": "1706085316"
+  },
+  {
+    "city": "Hobyo",
+    "city_ascii": "Hobyo",
+    "admin_name": "Mudug",
+    "lat": "5.3505",
+    "lng": "48.5268",
+    "id": "1706623995"
+  },
+  {
+    "city": "Cadale",
+    "city_ascii": "Cadale",
+    "admin_name": "Shabeellaha Dhexe",
+    "lat": "2.7603",
+    "lng": "46.3222",
+    "id": "1706665542"
+  },
+  {
+    "city": "Buuhoodle",
+    "city_ascii": "Buuhoodle",
+    "admin_name": "Togdheer",
+    "lat": "8.2547",
+    "lng": "46.3283",
+    "id": "1706850351"
+  },
+  {
+    "city": "Buraan",
+    "city_ascii": "Buraan",
+    "admin_name": "Sanaag",
+    "lat": "10.2167",
+    "lng": "48.7000",
+    "id": "1706631033"
+  },
+  {
+    "city": "Kiridh",
+    "city_ascii": "Kiridh",
+    "admin_name": "Togdheer",
+    "lat": "8.9805",
+    "lng": "46.1293",
+    "id": "1706686835"
+  },
+  {
+    "city": "Gadoon",
+    "city_ascii": "Gadoon",
+    "admin_name": "Galguduud",
+    "lat": "5.6920",
+    "lng": "46.6764",
+    "id": "1706085622"
+  },
+  {
+    "city": "Widhwidh",
+    "city_ascii": "Widhwidh",
+    "admin_name": "Togdheer",
+    "lat": "8.4541",
+    "lng": "46.7083",
+    "id": "1706846618"
+  },
+  {
+    "city": "Ceelbuur",
+    "city_ascii": "Ceelbuur",
+    "admin_name": "Galguduud",
+    "lat": "4.6850",
+    "lng": "46.6175",
+    "id": "1706202255"
+  },
+  {
+    "city": "Mereeg",
+    "city_ascii": "Mereeg",
+    "admin_name": "Galguduud",
+    "lat": "3.7666",
+    "lng": "47.3000",
+    "id": "1706308443"
+  },
+  {
+    "city": "Caluula",
+    "city_ascii": "Caluula",
+    "admin_name": "Bari",
+    "lat": "11.9670",
+    "lng": "50.7500",
+    "id": "1706796061"
+  },
+  {
+    "city": "Dhuusamarreeb",
+    "city_ascii": "Dhuusamarreeb",
+    "admin_name": "Galguduud",
+    "lat": "5.5375",
+    "lng": "46.3875",
+    "id": "1706027824"
+  },
+  {
+    "city": "Buur Gaabo",
+    "city_ascii": "Buur Gaabo",
+    "admin_name": "Jubbada Hoose",
+    "lat": "-1.2192",
+    "lng": "41.8372",
+    "id": "1706122850"
+  },
+  {
+    "city": "Hurdiyo",
+    "city_ascii": "Hurdiyo",
+    "admin_name": "Bari",
+    "lat": "10.5667",
+    "lng": "51.1333",
+    "id": "1706025904"
+  },
+  {
+    "city": "Ceerigaabo",
+    "city_ascii": "Ceerigaabo",
+    "admin_name": "Sanaag",
+    "lat": "10.6162",
+    "lng": "47.3679",
+    "id": "1706173875"
+  },
+  {
+    "city": "Laascaanood",
+    "city_ascii": "Laascaanood",
+    "admin_name": "Sool",
+    "lat": "8.4774",
+    "lng": "47.3597",
+    "id": "1706106404"
+  },
+  {
+    "city": "Boorama",
+    "city_ascii": "Boorama",
+    "admin_name": "Awdal",
+    "lat": "9.9361",
+    "lng": "43.1828",
+    "id": "1706767209"
+  }
+]

@@ -1,0 +1,730 @@
+[
+  {
+    "city": "Minsk",
+    "city_ascii": "Minsk",
+    "admin_name": "Minsk",
+    "lat": "53.9006",
+    "lng": "27.5586",
+    "id": "1112348503"
+  },
+  {
+    "city": "Homyel’",
+    "city_ascii": "Homyel'",
+    "admin_name": "Homyel’skaya Voblasts’",
+    "lat": "52.4453",
+    "lng": "30.9842",
+    "id": "1112580227"
+  },
+  {
+    "city": "Hrodna",
+    "city_ascii": "Hrodna",
+    "admin_name": "Hrodzyenskaya Voblasts’",
+    "lat": "53.6667",
+    "lng": "23.8333",
+    "id": "1112187197"
+  },
+  {
+    "city": "Vitsyebsk",
+    "city_ascii": "Vitsyebsk",
+    "admin_name": "Vitsyebskaya Voblasts’",
+    "lat": "55.1917",
+    "lng": "30.2056",
+    "id": "1112480679"
+  },
+  {
+    "city": "Mahilyow",
+    "city_ascii": "Mahilyow",
+    "admin_name": "Mahilyowskaya Voblasts’",
+    "lat": "53.9167",
+    "lng": "30.3500",
+    "id": "1112518993"
+  },
+  {
+    "city": "Brest",
+    "city_ascii": "Brest",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "52.1347",
+    "lng": "23.6569",
+    "id": "1112896927"
+  },
+  {
+    "city": "Babruysk",
+    "city_ascii": "Babruysk",
+    "admin_name": "Mahilyowskaya Voblasts’",
+    "lat": "53.1500",
+    "lng": "29.2333",
+    "id": "1112573808"
+  },
+  {
+    "city": "Baranavichy",
+    "city_ascii": "Baranavichy",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "53.1333",
+    "lng": "26.0167",
+    "id": "1112421165"
+  },
+  {
+    "city": "Pinsk",
+    "city_ascii": "Pinsk",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "52.1153",
+    "lng": "26.1031",
+    "id": "1112209279"
+  },
+  {
+    "city": "Mazyr",
+    "city_ascii": "Mazyr",
+    "admin_name": "Homyel’skaya Voblasts’",
+    "lat": "52.0500",
+    "lng": "29.2500",
+    "id": "1112704173"
+  },
+  {
+    "city": "Lida",
+    "city_ascii": "Lida",
+    "admin_name": "Hrodzyenskaya Voblasts’",
+    "lat": "53.8956",
+    "lng": "25.2958",
+    "id": "1112110662"
+  },
+  {
+    "city": "Orsha",
+    "city_ascii": "Orsha",
+    "admin_name": "Vitsyebskaya Voblasts’",
+    "lat": "54.5092",
+    "lng": "30.4258",
+    "id": "1112188007"
+  },
+  {
+    "city": "Salihorsk",
+    "city_ascii": "Salihorsk",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "52.8000",
+    "lng": "27.5333",
+    "id": "1112250470"
+  },
+  {
+    "city": "Navapolatsk",
+    "city_ascii": "Navapolatsk",
+    "admin_name": "Vitsyebskaya Voblasts’",
+    "lat": "55.5333",
+    "lng": "28.6500",
+    "id": "1112965860"
+  },
+  {
+    "city": "Maladzyechna",
+    "city_ascii": "Maladzyechna",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "54.3208",
+    "lng": "26.8572",
+    "id": "1112822882"
+  },
+  {
+    "city": "Polatsk",
+    "city_ascii": "Polatsk",
+    "admin_name": "Vitsyebskaya Voblasts’",
+    "lat": "55.4833",
+    "lng": "28.8000",
+    "id": "1112068992"
+  },
+  {
+    "city": "Zhlobin",
+    "city_ascii": "Zhlobin",
+    "admin_name": "Homyel’skaya Voblasts’",
+    "lat": "52.9000",
+    "lng": "30.0333",
+    "id": "1112494264"
+  },
+  {
+    "city": "Rechytsa",
+    "city_ascii": "Rechytsa",
+    "admin_name": "Homyel’skaya Voblasts’",
+    "lat": "54.3667",
+    "lng": "30.4000",
+    "id": "1112587997"
+  },
+  {
+    "city": "Svyetlahorsk",
+    "city_ascii": "Svyetlahorsk",
+    "admin_name": "Homyel’skaya Voblasts’",
+    "lat": "52.6333",
+    "lng": "29.7333",
+    "id": "1112741799"
+  },
+  {
+    "city": "Slutsk",
+    "city_ascii": "Slutsk",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "53.0333",
+    "lng": "27.5667",
+    "id": "1112178336"
+  },
+  {
+    "city": "Kobryn",
+    "city_ascii": "Kobryn",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "52.2167",
+    "lng": "24.3667",
+    "id": "1112806145"
+  },
+  {
+    "city": "Slonim",
+    "city_ascii": "Slonim",
+    "admin_name": "Hrodzyenskaya Voblasts’",
+    "lat": "53.0833",
+    "lng": "25.3167",
+    "id": "1112619287"
+  },
+  {
+    "city": "Vawkavysk",
+    "city_ascii": "Vawkavysk",
+    "admin_name": "Hrodzyenskaya Voblasts’",
+    "lat": "53.1667",
+    "lng": "24.4667",
+    "id": "1112164201"
+  },
+  {
+    "city": "Kalinkavichy",
+    "city_ascii": "Kalinkavichy",
+    "admin_name": "Homyel’skaya Voblasts’",
+    "lat": "52.1250",
+    "lng": "29.3333",
+    "id": "1112264242"
+  },
+  {
+    "city": "Smarhon",
+    "city_ascii": "Smarhon",
+    "admin_name": "Hrodzyenskaya Voblasts’",
+    "lat": "54.4836",
+    "lng": "26.4000",
+    "id": "1112716074"
+  },
+  {
+    "city": "Rahachow",
+    "city_ascii": "Rahachow",
+    "admin_name": "Homyel’skaya Voblasts’",
+    "lat": "53.1000",
+    "lng": "30.0500",
+    "id": "1112299593"
+  },
+  {
+    "city": "Dzyarzhynsk",
+    "city_ascii": "Dzyarzhynsk",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "53.6833",
+    "lng": "27.1333",
+    "id": "1112600874"
+  },
+  {
+    "city": "Asipovichy",
+    "city_ascii": "Asipovichy",
+    "admin_name": "Mahilyowskaya Voblasts’",
+    "lat": "53.2933",
+    "lng": "28.4756",
+    "id": "1112583247"
+  },
+  {
+    "city": "Horki",
+    "city_ascii": "Horki",
+    "admin_name": "Mahilyowskaya Voblasts’",
+    "lat": "54.2667",
+    "lng": "30.9833",
+    "id": "1112565326"
+  },
+  {
+    "city": "Byaroza",
+    "city_ascii": "Byaroza",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "52.5500",
+    "lng": "24.9667",
+    "id": "1112705431"
+  },
+  {
+    "city": "Navahrudak",
+    "city_ascii": "Navahrudak",
+    "admin_name": "Hrodzyenskaya Voblasts’",
+    "lat": "53.5833",
+    "lng": "25.8167",
+    "id": "1112500125"
+  },
+  {
+    "city": "Vilyeyka",
+    "city_ascii": "Vilyeyka",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "54.4972",
+    "lng": "26.9111",
+    "id": "1112405572"
+  },
+  {
+    "city": "Luninyets",
+    "city_ascii": "Luninyets",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "52.2500",
+    "lng": "26.8000",
+    "id": "1112500648"
+  },
+  {
+    "city": "Krychaw",
+    "city_ascii": "Krychaw",
+    "admin_name": "Mahilyowskaya Voblasts’",
+    "lat": "53.7194",
+    "lng": "31.7139",
+    "id": "1112203208"
+  },
+  {
+    "city": "Horad Smalyavichy",
+    "city_ascii": "Horad Smalyavichy",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "54.1000",
+    "lng": "28.0667",
+    "id": "1112264806"
+  },
+  {
+    "city": "Ivatsevichy",
+    "city_ascii": "Ivatsevichy",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "52.7167",
+    "lng": "25.3333",
+    "id": "1112493375"
+  },
+  {
+    "city": "Mar’’ina Horka",
+    "city_ascii": "Mar''ina Horka",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "53.5072",
+    "lng": "28.1522",
+    "id": "1112958819"
+  },
+  {
+    "city": "Pruzhany",
+    "city_ascii": "Pruzhany",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "52.5567",
+    "lng": "24.4644",
+    "id": "1112269031"
+  },
+  {
+    "city": "Pastavy",
+    "city_ascii": "Pastavy",
+    "admin_name": "Vitsyebskaya Voblasts’",
+    "lat": "55.1167",
+    "lng": "26.8333",
+    "id": "1112856591"
+  },
+  {
+    "city": "Fanipal’",
+    "city_ascii": "Fanipal'",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "53.7500",
+    "lng": "27.3333",
+    "id": "1112544829"
+  },
+  {
+    "city": "Dobrush",
+    "city_ascii": "Dobrush",
+    "admin_name": "Homyel’skaya Voblasts’",
+    "lat": "52.4167",
+    "lng": "31.3167",
+    "id": "1112814087"
+  },
+  {
+    "city": "Hlybokaye",
+    "city_ascii": "Hlybokaye",
+    "admin_name": "Vitsyebskaya Voblasts’",
+    "lat": "55.1333",
+    "lng": "27.6833",
+    "id": "1112510591"
+  },
+  {
+    "city": "Stowbtsy",
+    "city_ascii": "Stowbtsy",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "53.4833",
+    "lng": "26.7333",
+    "id": "1112415577"
+  },
+  {
+    "city": "Zaslawye",
+    "city_ascii": "Zaslawye",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "54.0083",
+    "lng": "27.2847",
+    "id": "1112333553"
+  },
+  {
+    "city": "Lyepyel",
+    "city_ascii": "Lyepyel",
+    "admin_name": "Vitsyebskaya Voblasts’",
+    "lat": "54.8750",
+    "lng": "28.6944",
+    "id": "1112177201"
+  },
+  {
+    "city": "Ashmyany",
+    "city_ascii": "Ashmyany",
+    "admin_name": "Hrodzyenskaya Voblasts’",
+    "lat": "54.4250",
+    "lng": "25.9375",
+    "id": "1112383165"
+  },
+  {
+    "city": "Bykhaw",
+    "city_ascii": "Bykhaw",
+    "admin_name": "Mahilyowskaya Voblasts’",
+    "lat": "53.5167",
+    "lng": "30.2500",
+    "id": "1112154662"
+  },
+  {
+    "city": "Ivanava",
+    "city_ascii": "Ivanava",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "52.1333",
+    "lng": "25.5500",
+    "id": "1112507447"
+  },
+  {
+    "city": "Nyasvizh",
+    "city_ascii": "Nyasvizh",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "53.2167",
+    "lng": "26.6667",
+    "id": "1112288294"
+  },
+  {
+    "city": "Zhytkavichy",
+    "city_ascii": "Zhytkavichy",
+    "admin_name": "Homyel’skaya Voblasts’",
+    "lat": "52.2333",
+    "lng": "27.8667",
+    "id": "1112156374"
+  },
+  {
+    "city": "Lahoysk",
+    "city_ascii": "Lahoysk",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "54.2000",
+    "lng": "27.8500",
+    "id": "1112489566"
+  },
+  {
+    "city": "Shchuchyn",
+    "city_ascii": "Shchuchyn",
+    "admin_name": "Hrodzyenskaya Voblasts’",
+    "lat": "53.6167",
+    "lng": "24.7333",
+    "id": "1112140509"
+  },
+  {
+    "city": "Astravyets",
+    "city_ascii": "Astravyets",
+    "admin_name": "Hrodzyenskaya Voblasts’",
+    "lat": "54.6136",
+    "lng": "25.9553",
+    "id": "1112665123"
+  },
+  {
+    "city": "Klimavichy",
+    "city_ascii": "Klimavichy",
+    "admin_name": "Mahilyowskaya Voblasts’",
+    "lat": "53.6167",
+    "lng": "31.9500",
+    "id": "1112437772"
+  },
+  {
+    "city": "Kastsyukovichy",
+    "city_ascii": "Kastsyukovichy",
+    "admin_name": "Mahilyowskaya Voblasts’",
+    "lat": "53.3333",
+    "lng": "32.0500",
+    "id": "1112780059"
+  },
+  {
+    "city": "Shklow",
+    "city_ascii": "Shklow",
+    "admin_name": "Mahilyowskaya Voblasts’",
+    "lat": "54.2236",
+    "lng": "30.2864",
+    "id": "1112362928"
+  },
+  {
+    "city": "Drahichyn",
+    "city_ascii": "Drahichyn",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "52.1833",
+    "lng": "25.1500",
+    "id": "1112244200"
+  },
+  {
+    "city": "Masty",
+    "city_ascii": "Masty",
+    "admin_name": "Hrodzyenskaya Voblasts’",
+    "lat": "53.4170",
+    "lng": "24.5500",
+    "id": "1112000626"
+  },
+  {
+    "city": "Zhabinka",
+    "city_ascii": "Zhabinka",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "52.2006",
+    "lng": "24.0233",
+    "id": "1112259690"
+  },
+  {
+    "city": "Stolin",
+    "city_ascii": "Stolin",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "51.8833",
+    "lng": "26.8500",
+    "id": "1112925605"
+  },
+  {
+    "city": "Hantsavichy",
+    "city_ascii": "Hantsavichy",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "52.7500",
+    "lng": "26.4333",
+    "id": "1112778811"
+  },
+  {
+    "city": "Khoyniki",
+    "city_ascii": "Khoyniki",
+    "admin_name": "Homyel’skaya Voblasts’",
+    "lat": "51.8892",
+    "lng": "29.9644",
+    "id": "1112972491"
+  },
+  {
+    "city": "Malaryta",
+    "city_ascii": "Malaryta",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "51.7833",
+    "lng": "24.0833",
+    "id": "1112089191"
+  },
+  {
+    "city": "Lyelchytsy",
+    "city_ascii": "Lyelchytsy",
+    "admin_name": "Homyel’skaya Voblasts’",
+    "lat": "51.7894",
+    "lng": "28.3214",
+    "id": "1112550047"
+  },
+  {
+    "city": "Mikashevichy",
+    "city_ascii": "Mikashevichy",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "52.2203",
+    "lng": "27.4736",
+    "id": "1112846282"
+  },
+  {
+    "city": "Novalukoml’",
+    "city_ascii": "Novalukoml'",
+    "admin_name": "Vitsyebskaya Voblasts’",
+    "lat": "54.6569",
+    "lng": "29.1500",
+    "id": "1112086719"
+  },
+  {
+    "city": "Haradok",
+    "city_ascii": "Haradok",
+    "admin_name": "Vitsyebskaya Voblasts’",
+    "lat": "55.4667",
+    "lng": "30.0000",
+    "id": "1112131300"
+  },
+  {
+    "city": "Byerazino",
+    "city_ascii": "Byerazino",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "53.8333",
+    "lng": "28.9833",
+    "id": "1112685859"
+  },
+  {
+    "city": "Lyuban",
+    "city_ascii": "Lyuban",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "52.7819",
+    "lng": "28.0525",
+    "id": "1112654360"
+  },
+  {
+    "city": "Klyetsk",
+    "city_ascii": "Klyetsk",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "53.0636",
+    "lng": "26.6372",
+    "id": "1112054647"
+  },
+  {
+    "city": "Byelaazyorsk",
+    "city_ascii": "Byelaazyorsk",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "52.4500",
+    "lng": "25.1667",
+    "id": "1112431328"
+  },
+  {
+    "city": "Staryya Darohi",
+    "city_ascii": "Staryya Darohi",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "53.0394",
+    "lng": "28.2650",
+    "id": "1112727949"
+  },
+  {
+    "city": "Uzda",
+    "city_ascii": "Uzda",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "53.4661",
+    "lng": "27.2244",
+    "id": "1112634742"
+  },
+  {
+    "city": "Lyakhavichy",
+    "city_ascii": "Lyakhavichy",
+    "admin_name": "Brestskaya Voblasts’",
+    "lat": "53.0333",
+    "lng": "26.2667",
+    "id": "1112145874"
+  },
+  {
+    "city": "Machulishchy",
+    "city_ascii": "Machulishchy",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "53.7814",
+    "lng": "27.5958",
+    "id": "1112882458"
+  },
+  {
+    "city": "Chervyen",
+    "city_ascii": "Chervyen",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "53.7078",
+    "lng": "28.4322",
+    "id": "1112715216"
+  },
+  {
+    "city": "Pyetrykaw",
+    "city_ascii": "Pyetrykaw",
+    "admin_name": "Homyel’skaya Voblasts’",
+    "lat": "52.1333",
+    "lng": "28.5000",
+    "id": "1112852097"
+  },
+  {
+    "city": "Baran",
+    "city_ascii": "Baran",
+    "admin_name": "Vitsyebskaya Voblasts’",
+    "lat": "54.4833",
+    "lng": "30.3333",
+    "id": "1112544646"
+  },
+  {
+    "city": "Mstsislaw",
+    "city_ascii": "Mstsislaw",
+    "admin_name": "Mahilyowskaya Voblasts’",
+    "lat": "54.0167",
+    "lng": "31.7167",
+    "id": "1112491469"
+  },
+  {
+    "city": "Valozhyn",
+    "city_ascii": "Valozhyn",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "54.0833",
+    "lng": "26.5167",
+    "id": "1112252303"
+  },
+  {
+    "city": "Kapyl",
+    "city_ascii": "Kapyl",
+    "admin_name": "Minskaya Voblasts’",
+    "lat": "53.1500",
+    "lng": "27.0917",
+    "id": "1112976876"
+  },
+  {
+    "city": "Chavusy",
+    "city_ascii": "Chavusy",
+    "admin_name": "Mahilyowskaya Voblasts’",
+    "lat": "53.8075",
+    "lng": "30.9714",
+    "id": "1112357951"
+  },
+  {
+    "city": "Skidal’",
+    "city_ascii": "Skidal'",
+    "admin_name": "Hrodzyenskaya Voblasts’",
+    "lat": "53.5833",
+    "lng": "24.2500",
+    "id": "1112017248"
+  },
+  {
+    "city": "Byalynichy",
+    "city_ascii": "Byalynichy",
+    "admin_name": "Mahilyowskaya Voblasts’",
+    "lat": "53.9956",
+    "lng": "29.7094",
+    "id": "1112253671"
+  },
+  {
+    "city": "Talachyn",
+    "city_ascii": "Talachyn",
+    "admin_name": "Vitsyebskaya Voblasts’",
+    "lat": "54.4167",
+    "lng": "29.7000",
+    "id": "1112016670"
+  },
+  {
+    "city": "Byarozawka",
+    "city_ascii": "Byarozawka",
+    "admin_name": "Hrodzyenskaya Voblasts’",
+    "lat": "53.7167",
+    "lng": "25.5000",
+    "id": "1112003239"
+  },
+  {
+    "city": "Braslaw",
+    "city_ascii": "Braslaw",
+    "admin_name": "Vitsyebskaya Voblasts’",
+    "lat": "55.6391",
+    "lng": "27.0318",
+    "id": "1112414592"
+  },
+  {
+    "city": "Chachersk",
+    "city_ascii": "Chachersk",
+    "admin_name": "Homyel’skaya Voblasts’",
+    "lat": "52.9161",
+    "lng": "30.9161",
+    "id": "1112940969"
+  },
+  {
+    "city": "Yelsk",
+    "city_ascii": "Yelsk",
+    "admin_name": "Homyel’skaya Voblasts’",
+    "lat": "51.8167",
+    "lng": "29.1500",
+    "id": "1112554124"
+  },
+  {
+    "city": "Vyetka",
+    "city_ascii": "Vyetka",
+    "admin_name": "Homyel’skaya Voblasts’",
+    "lat": "52.5667",
+    "lng": "31.1833",
+    "id": "1112844638"
+  },
+  {
+    "city": "Buda-Kashalyova",
+    "city_ascii": "Buda-Kashalyova",
+    "admin_name": "Homyel’skaya Voblasts’",
+    "lat": "52.7167",
+    "lng": "30.5667",
+    "id": "1112915706"
+  }
+]

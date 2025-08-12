@@ -1,0 +1,466 @@
+[
+  {
+    "city": "Chisinau",
+    "city_ascii": "Chisinau",
+    "admin_name": "Chişinău",
+    "lat": "47.0228",
+    "lng": "28.8353",
+    "id": "1498011437"
+  },
+  {
+    "city": "Tiraspol",
+    "city_ascii": "Tiraspol",
+    "admin_name": "Stînga Nistrului",
+    "lat": "46.8500",
+    "lng": "29.6333",
+    "id": "1498104958"
+  },
+  {
+    "city": "Bălţi",
+    "city_ascii": "Balti",
+    "admin_name": "Bălţi",
+    "lat": "47.7667",
+    "lng": "27.9167",
+    "id": "1498172131"
+  },
+  {
+    "city": "Bender",
+    "city_ascii": "Bender",
+    "admin_name": "Bender",
+    "lat": "46.8333",
+    "lng": "29.4833",
+    "id": "1498257678"
+  },
+  {
+    "city": "Rîbniţa",
+    "city_ascii": "Ribnita",
+    "admin_name": "Stînga Nistrului",
+    "lat": "47.7664",
+    "lng": "29.0006",
+    "id": "1498197530"
+  },
+  {
+    "city": "Ungheni",
+    "city_ascii": "Ungheni",
+    "admin_name": "Ungheni",
+    "lat": "47.2167",
+    "lng": "27.8167",
+    "id": "1498687533"
+  },
+  {
+    "city": "Cahul",
+    "city_ascii": "Cahul",
+    "admin_name": "Cahul",
+    "lat": "45.9075",
+    "lng": "28.1944",
+    "id": "1498020356"
+  },
+  {
+    "city": "Dubăsari",
+    "city_ascii": "Dubasari",
+    "admin_name": "Stînga Nistrului",
+    "lat": "47.2667",
+    "lng": "29.1667",
+    "id": "1498583082"
+  },
+  {
+    "city": "Soroca",
+    "city_ascii": "Soroca",
+    "admin_name": "Soroca",
+    "lat": "48.1667",
+    "lng": "28.3000",
+    "id": "1498912060"
+  },
+  {
+    "city": "Orhei",
+    "city_ascii": "Orhei",
+    "admin_name": "Orhei",
+    "lat": "47.3831",
+    "lng": "28.8231",
+    "id": "1498680500"
+  },
+  {
+    "city": "Comrat",
+    "city_ascii": "Comrat",
+    "admin_name": "Găgăuzia",
+    "lat": "46.3003",
+    "lng": "28.6572",
+    "id": "1498677351"
+  },
+  {
+    "city": "Slobozia",
+    "city_ascii": "Slobozia",
+    "admin_name": "Stînga Nistrului",
+    "lat": "46.7293",
+    "lng": "29.7045",
+    "id": "1498228098"
+  },
+  {
+    "city": "Straşeni",
+    "city_ascii": "Straseni",
+    "admin_name": "Străşeni",
+    "lat": "47.1414",
+    "lng": "28.6103",
+    "id": "1498773145"
+  },
+  {
+    "city": "Ceadîr-Lunga",
+    "city_ascii": "Ceadir-Lunga",
+    "admin_name": "Găgăuzia",
+    "lat": "46.0550",
+    "lng": "28.8303",
+    "id": "1498057941"
+  },
+  {
+    "city": "Codru",
+    "city_ascii": "Codru",
+    "admin_name": "Chişinău",
+    "lat": "46.9753",
+    "lng": "28.8194",
+    "id": "1498544482"
+  },
+  {
+    "city": "Edineţ",
+    "city_ascii": "Edinet",
+    "admin_name": "Edineţ",
+    "lat": "48.1667",
+    "lng": "27.3167",
+    "id": "1498114952"
+  },
+  {
+    "city": "Durleşti",
+    "city_ascii": "Durlesti",
+    "admin_name": "Chişinău",
+    "lat": "47.0178",
+    "lng": "28.7625",
+    "id": "1498757203"
+  },
+  {
+    "city": "Drochia",
+    "city_ascii": "Drochia",
+    "admin_name": "Drochia",
+    "lat": "48.0333",
+    "lng": "27.7500",
+    "id": "1498968635"
+  },
+  {
+    "city": "Căuşeni",
+    "city_ascii": "Causeni",
+    "admin_name": "Căuşeni",
+    "lat": "46.6442",
+    "lng": "29.4139",
+    "id": "1498826686"
+  },
+  {
+    "city": "Ialoveni",
+    "city_ascii": "Ialoveni",
+    "admin_name": "Ialoveni",
+    "lat": "46.9431",
+    "lng": "28.7778",
+    "id": "1498897259"
+  },
+  {
+    "city": "Hînceşti",
+    "city_ascii": "Hincesti",
+    "admin_name": "Hînceşti",
+    "lat": "46.8258",
+    "lng": "28.5936",
+    "id": "1498402212"
+  },
+  {
+    "city": "Sîngerei",
+    "city_ascii": "Singerei",
+    "admin_name": "Sîngerei",
+    "lat": "47.6333",
+    "lng": "28.1500",
+    "id": "1498521430"
+  },
+  {
+    "city": "Taraclia",
+    "city_ascii": "Taraclia",
+    "admin_name": "Taraclia",
+    "lat": "45.9000",
+    "lng": "28.6689",
+    "id": "1498129687"
+  },
+  {
+    "city": "Vulcăneşti",
+    "city_ascii": "Vulcanesti",
+    "admin_name": "Găgăuzia",
+    "lat": "45.6842",
+    "lng": "28.4028",
+    "id": "1498275011"
+  },
+  {
+    "city": "Făleşti",
+    "city_ascii": "Falesti",
+    "admin_name": "Făleşti",
+    "lat": "47.5722",
+    "lng": "27.7139",
+    "id": "1498180648"
+  },
+  {
+    "city": "Floreşti",
+    "city_ascii": "Floresti",
+    "admin_name": "Floreşti",
+    "lat": "47.8933",
+    "lng": "28.3014",
+    "id": "1498297203"
+  },
+  {
+    "city": "Cimişlia",
+    "city_ascii": "Cimislia",
+    "admin_name": "Cimişlia",
+    "lat": "46.5200",
+    "lng": "28.7842",
+    "id": "1498766980"
+  },
+  {
+    "city": "Congaz",
+    "city_ascii": "Congaz",
+    "admin_name": "Găgăuzia",
+    "lat": "46.1092",
+    "lng": "28.6044",
+    "id": "1498367811"
+  },
+  {
+    "city": "Rezina",
+    "city_ascii": "Rezina",
+    "admin_name": "Rezina",
+    "lat": "47.7492",
+    "lng": "28.9622",
+    "id": "1498876065"
+  },
+  {
+    "city": "Costeşti",
+    "city_ascii": "Costesti",
+    "admin_name": "Ialoveni",
+    "lat": "46.8678",
+    "lng": "28.8022",
+    "id": "1498958182"
+  },
+  {
+    "city": "Anenii Noi",
+    "city_ascii": "Anenii Noi",
+    "admin_name": "Anenii Noi",
+    "lat": "46.8817",
+    "lng": "29.2308",
+    "id": "1498650298"
+  },
+  {
+    "city": "Călăraşi",
+    "city_ascii": "Calarasi",
+    "admin_name": "Călăraşi",
+    "lat": "47.2500",
+    "lng": "28.3000",
+    "id": "1498598747"
+  },
+  {
+    "city": "Cricova",
+    "city_ascii": "Cricova",
+    "admin_name": "Chişinău",
+    "lat": "47.1389",
+    "lng": "28.8614",
+    "id": "1498628577"
+  },
+  {
+    "city": "Dnestrovsc",
+    "city_ascii": "Dnestrovsc",
+    "admin_name": "Stînga Nistrului",
+    "lat": "46.6222",
+    "lng": "29.9133",
+    "id": "1498610361"
+  },
+  {
+    "city": "Truşeni",
+    "city_ascii": "Truseni",
+    "admin_name": "Chişinău",
+    "lat": "47.0689",
+    "lng": "28.6797",
+    "id": "1498415834"
+  },
+  {
+    "city": "Băcioi",
+    "city_ascii": "Bacioi",
+    "admin_name": "Chişinău",
+    "lat": "46.9122",
+    "lng": "28.8839",
+    "id": "1498931344"
+  },
+  {
+    "city": "Sîngera",
+    "city_ascii": "Singera",
+    "admin_name": "Chişinău",
+    "lat": "46.9131",
+    "lng": "28.9775",
+    "id": "1498679513"
+  },
+  {
+    "city": "Borogani",
+    "city_ascii": "Borogani",
+    "admin_name": "Cantemir",
+    "lat": "46.5028",
+    "lng": "28.5442",
+    "id": "1498462266"
+  },
+  {
+    "city": "Grigoriopol",
+    "city_ascii": "Grigoriopol",
+    "admin_name": "Stînga Nistrului",
+    "lat": "47.1536",
+    "lng": "29.2964",
+    "id": "1498783401"
+  },
+  {
+    "city": "Rîşcani",
+    "city_ascii": "Riscani",
+    "admin_name": "Rîşcani",
+    "lat": "47.9572",
+    "lng": "27.5539",
+    "id": "1498650340"
+  },
+  {
+    "city": "Copceac",
+    "city_ascii": "Copceac",
+    "admin_name": "Găgăuzia",
+    "lat": "45.8500",
+    "lng": "28.6947",
+    "id": "1498642964"
+  },
+  {
+    "city": "Peresecina",
+    "city_ascii": "Peresecina",
+    "admin_name": "Orhei",
+    "lat": "47.2522",
+    "lng": "28.7689",
+    "id": "1498929769"
+  },
+  {
+    "city": "Chiţcani",
+    "city_ascii": "Chitcani",
+    "admin_name": "Stînga Nistrului",
+    "lat": "46.7856",
+    "lng": "29.6086",
+    "id": "1498000217"
+  },
+  {
+    "city": "Camenca",
+    "city_ascii": "Camenca",
+    "admin_name": "Stînga Nistrului",
+    "lat": "48.0333",
+    "lng": "28.7000",
+    "id": "1498446889"
+  },
+  {
+    "city": "Stăuceni",
+    "city_ascii": "Stauceni",
+    "admin_name": "Chişinău",
+    "lat": "47.0875",
+    "lng": "28.8703",
+    "id": "1498710305"
+  },
+  {
+    "city": "Glodeni",
+    "city_ascii": "Glodeni",
+    "admin_name": "Glodeni",
+    "lat": "47.7667",
+    "lng": "27.5167",
+    "id": "1498553213"
+  },
+  {
+    "city": "Basarabeasca",
+    "city_ascii": "Basarabeasca",
+    "admin_name": "Basarabeasca",
+    "lat": "46.3336",
+    "lng": "28.9614",
+    "id": "1498894118"
+  },
+  {
+    "city": "Nisporeni",
+    "city_ascii": "Nisporeni",
+    "admin_name": "Nisporeni",
+    "lat": "47.0833",
+    "lng": "28.1833",
+    "id": "1498953988"
+  },
+  {
+    "city": "Leova",
+    "city_ascii": "Leova",
+    "admin_name": "Leova",
+    "lat": "46.4786",
+    "lng": "28.2553",
+    "id": "1498085636"
+  },
+  {
+    "city": "Teleneşti",
+    "city_ascii": "Telenesti",
+    "admin_name": "Teleneşti",
+    "lat": "47.5028",
+    "lng": "28.3667",
+    "id": "1498811064"
+  },
+  {
+    "city": "Donduşeni",
+    "city_ascii": "Donduseni",
+    "admin_name": "Donduşeni",
+    "lat": "48.2167",
+    "lng": "27.5833",
+    "id": "1498280582"
+  },
+  {
+    "city": "Ştefan Vodă",
+    "city_ascii": "Stefan Voda",
+    "admin_name": "Ştefan Vodă",
+    "lat": "46.5129",
+    "lng": "29.6619",
+    "id": "1498766864"
+  },
+  {
+    "city": "Criuleni",
+    "city_ascii": "Criuleni",
+    "admin_name": "Criuleni",
+    "lat": "47.2167",
+    "lng": "29.1614",
+    "id": "1498171854"
+  },
+  {
+    "city": "Briceni",
+    "city_ascii": "Briceni",
+    "admin_name": "Briceni",
+    "lat": "48.3611",
+    "lng": "27.0839",
+    "id": "1498970287"
+  },
+  {
+    "city": "Şoldăneşti",
+    "city_ascii": "Soldanesti",
+    "admin_name": "Şoldăneşti",
+    "lat": "47.8161",
+    "lng": "28.7972",
+    "id": "1498087659"
+  },
+  {
+    "city": "Cantemir",
+    "city_ascii": "Cantemir",
+    "admin_name": "Cantemir",
+    "lat": "46.2781",
+    "lng": "28.2008",
+    "id": "1498973808"
+  },
+  {
+    "city": "Ocniţa",
+    "city_ascii": "Ocnita",
+    "admin_name": "Ocniţa",
+    "lat": "48.3853",
+    "lng": "27.4392",
+    "id": "1498334915"
+  },
+  {
+    "city": "Cocieri",
+    "city_ascii": "Cocieri",
+    "admin_name": "Dubăsari",
+    "lat": "47.3000",
+    "lng": "29.1167",
+    "id": "1498580757"
+  }
+]

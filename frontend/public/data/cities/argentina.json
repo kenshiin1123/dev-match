@@ -1,0 +1,4018 @@
+[
+  {
+    "city": "Buenos Aires",
+    "city_ascii": "Buenos Aires",
+    "admin_name": "Buenos Aires, Ciudad Autónoma de",
+    "lat": "-34.6036",
+    "lng": "-58.3814",
+    "id": "1032717330"
+  },
+  {
+    "city": "Córdoba",
+    "city_ascii": "Cordoba",
+    "admin_name": "Córdoba",
+    "lat": "-31.4167",
+    "lng": "-64.1833",
+    "id": "1032803249"
+  },
+  {
+    "city": "Rosario",
+    "city_ascii": "Rosario",
+    "admin_name": "Santa Fe",
+    "lat": "-32.9575",
+    "lng": "-60.6394",
+    "id": "1032770677"
+  },
+  {
+    "city": "Santiago del Estero",
+    "city_ascii": "Santiago del Estero",
+    "admin_name": "Santiago del Estero",
+    "lat": "-27.7833",
+    "lng": "-64.2667",
+    "id": "1032492280"
+  },
+  {
+    "city": "La Plata",
+    "city_ascii": "La Plata",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.9211",
+    "lng": "-57.9544",
+    "id": "1032403831"
+  },
+  {
+    "city": "Mar del Plata",
+    "city_ascii": "Mar del Plata",
+    "admin_name": "Buenos Aires",
+    "lat": "-38.0000",
+    "lng": "-57.5500",
+    "id": "1032456103"
+  },
+  {
+    "city": "San Miguel de Tucumán",
+    "city_ascii": "San Miguel de Tucuman",
+    "admin_name": "Tucumán",
+    "lat": "-26.8167",
+    "lng": "-65.2167",
+    "id": "1032233996"
+  },
+  {
+    "city": "Salta",
+    "city_ascii": "Salta",
+    "admin_name": "Salta",
+    "lat": "-24.7833",
+    "lng": "-65.4167",
+    "id": "1032926124"
+  },
+  {
+    "city": "San Juan",
+    "city_ascii": "San Juan",
+    "admin_name": "San Juan",
+    "lat": "-31.5342",
+    "lng": "-68.5261",
+    "id": "1032869625"
+  },
+  {
+    "city": "Lanús",
+    "city_ascii": "Lanus",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7000",
+    "lng": "-58.4000",
+    "id": "1032009573"
+  },
+  {
+    "city": "Santa Fe",
+    "city_ascii": "Santa Fe",
+    "admin_name": "Santa Fe",
+    "lat": "-31.6333",
+    "lng": "-60.7000",
+    "id": "1032817575"
+  },
+  {
+    "city": "Corrientes",
+    "city_ascii": "Corrientes",
+    "admin_name": "Corrientes",
+    "lat": "-27.4833",
+    "lng": "-58.8167",
+    "id": "1032173097"
+  },
+  {
+    "city": "San Salvador de Jujuy",
+    "city_ascii": "San Salvador de Jujuy",
+    "admin_name": "Jujuy",
+    "lat": "-24.1833",
+    "lng": "-65.3000",
+    "id": "1032815808"
+  },
+  {
+    "city": "Bahía Blanca",
+    "city_ascii": "Bahia Blanca",
+    "admin_name": "Buenos Aires",
+    "lat": "-38.7167",
+    "lng": "-62.2667",
+    "id": "1032795766"
+  },
+  {
+    "city": "Resistencia",
+    "city_ascii": "Resistencia",
+    "admin_name": "Chaco",
+    "lat": "-27.4514",
+    "lng": "-58.9867",
+    "id": "1032720891"
+  },
+  {
+    "city": "Neuquén",
+    "city_ascii": "Neuquen",
+    "admin_name": "Neuquén",
+    "lat": "-38.9525",
+    "lng": "-68.0642",
+    "id": "1032525768"
+  },
+  {
+    "city": "Posadas",
+    "city_ascii": "Posadas",
+    "admin_name": "Misiones",
+    "lat": "-27.3667",
+    "lng": "-55.9000",
+    "id": "1032970696"
+  },
+  {
+    "city": "Paraná",
+    "city_ascii": "Parana",
+    "admin_name": "Entre Ríos",
+    "lat": "-31.7331",
+    "lng": "-60.5297",
+    "id": "1032266693"
+  },
+  {
+    "city": "Quilmes",
+    "city_ascii": "Quilmes",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7167",
+    "lng": "-58.2667",
+    "id": "1032880202"
+  },
+  {
+    "city": "Merlo",
+    "city_ascii": "Merlo",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6653",
+    "lng": "-58.7275",
+    "id": "1032232613"
+  },
+  {
+    "city": "González Catán",
+    "city_ascii": "Gonzalez Catan",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7667",
+    "lng": "-58.6167",
+    "id": "1032883563"
+  },
+  {
+    "city": "Formosa",
+    "city_ascii": "Formosa",
+    "admin_name": "Formosa",
+    "lat": "-26.1833",
+    "lng": "-58.1833",
+    "id": "1032802536"
+  },
+  {
+    "city": "Banfield",
+    "city_ascii": "Banfield",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7500",
+    "lng": "-58.3833",
+    "id": "1032997685"
+  },
+  {
+    "city": "José C. Paz",
+    "city_ascii": "Jose C. Paz",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.5167",
+    "lng": "-58.7667",
+    "id": "1032741145"
+  },
+  {
+    "city": "San Rafael",
+    "city_ascii": "San Rafael",
+    "admin_name": "Mendoza",
+    "lat": "-34.6000",
+    "lng": "-68.3333",
+    "id": "1032221516"
+  },
+  {
+    "city": "Comodoro Rivadavia",
+    "city_ascii": "Comodoro Rivadavia",
+    "admin_name": "Chubut",
+    "lat": "-45.8647",
+    "lng": "-67.4808",
+    "id": "1032042035"
+  },
+  {
+    "city": "Río Cuarto",
+    "city_ascii": "Rio Cuarto",
+    "admin_name": "Córdoba",
+    "lat": "-33.1333",
+    "lng": "-64.3500",
+    "id": "1032552145"
+  },
+  {
+    "city": "Concordia",
+    "city_ascii": "Concordia",
+    "admin_name": "Entre Ríos",
+    "lat": "-31.4000",
+    "lng": "-58.0333",
+    "id": "1032923957"
+  },
+  {
+    "city": "San Lorenzo",
+    "city_ascii": "San Lorenzo",
+    "admin_name": "Santa Fe",
+    "lat": "-32.7500",
+    "lng": "-60.7333",
+    "id": "1032944740"
+  },
+  {
+    "city": "Godoy Cruz",
+    "city_ascii": "Godoy Cruz",
+    "admin_name": "Mendoza",
+    "lat": "-32.9167",
+    "lng": "-68.8333",
+    "id": "1032263200"
+  },
+  {
+    "city": "Isidro Casanova",
+    "city_ascii": "Isidro Casanova",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7000",
+    "lng": "-58.5833",
+    "id": "1032715964"
+  },
+  {
+    "city": "Las Heras",
+    "city_ascii": "Las Heras",
+    "admin_name": "Mendoza",
+    "lat": "-32.8500",
+    "lng": "-68.8167",
+    "id": "1032781204"
+  },
+  {
+    "city": "La Rioja",
+    "city_ascii": "La Rioja",
+    "admin_name": "La Rioja",
+    "lat": "-29.4125",
+    "lng": "-66.8542",
+    "id": "1032864257"
+  },
+  {
+    "city": "Berazategui",
+    "city_ascii": "Berazategui",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7167",
+    "lng": "-58.2500",
+    "id": "1032535314"
+  },
+  {
+    "city": "Hurlingham",
+    "city_ascii": "Hurlingham",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6000",
+    "lng": "-58.6333",
+    "id": "1032992892"
+  },
+  {
+    "city": "San Luis",
+    "city_ascii": "San Luis",
+    "admin_name": "San Luis",
+    "lat": "-33.3000",
+    "lng": "-66.3333",
+    "id": "1032547434"
+  },
+  {
+    "city": "San Fernando",
+    "city_ascii": "San Fernando",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.4500",
+    "lng": "-58.5667",
+    "id": "1032726549"
+  },
+  {
+    "city": "José María Ezeiza",
+    "city_ascii": "Jose Maria Ezeiza",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8333",
+    "lng": "-58.5167",
+    "id": "1032337881"
+  },
+  {
+    "city": "San Nicolás de los Arroyos",
+    "city_ascii": "San Nicolas de los Arroyos",
+    "admin_name": "Buenos Aires",
+    "lat": "-33.3333",
+    "lng": "-60.2167",
+    "id": "1032067887"
+  },
+  {
+    "city": "Catamarca",
+    "city_ascii": "Catamarca",
+    "admin_name": "Catamarca",
+    "lat": "-28.4667",
+    "lng": "-65.7833",
+    "id": "1032260908"
+  },
+  {
+    "city": "San Miguel",
+    "city_ascii": "San Miguel",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.5333",
+    "lng": "-58.7167",
+    "id": "1032038706"
+  },
+  {
+    "city": "Rafael Castillo",
+    "city_ascii": "Rafael Castillo",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7167",
+    "lng": "-58.6167",
+    "id": "1032812310"
+  },
+  {
+    "city": "Florencio Varela",
+    "city_ascii": "Florencio Varela",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8167",
+    "lng": "-58.2833",
+    "id": "1032021324"
+  },
+  {
+    "city": "San Justo",
+    "city_ascii": "San Justo",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6833",
+    "lng": "-58.5500",
+    "id": "1032899295"
+  },
+  {
+    "city": "Villa Mercedes",
+    "city_ascii": "Villa Mercedes",
+    "admin_name": "San Luis",
+    "lat": "-33.6667",
+    "lng": "-65.4667",
+    "id": "1032858021"
+  },
+  {
+    "city": "Ituzaingó",
+    "city_ascii": "Ituzaingo",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6667",
+    "lng": "-58.6667",
+    "id": "1032997137"
+  },
+  {
+    "city": "Temperley",
+    "city_ascii": "Temperley",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7667",
+    "lng": "-58.3833",
+    "id": "1032183944"
+  },
+  {
+    "city": "Ramos Mejía",
+    "city_ascii": "Ramos Mejia",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6500",
+    "lng": "-58.5667",
+    "id": "1032425368"
+  },
+  {
+    "city": "Puerto Madryn",
+    "city_ascii": "Puerto Madryn",
+    "admin_name": "Chubut",
+    "lat": "-42.7667",
+    "lng": "-65.0500",
+    "id": "1032351657"
+  },
+  {
+    "city": "Mendoza",
+    "city_ascii": "Mendoza",
+    "admin_name": "Mendoza",
+    "lat": "-32.8897",
+    "lng": "-68.8444",
+    "id": "1032433516"
+  },
+  {
+    "city": "San Carlos de Bariloche",
+    "city_ascii": "San Carlos de Bariloche",
+    "admin_name": "Río Negro",
+    "lat": "-41.1500",
+    "lng": "-71.3000",
+    "id": "1032111842"
+  },
+  {
+    "city": "Lomas de Zamora",
+    "city_ascii": "Lomas de Zamora",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7667",
+    "lng": "-58.4000",
+    "id": "1032623086"
+  },
+  {
+    "city": "Bernal",
+    "city_ascii": "Bernal",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7000",
+    "lng": "-58.2833",
+    "id": "1032030395"
+  },
+  {
+    "city": "Esteban Echeverría",
+    "city_ascii": "Esteban Echeverria",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8167",
+    "lng": "-58.4667",
+    "id": "1032069640"
+  },
+  {
+    "city": "Gualeguaychú",
+    "city_ascii": "Gualeguaychu",
+    "admin_name": "Entre Ríos",
+    "lat": "-33.0167",
+    "lng": "-58.5167",
+    "id": "1032523704"
+  },
+  {
+    "city": "Zárate",
+    "city_ascii": "Zarate",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.0833",
+    "lng": "-59.0333",
+    "id": "1032392383"
+  },
+  {
+    "city": "Castelar",
+    "city_ascii": "Castelar",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6667",
+    "lng": "-58.6667",
+    "id": "1032123891"
+  },
+  {
+    "city": "Villa Krause",
+    "city_ascii": "Villa Krause",
+    "admin_name": "San Juan",
+    "lat": "-31.5833",
+    "lng": "-68.5333",
+    "id": "1032771655"
+  },
+  {
+    "city": "Luján",
+    "city_ascii": "Lujan",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.5667",
+    "lng": "-59.1000",
+    "id": "1032704827"
+  },
+  {
+    "city": "Maipú",
+    "city_ascii": "Maipu",
+    "admin_name": "Mendoza",
+    "lat": "-32.9667",
+    "lng": "-68.7500",
+    "id": "1032731844"
+  },
+  {
+    "city": "La Banda",
+    "city_ascii": "La Banda",
+    "admin_name": "Santiago del Estero",
+    "lat": "-27.7333",
+    "lng": "-64.2500",
+    "id": "1032317566"
+  },
+  {
+    "city": "Cipolletti",
+    "city_ascii": "Cipolletti",
+    "admin_name": "Río Negro",
+    "lat": "-38.9333",
+    "lng": "-67.9833",
+    "id": "1032662574"
+  },
+  {
+    "city": "Pergamino",
+    "city_ascii": "Pergamino",
+    "admin_name": "Buenos Aires",
+    "lat": "-33.8833",
+    "lng": "-60.5667",
+    "id": "1032214150"
+  },
+  {
+    "city": "Santa Rosa",
+    "city_ascii": "Santa Rosa",
+    "admin_name": "La Pampa",
+    "lat": "-36.6167",
+    "lng": "-64.2833",
+    "id": "1032215828"
+  },
+  {
+    "city": "Presidencia Roque Sáenz Peña",
+    "city_ascii": "Presidencia Roque Saenz Pena",
+    "admin_name": "Chaco",
+    "lat": "-26.7833",
+    "lng": "-60.4500",
+    "id": "1032464495"
+  },
+  {
+    "city": "Concepción del Uruguay",
+    "city_ascii": "Concepcion del Uruguay",
+    "admin_name": "Entre Ríos",
+    "lat": "-32.4833",
+    "lng": "-58.2333",
+    "id": "1032999059"
+  },
+  {
+    "city": "Libertad",
+    "city_ascii": "Libertad",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6833",
+    "lng": "-58.6833",
+    "id": "1032241314"
+  },
+  {
+    "city": "Morón",
+    "city_ascii": "Moron",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6500",
+    "lng": "-58.6167",
+    "id": "1032773254"
+  },
+  {
+    "city": "Burzaco",
+    "city_ascii": "Burzaco",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8167",
+    "lng": "-58.3667",
+    "id": "1032073218"
+  },
+  {
+    "city": "Río Grande",
+    "city_ascii": "Rio Grande",
+    "admin_name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "lat": "-53.7833",
+    "lng": "-67.7000",
+    "id": "1032824067"
+  },
+  {
+    "city": "Trelew",
+    "city_ascii": "Trelew",
+    "admin_name": "Chubut",
+    "lat": "-43.2500",
+    "lng": "-65.3000",
+    "id": "1032440034"
+  },
+  {
+    "city": "Río Gallegos",
+    "city_ascii": "Rio Gallegos",
+    "admin_name": "Santa Cruz",
+    "lat": "-51.6233",
+    "lng": "-69.2161",
+    "id": "1032471024"
+  },
+  {
+    "city": "Caseros",
+    "city_ascii": "Caseros",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6106",
+    "lng": "-58.5625",
+    "id": "1032500630"
+  },
+  {
+    "city": "Villa Luzuriaga",
+    "city_ascii": "Villa Luzuriaga",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6667",
+    "lng": "-58.5833",
+    "id": "1032092344"
+  },
+  {
+    "city": "Ciudad General Belgrano",
+    "city_ascii": "Ciudad General Belgrano",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7167",
+    "lng": "-58.5333",
+    "id": "1032336348"
+  },
+  {
+    "city": "Rafaela",
+    "city_ascii": "Rafaela",
+    "admin_name": "Santa Fe",
+    "lat": "-31.2667",
+    "lng": "-61.4833",
+    "id": "1032181625"
+  },
+  {
+    "city": "San Francisco Solano",
+    "city_ascii": "San Francisco Solano",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7667",
+    "lng": "-58.3167",
+    "id": "1032776804"
+  },
+  {
+    "city": "Necochea",
+    "city_ascii": "Necochea",
+    "admin_name": "Buenos Aires",
+    "lat": "-38.5500",
+    "lng": "-58.7333",
+    "id": "1032624527"
+  },
+  {
+    "city": "Olavarría",
+    "city_ascii": "Olavarria",
+    "admin_name": "Buenos Aires",
+    "lat": "-36.9000",
+    "lng": "-60.3333",
+    "id": "1032373353"
+  },
+  {
+    "city": "Villa María",
+    "city_ascii": "Villa Maria",
+    "admin_name": "Córdoba",
+    "lat": "-32.4103",
+    "lng": "-63.2314",
+    "id": "1032987787"
+  },
+  {
+    "city": "Berisso",
+    "city_ascii": "Berisso",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8728",
+    "lng": "-57.8858",
+    "id": "1032298172"
+  },
+  {
+    "city": "Chimbas",
+    "city_ascii": "Chimbas",
+    "admin_name": "San Juan",
+    "lat": "-31.5000",
+    "lng": "-68.5319",
+    "id": "1032442768"
+  },
+  {
+    "city": "Campana",
+    "city_ascii": "Campana",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.1667",
+    "lng": "-58.9167",
+    "id": "1032345885"
+  },
+  {
+    "city": "Junín",
+    "city_ascii": "Junin",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.5833",
+    "lng": "-60.9500",
+    "id": "1032976047"
+  },
+  {
+    "city": "General Rodríguez",
+    "city_ascii": "General Rodriguez",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6167",
+    "lng": "-58.9500",
+    "id": "1032661171"
+  },
+  {
+    "city": "Grand Bourg",
+    "city_ascii": "Grand Bourg",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.4833",
+    "lng": "-58.7167",
+    "id": "1032455832"
+  },
+  {
+    "city": "Monte Chingolo",
+    "city_ascii": "Monte Chingolo",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7333",
+    "lng": "-58.3500",
+    "id": "1032641177"
+  },
+  {
+    "city": "Venado Tuerto",
+    "city_ascii": "Venado Tuerto",
+    "admin_name": "Santa Fe",
+    "lat": "-33.7500",
+    "lng": "-61.9667",
+    "id": "1032284763"
+  },
+  {
+    "city": "Ushuaia",
+    "city_ascii": "Ushuaia",
+    "admin_name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "lat": "-54.8019",
+    "lng": "-68.3031",
+    "id": "1032847885"
+  },
+  {
+    "city": "Rivadavia",
+    "city_ascii": "Rivadavia",
+    "admin_name": "San Juan",
+    "lat": "-31.5303",
+    "lng": "-68.5947",
+    "id": "1032402116"
+  },
+  {
+    "city": "Rivadavia",
+    "city_ascii": "Rivadavia",
+    "admin_name": "Mendoza",
+    "lat": "-33.1833",
+    "lng": "-68.4667",
+    "id": "1032956544"
+  },
+  {
+    "city": "Puerto Iguazú",
+    "city_ascii": "Puerto Iguazu",
+    "admin_name": "Misiones",
+    "lat": "-25.6000",
+    "lng": "-54.5667",
+    "id": "1032320107"
+  },
+  {
+    "city": "Remedios de Escalada",
+    "city_ascii": "Remedios de Escalada",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7167",
+    "lng": "-58.4000",
+    "id": "1032150292"
+  },
+  {
+    "city": "Pilar",
+    "city_ascii": "Pilar",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.4500",
+    "lng": "-58.9167",
+    "id": "1032712196"
+  },
+  {
+    "city": "Gobernador Gálvez",
+    "city_ascii": "Gobernador Galvez",
+    "admin_name": "Santa Fe",
+    "lat": "-33.0256",
+    "lng": "-60.6336",
+    "id": "1032739359"
+  },
+  {
+    "city": "Ezpeleta",
+    "city_ascii": "Ezpeleta",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7517",
+    "lng": "-58.2344",
+    "id": "1032462589"
+  },
+  {
+    "city": "San Martín",
+    "city_ascii": "San Martin",
+    "admin_name": "Mendoza",
+    "lat": "-33.0806",
+    "lng": "-68.4706",
+    "id": "1032297325"
+  },
+  {
+    "city": "Villa Celina",
+    "city_ascii": "Villa Celina",
+    "admin_name": "Buenos Aires, Ciudad Autónoma de",
+    "lat": "-34.7167",
+    "lng": "-58.4833",
+    "id": "1032320584"
+  },
+  {
+    "city": "San Ramón de la Nueva Orán",
+    "city_ascii": "San Ramon de la Nueva Oran",
+    "admin_name": "Salta",
+    "lat": "-23.1333",
+    "lng": "-64.3333",
+    "id": "1032020207"
+  },
+  {
+    "city": "San Pedro",
+    "city_ascii": "San Pedro",
+    "admin_name": "Buenos Aires",
+    "lat": "-33.6792",
+    "lng": "-59.6669",
+    "id": "1032604675"
+  },
+  {
+    "city": "Villa Carlos Paz",
+    "city_ascii": "Villa Carlos Paz",
+    "admin_name": "Córdoba",
+    "lat": "-31.4000",
+    "lng": "-64.5167",
+    "id": "1032854975"
+  },
+  {
+    "city": "La Paz",
+    "city_ascii": "La Paz",
+    "admin_name": "Entre Ríos",
+    "lat": "-30.7500",
+    "lng": "-59.6500",
+    "id": "1032955221"
+  },
+  {
+    "city": "Reconquista",
+    "city_ascii": "Reconquista",
+    "admin_name": "Santa Fe",
+    "lat": "-29.2333",
+    "lng": "-59.9333",
+    "id": "1032927391"
+  },
+  {
+    "city": "Ciudadela",
+    "city_ascii": "Ciudadela",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6333",
+    "lng": "-58.5333",
+    "id": "1032060423"
+  },
+  {
+    "city": "Luján de Cuyo",
+    "city_ascii": "Lujan de Cuyo",
+    "admin_name": "Mendoza",
+    "lat": "-32.9980",
+    "lng": "-68.8730",
+    "id": "1032844765"
+  },
+  {
+    "city": "Goya",
+    "city_ascii": "Goya",
+    "admin_name": "Corrientes",
+    "lat": "-29.1333",
+    "lng": "-59.2500",
+    "id": "1032251925"
+  },
+  {
+    "city": "Bella Vista",
+    "city_ascii": "Bella Vista",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.5333",
+    "lng": "-58.6667",
+    "id": "1032720412"
+  },
+  {
+    "city": "Lomas del Mirador",
+    "city_ascii": "Lomas del Mirador",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6667",
+    "lng": "-58.5297",
+    "id": "1032639381"
+  },
+  {
+    "city": "Oberá",
+    "city_ascii": "Obera",
+    "admin_name": "Misiones",
+    "lat": "-27.4833",
+    "lng": "-55.1333",
+    "id": "1032099071"
+  },
+  {
+    "city": "Wilde",
+    "city_ascii": "Wilde",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7000",
+    "lng": "-58.3167",
+    "id": "1032256650"
+  },
+  {
+    "city": "Martínez",
+    "city_ascii": "Martinez",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.4833",
+    "lng": "-58.5000",
+    "id": "1032000014"
+  },
+  {
+    "city": "Santo Tomé",
+    "city_ascii": "Santo Tome",
+    "admin_name": "Santa Fe",
+    "lat": "-31.6667",
+    "lng": "-60.7667",
+    "id": "1032375645"
+  },
+  {
+    "city": "Don Torcuato",
+    "city_ascii": "Don Torcuato",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.5000",
+    "lng": "-58.6167",
+    "id": "1032462102"
+  },
+  {
+    "city": "Tigre",
+    "city_ascii": "Tigre",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.5000",
+    "lng": "-58.6167",
+    "id": "1032039225"
+  },
+  {
+    "city": "Gerli",
+    "city_ascii": "Gerli",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6833",
+    "lng": "-58.3667",
+    "id": "1032212619"
+  },
+  {
+    "city": "Pirané",
+    "city_ascii": "Pirane",
+    "admin_name": "Formosa",
+    "lat": "-25.7328",
+    "lng": "-59.1100",
+    "id": "1032332556"
+  },
+  {
+    "city": "Ensenada Berisso",
+    "city_ascii": "Ensenada Berisso",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8667",
+    "lng": "-57.9000",
+    "id": "1032233844"
+  },
+  {
+    "city": "Mercedes",
+    "city_ascii": "Mercedes",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6500",
+    "lng": "-59.4333",
+    "id": "1032994289"
+  },
+  {
+    "city": "Banda del Río Salí",
+    "city_ascii": "Banda del Rio Sali",
+    "admin_name": "Tucumán",
+    "lat": "-26.8500",
+    "lng": "-65.1667",
+    "id": "1032189775"
+  },
+  {
+    "city": "Tartagal",
+    "city_ascii": "Tartagal",
+    "admin_name": "Salta",
+    "lat": "-22.5000",
+    "lng": "-63.8333",
+    "id": "1032317391"
+  },
+  {
+    "city": "Tres Arroyos",
+    "city_ascii": "Tres Arroyos",
+    "admin_name": "Buenos Aires",
+    "lat": "-38.3667",
+    "lng": "-60.2667",
+    "id": "1032291724"
+  },
+  {
+    "city": "Villa Domínico",
+    "city_ascii": "Villa Dominico",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6917",
+    "lng": "-58.3333",
+    "id": "1032866743"
+  },
+  {
+    "city": "San Francisco",
+    "city_ascii": "San Francisco",
+    "admin_name": "Córdoba",
+    "lat": "-31.4356",
+    "lng": "-62.0714",
+    "id": "1032491643"
+  },
+  {
+    "city": "Los Polvorines",
+    "city_ascii": "Los Polvorines",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.5000",
+    "lng": "-58.7000",
+    "id": "1032236823"
+  },
+  {
+    "city": "Sarandí",
+    "city_ascii": "Sarandi",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6833",
+    "lng": "-58.3333",
+    "id": "1032993271"
+  },
+  {
+    "city": "Viedma",
+    "city_ascii": "Viedma",
+    "admin_name": "Río Negro",
+    "lat": "-40.8000",
+    "lng": "-63.0000",
+    "id": "1032613063"
+  },
+  {
+    "city": "Garín",
+    "city_ascii": "Garin",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.4167",
+    "lng": "-58.7500",
+    "id": "1032601732"
+  },
+  {
+    "city": "El Palomar",
+    "city_ascii": "El Palomar",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6167",
+    "lng": "-58.5833",
+    "id": "1032243275"
+  },
+  {
+    "city": "Beccar",
+    "city_ascii": "Beccar",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.4667",
+    "lng": "-58.5167",
+    "id": "1032780556"
+  },
+  {
+    "city": "San Pedro",
+    "city_ascii": "San Pedro",
+    "admin_name": "Jujuy",
+    "lat": "-24.2196",
+    "lng": "-64.8700",
+    "id": "1032823743"
+  },
+  {
+    "city": "Punta Alta",
+    "city_ascii": "Punta Alta",
+    "admin_name": "Buenos Aires",
+    "lat": "-38.8800",
+    "lng": "-62.0750",
+    "id": "1032629961"
+  },
+  {
+    "city": "Chivilcoy",
+    "city_ascii": "Chivilcoy",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.9000",
+    "lng": "-60.0167",
+    "id": "1032269915"
+  },
+  {
+    "city": "Glew",
+    "city_ascii": "Glew",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8833",
+    "lng": "-58.3833",
+    "id": "1032691083"
+  },
+  {
+    "city": "General Pico",
+    "city_ascii": "General Pico",
+    "admin_name": "La Pampa",
+    "lat": "-35.6667",
+    "lng": "-63.7333",
+    "id": "1032081531"
+  },
+  {
+    "city": "Eldorado",
+    "city_ascii": "Eldorado",
+    "admin_name": "Misiones",
+    "lat": "-26.4000",
+    "lng": "-54.6333",
+    "id": "1032056096"
+  },
+  {
+    "city": "Rafael Calzada",
+    "city_ascii": "Rafael Calzada",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7833",
+    "lng": "-58.3667",
+    "id": "1032898708"
+  },
+  {
+    "city": "Azul",
+    "city_ascii": "Azul",
+    "admin_name": "Buenos Aires",
+    "lat": "-36.7833",
+    "lng": "-59.8500",
+    "id": "1032652005"
+  },
+  {
+    "city": "Barranqueras",
+    "city_ascii": "Barranqueras",
+    "admin_name": "Chaco",
+    "lat": "-27.4833",
+    "lng": "-58.9333",
+    "id": "1032660007"
+  },
+  {
+    "city": "Belén de Escobar",
+    "city_ascii": "Belen de Escobar",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.3333",
+    "lng": "-58.8167",
+    "id": "1032287290"
+  },
+  {
+    "city": "Ensenada",
+    "city_ascii": "Ensenada",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8644",
+    "lng": "-57.9103",
+    "id": "1032568012"
+  },
+  {
+    "city": "Mariano Acosta",
+    "city_ascii": "Mariano Acosta",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7167",
+    "lng": "-58.7833",
+    "id": "1032455258"
+  },
+  {
+    "city": "Guernica",
+    "city_ascii": "Guernica",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.9167",
+    "lng": "-58.3833",
+    "id": "1032422310"
+  },
+  {
+    "city": "Plottier",
+    "city_ascii": "Plottier",
+    "admin_name": "Neuquén",
+    "lat": "-38.9500",
+    "lng": "-68.2333",
+    "id": "1032684946"
+  },
+  {
+    "city": "Caleta Olivia",
+    "city_ascii": "Caleta Olivia",
+    "admin_name": "Santa Cruz",
+    "lat": "-46.4333",
+    "lng": "-67.5333",
+    "id": "1032563209"
+  },
+  {
+    "city": "El Talar de Pacheco",
+    "city_ascii": "El Talar de Pacheco",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.4719",
+    "lng": "-58.6550",
+    "id": "1032391611"
+  },
+  {
+    "city": "Palpalá",
+    "city_ascii": "Palpala",
+    "admin_name": "Jujuy",
+    "lat": "-24.2500",
+    "lng": "-65.1167",
+    "id": "1032181212"
+  },
+  {
+    "city": "Yerba Buena",
+    "city_ascii": "Yerba Buena",
+    "admin_name": "Tucumán",
+    "lat": "-26.8167",
+    "lng": "-65.3167",
+    "id": "1032992557"
+  },
+  {
+    "city": "Concepción",
+    "city_ascii": "Concepcion",
+    "admin_name": "Tucumán",
+    "lat": "-27.3333",
+    "lng": "-65.5833",
+    "id": "1032935670"
+  },
+  {
+    "city": "Villaguay",
+    "city_ascii": "Villaguay",
+    "admin_name": "Entre Ríos",
+    "lat": "-31.8500",
+    "lng": "-59.0167",
+    "id": "1032112502"
+  },
+  {
+    "city": "Perico",
+    "city_ascii": "Perico",
+    "admin_name": "Jujuy",
+    "lat": "-24.3833",
+    "lng": "-65.1167",
+    "id": "1032311079"
+  },
+  {
+    "city": "Tunuyán",
+    "city_ascii": "Tunuyan",
+    "admin_name": "Mendoza",
+    "lat": "-33.5667",
+    "lng": "-69.0167",
+    "id": "1032526901"
+  },
+  {
+    "city": "Centenario",
+    "city_ascii": "Centenario",
+    "admin_name": "Neuquén",
+    "lat": "-38.8000",
+    "lng": "-68.1333",
+    "id": "1032495336"
+  },
+  {
+    "city": "Florida",
+    "city_ascii": "Florida",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.5167",
+    "lng": "-58.5000",
+    "id": "1032721967"
+  },
+  {
+    "city": "Alta Gracia",
+    "city_ascii": "Alta Gracia",
+    "admin_name": "Córdoba",
+    "lat": "-31.6667",
+    "lng": "-64.4333",
+    "id": "1032411567"
+  },
+  {
+    "city": "La Reja",
+    "city_ascii": "La Reja",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6394",
+    "lng": "-58.8283",
+    "id": "1032013959"
+  },
+  {
+    "city": "Cosquín",
+    "city_ascii": "Cosquin",
+    "admin_name": "Córdoba",
+    "lat": "-31.2436",
+    "lng": "-64.4653",
+    "id": "1032221091"
+  },
+  {
+    "city": "San Lorenzo",
+    "city_ascii": "San Lorenzo",
+    "admin_name": "Corrientes",
+    "lat": "-28.1381",
+    "lng": "-58.7681",
+    "id": "1032610376"
+  },
+  {
+    "city": "Longchamps",
+    "city_ascii": "Longchamps",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8500",
+    "lng": "-58.3833",
+    "id": "1032203390"
+  },
+  {
+    "city": "Catriel",
+    "city_ascii": "Catriel",
+    "admin_name": "Río Negro",
+    "lat": "-37.8667",
+    "lng": "-67.8333",
+    "id": "1032975217"
+  },
+  {
+    "city": "Villa Constitución",
+    "city_ascii": "Villa Constitucion",
+    "admin_name": "Santa Fe",
+    "lat": "-33.2333",
+    "lng": "-60.3333",
+    "id": "1032793574"
+  },
+  {
+    "city": "General Martín Miguel de Güemes",
+    "city_ascii": "General Martin Miguel de Guemes",
+    "admin_name": "Salta",
+    "lat": "-24.6667",
+    "lng": "-65.0500",
+    "id": "1032716507"
+  },
+  {
+    "city": "Clorinda",
+    "city_ascii": "Clorinda",
+    "admin_name": "Formosa",
+    "lat": "-25.2833",
+    "lng": "-57.7167",
+    "id": "1032930334"
+  },
+  {
+    "city": "San Justo",
+    "city_ascii": "San Justo",
+    "admin_name": "Santa Fe",
+    "lat": "-30.7833",
+    "lng": "-60.5833",
+    "id": "1032734419"
+  },
+  {
+    "city": "Libertador General San Martín",
+    "city_ascii": "Libertador General San Martin",
+    "admin_name": "Jujuy",
+    "lat": "-23.8000",
+    "lng": "-64.7833",
+    "id": "1032649273"
+  },
+  {
+    "city": "Río Tercero",
+    "city_ascii": "Rio Tercero",
+    "admin_name": "Córdoba",
+    "lat": "-32.1833",
+    "lng": "-64.1000",
+    "id": "1032103221"
+  },
+  {
+    "city": "Trenque Lauquen",
+    "city_ascii": "Trenque Lauquen",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.9667",
+    "lng": "-62.7000",
+    "id": "1032312344"
+  },
+  {
+    "city": "Chajarí",
+    "city_ascii": "Chajari",
+    "admin_name": "Entre Ríos",
+    "lat": "-30.7667",
+    "lng": "-57.9833",
+    "id": "1032147348"
+  },
+  {
+    "city": "La Calera",
+    "city_ascii": "La Calera",
+    "admin_name": "Córdoba",
+    "lat": "-31.3439",
+    "lng": "-64.3353",
+    "id": "1032927400"
+  },
+  {
+    "city": "Pinamar",
+    "city_ascii": "Pinamar",
+    "admin_name": "Buenos Aires",
+    "lat": "-37.1000",
+    "lng": "-56.8500",
+    "id": "1032950633"
+  },
+  {
+    "city": "Balcarce",
+    "city_ascii": "Balcarce",
+    "admin_name": "Buenos Aires",
+    "lat": "-37.8456",
+    "lng": "-58.2578",
+    "id": "1032847478"
+  },
+  {
+    "city": "San Vicente",
+    "city_ascii": "San Vicente",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.0167",
+    "lng": "-58.4167",
+    "id": "1032278022"
+  },
+  {
+    "city": "San Isidro",
+    "city_ascii": "San Isidro",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.4739",
+    "lng": "-58.5250",
+    "id": "1032862666"
+  },
+  {
+    "city": "General Pacheco",
+    "city_ascii": "General Pacheco",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.4500",
+    "lng": "-58.6500",
+    "id": "1032016569"
+  },
+  {
+    "city": "Paso de los Libres",
+    "city_ascii": "Paso de los Libres",
+    "admin_name": "Corrientes",
+    "lat": "-29.7167",
+    "lng": "-57.0833",
+    "id": "1032166435"
+  },
+  {
+    "city": "Dock Sur",
+    "city_ascii": "Dock Sur",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6417",
+    "lng": "-58.3478",
+    "id": "1032579921"
+  },
+  {
+    "city": "Gualeguay",
+    "city_ascii": "Gualeguay",
+    "admin_name": "Entre Ríos",
+    "lat": "-33.1500",
+    "lng": "-59.3333",
+    "id": "1032077195"
+  },
+  {
+    "city": "Coronel Suárez",
+    "city_ascii": "Coronel Suarez",
+    "admin_name": "Buenos Aires",
+    "lat": "-37.4667",
+    "lng": "-61.9333",
+    "id": "1032444981"
+  },
+  {
+    "city": "Esperanza",
+    "city_ascii": "Esperanza",
+    "admin_name": "Santa Fe",
+    "lat": "-31.4427",
+    "lng": "-60.9257",
+    "id": "1032763447"
+  },
+  {
+    "city": "Tolosa",
+    "city_ascii": "Tolosa",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8942",
+    "lng": "-57.9647",
+    "id": "1032033816"
+  },
+  {
+    "city": "Llavallol",
+    "city_ascii": "Llavallol",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7667",
+    "lng": "-58.3833",
+    "id": "1032288016"
+  },
+  {
+    "city": "Villa Ángela",
+    "city_ascii": "Villa Angela",
+    "admin_name": "Chaco",
+    "lat": "-27.5833",
+    "lng": "-60.7167",
+    "id": "1032039944"
+  },
+  {
+    "city": "Tortuguitas",
+    "city_ascii": "Tortuguitas",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.4750",
+    "lng": "-58.7556",
+    "id": "1032762026"
+  },
+  {
+    "city": "Claypole",
+    "city_ascii": "Claypole",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8000",
+    "lng": "-58.3333",
+    "id": "1032211279"
+  },
+  {
+    "city": "Villa Alsina",
+    "city_ascii": "Villa Alsina",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6667",
+    "lng": "-58.4167",
+    "id": "1032506308"
+  },
+  {
+    "city": "José Mármol",
+    "city_ascii": "Jose Marmol",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7833",
+    "lng": "-58.3667",
+    "id": "1032126414"
+  },
+  {
+    "city": "Apóstoles",
+    "city_ascii": "Apostoles",
+    "admin_name": "Misiones",
+    "lat": "-27.9167",
+    "lng": "-55.7667",
+    "id": "1032321516"
+  },
+  {
+    "city": "Zapala",
+    "city_ascii": "Zapala",
+    "admin_name": "Neuquén",
+    "lat": "-38.9000",
+    "lng": "-70.0667",
+    "id": "1032365659"
+  },
+  {
+    "city": "Cutral-Có",
+    "city_ascii": "Cutral-Co",
+    "admin_name": "Neuquén",
+    "lat": "-38.9333",
+    "lng": "-69.2333",
+    "id": "1032070013"
+  },
+  {
+    "city": "Tafí Viejo",
+    "city_ascii": "Tafi Viejo",
+    "admin_name": "Tucumán",
+    "lat": "-26.7333",
+    "lng": "-65.2667",
+    "id": "1032663351"
+  },
+  {
+    "city": "Virreyes",
+    "city_ascii": "Virreyes",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.4500",
+    "lng": "-58.5333",
+    "id": "1032337826"
+  },
+  {
+    "city": "Marcos Paz",
+    "city_ascii": "Marcos Paz",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7667",
+    "lng": "-58.8333",
+    "id": "1032271998"
+  },
+  {
+    "city": "Ingeniero Pablo Nogués",
+    "city_ascii": "Ingeniero Pablo Nogues",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.4667",
+    "lng": "-58.7667",
+    "id": "1032949946"
+  },
+  {
+    "city": "Chacabuco",
+    "city_ascii": "Chacabuco",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6333",
+    "lng": "-60.4667",
+    "id": "1032210547"
+  },
+  {
+    "city": "Funes",
+    "city_ascii": "Funes",
+    "admin_name": "Santa Fe",
+    "lat": "-32.9167",
+    "lng": "-60.8167",
+    "id": "1032992183"
+  },
+  {
+    "city": "Aristóbulo del Valle",
+    "city_ascii": "Aristobulo del Valle",
+    "admin_name": "Misiones",
+    "lat": "-27.1167",
+    "lng": "-54.9167",
+    "id": "1032611762"
+  },
+  {
+    "city": "San Antonio de Padua",
+    "city_ascii": "San Antonio de Padua",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6667",
+    "lng": "-58.7000",
+    "id": "1032305331"
+  },
+  {
+    "city": "Haedo",
+    "city_ascii": "Haedo",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6500",
+    "lng": "-58.6000",
+    "id": "1032803323"
+  },
+  {
+    "city": "Granadero Baigorria",
+    "city_ascii": "Granadero Baigorria",
+    "admin_name": "Santa Fe",
+    "lat": "-32.8500",
+    "lng": "-60.7000",
+    "id": "1032975920"
+  },
+  {
+    "city": "San Martín de los Andes",
+    "city_ascii": "San Martin de los Andes",
+    "admin_name": "Neuquén",
+    "lat": "-40.1667",
+    "lng": "-71.3500",
+    "id": "1032807074"
+  },
+  {
+    "city": "Esquel",
+    "city_ascii": "Esquel",
+    "admin_name": "Chubut",
+    "lat": "-42.9000",
+    "lng": "-71.3167",
+    "id": "1032489067"
+  },
+  {
+    "city": "Nueve de Julio",
+    "city_ascii": "Nueve de Julio",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.4500",
+    "lng": "-60.8833",
+    "id": "1032287957"
+  },
+  {
+    "city": "Munro",
+    "city_ascii": "Munro",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.5333",
+    "lng": "-58.5167",
+    "id": "1032318811"
+  },
+  {
+    "city": "Veinticinco de Mayo",
+    "city_ascii": "Veinticinco de Mayo",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.4167",
+    "lng": "-60.1667",
+    "id": "1032801782"
+  },
+  {
+    "city": "Villa Adelina",
+    "city_ascii": "Villa Adelina",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.5167",
+    "lng": "-58.5333",
+    "id": "1032929712"
+  },
+  {
+    "city": "Villa Ballester",
+    "city_ascii": "Villa Ballester",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.5167",
+    "lng": "-58.5333",
+    "id": "1032048875"
+  },
+  {
+    "city": "General Villegas",
+    "city_ascii": "General Villegas",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.0333",
+    "lng": "-63.0167",
+    "id": "1032883098"
+  },
+  {
+    "city": "Casilda",
+    "city_ascii": "Casilda",
+    "admin_name": "Santa Fe",
+    "lat": "-33.0500",
+    "lng": "-61.1667",
+    "id": "1032000005"
+  },
+  {
+    "city": "Curuzú Cuatiá",
+    "city_ascii": "Curuzu Cuatia",
+    "admin_name": "Corrientes",
+    "lat": "-29.7833",
+    "lng": "-58.0833",
+    "id": "1032386934"
+  },
+  {
+    "city": "Bell Ville",
+    "city_ascii": "Bell Ville",
+    "admin_name": "Córdoba",
+    "lat": "-32.6333",
+    "lng": "-62.6833",
+    "id": "1032028928"
+  },
+  {
+    "city": "Chilecito",
+    "city_ascii": "Chilecito",
+    "admin_name": "La Rioja",
+    "lat": "-29.1667",
+    "lng": "-67.5000",
+    "id": "1032078195"
+  },
+  {
+    "city": "Chascomús",
+    "city_ascii": "Chascomus",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.5750",
+    "lng": "-58.0089",
+    "id": "1032352363"
+  },
+  {
+    "city": "Mercedes",
+    "city_ascii": "Mercedes",
+    "admin_name": "Corrientes",
+    "lat": "-29.2000",
+    "lng": "-58.0833",
+    "id": "1032972413"
+  },
+  {
+    "city": "Bragado",
+    "city_ascii": "Bragado",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.1167",
+    "lng": "-60.5000",
+    "id": "1032509795"
+  },
+  {
+    "city": "City Bell",
+    "city_ascii": "City Bell",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8500",
+    "lng": "-58.0500",
+    "id": "1032568432"
+  },
+  {
+    "city": "Arrecifes",
+    "city_ascii": "Arrecifes",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.0667",
+    "lng": "-60.1167",
+    "id": "1032802963"
+  },
+  {
+    "city": "Termas de Río Hondo",
+    "city_ascii": "Termas de Rio Hondo",
+    "admin_name": "Santiago del Estero",
+    "lat": "-27.4833",
+    "lng": "-64.8667",
+    "id": "1032812250"
+  },
+  {
+    "city": "Cañada de Gómez",
+    "city_ascii": "Canada de Gomez",
+    "admin_name": "Santa Fe",
+    "lat": "-32.8167",
+    "lng": "-61.4000",
+    "id": "1032264958"
+  },
+  {
+    "city": "Aguilares",
+    "city_ascii": "Aguilares",
+    "admin_name": "Tucumán",
+    "lat": "-27.4333",
+    "lng": "-65.6167",
+    "id": "1032907476"
+  },
+  {
+    "city": "Quitilipi",
+    "city_ascii": "Quitilipi",
+    "admin_name": "Chaco",
+    "lat": "-26.8667",
+    "lng": "-60.2167",
+    "id": "1032874316"
+  },
+  {
+    "city": "Fontana",
+    "city_ascii": "Fontana",
+    "admin_name": "Chaco",
+    "lat": "-27.4167",
+    "lng": "-59.0333",
+    "id": "1032978449"
+  },
+  {
+    "city": "Cañuelas",
+    "city_ascii": "Canuelas",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.0333",
+    "lng": "-58.7333",
+    "id": "1032954479"
+  },
+  {
+    "city": "Avellaneda",
+    "city_ascii": "Avellaneda",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6625",
+    "lng": "-58.3678",
+    "id": "1032478683"
+  },
+  {
+    "city": "Allen",
+    "city_ascii": "Allen",
+    "admin_name": "Río Negro",
+    "lat": "-38.9667",
+    "lng": "-67.8333",
+    "id": "1032144191"
+  },
+  {
+    "city": "General José de San Martín",
+    "city_ascii": "General Jose de San Martin",
+    "admin_name": "Chaco",
+    "lat": "-26.5375",
+    "lng": "-59.3417",
+    "id": "1032349411"
+  },
+  {
+    "city": "Jesús María",
+    "city_ascii": "Jesus Maria",
+    "admin_name": "Córdoba",
+    "lat": "-30.9833",
+    "lng": "-64.1000",
+    "id": "1032875104"
+  },
+  {
+    "city": "Pehuajó",
+    "city_ascii": "Pehuajo",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.8000",
+    "lng": "-61.9000",
+    "id": "1032681799"
+  },
+  {
+    "city": "Lobos",
+    "city_ascii": "Lobos",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.1833",
+    "lng": "-59.0833",
+    "id": "1032314483"
+  },
+  {
+    "city": "Pichanal",
+    "city_ascii": "Pichanal",
+    "admin_name": "Salta",
+    "lat": "-23.3167",
+    "lng": "-64.2167",
+    "id": "1032967573"
+  },
+  {
+    "city": "Cruz del Eje",
+    "city_ascii": "Cruz del Eje",
+    "admin_name": "Córdoba",
+    "lat": "-30.7333",
+    "lng": "-64.8000",
+    "id": "1032976495"
+  },
+  {
+    "city": "Gobernador Virasora",
+    "city_ascii": "Gobernador Virasora",
+    "admin_name": "Corrientes",
+    "lat": "-28.0500",
+    "lng": "-56.0333",
+    "id": "1032278994"
+  },
+  {
+    "city": "Victoria",
+    "city_ascii": "Victoria",
+    "admin_name": "Entre Ríos",
+    "lat": "-32.6167",
+    "lng": "-60.1667",
+    "id": "1032557014"
+  },
+  {
+    "city": "Miramar",
+    "city_ascii": "Miramar",
+    "admin_name": "Buenos Aires",
+    "lat": "-38.2667",
+    "lng": "-57.8333",
+    "id": "1032791086"
+  },
+  {
+    "city": "Villa Regina",
+    "city_ascii": "Villa Regina",
+    "admin_name": "Río Negro",
+    "lat": "-39.1000",
+    "lng": "-67.0667",
+    "id": "1032583314"
+  },
+  {
+    "city": "Brandsen",
+    "city_ascii": "Brandsen",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.1667",
+    "lng": "-58.2167",
+    "id": "1032251860"
+  },
+  {
+    "city": "General Alvear",
+    "city_ascii": "General Alvear",
+    "admin_name": "Mendoza",
+    "lat": "-34.9667",
+    "lng": "-67.7000",
+    "id": "1032632724"
+  },
+  {
+    "city": "Villa Dolores",
+    "city_ascii": "Villa Dolores",
+    "admin_name": "Córdoba",
+    "lat": "-31.9333",
+    "lng": "-65.2000",
+    "id": "1032787286"
+  },
+  {
+    "city": "Villa Gesell",
+    "city_ascii": "Villa Gesell",
+    "admin_name": "Buenos Aires",
+    "lat": "-37.2500",
+    "lng": "-56.9833",
+    "id": "1032960969"
+  },
+  {
+    "city": "Capitán Bermúdez",
+    "city_ascii": "Capitan Bermudez",
+    "admin_name": "Santa Fe",
+    "lat": "-32.8167",
+    "lng": "-60.7167",
+    "id": "1032901343"
+  },
+  {
+    "city": "Bella Vista",
+    "city_ascii": "Bella Vista",
+    "admin_name": "Corrientes",
+    "lat": "-28.4667",
+    "lng": "-59.0500",
+    "id": "1032181684"
+  },
+  {
+    "city": "Garupá",
+    "city_ascii": "Garupa",
+    "admin_name": "Misiones",
+    "lat": "-27.4833",
+    "lng": "-55.8333",
+    "id": "1032468152"
+  },
+  {
+    "city": "Baradero",
+    "city_ascii": "Baradero",
+    "admin_name": "Buenos Aires",
+    "lat": "-33.8000",
+    "lng": "-59.5167",
+    "id": "1032310302"
+  },
+  {
+    "city": "General San Martín",
+    "city_ascii": "General San Martin",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.5667",
+    "lng": "-58.5333",
+    "id": "1032374226"
+  },
+  {
+    "city": "Adrogue",
+    "city_ascii": "Adrogue",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8000",
+    "lng": "-58.3833",
+    "id": "1032827397"
+  },
+  {
+    "city": "Caucete",
+    "city_ascii": "Caucete",
+    "admin_name": "San Juan",
+    "lat": "-31.6500",
+    "lng": "-68.2833",
+    "id": "1032782355"
+  },
+  {
+    "city": "Lincoln",
+    "city_ascii": "Lincoln",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8500",
+    "lng": "-61.5167",
+    "id": "1032332688"
+  },
+  {
+    "city": "Malargüe",
+    "city_ascii": "Malargue",
+    "admin_name": "Mendoza",
+    "lat": "-35.4750",
+    "lng": "-69.5833",
+    "id": "1032824937"
+  },
+  {
+    "city": "Cinco Saltos",
+    "city_ascii": "Cinco Saltos",
+    "admin_name": "Río Negro",
+    "lat": "-38.8167",
+    "lng": "-68.0667",
+    "id": "1032470108"
+  },
+  {
+    "city": "Castelli",
+    "city_ascii": "Castelli",
+    "admin_name": "Chaco",
+    "lat": "-25.9500",
+    "lng": "-60.6167",
+    "id": "1032193694"
+  },
+  {
+    "city": "Marcos Juárez",
+    "city_ascii": "Marcos Juarez",
+    "admin_name": "Córdoba",
+    "lat": "-32.7000",
+    "lng": "-62.1000",
+    "id": "1032677394"
+  },
+  {
+    "city": "Santa María",
+    "city_ascii": "Santa Maria",
+    "admin_name": "Catamarca",
+    "lat": "-26.6833",
+    "lng": "-66.0333",
+    "id": "1032055755"
+  },
+  {
+    "city": "San Antonio de Areco",
+    "city_ascii": "San Antonio de Areco",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.2500",
+    "lng": "-59.4667",
+    "id": "1032676766"
+  },
+  {
+    "city": "Las Flores",
+    "city_ascii": "Las Flores",
+    "admin_name": "Buenos Aires",
+    "lat": "-36.0139",
+    "lng": "-59.1000",
+    "id": "1032178626"
+  },
+  {
+    "city": "Frías",
+    "city_ascii": "Frias",
+    "admin_name": "Santiago del Estero",
+    "lat": "-28.6333",
+    "lng": "-65.1333",
+    "id": "1032077058"
+  },
+  {
+    "city": "San Andrés de Giles",
+    "city_ascii": "San Andres de Giles",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.4333",
+    "lng": "-59.4333",
+    "id": "1032365242"
+  },
+  {
+    "city": "Charata",
+    "city_ascii": "Charata",
+    "admin_name": "Chaco",
+    "lat": "-27.2167",
+    "lng": "-61.2000",
+    "id": "1032241417"
+  },
+  {
+    "city": "Pérez",
+    "city_ascii": "Perez",
+    "admin_name": "Santa Fe",
+    "lat": "-33.0000",
+    "lng": "-60.7667",
+    "id": "1032176211"
+  },
+  {
+    "city": "Muñiz",
+    "city_ascii": "Muniz",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.5333",
+    "lng": "-58.7000",
+    "id": "1032339781"
+  },
+  {
+    "city": "Rosario de la Frontera",
+    "city_ascii": "Rosario de la Frontera",
+    "admin_name": "Salta",
+    "lat": "-25.8000",
+    "lng": "-64.9667",
+    "id": "1032725904"
+  },
+  {
+    "city": "Dolores",
+    "city_ascii": "Dolores",
+    "admin_name": "Buenos Aires",
+    "lat": "-36.3167",
+    "lng": "-57.6667",
+    "id": "1032650497"
+  },
+  {
+    "city": "Firmat",
+    "city_ascii": "Firmat",
+    "admin_name": "Santa Fe",
+    "lat": "-33.4500",
+    "lng": "-61.4833",
+    "id": "1032869120"
+  },
+  {
+    "city": "Jardín América",
+    "city_ascii": "Jardin America",
+    "admin_name": "Misiones",
+    "lat": "-27.0500",
+    "lng": "-55.2333",
+    "id": "1032722458"
+  },
+  {
+    "city": "Mar de Ajó",
+    "city_ascii": "Mar de Ajo",
+    "admin_name": "Buenos Aires",
+    "lat": "-36.7203",
+    "lng": "-56.6878",
+    "id": "1032066406"
+  },
+  {
+    "city": "Leandro N. Alem",
+    "city_ascii": "Leandro N. Alem",
+    "admin_name": "Misiones",
+    "lat": "-27.6000",
+    "lng": "-55.3333",
+    "id": "1032046721"
+  },
+  {
+    "city": "Candelaria",
+    "city_ascii": "Candelaria",
+    "admin_name": "Misiones",
+    "lat": "-27.4594",
+    "lng": "-55.7453",
+    "id": "1032985657"
+  },
+  {
+    "city": "Tres Isletas",
+    "city_ascii": "Tres Isletas",
+    "admin_name": "Chaco",
+    "lat": "-26.3500",
+    "lng": "-60.4167",
+    "id": "1032320525"
+  },
+  {
+    "city": "Rawson",
+    "city_ascii": "Rawson",
+    "admin_name": "Chubut",
+    "lat": "-43.3000",
+    "lng": "-65.1000",
+    "id": "1032302344"
+  },
+  {
+    "city": "Vicente López",
+    "city_ascii": "Vicente Lopez",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.5333",
+    "lng": "-58.4750",
+    "id": "1032549688"
+  },
+  {
+    "city": "Embarcación",
+    "city_ascii": "Embarcacion",
+    "admin_name": "Salta",
+    "lat": "-23.2167",
+    "lng": "-64.1000",
+    "id": "1032320491"
+  },
+  {
+    "city": "Tapiales",
+    "city_ascii": "Tapiales",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7058",
+    "lng": "-58.5047",
+    "id": "1032831289"
+  },
+  {
+    "city": "Monte Caseros",
+    "city_ascii": "Monte Caseros",
+    "admin_name": "Corrientes",
+    "lat": "-30.2500",
+    "lng": "-57.6500",
+    "id": "1032051417"
+  },
+  {
+    "city": "Avellaneda",
+    "city_ascii": "Avellaneda",
+    "admin_name": "Santa Fe",
+    "lat": "-29.1175",
+    "lng": "-59.6583",
+    "id": "1032387319"
+  },
+  {
+    "city": "Santo Tomé",
+    "city_ascii": "Santo Tome",
+    "admin_name": "Corrientes",
+    "lat": "-28.5500",
+    "lng": "-56.0500",
+    "id": "1032959342"
+  },
+  {
+    "city": "Añatuya",
+    "city_ascii": "Anatuya",
+    "admin_name": "Santiago del Estero",
+    "lat": "-28.4667",
+    "lng": "-62.8333",
+    "id": "1032511298"
+  },
+  {
+    "city": "Monteros",
+    "city_ascii": "Monteros",
+    "admin_name": "Tucumán",
+    "lat": "-27.1667",
+    "lng": "-65.5000",
+    "id": "1032530967"
+  },
+  {
+    "city": "Colón",
+    "city_ascii": "Colon",
+    "admin_name": "Buenos Aires",
+    "lat": "-33.8833",
+    "lng": "-61.1000",
+    "id": "1032795867"
+  },
+  {
+    "city": "Colón",
+    "city_ascii": "Colon",
+    "admin_name": "Entre Ríos",
+    "lat": "-32.2167",
+    "lng": "-58.1333",
+    "id": "1032656120"
+  },
+  {
+    "city": "Manuel B. Gonnet",
+    "city_ascii": "Manuel B. Gonnet",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8500",
+    "lng": "-58.0167",
+    "id": "1032782726"
+  },
+  {
+    "city": "Las Breñas",
+    "city_ascii": "Las Brenas",
+    "admin_name": "Chaco",
+    "lat": "-27.0667",
+    "lng": "-61.0667",
+    "id": "1032967158"
+  },
+  {
+    "city": "Famaillá",
+    "city_ascii": "Famailla",
+    "admin_name": "Tucumán",
+    "lat": "-27.0500",
+    "lng": "-65.4000",
+    "id": "1032521528"
+  },
+  {
+    "city": "El Calafate",
+    "city_ascii": "El Calafate",
+    "admin_name": "Santa Cruz",
+    "lat": "-50.3378",
+    "lng": "-72.2600",
+    "id": "1032210475"
+  },
+  {
+    "city": "Nogoyá",
+    "city_ascii": "Nogoya",
+    "admin_name": "Entre Ríos",
+    "lat": "-32.4000",
+    "lng": "-59.8000",
+    "id": "1032062118"
+  },
+  {
+    "city": "General Viamonte",
+    "city_ascii": "General Viamonte",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.0000",
+    "lng": "-61.0333",
+    "id": "1032695621"
+  },
+  {
+    "city": "Melchor Romero",
+    "city_ascii": "Melchor Romero",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.9492",
+    "lng": "-58.0472",
+    "id": "1032196678"
+  },
+  {
+    "city": "San Martín",
+    "city_ascii": "San Martin",
+    "admin_name": "San Juan",
+    "lat": "-31.4397",
+    "lng": "-68.5206",
+    "id": "1032363608"
+  },
+  {
+    "city": "Machagai",
+    "city_ascii": "Machagai",
+    "admin_name": "Chaco",
+    "lat": "-26.9167",
+    "lng": "-60.0333",
+    "id": "1032606439"
+  },
+  {
+    "city": "Rosario de Lerma",
+    "city_ascii": "Rosario de Lerma",
+    "admin_name": "Salta",
+    "lat": "-24.9833",
+    "lng": "-65.5833",
+    "id": "1032672697"
+  },
+  {
+    "city": "Deán Funes",
+    "city_ascii": "Dean Funes",
+    "admin_name": "Córdoba",
+    "lat": "-30.4333",
+    "lng": "-64.3500",
+    "id": "1032778928"
+  },
+  {
+    "city": "Alejandro Korn",
+    "city_ascii": "Alejandro Korn",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.9667",
+    "lng": "-58.3667",
+    "id": "1032420273"
+  },
+  {
+    "city": "Carlos Casares",
+    "city_ascii": "Carlos Casares",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.6167",
+    "lng": "-61.3667",
+    "id": "1032627170"
+  },
+  {
+    "city": "San Isidro de Lules",
+    "city_ascii": "San Isidro de Lules",
+    "admin_name": "Tucumán",
+    "lat": "-26.9333",
+    "lng": "-65.3500",
+    "id": "1032638777"
+  },
+  {
+    "city": "Joaquín V. González",
+    "city_ascii": "Joaquin V. Gonzalez",
+    "admin_name": "Salta",
+    "lat": "-25.0833",
+    "lng": "-64.1833",
+    "id": "1032690861"
+  },
+  {
+    "city": "San José de Jáchal",
+    "city_ascii": "San Jose de Jachal",
+    "admin_name": "San Juan",
+    "lat": "-30.2333",
+    "lng": "-68.7500",
+    "id": "1032660627"
+  },
+  {
+    "city": "Pico Truncado",
+    "city_ascii": "Pico Truncado",
+    "admin_name": "Santa Cruz",
+    "lat": "-46.7950",
+    "lng": "-67.9550",
+    "id": "1032509324"
+  },
+  {
+    "city": "Don Bosco",
+    "city_ascii": "Don Bosco",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7000",
+    "lng": "-58.2833",
+    "id": "1032701626"
+  },
+  {
+    "city": "General Belgrano",
+    "city_ascii": "General Belgrano",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.7667",
+    "lng": "-58.5000",
+    "id": "1032451126"
+  },
+  {
+    "city": "Profesor Salvador Mazza",
+    "city_ascii": "Profesor Salvador Mazza",
+    "admin_name": "Salta",
+    "lat": "-22.0500",
+    "lng": "-63.7000",
+    "id": "1032887089"
+  },
+  {
+    "city": "Arroyo Seco",
+    "city_ascii": "Arroyo Seco",
+    "admin_name": "Santa Fe",
+    "lat": "-33.1667",
+    "lng": "-60.5000",
+    "id": "1032882258"
+  },
+  {
+    "city": "Santa Elena",
+    "city_ascii": "Santa Elena",
+    "admin_name": "Entre Ríos",
+    "lat": "-30.9500",
+    "lng": "-59.8000",
+    "id": "1032467373"
+  },
+  {
+    "city": "Sunchales",
+    "city_ascii": "Sunchales",
+    "admin_name": "Santa Fe",
+    "lat": "-30.9333",
+    "lng": "-61.5667",
+    "id": "1032630690"
+  },
+  {
+    "city": "Laboulaye",
+    "city_ascii": "Laboulaye",
+    "admin_name": "Córdoba",
+    "lat": "-34.1167",
+    "lng": "-63.4000",
+    "id": "1032996866"
+  },
+  {
+    "city": "Carmen de Patagones",
+    "city_ascii": "Carmen de Patagones",
+    "admin_name": "Buenos Aires",
+    "lat": "-40.7833",
+    "lng": "-62.9667",
+    "id": "1032352587"
+  },
+  {
+    "city": "Gálvez",
+    "city_ascii": "Galvez",
+    "admin_name": "Santa Fe",
+    "lat": "-32.0333",
+    "lng": "-61.2167",
+    "id": "1032423534"
+  },
+  {
+    "city": "Matheu",
+    "city_ascii": "Matheu",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.3667",
+    "lng": "-58.8333",
+    "id": "1032459344"
+  },
+  {
+    "city": "Saavedra",
+    "city_ascii": "Saavedra",
+    "admin_name": "Buenos Aires",
+    "lat": "-37.7833",
+    "lng": "-62.3500",
+    "id": "1032480049"
+  },
+  {
+    "city": "Río Segundo",
+    "city_ascii": "Rio Segundo",
+    "admin_name": "Córdoba",
+    "lat": "-31.6501",
+    "lng": "-63.9116",
+    "id": "1032477999"
+  },
+  {
+    "city": "Villa Elisa",
+    "city_ascii": "Villa Elisa",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8533",
+    "lng": "-58.0792",
+    "id": "1032522671"
+  },
+  {
+    "city": "Arroyito",
+    "city_ascii": "Arroyito",
+    "admin_name": "Córdoba",
+    "lat": "-31.4167",
+    "lng": "-63.0500",
+    "id": "1032970192"
+  },
+  {
+    "city": "Ituzaingó",
+    "city_ascii": "Ituzaingo",
+    "admin_name": "Corrientes",
+    "lat": "-27.6000",
+    "lng": "-56.6667",
+    "id": "1032176829"
+  },
+  {
+    "city": "Crespo",
+    "city_ascii": "Crespo",
+    "admin_name": "Entre Ríos",
+    "lat": "-32.0333",
+    "lng": "-60.3167",
+    "id": "1032701663"
+  },
+  {
+    "city": "San Jorge",
+    "city_ascii": "San Jorge",
+    "admin_name": "Santa Fe",
+    "lat": "-31.8961",
+    "lng": "-61.8597",
+    "id": "1032250388"
+  },
+  {
+    "city": "Vera",
+    "city_ascii": "Vera",
+    "admin_name": "Santa Fe",
+    "lat": "-29.4667",
+    "lng": "-60.2167",
+    "id": "1032305174"
+  },
+  {
+    "city": "Diamante",
+    "city_ascii": "Diamante",
+    "admin_name": "Entre Ríos",
+    "lat": "-32.0667",
+    "lng": "-60.6500",
+    "id": "1032164257"
+  },
+  {
+    "city": "Billinghurst",
+    "city_ascii": "Billinghurst",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.5667",
+    "lng": "-58.5333",
+    "id": "1032893380"
+  },
+  {
+    "city": "Martín Coronado",
+    "city_ascii": "Martin Coronado",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6000",
+    "lng": "-58.5500",
+    "id": "1032260556"
+  },
+  {
+    "city": "Villa Ocampo",
+    "city_ascii": "Villa Ocampo",
+    "admin_name": "Santa Fe",
+    "lat": "-28.4833",
+    "lng": "-59.3500",
+    "id": "1032889265"
+  },
+  {
+    "city": "Santa Rosa de Calamuchita",
+    "city_ascii": "Santa Rosa de Calamuchita",
+    "admin_name": "Córdoba",
+    "lat": "-32.0667",
+    "lng": "-64.5333",
+    "id": "1032342654"
+  },
+  {
+    "city": "El Bolsón",
+    "city_ascii": "El Bolson",
+    "admin_name": "Río Negro",
+    "lat": "-41.9667",
+    "lng": "-71.5333",
+    "id": "1032652182"
+  },
+  {
+    "city": "Rufino",
+    "city_ascii": "Rufino",
+    "admin_name": "Santa Fe",
+    "lat": "-34.2619",
+    "lng": "-62.7114",
+    "id": "1032127696"
+  },
+  {
+    "city": "Carlos Spegazzini",
+    "city_ascii": "Carlos Spegazzini",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.8833",
+    "lng": "-58.5667",
+    "id": "1032807626"
+  },
+  {
+    "city": "Villa Nueva",
+    "city_ascii": "Villa Nueva",
+    "admin_name": "Córdoba",
+    "lat": "-32.4331",
+    "lng": "-63.2475",
+    "id": "1032374249"
+  },
+  {
+    "city": "Junín de los Andes",
+    "city_ascii": "Junin de los Andes",
+    "admin_name": "Neuquén",
+    "lat": "-39.9167",
+    "lng": "-71.0667",
+    "id": "1032993092"
+  },
+  {
+    "city": "Unquillo",
+    "city_ascii": "Unquillo",
+    "admin_name": "Córdoba",
+    "lat": "-31.2333",
+    "lng": "-64.3167",
+    "id": "1032865903"
+  },
+  {
+    "city": "Saladas",
+    "city_ascii": "Saladas",
+    "admin_name": "Corrientes",
+    "lat": "-28.2500",
+    "lng": "-58.6167",
+    "id": "1032869998"
+  },
+  {
+    "city": "Monte Cristo",
+    "city_ascii": "Monte Cristo",
+    "admin_name": "Córdoba",
+    "lat": "-31.3431",
+    "lng": "-63.9444",
+    "id": "1032121160"
+  },
+  {
+    "city": "Aldo Bonzi",
+    "city_ascii": "Aldo Bonzi",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.7083",
+    "lng": "-58.5181",
+    "id": "1032281187"
+  },
+  {
+    "city": "Coronda",
+    "city_ascii": "Coronda",
+    "admin_name": "Santa Fe",
+    "lat": "-31.9667",
+    "lng": "-60.9167",
+    "id": "1032005345"
+  },
+  {
+    "city": "General Juan Madariaga",
+    "city_ascii": "General Juan Madariaga",
+    "admin_name": "Buenos Aires",
+    "lat": "-37.0167",
+    "lng": "-57.1333",
+    "id": "1032481870"
+  },
+  {
+    "city": "General Las Heras",
+    "city_ascii": "General Las Heras",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.9333",
+    "lng": "-58.9500",
+    "id": "1032789819"
+  },
+  {
+    "city": "General Deheza",
+    "city_ascii": "General Deheza",
+    "admin_name": "Córdoba",
+    "lat": "-32.7564",
+    "lng": "-63.7889",
+    "id": "1032325674"
+  },
+  {
+    "city": "Las Heras",
+    "city_ascii": "Las Heras",
+    "admin_name": "Santa Cruz",
+    "lat": "-46.5500",
+    "lng": "-68.9500",
+    "id": "1032657206"
+  },
+  {
+    "city": "Cerrillos",
+    "city_ascii": "Cerrillos",
+    "admin_name": "Salta",
+    "lat": "-24.9000",
+    "lng": "-65.4833",
+    "id": "1032917216"
+  },
+  {
+    "city": "Puerto Rico",
+    "city_ascii": "Puerto Rico",
+    "admin_name": "Misiones",
+    "lat": "-26.8000",
+    "lng": "-55.0167",
+    "id": "1032211947"
+  },
+  {
+    "city": "Villa Sarmiento",
+    "city_ascii": "Villa Sarmiento",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.6333",
+    "lng": "-58.5667",
+    "id": "1032961945"
+  },
+  {
+    "city": "Ayacucho",
+    "city_ascii": "Ayacucho",
+    "admin_name": "Buenos Aires",
+    "lat": "-37.1333",
+    "lng": "-58.4667",
+    "id": "1032171567"
+  },
+  {
+    "city": "Carcarañá",
+    "city_ascii": "Carcarana",
+    "admin_name": "Santa Fe",
+    "lat": "-32.8500",
+    "lng": "-61.1500",
+    "id": "1032358026"
+  },
+  {
+    "city": "Morteros",
+    "city_ascii": "Morteros",
+    "admin_name": "Córdoba",
+    "lat": "-30.7000",
+    "lng": "-62.0000",
+    "id": "1032224912"
+  },
+  {
+    "city": "La Quiaca",
+    "city_ascii": "La Quiaca",
+    "admin_name": "Jujuy",
+    "lat": "-22.1042",
+    "lng": "-65.5972",
+    "id": "1032628832"
+  },
+  {
+    "city": "Daireaux",
+    "city_ascii": "Daireaux",
+    "admin_name": "Buenos Aires",
+    "lat": "-36.6000",
+    "lng": "-61.7500",
+    "id": "1032067440"
+  },
+  {
+    "city": "Federación",
+    "city_ascii": "Federacion",
+    "admin_name": "Entre Ríos",
+    "lat": "-30.9833",
+    "lng": "-57.9167",
+    "id": "1032860100"
+  },
+  {
+    "city": "Puan",
+    "city_ascii": "Puan",
+    "admin_name": "Buenos Aires",
+    "lat": "-37.5500",
+    "lng": "-62.7667",
+    "id": "1032047126"
+  },
+  {
+    "city": "General Arenales",
+    "city_ascii": "General Arenales",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.2833",
+    "lng": "-61.2833",
+    "id": "1032412729"
+  },
+  {
+    "city": "Villa San José",
+    "city_ascii": "Villa San Jose",
+    "admin_name": "Entre Ríos",
+    "lat": "-32.2000",
+    "lng": "-58.2167",
+    "id": "1032325673"
+  },
+  {
+    "city": "La Falda",
+    "city_ascii": "La Falda",
+    "admin_name": "Córdoba",
+    "lat": "-31.0833",
+    "lng": "-64.5000",
+    "id": "1032413311"
+  },
+  {
+    "city": "San Antonio Oeste",
+    "city_ascii": "San Antonio Oeste",
+    "admin_name": "Río Negro",
+    "lat": "-40.7333",
+    "lng": "-64.9500",
+    "id": "1032154473"
+  },
+  {
+    "city": "Carhué",
+    "city_ascii": "Carhue",
+    "admin_name": "Buenos Aires",
+    "lat": "-37.1796",
+    "lng": "-62.7601",
+    "id": "1032595269"
+  },
+  {
+    "city": "Federal",
+    "city_ascii": "Federal",
+    "admin_name": "Entre Ríos",
+    "lat": "-30.9500",
+    "lng": "-58.8000",
+    "id": "1032401212"
+  },
+  {
+    "city": "Capitán Sarmiento",
+    "city_ascii": "Capitan Sarmiento",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.1667",
+    "lng": "-59.7833",
+    "id": "1032299456"
+  },
+  {
+    "city": "Plaza Huincul",
+    "city_ascii": "Plaza Huincul",
+    "admin_name": "Neuquén",
+    "lat": "-38.9338",
+    "lng": "-69.1987",
+    "id": "1032678166"
+  },
+  {
+    "city": "La Lucila",
+    "city_ascii": "La Lucila",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.4833",
+    "lng": "-58.4833",
+    "id": "1032447032"
+  },
+  {
+    "city": "Santa Rosa",
+    "city_ascii": "Santa Rosa",
+    "admin_name": "Mendoza",
+    "lat": "-33.2500",
+    "lng": "-68.1500",
+    "id": "1032261452"
+  },
+  {
+    "city": "General Pinedo",
+    "city_ascii": "General Pinedo",
+    "admin_name": "Chaco",
+    "lat": "-27.3167",
+    "lng": "-61.2833",
+    "id": "1032426830"
+  },
+  {
+    "city": "Chos Malal",
+    "city_ascii": "Chos Malal",
+    "admin_name": "Neuquén",
+    "lat": "-37.3833",
+    "lng": "-70.2667",
+    "id": "1032817076"
+  },
+  {
+    "city": "Wanda",
+    "city_ascii": "Wanda",
+    "admin_name": "Misiones",
+    "lat": "-25.9667",
+    "lng": "-54.5833",
+    "id": "1032480150"
+  },
+  {
+    "city": "Villa del Rosario",
+    "city_ascii": "Villa del Rosario",
+    "admin_name": "Córdoba",
+    "lat": "-31.5833",
+    "lng": "-63.5333",
+    "id": "1032540940"
+  },
+  {
+    "city": "San Luis del Palmar",
+    "city_ascii": "San Luis del Palmar",
+    "admin_name": "Corrientes",
+    "lat": "-27.5167",
+    "lng": "-58.5667",
+    "id": "1032360742"
+  },
+  {
+    "city": "Villa Paranacito",
+    "city_ascii": "Villa Paranacito",
+    "admin_name": "Entre Ríos",
+    "lat": "-33.7000",
+    "lng": "-58.6833",
+    "id": "1032597939"
+  },
+  {
+    "city": "Fray Luis A. Beltrán",
+    "city_ascii": "Fray Luis A. Beltran",
+    "admin_name": "Santa Fe",
+    "lat": "-32.7833",
+    "lng": "-60.7333",
+    "id": "1032928868"
+  },
+  {
+    "city": "Bella Vista",
+    "city_ascii": "Bella Vista",
+    "admin_name": "Tucumán",
+    "lat": "-27.0333",
+    "lng": "-65.3000",
+    "id": "1032337057"
+  },
+  {
+    "city": "Villa Ojo de Agua",
+    "city_ascii": "Villa Ojo de Agua",
+    "admin_name": "Santiago del Estero",
+    "lat": "-29.5167",
+    "lng": "-63.7000",
+    "id": "1032372035"
+  },
+  {
+    "city": "Pilar",
+    "city_ascii": "Pilar",
+    "admin_name": "Córdoba",
+    "lat": "-31.6833",
+    "lng": "-63.9000",
+    "id": "1032492017"
+  },
+  {
+    "city": "Tostado",
+    "city_ascii": "Tostado",
+    "admin_name": "Santa Fe",
+    "lat": "-29.2333",
+    "lng": "-61.7667",
+    "id": "1032032722"
+  },
+  {
+    "city": "Ceres",
+    "city_ascii": "Ceres",
+    "admin_name": "Santa Fe",
+    "lat": "-29.8667",
+    "lng": "-61.9500",
+    "id": "1032855291"
+  },
+  {
+    "city": "Rauch",
+    "city_ascii": "Rauch",
+    "admin_name": "Buenos Aires",
+    "lat": "-36.7667",
+    "lng": "-59.1000",
+    "id": "1032991663"
+  },
+  {
+    "city": "General Cabrera",
+    "city_ascii": "General Cabrera",
+    "admin_name": "Córdoba",
+    "lat": "-32.7994",
+    "lng": "-63.8683",
+    "id": "1032554638"
+  },
+  {
+    "city": "San Cristóbal",
+    "city_ascii": "San Cristobal",
+    "admin_name": "Santa Fe",
+    "lat": "-30.3167",
+    "lng": "-61.2333",
+    "id": "1032634720"
+  },
+  {
+    "city": "Benito Juárez",
+    "city_ascii": "Benito Juarez",
+    "admin_name": "Buenos Aires",
+    "lat": "-37.6667",
+    "lng": "-59.7833",
+    "id": "1032382110"
+  },
+  {
+    "city": "Villa La Angostura",
+    "city_ascii": "Villa La Angostura",
+    "admin_name": "Neuquén",
+    "lat": "-40.7625",
+    "lng": "-71.6463",
+    "id": "1032303492"
+  },
+  {
+    "city": "Puerto Deseado",
+    "city_ascii": "Puerto Deseado",
+    "admin_name": "Santa Cruz",
+    "lat": "-47.7500",
+    "lng": "-65.9167",
+    "id": "1032537209"
+  },
+  {
+    "city": "Roldán",
+    "city_ascii": "Roldan",
+    "admin_name": "Santa Fe",
+    "lat": "-32.9011",
+    "lng": "-60.9072",
+    "id": "1032014352"
+  },
+  {
+    "city": "Andalgalá",
+    "city_ascii": "Andalgala",
+    "admin_name": "Catamarca",
+    "lat": "-27.6000",
+    "lng": "-66.3167",
+    "id": "1032960533"
+  },
+  {
+    "city": "Pigüé",
+    "city_ascii": "Pigue",
+    "admin_name": "Buenos Aires",
+    "lat": "-37.6167",
+    "lng": "-62.4167",
+    "id": "1032545605"
+  },
+  {
+    "city": "San Javier",
+    "city_ascii": "San Javier",
+    "admin_name": "Santa Fe",
+    "lat": "-30.5833",
+    "lng": "-59.9500",
+    "id": "1032258062"
+  },
+  {
+    "city": "Puerto San Martín",
+    "city_ascii": "Puerto San Martin",
+    "admin_name": "Santa Fe",
+    "lat": "-32.7167",
+    "lng": "-60.7333",
+    "id": "1032928261"
+  },
+  {
+    "city": "Oncativo",
+    "city_ascii": "Oncativo",
+    "admin_name": "Córdoba",
+    "lat": "-31.9167",
+    "lng": "-63.6667",
+    "id": "1032751442"
+  },
+  {
+    "city": "General Enrique Mosconi",
+    "city_ascii": "General Enrique Mosconi",
+    "admin_name": "Salta",
+    "lat": "-22.6000",
+    "lng": "-63.8167",
+    "id": "1032708180"
+  },
+  {
+    "city": "Las Rosas",
+    "city_ascii": "Las Rosas",
+    "admin_name": "Santa Fe",
+    "lat": "-32.4833",
+    "lng": "-61.5833",
+    "id": "1032811294"
+  },
+  {
+    "city": "Chamical",
+    "city_ascii": "Chamical",
+    "admin_name": "La Rioja",
+    "lat": "-30.3667",
+    "lng": "-66.3167",
+    "id": "1032026963"
+  },
+  {
+    "city": "Adolfo Gonzáles Chaves",
+    "city_ascii": "Adolfo Gonzales Chaves",
+    "admin_name": "Buenos Aires",
+    "lat": "-38.0333",
+    "lng": "-60.0833",
+    "id": "1032667376"
+  },
+  {
+    "city": "Acasusso",
+    "city_ascii": "Acasusso",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.4667",
+    "lng": "-58.5167",
+    "id": "1032071091"
+  },
+  {
+    "city": "Rosario del Tala",
+    "city_ascii": "Rosario del Tala",
+    "admin_name": "Entre Ríos",
+    "lat": "-32.3000",
+    "lng": "-59.1333",
+    "id": "1032485062"
+  },
+  {
+    "city": "San Salvador",
+    "city_ascii": "San Salvador",
+    "admin_name": "Entre Ríos",
+    "lat": "-31.6167",
+    "lng": "-58.5000",
+    "id": "1032064102"
+  },
+  {
+    "city": "General Acha",
+    "city_ascii": "General Acha",
+    "admin_name": "La Pampa",
+    "lat": "-37.3833",
+    "lng": "-64.6000",
+    "id": "1032754680"
+  },
+  {
+    "city": "Monte Quemado",
+    "city_ascii": "Monte Quemado",
+    "admin_name": "Santiago del Estero",
+    "lat": "-25.8036",
+    "lng": "-62.8303",
+    "id": "1032834102"
+  },
+  {
+    "city": "La Carlota",
+    "city_ascii": "La Carlota",
+    "admin_name": "Córdoba",
+    "lat": "-33.4333",
+    "lng": "-63.3000",
+    "id": "1032992119"
+  },
+  {
+    "city": "Ingeniero Maschwitz",
+    "city_ascii": "Ingeniero Maschwitz",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.3667",
+    "lng": "-58.7500",
+    "id": "1032533871"
+  },
+  {
+    "city": "Las Lomitas",
+    "city_ascii": "Las Lomitas",
+    "admin_name": "Formosa",
+    "lat": "-24.7072",
+    "lng": "-60.5944",
+    "id": "1032153825"
+  },
+  {
+    "city": "Las Parejas",
+    "city_ascii": "Las Parejas",
+    "admin_name": "Santa Fe",
+    "lat": "-32.6833",
+    "lng": "-61.5333",
+    "id": "1032630210"
+  },
+  {
+    "city": "Laguna Paiva",
+    "city_ascii": "Laguna Paiva",
+    "admin_name": "Santa Fe",
+    "lat": "-31.3039",
+    "lng": "-60.6589",
+    "id": "1032996959"
+  },
+  {
+    "city": "Villa Unión",
+    "city_ascii": "Villa Union",
+    "admin_name": "La Rioja",
+    "lat": "-29.3000",
+    "lng": "-68.2000",
+    "id": "1032705545"
+  },
+  {
+    "city": "Belén",
+    "city_ascii": "Belen",
+    "admin_name": "Catamarca",
+    "lat": "-27.6500",
+    "lng": "-67.0333",
+    "id": "1032969950"
+  },
+  {
+    "city": "Presidencia de la Plaza",
+    "city_ascii": "Presidencia de la Plaza",
+    "admin_name": "Chaco",
+    "lat": "-26.9833",
+    "lng": "-59.8333",
+    "id": "1032479033"
+  },
+  {
+    "city": "Lobería",
+    "city_ascii": "Loberia",
+    "admin_name": "Buenos Aires",
+    "lat": "-38.1333",
+    "lng": "-58.7667",
+    "id": "1032802362"
+  },
+  {
+    "city": "Malvinas Argentinas",
+    "city_ascii": "Malvinas Argentinas",
+    "admin_name": "Córdoba",
+    "lat": "-31.3697",
+    "lng": "-64.0531",
+    "id": "1032010904"
+  },
+  {
+    "city": "Justo Daract",
+    "city_ascii": "Justo Daract",
+    "admin_name": "San Luis",
+    "lat": "-33.8667",
+    "lng": "-65.1667",
+    "id": "1032088229"
+  },
+  {
+    "city": "Ibicuy",
+    "city_ascii": "Ibicuy",
+    "admin_name": "Entre Ríos",
+    "lat": "-33.7333",
+    "lng": "-59.1833",
+    "id": "1032822917"
+  },
+  {
+    "city": "Villa Berthet",
+    "city_ascii": "Villa Berthet",
+    "admin_name": "Chaco",
+    "lat": "-27.2667",
+    "lng": "-60.4167",
+    "id": "1032895608"
+  },
+  {
+    "city": "Carmen de Areco",
+    "city_ascii": "Carmen de Areco",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.3858",
+    "lng": "-59.8294",
+    "id": "1032088260"
+  },
+  {
+    "city": "Recreo",
+    "city_ascii": "Recreo",
+    "admin_name": "Catamarca",
+    "lat": "-29.2667",
+    "lng": "-65.0667",
+    "id": "1032000017"
+  },
+  {
+    "city": "Cafayate",
+    "city_ascii": "Cafayate",
+    "admin_name": "Salta",
+    "lat": "-26.0833",
+    "lng": "-65.9667",
+    "id": "1032961594"
+  },
+  {
+    "city": "Tornquist",
+    "city_ascii": "Tornquist",
+    "admin_name": "Buenos Aires",
+    "lat": "-38.1000",
+    "lng": "-62.2167",
+    "id": "1032008603"
+  },
+  {
+    "city": "Río Colorado",
+    "city_ascii": "Rio Colorado",
+    "admin_name": "La Pampa",
+    "lat": "-38.9908",
+    "lng": "-64.0958",
+    "id": "1032592194"
+  },
+  {
+    "city": "Oliva",
+    "city_ascii": "Oliva",
+    "admin_name": "Córdoba",
+    "lat": "-32.0333",
+    "lng": "-63.5667",
+    "id": "1032905249"
+  },
+  {
+    "city": "Villa General Belgrano",
+    "city_ascii": "Villa General Belgrano",
+    "admin_name": "Córdoba",
+    "lat": "-31.9667",
+    "lng": "-64.5667",
+    "id": "1032447209"
+  },
+  {
+    "city": "Santa Lucía",
+    "city_ascii": "Santa Lucia",
+    "admin_name": "Corrientes",
+    "lat": "-28.9833",
+    "lng": "-59.1000",
+    "id": "1032860386"
+  },
+  {
+    "city": "Navarro",
+    "city_ascii": "Navarro",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.0167",
+    "lng": "-59.2667",
+    "id": "1032226525"
+  },
+  {
+    "city": "Coronel Dorrego",
+    "city_ascii": "Coronel Dorrego",
+    "admin_name": "Buenos Aires",
+    "lat": "-38.7000",
+    "lng": "-61.2667",
+    "id": "1032800825"
+  },
+  {
+    "city": "Tinogasta",
+    "city_ascii": "Tinogasta",
+    "admin_name": "Catamarca",
+    "lat": "-28.0667",
+    "lng": "-67.5667",
+    "id": "1032163046"
+  },
+  {
+    "city": "Ramallo",
+    "city_ascii": "Ramallo",
+    "admin_name": "Buenos Aires",
+    "lat": "-33.3167",
+    "lng": "-60.2000",
+    "id": "1032462630"
+  },
+  {
+    "city": "Humahuaca",
+    "city_ascii": "Humahuaca",
+    "admin_name": "Jujuy",
+    "lat": "-23.2000",
+    "lng": "-65.3500",
+    "id": "1032904210"
+  },
+  {
+    "city": "Senillosa",
+    "city_ascii": "Senillosa",
+    "admin_name": "Neuquén",
+    "lat": "-39.0100",
+    "lng": "-68.4300",
+    "id": "1032262711"
+  },
+  {
+    "city": "Hernando",
+    "city_ascii": "Hernando",
+    "admin_name": "Córdoba",
+    "lat": "-32.4167",
+    "lng": "-63.7333",
+    "id": "1032830608"
+  },
+  {
+    "city": "Capilla del Monte",
+    "city_ascii": "Capilla del Monte",
+    "admin_name": "Córdoba",
+    "lat": "-30.8500",
+    "lng": "-64.5167",
+    "id": "1032258122"
+  },
+  {
+    "city": "Armstrong",
+    "city_ascii": "Armstrong",
+    "admin_name": "Santa Fe",
+    "lat": "-32.7833",
+    "lng": "-61.6000",
+    "id": "1032420901"
+  },
+  {
+    "city": "San Bernardo",
+    "city_ascii": "San Bernardo",
+    "admin_name": "Chaco",
+    "lat": "-27.2667",
+    "lng": "-60.7000",
+    "id": "1032602723"
+  },
+  {
+    "city": "El Trébol",
+    "city_ascii": "El Trebol",
+    "admin_name": "Santa Fe",
+    "lat": "-32.1833",
+    "lng": "-61.7167",
+    "id": "1032100113"
+  },
+  {
+    "city": "San Carlos Centro",
+    "city_ascii": "San Carlos Centro",
+    "admin_name": "Santa Fe",
+    "lat": "-31.7333",
+    "lng": "-61.1000",
+    "id": "1032029022"
+  },
+  {
+    "city": "Quimilí",
+    "city_ascii": "Quimili",
+    "admin_name": "Santiago del Estero",
+    "lat": "-27.6333",
+    "lng": "-62.4167",
+    "id": "1032532618"
+  },
+  {
+    "city": "Roque Pérez",
+    "city_ascii": "Roque Perez",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.4167",
+    "lng": "-59.3167",
+    "id": "1032986084"
+  },
+  {
+    "city": "Bernardo de Irigoyen",
+    "city_ascii": "Bernardo de Irigoyen",
+    "admin_name": "Misiones",
+    "lat": "-26.2500",
+    "lng": "-53.9833",
+    "id": "1032306627"
+  },
+  {
+    "city": "San Roque",
+    "city_ascii": "San Roque",
+    "admin_name": "Corrientes",
+    "lat": "-28.5667",
+    "lng": "-58.7167",
+    "id": "1032090970"
+  },
+  {
+    "city": "Santa Rosa de Río Primero",
+    "city_ascii": "Santa Rosa de Rio Primero",
+    "admin_name": "Córdoba",
+    "lat": "-31.1500",
+    "lng": "-63.3833",
+    "id": "1032062100"
+  },
+  {
+    "city": "Sarmiento",
+    "city_ascii": "Sarmiento",
+    "admin_name": "Chubut",
+    "lat": "-45.6000",
+    "lng": "-69.0833",
+    "id": "1032479340"
+  },
+  {
+    "city": "Villa Nougues",
+    "city_ascii": "Villa Nougues",
+    "admin_name": "Tucumán",
+    "lat": "-26.8578",
+    "lng": "-65.3756",
+    "id": "1032459875"
+  },
+  {
+    "city": "Campo Largo",
+    "city_ascii": "Campo Largo",
+    "admin_name": "Chaco",
+    "lat": "-26.8000",
+    "lng": "-60.8333",
+    "id": "1032892043"
+  },
+  {
+    "city": "Frontera",
+    "city_ascii": "Frontera",
+    "admin_name": "Córdoba",
+    "lat": "-31.4278",
+    "lng": "-62.0619",
+    "id": "1032791892"
+  },
+  {
+    "city": "Ingeniero White",
+    "city_ascii": "Ingeniero White",
+    "admin_name": "Buenos Aires",
+    "lat": "-38.7667",
+    "lng": "-62.2667",
+    "id": "1032437098"
+  },
+  {
+    "city": "Corzuela",
+    "city_ascii": "Corzuela",
+    "admin_name": "Chaco",
+    "lat": "-26.9333",
+    "lng": "-60.9667",
+    "id": "1032587821"
+  },
+  {
+    "city": "Corral de Bustos",
+    "city_ascii": "Corral de Bustos",
+    "admin_name": "Córdoba",
+    "lat": "-33.2833",
+    "lng": "-62.2000",
+    "id": "1032324190"
+  },
+  {
+    "city": "Leones",
+    "city_ascii": "Leones",
+    "admin_name": "Córdoba",
+    "lat": "-32.6589",
+    "lng": "-62.2967",
+    "id": "1032664852"
+  },
+  {
+    "city": "Ranchos",
+    "city_ascii": "Ranchos",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.5333",
+    "lng": "-58.2833",
+    "id": "1032900270"
+  },
+  {
+    "city": "San José de Feliciano",
+    "city_ascii": "San Jose de Feliciano",
+    "admin_name": "Entre Ríos",
+    "lat": "-30.3833",
+    "lng": "-58.7500",
+    "id": "1032667894"
+  },
+  {
+    "city": "Villa Elisa",
+    "city_ascii": "Villa Elisa",
+    "admin_name": "Entre Ríos",
+    "lat": "-32.1667",
+    "lng": "-58.4000",
+    "id": "1032046223"
+  },
+  {
+    "city": "Batán",
+    "city_ascii": "Batan",
+    "admin_name": "Buenos Aires",
+    "lat": "-38.0078",
+    "lng": "-57.7097",
+    "id": "1032360995"
+  },
+  {
+    "city": "Choele Choel",
+    "city_ascii": "Choele Choel",
+    "admin_name": "Río Negro",
+    "lat": "-39.2667",
+    "lng": "-65.6833",
+    "id": "1032421959"
+  },
+  {
+    "city": "La Leonesa",
+    "city_ascii": "La Leonesa",
+    "admin_name": "Chaco",
+    "lat": "-27.0500",
+    "lng": "-58.7167",
+    "id": "1032749991"
+  },
+  {
+    "city": "Brinkmann",
+    "city_ascii": "Brinkmann",
+    "admin_name": "Córdoba",
+    "lat": "-30.8669",
+    "lng": "-62.0336",
+    "id": "1032512387"
+  },
+  {
+    "city": "Kaiken",
+    "city_ascii": "Kaiken",
+    "admin_name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur",
+    "lat": "-54.5062",
+    "lng": "-67.1905",
+    "id": "1032984446"
+  },
+  {
+    "city": "Alcorta",
+    "city_ascii": "Alcorta",
+    "admin_name": "Santa Fe",
+    "lat": "-33.5333",
+    "lng": "-61.1167",
+    "id": "1032368367"
+  },
+  {
+    "city": "Ciudad de Loreto",
+    "city_ascii": "Ciudad de Loreto",
+    "admin_name": "Santiago del Estero",
+    "lat": "-28.3000",
+    "lng": "-64.2000",
+    "id": "1032623436"
+  },
+  {
+    "city": "General Alvear",
+    "city_ascii": "General Alvear",
+    "admin_name": "Buenos Aires",
+    "lat": "-36.0333",
+    "lng": "-60.0167",
+    "id": "1032075005"
+  },
+  {
+    "city": "Puerto Tirol",
+    "city_ascii": "Puerto Tirol",
+    "admin_name": "Chaco",
+    "lat": "-27.3667",
+    "lng": "-59.0667",
+    "id": "1032979467"
+  },
+  {
+    "city": "Basavilbaso",
+    "city_ascii": "Basavilbaso",
+    "admin_name": "Entre Ríos",
+    "lat": "-32.3667",
+    "lng": "-58.8833",
+    "id": "1032605549"
+  },
+  {
+    "city": "Embalse",
+    "city_ascii": "Embalse",
+    "admin_name": "Córdoba",
+    "lat": "-32.1833",
+    "lng": "-64.4167",
+    "id": "1032017911"
+  },
+  {
+    "city": "Henderson",
+    "city_ascii": "Henderson",
+    "admin_name": "Buenos Aires",
+    "lat": "-36.2833",
+    "lng": "-61.7167",
+    "id": "1032715747"
+  },
+  {
+    "city": "La Paz",
+    "city_ascii": "La Paz",
+    "admin_name": "Mendoza",
+    "lat": "-33.4667",
+    "lng": "-67.5500",
+    "id": "1032294439"
+  },
+  {
+    "city": "Santa María",
+    "city_ascii": "Santa Maria",
+    "admin_name": "Córdoba",
+    "lat": "-31.2611",
+    "lng": "-64.4639",
+    "id": "1032132957"
+  },
+  {
+    "city": "Pedro Luro",
+    "city_ascii": "Pedro Luro",
+    "admin_name": "Buenos Aires",
+    "lat": "-39.5000",
+    "lng": "-62.6833",
+    "id": "1032549913"
+  },
+  {
+    "city": "Villa Cañás",
+    "city_ascii": "Villa Canas",
+    "admin_name": "Santa Fe",
+    "lat": "-34.0000",
+    "lng": "-61.6000",
+    "id": "1032652134"
+  },
+  {
+    "city": "Huinca Renancó",
+    "city_ascii": "Huinca Renanco",
+    "admin_name": "Córdoba",
+    "lat": "-34.8400",
+    "lng": "-64.3753",
+    "id": "1032637133"
+  },
+  {
+    "city": "Abra Pampa",
+    "city_ascii": "Abra Pampa",
+    "admin_name": "Jujuy",
+    "lat": "-22.7167",
+    "lng": "-65.7000",
+    "id": "1032997640"
+  },
+  {
+    "city": "Punta Indio",
+    "city_ascii": "Punta Indio",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.2667",
+    "lng": "-57.2167",
+    "id": "1032758065"
+  },
+  {
+    "city": "Magdalena",
+    "city_ascii": "Magdalena",
+    "admin_name": "Buenos Aires",
+    "lat": "-35.0833",
+    "lng": "-57.5167",
+    "id": "1032068018"
+  },
+  {
+    "city": "Empedrado",
+    "city_ascii": "Empedrado",
+    "admin_name": "Corrientes",
+    "lat": "-27.9333",
+    "lng": "-58.7833",
+    "id": "1032921774"
+  },
+  {
+    "city": "Capilla del Señor",
+    "city_ascii": "Capilla del Senor",
+    "admin_name": "Buenos Aires",
+    "lat": "-34.2833",
+    "lng": "-59.1000",
+    "id": "1032168682"
+  },
+  {
+    "city": "Romang",
+    "city_ascii": "Romang",
+    "admin_name": "Santa Fe",
+    "lat": "-29.5000",
+    "lng": "-59.7667",
+    "id": "1032388161"
+  },
+  {
+    "city": "Monte Rico",
+    "city_ascii": "Monte Rico",
+    "admin_name": "Jujuy",
+    "lat": "-24.4514",
+    "lng": "-65.1667",
+    "id": "1032801235"
+  },
+  {
+    "city": "Sauce",
+    "city_ascii": "Sauce",
+    "admin_name": "Corrientes",
+    "lat": "-30.0667",
+    "lng": "-58.7667",
+    "id": "1032154340"
+  },
+  {
+    "city": "Rada Tilly",
+    "city_ascii": "Rada Tilly",
+    "admin_name": "Chubut",
+    "lat": "-45.9333",
+    "lng": "-67.5333",
+    "id": "1032850983"
+  },
+  {
+    "city": "Santa Sylvina",
+    "city_ascii": "Santa Sylvina",
+    "admin_name": "Chaco",
+    "lat": "-27.7833",
+    "lng": "-61.1500",
+    "id": "1032777681"
+  },
+  {
+    "city": "Coronel Du Graty",
+    "city_ascii": "Coronel Du Graty",
+    "admin_name": "Chaco",
+    "lat": "-27.6667",
+    "lng": "-60.9333",
+    "id": "1032616689"
+  },
+  {
+    "city": "Mburucuyá",
+    "city_ascii": "Mburucuya",
+    "admin_name": "Corrientes",
+    "lat": "-28.0500",
+    "lng": "-58.2333",
+    "id": "1032397910"
+  },
+  {
+    "city": "Urdinarrain",
+    "city_ascii": "Urdinarrain",
+    "admin_name": "Entre Ríos",
+    "lat": "-32.6856",
+    "lng": "-58.8867",
+    "id": "1032326044"
+  },
+  {
+    "city": "Villa Aberastain",
+    "city_ascii": "Villa Aberastain",
+    "admin_name": "San Juan",
+    "lat": "-31.6500",
+    "lng": "-68.5833",
+    "id": "1032501472"
+  },
+  {
+    "city": "Viale",
+    "city_ascii": "Viale",
+    "admin_name": "Entre Ríos",
+    "lat": "-31.8667",
+    "lng": "-60.0167",
+    "id": "1032929060"
+  },
+  {
+    "city": "Maipú",
+    "city_ascii": "Maipu",
+    "admin_name": "Buenos Aires",
+    "lat": "-36.8667",
+    "lng": "-57.8667",
+    "id": "1032738375"
+  },
+  {
+    "city": "Balneario Monte Hermoso",
+    "city_ascii": "Balneario Monte Hermoso",
+    "admin_name": "Buenos Aires",
+    "lat": "-38.9833",
+    "lng": "-61.3000",
+    "id": "1032019917"
+  },
+  {
+    "city": "Yacimiento Río Turbio",
+    "city_ascii": "Yacimiento Rio Turbio",
+    "admin_name": "Santa Cruz",
+    "lat": "-51.5333",
+    "lng": "-72.3000",
+    "id": "1032704902"
+  },
+  {
+    "city": "La Cruz",
+    "city_ascii": "La Cruz",
+    "admin_name": "Corrientes",
+    "lat": "-28.1833",
+    "lng": "-56.6500",
+    "id": "1032237571"
+  },
+  {
+    "city": "Pampa del Infierno",
+    "city_ascii": "Pampa del Infierno",
+    "admin_name": "Chaco",
+    "lat": "-26.5167",
+    "lng": "-61.1667",
+    "id": "1032896072"
+  },
+  {
+    "city": "San Julián",
+    "city_ascii": "San Julian",
+    "admin_name": "Santa Cruz",
+    "lat": "-49.3000",
+    "lng": "-67.7167",
+    "id": "1032464702"
+  },
+  {
+    "city": "Ingeniero Guillermo N. Juárez",
+    "city_ascii": "Ingeniero Guillermo N. Juarez",
+    "admin_name": "Formosa",
+    "lat": "-23.9000",
+    "lng": "-61.8500",
+    "id": "1032585569"
+  },
+  {
+    "city": "Comandante Luis Piedra Buena",
+    "city_ascii": "Comandante Luis Piedra Buena",
+    "admin_name": "Santa Cruz",
+    "lat": "-49.9830",
+    "lng": "-68.9100",
+    "id": "1032946044"
+  },
+  {
+    "city": "Ingeniero Jacobacci",
+    "city_ascii": "Ingeniero Jacobacci",
+    "admin_name": "Río Negro",
+    "lat": "-41.3000",
+    "lng": "-69.5833",
+    "id": "1032402027"
+  },
+  {
+    "city": "Las Lajas",
+    "city_ascii": "Las Lajas",
+    "admin_name": "Neuquén",
+    "lat": "-38.6000",
+    "lng": "-70.3000",
+    "id": "1032092474"
+  },
+  {
+    "city": "Veintiocho de Noviembre",
+    "city_ascii": "Veintiocho de Noviembre",
+    "admin_name": "Santa Cruz",
+    "lat": "-51.6500",
+    "lng": "-72.3000",
+    "id": "1032715340"
+  },
+  {
+    "city": "Chepes",
+    "city_ascii": "Chepes",
+    "admin_name": "La Rioja",
+    "lat": "-31.3500",
+    "lng": "-66.6000",
+    "id": "1032137147"
+  },
+  {
+    "city": "Veinticinco de Mayo",
+    "city_ascii": "Veinticinco de Mayo",
+    "admin_name": "La Pampa",
+    "lat": "-37.7712",
+    "lng": "-67.7174",
+    "id": "1032912712"
+  },
+  {
+    "city": "General Conesa",
+    "city_ascii": "General Conesa",
+    "admin_name": "Río Negro",
+    "lat": "-40.1000",
+    "lng": "-64.4167",
+    "id": "1032658385"
+  },
+  {
+    "city": "San Antonio de los Cobres",
+    "city_ascii": "San Antonio de los Cobres",
+    "admin_name": "Salta",
+    "lat": "-24.2178",
+    "lng": "-66.3200",
+    "id": "1032191344"
+  },
+  {
+    "city": "Perito Moreno",
+    "city_ascii": "Perito Moreno",
+    "admin_name": "Santa Cruz",
+    "lat": "-46.5886",
+    "lng": "-70.9242",
+    "id": "1032891854"
+  },
+  {
+    "city": "Gobernador Gregores",
+    "city_ascii": "Gobernador Gregores",
+    "admin_name": "Santa Cruz",
+    "lat": "-48.7667",
+    "lng": "-70.2500",
+    "id": "1032720049"
+  },
+  {
+    "city": "Victorica",
+    "city_ascii": "Victorica",
+    "admin_name": "La Pampa",
+    "lat": "-36.2167",
+    "lng": "-65.4500",
+    "id": "1032392251"
+  },
+  {
+    "city": "Comandante Fontana",
+    "city_ascii": "Comandante Fontana",
+    "admin_name": "Formosa",
+    "lat": "-25.3333",
+    "lng": "-59.6833",
+    "id": "1032594164"
+  },
+  {
+    "city": "El Maitén",
+    "city_ascii": "El Maiten",
+    "admin_name": "Chubut",
+    "lat": "-42.0500",
+    "lng": "-71.1667",
+    "id": "1032286116"
+  },
+  {
+    "city": "Uspallata",
+    "city_ascii": "Uspallata",
+    "admin_name": "Mendoza",
+    "lat": "-32.5667",
+    "lng": "-69.3167",
+    "id": "1032547934"
+  },
+  {
+    "city": "Darregueira",
+    "city_ascii": "Darregueira",
+    "admin_name": "Buenos Aires",
+    "lat": "-37.6996",
+    "lng": "-63.1666",
+    "id": "1032968004"
+  },
+  {
+    "city": "Trancas",
+    "city_ascii": "Trancas",
+    "admin_name": "Tucumán",
+    "lat": "-26.2172",
+    "lng": "-65.2831",
+    "id": "1032418123"
+  },
+  {
+    "city": "Villalonga",
+    "city_ascii": "Villalonga",
+    "admin_name": "Buenos Aires",
+    "lat": "-39.8829",
+    "lng": "-62.5833",
+    "id": "1032282782"
+  },
+  {
+    "city": "Río Mayo",
+    "city_ascii": "Rio Mayo",
+    "admin_name": "Chubut",
+    "lat": "-45.6869",
+    "lng": "-70.2600",
+    "id": "1032155044"
+  },
+  {
+    "city": "Rodeo",
+    "city_ascii": "Rodeo",
+    "admin_name": "San Juan",
+    "lat": "-30.2164",
+    "lng": "-69.1394",
+    "id": "1032937217"
+  },
+  {
+    "city": "Chumbicha",
+    "city_ascii": "Chumbicha",
+    "admin_name": "Catamarca",
+    "lat": "-28.8667",
+    "lng": "-66.2333",
+    "id": "1032994295"
+  },
+  {
+    "city": "Alto Río Senguer",
+    "city_ascii": "Alto Rio Senguer",
+    "admin_name": "Chubut",
+    "lat": "-45.0167",
+    "lng": "-70.8167",
+    "id": "1032532362"
+  },
+  {
+    "city": "Sierra Colorada",
+    "city_ascii": "Sierra Colorada",
+    "admin_name": "Río Negro",
+    "lat": "-40.5833",
+    "lng": "-67.8000",
+    "id": "1032417224"
+  },
+  {
+    "city": "Villa Rumipal",
+    "city_ascii": "Villa Rumipal",
+    "admin_name": "Córdoba",
+    "lat": "-32.1879",
+    "lng": "-64.4803",
+    "id": "1032717709"
+  },
+  {
+    "city": "Los Blancos",
+    "city_ascii": "Los Blancos",
+    "admin_name": "Salta",
+    "lat": "-23.6000",
+    "lng": "-62.6000",
+    "id": "1032336288"
+  },
+  {
+    "city": "Susques",
+    "city_ascii": "Susques",
+    "admin_name": "Jujuy",
+    "lat": "-23.4167",
+    "lng": "-66.4833",
+    "id": "1032742255"
+  },
+  {
+    "city": "Comallo",
+    "city_ascii": "Comallo",
+    "admin_name": "Río Negro",
+    "lat": "-41.0333",
+    "lng": "-70.2667",
+    "id": "1032806030"
+  },
+  {
+    "city": "Gastre",
+    "city_ascii": "Gastre",
+    "admin_name": "Chubut",
+    "lat": "-42.2667",
+    "lng": "-69.2167",
+    "id": "1032815504"
+  },
+  {
+    "city": "Telsen",
+    "city_ascii": "Telsen",
+    "admin_name": "Chubut",
+    "lat": "-42.3833",
+    "lng": "-66.9500",
+    "id": "1032824407"
+  },
+  {
+    "city": "Tandil",
+    "city_ascii": "Tandil",
+    "admin_name": "Buenos Aires",
+    "lat": "-37.3167",
+    "lng": "-59.1333",
+    "id": "1032075057"
+  },
+  {
+    "city": "Rinconada",
+    "city_ascii": "Rinconada",
+    "admin_name": "Jujuy",
+    "lat": "-22.4333",
+    "lng": "-66.1667",
+    "id": "1032429190"
+  },
+  {
+    "city": "General Roca",
+    "city_ascii": "General Roca",
+    "admin_name": "Río Negro",
+    "lat": "-39.0333",
+    "lng": "-67.5833",
+    "id": "1032829704"
+  }
+]

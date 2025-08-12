@@ -1,0 +1,74 @@
+[
+  {
+    "city": "Gaza",
+    "city_ascii": "Gaza",
+    "admin_name": "",
+    "lat": "31.5069",
+    "lng": "34.4560",
+    "id": "1916116052"
+  },
+  {
+    "city": "Khān Yūnis",
+    "city_ascii": "Khan Yunis",
+    "admin_name": "",
+    "lat": "31.3402",
+    "lng": "34.3063",
+    "id": "1916583637"
+  },
+  {
+    "city": "Jabālyā",
+    "city_ascii": "Jabalya",
+    "admin_name": "",
+    "lat": "31.5272",
+    "lng": "34.4835",
+    "id": "1916175096"
+  },
+  {
+    "city": "Rafaḩ",
+    "city_ascii": "Rafah",
+    "admin_name": "",
+    "lat": "31.2870",
+    "lng": "34.2595",
+    "id": "1916824868"
+  },
+  {
+    "city": "Bayt Lāhyā",
+    "city_ascii": "Bayt Lahya",
+    "admin_name": "",
+    "lat": "31.5464",
+    "lng": "34.4951",
+    "id": "1916827259"
+  },
+  {
+    "city": "Dayr al Balaḩ",
+    "city_ascii": "Dayr al Balah",
+    "admin_name": "",
+    "lat": "31.4178",
+    "lng": "34.3503",
+    "id": "1916770606"
+  },
+  {
+    "city": "Banī Suhaylā",
+    "city_ascii": "Bani Suhayla",
+    "admin_name": "",
+    "lat": "31.3434",
+    "lng": "34.3234",
+    "id": "1916052157"
+  },
+  {
+    "city": "‘Abasān al Kabīrah",
+    "city_ascii": "`Abasan al Kabirah",
+    "admin_name": "",
+    "lat": "31.3191",
+    "lng": "34.3401",
+    "id": "1916769088"
+  },
+  {
+    "city": "Az Zuwāydah",
+    "city_ascii": "Az Zuwaydah",
+    "admin_name": "",
+    "lat": "31.4395",
+    "lng": "34.3805",
+    "id": "1916190557"
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "city": "Kuala Lumpur",
+    "city_ascii": "Kuala Lumpur",
+    "admin_name": "Kuala Lumpur",
+    "lat": "3.1686",
+    "lng": "101.6980",
+    "id": "1458988644"
+  },
+  {
+    "city": "Seberang Jaya",
+    "city_ascii": "Seberang Jaya",
+    "admin_name": "Pulau Pinang",
+    "lat": "5.3909",
+    "lng": "100.4104",
+    "id": "1458417183"
+  },
+  {
+    "city": "Klang",
+    "city_ascii": "Klang",
+    "admin_name": "Selangor",
+    "lat": "3.0223",
+    "lng": "101.5481",
+    "id": "1458509635"
+  },
+  {
+    "city": "Ipoh",
+    "city_ascii": "Ipoh",
+    "admin_name": "Perak",
+    "lat": "4.6000",
+    "lng": "101.0650",
+    "id": "1458423505"
+  },
+  {
+    "city": "George Town",
+    "city_ascii": "George Town",
+    "admin_name": "Pulau Pinang",
+    "lat": "5.4136",
+    "lng": "100.3294",
+    "id": "1458236750"
+  },
+  {
+    "city": "Petaling Jaya",
+    "city_ascii": "Petaling Jaya",
+    "admin_name": "Selangor",
+    "lat": "3.0833",
+    "lng": "101.6500",
+    "id": "1458989343"
+  },
+  {
+    "city": "Kuantan",
+    "city_ascii": "Kuantan",
+    "admin_name": "Pahang",
+    "lat": "3.8300",
+    "lng": "103.3200",
+    "id": "1458763489"
+  },
+  {
+    "city": "Shah Alam",
+    "city_ascii": "Shah Alam",
+    "admin_name": "Selangor",
+    "lat": "3.0667",
+    "lng": "101.5500",
+    "id": "1458194263"
+  },
+  {
+    "city": "Sungai Petani",
+    "city_ascii": "Sungai Petani",
+    "admin_name": "Kedah",
+    "lat": "5.6497",
+    "lng": "100.4793",
+    "id": "1458639918"
+  },
+  {
+    "city": "Johor Bahru",
+    "city_ascii": "Johor Bahru",
+    "admin_name": "Johor",
+    "lat": "1.4820",
+    "lng": "103.7281",
+    "id": "1458747615"
+  },
+  {
+    "city": "Kota Bharu",
+    "city_ascii": "Kota Bharu",
+    "admin_name": "Kelantan",
+    "lat": "6.1200",
+    "lng": "102.2300",
+    "id": "1458150101"
+  },
+  {
+    "city": "Melaka",
+    "city_ascii": "Melaka",
+    "admin_name": "Melaka",
+    "lat": "2.2064",
+    "lng": "102.2465",
+    "id": "1458467506"
+  },
+  {
+    "city": "Kota Kinabalu",
+    "city_ascii": "Kota Kinabalu",
+    "admin_name": "Sabah",
+    "lat": "5.9800",
+    "lng": "116.1100",
+    "id": "1458441859"
+  },
+  {
+    "city": "Seremban",
+    "city_ascii": "Seremban",
+    "admin_name": "Negeri Sembilan",
+    "lat": "2.7105",
+    "lng": "101.9400",
+    "id": "1458051507"
+  },
+  {
+    "city": "Sandakan",
+    "city_ascii": "Sandakan",
+    "admin_name": "Sabah",
+    "lat": "5.8430",
+    "lng": "118.1080",
+    "id": "1458405180"
+  },
+  {
+    "city": "Kuching",
+    "city_ascii": "Kuching",
+    "admin_name": "Sarawak",
+    "lat": "1.5300",
+    "lng": "110.3300",
+    "id": "1458462262"
+  },
+  {
+    "city": "Kluang",
+    "city_ascii": "Kluang",
+    "admin_name": "Johor",
+    "lat": "2.0383",
+    "lng": "103.3179",
+    "id": "1458692921"
+  },
+  {
+    "city": "Muar",
+    "city_ascii": "Muar",
+    "admin_name": "Johor",
+    "lat": "2.0337",
+    "lng": "102.5666",
+    "id": "1458170112"
+  },
+  {
+    "city": "Pasir Gudang",
+    "city_ascii": "Pasir Gudang",
+    "admin_name": "Johor",
+    "lat": "1.4620",
+    "lng": "103.9053",
+    "id": "1458548800"
+  },
+  {
+    "city": "Kuala Terengganu",
+    "city_ascii": "Kuala Terengganu",
+    "admin_name": "Terengganu",
+    "lat": "5.3304",
+    "lng": "103.1200",
+    "id": "1458475563"
+  },
+  {
+    "city": "Sibu",
+    "city_ascii": "Sibu",
+    "admin_name": "Sarawak",
+    "lat": "2.3030",
+    "lng": "111.8430",
+    "id": "1458970454"
+  },
+  {
+    "city": "Taiping",
+    "city_ascii": "Taiping",
+    "admin_name": "Perak",
+    "lat": "4.8650",
+    "lng": "100.7200",
+    "id": "1458446120"
+  },
+  {
+    "city": "Kajang",
+    "city_ascii": "Kajang",
+    "admin_name": "Selangor",
+    "lat": "2.9927",
+    "lng": "101.7909",
+    "id": "1458690147"
+  },
+  {
+    "city": "Miri",
+    "city_ascii": "Miri",
+    "admin_name": "Sarawak",
+    "lat": "4.3999",
+    "lng": "113.9845",
+    "id": "1458079883"
+  },
+  {
+    "city": "Teluk Intan",
+    "city_ascii": "Teluk Intan",
+    "admin_name": "Perak",
+    "lat": "4.0119",
+    "lng": "101.0314",
+    "id": "1458126062"
+  },
+  {
+    "city": "Kulai",
+    "city_ascii": "Kulai",
+    "admin_name": "Johor",
+    "lat": "1.6561",
+    "lng": "103.6032",
+    "id": "1458153941"
+  },
+  {
+    "city": "Alor Setar",
+    "city_ascii": "Alor Setar",
+    "admin_name": "Kedah",
+    "lat": "6.1133",
+    "lng": "100.3729",
+    "id": "1458273978"
+  },
+  {
+    "city": "Bukit Mertajam",
+    "city_ascii": "Bukit Mertajam",
+    "admin_name": "Pulau Pinang",
+    "lat": "5.3630",
+    "lng": "100.4667",
+    "id": "1458619046"
+  },
+  {
+    "city": "Lahad Datu",
+    "city_ascii": "Lahad Datu",
+    "admin_name": "Sabah",
+    "lat": "5.0464",
+    "lng": "118.3360",
+    "id": "1458472057"
+  },
+  {
+    "city": "Segamat",
+    "city_ascii": "Segamat",
+    "admin_name": "Johor",
+    "lat": "2.5148",
+    "lng": "102.8158",
+    "id": "1458022258"
+  },
+  {
+    "city": "Tumpat",
+    "city_ascii": "Tumpat",
+    "admin_name": "Kelantan",
+    "lat": "6.1978",
+    "lng": "102.1710",
+    "id": "1458905603"
+  },
+  {
+    "city": "Keningau",
+    "city_ascii": "Keningau",
+    "admin_name": "Sabah",
+    "lat": "5.3378",
+    "lng": "116.1602",
+    "id": "1458700775"
+  },
+  {
+    "city": "Batu Pahat",
+    "city_ascii": "Batu Pahat",
+    "admin_name": "Johor",
+    "lat": "1.8504",
+    "lng": "102.9333",
+    "id": "1458310769"
+  },
+  {
+    "city": "Batu Gajah",
+    "city_ascii": "Batu Gajah",
+    "admin_name": "Perak",
+    "lat": "4.4692",
+    "lng": "101.0411",
+    "id": "1458671961"
+  },
+  {
+    "city": "Tuaran",
+    "city_ascii": "Tuaran",
+    "admin_name": "Sabah",
+    "lat": "6.1774",
+    "lng": "116.2314",
+    "id": "1458562692"
+  },
+  {
+    "city": "Bayan Lepas",
+    "city_ascii": "Bayan Lepas",
+    "admin_name": "Pulau Pinang",
+    "lat": "5.2999",
+    "lng": "100.2605",
+    "id": "1458488654"
+  },
+  {
+    "city": "Port Dickson",
+    "city_ascii": "Port Dickson",
+    "admin_name": "Negeri Sembilan",
+    "lat": "2.5228",
+    "lng": "101.7959",
+    "id": "1458349611"
+  },
+  {
+    "city": "Bintulu",
+    "city_ascii": "Bintulu",
+    "admin_name": "Sarawak",
+    "lat": "3.1664",
+    "lng": "113.0360",
+    "id": "1458164361"
+  },
+  {
+    "city": "Tawau",
+    "city_ascii": "Tawau",
+    "admin_name": "Sabah",
+    "lat": "4.2710",
+    "lng": "117.8960",
+    "id": "1458745722"
+  },
+  {
+    "city": "Simanggang",
+    "city_ascii": "Simanggang",
+    "admin_name": "Sarawak",
+    "lat": "1.2472",
+    "lng": "111.4528",
+    "id": "1458892132"
+  },
+  {
+    "city": "Labuan",
+    "city_ascii": "Labuan",
+    "admin_name": "Labuan",
+    "lat": "5.2803",
+    "lng": "115.2475",
+    "id": "1458460967"
+  },
+  {
+    "city": "Raub",
+    "city_ascii": "Raub",
+    "admin_name": "Pahang",
+    "lat": "3.7927",
+    "lng": "101.8423",
+    "id": "1458881822"
+  },
+  {
+    "city": "Marudi",
+    "city_ascii": "Marudi",
+    "admin_name": "Sarawak",
+    "lat": "4.1833",
+    "lng": "114.3167",
+    "id": "1458038564"
+  },
+  {
+    "city": "Cukai",
+    "city_ascii": "Cukai",
+    "admin_name": "Terengganu",
+    "lat": "4.2332",
+    "lng": "103.4479",
+    "id": "1458033606"
+  },
+  {
+    "city": "Butterworth",
+    "city_ascii": "Butterworth",
+    "admin_name": "Pulau Pinang",
+    "lat": "5.4171",
+    "lng": "100.4000",
+    "id": "1458469233"
+  },
+  {
+    "city": "Putrajaya",
+    "city_ascii": "Putrajaya",
+    "admin_name": "Putrajaya",
+    "lat": "2.9140",
+    "lng": "101.7019",
+    "id": "1458000206"
+  },
+  {
+    "city": "Taman Senai",
+    "city_ascii": "Taman Senai",
+    "admin_name": "Johor",
+    "lat": "1.6006",
+    "lng": "103.6419",
+    "id": "1458142462"
+  },
+  {
+    "city": "Taman Johor Jaya",
+    "city_ascii": "Taman Johor Jaya",
+    "admin_name": "Johor",
+    "lat": "1.5392",
+    "lng": "103.8092",
+    "id": "1458837224"
+  },
+  {
+    "city": "Machang",
+    "city_ascii": "Machang",
+    "admin_name": "Kelantan",
+    "lat": "5.7641",
+    "lng": "102.2141",
+    "id": "1458948946"
+  },
+  {
+    "city": "Limbang",
+    "city_ascii": "Limbang",
+    "admin_name": "Sarawak",
+    "lat": "4.7500",
+    "lng": "115.0000",
+    "id": "1458405498"
+  },
+  {
+    "city": "Sarikei",
+    "city_ascii": "Sarikei",
+    "admin_name": "Sarawak",
+    "lat": "2.1167",
+    "lng": "111.5167",
+    "id": "1458988350"
+  },
+  {
+    "city": "Tangkak",
+    "city_ascii": "Tangkak",
+    "admin_name": "Johor",
+    "lat": "2.2673",
+    "lng": "102.5453",
+    "id": "1458970376"
+  },
+  {
+    "city": "Kangar",
+    "city_ascii": "Kangar",
+    "admin_name": "Perlis",
+    "lat": "6.4330",
+    "lng": "100.1900",
+    "id": "1458939333"
+  },
+  {
+    "city": "Rengam",
+    "city_ascii": "Rengam",
+    "admin_name": "Johor",
+    "lat": "1.8867",
+    "lng": "103.4015",
+    "id": "1458801146"
+  },
+  {
+    "city": "Lawas",
+    "city_ascii": "Lawas",
+    "admin_name": "Sarawak",
+    "lat": "4.8604",
+    "lng": "115.4090",
+    "id": "1458655014"
+  },
+  {
+    "city": "Cameron Highlands",
+    "city_ascii": "Cameron Highlands",
+    "admin_name": "Pahang",
+    "lat": "4.4833",
+    "lng": "101.4500",
+    "id": "1458039687"
+  },
+  {
+    "city": "Bukit Gambir",
+    "city_ascii": "Bukit Gambir",
+    "admin_name": "Johor",
+    "lat": "2.2110",
+    "lng": "102.6546",
+    "id": "1458592084"
+  },
+  {
+    "city": "Kampung Baharu Nilai",
+    "city_ascii": "Kampung Baharu Nilai",
+    "admin_name": "Negeri Sembilan",
+    "lat": "2.8033",
+    "lng": "101.7972",
+    "id": "1458945059"
+  },
+  {
+    "city": "Long Lama",
+    "city_ascii": "Long Lama",
+    "admin_name": "Sarawak",
+    "lat": "3.7667",
+    "lng": "114.4000",
+    "id": "1458314812"
+  },
+  {
+    "city": "Simpang Renggam",
+    "city_ascii": "Simpang Renggam",
+    "admin_name": "Johor",
+    "lat": "1.8250",
+    "lng": "103.3107",
+    "id": "1458888646"
+  },
+  {
+    "city": "Kuah",
+    "city_ascii": "Kuah",
+    "admin_name": "Kedah",
+    "lat": "6.3265",
+    "lng": "99.8432",
+    "id": "1458485956"
+  },
+  {
+    "city": "Kudat",
+    "city_ascii": "Kudat",
+    "admin_name": "Sabah",
+    "lat": "6.8837",
+    "lng": "116.8477",
+    "id": "1458364098"
+  },
+  {
+    "city": "Lubok Antu",
+    "city_ascii": "Lubok Antu",
+    "admin_name": "Sarawak",
+    "lat": "1.0419",
+    "lng": "111.8340",
+    "id": "1458036872"
+  },
+  {
+    "city": "Parit Buntar",
+    "city_ascii": "Parit Buntar",
+    "admin_name": "Perak",
+    "lat": "5.1267",
+    "lng": "100.4932",
+    "id": "1458515879"
+  },
+  {
+    "city": "Bidur",
+    "city_ascii": "Bidur",
+    "admin_name": "Perak",
+    "lat": "4.1167",
+    "lng": "101.2833",
+    "id": "1458028952"
+  },
+  {
+    "city": "Membakut",
+    "city_ascii": "Membakut",
+    "admin_name": "Sabah",
+    "lat": "5.4748",
+    "lng": "115.8030",
+    "id": "1458057986"
+  },
+  {
+    "city": "Kuala Lipis",
+    "city_ascii": "Kuala Lipis",
+    "admin_name": "Pahang",
+    "lat": "4.1840",
+    "lng": "102.0420",
+    "id": "1458124212"
+  },
+  {
+    "city": "Perai",
+    "city_ascii": "Perai",
+    "admin_name": "Pulau Pinang",
+    "lat": "5.3833",
+    "lng": "100.3833",
+    "id": "1458507737"
+  },
+  {
+    "city": "Beaufort",
+    "city_ascii": "Beaufort",
+    "admin_name": "Sabah",
+    "lat": "5.3473",
+    "lng": "115.7455",
+    "id": "1458309122"
+  },
+  {
+    "city": "Padang Besar",
+    "city_ascii": "Padang Besar",
+    "admin_name": "Perlis",
+    "lat": "6.6623",
+    "lng": "100.3142",
+    "id": "1458304939"
+  }
+]

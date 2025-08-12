@@ -1,0 +1,314 @@
+[
+  {
+    "city": "Riga",
+    "city_ascii": "Riga",
+    "admin_name": "Rīga",
+    "lat": "56.9475",
+    "lng": "24.1069",
+    "id": "1428586192"
+  },
+  {
+    "city": "Daugavpils",
+    "city_ascii": "Daugavpils",
+    "admin_name": "Augšdaugava",
+    "lat": "55.8714",
+    "lng": "26.5161",
+    "id": "1428924928"
+  },
+  {
+    "city": "Liepāja",
+    "city_ascii": "Liepaja",
+    "admin_name": "Liepāja",
+    "lat": "56.5083",
+    "lng": "21.0111",
+    "id": "1428511842"
+  },
+  {
+    "city": "Jelgava",
+    "city_ascii": "Jelgava",
+    "admin_name": "Jelgava",
+    "lat": "56.6522",
+    "lng": "23.7244",
+    "id": "1428370571"
+  },
+  {
+    "city": "Jūrmala",
+    "city_ascii": "Jurmala",
+    "admin_name": "Jūrmala",
+    "lat": "56.9665",
+    "lng": "23.7221",
+    "id": "1428952300"
+  },
+  {
+    "city": "Ventspils",
+    "city_ascii": "Ventspils",
+    "admin_name": "Ventspils",
+    "lat": "57.3906",
+    "lng": "21.5733",
+    "id": "1428112098"
+  },
+  {
+    "city": "Rēzekne",
+    "city_ascii": "Rezekne",
+    "admin_name": "Rēzekne",
+    "lat": "56.5067",
+    "lng": "27.3308",
+    "id": "1428895373"
+  },
+  {
+    "city": "Ogre",
+    "city_ascii": "Ogre",
+    "admin_name": "Ogre",
+    "lat": "56.8169",
+    "lng": "24.6047",
+    "id": "1428832851"
+  },
+  {
+    "city": "Valmiera",
+    "city_ascii": "Valmiera",
+    "admin_name": "Valmiera",
+    "lat": "57.5381",
+    "lng": "25.4231",
+    "id": "1428524787"
+  },
+  {
+    "city": "Jēkabpils",
+    "city_ascii": "Jekabpils",
+    "admin_name": "Jēkabpils",
+    "lat": "56.4975",
+    "lng": "25.8664",
+    "id": "1428885452"
+  },
+  {
+    "city": "Salaspils",
+    "city_ascii": "Salaspils",
+    "admin_name": "Salaspils",
+    "lat": "56.8614",
+    "lng": "24.3500",
+    "id": "1428270898"
+  },
+  {
+    "city": "Mārupe",
+    "city_ascii": "Marupe",
+    "admin_name": "Mārupe",
+    "lat": "56.9069",
+    "lng": "24.0575",
+    "id": "1428162714"
+  },
+  {
+    "city": "Tukums",
+    "city_ascii": "Tukums",
+    "admin_name": "Tukums",
+    "lat": "56.9688",
+    "lng": "23.1535",
+    "id": "1428304262"
+  },
+  {
+    "city": "Cēsis",
+    "city_ascii": "Cesis",
+    "admin_name": "Cēsis",
+    "lat": "57.3131",
+    "lng": "25.2747",
+    "id": "1428840269"
+  },
+  {
+    "city": "Sigulda",
+    "city_ascii": "Sigulda",
+    "admin_name": "Sigulda",
+    "lat": "57.1539",
+    "lng": "24.8544",
+    "id": "1428703594"
+  },
+  {
+    "city": "Kuldīga",
+    "city_ascii": "Kuldiga",
+    "admin_name": "Kuldīga",
+    "lat": "56.9667",
+    "lng": "21.9667",
+    "id": "1428739306"
+  },
+  {
+    "city": "Olaine",
+    "city_ascii": "Olaine",
+    "admin_name": "Olaine",
+    "lat": "56.7844",
+    "lng": "23.9369",
+    "id": "1428220700"
+  },
+  {
+    "city": "Bauska",
+    "city_ascii": "Bauska",
+    "admin_name": "Bauska",
+    "lat": "56.4067",
+    "lng": "24.1875",
+    "id": "1428015452"
+  },
+  {
+    "city": "Saldus",
+    "city_ascii": "Saldus",
+    "admin_name": "Saldus",
+    "lat": "56.6667",
+    "lng": "22.4936",
+    "id": "1428774997"
+  },
+  {
+    "city": "Talsi",
+    "city_ascii": "Talsi",
+    "admin_name": "Talsi",
+    "lat": "57.2444",
+    "lng": "22.5867",
+    "id": "1428411666"
+  },
+  {
+    "city": "Dobele",
+    "city_ascii": "Dobele",
+    "admin_name": "Dobele",
+    "lat": "56.6258",
+    "lng": "23.2811",
+    "id": "1428641580"
+  },
+  {
+    "city": "Ādaži",
+    "city_ascii": "Adazi",
+    "admin_name": "Ādaži",
+    "lat": "57.0769",
+    "lng": "24.3236",
+    "id": "1428843734"
+  },
+  {
+    "city": "Ludza",
+    "city_ascii": "Ludza",
+    "admin_name": "Ludza",
+    "lat": "56.5439",
+    "lng": "27.7211",
+    "id": "1428976928"
+  },
+  {
+    "city": "Krāslava",
+    "city_ascii": "Kraslava",
+    "admin_name": "Krāslava",
+    "lat": "55.8956",
+    "lng": "27.1644",
+    "id": "1428739484"
+  },
+  {
+    "city": "Aizkraukle",
+    "city_ascii": "Aizkraukle",
+    "admin_name": "Aizkraukle",
+    "lat": "56.6008",
+    "lng": "25.2550",
+    "id": "1428407271"
+  },
+  {
+    "city": "Līvāni",
+    "city_ascii": "Livani",
+    "admin_name": "Līvāni",
+    "lat": "56.3539",
+    "lng": "26.1761",
+    "id": "1428769984"
+  },
+  {
+    "city": "Gulbene",
+    "city_ascii": "Gulbene",
+    "admin_name": "Gulbene",
+    "lat": "57.1750",
+    "lng": "26.7564",
+    "id": "1428888445"
+  },
+  {
+    "city": "Limbaži",
+    "city_ascii": "Limbazi",
+    "admin_name": "Limbaži",
+    "lat": "57.5147",
+    "lng": "24.7131",
+    "id": "1428920312"
+  },
+  {
+    "city": "Madona",
+    "city_ascii": "Madona",
+    "admin_name": "Madona",
+    "lat": "56.8542",
+    "lng": "26.2206",
+    "id": "1428548117"
+  },
+  {
+    "city": "Alūksne",
+    "city_ascii": "Aluksne",
+    "admin_name": "Alūksne",
+    "lat": "57.4239",
+    "lng": "27.0503",
+    "id": "1428873095"
+  },
+  {
+    "city": "Preiļi",
+    "city_ascii": "Preili",
+    "admin_name": "Preiļi",
+    "lat": "56.2942",
+    "lng": "26.7247",
+    "id": "1428460035"
+  },
+  {
+    "city": "Balvi",
+    "city_ascii": "Balvi",
+    "admin_name": "Balvi",
+    "lat": "57.1292",
+    "lng": "27.2667",
+    "id": "1428606162"
+  },
+  {
+    "city": "Ulbroka",
+    "city_ascii": "Ulbroka",
+    "admin_name": "Ropaži",
+    "lat": "56.9408",
+    "lng": "24.2861",
+    "id": "1428511061"
+  },
+  {
+    "city": "Smiltene",
+    "city_ascii": "Smiltene",
+    "admin_name": "Smiltene",
+    "lat": "57.4242",
+    "lng": "25.9064",
+    "id": "1428035157"
+  },
+  {
+    "city": "Ķekava",
+    "city_ascii": "Kekava",
+    "admin_name": "Ķekava",
+    "lat": "56.8266",
+    "lng": "24.2300",
+    "id": "1428331173"
+  },
+  {
+    "city": "Valka",
+    "city_ascii": "Valka",
+    "admin_name": "Valka",
+    "lat": "57.7753",
+    "lng": "26.0214",
+    "id": "1428763918"
+  },
+  {
+    "city": "Saulkrasti",
+    "city_ascii": "Saulkrasti",
+    "admin_name": "Saulkrasti",
+    "lat": "57.2636",
+    "lng": "24.4164",
+    "id": "1428934591"
+  },
+  {
+    "city": "Ropaži",
+    "city_ascii": "Ropazi",
+    "admin_name": "Ropaži",
+    "lat": "56.9718",
+    "lng": "24.6318",
+    "id": "1428220999"
+  },
+  {
+    "city": "Varakļāni",
+    "city_ascii": "Varaklani",
+    "admin_name": "Varakļāni",
+    "lat": "56.6078",
+    "lng": "26.7550",
+    "id": "1428435689"
+  }
+]

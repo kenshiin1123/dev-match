@@ -1,0 +1,1074 @@
+[
+  {
+    "city": "Lagos",
+    "city_ascii": "Lagos",
+    "admin_name": "Lagos",
+    "lat": "6.4550",
+    "lng": "3.3841",
+    "id": "1566593751"
+  },
+  {
+    "city": "Kano",
+    "city_ascii": "Kano",
+    "admin_name": "Kano",
+    "lat": "12.0000",
+    "lng": "8.5167",
+    "id": "1566422868"
+  },
+  {
+    "city": "Abuja",
+    "city_ascii": "Abuja",
+    "admin_name": "Federal Capital Territory",
+    "lat": "9.0667",
+    "lng": "7.4833",
+    "id": "1566342270"
+  },
+  {
+    "city": "Ibadan",
+    "city_ascii": "Ibadan",
+    "admin_name": "Oyo",
+    "lat": "7.3964",
+    "lng": "3.9167",
+    "id": "1566366407"
+  },
+  {
+    "city": "Awka",
+    "city_ascii": "Awka",
+    "admin_name": "Anambra",
+    "lat": "6.2069",
+    "lng": "7.0678",
+    "id": "1566560581"
+  },
+  {
+    "city": "Port Harcourt",
+    "city_ascii": "Port Harcourt",
+    "admin_name": "Rivers",
+    "lat": "4.8242",
+    "lng": "7.0336",
+    "id": "1566070649"
+  },
+  {
+    "city": "Benin City",
+    "city_ascii": "Benin City",
+    "admin_name": "Edo",
+    "lat": "6.3333",
+    "lng": "5.6222",
+    "id": "1566080151"
+  },
+  {
+    "city": "Onitsha",
+    "city_ascii": "Onitsha",
+    "admin_name": "Anambra",
+    "lat": "6.1667",
+    "lng": "6.7833",
+    "id": "1566593483"
+  },
+  {
+    "city": "Maiduguri",
+    "city_ascii": "Maiduguri",
+    "admin_name": "Borno",
+    "lat": "11.8372",
+    "lng": "13.1542",
+    "id": "1566540296"
+  },
+  {
+    "city": "Aba",
+    "city_ascii": "Aba",
+    "admin_name": "Abia",
+    "lat": "5.1167",
+    "lng": "7.3667",
+    "id": "1566262000"
+  },
+  {
+    "city": "Shagamu",
+    "city_ascii": "Shagamu",
+    "admin_name": "Ogun",
+    "lat": "6.8333",
+    "lng": "3.6500",
+    "id": "1566202131"
+  },
+  {
+    "city": "Ikare",
+    "city_ascii": "Ikare",
+    "admin_name": "Ondo",
+    "lat": "7.5167",
+    "lng": "5.7500",
+    "id": "1566683694"
+  },
+  {
+    "city": "Ogbomoso",
+    "city_ascii": "Ogbomoso",
+    "admin_name": "Oyo",
+    "lat": "8.1333",
+    "lng": "4.2500",
+    "id": "1566373448"
+  },
+  {
+    "city": "Enugu",
+    "city_ascii": "Enugu",
+    "admin_name": "Enugu",
+    "lat": "6.5000",
+    "lng": "7.5000",
+    "id": "1566212729"
+  },
+  {
+    "city": "Mushin",
+    "city_ascii": "Mushin",
+    "admin_name": "Lagos",
+    "lat": "6.5333",
+    "lng": "3.3500",
+    "id": "1566329100"
+  },
+  {
+    "city": "Owerri",
+    "city_ascii": "Owerri",
+    "admin_name": "Imo",
+    "lat": "5.4850",
+    "lng": "7.0350",
+    "id": "1566679132"
+  },
+  {
+    "city": "Abeokuta",
+    "city_ascii": "Abeokuta",
+    "admin_name": "Ogun",
+    "lat": "7.1608",
+    "lng": "3.3483",
+    "id": "1566979497"
+  },
+  {
+    "city": "Ikeja",
+    "city_ascii": "Ikeja",
+    "admin_name": "Lagos",
+    "lat": "6.6000",
+    "lng": "3.3500",
+    "id": "1566486388"
+  },
+  {
+    "city": "Akure",
+    "city_ascii": "Akure",
+    "admin_name": "Ondo",
+    "lat": "7.2500",
+    "lng": "5.1950",
+    "id": "1566568277"
+  },
+  {
+    "city": "Ilorin",
+    "city_ascii": "Ilorin",
+    "admin_name": "Kwara",
+    "lat": "8.5000",
+    "lng": "4.5500",
+    "id": "1566480168"
+  },
+  {
+    "city": "Kaduna",
+    "city_ascii": "Kaduna",
+    "admin_name": "Kaduna",
+    "lat": "10.5167",
+    "lng": "7.4333",
+    "id": "1566368729"
+  },
+  {
+    "city": "Osogbo",
+    "city_ascii": "Osogbo",
+    "admin_name": "Osun",
+    "lat": "7.7667",
+    "lng": "4.5667",
+    "id": "1566395088"
+  },
+  {
+    "city": "Bauchi",
+    "city_ascii": "Bauchi",
+    "admin_name": "Bauchi",
+    "lat": "10.5000",
+    "lng": "10.0000",
+    "id": "1566483284"
+  },
+  {
+    "city": "Lokoja",
+    "city_ascii": "Lokoja",
+    "admin_name": "Kogi",
+    "lat": "7.8019",
+    "lng": "6.7442",
+    "id": "1566772925"
+  },
+  {
+    "city": "Agege",
+    "city_ascii": "Agege",
+    "admin_name": "Lagos",
+    "lat": "6.6219",
+    "lng": "3.3258",
+    "id": "1566564887"
+  },
+  {
+    "city": "Nneyi-Umuleri",
+    "city_ascii": "Nneyi-Umuleri",
+    "admin_name": "Anambra",
+    "lat": "6.3333",
+    "lng": "6.8333",
+    "id": "1566349733"
+  },
+  {
+    "city": "Jalingo",
+    "city_ascii": "Jalingo",
+    "admin_name": "Taraba",
+    "lat": "8.9000",
+    "lng": "11.3667",
+    "id": "1566732241"
+  },
+  {
+    "city": "Jos",
+    "city_ascii": "Jos",
+    "admin_name": "Plateau",
+    "lat": "9.9167",
+    "lng": "8.8903",
+    "id": "1566773679"
+  },
+  {
+    "city": "Somolu",
+    "city_ascii": "Somolu",
+    "admin_name": "Lagos",
+    "lat": "6.5408",
+    "lng": "3.3872",
+    "id": "1566609760"
+  },
+  {
+    "city": "Uyo",
+    "city_ascii": "Uyo",
+    "admin_name": "Akwa Ibom",
+    "lat": "5.0333",
+    "lng": "7.9275",
+    "id": "1566061694"
+  },
+  {
+    "city": "Ile-Ife",
+    "city_ascii": "Ile-Ife",
+    "admin_name": "Osun",
+    "lat": "7.4833",
+    "lng": "4.5592",
+    "id": "1566756897"
+  },
+  {
+    "city": "Asaba",
+    "city_ascii": "Asaba",
+    "admin_name": "Delta",
+    "lat": "6.1833",
+    "lng": "6.7333",
+    "id": "1566322425"
+  },
+  {
+    "city": "Ado-Ekiti",
+    "city_ascii": "Ado-Ekiti",
+    "admin_name": "Ekiti",
+    "lat": "7.6211",
+    "lng": "5.2214",
+    "id": "1566196391"
+  },
+  {
+    "city": "Sokoto",
+    "city_ascii": "Sokoto",
+    "admin_name": "Sokoto",
+    "lat": "13.0833",
+    "lng": "5.2500",
+    "id": "1566574518"
+  },
+  {
+    "city": "Ugep",
+    "city_ascii": "Ugep",
+    "admin_name": "Cross River",
+    "lat": "5.8000",
+    "lng": "8.0833",
+    "id": "1566000091"
+  },
+  {
+    "city": "Zaria",
+    "city_ascii": "Zaria",
+    "admin_name": "Kaduna",
+    "lat": "11.0667",
+    "lng": "7.7000",
+    "id": "1566287704"
+  },
+  {
+    "city": "Igboho",
+    "city_ascii": "Igboho",
+    "admin_name": "Oyo",
+    "lat": "8.8333",
+    "lng": "3.7500",
+    "id": "1566640824"
+  },
+  {
+    "city": "Ijebu-Ode",
+    "city_ascii": "Ijebu-Ode",
+    "admin_name": "Ogun",
+    "lat": "6.8208",
+    "lng": "3.9208",
+    "id": "1566495747"
+  },
+  {
+    "city": "Yola",
+    "city_ascii": "Yola",
+    "admin_name": "Adamawa",
+    "lat": "9.2300",
+    "lng": "12.4600",
+    "id": "1566782065"
+  },
+  {
+    "city": "Nnewi",
+    "city_ascii": "Nnewi",
+    "admin_name": "Anambra",
+    "lat": "6.0167",
+    "lng": "6.9167",
+    "id": "1566097410"
+  },
+  {
+    "city": "Gwoza",
+    "city_ascii": "Gwoza",
+    "admin_name": "Borno",
+    "lat": "11.0861",
+    "lng": "13.6914",
+    "id": "1566834535"
+  },
+  {
+    "city": "Saki",
+    "city_ascii": "Saki",
+    "admin_name": "Oyo",
+    "lat": "8.6667",
+    "lng": "3.4000",
+    "id": "1566404680"
+  },
+  {
+    "city": "Oyo",
+    "city_ascii": "Oyo",
+    "admin_name": "Oyo",
+    "lat": "7.8417",
+    "lng": "3.9306",
+    "id": "1566930579"
+  },
+  {
+    "city": "Ilesa",
+    "city_ascii": "Ilesa",
+    "admin_name": "Osun",
+    "lat": "7.6167",
+    "lng": "4.7167",
+    "id": "1566937414"
+  },
+  {
+    "city": "Gusau",
+    "city_ascii": "Gusau",
+    "admin_name": "Zamfara",
+    "lat": "12.1500",
+    "lng": "6.6667",
+    "id": "1566383682"
+  },
+  {
+    "city": "Warri",
+    "city_ascii": "Warri",
+    "admin_name": "Delta",
+    "lat": "5.5167",
+    "lng": "5.7500",
+    "id": "1566325734"
+  },
+  {
+    "city": "Umuahia",
+    "city_ascii": "Umuahia",
+    "admin_name": "Abia",
+    "lat": "5.5333",
+    "lng": "7.4833",
+    "id": "1566217980"
+  },
+  {
+    "city": "Ondo",
+    "city_ascii": "Ondo",
+    "admin_name": "Ondo",
+    "lat": "7.0833",
+    "lng": "4.8333",
+    "id": "1566993724"
+  },
+  {
+    "city": "Gwagwalada",
+    "city_ascii": "Gwagwalada",
+    "admin_name": "Federal Capital Territory",
+    "lat": "8.9392",
+    "lng": "7.0758",
+    "id": "1566419265"
+  },
+  {
+    "city": "Lafia",
+    "city_ascii": "Lafia",
+    "admin_name": "Nasarawa",
+    "lat": "8.4917",
+    "lng": "8.5167",
+    "id": "1566042542"
+  },
+  {
+    "city": "Minna",
+    "city_ascii": "Minna",
+    "admin_name": "Niger",
+    "lat": "9.6139",
+    "lng": "6.5569",
+    "id": "1566285237"
+  },
+  {
+    "city": "Okene",
+    "city_ascii": "Okene",
+    "admin_name": "Kogi",
+    "lat": "7.5619",
+    "lng": "6.2411",
+    "id": "1566909987"
+  },
+  {
+    "city": "Katsina",
+    "city_ascii": "Katsina",
+    "admin_name": "Katsina",
+    "lat": "12.2500",
+    "lng": "7.5000",
+    "id": "1566777297"
+  },
+  {
+    "city": "Kaura Namoda",
+    "city_ascii": "Kaura Namoda",
+    "admin_name": "Zamfara",
+    "lat": "12.6000",
+    "lng": "6.5897",
+    "id": "1566455111"
+  },
+  {
+    "city": "Nguru",
+    "city_ascii": "Nguru",
+    "admin_name": "Yobe",
+    "lat": "12.8792",
+    "lng": "10.4525",
+    "id": "1566737779"
+  },
+  {
+    "city": "Hong",
+    "city_ascii": "Hong",
+    "admin_name": "Adamawa",
+    "lat": "10.2317",
+    "lng": "12.9303",
+    "id": "1566033629"
+  },
+  {
+    "city": "Sapele",
+    "city_ascii": "Sapele",
+    "admin_name": "Delta",
+    "lat": "5.9000",
+    "lng": "5.6667",
+    "id": "1566310893"
+  },
+  {
+    "city": "Iseyin",
+    "city_ascii": "Iseyin",
+    "admin_name": "Oyo",
+    "lat": "7.9667",
+    "lng": "3.6000",
+    "id": "1566714777"
+  },
+  {
+    "city": "Damboa",
+    "city_ascii": "Damboa",
+    "admin_name": "Borno",
+    "lat": "11.1500",
+    "lng": "12.7500",
+    "id": "1566264329"
+  },
+  {
+    "city": "Owo",
+    "city_ascii": "Owo",
+    "admin_name": "Ondo",
+    "lat": "7.1961",
+    "lng": "5.5864",
+    "id": "1566833788"
+  },
+  {
+    "city": "Osisioma",
+    "city_ascii": "Osisioma",
+    "admin_name": "Abia",
+    "lat": "5.1497",
+    "lng": "7.3303",
+    "id": "1566203950"
+  },
+  {
+    "city": "Apapa",
+    "city_ascii": "Apapa",
+    "admin_name": "Lagos",
+    "lat": "6.4500",
+    "lng": "3.3667",
+    "id": "1566625487"
+  },
+  {
+    "city": "Kuje",
+    "city_ascii": "Kuje",
+    "admin_name": "Federal Capital Territory",
+    "lat": "8.8822",
+    "lng": "7.2203",
+    "id": "1566591024"
+  },
+  {
+    "city": "Burutu",
+    "city_ascii": "Burutu",
+    "admin_name": "Delta",
+    "lat": "5.3500",
+    "lng": "5.5167",
+    "id": "1566686777"
+  },
+  {
+    "city": "Kukawa",
+    "city_ascii": "Kukawa",
+    "admin_name": "Borno",
+    "lat": "12.9167",
+    "lng": "13.5667",
+    "id": "1566891739"
+  },
+  {
+    "city": "Mai’Adua",
+    "city_ascii": "Mai'Adua",
+    "admin_name": "Katsina",
+    "lat": "13.1906",
+    "lng": "8.2117",
+    "id": "1566695464"
+  },
+  {
+    "city": "Isanlu",
+    "city_ascii": "Isanlu",
+    "admin_name": "Kogi",
+    "lat": "8.1667",
+    "lng": "5.8000",
+    "id": "1566562770"
+  },
+  {
+    "city": "Baure",
+    "city_ascii": "Baure",
+    "admin_name": "Katsina",
+    "lat": "12.7833",
+    "lng": "8.7667",
+    "id": "1566183701"
+  },
+  {
+    "city": "Iwo",
+    "city_ascii": "Iwo",
+    "admin_name": "Osun",
+    "lat": "7.6333",
+    "lng": "4.1833",
+    "id": "1566462707"
+  },
+  {
+    "city": "Malumfashi",
+    "city_ascii": "Malumfashi",
+    "admin_name": "Katsina",
+    "lat": "11.8000",
+    "lng": "7.6167",
+    "id": "1566616936"
+  },
+  {
+    "city": "Epe",
+    "city_ascii": "Epe",
+    "admin_name": "Lagos",
+    "lat": "6.5833",
+    "lng": "3.9833",
+    "id": "1566461573"
+  },
+  {
+    "city": "Inisa",
+    "city_ascii": "Inisa",
+    "admin_name": "Osun",
+    "lat": "7.9833",
+    "lng": "4.6500",
+    "id": "1566568743"
+  },
+  {
+    "city": "Funtua",
+    "city_ascii": "Funtua",
+    "admin_name": "Katsina",
+    "lat": "11.5204",
+    "lng": "7.3200",
+    "id": "1566877863"
+  },
+  {
+    "city": "Calabar",
+    "city_ascii": "Calabar",
+    "admin_name": "Cross River",
+    "lat": "4.9767",
+    "lng": "8.3383",
+    "id": "1566495489"
+  },
+  {
+    "city": "Biu",
+    "city_ascii": "Biu",
+    "admin_name": "Borno",
+    "lat": "10.6111",
+    "lng": "12.1950",
+    "id": "1566675681"
+  },
+  {
+    "city": "Ada",
+    "city_ascii": "Ada",
+    "admin_name": "Osun",
+    "lat": "7.8956",
+    "lng": "4.7094",
+    "id": "1566487740"
+  },
+  {
+    "city": "Bida",
+    "city_ascii": "Bida",
+    "admin_name": "Niger",
+    "lat": "9.0804",
+    "lng": "6.0100",
+    "id": "1566468363"
+  },
+  {
+    "city": "Makurdi",
+    "city_ascii": "Makurdi",
+    "admin_name": "Benue",
+    "lat": "7.7333",
+    "lng": "8.5000",
+    "id": "1566873994"
+  },
+  {
+    "city": "Offa",
+    "city_ascii": "Offa",
+    "admin_name": "Kwara",
+    "lat": "8.1470",
+    "lng": "4.7200",
+    "id": "1566192714"
+  },
+  {
+    "city": "Ede",
+    "city_ascii": "Ede",
+    "admin_name": "Osun",
+    "lat": "7.7389",
+    "lng": "4.4361",
+    "id": "1566336253"
+  },
+  {
+    "city": "Kisi",
+    "city_ascii": "Kisi",
+    "admin_name": "Oyo",
+    "lat": "9.0833",
+    "lng": "3.8500",
+    "id": "1566512059"
+  },
+  {
+    "city": "Zango",
+    "city_ascii": "Zango",
+    "admin_name": "Katsina",
+    "lat": "12.9333",
+    "lng": "8.5333",
+    "id": "1566483135"
+  },
+  {
+    "city": "Dutse",
+    "city_ascii": "Dutse",
+    "admin_name": "Jigawa",
+    "lat": "11.7011",
+    "lng": "9.3419",
+    "id": "1566855083"
+  },
+  {
+    "city": "Ipokia",
+    "city_ascii": "Ipokia",
+    "admin_name": "Ogun",
+    "lat": "6.5333",
+    "lng": "2.8500",
+    "id": "1566918556"
+  },
+  {
+    "city": "Auchi",
+    "city_ascii": "Auchi",
+    "admin_name": "Edo",
+    "lat": "7.0667",
+    "lng": "6.2667",
+    "id": "1566873539"
+  },
+  {
+    "city": "Ikot Ekpene",
+    "city_ascii": "Ikot Ekpene",
+    "admin_name": "Akwa Ibom",
+    "lat": "5.1833",
+    "lng": "7.7167",
+    "id": "1566150661"
+  },
+  {
+    "city": "Numan",
+    "city_ascii": "Numan",
+    "admin_name": "Adamawa",
+    "lat": "9.4669",
+    "lng": "12.0328",
+    "id": "1566815415"
+  },
+  {
+    "city": "Ipetumodu",
+    "city_ascii": "Ipetumodu",
+    "admin_name": "Osun",
+    "lat": "7.4999",
+    "lng": "4.4472",
+    "id": "1566155015"
+  },
+  {
+    "city": "Okigwe",
+    "city_ascii": "Okigwe",
+    "admin_name": "Imo",
+    "lat": "5.4830",
+    "lng": "7.5500",
+    "id": "1566951349"
+  },
+  {
+    "city": "Idanre",
+    "city_ascii": "Idanre",
+    "admin_name": "Ondo",
+    "lat": "7.0922",
+    "lng": "5.1322",
+    "id": "1566785839"
+  },
+  {
+    "city": "Mubi",
+    "city_ascii": "Mubi",
+    "admin_name": "Adamawa",
+    "lat": "10.2667",
+    "lng": "13.2667",
+    "id": "1566265170"
+  },
+  {
+    "city": "Abaji",
+    "city_ascii": "Abaji",
+    "admin_name": "Federal Capital Territory",
+    "lat": "8.4756",
+    "lng": "6.9433",
+    "id": "1566650592"
+  },
+  {
+    "city": "Gashua",
+    "city_ascii": "Gashua",
+    "admin_name": "Yobe",
+    "lat": "12.8681",
+    "lng": "11.0464",
+    "id": "1566925429"
+  },
+  {
+    "city": "Unwana",
+    "city_ascii": "Unwana",
+    "admin_name": "Abia",
+    "lat": "5.8625",
+    "lng": "7.9486",
+    "id": "1566334848"
+  },
+  {
+    "city": "Bama",
+    "city_ascii": "Bama",
+    "admin_name": "Borno",
+    "lat": "11.5189",
+    "lng": "13.6842",
+    "id": "1566590565"
+  },
+  {
+    "city": "Ilobu",
+    "city_ascii": "Ilobu",
+    "admin_name": "Osun",
+    "lat": "7.8400",
+    "lng": "4.4860",
+    "id": "1566604971"
+  },
+  {
+    "city": "Nsukka",
+    "city_ascii": "Nsukka",
+    "admin_name": "Enugu",
+    "lat": "6.8567",
+    "lng": "7.3958",
+    "id": "1566882360"
+  },
+  {
+    "city": "Itele",
+    "city_ascii": "Itele",
+    "admin_name": "Ogun",
+    "lat": "6.7667",
+    "lng": "4.0625",
+    "id": "1566450486"
+  },
+  {
+    "city": "Nkpor",
+    "city_ascii": "Nkpor",
+    "admin_name": "Anambra",
+    "lat": "6.1500",
+    "lng": "6.8333",
+    "id": "1566172737"
+  },
+  {
+    "city": "Birnin Kebbi",
+    "city_ascii": "Birnin Kebbi",
+    "admin_name": "Kebbi",
+    "lat": "12.4504",
+    "lng": "4.1999",
+    "id": "1566191812"
+  },
+  {
+    "city": "Azare",
+    "city_ascii": "Azare",
+    "admin_name": "Bauchi",
+    "lat": "11.6742",
+    "lng": "10.1911",
+    "id": "1566322480"
+  },
+  {
+    "city": "Kontagora",
+    "city_ascii": "Kontagora",
+    "admin_name": "Niger",
+    "lat": "10.4030",
+    "lng": "5.4730",
+    "id": "1566599231"
+  },
+  {
+    "city": "Wukari",
+    "city_ascii": "Wukari",
+    "admin_name": "Taraba",
+    "lat": "7.8704",
+    "lng": "9.7800",
+    "id": "1566025302"
+  },
+  {
+    "city": "Damaturu",
+    "city_ascii": "Damaturu",
+    "admin_name": "Yobe",
+    "lat": "11.7444",
+    "lng": "11.9611",
+    "id": "1566897107"
+  },
+  {
+    "city": "Potiskum",
+    "city_ascii": "Potiskum",
+    "admin_name": "Yobe",
+    "lat": "11.7104",
+    "lng": "11.0800",
+    "id": "1566461523"
+  },
+  {
+    "city": "Keffi",
+    "city_ascii": "Keffi",
+    "admin_name": "Nasarawa",
+    "lat": "8.8464",
+    "lng": "7.8733",
+    "id": "1566364417"
+  },
+  {
+    "city": "Idah",
+    "city_ascii": "Idah",
+    "admin_name": "Kogi",
+    "lat": "7.0978",
+    "lng": "6.7433",
+    "id": "1566566689"
+  },
+  {
+    "city": "Ikom",
+    "city_ascii": "Ikom",
+    "admin_name": "Cross River",
+    "lat": "6.0833",
+    "lng": "8.6167",
+    "id": "1566375153"
+  },
+  {
+    "city": "Iperu",
+    "city_ascii": "Iperu",
+    "admin_name": "Ogun",
+    "lat": "6.9143",
+    "lng": "3.6632",
+    "id": "1566848833"
+  },
+  {
+    "city": "Otukpo",
+    "city_ascii": "Otukpo",
+    "admin_name": "Benue",
+    "lat": "7.1904",
+    "lng": "8.1300",
+    "id": "1566465153"
+  },
+  {
+    "city": "Chibok",
+    "city_ascii": "Chibok",
+    "admin_name": "Borno",
+    "lat": "10.8697",
+    "lng": "12.8467",
+    "id": "1566191891"
+  },
+  {
+    "city": "Ipele",
+    "city_ascii": "Ipele",
+    "admin_name": "Ondo",
+    "lat": "7.1333",
+    "lng": "5.6667",
+    "id": "1566772510"
+  },
+  {
+    "city": "Oke-Mesi",
+    "city_ascii": "Oke-Mesi",
+    "admin_name": "Ekiti",
+    "lat": "7.8167",
+    "lng": "4.9167",
+    "id": "1566922020"
+  },
+  {
+    "city": "Iju",
+    "city_ascii": "Iju",
+    "admin_name": "Ogun",
+    "lat": "6.6107",
+    "lng": "3.0857",
+    "id": "1566694893"
+  },
+  {
+    "city": "Ikot Okoro",
+    "city_ascii": "Ikot Okoro",
+    "admin_name": "Akwa Ibom",
+    "lat": "4.9000",
+    "lng": "7.7167",
+    "id": "1566577228"
+  },
+  {
+    "city": "Itapa-Ekiti",
+    "city_ascii": "Itapa-Ekiti",
+    "admin_name": "Ekiti",
+    "lat": "7.8131",
+    "lng": "5.3844",
+    "id": "1566000321"
+  },
+  {
+    "city": "Kumo",
+    "city_ascii": "Kumo",
+    "admin_name": "Gombe",
+    "lat": "10.0431",
+    "lng": "11.2183",
+    "id": "1566501095"
+  },
+  {
+    "city": "Ikot Abasi",
+    "city_ascii": "Ikot Abasi",
+    "admin_name": "Akwa Ibom",
+    "lat": "4.5704",
+    "lng": "7.5600",
+    "id": "1566812706"
+  },
+  {
+    "city": "Ire",
+    "city_ascii": "Ire",
+    "admin_name": "Osun",
+    "lat": "7.9361",
+    "lng": "4.7250",
+    "id": "1566894359"
+  },
+  {
+    "city": "Igbanke",
+    "city_ascii": "Igbanke",
+    "admin_name": "Edo",
+    "lat": "6.3869",
+    "lng": "6.1647",
+    "id": "1566776421"
+  },
+  {
+    "city": "Choba",
+    "city_ascii": "Choba",
+    "admin_name": "Rivers",
+    "lat": "4.8906",
+    "lng": "6.9033",
+    "id": "1566302729"
+  },
+  {
+    "city": "Okuta",
+    "city_ascii": "Okuta",
+    "admin_name": "Kwara",
+    "lat": "9.2199",
+    "lng": "3.2005",
+    "id": "1566074252"
+  },
+  {
+    "city": "Obiaruku",
+    "city_ascii": "Obiaruku",
+    "admin_name": "Delta",
+    "lat": "5.8500",
+    "lng": "6.1500",
+    "id": "1566261843"
+  },
+  {
+    "city": "Koko",
+    "city_ascii": "Koko",
+    "admin_name": "Kebbi",
+    "lat": "11.4232",
+    "lng": "4.5170",
+    "id": "1566646210"
+  },
+  {
+    "city": "Zungeru",
+    "city_ascii": "Zungeru",
+    "admin_name": "Niger",
+    "lat": "9.8128",
+    "lng": "6.1558",
+    "id": "1566658964"
+  },
+  {
+    "city": "Tegina",
+    "city_ascii": "Tegina",
+    "admin_name": "Niger",
+    "lat": "10.0706",
+    "lng": "6.1906",
+    "id": "1566672639"
+  },
+  {
+    "city": "Jebba",
+    "city_ascii": "Jebba",
+    "admin_name": "Kwara",
+    "lat": "9.1286",
+    "lng": "4.8183",
+    "id": "1566859918"
+  },
+  {
+    "city": "Aiyetoro Gbede",
+    "city_ascii": "Aiyetoro Gbede",
+    "admin_name": "Kogi",
+    "lat": "7.9833",
+    "lng": "6.0000",
+    "id": "1566150800"
+  },
+  {
+    "city": "Amawom",
+    "city_ascii": "Amawom",
+    "admin_name": "Abia",
+    "lat": "5.4667",
+    "lng": "7.5667",
+    "id": "1566956703"
+  },
+  {
+    "city": "Orlu",
+    "city_ascii": "Orlu",
+    "admin_name": "Imo",
+    "lat": "5.7837",
+    "lng": "7.0333",
+    "id": "1566062510"
+  },
+  {
+    "city": "Abakaliki",
+    "city_ascii": "Abakaliki",
+    "admin_name": "Ebonyi",
+    "lat": "6.3249",
+    "lng": "8.1137",
+    "id": "1566879878"
+  },
+  {
+    "city": "Yenagoa",
+    "city_ascii": "Yenagoa",
+    "admin_name": "Bayelsa",
+    "lat": "4.9267",
+    "lng": "6.2676",
+    "id": "1566468984"
+  },
+  {
+    "city": "Gombe",
+    "city_ascii": "Gombe",
+    "admin_name": "Gombe",
+    "lat": "10.2904",
+    "lng": "11.1700",
+    "id": "1566855445"
+  },
+  {
+    "city": "Isemi-Ile",
+    "city_ascii": "Isemi-Ile",
+    "admin_name": "Oyo",
+    "lat": "7.9700",
+    "lng": "3.5900",
+    "id": "1566369938"
+  }
+]

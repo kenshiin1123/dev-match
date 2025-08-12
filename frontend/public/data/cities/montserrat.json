@@ -1,0 +1,18 @@
+[
+  {
+    "city": "Brades",
+    "city_ascii": "Brades",
+    "admin_name": "Saint Peter",
+    "lat": "16.7928",
+    "lng": "-62.2106",
+    "id": "1500971198"
+  },
+  {
+    "city": "Plymouth",
+    "city_ascii": "Plymouth",
+    "admin_name": "Saint Anthony",
+    "lat": "16.7064",
+    "lng": "-62.2158",
+    "id": "1500711935"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "city": "Jamestown",
+    "city_ascii": "Jamestown",
+    "admin_name": "Saint Helena",
+    "lat": "-15.9251",
+    "lng": "-5.7179",
+    "id": "1654761576"
+  },
+  {
+    "city": "Edinburgh of the Seven Seas",
+    "city_ascii": "Edinburgh of the Seven Seas",
+    "admin_name": "Tristan da Cunha",
+    "lat": "-37.0675",
+    "lng": "-12.3105",
+    "id": "1654661876"
+  },
+  {
+    "city": "Georgetown",
+    "city_ascii": "Georgetown",
+    "admin_name": "Ascension",
+    "lat": "-7.9286",
+    "lng": "-14.4119",
+    "id": "1654363572"
+  }
+]

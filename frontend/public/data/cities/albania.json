@@ -1,0 +1,306 @@
+[
+  {
+    "city": "Tirana",
+    "city_ascii": "Tirana",
+    "admin_name": "Tiranë",
+    "lat": "41.3272",
+    "lng": "19.8186",
+    "id": "1008162156"
+  },
+  {
+    "city": "Durrës",
+    "city_ascii": "Durres",
+    "admin_name": "Durrës",
+    "lat": "41.3133",
+    "lng": "19.4458",
+    "id": "1008173690"
+  },
+  {
+    "city": "Vlorë",
+    "city_ascii": "Vlore",
+    "admin_name": "Vlorë",
+    "lat": "40.4500",
+    "lng": "19.4833",
+    "id": "1008276050"
+  },
+  {
+    "city": "Kamëz",
+    "city_ascii": "Kamez",
+    "admin_name": "Tiranë",
+    "lat": "41.3833",
+    "lng": "19.7667",
+    "id": "1008148968"
+  },
+  {
+    "city": "Elbasan",
+    "city_ascii": "Elbasan",
+    "admin_name": "Elbasan",
+    "lat": "41.1111",
+    "lng": "20.0806",
+    "id": "1008409270"
+  },
+  {
+    "city": "Shkodër",
+    "city_ascii": "Shkoder",
+    "admin_name": "Shkodër",
+    "lat": "42.0681",
+    "lng": "19.5119",
+    "id": "1008977725"
+  },
+  {
+    "city": "Fier",
+    "city_ascii": "Fier",
+    "admin_name": "Fier",
+    "lat": "40.7167",
+    "lng": "19.5500",
+    "id": "1008293317"
+  },
+  {
+    "city": "Korçë",
+    "city_ascii": "Korce",
+    "admin_name": "Korçë",
+    "lat": "40.6167",
+    "lng": "20.7667",
+    "id": "1008361921"
+  },
+  {
+    "city": "Sarandë",
+    "city_ascii": "Sarande",
+    "admin_name": "Vlorë",
+    "lat": "39.8770",
+    "lng": "20.0000",
+    "id": "1008879697"
+  },
+  {
+    "city": "Berat",
+    "city_ascii": "Berat",
+    "admin_name": "Berat",
+    "lat": "40.7049",
+    "lng": "19.9497",
+    "id": "1008955153"
+  },
+  {
+    "city": "Lushnjë",
+    "city_ascii": "Lushnje",
+    "admin_name": "Fier",
+    "lat": "40.9333",
+    "lng": "19.7000",
+    "id": "1008790888"
+  },
+  {
+    "city": "Pogradec",
+    "city_ascii": "Pogradec",
+    "admin_name": "Korçë",
+    "lat": "40.9000",
+    "lng": "20.6500",
+    "id": "1008366566"
+  },
+  {
+    "city": "Kavajë",
+    "city_ascii": "Kavaje",
+    "admin_name": "Tiranë",
+    "lat": "41.1842",
+    "lng": "19.5619",
+    "id": "1008475617"
+  },
+  {
+    "city": "Gjirokastër",
+    "city_ascii": "Gjirokaster",
+    "admin_name": "Gjirokastër",
+    "lat": "40.0758",
+    "lng": "20.1389",
+    "id": "1008368062"
+  },
+  {
+    "city": "Fushë-Krujë",
+    "city_ascii": "Fushe-Kruje",
+    "admin_name": "Durrës",
+    "lat": "41.4833",
+    "lng": "19.7167",
+    "id": "1008652935"
+  },
+  {
+    "city": "Laç",
+    "city_ascii": "Lac",
+    "admin_name": "Lezhë",
+    "lat": "41.6353",
+    "lng": "19.7131",
+    "id": "1008762785"
+  },
+  {
+    "city": "Sukth",
+    "city_ascii": "Sukth",
+    "admin_name": "Durrës",
+    "lat": "41.3833",
+    "lng": "19.5333",
+    "id": "1008647190"
+  },
+  {
+    "city": "Buçimas",
+    "city_ascii": "Bucimas",
+    "admin_name": "Korçë",
+    "lat": "40.8914",
+    "lng": "20.6814",
+    "id": "1008557449"
+  },
+  {
+    "city": "Kukës",
+    "city_ascii": "Kukes",
+    "admin_name": "Kukës",
+    "lat": "42.0833",
+    "lng": "20.4167",
+    "id": "1008649172"
+  },
+  {
+    "city": "Lezhë",
+    "city_ascii": "Lezhe",
+    "admin_name": "Lezhë",
+    "lat": "41.7819",
+    "lng": "19.6444",
+    "id": "1008889153"
+  },
+  {
+    "city": "Patos",
+    "city_ascii": "Patos",
+    "admin_name": "Fier",
+    "lat": "40.6841",
+    "lng": "19.6194",
+    "id": "1008184635"
+  },
+  {
+    "city": "Peshkopi",
+    "city_ascii": "Peshkopi",
+    "admin_name": "Dibër",
+    "lat": "41.6833",
+    "lng": "20.4281",
+    "id": "1008412550"
+  },
+  {
+    "city": "Librazhd-Qendër",
+    "city_ascii": "Librazhd-Qender",
+    "admin_name": "Elbasan",
+    "lat": "41.1969",
+    "lng": "20.3356",
+    "id": "1008639331"
+  },
+  {
+    "city": "Kuçovë",
+    "city_ascii": "Kucove",
+    "admin_name": "Berat",
+    "lat": "40.8039",
+    "lng": "19.9144",
+    "id": "1008520632"
+  },
+  {
+    "city": "Krujë",
+    "city_ascii": "Kruje",
+    "admin_name": "Durrës",
+    "lat": "41.5108",
+    "lng": "19.7925",
+    "id": "1008696208"
+  },
+  {
+    "city": "Burrel",
+    "city_ascii": "Burrel",
+    "admin_name": "Dibër",
+    "lat": "41.6083",
+    "lng": "20.0111",
+    "id": "1008883153"
+  },
+  {
+    "city": "Perondi",
+    "city_ascii": "Perondi",
+    "admin_name": "Berat",
+    "lat": "40.7789",
+    "lng": "19.9231",
+    "id": "1008411335"
+  },
+  {
+    "city": "Libonik",
+    "city_ascii": "Libonik",
+    "admin_name": "Korçë",
+    "lat": "40.7500",
+    "lng": "20.7167",
+    "id": "1008483668"
+  },
+  {
+    "city": "Rrëshen",
+    "city_ascii": "Rreshen",
+    "admin_name": "Lezhë",
+    "lat": "41.7667",
+    "lng": "19.8833",
+    "id": "1008845269"
+  },
+  {
+    "city": "Belsh",
+    "city_ascii": "Belsh",
+    "admin_name": "Elbasan",
+    "lat": "40.9833",
+    "lng": "19.8833",
+    "id": "1008080226"
+  },
+  {
+    "city": "Gramsh",
+    "city_ascii": "Gramsh",
+    "admin_name": "Elbasan",
+    "lat": "40.8667",
+    "lng": "20.1833",
+    "id": "1008632813"
+  },
+  {
+    "city": "Librazhd",
+    "city_ascii": "Librazhd",
+    "admin_name": "Elbasan",
+    "lat": "41.1833",
+    "lng": "20.3167",
+    "id": "1008800835"
+  },
+  {
+    "city": "Përmet",
+    "city_ascii": "Permet",
+    "admin_name": "Gjirokastër",
+    "lat": "40.2333",
+    "lng": "20.3500",
+    "id": "1008604833"
+  },
+  {
+    "city": "Bajram Curri",
+    "city_ascii": "Bajram Curri",
+    "admin_name": "Kukës",
+    "lat": "42.3583",
+    "lng": "20.0761",
+    "id": "1008251523"
+  },
+  {
+    "city": "Tepelenë",
+    "city_ascii": "Tepelene",
+    "admin_name": "Gjirokastër",
+    "lat": "40.2965",
+    "lng": "20.0186",
+    "id": "1008683571"
+  },
+  {
+    "city": "Çorovodë",
+    "city_ascii": "Corovode",
+    "admin_name": "Berat",
+    "lat": "40.5042",
+    "lng": "20.2272",
+    "id": "1008566247"
+  },
+  {
+    "city": "Ersekë",
+    "city_ascii": "Erseke",
+    "admin_name": "Korçë",
+    "lat": "40.3333",
+    "lng": "20.6833",
+    "id": "1008049831"
+  },
+  {
+    "city": "Pukë",
+    "city_ascii": "Puke",
+    "admin_name": "Shkodër",
+    "lat": "42.0500",
+    "lng": "19.9000",
+    "id": "1008739218"
+  }
+]

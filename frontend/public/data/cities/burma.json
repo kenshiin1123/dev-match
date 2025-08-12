@@ -1,0 +1,1042 @@
+[
+  {
+    "city": "Rangoon",
+    "city_ascii": "Rangoon",
+    "admin_name": "Yangon",
+    "lat": "16.7950",
+    "lng": "96.1600",
+    "id": "1104616656"
+  },
+  {
+    "city": "Mandalay",
+    "city_ascii": "Mandalay",
+    "admin_name": "Mandalay",
+    "lat": "21.9831",
+    "lng": "96.0844",
+    "id": "1104468217"
+  },
+  {
+    "city": "Nay Pyi Taw",
+    "city_ascii": "Nay Pyi Taw",
+    "admin_name": "Nay Pyi Taw",
+    "lat": "19.7475",
+    "lng": "96.1150",
+    "id": "1104838105"
+  },
+  {
+    "city": "Kyaukse",
+    "city_ascii": "Kyaukse",
+    "admin_name": "Mandalay",
+    "lat": "21.6131",
+    "lng": "96.1303",
+    "id": "1104814217"
+  },
+  {
+    "city": "Hpa-An",
+    "city_ascii": "Hpa-An",
+    "admin_name": "Kayin State",
+    "lat": "16.8906",
+    "lng": "97.6333",
+    "id": "1104494124"
+  },
+  {
+    "city": "Maungdaw",
+    "city_ascii": "Maungdaw",
+    "admin_name": "Rakhine State",
+    "lat": "20.8167",
+    "lng": "92.3667",
+    "id": "1104000431"
+  },
+  {
+    "city": "Magway",
+    "city_ascii": "Magway",
+    "admin_name": "Magway",
+    "lat": "20.1500",
+    "lng": "94.9500",
+    "id": "1104246517"
+  },
+  {
+    "city": "Pathein",
+    "city_ascii": "Pathein",
+    "admin_name": "Ayeyarwady",
+    "lat": "16.7842",
+    "lng": "94.7333",
+    "id": "1104832430"
+  },
+  {
+    "city": "Bago",
+    "city_ascii": "Bago",
+    "admin_name": "Bago",
+    "lat": "17.3333",
+    "lng": "96.4833",
+    "id": "1104027443"
+  },
+  {
+    "city": "Taunggyi",
+    "city_ascii": "Taunggyi",
+    "admin_name": "Shan State",
+    "lat": "20.7836",
+    "lng": "97.0354",
+    "id": "1104364374"
+  },
+  {
+    "city": "Mawlamyine",
+    "city_ascii": "Mawlamyine",
+    "admin_name": "Mon State",
+    "lat": "16.4847",
+    "lng": "97.6258",
+    "id": "1104530702"
+  },
+  {
+    "city": "Natogyi",
+    "city_ascii": "Natogyi",
+    "admin_name": "Mandalay",
+    "lat": "21.4167",
+    "lng": "95.6500",
+    "id": "1104249540"
+  },
+  {
+    "city": "Myitkyina",
+    "city_ascii": "Myitkyina",
+    "admin_name": "Kachin State",
+    "lat": "25.3833",
+    "lng": "97.4000",
+    "id": "1104327329"
+  },
+  {
+    "city": "Myeik",
+    "city_ascii": "Myeik",
+    "admin_name": "Tanintharyi",
+    "lat": "12.4333",
+    "lng": "98.6000",
+    "id": "1104715655"
+  },
+  {
+    "city": "Thingangyun",
+    "city_ascii": "Thingangyun",
+    "admin_name": "Yangon",
+    "lat": "16.8281",
+    "lng": "96.1842",
+    "id": "1104747384"
+  },
+  {
+    "city": "Monywa",
+    "city_ascii": "Monywa",
+    "admin_name": "Sagaing",
+    "lat": "22.1083",
+    "lng": "95.1417",
+    "id": "1104777345"
+  },
+  {
+    "city": "Myawadi",
+    "city_ascii": "Myawadi",
+    "admin_name": "Kayin State",
+    "lat": "16.6878",
+    "lng": "98.5083",
+    "id": "1104432237"
+  },
+  {
+    "city": "Ingabu",
+    "city_ascii": "Ingabu",
+    "admin_name": "Ayeyarwady",
+    "lat": "17.8167",
+    "lng": "95.2667",
+    "id": "1104461128"
+  },
+  {
+    "city": "Kyaukpyu",
+    "city_ascii": "Kyaukpyu",
+    "admin_name": "Rakhine State",
+    "lat": "19.4264",
+    "lng": "93.5458",
+    "id": "1104321745"
+  },
+  {
+    "city": "Meiktila",
+    "city_ascii": "Meiktila",
+    "admin_name": "Mandalay",
+    "lat": "20.8833",
+    "lng": "95.8833",
+    "id": "1104916201"
+  },
+  {
+    "city": "Letpandan",
+    "city_ascii": "Letpandan",
+    "admin_name": "Bago",
+    "lat": "17.7866",
+    "lng": "95.7507",
+    "id": "1104882792"
+  },
+  {
+    "city": "Katha",
+    "city_ascii": "Katha",
+    "admin_name": "Sagaing",
+    "lat": "24.1822",
+    "lng": "96.3306",
+    "id": "1104074390"
+  },
+  {
+    "city": "Muse",
+    "city_ascii": "Muse",
+    "admin_name": "Shan State",
+    "lat": "23.9792",
+    "lng": "97.9047",
+    "id": "1104215535"
+  },
+  {
+    "city": "Mahlaing",
+    "city_ascii": "Mahlaing",
+    "admin_name": "Mandalay",
+    "lat": "21.0900",
+    "lng": "95.6400",
+    "id": "1104117085"
+  },
+  {
+    "city": "Mudon",
+    "city_ascii": "Mudon",
+    "admin_name": "Mon State",
+    "lat": "16.2578",
+    "lng": "97.7164",
+    "id": "1104174785"
+  },
+  {
+    "city": "Lashio",
+    "city_ascii": "Lashio",
+    "admin_name": "Shan State",
+    "lat": "22.9333",
+    "lng": "97.7500",
+    "id": "1104144745"
+  },
+  {
+    "city": "Dawei",
+    "city_ascii": "Dawei",
+    "admin_name": "Tanintharyi",
+    "lat": "14.0833",
+    "lng": "98.2000",
+    "id": "1104373474"
+  },
+  {
+    "city": "Taungdwingyi",
+    "city_ascii": "Taungdwingyi",
+    "admin_name": "Magway",
+    "lat": "20.0017",
+    "lng": "95.5461",
+    "id": "1104468571"
+  },
+  {
+    "city": "Thanatpin",
+    "city_ascii": "Thanatpin",
+    "admin_name": "Bago",
+    "lat": "17.2942",
+    "lng": "96.5800",
+    "id": "1104961334"
+  },
+  {
+    "city": "Myebon",
+    "city_ascii": "Myebon",
+    "admin_name": "Rakhine State",
+    "lat": "20.0500",
+    "lng": "93.3667",
+    "id": "1104625729"
+  },
+  {
+    "city": "Pyay",
+    "city_ascii": "Pyay",
+    "admin_name": "Bago",
+    "lat": "18.8165",
+    "lng": "95.2114",
+    "id": "1104978348"
+  },
+  {
+    "city": "Thandwe",
+    "city_ascii": "Thandwe",
+    "admin_name": "Rakhine State",
+    "lat": "18.4667",
+    "lng": "94.3667",
+    "id": "1104527465"
+  },
+  {
+    "city": "Mogaung",
+    "city_ascii": "Mogaung",
+    "admin_name": "Kachin State",
+    "lat": "25.3014",
+    "lng": "96.9417",
+    "id": "1104504021"
+  },
+  {
+    "city": "Thaton",
+    "city_ascii": "Thaton",
+    "admin_name": "Mon State",
+    "lat": "16.9250",
+    "lng": "97.3667",
+    "id": "1104227154"
+  },
+  {
+    "city": "Ponnagyun",
+    "city_ascii": "Ponnagyun",
+    "admin_name": "Rakhine State",
+    "lat": "20.3342",
+    "lng": "93.0039",
+    "id": "1104261097"
+  },
+  {
+    "city": "An",
+    "city_ascii": "An",
+    "admin_name": "Rakhine State",
+    "lat": "19.7833",
+    "lng": "94.0333",
+    "id": "1104637807"
+  },
+  {
+    "city": "Taungoo",
+    "city_ascii": "Taungoo",
+    "admin_name": "Bago",
+    "lat": "18.9333",
+    "lng": "96.4333",
+    "id": "1104269989"
+  },
+  {
+    "city": "Htison",
+    "city_ascii": "Htison",
+    "admin_name": "Kayin State",
+    "lat": "15.9000",
+    "lng": "98.1833",
+    "id": "1104040204"
+  },
+  {
+    "city": "Sittwe",
+    "city_ascii": "Sittwe",
+    "admin_name": "Rakhine State",
+    "lat": "20.1670",
+    "lng": "92.7850",
+    "id": "1104269305"
+  },
+  {
+    "city": "Pyinmana",
+    "city_ascii": "Pyinmana",
+    "admin_name": "Nay Pyi Taw",
+    "lat": "19.7500",
+    "lng": "96.2000",
+    "id": "1104492104"
+  },
+  {
+    "city": "Paletwa",
+    "city_ascii": "Paletwa",
+    "admin_name": "Chin State",
+    "lat": "21.3000",
+    "lng": "92.8500",
+    "id": "1104846794"
+  },
+  {
+    "city": "Myingyan",
+    "city_ascii": "Myingyan",
+    "admin_name": "Mandalay",
+    "lat": "21.4600",
+    "lng": "95.3883",
+    "id": "1104162015"
+  },
+  {
+    "city": "Möng Tun",
+    "city_ascii": "Mong Tun",
+    "admin_name": "Shan State",
+    "lat": "20.3000",
+    "lng": "98.9333",
+    "id": "1104458096"
+  },
+  {
+    "city": "Mogok",
+    "city_ascii": "Mogok",
+    "admin_name": "Mandalay",
+    "lat": "22.9167",
+    "lng": "96.5000",
+    "id": "1104205175"
+  },
+  {
+    "city": "Shwebo",
+    "city_ascii": "Shwebo",
+    "admin_name": "Sagaing",
+    "lat": "22.5667",
+    "lng": "95.7000",
+    "id": "1104118052"
+  },
+  {
+    "city": "Paingkyon",
+    "city_ascii": "Paingkyon",
+    "admin_name": "Kayin State",
+    "lat": "17.0242",
+    "lng": "97.9844",
+    "id": "1104246583"
+  },
+  {
+    "city": "Thanhlyin",
+    "city_ascii": "Thanhlyin",
+    "admin_name": "Yangon",
+    "lat": "16.7333",
+    "lng": "96.2500",
+    "id": "1104911762"
+  },
+  {
+    "city": "Hinthada",
+    "city_ascii": "Hinthada",
+    "admin_name": "Ayeyarwady",
+    "lat": "17.6461",
+    "lng": "95.4603",
+    "id": "1104524588"
+  },
+  {
+    "city": "Pyapon",
+    "city_ascii": "Pyapon",
+    "admin_name": "Ayeyarwady",
+    "lat": "16.2860",
+    "lng": "95.6658",
+    "id": "1104170402"
+  },
+  {
+    "city": "Kengtung",
+    "city_ascii": "Kengtung",
+    "admin_name": "Shan State",
+    "lat": "21.2917",
+    "lng": "99.6083",
+    "id": "1104395820"
+  },
+  {
+    "city": "Myaydo",
+    "city_ascii": "Myaydo",
+    "admin_name": "Magway",
+    "lat": "19.3667",
+    "lng": "95.2167",
+    "id": "1104898210"
+  },
+  {
+    "city": "Haka",
+    "city_ascii": "Haka",
+    "admin_name": "Sagaing",
+    "lat": "22.6455",
+    "lng": "93.6050",
+    "id": "1104921389"
+  },
+  {
+    "city": "Sagaing",
+    "city_ascii": "Sagaing",
+    "admin_name": "Sagaing",
+    "lat": "21.8822",
+    "lng": "95.9786",
+    "id": "1104151403"
+  },
+  {
+    "city": "Zigon",
+    "city_ascii": "Zigon",
+    "admin_name": "Bago",
+    "lat": "18.3385",
+    "lng": "95.6230",
+    "id": "1104034261"
+  },
+  {
+    "city": "Myaungmya",
+    "city_ascii": "Myaungmya",
+    "admin_name": "Ayeyarwady",
+    "lat": "16.6036",
+    "lng": "94.9289",
+    "id": "1104040357"
+  },
+  {
+    "city": "Kawthoung",
+    "city_ascii": "Kawthoung",
+    "admin_name": "Tanintharyi",
+    "lat": "9.9833",
+    "lng": "98.5500",
+    "id": "1104713098"
+  },
+  {
+    "city": "Allanmyo",
+    "city_ascii": "Allanmyo",
+    "admin_name": "Magway",
+    "lat": "19.3783",
+    "lng": "95.2279",
+    "id": "1104582279"
+  },
+  {
+    "city": "Buthidaung",
+    "city_ascii": "Buthidaung",
+    "admin_name": "Rakhine State",
+    "lat": "20.8667",
+    "lng": "92.5333",
+    "id": "1104587852"
+  },
+  {
+    "city": "Bhamo",
+    "city_ascii": "Bhamo",
+    "admin_name": "Kachin State",
+    "lat": "24.2667",
+    "lng": "97.2333",
+    "id": "1104508192"
+  },
+  {
+    "city": "Yenangyaung",
+    "city_ascii": "Yenangyaung",
+    "admin_name": "Magway",
+    "lat": "20.4597",
+    "lng": "94.8742",
+    "id": "1104118838"
+  },
+  {
+    "city": "Thongwa",
+    "city_ascii": "Thongwa",
+    "admin_name": "Yangon",
+    "lat": "16.7547",
+    "lng": "96.5193",
+    "id": "1104339441"
+  },
+  {
+    "city": "Tachilek",
+    "city_ascii": "Tachilek",
+    "admin_name": "Shan State",
+    "lat": "20.4528",
+    "lng": "99.8958",
+    "id": "1104251503"
+  },
+  {
+    "city": "Leiktho",
+    "city_ascii": "Leiktho",
+    "admin_name": "Kayin State",
+    "lat": "19.2222",
+    "lng": "96.5811",
+    "id": "1104120144"
+  },
+  {
+    "city": "Namtu",
+    "city_ascii": "Namtu",
+    "admin_name": "Shan State",
+    "lat": "23.0925",
+    "lng": "97.4011",
+    "id": "1104043404"
+  },
+  {
+    "city": "Nyaungu",
+    "city_ascii": "Nyaungu",
+    "admin_name": "Mandalay",
+    "lat": "21.2000",
+    "lng": "94.9167",
+    "id": "1104062729"
+  },
+  {
+    "city": "Kawkareik",
+    "city_ascii": "Kawkareik",
+    "admin_name": "Kayin State",
+    "lat": "16.5556",
+    "lng": "98.2400",
+    "id": "1104220072"
+  },
+  {
+    "city": "Wakema",
+    "city_ascii": "Wakema",
+    "admin_name": "Ayeyarwady",
+    "lat": "16.6000",
+    "lng": "95.1833",
+    "id": "1104266529"
+  },
+  {
+    "city": "Labutta",
+    "city_ascii": "Labutta",
+    "admin_name": "Ayeyarwady",
+    "lat": "16.1467",
+    "lng": "94.7611",
+    "id": "1104103403"
+  },
+  {
+    "city": "Mindat",
+    "city_ascii": "Mindat",
+    "admin_name": "Chin State",
+    "lat": "21.3667",
+    "lng": "93.9833",
+    "id": "1104913521"
+  },
+  {
+    "city": "Pyu",
+    "city_ascii": "Pyu",
+    "admin_name": "Bago",
+    "lat": "18.4819",
+    "lng": "96.4369",
+    "id": "1104518645"
+  },
+  {
+    "city": "Mawlaik",
+    "city_ascii": "Mawlaik",
+    "admin_name": "Sagaing",
+    "lat": "23.2833",
+    "lng": "94.0833",
+    "id": "1104686347"
+  },
+  {
+    "city": "Chauk",
+    "city_ascii": "Chauk",
+    "admin_name": "Magway",
+    "lat": "20.8833",
+    "lng": "94.8167",
+    "id": "1104898616"
+  },
+  {
+    "city": "Tamu",
+    "city_ascii": "Tamu",
+    "admin_name": "Sagaing",
+    "lat": "24.2167",
+    "lng": "94.3097",
+    "id": "1104850868"
+  },
+  {
+    "city": "Maubin",
+    "city_ascii": "Maubin",
+    "admin_name": "Ayeyarwady",
+    "lat": "16.7300",
+    "lng": "95.6500",
+    "id": "1104838258"
+  },
+  {
+    "city": "Myanaung",
+    "city_ascii": "Myanaung",
+    "admin_name": "Ayeyarwady",
+    "lat": "18.2833",
+    "lng": "95.3167",
+    "id": "1104426829"
+  },
+  {
+    "city": "Myedu",
+    "city_ascii": "Myedu",
+    "admin_name": "Sagaing",
+    "lat": "23.1833",
+    "lng": "95.4000",
+    "id": "1104497959"
+  },
+  {
+    "city": "Hlegu",
+    "city_ascii": "Hlegu",
+    "admin_name": "Yangon",
+    "lat": "17.0953",
+    "lng": "96.2211",
+    "id": "1104377170"
+  },
+  {
+    "city": "Kyaukme",
+    "city_ascii": "Kyaukme",
+    "admin_name": "Shan State",
+    "lat": "22.5392",
+    "lng": "97.0283",
+    "id": "1104895857"
+  },
+  {
+    "city": "Tonzang",
+    "city_ascii": "Tonzang",
+    "admin_name": "Chin State",
+    "lat": "23.6000",
+    "lng": "93.7000",
+    "id": "1104120201"
+  },
+  {
+    "city": "Ye",
+    "city_ascii": "Ye",
+    "admin_name": "Mon State",
+    "lat": "15.2467",
+    "lng": "97.8556",
+    "id": "1104513802"
+  },
+  {
+    "city": "Namhkam",
+    "city_ascii": "Namhkam",
+    "admin_name": "Shan State",
+    "lat": "23.8333",
+    "lng": "97.6833",
+    "id": "1104658655"
+  },
+  {
+    "city": "Mohnyin",
+    "city_ascii": "Mohnyin",
+    "admin_name": "Kachin State",
+    "lat": "24.7833",
+    "lng": "96.3667",
+    "id": "1104701882"
+  },
+  {
+    "city": "Tawsalun",
+    "city_ascii": "Tawsalun",
+    "admin_name": "Magway",
+    "lat": "21.4060",
+    "lng": "94.1360",
+    "id": "1104589040"
+  },
+  {
+    "city": "Sami",
+    "city_ascii": "Sami",
+    "admin_name": "Chin State",
+    "lat": "21.2933",
+    "lng": "93.0965",
+    "id": "1104034136"
+  },
+  {
+    "city": "Aungban",
+    "city_ascii": "Aungban",
+    "admin_name": "Shan State",
+    "lat": "20.6667",
+    "lng": "96.6333",
+    "id": "1104836373"
+  },
+  {
+    "city": "Lewe",
+    "city_ascii": "Lewe",
+    "admin_name": "Nay Pyi Taw",
+    "lat": "19.6333",
+    "lng": "96.1167",
+    "id": "1104486750"
+  },
+  {
+    "city": "Du Yar",
+    "city_ascii": "Du Yar",
+    "admin_name": "Mon State",
+    "lat": "15.2617",
+    "lng": "97.7819",
+    "id": "1104089904"
+  },
+  {
+    "city": "Taungup",
+    "city_ascii": "Taungup",
+    "admin_name": "Rakhine State",
+    "lat": "18.8500",
+    "lng": "94.2333",
+    "id": "1104997473"
+  },
+  {
+    "city": "Nyaungdon",
+    "city_ascii": "Nyaungdon",
+    "admin_name": "Ayeyarwady",
+    "lat": "17.0461",
+    "lng": "95.6374",
+    "id": "1104318813"
+  },
+  {
+    "city": "Nansang",
+    "city_ascii": "Nansang",
+    "admin_name": "Shan State",
+    "lat": "20.8889",
+    "lng": "97.7361",
+    "id": "1104983496"
+  },
+  {
+    "city": "Kyonpyaw",
+    "city_ascii": "Kyonpyaw",
+    "admin_name": "Ayeyarwady",
+    "lat": "17.3000",
+    "lng": "95.2000",
+    "id": "1104964864"
+  },
+  {
+    "city": "Kawlin",
+    "city_ascii": "Kawlin",
+    "admin_name": "Sagaing",
+    "lat": "23.7903",
+    "lng": "95.6806",
+    "id": "1104689863"
+  },
+  {
+    "city": "Panglong",
+    "city_ascii": "Panglong",
+    "admin_name": "Shan State",
+    "lat": "24.1003",
+    "lng": "98.3139",
+    "id": "1104894804"
+  },
+  {
+    "city": "Yesagyo",
+    "city_ascii": "Yesagyo",
+    "admin_name": "Magway",
+    "lat": "21.6333",
+    "lng": "95.2414",
+    "id": "1104030863"
+  },
+  {
+    "city": "Kyeintali",
+    "city_ascii": "Kyeintali",
+    "admin_name": "Rakhine State",
+    "lat": "18.0061",
+    "lng": "94.4900",
+    "id": "1104621866"
+  },
+  {
+    "city": "Amarapura",
+    "city_ascii": "Amarapura",
+    "admin_name": "Mandalay",
+    "lat": "21.9000",
+    "lng": "96.0500",
+    "id": "1104567036"
+  },
+  {
+    "city": "Minbu",
+    "city_ascii": "Minbu",
+    "admin_name": "Magway",
+    "lat": "20.1800",
+    "lng": "94.8700",
+    "id": "1104239805"
+  },
+  {
+    "city": "Minbya",
+    "city_ascii": "Minbya",
+    "admin_name": "Rakhine State",
+    "lat": "20.3622",
+    "lng": "93.2733",
+    "id": "1104858010"
+  },
+  {
+    "city": "Khaw Zar Chaung Wa",
+    "city_ascii": "Khaw Zar Chaung Wa",
+    "admin_name": "Mon State",
+    "lat": "15.0375",
+    "lng": "97.8293",
+    "id": "1104706858"
+  },
+  {
+    "city": "Palaw",
+    "city_ascii": "Palaw",
+    "admin_name": "Tanintharyi",
+    "lat": "12.9597",
+    "lng": "98.6545",
+    "id": "1104077900"
+  },
+  {
+    "city": "Zalun",
+    "city_ascii": "Zalun",
+    "admin_name": "Ayeyarwady",
+    "lat": "17.4719",
+    "lng": "95.5522",
+    "id": "1104550654"
+  },
+  {
+    "city": "Shanywathit",
+    "city_ascii": "Shanywathit",
+    "admin_name": "Kayin State",
+    "lat": "17.4244",
+    "lng": "97.8878",
+    "id": "1104224930"
+  },
+  {
+    "city": "Kamamaung",
+    "city_ascii": "Kamamaung",
+    "admin_name": "Kayin State",
+    "lat": "17.3469",
+    "lng": "97.6528",
+    "id": "1104892359"
+  },
+  {
+    "city": "Khampat",
+    "city_ascii": "Khampat",
+    "admin_name": "Sagaing",
+    "lat": "23.7823",
+    "lng": "94.1442",
+    "id": "1104599399"
+  },
+  {
+    "city": "Pantanaw",
+    "city_ascii": "Pantanaw",
+    "admin_name": "Ayeyarwady",
+    "lat": "16.9850",
+    "lng": "95.4656",
+    "id": "1104041074"
+  },
+  {
+    "city": "Ngathainggyaung",
+    "city_ascii": "Ngathainggyaung",
+    "admin_name": "Ayeyarwady",
+    "lat": "17.4000",
+    "lng": "95.0833",
+    "id": "1104435662"
+  },
+  {
+    "city": "Tiddim",
+    "city_ascii": "Tiddim",
+    "admin_name": "Chin State",
+    "lat": "23.3758",
+    "lng": "93.6539",
+    "id": "1104876098"
+  },
+  {
+    "city": "Hakha",
+    "city_ascii": "Hakha",
+    "admin_name": "Chin State",
+    "lat": "22.6428",
+    "lng": "93.6096",
+    "id": "1104739581"
+  },
+  {
+    "city": "Pauktaw",
+    "city_ascii": "Pauktaw",
+    "admin_name": "Rakhine State",
+    "lat": "20.2128",
+    "lng": "93.1308",
+    "id": "1104903555"
+  },
+  {
+    "city": "Mawkanin",
+    "city_ascii": "Mawkanin",
+    "admin_name": "Mon State",
+    "lat": "15.5106",
+    "lng": "97.8533",
+    "id": "1104866506"
+  },
+  {
+    "city": "Kawa",
+    "city_ascii": "Kawa",
+    "admin_name": "Bago",
+    "lat": "17.0897",
+    "lng": "96.4663",
+    "id": "1104865586"
+  },
+  {
+    "city": "Bawgalegyi",
+    "city_ascii": "Bawgalegyi",
+    "admin_name": "Kayin State",
+    "lat": "18.9144",
+    "lng": "96.7856",
+    "id": "1104881493"
+  },
+  {
+    "city": "Nawnghkio",
+    "city_ascii": "Nawnghkio",
+    "admin_name": "Shan State",
+    "lat": "22.3167",
+    "lng": "96.8000",
+    "id": "1104930303"
+  },
+  {
+    "city": "Kyaunggon",
+    "city_ascii": "Kyaunggon",
+    "admin_name": "Ayeyarwady",
+    "lat": "17.1000",
+    "lng": "95.1833",
+    "id": "1104893206"
+  },
+  {
+    "city": "Wān Long",
+    "city_ascii": "Wan Long",
+    "admin_name": "Shan State",
+    "lat": "22.1667",
+    "lng": "99.1833",
+    "id": "1104904549"
+  },
+  {
+    "city": "Kyaukmyaung",
+    "city_ascii": "Kyaukmyaung",
+    "admin_name": "Sagaing",
+    "lat": "22.5833",
+    "lng": "95.9500",
+    "id": "1104023096"
+  },
+  {
+    "city": "Razua",
+    "city_ascii": "Razua",
+    "admin_name": "Chin State",
+    "lat": "22.0529",
+    "lng": "93.4086",
+    "id": "1104486868"
+  },
+  {
+    "city": "Okpo",
+    "city_ascii": "Okpo",
+    "admin_name": "Bago",
+    "lat": "18.1167",
+    "lng": "95.6667",
+    "id": "1104664446"
+  },
+  {
+    "city": "Hlaingbwe",
+    "city_ascii": "Hlaingbwe",
+    "admin_name": "Kayin State",
+    "lat": "17.1333",
+    "lng": "97.8333",
+    "id": "1104110875"
+  },
+  {
+    "city": "Shingbwiyang",
+    "city_ascii": "Shingbwiyang",
+    "admin_name": "Kachin State",
+    "lat": "26.6667",
+    "lng": "96.2167",
+    "id": "1104572327"
+  },
+  {
+    "city": "Loikaw",
+    "city_ascii": "Loikaw",
+    "admin_name": "Kayah State",
+    "lat": "19.6742",
+    "lng": "97.2092",
+    "id": "1104542517"
+  },
+  {
+    "city": "Indaw",
+    "city_ascii": "Indaw",
+    "admin_name": "Sagaing",
+    "lat": "24.2214",
+    "lng": "96.1433",
+    "id": "1104824013"
+  },
+  {
+    "city": "Ngaputaw",
+    "city_ascii": "Ngaputaw",
+    "admin_name": "Ayeyarwady",
+    "lat": "16.5378",
+    "lng": "94.6936",
+    "id": "1104989522"
+  },
+  {
+    "city": "Sadon",
+    "city_ascii": "Sadon",
+    "admin_name": "Kachin State",
+    "lat": "25.3927",
+    "lng": "97.8996",
+    "id": "1104149165"
+  },
+  {
+    "city": "Chaungtha",
+    "city_ascii": "Chaungtha",
+    "admin_name": "Ayeyarwady",
+    "lat": "16.9667",
+    "lng": "94.4500",
+    "id": "1104467374"
+  },
+  {
+    "city": "Putao",
+    "city_ascii": "Putao",
+    "admin_name": "Kachin State",
+    "lat": "27.3258",
+    "lng": "97.4225",
+    "id": "1104007518"
+  },
+  {
+    "city": "Ramree",
+    "city_ascii": "Ramree",
+    "admin_name": "Rakhine State",
+    "lat": "19.0833",
+    "lng": "93.8667",
+    "id": "1104079121"
+  },
+  {
+    "city": "Falam",
+    "city_ascii": "Falam",
+    "admin_name": "Chin State",
+    "lat": "22.9136",
+    "lng": "93.6778",
+    "id": "1104756468"
+  },
+  {
+    "city": "Hsenwi",
+    "city_ascii": "Hsenwi",
+    "admin_name": "Shan State",
+    "lat": "23.3000",
+    "lng": "97.9667",
+    "id": "1104609760"
+  },
+  {
+    "city": "Pakokku",
+    "city_ascii": "Pakokku",
+    "admin_name": "Magway",
+    "lat": "21.3320",
+    "lng": "95.0866",
+    "id": "1104161315"
+  }
+]

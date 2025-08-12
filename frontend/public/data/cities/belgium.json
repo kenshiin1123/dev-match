@@ -1,0 +1,3194 @@
+[
+  {
+    "city": "Brussels",
+    "city_ascii": "Brussels",
+    "admin_name": "Brussels-Capital Region",
+    "lat": "50.8467",
+    "lng": "4.3525",
+    "id": "1056469830"
+  },
+  {
+    "city": "Antwerp",
+    "city_ascii": "Antwerp",
+    "admin_name": "Flanders",
+    "lat": "51.2178",
+    "lng": "4.4003",
+    "id": "1056168623"
+  },
+  {
+    "city": "Gent",
+    "city_ascii": "Gent",
+    "admin_name": "Flanders",
+    "lat": "51.0536",
+    "lng": "3.7253",
+    "id": "1056062897"
+  },
+  {
+    "city": "Charleroi",
+    "city_ascii": "Charleroi",
+    "admin_name": "Wallonia",
+    "lat": "50.4167",
+    "lng": "4.4442",
+    "id": "1056263311"
+  },
+  {
+    "city": "Liège",
+    "city_ascii": "Liege",
+    "admin_name": "Wallonia",
+    "lat": "50.6397",
+    "lng": "5.5706",
+    "id": "1056513284"
+  },
+  {
+    "city": "Schaarbeek",
+    "city_ascii": "Schaarbeek",
+    "admin_name": "Brussels-Capital Region",
+    "lat": "50.8675",
+    "lng": "4.3736",
+    "id": "1056091146"
+  },
+  {
+    "city": "Anderlecht",
+    "city_ascii": "Anderlecht",
+    "admin_name": "Brussels-Capital Region",
+    "lat": "50.8333",
+    "lng": "4.3333",
+    "id": "1056297471"
+  },
+  {
+    "city": "Bruges",
+    "city_ascii": "Bruges",
+    "admin_name": "Flanders",
+    "lat": "51.2089",
+    "lng": "3.2242",
+    "id": "1056953902"
+  },
+  {
+    "city": "Namur",
+    "city_ascii": "Namur",
+    "admin_name": "Wallonia",
+    "lat": "50.4667",
+    "lng": "4.8667",
+    "id": "1056954156"
+  },
+  {
+    "city": "Moortebeek",
+    "city_ascii": "Moortebeek",
+    "admin_name": "Flanders",
+    "lat": "50.8547",
+    "lng": "4.3386",
+    "id": "1056103437"
+  },
+  {
+    "city": "Mons",
+    "city_ascii": "Mons",
+    "admin_name": "Wallonia",
+    "lat": "50.4547",
+    "lng": "3.9525",
+    "id": "1056836704"
+  },
+  {
+    "city": "Aalst",
+    "city_ascii": "Aalst",
+    "admin_name": "Flanders",
+    "lat": "50.9383",
+    "lng": "4.0392",
+    "id": "1056695813"
+  },
+  {
+    "city": "Mechelen",
+    "city_ascii": "Mechelen",
+    "admin_name": "Flanders",
+    "lat": "51.0281",
+    "lng": "4.4803",
+    "id": "1056687706"
+  },
+  {
+    "city": "Deurne",
+    "city_ascii": "Deurne",
+    "admin_name": "Flanders",
+    "lat": "51.2247",
+    "lng": "4.4625",
+    "id": "1056636125"
+  },
+  {
+    "city": "La Louvière",
+    "city_ascii": "La Louviere",
+    "admin_name": "Wallonia",
+    "lat": "50.4667",
+    "lng": "4.1833",
+    "id": "1056383929"
+  },
+  {
+    "city": "Sint-Niklaas",
+    "city_ascii": "Sint-Niklaas",
+    "admin_name": "Flanders",
+    "lat": "51.1667",
+    "lng": "4.1333",
+    "id": "1056028982"
+  },
+  {
+    "city": "Kortrijk",
+    "city_ascii": "Kortrijk",
+    "admin_name": "Flanders",
+    "lat": "50.8275",
+    "lng": "3.2658",
+    "id": "1056702614"
+  },
+  {
+    "city": "Hasselt",
+    "city_ascii": "Hasselt",
+    "admin_name": "Flanders",
+    "lat": "50.9304",
+    "lng": "5.3383",
+    "id": "1056617022"
+  },
+  {
+    "city": "Ostend",
+    "city_ascii": "Ostend",
+    "admin_name": "Flanders",
+    "lat": "51.2258",
+    "lng": "2.9194",
+    "id": "1056454956"
+  },
+  {
+    "city": "Tournai",
+    "city_ascii": "Tournai",
+    "admin_name": "Wallonia",
+    "lat": "50.6056",
+    "lng": "3.3881",
+    "id": "1056138540"
+  },
+  {
+    "city": "Genk",
+    "city_ascii": "Genk",
+    "admin_name": "Flanders",
+    "lat": "50.9653",
+    "lng": "5.5006",
+    "id": "1056555160"
+  },
+  {
+    "city": "Roeselare",
+    "city_ascii": "Roeselare",
+    "admin_name": "Flanders",
+    "lat": "50.9333",
+    "lng": "3.1167",
+    "id": "1056334112"
+  },
+  {
+    "city": "Seraing",
+    "city_ascii": "Seraing",
+    "admin_name": "Wallonia",
+    "lat": "50.5986",
+    "lng": "5.5122",
+    "id": "1056627579"
+  },
+  {
+    "city": "Laeken",
+    "city_ascii": "Laeken",
+    "admin_name": "Brussels-Capital Region",
+    "lat": "50.8778",
+    "lng": "4.3558",
+    "id": "1056324535"
+  },
+  {
+    "city": "Mouscron",
+    "city_ascii": "Mouscron",
+    "admin_name": "Wallonia",
+    "lat": "50.7333",
+    "lng": "3.2167",
+    "id": "1056095679"
+  },
+  {
+    "city": "Forest",
+    "city_ascii": "Forest",
+    "admin_name": "Brussels-Capital Region",
+    "lat": "50.8131",
+    "lng": "4.3247",
+    "id": "1056640531"
+  },
+  {
+    "city": "Verviers",
+    "city_ascii": "Verviers",
+    "admin_name": "Wallonia",
+    "lat": "50.5835",
+    "lng": "5.8641",
+    "id": "1056464610"
+  },
+  {
+    "city": "Jette",
+    "city_ascii": "Jette",
+    "admin_name": "Brussels-Capital Region",
+    "lat": "50.8667",
+    "lng": "4.3333",
+    "id": "1056315355"
+  },
+  {
+    "city": "Beveren",
+    "city_ascii": "Beveren",
+    "admin_name": "Flanders",
+    "lat": "51.2000",
+    "lng": "4.2500",
+    "id": "1056581431"
+  },
+  {
+    "city": "Etterbeek",
+    "city_ascii": "Etterbeek",
+    "admin_name": "Brussels-Capital Region",
+    "lat": "50.8333",
+    "lng": "4.3833",
+    "id": "1056267205"
+  },
+  {
+    "city": "Beringen",
+    "city_ascii": "Beringen",
+    "admin_name": "Flanders",
+    "lat": "51.0507",
+    "lng": "5.2216",
+    "id": "1056300146"
+  },
+  {
+    "city": "Borgerhout",
+    "city_ascii": "Borgerhout",
+    "admin_name": "Flanders",
+    "lat": "51.2167",
+    "lng": "4.4333",
+    "id": "1056235367"
+  },
+  {
+    "city": "Dendermonde",
+    "city_ascii": "Dendermonde",
+    "admin_name": "Flanders",
+    "lat": "51.0333",
+    "lng": "4.1000",
+    "id": "1056277590"
+  },
+  {
+    "city": "Merksem",
+    "city_ascii": "Merksem",
+    "admin_name": "Flanders",
+    "lat": "51.2428",
+    "lng": "4.4414",
+    "id": "1056201097"
+  },
+  {
+    "city": "Deinze",
+    "city_ascii": "Deinze",
+    "admin_name": "Flanders",
+    "lat": "50.9833",
+    "lng": "3.5333",
+    "id": "1056715271"
+  },
+  {
+    "city": "Turnhout",
+    "city_ascii": "Turnhout",
+    "admin_name": "Flanders",
+    "lat": "51.3231",
+    "lng": "4.9483",
+    "id": "1056378407"
+  },
+  {
+    "city": "Vilvoorde",
+    "city_ascii": "Vilvoorde",
+    "admin_name": "Flanders",
+    "lat": "50.9333",
+    "lng": "4.4167",
+    "id": "1056838834"
+  },
+  {
+    "city": "Berchem",
+    "city_ascii": "Berchem",
+    "admin_name": "Flanders",
+    "lat": "51.2000",
+    "lng": "4.4167",
+    "id": "1056254285"
+  },
+  {
+    "city": "Heist-op-den-Berg",
+    "city_ascii": "Heist-op-den-Berg",
+    "admin_name": "Flanders",
+    "lat": "51.0758",
+    "lng": "4.7286",
+    "id": "1056533253"
+  },
+  {
+    "city": "Lokeren",
+    "city_ascii": "Lokeren",
+    "admin_name": "Flanders",
+    "lat": "51.1000",
+    "lng": "3.9833",
+    "id": "1056040417"
+  },
+  {
+    "city": "Evere",
+    "city_ascii": "Evere",
+    "admin_name": "Brussels-Capital Region",
+    "lat": "50.8667",
+    "lng": "4.4000",
+    "id": "1056731697"
+  },
+  {
+    "city": "Dilbeek",
+    "city_ascii": "Dilbeek",
+    "admin_name": "Flanders",
+    "lat": "50.8450",
+    "lng": "4.2650",
+    "id": "1056357068"
+  },
+  {
+    "city": "Hoboken",
+    "city_ascii": "Hoboken",
+    "admin_name": "Flanders",
+    "lat": "51.1667",
+    "lng": "4.3667",
+    "id": "1056996414"
+  },
+  {
+    "city": "Geel",
+    "city_ascii": "Geel",
+    "admin_name": "Flanders",
+    "lat": "51.1661",
+    "lng": "4.9919",
+    "id": "1056650070"
+  },
+  {
+    "city": "Sint-Truiden",
+    "city_ascii": "Sint-Truiden",
+    "admin_name": "Flanders",
+    "lat": "50.8156",
+    "lng": "5.1868",
+    "id": "1056944500"
+  },
+  {
+    "city": "Herstal",
+    "city_ascii": "Herstal",
+    "admin_name": "Wallonia",
+    "lat": "50.6644",
+    "lng": "5.6300",
+    "id": "1056571016"
+  },
+  {
+    "city": "Braine-l’Alleud",
+    "city_ascii": "Braine-l'Alleud",
+    "admin_name": "Wallonia",
+    "lat": "50.6833",
+    "lng": "4.3667",
+    "id": "1056287952"
+  },
+  {
+    "city": "Ninove",
+    "city_ascii": "Ninove",
+    "admin_name": "Flanders",
+    "lat": "50.8333",
+    "lng": "4.0167",
+    "id": "1056641524"
+  },
+  {
+    "city": "Halle",
+    "city_ascii": "Halle",
+    "admin_name": "Flanders",
+    "lat": "50.7361",
+    "lng": "4.2372",
+    "id": "1056061836"
+  },
+  {
+    "city": "Waregem",
+    "city_ascii": "Waregem",
+    "admin_name": "Flanders",
+    "lat": "50.8833",
+    "lng": "3.4167",
+    "id": "1056938686"
+  },
+  {
+    "city": "Wilrijk",
+    "city_ascii": "Wilrijk",
+    "admin_name": "Flanders",
+    "lat": "51.1667",
+    "lng": "4.3833",
+    "id": "1056856588"
+  },
+  {
+    "city": "Brasschaat",
+    "city_ascii": "Brasschaat",
+    "admin_name": "Flanders",
+    "lat": "51.2914",
+    "lng": "4.4950",
+    "id": "1056299309"
+  },
+  {
+    "city": "Mechelen-aan-de-Maas",
+    "city_ascii": "Mechelen-aan-de-Maas",
+    "admin_name": "Flanders",
+    "lat": "50.9967",
+    "lng": "5.7025",
+    "id": "1056407060"
+  },
+  {
+    "city": "Grimbergen",
+    "city_ascii": "Grimbergen",
+    "admin_name": "Flanders",
+    "lat": "50.9333",
+    "lng": "4.3833",
+    "id": "1056864579"
+  },
+  {
+    "city": "Mol",
+    "city_ascii": "Mol",
+    "admin_name": "Flanders",
+    "lat": "51.1842",
+    "lng": "5.1156",
+    "id": "1056847907"
+  },
+  {
+    "city": "Lierre",
+    "city_ascii": "Lierre",
+    "admin_name": "Flanders",
+    "lat": "51.1311",
+    "lng": "4.5697",
+    "id": "1056505135"
+  },
+  {
+    "city": "Tienen",
+    "city_ascii": "Tienen",
+    "admin_name": "Flanders",
+    "lat": "50.8075",
+    "lng": "4.9372",
+    "id": "1056670352"
+  },
+  {
+    "city": "Châtelet",
+    "city_ascii": "Chatelet",
+    "admin_name": "Wallonia",
+    "lat": "50.4039",
+    "lng": "4.5253",
+    "id": "1056557187"
+  },
+  {
+    "city": "Evergem",
+    "city_ascii": "Evergem",
+    "admin_name": "Flanders",
+    "lat": "51.1167",
+    "lng": "3.7000",
+    "id": "1056954111"
+  },
+  {
+    "city": "Zaventem",
+    "city_ascii": "Zaventem",
+    "admin_name": "Flanders",
+    "lat": "50.8667",
+    "lng": "4.4667",
+    "id": "1056786797"
+  },
+  {
+    "city": "Ieper",
+    "city_ascii": "Ieper",
+    "admin_name": "Flanders",
+    "lat": "50.8508",
+    "lng": "2.8850",
+    "id": "1056744519"
+  },
+  {
+    "city": "Schoten",
+    "city_ascii": "Schoten",
+    "admin_name": "Flanders",
+    "lat": "51.2500",
+    "lng": "4.5000",
+    "id": "1056187001"
+  },
+  {
+    "city": "Wavre",
+    "city_ascii": "Wavre",
+    "admin_name": "Wallonia",
+    "lat": "50.7147",
+    "lng": "4.6107",
+    "id": "1056538762"
+  },
+  {
+    "city": "Lommel",
+    "city_ascii": "Lommel",
+    "admin_name": "Flanders",
+    "lat": "51.2317",
+    "lng": "5.3110",
+    "id": "1056200489"
+  },
+  {
+    "city": "Sint-Pieters-Leeuw",
+    "city_ascii": "Sint-Pieters-Leeuw",
+    "admin_name": "Flanders",
+    "lat": "50.7833",
+    "lng": "4.2500",
+    "id": "1056770935"
+  },
+  {
+    "city": "Menen",
+    "city_ascii": "Menen",
+    "admin_name": "Flanders",
+    "lat": "50.8000",
+    "lng": "3.1167",
+    "id": "1056841514"
+  },
+  {
+    "city": "Binche",
+    "city_ascii": "Binche",
+    "admin_name": "Wallonia",
+    "lat": "50.4103",
+    "lng": "4.1652",
+    "id": "1056520553"
+  },
+  {
+    "city": "Geraardsbergen",
+    "city_ascii": "Geraardsbergen",
+    "admin_name": "Flanders",
+    "lat": "50.7667",
+    "lng": "3.8667",
+    "id": "1056572611"
+  },
+  {
+    "city": "Knokke-Heist",
+    "city_ascii": "Knokke-Heist",
+    "admin_name": "Flanders",
+    "lat": "51.3333",
+    "lng": "3.2833",
+    "id": "1056022450"
+  },
+  {
+    "city": "Asse",
+    "city_ascii": "Asse",
+    "admin_name": "Flanders",
+    "lat": "50.9000",
+    "lng": "4.2000",
+    "id": "1056775940"
+  },
+  {
+    "city": "Bilzen",
+    "city_ascii": "Bilzen",
+    "admin_name": "Flanders",
+    "lat": "50.8730",
+    "lng": "5.5163",
+    "id": "1056431359"
+  },
+  {
+    "city": "Sint-Amandsberg",
+    "city_ascii": "Sint-Amandsberg",
+    "admin_name": "Flanders",
+    "lat": "51.0539",
+    "lng": "3.7492",
+    "id": "1056712936"
+  },
+  {
+    "city": "Oudenaarde",
+    "city_ascii": "Oudenaarde",
+    "admin_name": "Flanders",
+    "lat": "50.8500",
+    "lng": "3.6000",
+    "id": "1056780523"
+  },
+  {
+    "city": "Wevelgem",
+    "city_ascii": "Wevelgem",
+    "admin_name": "Flanders",
+    "lat": "50.8000",
+    "lng": "3.1667",
+    "id": "1056233593"
+  },
+  {
+    "city": "Courcelles",
+    "city_ascii": "Courcelles",
+    "admin_name": "Wallonia",
+    "lat": "50.4667",
+    "lng": "4.3667",
+    "id": "1056057326"
+  },
+  {
+    "city": "Tongeren",
+    "city_ascii": "Tongeren",
+    "admin_name": "Flanders",
+    "lat": "50.7807",
+    "lng": "5.4623",
+    "id": "1056711491"
+  },
+  {
+    "city": "Arlon",
+    "city_ascii": "Arlon",
+    "admin_name": "Wallonia",
+    "lat": "49.6836",
+    "lng": "5.8167",
+    "id": "1056746428"
+  },
+  {
+    "city": "Kessel-Lo",
+    "city_ascii": "Kessel-Lo",
+    "admin_name": "Flanders",
+    "lat": "50.9000",
+    "lng": "4.7500",
+    "id": "1056309789"
+  },
+  {
+    "city": "Waterloo",
+    "city_ascii": "Waterloo",
+    "admin_name": "Wallonia",
+    "lat": "50.7175",
+    "lng": "4.3979",
+    "id": "1056353647"
+  },
+  {
+    "city": "Aarschot",
+    "city_ascii": "Aarschot",
+    "admin_name": "Flanders",
+    "lat": "50.9875",
+    "lng": "4.8333",
+    "id": "1056740173"
+  },
+  {
+    "city": "Temse",
+    "city_ascii": "Temse",
+    "admin_name": "Flanders",
+    "lat": "51.1167",
+    "lng": "4.2000",
+    "id": "1056178805"
+  },
+  {
+    "city": "Brecht",
+    "city_ascii": "Brecht",
+    "admin_name": "Flanders",
+    "lat": "51.3494",
+    "lng": "4.6394",
+    "id": "1056740797"
+  },
+  {
+    "city": "Ath",
+    "city_ascii": "Ath",
+    "admin_name": "Wallonia",
+    "lat": "50.6167",
+    "lng": "3.7667",
+    "id": "1056512490"
+  },
+  {
+    "city": "Izegem",
+    "city_ascii": "Izegem",
+    "admin_name": "Flanders",
+    "lat": "50.9167",
+    "lng": "3.2000",
+    "id": "1056662336"
+  },
+  {
+    "city": "Nivelles",
+    "city_ascii": "Nivelles",
+    "admin_name": "Wallonia",
+    "lat": "50.5833",
+    "lng": "4.3167",
+    "id": "1056187375"
+  },
+  {
+    "city": "Herentals",
+    "city_ascii": "Herentals",
+    "admin_name": "Flanders",
+    "lat": "51.1767",
+    "lng": "4.8364",
+    "id": "1056125768"
+  },
+  {
+    "city": "Ans",
+    "city_ascii": "Ans",
+    "admin_name": "Wallonia",
+    "lat": "50.6625",
+    "lng": "5.5200",
+    "id": "1056084793"
+  },
+  {
+    "city": "Harelbeke",
+    "city_ascii": "Harelbeke",
+    "admin_name": "Flanders",
+    "lat": "50.8500",
+    "lng": "3.3000",
+    "id": "1056312961"
+  },
+  {
+    "city": "Soignies",
+    "city_ascii": "Soignies",
+    "admin_name": "Wallonia",
+    "lat": "50.5667",
+    "lng": "4.0667",
+    "id": "1056957745"
+  },
+  {
+    "city": "Andenne",
+    "city_ascii": "Andenne",
+    "admin_name": "Wallonia",
+    "lat": "50.4833",
+    "lng": "5.1000",
+    "id": "1056666375"
+  },
+  {
+    "city": "Sint-Joost-ten-Node",
+    "city_ascii": "Sint-Joost-ten-Node",
+    "admin_name": "Brussels-Capital Region",
+    "lat": "50.8500",
+    "lng": "4.3833",
+    "id": "1056751248"
+  },
+  {
+    "city": "Kapellen",
+    "city_ascii": "Kapellen",
+    "admin_name": "Flanders",
+    "lat": "51.3167",
+    "lng": "4.4333",
+    "id": "1056965326"
+  },
+  {
+    "city": "Ronse",
+    "city_ascii": "Ronse",
+    "admin_name": "Flanders",
+    "lat": "50.7500",
+    "lng": "3.6000",
+    "id": "1056897548"
+  },
+  {
+    "city": "Zottegem",
+    "city_ascii": "Zottegem",
+    "admin_name": "Flanders",
+    "lat": "50.8667",
+    "lng": "3.8000",
+    "id": "1056768332"
+  },
+  {
+    "city": "Willebroek",
+    "city_ascii": "Willebroek",
+    "admin_name": "Flanders",
+    "lat": "51.0667",
+    "lng": "4.3667",
+    "id": "1056186071"
+  },
+  {
+    "city": "Flémalle-Haute",
+    "city_ascii": "Flemalle-Haute",
+    "admin_name": "Wallonia",
+    "lat": "50.6011",
+    "lng": "5.4628",
+    "id": "1056508801"
+  },
+  {
+    "city": "Mortsel",
+    "city_ascii": "Mortsel",
+    "admin_name": "Flanders",
+    "lat": "51.1667",
+    "lng": "4.4667",
+    "id": "1056283690"
+  },
+  {
+    "city": "Gembloux",
+    "city_ascii": "Gembloux",
+    "admin_name": "Wallonia",
+    "lat": "50.5610",
+    "lng": "4.6970",
+    "id": "1056071343"
+  },
+  {
+    "city": "Tubize",
+    "city_ascii": "Tubize",
+    "admin_name": "Wallonia",
+    "lat": "50.6930",
+    "lng": "4.2047",
+    "id": "1056180721"
+  },
+  {
+    "city": "Lanaken",
+    "city_ascii": "Lanaken",
+    "admin_name": "Flanders",
+    "lat": "50.8925",
+    "lng": "5.6497",
+    "id": "1056538435"
+  },
+  {
+    "city": "Wetteren",
+    "city_ascii": "Wetteren",
+    "admin_name": "Flanders",
+    "lat": "51.0000",
+    "lng": "3.8833",
+    "id": "1056973131"
+  },
+  {
+    "city": "Oupeye",
+    "city_ascii": "Oupeye",
+    "admin_name": "Wallonia",
+    "lat": "50.7100",
+    "lng": "5.6449",
+    "id": "1056414303"
+  },
+  {
+    "city": "Ganshoren",
+    "city_ascii": "Ganshoren",
+    "admin_name": "Brussels-Capital Region",
+    "lat": "50.8667",
+    "lng": "4.3167",
+    "id": "1056018953"
+  },
+  {
+    "city": "Maaseik",
+    "city_ascii": "Maaseik",
+    "admin_name": "Flanders",
+    "lat": "51.1019",
+    "lng": "5.7856",
+    "id": "1056459643"
+  },
+  {
+    "city": "Overijse",
+    "city_ascii": "Overijse",
+    "admin_name": "Flanders",
+    "lat": "50.7751",
+    "lng": "4.5372",
+    "id": "1056558887"
+  },
+  {
+    "city": "Beersel",
+    "city_ascii": "Beersel",
+    "admin_name": "Flanders",
+    "lat": "50.7667",
+    "lng": "4.3000",
+    "id": "1056689003"
+  },
+  {
+    "city": "Westerlo",
+    "city_ascii": "Westerlo",
+    "admin_name": "Flanders",
+    "lat": "51.0897",
+    "lng": "4.9153",
+    "id": "1056672480"
+  },
+  {
+    "city": "Hamme",
+    "city_ascii": "Hamme",
+    "admin_name": "Flanders",
+    "lat": "51.0833",
+    "lng": "4.1333",
+    "id": "1056862264"
+  },
+  {
+    "city": "Merelbeke",
+    "city_ascii": "Merelbeke",
+    "admin_name": "Flanders",
+    "lat": "51.0000",
+    "lng": "3.7500",
+    "id": "1056415717"
+  },
+  {
+    "city": "Zwevegem",
+    "city_ascii": "Zwevegem",
+    "admin_name": "Flanders",
+    "lat": "50.8000",
+    "lng": "3.3333",
+    "id": "1056326453"
+  },
+  {
+    "city": "Saint-Nicolas",
+    "city_ascii": "Saint-Nicolas",
+    "admin_name": "Wallonia",
+    "lat": "50.6302",
+    "lng": "5.5373",
+    "id": "1056730951"
+  },
+  {
+    "city": "Montegnée",
+    "city_ascii": "Montegnee",
+    "admin_name": "Wallonia",
+    "lat": "50.6333",
+    "lng": "5.5333",
+    "id": "1056874689"
+  },
+  {
+    "city": "Diest",
+    "city_ascii": "Diest",
+    "admin_name": "Flanders",
+    "lat": "50.9847",
+    "lng": "5.0514",
+    "id": "1056065349"
+  },
+  {
+    "city": "Maldegem",
+    "city_ascii": "Maldegem",
+    "admin_name": "Flanders",
+    "lat": "51.2000",
+    "lng": "3.4333",
+    "id": "1056438653"
+  },
+  {
+    "city": "Oostkamp",
+    "city_ascii": "Oostkamp",
+    "admin_name": "Flanders",
+    "lat": "51.1500",
+    "lng": "3.2333",
+    "id": "1056412742"
+  },
+  {
+    "city": "Heverlee",
+    "city_ascii": "Heverlee",
+    "admin_name": "Flanders",
+    "lat": "50.8600",
+    "lng": "4.6900",
+    "id": "1056173324"
+  },
+  {
+    "city": "Saint-Ghislain",
+    "city_ascii": "Saint-Ghislain",
+    "admin_name": "Wallonia",
+    "lat": "50.4500",
+    "lng": "3.8167",
+    "id": "1056129350"
+  },
+  {
+    "city": "Zemst",
+    "city_ascii": "Zemst",
+    "admin_name": "Flanders",
+    "lat": "50.9722",
+    "lng": "4.4222",
+    "id": "1056199870"
+  },
+  {
+    "city": "Manage",
+    "city_ascii": "Manage",
+    "admin_name": "Wallonia",
+    "lat": "50.5000",
+    "lng": "4.2333",
+    "id": "1056832632"
+  },
+  {
+    "city": "Scherpenheuvel",
+    "city_ascii": "Scherpenheuvel",
+    "admin_name": "Flanders",
+    "lat": "50.9797",
+    "lng": "4.9764",
+    "id": "1056346547"
+  },
+  {
+    "city": "Nijlen",
+    "city_ascii": "Nijlen",
+    "admin_name": "Flanders",
+    "lat": "51.1611",
+    "lng": "4.6703",
+    "id": "1056215628"
+  },
+  {
+    "city": "Marcinelle",
+    "city_ascii": "Marcinelle",
+    "admin_name": "Wallonia",
+    "lat": "50.3992",
+    "lng": "4.4469",
+    "id": "1056671258"
+  },
+  {
+    "city": "Ekeren",
+    "city_ascii": "Ekeren",
+    "admin_name": "Flanders",
+    "lat": "51.2833",
+    "lng": "4.4167",
+    "id": "1056130684"
+  },
+  {
+    "city": "Balen",
+    "city_ascii": "Balen",
+    "admin_name": "Flanders",
+    "lat": "51.1708",
+    "lng": "5.1697",
+    "id": "1056866817"
+  },
+  {
+    "city": "Zedelgem",
+    "city_ascii": "Zedelgem",
+    "admin_name": "Flanders",
+    "lat": "51.1333",
+    "lng": "3.1333",
+    "id": "1056608404"
+  },
+  {
+    "city": "Fleurus",
+    "city_ascii": "Fleurus",
+    "admin_name": "Wallonia",
+    "lat": "50.4843",
+    "lng": "4.5518",
+    "id": "1056660744"
+  },
+  {
+    "city": "Rixensart",
+    "city_ascii": "Rixensart",
+    "admin_name": "Wallonia",
+    "lat": "50.7167",
+    "lng": "4.5333",
+    "id": "1056643005"
+  },
+  {
+    "city": "Lochristi",
+    "city_ascii": "Lochristi",
+    "admin_name": "Flanders",
+    "lat": "51.1000",
+    "lng": "3.8333",
+    "id": "1056543917"
+  },
+  {
+    "city": "Braine-le-Comte",
+    "city_ascii": "Braine-le-Comte",
+    "admin_name": "Wallonia",
+    "lat": "50.6000",
+    "lng": "4.1333",
+    "id": "1056000009"
+  },
+  {
+    "city": "Edegem",
+    "city_ascii": "Edegem",
+    "admin_name": "Flanders",
+    "lat": "51.1500",
+    "lng": "4.4500",
+    "id": "1056844359"
+  },
+  {
+    "city": "Tervuren",
+    "city_ascii": "Tervuren",
+    "admin_name": "Flanders",
+    "lat": "50.8167",
+    "lng": "4.5000",
+    "id": "1056221910"
+  },
+  {
+    "city": "Koekelberg",
+    "city_ascii": "Koekelberg",
+    "admin_name": "Brussels-Capital Region",
+    "lat": "50.8667",
+    "lng": "4.3333",
+    "id": "1056006015"
+  },
+  {
+    "city": "Koksijde",
+    "city_ascii": "Koksijde",
+    "admin_name": "Flanders",
+    "lat": "51.1000",
+    "lng": "2.6500",
+    "id": "1056544281"
+  },
+  {
+    "city": "Frameries",
+    "city_ascii": "Frameries",
+    "admin_name": "Wallonia",
+    "lat": "50.4088",
+    "lng": "3.8906",
+    "id": "1056190283"
+  },
+  {
+    "city": "Zoersel",
+    "city_ascii": "Zoersel",
+    "admin_name": "Flanders",
+    "lat": "51.2675",
+    "lng": "4.7126",
+    "id": "1056874458"
+  },
+  {
+    "city": "Herent",
+    "city_ascii": "Herent",
+    "admin_name": "Flanders",
+    "lat": "50.9081",
+    "lng": "4.6706",
+    "id": "1056180575"
+  },
+  {
+    "city": "Hoogstraten",
+    "city_ascii": "Hoogstraten",
+    "admin_name": "Flanders",
+    "lat": "51.4008",
+    "lng": "4.7611",
+    "id": "1056021828"
+  },
+  {
+    "city": "Bornem",
+    "city_ascii": "Bornem",
+    "admin_name": "Flanders",
+    "lat": "51.1000",
+    "lng": "4.2333",
+    "id": "1056491633"
+  },
+  {
+    "city": "Huy",
+    "city_ascii": "Huy",
+    "admin_name": "Wallonia",
+    "lat": "50.5201",
+    "lng": "5.2375",
+    "id": "1056597064"
+  },
+  {
+    "city": "Zonhoven",
+    "city_ascii": "Zonhoven",
+    "admin_name": "Flanders",
+    "lat": "50.9914",
+    "lng": "5.3709",
+    "id": "1056182511"
+  },
+  {
+    "city": "Kontich",
+    "city_ascii": "Kontich",
+    "admin_name": "Flanders",
+    "lat": "51.1333",
+    "lng": "4.4500",
+    "id": "1056241765"
+  },
+  {
+    "city": "Zele",
+    "city_ascii": "Zele",
+    "admin_name": "Flanders",
+    "lat": "51.0667",
+    "lng": "4.0333",
+    "id": "1056909340"
+  },
+  {
+    "city": "Chaudfontaine",
+    "city_ascii": "Chaudfontaine",
+    "admin_name": "Wallonia",
+    "lat": "50.5818",
+    "lng": "5.6340",
+    "id": "1056159261"
+  },
+  {
+    "city": "Eeklo",
+    "city_ascii": "Eeklo",
+    "admin_name": "Flanders",
+    "lat": "51.1833",
+    "lng": "3.5500",
+    "id": "1056979321"
+  },
+  {
+    "city": "Sint-Katelijne-Waver",
+    "city_ascii": "Sint-Katelijne-Waver",
+    "admin_name": "Flanders",
+    "lat": "51.0667",
+    "lng": "4.5333",
+    "id": "1056641832"
+  },
+  {
+    "city": "Colfontaine",
+    "city_ascii": "Colfontaine",
+    "admin_name": "Wallonia",
+    "lat": "50.4138",
+    "lng": "3.8555",
+    "id": "1056047515"
+  },
+  {
+    "city": "Wuustwezel",
+    "city_ascii": "Wuustwezel",
+    "admin_name": "Flanders",
+    "lat": "51.3922",
+    "lng": "4.5942",
+    "id": "1056525110"
+  },
+  {
+    "city": "Torhout",
+    "city_ascii": "Torhout",
+    "admin_name": "Flanders",
+    "lat": "51.0500",
+    "lng": "3.1000",
+    "id": "1056225493"
+  },
+  {
+    "city": "Tielt",
+    "city_ascii": "Tielt",
+    "admin_name": "Flanders",
+    "lat": "51.0000",
+    "lng": "3.3167",
+    "id": "1056782112"
+  },
+  {
+    "city": "Blankenberge",
+    "city_ascii": "Blankenberge",
+    "admin_name": "Flanders",
+    "lat": "51.3000",
+    "lng": "3.1167",
+    "id": "1056155354"
+  },
+  {
+    "city": "Kortenberg",
+    "city_ascii": "Kortenberg",
+    "admin_name": "Flanders",
+    "lat": "50.8865",
+    "lng": "4.5412",
+    "id": "1056214918"
+  },
+  {
+    "city": "Denderleeuw",
+    "city_ascii": "Denderleeuw",
+    "admin_name": "Flanders",
+    "lat": "50.8833",
+    "lng": "4.0667",
+    "id": "1056940491"
+  },
+  {
+    "city": "Boussu",
+    "city_ascii": "Boussu",
+    "admin_name": "Wallonia",
+    "lat": "50.4331",
+    "lng": "3.7961",
+    "id": "1056992402"
+  },
+  {
+    "city": "Sint-Andries",
+    "city_ascii": "Sint-Andries",
+    "admin_name": "Flanders",
+    "lat": "51.1972",
+    "lng": "3.1803",
+    "id": "1056152263"
+  },
+  {
+    "city": "Poperinge",
+    "city_ascii": "Poperinge",
+    "admin_name": "Flanders",
+    "lat": "50.8500",
+    "lng": "2.7333",
+    "id": "1056648990"
+  },
+  {
+    "city": "Assebroek",
+    "city_ascii": "Assebroek",
+    "admin_name": "Flanders",
+    "lat": "51.1964",
+    "lng": "3.2536",
+    "id": "1056722855"
+  },
+  {
+    "city": "Schilde",
+    "city_ascii": "Schilde",
+    "admin_name": "Flanders",
+    "lat": "51.2389",
+    "lng": "4.5815",
+    "id": "1056448493"
+  },
+  {
+    "city": "Eupen",
+    "city_ascii": "Eupen",
+    "admin_name": "Wallonia",
+    "lat": "50.6333",
+    "lng": "6.0333",
+    "id": "1056584006"
+  },
+  {
+    "city": "Middelkerke",
+    "city_ascii": "Middelkerke",
+    "admin_name": "Flanders",
+    "lat": "51.1833",
+    "lng": "2.8167",
+    "id": "1056231349"
+  },
+  {
+    "city": "Sint-Gillis-Waas",
+    "city_ascii": "Sint-Gillis-Waas",
+    "admin_name": "Flanders",
+    "lat": "51.2167",
+    "lng": "4.1167",
+    "id": "1056149557"
+  },
+  {
+    "city": "Lebbeke",
+    "city_ascii": "Lebbeke",
+    "admin_name": "Flanders",
+    "lat": "51.0000",
+    "lng": "4.1167",
+    "id": "1056292516"
+  },
+  {
+    "city": "Ranst",
+    "city_ascii": "Ranst",
+    "admin_name": "Flanders",
+    "lat": "51.1896",
+    "lng": "4.5634",
+    "id": "1056004847"
+  },
+  {
+    "city": "Meise",
+    "city_ascii": "Meise",
+    "admin_name": "Flanders",
+    "lat": "50.9333",
+    "lng": "4.3333",
+    "id": "1056974860"
+  },
+  {
+    "city": "Essen",
+    "city_ascii": "Essen",
+    "admin_name": "Flanders",
+    "lat": "51.4667",
+    "lng": "4.4667",
+    "id": "1056694919"
+  },
+  {
+    "city": "Diepenbeek",
+    "city_ascii": "Diepenbeek",
+    "admin_name": "Flanders",
+    "lat": "50.9072",
+    "lng": "5.4175",
+    "id": "1056573577"
+  },
+  {
+    "city": "Wervik",
+    "city_ascii": "Wervik",
+    "admin_name": "Flanders",
+    "lat": "50.7833",
+    "lng": "3.0333",
+    "id": "1056938335"
+  },
+  {
+    "city": "Morlanwelz-Mariemont",
+    "city_ascii": "Morlanwelz-Mariemont",
+    "admin_name": "Wallonia",
+    "lat": "50.4500",
+    "lng": "4.2333",
+    "id": "1056514399"
+  },
+  {
+    "city": "Quaregnon",
+    "city_ascii": "Quaregnon",
+    "admin_name": "Wallonia",
+    "lat": "50.4417",
+    "lng": "3.8670",
+    "id": "1056660273"
+  },
+  {
+    "city": "Zwijndrecht",
+    "city_ascii": "Zwijndrecht",
+    "admin_name": "Flanders",
+    "lat": "51.2167",
+    "lng": "4.3333",
+    "id": "1056749597"
+  },
+  {
+    "city": "Kasterlee",
+    "city_ascii": "Kasterlee",
+    "admin_name": "Flanders",
+    "lat": "51.2407",
+    "lng": "4.9669",
+    "id": "1056843375"
+  },
+  {
+    "city": "Kalmthout",
+    "city_ascii": "Kalmthout",
+    "admin_name": "Flanders",
+    "lat": "51.3833",
+    "lng": "4.4667",
+    "id": "1056545149"
+  },
+  {
+    "city": "Lede",
+    "city_ascii": "Lede",
+    "admin_name": "Flanders",
+    "lat": "50.9667",
+    "lng": "3.9833",
+    "id": "1056629611"
+  },
+  {
+    "city": "Londerzeel",
+    "city_ascii": "Londerzeel",
+    "admin_name": "Flanders",
+    "lat": "51.0000",
+    "lng": "4.3000",
+    "id": "1056504817"
+  },
+  {
+    "city": "Boom",
+    "city_ascii": "Boom",
+    "admin_name": "Flanders",
+    "lat": "51.0833",
+    "lng": "4.3667",
+    "id": "1056928401"
+  },
+  {
+    "city": "Lessines",
+    "city_ascii": "Lessines",
+    "admin_name": "Wallonia",
+    "lat": "50.7167",
+    "lng": "3.8333",
+    "id": "1056283764"
+  },
+  {
+    "city": "Stabroek",
+    "city_ascii": "Stabroek",
+    "admin_name": "Flanders",
+    "lat": "51.3333",
+    "lng": "4.3667",
+    "id": "1056032515"
+  },
+  {
+    "city": "Tessenderlo",
+    "city_ascii": "Tessenderlo",
+    "admin_name": "Flanders",
+    "lat": "51.0679",
+    "lng": "5.0891",
+    "id": "1056426796"
+  },
+  {
+    "city": "Haaltert",
+    "city_ascii": "Haaltert",
+    "admin_name": "Flanders",
+    "lat": "50.9000",
+    "lng": "4.0000",
+    "id": "1056802735"
+  },
+  {
+    "city": "Walcourt",
+    "city_ascii": "Walcourt",
+    "admin_name": "Wallonia",
+    "lat": "50.2534",
+    "lng": "4.4347",
+    "id": "1056075775"
+  },
+  {
+    "city": "Stekene",
+    "city_ascii": "Stekene",
+    "admin_name": "Flanders",
+    "lat": "51.2000",
+    "lng": "4.0333",
+    "id": "1056000195"
+  },
+  {
+    "city": "Sint-Genesius-Rode",
+    "city_ascii": "Sint-Genesius-Rode",
+    "admin_name": "Flanders",
+    "lat": "50.7500",
+    "lng": "4.3500",
+    "id": "1056326710"
+  },
+  {
+    "city": "Beerse",
+    "city_ascii": "Beerse",
+    "admin_name": "Flanders",
+    "lat": "51.3191",
+    "lng": "4.8555",
+    "id": "1056431058"
+  },
+  {
+    "city": "Destelbergen",
+    "city_ascii": "Destelbergen",
+    "admin_name": "Flanders",
+    "lat": "51.0500",
+    "lng": "3.8000",
+    "id": "1056444494"
+  },
+  {
+    "city": "Bredene",
+    "city_ascii": "Bredene",
+    "admin_name": "Flanders",
+    "lat": "51.2333",
+    "lng": "2.9667",
+    "id": "1056554205"
+  },
+  {
+    "city": "Fontaine-l’Évêque",
+    "city_ascii": "Fontaine-l'Eveque",
+    "admin_name": "Wallonia",
+    "lat": "50.4092",
+    "lng": "4.3242",
+    "id": "1056623225"
+  },
+  {
+    "city": "Visé",
+    "city_ascii": "Vise",
+    "admin_name": "Wallonia",
+    "lat": "50.7370",
+    "lng": "5.6958",
+    "id": "1056336313"
+  },
+  {
+    "city": "Herzele",
+    "city_ascii": "Herzele",
+    "admin_name": "Flanders",
+    "lat": "50.8833",
+    "lng": "3.8833",
+    "id": "1056826596"
+  },
+  {
+    "city": "Duffel",
+    "city_ascii": "Duffel",
+    "admin_name": "Flanders",
+    "lat": "51.0957",
+    "lng": "4.5056",
+    "id": "1056716373"
+  },
+  {
+    "city": "Herve",
+    "city_ascii": "Herve",
+    "admin_name": "Wallonia",
+    "lat": "50.6394",
+    "lng": "5.7942",
+    "id": "1056779487"
+  },
+  {
+    "city": "Neder-Over-Heembeek",
+    "city_ascii": "Neder-Over-Heembeek",
+    "admin_name": "Brussels-Capital Region",
+    "lat": "50.9000",
+    "lng": "4.3833",
+    "id": "1056378627"
+  },
+  {
+    "city": "Putte",
+    "city_ascii": "Putte",
+    "admin_name": "Flanders",
+    "lat": "51.0566",
+    "lng": "4.6292",
+    "id": "1056061719"
+  },
+  {
+    "city": "Marche-en-Famenne",
+    "city_ascii": "Marche-en-Famenne",
+    "admin_name": "Wallonia",
+    "lat": "50.2266",
+    "lng": "5.3437",
+    "id": "1056302403"
+  },
+  {
+    "city": "Puurs",
+    "city_ascii": "Puurs",
+    "admin_name": "Flanders",
+    "lat": "51.0761",
+    "lng": "4.2803",
+    "id": "1056438332"
+  },
+  {
+    "city": "Pont-à-Celles",
+    "city_ascii": "Pont-a-Celles",
+    "admin_name": "Wallonia",
+    "lat": "50.5000",
+    "lng": "4.3500",
+    "id": "1056160831"
+  },
+  {
+    "city": "Mariakerke",
+    "city_ascii": "Mariakerke",
+    "admin_name": "Flanders",
+    "lat": "51.0728",
+    "lng": "3.6761",
+    "id": "1056784133"
+  },
+  {
+    "city": "Neerpelt",
+    "city_ascii": "Neerpelt",
+    "admin_name": "Flanders",
+    "lat": "51.2272",
+    "lng": "5.4317",
+    "id": "1056445796"
+  },
+  {
+    "city": "Péruwelz",
+    "city_ascii": "Peruwelz",
+    "admin_name": "Wallonia",
+    "lat": "50.5167",
+    "lng": "3.5833",
+    "id": "1056806547"
+  },
+  {
+    "city": "Wondelgem",
+    "city_ascii": "Wondelgem",
+    "admin_name": "Flanders",
+    "lat": "51.0889",
+    "lng": "3.7131",
+    "id": "1056981406"
+  },
+  {
+    "city": "Aubange",
+    "city_ascii": "Aubange",
+    "admin_name": "Wallonia",
+    "lat": "49.5667",
+    "lng": "5.8050",
+    "id": "1056280555"
+  },
+  {
+    "city": "Soumagne",
+    "city_ascii": "Soumagne",
+    "admin_name": "Wallonia",
+    "lat": "50.6124",
+    "lng": "5.7469",
+    "id": "1056664546"
+  },
+  {
+    "city": "Diksmuide",
+    "city_ascii": "Diksmuide",
+    "admin_name": "Flanders",
+    "lat": "51.0333",
+    "lng": "2.8650",
+    "id": "1056661894"
+  },
+  {
+    "city": "Dour",
+    "city_ascii": "Dour",
+    "admin_name": "Wallonia",
+    "lat": "50.3979",
+    "lng": "3.7807",
+    "id": "1056826139"
+  },
+  {
+    "city": "Rotselaar",
+    "city_ascii": "Rotselaar",
+    "admin_name": "Flanders",
+    "lat": "50.9511",
+    "lng": "4.7108",
+    "id": "1056082095"
+  },
+  {
+    "city": "Riemst",
+    "city_ascii": "Riemst",
+    "admin_name": "Flanders",
+    "lat": "50.8089",
+    "lng": "5.6019",
+    "id": "1056578404"
+  },
+  {
+    "city": "Kruibeke",
+    "city_ascii": "Kruibeke",
+    "admin_name": "Flanders",
+    "lat": "51.1667",
+    "lng": "4.3000",
+    "id": "1056526528"
+  },
+  {
+    "city": "Lille",
+    "city_ascii": "Lille",
+    "admin_name": "Flanders",
+    "lat": "51.2383",
+    "lng": "4.8242",
+    "id": "1056651207"
+  },
+  {
+    "city": "Ledeberg",
+    "city_ascii": "Ledeberg",
+    "admin_name": "Flanders",
+    "lat": "51.0375",
+    "lng": "3.7425",
+    "id": "1056431680"
+  },
+  {
+    "city": "Fléron",
+    "city_ascii": "Fleron",
+    "admin_name": "Wallonia",
+    "lat": "50.6167",
+    "lng": "5.6833",
+    "id": "1056005769"
+  },
+  {
+    "city": "Ciney",
+    "city_ascii": "Ciney",
+    "admin_name": "Wallonia",
+    "lat": "50.2963",
+    "lng": "5.1007",
+    "id": "1056079204"
+  },
+  {
+    "city": "Hannut",
+    "city_ascii": "Hannut",
+    "admin_name": "Wallonia",
+    "lat": "50.6720",
+    "lng": "5.0781",
+    "id": "1056196454"
+  },
+  {
+    "city": "Peer",
+    "city_ascii": "Peer",
+    "admin_name": "Flanders",
+    "lat": "51.1330",
+    "lng": "5.4530",
+    "id": "1056050741"
+  },
+  {
+    "city": "Wemmel",
+    "city_ascii": "Wemmel",
+    "admin_name": "Flanders",
+    "lat": "50.9078",
+    "lng": "4.3067",
+    "id": "1056649043"
+  },
+  {
+    "city": "Bree",
+    "city_ascii": "Bree",
+    "admin_name": "Flanders",
+    "lat": "51.1414",
+    "lng": "5.5980",
+    "id": "1056304554"
+  },
+  {
+    "city": "Merchtem",
+    "city_ascii": "Merchtem",
+    "admin_name": "Flanders",
+    "lat": "50.9667",
+    "lng": "4.2333",
+    "id": "1056962343"
+  },
+  {
+    "city": "Éghezée",
+    "city_ascii": "Eghezee",
+    "admin_name": "Wallonia",
+    "lat": "50.5925",
+    "lng": "4.9104",
+    "id": "1056285363"
+  },
+  {
+    "city": "Landen",
+    "city_ascii": "Landen",
+    "admin_name": "Flanders",
+    "lat": "50.7547",
+    "lng": "5.0814",
+    "id": "1056582232"
+  },
+  {
+    "city": "Gentbrugge",
+    "city_ascii": "Gentbrugge",
+    "admin_name": "Flanders",
+    "lat": "51.0314",
+    "lng": "3.7642",
+    "id": "1056464201"
+  },
+  {
+    "city": "Bastogne",
+    "city_ascii": "Bastogne",
+    "admin_name": "Wallonia",
+    "lat": "50.0042",
+    "lng": "5.7200",
+    "id": "1056747497"
+  },
+  {
+    "city": "Sint-Kruis",
+    "city_ascii": "Sint-Kruis",
+    "admin_name": "Flanders",
+    "lat": "51.2139",
+    "lng": "3.2503",
+    "id": "1056830939"
+  },
+  {
+    "city": "Zulte",
+    "city_ascii": "Zulte",
+    "admin_name": "Flanders",
+    "lat": "50.9167",
+    "lng": "3.4333",
+    "id": "1056878448"
+  },
+  {
+    "city": "Beernem",
+    "city_ascii": "Beernem",
+    "admin_name": "Flanders",
+    "lat": "51.1333",
+    "lng": "3.3333",
+    "id": "1056159118"
+  },
+  {
+    "city": "Leopoldsburg",
+    "city_ascii": "Leopoldsburg",
+    "admin_name": "Flanders",
+    "lat": "51.1177",
+    "lng": "5.2541",
+    "id": "1056277308"
+  },
+  {
+    "city": "Bissegem",
+    "city_ascii": "Bissegem",
+    "admin_name": "Flanders",
+    "lat": "50.8167",
+    "lng": "3.2167",
+    "id": "1056902569"
+  },
+  {
+    "city": "Ternat",
+    "city_ascii": "Ternat",
+    "admin_name": "Flanders",
+    "lat": "50.8667",
+    "lng": "4.1833",
+    "id": "1056099349"
+  },
+  {
+    "city": "Overpelt",
+    "city_ascii": "Overpelt",
+    "admin_name": "Flanders",
+    "lat": "51.2111",
+    "lng": "5.4256",
+    "id": "1056903151"
+  },
+  {
+    "city": "Machelen",
+    "city_ascii": "Machelen",
+    "admin_name": "Flanders",
+    "lat": "50.9167",
+    "lng": "4.4333",
+    "id": "1056477677"
+  },
+  {
+    "city": "Dison",
+    "city_ascii": "Dison",
+    "admin_name": "Wallonia",
+    "lat": "50.6098",
+    "lng": "5.8543",
+    "id": "1056512338"
+  },
+  {
+    "city": "Genappe",
+    "city_ascii": "Genappe",
+    "admin_name": "Wallonia",
+    "lat": "50.6000",
+    "lng": "4.4500",
+    "id": "1056101881"
+  },
+  {
+    "city": "Waremme",
+    "city_ascii": "Waremme",
+    "admin_name": "Wallonia",
+    "lat": "50.6967",
+    "lng": "5.2569",
+    "id": "1056180426"
+  },
+  {
+    "city": "Rumst",
+    "city_ascii": "Rumst",
+    "admin_name": "Flanders",
+    "lat": "51.0833",
+    "lng": "4.4167",
+    "id": "1056887516"
+  },
+  {
+    "city": "Bonheiden",
+    "city_ascii": "Bonheiden",
+    "admin_name": "Flanders",
+    "lat": "51.0224",
+    "lng": "4.5479",
+    "id": "1056704706"
+  },
+  {
+    "city": "Chapelle-lez-Herlaimont",
+    "city_ascii": "Chapelle-lez-Herlaimont",
+    "admin_name": "Wallonia",
+    "lat": "50.4667",
+    "lng": "4.2833",
+    "id": "1056800453"
+  },
+  {
+    "city": "Ravels",
+    "city_ascii": "Ravels",
+    "admin_name": "Flanders",
+    "lat": "51.3708",
+    "lng": "4.9926",
+    "id": "1056915524"
+  },
+  {
+    "city": "Berlare",
+    "city_ascii": "Berlare",
+    "admin_name": "Flanders",
+    "lat": "51.0250",
+    "lng": "4.0025",
+    "id": "1056435659"
+  },
+  {
+    "city": "Tremelo",
+    "city_ascii": "Tremelo",
+    "admin_name": "Flanders",
+    "lat": "50.9918",
+    "lng": "4.7039",
+    "id": "1056959552"
+  },
+  {
+    "city": "Lummen",
+    "city_ascii": "Lummen",
+    "admin_name": "Flanders",
+    "lat": "50.9862",
+    "lng": "5.1927",
+    "id": "1056359094"
+  },
+  {
+    "city": "Thuin",
+    "city_ascii": "Thuin",
+    "admin_name": "Wallonia",
+    "lat": "50.3398",
+    "lng": "4.2874",
+    "id": "1056107614"
+  },
+  {
+    "city": "Sprimont",
+    "city_ascii": "Sprimont",
+    "admin_name": "Wallonia",
+    "lat": "50.5053",
+    "lng": "5.6618",
+    "id": "1056261345"
+  },
+  {
+    "city": "Anzegem",
+    "city_ascii": "Anzegem",
+    "admin_name": "Flanders",
+    "lat": "50.8333",
+    "lng": "3.4667",
+    "id": "1056104188"
+  },
+  {
+    "city": "Herselt",
+    "city_ascii": "Herselt",
+    "admin_name": "Flanders",
+    "lat": "51.0537",
+    "lng": "4.8828",
+    "id": "1056803578"
+  },
+  {
+    "city": "Buggenhout",
+    "city_ascii": "Buggenhout",
+    "admin_name": "Flanders",
+    "lat": "51.0000",
+    "lng": "4.2000",
+    "id": "1056466298"
+  },
+  {
+    "city": "Haacht",
+    "city_ascii": "Haacht",
+    "admin_name": "Flanders",
+    "lat": "50.9770",
+    "lng": "4.6384",
+    "id": "1056601741"
+  },
+  {
+    "city": "Aartselaar",
+    "city_ascii": "Aartselaar",
+    "admin_name": "Flanders",
+    "lat": "51.1333",
+    "lng": "4.3833",
+    "id": "1056119316"
+  },
+  {
+    "city": "Lubbeek",
+    "city_ascii": "Lubbeek",
+    "admin_name": "Flanders",
+    "lat": "50.8817",
+    "lng": "4.8414",
+    "id": "1056043837"
+  },
+  {
+    "city": "Opwijk",
+    "city_ascii": "Opwijk",
+    "admin_name": "Flanders",
+    "lat": "50.9667",
+    "lng": "4.1833",
+    "id": "1056667924"
+  },
+  {
+    "city": "Amay",
+    "city_ascii": "Amay",
+    "admin_name": "Wallonia",
+    "lat": "50.5478",
+    "lng": "5.3192",
+    "id": "1056317273"
+  },
+  {
+    "city": "Wingene",
+    "city_ascii": "Wingene",
+    "admin_name": "Flanders",
+    "lat": "51.0500",
+    "lng": "3.2667",
+    "id": "1056221494"
+  },
+  {
+    "city": "Assenede",
+    "city_ascii": "Assenede",
+    "admin_name": "Flanders",
+    "lat": "51.2333",
+    "lng": "3.7500",
+    "id": "1056796526"
+  },
+  {
+    "city": "Jodoigne",
+    "city_ascii": "Jodoigne",
+    "admin_name": "Wallonia",
+    "lat": "50.7276",
+    "lng": "4.8723",
+    "id": "1056984728"
+  },
+  {
+    "city": "Oostakker",
+    "city_ascii": "Oostakker",
+    "admin_name": "Flanders",
+    "lat": "51.1003",
+    "lng": "3.7633",
+    "id": "1056882866"
+  },
+  {
+    "city": "Beloeil",
+    "city_ascii": "Beloeil",
+    "admin_name": "Wallonia",
+    "lat": "50.5333",
+    "lng": "3.7167",
+    "id": "1056697952"
+  },
+  {
+    "city": "Wezembeek-Oppem",
+    "city_ascii": "Wezembeek-Oppem",
+    "admin_name": "Flanders",
+    "lat": "50.8442",
+    "lng": "4.4872",
+    "id": "1056614570"
+  },
+  {
+    "city": "Oud-Turnhout",
+    "city_ascii": "Oud-Turnhout",
+    "admin_name": "Flanders",
+    "lat": "51.3180",
+    "lng": "4.9823",
+    "id": "1056409500"
+  },
+  {
+    "city": "Ichtegem",
+    "city_ascii": "Ichtegem",
+    "admin_name": "Flanders",
+    "lat": "51.0928",
+    "lng": "3.0106",
+    "id": "1056000402"
+  },
+  {
+    "city": "Jabbeke",
+    "city_ascii": "Jabbeke",
+    "admin_name": "Flanders",
+    "lat": "51.1500",
+    "lng": "3.2333",
+    "id": "1056724213"
+  },
+  {
+    "city": "Couvin",
+    "city_ascii": "Couvin",
+    "admin_name": "Wallonia",
+    "lat": "50.0519",
+    "lng": "4.4961",
+    "id": "1056064147"
+  },
+  {
+    "city": "Enghien",
+    "city_ascii": "Enghien",
+    "admin_name": "Wallonia",
+    "lat": "50.6956",
+    "lng": "4.0411",
+    "id": "1056884890"
+  },
+  {
+    "city": "Kraainem",
+    "city_ascii": "Kraainem",
+    "admin_name": "Flanders",
+    "lat": "50.8667",
+    "lng": "4.4667",
+    "id": "1056363403"
+  },
+  {
+    "city": "Wanze",
+    "city_ascii": "Wanze",
+    "admin_name": "Wallonia",
+    "lat": "50.5353",
+    "lng": "5.2133",
+    "id": "1056151767"
+  },
+  {
+    "city": "Oosterzele",
+    "city_ascii": "Oosterzele",
+    "admin_name": "Flanders",
+    "lat": "50.9500",
+    "lng": "3.8000",
+    "id": "1056179626"
+  },
+  {
+    "city": "Dinant",
+    "city_ascii": "Dinant",
+    "admin_name": "Wallonia",
+    "lat": "50.2600",
+    "lng": "4.9101",
+    "id": "1056337712"
+  },
+  {
+    "city": "Boechout",
+    "city_ascii": "Boechout",
+    "admin_name": "Flanders",
+    "lat": "51.1594",
+    "lng": "4.4923",
+    "id": "1056225265"
+  },
+  {
+    "city": "Grez-Doiceau",
+    "city_ascii": "Grez-Doiceau",
+    "admin_name": "Wallonia",
+    "lat": "50.7333",
+    "lng": "4.7000",
+    "id": "1056606953"
+  },
+  {
+    "city": "Kuurne",
+    "city_ascii": "Kuurne",
+    "admin_name": "Flanders",
+    "lat": "50.8500",
+    "lng": "3.2833",
+    "id": "1056459162"
+  },
+  {
+    "city": "Arendonk",
+    "city_ascii": "Arendonk",
+    "admin_name": "Flanders",
+    "lat": "51.3226",
+    "lng": "5.0845",
+    "id": "1056153119"
+  },
+  {
+    "city": "Blegny",
+    "city_ascii": "Blegny",
+    "admin_name": "Wallonia",
+    "lat": "50.6667",
+    "lng": "5.7333",
+    "id": "1056021214"
+  },
+  {
+    "city": "Liedekerke",
+    "city_ascii": "Liedekerke",
+    "admin_name": "Flanders",
+    "lat": "50.8667",
+    "lng": "4.0833",
+    "id": "1056222350"
+  },
+  {
+    "city": "Bocholt",
+    "city_ascii": "Bocholt",
+    "admin_name": "Flanders",
+    "lat": "51.1729",
+    "lng": "5.5792",
+    "id": "1056755409"
+  },
+  {
+    "city": "Drongen",
+    "city_ascii": "Drongen",
+    "admin_name": "Flanders",
+    "lat": "51.0503",
+    "lng": "3.6628",
+    "id": "1056322707"
+  },
+  {
+    "city": "Mettet",
+    "city_ascii": "Mettet",
+    "admin_name": "Wallonia",
+    "lat": "50.3211",
+    "lng": "4.6590",
+    "id": "1056136798"
+  },
+  {
+    "city": "Zandhoven",
+    "city_ascii": "Zandhoven",
+    "admin_name": "Flanders",
+    "lat": "51.2150",
+    "lng": "4.6608",
+    "id": "1056347611"
+  },
+  {
+    "city": "Sint-Gillis-bij-Dendermonde",
+    "city_ascii": "Sint-Gillis-bij-Dendermonde",
+    "admin_name": "Flanders",
+    "lat": "51.0189",
+    "lng": "4.1058",
+    "id": "1056239926"
+  },
+  {
+    "city": "Wommelgem",
+    "city_ascii": "Wommelgem",
+    "admin_name": "Flanders",
+    "lat": "51.2031",
+    "lng": "4.5227",
+    "id": "1056798866"
+  },
+  {
+    "city": "Esneux",
+    "city_ascii": "Esneux",
+    "admin_name": "Wallonia",
+    "lat": "50.5333",
+    "lng": "5.5667",
+    "id": "1056729004"
+  },
+  {
+    "city": "Gavere",
+    "city_ascii": "Gavere",
+    "admin_name": "Flanders",
+    "lat": "50.9333",
+    "lng": "3.6667",
+    "id": "1056307465"
+  },
+  {
+    "city": "Keerbergen",
+    "city_ascii": "Keerbergen",
+    "admin_name": "Flanders",
+    "lat": "51.0031",
+    "lng": "4.6311",
+    "id": "1056257778"
+  },
+  {
+    "city": "Zelzate",
+    "city_ascii": "Zelzate",
+    "admin_name": "Flanders",
+    "lat": "51.2000",
+    "lng": "3.8167",
+    "id": "1056552955"
+  },
+  {
+    "city": "Herk-de-Stad",
+    "city_ascii": "Herk-de-Stad",
+    "admin_name": "Flanders",
+    "lat": "50.9406",
+    "lng": "5.1672",
+    "id": "1056088942"
+  },
+  {
+    "city": "Gerpinnes",
+    "city_ascii": "Gerpinnes",
+    "admin_name": "Wallonia",
+    "lat": "50.3369",
+    "lng": "4.5283",
+    "id": "1056491300"
+  },
+  {
+    "city": "Malmédy",
+    "city_ascii": "Malmedy",
+    "admin_name": "Wallonia",
+    "lat": "50.4261",
+    "lng": "6.0303",
+    "id": "1056228315"
+  },
+  {
+    "city": "De Haan",
+    "city_ascii": "De Haan",
+    "admin_name": "Flanders",
+    "lat": "51.2667",
+    "lng": "3.0333",
+    "id": "1056930293"
+  },
+  {
+    "city": "Kortemark",
+    "city_ascii": "Kortemark",
+    "admin_name": "Flanders",
+    "lat": "51.0333",
+    "lng": "3.0333",
+    "id": "1056621981"
+  },
+  {
+    "city": "Olen",
+    "city_ascii": "Olen",
+    "admin_name": "Flanders",
+    "lat": "51.1439",
+    "lng": "4.8597",
+    "id": "1056909759"
+  },
+  {
+    "city": "Rochefort",
+    "city_ascii": "Rochefort",
+    "admin_name": "Wallonia",
+    "lat": "50.1590",
+    "lng": "5.2231",
+    "id": "1056032806"
+  },
+  {
+    "city": "Laarne",
+    "city_ascii": "Laarne",
+    "admin_name": "Flanders",
+    "lat": "51.0167",
+    "lng": "3.8500",
+    "id": "1056466372"
+  },
+  {
+    "city": "Zonnebeke",
+    "city_ascii": "Zonnebeke",
+    "admin_name": "Flanders",
+    "lat": "50.8667",
+    "lng": "2.9833",
+    "id": "1056453121"
+  },
+  {
+    "city": "Sint-Michiels",
+    "city_ascii": "Sint-Michiels",
+    "admin_name": "Flanders",
+    "lat": "51.1886",
+    "lng": "3.2117",
+    "id": "1056174386"
+  },
+  {
+    "city": "Aywaille",
+    "city_ascii": "Aywaille",
+    "admin_name": "Wallonia",
+    "lat": "50.4724",
+    "lng": "5.6734",
+    "id": "1056994881"
+  },
+  {
+    "city": "Boortmeerbeek",
+    "city_ascii": "Boortmeerbeek",
+    "admin_name": "Flanders",
+    "lat": "50.9817",
+    "lng": "4.5718",
+    "id": "1056329239"
+  },
+  {
+    "city": "Veurne",
+    "city_ascii": "Veurne",
+    "admin_name": "Flanders",
+    "lat": "51.0667",
+    "lng": "2.6500",
+    "id": "1056727573"
+  },
+  {
+    "city": "Anderlues",
+    "city_ascii": "Anderlues",
+    "admin_name": "Wallonia",
+    "lat": "50.4073",
+    "lng": "4.2698",
+    "id": "1056010234"
+  },
+  {
+    "city": "Kinrooi",
+    "city_ascii": "Kinrooi",
+    "admin_name": "Flanders",
+    "lat": "51.1453",
+    "lng": "5.7409",
+    "id": "1056406187"
+  },
+  {
+    "city": "Profondeville",
+    "city_ascii": "Profondeville",
+    "admin_name": "Wallonia",
+    "lat": "50.3777",
+    "lng": "4.8692",
+    "id": "1056732493"
+  },
+  {
+    "city": "Nevele",
+    "city_ascii": "Nevele",
+    "admin_name": "Flanders",
+    "lat": "51.0333",
+    "lng": "3.5500",
+    "id": "1056686535"
+  },
+  {
+    "city": "Gistel",
+    "city_ascii": "Gistel",
+    "admin_name": "Flanders",
+    "lat": "51.1500",
+    "lng": "2.9667",
+    "id": "1056419947"
+  },
+  {
+    "city": "Steenokkerzeel",
+    "city_ascii": "Steenokkerzeel",
+    "admin_name": "Flanders",
+    "lat": "50.9188",
+    "lng": "4.5114",
+    "id": "1056649195"
+  },
+  {
+    "city": "Paal",
+    "city_ascii": "Paal",
+    "admin_name": "Flanders",
+    "lat": "51.0392",
+    "lng": "5.1728",
+    "id": "1056886583"
+  },
+  {
+    "city": "Theux",
+    "city_ascii": "Theux",
+    "admin_name": "Wallonia",
+    "lat": "50.5352",
+    "lng": "5.8132",
+    "id": "1056495369"
+  },
+  {
+    "city": "Beyne-Heusay",
+    "city_ascii": "Beyne-Heusay",
+    "admin_name": "Wallonia",
+    "lat": "50.6167",
+    "lng": "5.6500",
+    "id": "1056881685"
+  },
+  {
+    "city": "Rijkevorsel",
+    "city_ascii": "Rijkevorsel",
+    "admin_name": "Flanders",
+    "lat": "51.3489",
+    "lng": "4.7597",
+    "id": "1056525868"
+  },
+  {
+    "city": "Kampenhout",
+    "city_ascii": "Kampenhout",
+    "admin_name": "Flanders",
+    "lat": "50.9413",
+    "lng": "4.5496",
+    "id": "1056286425"
+  },
+  {
+    "city": "Bernissart",
+    "city_ascii": "Bernissart",
+    "admin_name": "Wallonia",
+    "lat": "50.4833",
+    "lng": "3.6500",
+    "id": "1056243222"
+  },
+  {
+    "city": "Deerlijk",
+    "city_ascii": "Deerlijk",
+    "admin_name": "Flanders",
+    "lat": "50.8500",
+    "lng": "3.3500",
+    "id": "1056327002"
+  },
+  {
+    "city": "Alken",
+    "city_ascii": "Alken",
+    "admin_name": "Flanders",
+    "lat": "50.8757",
+    "lng": "5.3079",
+    "id": "1056681067"
+  },
+  {
+    "city": "Chaumont-Gistoux",
+    "city_ascii": "Chaumont-Gistoux",
+    "admin_name": "Wallonia",
+    "lat": "50.6839",
+    "lng": "4.6947",
+    "id": "1056064038"
+  },
+  {
+    "city": "Berlaar",
+    "city_ascii": "Berlaar",
+    "admin_name": "Flanders",
+    "lat": "51.1179",
+    "lng": "4.6580",
+    "id": "1056259824"
+  },
+  {
+    "city": "Durbuy",
+    "city_ascii": "Durbuy",
+    "admin_name": "Wallonia",
+    "lat": "50.3523",
+    "lng": "5.4568",
+    "id": "1056196256"
+  },
+  {
+    "city": "Hemiksem",
+    "city_ascii": "Hemiksem",
+    "admin_name": "Flanders",
+    "lat": "51.1500",
+    "lng": "4.3500",
+    "id": "1056061898"
+  },
+  {
+    "city": "Wichelen",
+    "city_ascii": "Wichelen",
+    "admin_name": "Flanders",
+    "lat": "51.0000",
+    "lng": "3.9667",
+    "id": "1056534647"
+  },
+  {
+    "city": "Nazareth",
+    "city_ascii": "Nazareth",
+    "admin_name": "Flanders",
+    "lat": "50.9667",
+    "lng": "3.6000",
+    "id": "1056053458"
+  },
+  {
+    "city": "Melle",
+    "city_ascii": "Melle",
+    "admin_name": "Flanders",
+    "lat": "51.0000",
+    "lng": "3.8000",
+    "id": "1056598788"
+  },
+  {
+    "city": "Nieuwpoort",
+    "city_ascii": "Nieuwpoort",
+    "admin_name": "Flanders",
+    "lat": "51.1167",
+    "lng": "2.7500",
+    "id": "1056198212"
+  },
+  {
+    "city": "Strombeek-Bever",
+    "city_ascii": "Strombeek-Bever",
+    "admin_name": "Brussels-Capital Region",
+    "lat": "50.9100",
+    "lng": "4.3500",
+    "id": "1056731023"
+  },
+  {
+    "city": "Florennes",
+    "city_ascii": "Florennes",
+    "admin_name": "Wallonia",
+    "lat": "50.2514",
+    "lng": "4.6044",
+    "id": "1056332747"
+  },
+  {
+    "city": "Staden",
+    "city_ascii": "Staden",
+    "admin_name": "Flanders",
+    "lat": "50.9833",
+    "lng": "3.0167",
+    "id": "1056254090"
+  },
+  {
+    "city": "Virton",
+    "city_ascii": "Virton",
+    "admin_name": "Wallonia",
+    "lat": "49.5677",
+    "lng": "5.5323",
+    "id": "1056402368"
+  },
+  {
+    "city": "Seneffe",
+    "city_ascii": "Seneffe",
+    "admin_name": "Wallonia",
+    "lat": "50.5167",
+    "lng": "4.2500",
+    "id": "1056829223"
+  },
+  {
+    "city": "Farciennes",
+    "city_ascii": "Farciennes",
+    "admin_name": "Wallonia",
+    "lat": "50.4314",
+    "lng": "4.5475",
+    "id": "1056870201"
+  },
+  {
+    "city": "Retie",
+    "city_ascii": "Retie",
+    "admin_name": "Flanders",
+    "lat": "51.2658",
+    "lng": "5.0828",
+    "id": "1056722823"
+  },
+  {
+    "city": "Hoeilaart",
+    "city_ascii": "Hoeilaart",
+    "admin_name": "Flanders",
+    "lat": "50.7667",
+    "lng": "4.4667",
+    "id": "1056289964"
+  },
+  {
+    "city": "Grobbendonk",
+    "city_ascii": "Grobbendonk",
+    "admin_name": "Flanders",
+    "lat": "51.1919",
+    "lng": "4.7386",
+    "id": "1056834518"
+  },
+  {
+    "city": "Vosselaar",
+    "city_ascii": "Vosselaar",
+    "admin_name": "Flanders",
+    "lat": "51.3081",
+    "lng": "4.8883",
+    "id": "1056845357"
+  },
+  {
+    "city": "Écaussinnes-Lalaing",
+    "city_ascii": "Ecaussinnes-Lalaing",
+    "admin_name": "Wallonia",
+    "lat": "50.5667",
+    "lng": "4.1833",
+    "id": "1056355929"
+  },
+  {
+    "city": "De Panne",
+    "city_ascii": "De Panne",
+    "admin_name": "Flanders",
+    "lat": "51.1000",
+    "lng": "2.5833",
+    "id": "1056000077"
+  },
+  {
+    "city": "Oud-Heverlee",
+    "city_ascii": "Oud-Heverlee",
+    "admin_name": "Flanders",
+    "lat": "50.8371",
+    "lng": "4.6639",
+    "id": "1056031446"
+  },
+  {
+    "city": "Melsele",
+    "city_ascii": "Melsele",
+    "admin_name": "Flanders",
+    "lat": "51.2209",
+    "lng": "4.2815",
+    "id": "1056558146"
+  },
+  {
+    "city": "Moorslede",
+    "city_ascii": "Moorslede",
+    "admin_name": "Flanders",
+    "lat": "50.8833",
+    "lng": "3.0667",
+    "id": "1056720608"
+  },
+  {
+    "city": "La Calamine",
+    "city_ascii": "La Calamine",
+    "admin_name": "Wallonia",
+    "lat": "50.7161",
+    "lng": "6.0142",
+    "id": "1056326759"
+  },
+  {
+    "city": "De Pinte",
+    "city_ascii": "De Pinte",
+    "admin_name": "Flanders",
+    "lat": "51.0000",
+    "lng": "3.6500",
+    "id": "1056508352"
+  },
+  {
+    "city": "Damme",
+    "city_ascii": "Damme",
+    "admin_name": "Flanders",
+    "lat": "51.2500",
+    "lng": "3.2667",
+    "id": "1056742472"
+  },
+  {
+    "city": "Borsbeek",
+    "city_ascii": "Borsbeek",
+    "admin_name": "Flanders",
+    "lat": "51.1932",
+    "lng": "4.4879",
+    "id": "1056005961"
+  },
+  {
+    "city": "Ingelmunster",
+    "city_ascii": "Ingelmunster",
+    "admin_name": "Flanders",
+    "lat": "50.9167",
+    "lng": "3.2500",
+    "id": "1056487439"
+  },
+  {
+    "city": "Meulebeke",
+    "city_ascii": "Meulebeke",
+    "admin_name": "Flanders",
+    "lat": "50.9500",
+    "lng": "3.2833",
+    "id": "1056545779"
+  },
+  {
+    "city": "Waasmunster",
+    "city_ascii": "Waasmunster",
+    "admin_name": "Flanders",
+    "lat": "51.1097",
+    "lng": "4.0847",
+    "id": "1056237284"
+  },
+  {
+    "city": "Villers-la-Ville",
+    "city_ascii": "Villers-la-Ville",
+    "admin_name": "Wallonia",
+    "lat": "50.5833",
+    "lng": "4.5333",
+    "id": "1056078634"
+  },
+  {
+    "city": "Louvain-la-Neuve",
+    "city_ascii": "Louvain-la-Neuve",
+    "admin_name": "Wallonia",
+    "lat": "50.6696",
+    "lng": "4.6112",
+    "id": "1056082103"
+  },
+  {
+    "city": "Raeren",
+    "city_ascii": "Raeren",
+    "admin_name": "Wallonia",
+    "lat": "50.6833",
+    "lng": "6.1167",
+    "id": "1056287455"
+  },
+  {
+    "city": "Borgloon",
+    "city_ascii": "Borgloon",
+    "admin_name": "Flanders",
+    "lat": "50.8022",
+    "lng": "5.3433",
+    "id": "1056883817"
+  },
+  {
+    "city": "Niel",
+    "city_ascii": "Niel",
+    "admin_name": "Flanders",
+    "lat": "51.1167",
+    "lng": "4.3333",
+    "id": "1056834573"
+  },
+  {
+    "city": "Heule",
+    "city_ascii": "Heule",
+    "admin_name": "Flanders",
+    "lat": "50.8333",
+    "lng": "3.2333",
+    "id": "1056934684"
+  },
+  {
+    "city": "Ertvelde",
+    "city_ascii": "Ertvelde",
+    "admin_name": "Flanders",
+    "lat": "51.1783",
+    "lng": "3.7447",
+    "id": "1056825602"
+  },
+  {
+    "city": "Court-Saint-Étienne",
+    "city_ascii": "Court-Saint-Etienne",
+    "admin_name": "Wallonia",
+    "lat": "50.6333",
+    "lng": "4.5667",
+    "id": "1056682611"
+  },
+  {
+    "city": "Hulshout",
+    "city_ascii": "Hulshout",
+    "admin_name": "Flanders",
+    "lat": "51.0750",
+    "lng": "4.7901",
+    "id": "1056358506"
+  },
+  {
+    "city": "Braine-le-Château",
+    "city_ascii": "Braine-le-Chateau",
+    "admin_name": "Wallonia",
+    "lat": "50.6833",
+    "lng": "4.2667",
+    "id": "1056237513"
+  },
+  {
+    "city": "Estaimpuis",
+    "city_ascii": "Estaimpuis",
+    "admin_name": "Wallonia",
+    "lat": "50.7000",
+    "lng": "3.2667",
+    "id": "1056179340"
+  },
+  {
+    "city": "Jurbise",
+    "city_ascii": "Jurbise",
+    "admin_name": "Wallonia",
+    "lat": "50.5333",
+    "lng": "3.9333",
+    "id": "1056563634"
+  },
+  {
+    "city": "Opglabbeek",
+    "city_ascii": "Opglabbeek",
+    "admin_name": "Flanders",
+    "lat": "51.0434",
+    "lng": "5.5835",
+    "id": "1056213359"
+  },
+  {
+    "city": "Plombières",
+    "city_ascii": "Plombieres",
+    "admin_name": "Wallonia",
+    "lat": "50.7372",
+    "lng": "5.9596",
+    "id": "1056147295"
+  },
+  {
+    "city": "Spa",
+    "city_ascii": "Spa",
+    "admin_name": "Wallonia",
+    "lat": "50.4924",
+    "lng": "5.8648",
+    "id": "1056521041"
+  },
+  {
+    "city": "Meerhout",
+    "city_ascii": "Meerhout",
+    "admin_name": "Flanders",
+    "lat": "51.1320",
+    "lng": "5.0773",
+    "id": "1056144149"
+  },
+  {
+    "city": "Sint-Lievens-Houtem",
+    "city_ascii": "Sint-Lievens-Houtem",
+    "admin_name": "Flanders",
+    "lat": "50.9167",
+    "lng": "3.8667",
+    "id": "1056997842"
+  },
+  {
+    "city": "Montignies-le-Tilleul",
+    "city_ascii": "Montignies-le-Tilleul",
+    "admin_name": "Wallonia",
+    "lat": "50.3794",
+    "lng": "4.3790",
+    "id": "1056126803"
+  },
+  {
+    "city": "Avelgem",
+    "city_ascii": "Avelgem",
+    "admin_name": "Flanders",
+    "lat": "50.7667",
+    "lng": "3.4333",
+    "id": "1056175400"
+  },
+  {
+    "city": "Begijnendijk",
+    "city_ascii": "Begijnendijk",
+    "admin_name": "Flanders",
+    "lat": "51.0191",
+    "lng": "4.7831",
+    "id": "1056560278"
+  },
+  {
+    "city": "Houthulst",
+    "city_ascii": "Houthulst",
+    "admin_name": "Flanders",
+    "lat": "50.9833",
+    "lng": "2.9500",
+    "id": "1056273463"
+  },
+  {
+    "city": "Bierbeek",
+    "city_ascii": "Bierbeek",
+    "admin_name": "Flanders",
+    "lat": "50.8276",
+    "lng": "4.7585",
+    "id": "1056157543"
+  },
+  {
+    "city": "Cuesmes",
+    "city_ascii": "Cuesmes",
+    "admin_name": "Wallonia",
+    "lat": "50.4362",
+    "lng": "3.9207",
+    "id": "1056795347"
+  },
+  {
+    "city": "Bertem",
+    "city_ascii": "Bertem",
+    "admin_name": "Flanders",
+    "lat": "50.8671",
+    "lng": "4.6361",
+    "id": "1056292340"
+  },
+  {
+    "city": "Hooglede",
+    "city_ascii": "Hooglede",
+    "admin_name": "Flanders",
+    "lat": "50.9833",
+    "lng": "3.0833",
+    "id": "1056206386"
+  },
+  {
+    "city": "Erquelinnes",
+    "city_ascii": "Erquelinnes",
+    "admin_name": "Wallonia",
+    "lat": "50.3099",
+    "lng": "4.1214",
+    "id": "1056578378"
+  },
+  {
+    "city": "Welkenraedt",
+    "city_ascii": "Welkenraedt",
+    "admin_name": "Wallonia",
+    "lat": "50.6606",
+    "lng": "5.9714",
+    "id": "1056282344"
+  },
+  {
+    "city": "Holsbeek",
+    "city_ascii": "Holsbeek",
+    "admin_name": "Flanders",
+    "lat": "50.9208",
+    "lng": "4.7569",
+    "id": "1056025323"
+  },
+  {
+    "city": "Wilsele",
+    "city_ascii": "Wilsele",
+    "admin_name": "Flanders",
+    "lat": "50.8945",
+    "lng": "4.6982",
+    "id": "1056655352"
+  },
+  {
+    "city": "Huldenberg",
+    "city_ascii": "Huldenberg",
+    "admin_name": "Flanders",
+    "lat": "50.7895",
+    "lng": "4.5850",
+    "id": "1056380225"
+  },
+  {
+    "city": "Chimay",
+    "city_ascii": "Chimay",
+    "admin_name": "Wallonia",
+    "lat": "50.0479",
+    "lng": "4.3173",
+    "id": "1056608598"
+  },
+  {
+    "city": "Pepinster",
+    "city_ascii": "Pepinster",
+    "admin_name": "Wallonia",
+    "lat": "50.5662",
+    "lng": "5.8038",
+    "id": "1056265480"
+  },
+  {
+    "city": "Oudenburg",
+    "city_ascii": "Oudenburg",
+    "admin_name": "Flanders",
+    "lat": "51.1833",
+    "lng": "3.0000",
+    "id": "1056496818"
+  },
+  {
+    "city": "Ledegem",
+    "city_ascii": "Ledegem",
+    "admin_name": "Flanders",
+    "lat": "50.8500",
+    "lng": "3.1167",
+    "id": "1056674773"
+  },
+  {
+    "city": "Wijnegem",
+    "city_ascii": "Wijnegem",
+    "admin_name": "Flanders",
+    "lat": "51.2272",
+    "lng": "4.5200",
+    "id": "1056561249"
+  },
+  {
+    "city": "Lovendegem",
+    "city_ascii": "Lovendegem",
+    "admin_name": "Flanders",
+    "lat": "51.1000",
+    "lng": "3.6000",
+    "id": "1056273817"
+  },
+  {
+    "city": "Hoeselt",
+    "city_ascii": "Hoeselt",
+    "admin_name": "Flanders",
+    "lat": "50.8500",
+    "lng": "5.4833",
+    "id": "1056339623"
+  },
+  {
+    "city": "Saint-Vith",
+    "city_ascii": "Saint-Vith",
+    "admin_name": "Wallonia",
+    "lat": "50.2797",
+    "lng": "6.1275",
+    "id": "1056135574"
+  },
+  {
+    "city": "Dessel",
+    "city_ascii": "Dessel",
+    "admin_name": "Flanders",
+    "lat": "51.2396",
+    "lng": "5.1131",
+    "id": "1056333451"
+  },
+  {
+    "city": "Wielsbeke",
+    "city_ascii": "Wielsbeke",
+    "admin_name": "Flanders",
+    "lat": "50.9000",
+    "lng": "3.3667",
+    "id": "1056411579"
+  },
+  {
+    "city": "Halen",
+    "city_ascii": "Halen",
+    "admin_name": "Flanders",
+    "lat": "50.9481",
+    "lng": "5.1144",
+    "id": "1056456739"
+  },
+  {
+    "city": "Kapelle-op-den-Bos",
+    "city_ascii": "Kapelle-op-den-Bos",
+    "admin_name": "Flanders",
+    "lat": "51.0167",
+    "lng": "4.3667",
+    "id": "1056754510"
+  },
+  {
+    "city": "Awans",
+    "city_ascii": "Awans",
+    "admin_name": "Wallonia",
+    "lat": "50.6669",
+    "lng": "5.4633",
+    "id": "1056534657"
+  },
+  {
+    "city": "Perwez",
+    "city_ascii": "Perwez",
+    "admin_name": "Wallonia",
+    "lat": "50.6241",
+    "lng": "4.8150",
+    "id": "1056663953"
+  },
+  {
+    "city": "Juprelle",
+    "city_ascii": "Juprelle",
+    "admin_name": "Wallonia",
+    "lat": "50.7101",
+    "lng": "5.5304",
+    "id": "1056730638"
+  },
+  {
+    "city": "Gooik",
+    "city_ascii": "Gooik",
+    "admin_name": "Flanders",
+    "lat": "50.8000",
+    "lng": "4.1167",
+    "id": "1056183534"
+  },
+  {
+    "city": "Philippeville",
+    "city_ascii": "Philippeville",
+    "admin_name": "Wallonia",
+    "lat": "50.1964",
+    "lng": "4.5436",
+    "id": "1056548707"
+  },
+  {
+    "city": "La Bruyère",
+    "city_ascii": "La Bruyere",
+    "admin_name": "Wallonia",
+    "lat": "50.5000",
+    "lng": "4.8000",
+    "id": "1056215360"
+  },
+  {
+    "city": "Roux",
+    "city_ascii": "Roux",
+    "admin_name": "Wallonia",
+    "lat": "50.4412",
+    "lng": "4.3926",
+    "id": "1056106908"
+  },
+  {
+    "city": "Yvoir",
+    "city_ascii": "Yvoir",
+    "admin_name": "Wallonia",
+    "lat": "50.3264",
+    "lng": "4.8782",
+    "id": "1056417528"
+  },
+  {
+    "city": "Beauraing",
+    "city_ascii": "Beauraing",
+    "admin_name": "Wallonia",
+    "lat": "50.1101",
+    "lng": "4.9564",
+    "id": "1056162320"
+  },
+  {
+    "city": "Herenthout",
+    "city_ascii": "Herenthout",
+    "admin_name": "Flanders",
+    "lat": "51.1395",
+    "lng": "4.7559",
+    "id": "1056849733"
+  },
+  {
+    "city": "Sint-Martens-Lennik",
+    "city_ascii": "Sint-Martens-Lennik",
+    "admin_name": "Flanders",
+    "lat": "50.8000",
+    "lng": "4.1500",
+    "id": "1056514548"
+  },
+  {
+    "city": "Ardooie",
+    "city_ascii": "Ardooie",
+    "admin_name": "Flanders",
+    "lat": "50.9667",
+    "lng": "3.1833",
+    "id": "1056959747"
+  },
+  {
+    "city": "Bassenge",
+    "city_ascii": "Bassenge",
+    "admin_name": "Wallonia",
+    "lat": "50.7583",
+    "lng": "5.6094",
+    "id": "1056702333"
+  },
+  {
+    "city": "Lichtervelde",
+    "city_ascii": "Lichtervelde",
+    "admin_name": "Flanders",
+    "lat": "51.0333",
+    "lng": "3.1333",
+    "id": "1056245942"
+  },
+  {
+    "city": "Koekelare",
+    "city_ascii": "Koekelare",
+    "admin_name": "Flanders",
+    "lat": "51.0833",
+    "lng": "2.9667",
+    "id": "1056902791"
+  },
+  {
+    "city": "Bertrix",
+    "city_ascii": "Bertrix",
+    "admin_name": "Wallonia",
+    "lat": "49.8555",
+    "lng": "5.2566",
+    "id": "1056726462"
+  },
+  {
+    "city": "Galmaarden",
+    "city_ascii": "Galmaarden",
+    "admin_name": "Flanders",
+    "lat": "50.7500",
+    "lng": "3.9900",
+    "id": "1056556479"
+  },
+  {
+    "city": "Heusden",
+    "city_ascii": "Heusden",
+    "admin_name": "Flanders",
+    "lat": "51.0281",
+    "lng": "3.8000",
+    "id": "1056423197"
+  },
+  {
+    "city": "Sint-Job-in-’t-Goor",
+    "city_ascii": "Sint-Job-in-'t-Goor",
+    "admin_name": "Flanders",
+    "lat": "51.3017",
+    "lng": "4.5691",
+    "id": "1056888422"
+  },
+  {
+    "city": "Lint",
+    "city_ascii": "Lint",
+    "admin_name": "Flanders",
+    "lat": "51.1275",
+    "lng": "4.4962",
+    "id": "1056535709"
+  },
+  {
+    "city": "Jalhay",
+    "city_ascii": "Jalhay",
+    "admin_name": "Wallonia",
+    "lat": "50.5572",
+    "lng": "5.9642",
+    "id": "1056772440"
+  },
+  {
+    "city": "Merksplas",
+    "city_ascii": "Merksplas",
+    "admin_name": "Flanders",
+    "lat": "51.3580",
+    "lng": "4.8634",
+    "id": "1056591557"
+  },
+  {
+    "city": "Lint",
+    "city_ascii": "Lint",
+    "admin_name": "Flanders",
+    "lat": "51.1167",
+    "lng": "4.4833",
+    "id": "1056280124"
+  }
+]

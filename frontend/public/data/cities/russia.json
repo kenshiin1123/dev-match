@@ -1,0 +1,8474 @@
+[
+  {
+    "city": "Moscow",
+    "city_ascii": "Moscow",
+    "admin_name": "Moskva",
+    "lat": "55.7506",
+    "lng": "37.6175",
+    "id": "1643318494"
+  },
+  {
+    "city": "Saint Petersburg",
+    "city_ascii": "Saint Petersburg",
+    "admin_name": "Sankt-Peterburg",
+    "lat": "59.9375",
+    "lng": "30.3086",
+    "id": "1643616350"
+  },
+  {
+    "city": "Novosibirsk",
+    "city_ascii": "Novosibirsk",
+    "admin_name": "Novosibirskaya Oblast’",
+    "lat": "55.0500",
+    "lng": "82.9500",
+    "id": "1643399240"
+  },
+  {
+    "city": "Yekaterinburg",
+    "city_ascii": "Yekaterinburg",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.8356",
+    "lng": "60.6128",
+    "id": "1643582706"
+  },
+  {
+    "city": "Kazan",
+    "city_ascii": "Kazan",
+    "admin_name": "Tatarstan",
+    "lat": "55.7964",
+    "lng": "49.1089",
+    "id": "1643101260"
+  },
+  {
+    "city": "Nizhniy Novgorod",
+    "city_ascii": "Nizhniy Novgorod",
+    "admin_name": "Nizhegorodskaya Oblast’",
+    "lat": "56.3269",
+    "lng": "44.0075",
+    "id": "1643012126"
+  },
+  {
+    "city": "Chelyabinsk",
+    "city_ascii": "Chelyabinsk",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "55.1547",
+    "lng": "61.3758",
+    "id": "1643224011"
+  },
+  {
+    "city": "Samara",
+    "city_ascii": "Samara",
+    "admin_name": "Samarskaya Oblast’",
+    "lat": "53.2028",
+    "lng": "50.1408",
+    "id": "1643205757"
+  },
+  {
+    "city": "Krasnodar",
+    "city_ascii": "Krasnodar",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "45.0333",
+    "lng": "38.9667",
+    "id": "1643438227"
+  },
+  {
+    "city": "Rostov",
+    "city_ascii": "Rostov",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.2225",
+    "lng": "39.7100",
+    "id": "1643013518"
+  },
+  {
+    "city": "Ufa",
+    "city_ascii": "Ufa",
+    "admin_name": "Bashkortostan",
+    "lat": "54.7261",
+    "lng": "55.9475",
+    "id": "1643722928"
+  },
+  {
+    "city": "Omsk",
+    "city_ascii": "Omsk",
+    "admin_name": "Omskaya Oblast’",
+    "lat": "54.9833",
+    "lng": "73.3667",
+    "id": "1643360863"
+  },
+  {
+    "city": "Krasnoyarsk",
+    "city_ascii": "Krasnoyarsk",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "56.0089",
+    "lng": "92.8719",
+    "id": "1643544975"
+  },
+  {
+    "city": "Voronezh",
+    "city_ascii": "Voronezh",
+    "admin_name": "Voronezhskaya Oblast’",
+    "lat": "51.6717",
+    "lng": "39.2106",
+    "id": "1643811064"
+  },
+  {
+    "city": "Perm",
+    "city_ascii": "Perm",
+    "admin_name": "Permskiy Kray",
+    "lat": "58.0000",
+    "lng": "56.3167",
+    "id": "1643294442"
+  },
+  {
+    "city": "Volgograd",
+    "city_ascii": "Volgograd",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "48.7086",
+    "lng": "44.5147",
+    "id": "1643577201"
+  },
+  {
+    "city": "Tyumen",
+    "city_ascii": "Tyumen",
+    "admin_name": "Tyumenskaya Oblast’",
+    "lat": "57.1500",
+    "lng": "65.5333",
+    "id": "1643040435"
+  },
+  {
+    "city": "Saratov",
+    "city_ascii": "Saratov",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "51.5300",
+    "lng": "46.0350",
+    "id": "1643556540"
+  },
+  {
+    "city": "Tolyatti",
+    "city_ascii": "Tolyatti",
+    "admin_name": "Samarskaya Oblast’",
+    "lat": "53.5089",
+    "lng": "49.4222",
+    "id": "1643256295"
+  },
+  {
+    "city": "Makhachkala",
+    "city_ascii": "Makhachkala",
+    "admin_name": "Dagestan",
+    "lat": "42.9825",
+    "lng": "47.5050",
+    "id": "1643580480"
+  },
+  {
+    "city": "Irkutsk",
+    "city_ascii": "Irkutsk",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "52.2892",
+    "lng": "104.2800",
+    "id": "1643439037"
+  },
+  {
+    "city": "Barnaul",
+    "city_ascii": "Barnaul",
+    "admin_name": "Altayskiy Kray",
+    "lat": "53.3486",
+    "lng": "83.7764",
+    "id": "1643318931"
+  },
+  {
+    "city": "Izhevsk",
+    "city_ascii": "Izhevsk",
+    "admin_name": "Udmurtiya",
+    "lat": "56.8333",
+    "lng": "53.1833",
+    "id": "1643983138"
+  },
+  {
+    "city": "Khabarovsk",
+    "city_ascii": "Khabarovsk",
+    "admin_name": "Khabarovskiy Kray",
+    "lat": "48.4833",
+    "lng": "135.0833",
+    "id": "1643175363"
+  },
+  {
+    "city": "Ulyanovsk",
+    "city_ascii": "Ulyanovsk",
+    "admin_name": "Ul’yanovskaya Oblast’",
+    "lat": "54.3167",
+    "lng": "48.3667",
+    "id": "1643668944"
+  },
+  {
+    "city": "Vladivostok",
+    "city_ascii": "Vladivostok",
+    "admin_name": "Primorskiy Kray",
+    "lat": "43.1150",
+    "lng": "131.8853",
+    "id": "1643832017"
+  },
+  {
+    "city": "Yaroslavl",
+    "city_ascii": "Yaroslavl",
+    "admin_name": "Yaroslavskaya Oblast’",
+    "lat": "57.6167",
+    "lng": "39.8500",
+    "id": "1643338528"
+  },
+  {
+    "city": "Tomsk",
+    "city_ascii": "Tomsk",
+    "admin_name": "Tomskaya Oblast’",
+    "lat": "56.5000",
+    "lng": "84.9667",
+    "id": "1643258928"
+  },
+  {
+    "city": "Kemerovo",
+    "city_ascii": "Kemerovo",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "55.3667",
+    "lng": "86.0667",
+    "id": "1643216311"
+  },
+  {
+    "city": "Naberezhnyye Chelny",
+    "city_ascii": "Naberezhnyye Chelny",
+    "admin_name": "Tatarstan",
+    "lat": "55.6833",
+    "lng": "52.3167",
+    "id": "1643008493"
+  },
+  {
+    "city": "Orenburg",
+    "city_ascii": "Orenburg",
+    "admin_name": "Orenburgskaya Oblast’",
+    "lat": "51.7833",
+    "lng": "55.1000",
+    "id": "1643685056"
+  },
+  {
+    "city": "Novokuznetsk",
+    "city_ascii": "Novokuznetsk",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "53.7667",
+    "lng": "87.1333",
+    "id": "1643628717"
+  },
+  {
+    "city": "Balashikha",
+    "city_ascii": "Balashikha",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.8167",
+    "lng": "37.9667",
+    "id": "1643989845"
+  },
+  {
+    "city": "Ryazan",
+    "city_ascii": "Ryazan",
+    "admin_name": "Ryazanskaya Oblast’",
+    "lat": "54.6300",
+    "lng": "39.7425",
+    "id": "1643205787"
+  },
+  {
+    "city": "Lipetsk",
+    "city_ascii": "Lipetsk",
+    "admin_name": "Lipetskaya Oblast’",
+    "lat": "52.6167",
+    "lng": "39.6000",
+    "id": "1643772906"
+  },
+  {
+    "city": "Cheboksary",
+    "city_ascii": "Cheboksary",
+    "admin_name": "Chuvashiya",
+    "lat": "56.1500",
+    "lng": "47.2333",
+    "id": "1643163382"
+  },
+  {
+    "city": "Kaliningrad",
+    "city_ascii": "Kaliningrad",
+    "admin_name": "Kaliningradskaya Oblast’",
+    "lat": "54.7003",
+    "lng": "20.4531",
+    "id": "1643178106"
+  },
+  {
+    "city": "Penza",
+    "city_ascii": "Penza",
+    "admin_name": "Penzenskaya Oblast’",
+    "lat": "53.2000",
+    "lng": "45.0000",
+    "id": "1643492830"
+  },
+  {
+    "city": "Kirov",
+    "city_ascii": "Kirov",
+    "admin_name": "Kirovskaya Oblast’",
+    "lat": "58.6000",
+    "lng": "49.6833",
+    "id": "1643106064"
+  },
+  {
+    "city": "Tula",
+    "city_ascii": "Tula",
+    "admin_name": "Tul’skaya Oblast’",
+    "lat": "54.2000",
+    "lng": "37.6167",
+    "id": "1643255206"
+  },
+  {
+    "city": "Astrakhan",
+    "city_ascii": "Astrakhan",
+    "admin_name": "Astrakhanskaya Oblast’",
+    "lat": "46.3500",
+    "lng": "48.0350",
+    "id": "1643407929"
+  },
+  {
+    "city": "Stavropol",
+    "city_ascii": "Stavropol",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "45.0500",
+    "lng": "41.9833",
+    "id": "1643947228"
+  },
+  {
+    "city": "Sochi",
+    "city_ascii": "Sochi",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "43.5853",
+    "lng": "39.7203",
+    "id": "1643009782"
+  },
+  {
+    "city": "Ulan-Ude",
+    "city_ascii": "Ulan-Ude",
+    "admin_name": "Buryatiya",
+    "lat": "51.8333",
+    "lng": "107.6000",
+    "id": "1643774900"
+  },
+  {
+    "city": "Kursk",
+    "city_ascii": "Kursk",
+    "admin_name": "Kurskaya Oblast’",
+    "lat": "51.7167",
+    "lng": "36.1833",
+    "id": "1643011077"
+  },
+  {
+    "city": "Tver",
+    "city_ascii": "Tver",
+    "admin_name": "Tverskaya Oblast’",
+    "lat": "56.8625",
+    "lng": "35.9242",
+    "id": "1643456559"
+  },
+  {
+    "city": "Magnitogorsk",
+    "city_ascii": "Magnitogorsk",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "53.3833",
+    "lng": "59.0333",
+    "id": "1643987830"
+  },
+  {
+    "city": "Surgut",
+    "city_ascii": "Surgut",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "61.2500",
+    "lng": "73.4333",
+    "id": "1643007475"
+  },
+  {
+    "city": "Bryansk",
+    "city_ascii": "Bryansk",
+    "admin_name": "Bryanskaya Oblast’",
+    "lat": "53.2425",
+    "lng": "34.3667",
+    "id": "1643208827"
+  },
+  {
+    "city": "Ivanovo",
+    "city_ascii": "Ivanovo",
+    "admin_name": "Ivanovskaya Oblast’",
+    "lat": "56.9967",
+    "lng": "40.9819",
+    "id": "1643297945"
+  },
+  {
+    "city": "Vladimir",
+    "city_ascii": "Vladimir",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "56.1286",
+    "lng": "40.4058",
+    "id": "1643712167"
+  },
+  {
+    "city": "Arkhangelsk",
+    "city_ascii": "Arkhangelsk",
+    "admin_name": "Arkhangel’skaya Oblast’",
+    "lat": "64.5431",
+    "lng": "40.5375",
+    "id": "1643797198"
+  },
+  {
+    "city": "Chita",
+    "city_ascii": "Chita",
+    "admin_name": "Zabaykal’skiy Kray",
+    "lat": "52.0500",
+    "lng": "113.4667",
+    "id": "1643036673"
+  },
+  {
+    "city": "Kaluga",
+    "city_ascii": "Kaluga",
+    "admin_name": "Kaluzhskaya Oblast’",
+    "lat": "54.5500",
+    "lng": "36.2833",
+    "id": "1643161747"
+  },
+  {
+    "city": "Nizhniy Tagil",
+    "city_ascii": "Nizhniy Tagil",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "57.9167",
+    "lng": "59.9667",
+    "id": "1643992310"
+  },
+  {
+    "city": "Belgorod",
+    "city_ascii": "Belgorod",
+    "admin_name": "Belgorodskaya Oblast’",
+    "lat": "50.6000",
+    "lng": "36.6000",
+    "id": "1643407900"
+  },
+  {
+    "city": "Volzhskiy",
+    "city_ascii": "Volzhskiy",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "48.8056",
+    "lng": "44.7417",
+    "id": "1643875527"
+  },
+  {
+    "city": "Podolsk",
+    "city_ascii": "Podolsk",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.4311",
+    "lng": "37.5456",
+    "id": "1643693800"
+  },
+  {
+    "city": "Smolensk",
+    "city_ascii": "Smolensk",
+    "admin_name": "Smolenskaya Oblast’",
+    "lat": "54.7828",
+    "lng": "32.0453",
+    "id": "1643627051"
+  },
+  {
+    "city": "Vologda",
+    "city_ascii": "Vologda",
+    "admin_name": "Vologodskaya Oblast’",
+    "lat": "59.2167",
+    "lng": "39.9000",
+    "id": "1643013685"
+  },
+  {
+    "city": "Yakutsk",
+    "city_ascii": "Yakutsk",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "62.0300",
+    "lng": "129.7300",
+    "id": "1643163546"
+  },
+  {
+    "city": "Kurgan",
+    "city_ascii": "Kurgan",
+    "admin_name": "Kurganskaya Oblast’",
+    "lat": "55.4667",
+    "lng": "65.3500",
+    "id": "1643201853"
+  },
+  {
+    "city": "Saransk",
+    "city_ascii": "Saransk",
+    "admin_name": "Mordoviya",
+    "lat": "54.1833",
+    "lng": "45.1833",
+    "id": "1643003229"
+  },
+  {
+    "city": "Orël",
+    "city_ascii": "Orel",
+    "admin_name": "Orlovskaya Oblast’",
+    "lat": "52.9686",
+    "lng": "36.0694",
+    "id": "1643703818"
+  },
+  {
+    "city": "Vladikavkaz",
+    "city_ascii": "Vladikavkaz",
+    "admin_name": "North Ossetia",
+    "lat": "43.0400",
+    "lng": "44.6775",
+    "id": "1643438348"
+  },
+  {
+    "city": "Cherepovets",
+    "city_ascii": "Cherepovets",
+    "admin_name": "Vologodskaya Oblast’",
+    "lat": "59.1167",
+    "lng": "37.9000",
+    "id": "1643937680"
+  },
+  {
+    "city": "Groznyy",
+    "city_ascii": "Groznyy",
+    "admin_name": "Chechnya",
+    "lat": "43.3125",
+    "lng": "45.6986",
+    "id": "1643049853"
+  },
+  {
+    "city": "Tambov",
+    "city_ascii": "Tambov",
+    "admin_name": "Tambovskaya Oblast’",
+    "lat": "52.7231",
+    "lng": "41.4539",
+    "id": "1643802687"
+  },
+  {
+    "city": "Nizhnevartovsk",
+    "city_ascii": "Nizhnevartovsk",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "60.9500",
+    "lng": "76.6000",
+    "id": "1643786132"
+  },
+  {
+    "city": "Petrozavodsk",
+    "city_ascii": "Petrozavodsk",
+    "admin_name": "Kareliya",
+    "lat": "61.7833",
+    "lng": "34.3333",
+    "id": "1643319966"
+  },
+  {
+    "city": "Sterlitamak",
+    "city_ascii": "Sterlitamak",
+    "admin_name": "Bashkortostan",
+    "lat": "53.6333",
+    "lng": "55.9500",
+    "id": "1643812452"
+  },
+  {
+    "city": "Mytishchi",
+    "city_ascii": "Mytishchi",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.9167",
+    "lng": "37.7667",
+    "id": "1643322494"
+  },
+  {
+    "city": "Yoshkar-Ola",
+    "city_ascii": "Yoshkar-Ola",
+    "admin_name": "Mariy-El",
+    "lat": "56.6500",
+    "lng": "47.8833",
+    "id": "1643701904"
+  },
+  {
+    "city": "Kostroma",
+    "city_ascii": "Kostroma",
+    "admin_name": "Kostromskaya Oblast’",
+    "lat": "57.7681",
+    "lng": "40.9269",
+    "id": "1643869304"
+  },
+  {
+    "city": "Murmansk",
+    "city_ascii": "Murmansk",
+    "admin_name": "Murmanskaya Oblast’",
+    "lat": "68.9706",
+    "lng": "33.0750",
+    "id": "1643755251"
+  },
+  {
+    "city": "Nalchik",
+    "city_ascii": "Nalchik",
+    "admin_name": "Kabardino-Balkariya",
+    "lat": "43.4833",
+    "lng": "43.6167",
+    "id": "1643746064"
+  },
+  {
+    "city": "Novorossiysk",
+    "city_ascii": "Novorossiysk",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "44.7167",
+    "lng": "37.7833",
+    "id": "1643087180"
+  },
+  {
+    "city": "Engels",
+    "city_ascii": "Engels",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "51.5017",
+    "lng": "46.1222",
+    "id": "1643653861"
+  },
+  {
+    "city": "Khimki",
+    "city_ascii": "Khimki",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.8892",
+    "lng": "37.4450",
+    "id": "1643601857"
+  },
+  {
+    "city": "Syktyvkar",
+    "city_ascii": "Syktyvkar",
+    "admin_name": "Komi",
+    "lat": "61.6667",
+    "lng": "50.8167",
+    "id": "1643573386"
+  },
+  {
+    "city": "Taganrog",
+    "city_ascii": "Taganrog",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.2167",
+    "lng": "38.9167",
+    "id": "1643228316"
+  },
+  {
+    "city": "Nizhnekamsk",
+    "city_ascii": "Nizhnekamsk",
+    "admin_name": "Tatarstan",
+    "lat": "55.6333",
+    "lng": "51.8167",
+    "id": "1643493938"
+  },
+  {
+    "city": "Blagoveshchensk",
+    "city_ascii": "Blagoveshchensk",
+    "admin_name": "Amurskaya Oblast’",
+    "lat": "50.2500",
+    "lng": "127.5333",
+    "id": "1643308239"
+  },
+  {
+    "city": "Lyubertsy",
+    "city_ascii": "Lyubertsy",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.6783",
+    "lng": "37.8944",
+    "id": "1643024284"
+  },
+  {
+    "city": "Komsomol’sk-na-Amure",
+    "city_ascii": "Komsomol'sk-na-Amure",
+    "admin_name": "Khabarovskiy Kray",
+    "lat": "50.5667",
+    "lng": "137.0000",
+    "id": "1643862307"
+  },
+  {
+    "city": "Korolëv",
+    "city_ascii": "Korolev",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.9167",
+    "lng": "37.8167",
+    "id": "1643323167"
+  },
+  {
+    "city": "Kolpino",
+    "city_ascii": "Kolpino",
+    "admin_name": "Sankt-Peterburg",
+    "lat": "59.7333",
+    "lng": "30.6000",
+    "id": "1643448070"
+  },
+  {
+    "city": "Velikiy Novgorod",
+    "city_ascii": "Velikiy Novgorod",
+    "admin_name": "Novgorodskaya Oblast’",
+    "lat": "58.5500",
+    "lng": "31.2667",
+    "id": "1643774241"
+  },
+  {
+    "city": "Shakhty",
+    "city_ascii": "Shakhty",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.7000",
+    "lng": "40.2333",
+    "id": "1643542365"
+  },
+  {
+    "city": "Bratsk",
+    "city_ascii": "Bratsk",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "56.1167",
+    "lng": "101.6000",
+    "id": "1643485535"
+  },
+  {
+    "city": "Angarsk",
+    "city_ascii": "Angarsk",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "52.5500",
+    "lng": "103.9000",
+    "id": "1643989118"
+  },
+  {
+    "city": "Staryy Oskol",
+    "city_ascii": "Staryy Oskol",
+    "admin_name": "Belgorodskaya Oblast’",
+    "lat": "51.2967",
+    "lng": "37.8350",
+    "id": "1643807951"
+  },
+  {
+    "city": "Dzerzhinsk",
+    "city_ascii": "Dzerzhinsk",
+    "admin_name": "Nizhegorodskaya Oblast’",
+    "lat": "56.2333",
+    "lng": "43.4500",
+    "id": "1643076798"
+  },
+  {
+    "city": "Krasnogorsk",
+    "city_ascii": "Krasnogorsk",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.8217",
+    "lng": "37.3386",
+    "id": "1643674336"
+  },
+  {
+    "city": "Pskov",
+    "city_ascii": "Pskov",
+    "admin_name": "Pskovskaya Oblast’",
+    "lat": "57.8167",
+    "lng": "28.3333",
+    "id": "1643877414"
+  },
+  {
+    "city": "Orsk",
+    "city_ascii": "Orsk",
+    "admin_name": "Orenburgskaya Oblast’",
+    "lat": "51.2000",
+    "lng": "58.5667",
+    "id": "1643003114"
+  },
+  {
+    "city": "Armavir",
+    "city_ascii": "Armavir",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "45.0000",
+    "lng": "41.1167",
+    "id": "1643809754"
+  },
+  {
+    "city": "Biysk",
+    "city_ascii": "Biysk",
+    "admin_name": "Altayskiy Kray",
+    "lat": "52.5333",
+    "lng": "85.2167",
+    "id": "1643652314"
+  },
+  {
+    "city": "Balakovo",
+    "city_ascii": "Balakovo",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "52.0333",
+    "lng": "47.7833",
+    "id": "1643480033"
+  },
+  {
+    "city": "Abakan",
+    "city_ascii": "Abakan",
+    "admin_name": "Khakasiya",
+    "lat": "53.7167",
+    "lng": "91.4667",
+    "id": "1643946203"
+  },
+  {
+    "city": "Yuzhno-Sakhalinsk",
+    "city_ascii": "Yuzhno-Sakhalinsk",
+    "admin_name": "Sakhalinskaya Oblast’",
+    "lat": "46.9667",
+    "lng": "142.7333",
+    "id": "1643703767"
+  },
+  {
+    "city": "Ussuriysk",
+    "city_ascii": "Ussuriysk",
+    "admin_name": "Primorskiy Kray",
+    "lat": "43.8000",
+    "lng": "131.9667",
+    "id": "1643001263"
+  },
+  {
+    "city": "Norilsk",
+    "city_ascii": "Norilsk",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "69.3333",
+    "lng": "88.2167",
+    "id": "1643832764"
+  },
+  {
+    "city": "Prokopyevsk",
+    "city_ascii": "Prokopyevsk",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "53.8833",
+    "lng": "86.7167",
+    "id": "1643653477"
+  },
+  {
+    "city": "Rybinsk",
+    "city_ascii": "Rybinsk",
+    "admin_name": "Yaroslavskaya Oblast’",
+    "lat": "58.0500",
+    "lng": "38.8333",
+    "id": "1643113701"
+  },
+  {
+    "city": "Volgodonsk",
+    "city_ascii": "Volgodonsk",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.5167",
+    "lng": "42.1500",
+    "id": "1643784914"
+  },
+  {
+    "city": "Almetyevsk",
+    "city_ascii": "Almetyevsk",
+    "admin_name": "Tatarstan",
+    "lat": "54.9000",
+    "lng": "52.3000",
+    "id": "1643421011"
+  },
+  {
+    "city": "Petropavlovsk-Kamchatskiy",
+    "city_ascii": "Petropavlovsk-Kamchatskiy",
+    "admin_name": "Kamchatskiy Kray",
+    "lat": "53.0167",
+    "lng": "158.6500",
+    "id": "1643129247"
+  },
+  {
+    "city": "Syzran",
+    "city_ascii": "Syzran",
+    "admin_name": "Samarskaya Oblast’",
+    "lat": "53.1667",
+    "lng": "48.4667",
+    "id": "1643711617"
+  },
+  {
+    "city": "Kamensk-Ural’skiy",
+    "city_ascii": "Kamensk-Ural'skiy",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.4000",
+    "lng": "61.9333",
+    "id": "1643640451"
+  },
+  {
+    "city": "Novocherkassk",
+    "city_ascii": "Novocherkassk",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.4222",
+    "lng": "40.0939",
+    "id": "1643990727"
+  },
+  {
+    "city": "Zlatoust",
+    "city_ascii": "Zlatoust",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "55.1667",
+    "lng": "59.6667",
+    "id": "1643000102"
+  },
+  {
+    "city": "Domodedovo",
+    "city_ascii": "Domodedovo",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.4400",
+    "lng": "37.7619",
+    "id": "1643918019"
+  },
+  {
+    "city": "Severodvinsk",
+    "city_ascii": "Severodvinsk",
+    "admin_name": "Arkhangel’skaya Oblast’",
+    "lat": "64.5667",
+    "lng": "39.8667",
+    "id": "1643427671"
+  },
+  {
+    "city": "Khasavyurt",
+    "city_ascii": "Khasavyurt",
+    "admin_name": "Dagestan",
+    "lat": "43.2500",
+    "lng": "46.5833",
+    "id": "1643734694"
+  },
+  {
+    "city": "Miass",
+    "city_ascii": "Miass",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "55.0000",
+    "lng": "60.1000",
+    "id": "1643043679"
+  },
+  {
+    "city": "Salavat",
+    "city_ascii": "Salavat",
+    "admin_name": "Bashkortostan",
+    "lat": "53.3667",
+    "lng": "55.9333",
+    "id": "1643996483"
+  },
+  {
+    "city": "Kopeysk",
+    "city_ascii": "Kopeysk",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "55.1000",
+    "lng": "61.6167",
+    "id": "1643343511"
+  },
+  {
+    "city": "Pyatigorsk",
+    "city_ascii": "Pyatigorsk",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "44.0500",
+    "lng": "43.0667",
+    "id": "1643815630"
+  },
+  {
+    "city": "Elektrostal",
+    "city_ascii": "Elektrostal",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.7833",
+    "lng": "38.4667",
+    "id": "1643790299"
+  },
+  {
+    "city": "Maykop",
+    "city_ascii": "Maykop",
+    "admin_name": "Adygeya",
+    "lat": "44.6000",
+    "lng": "40.0833",
+    "id": "1643584159"
+  },
+  {
+    "city": "Orekhovo-Borisovo Yuzhnoye",
+    "city_ascii": "Orekhovo-Borisovo Yuzhnoye",
+    "admin_name": "Moskva",
+    "lat": "55.6000",
+    "lng": "37.7333",
+    "id": "1643411150"
+  },
+  {
+    "city": "Nakhodka",
+    "city_ascii": "Nakhodka",
+    "admin_name": "Primorskiy Kray",
+    "lat": "42.8167",
+    "lng": "132.8667",
+    "id": "1643144321"
+  },
+  {
+    "city": "Shchelkovo",
+    "city_ascii": "Shchelkovo",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.9167",
+    "lng": "38.0000",
+    "id": "1643006516"
+  },
+  {
+    "city": "Berezniki",
+    "city_ascii": "Berezniki",
+    "admin_name": "Permskiy Kray",
+    "lat": "59.4167",
+    "lng": "56.7833",
+    "id": "1643757810"
+  },
+  {
+    "city": "Serpukhov",
+    "city_ascii": "Serpukhov",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "54.9167",
+    "lng": "37.4000",
+    "id": "1643395657"
+  },
+  {
+    "city": "Obninsk",
+    "city_ascii": "Obninsk",
+    "admin_name": "Kaluzhskaya Oblast’",
+    "lat": "55.0931",
+    "lng": "36.6106",
+    "id": "1643426054"
+  },
+  {
+    "city": "Kolomna",
+    "city_ascii": "Kolomna",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.0833",
+    "lng": "38.7833",
+    "id": "1643196698"
+  },
+  {
+    "city": "Neftekamsk",
+    "city_ascii": "Neftekamsk",
+    "admin_name": "Bashkortostan",
+    "lat": "56.1028",
+    "lng": "54.2867",
+    "id": "1643718660"
+  },
+  {
+    "city": "Kovrov",
+    "city_ascii": "Kovrov",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "56.3683",
+    "lng": "41.3108",
+    "id": "1643110693"
+  },
+  {
+    "city": "Derbent",
+    "city_ascii": "Derbent",
+    "admin_name": "Dagestan",
+    "lat": "42.0578",
+    "lng": "48.2889",
+    "id": "1643003556"
+  },
+  {
+    "city": "Nefteyugansk",
+    "city_ascii": "Nefteyugansk",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "61.0833",
+    "lng": "72.7000",
+    "id": "1643009656"
+  },
+  {
+    "city": "Kislovodsk",
+    "city_ascii": "Kislovodsk",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "43.9167",
+    "lng": "42.7167",
+    "id": "1643705192"
+  },
+  {
+    "city": "Nazran",
+    "city_ascii": "Nazran",
+    "admin_name": "Ingushetiya",
+    "lat": "43.2167",
+    "lng": "44.7667",
+    "id": "1643123780"
+  },
+  {
+    "city": "Bataysk",
+    "city_ascii": "Bataysk",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.1667",
+    "lng": "39.7333",
+    "id": "1643522051"
+  },
+  {
+    "city": "Rubtsovsk",
+    "city_ascii": "Rubtsovsk",
+    "admin_name": "Altayskiy Kray",
+    "lat": "51.5167",
+    "lng": "81.2000",
+    "id": "1643450182"
+  },
+  {
+    "city": "Cherkessk",
+    "city_ascii": "Cherkessk",
+    "admin_name": "Karachayevo-Cherkesiya",
+    "lat": "44.2167",
+    "lng": "42.0500",
+    "id": "1643955713"
+  },
+  {
+    "city": "Yessentuki",
+    "city_ascii": "Yessentuki",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "44.0333",
+    "lng": "42.8500",
+    "id": "1643737725"
+  },
+  {
+    "city": "Novocheboksarsk",
+    "city_ascii": "Novocheboksarsk",
+    "admin_name": "Chuvashiya",
+    "lat": "56.1333",
+    "lng": "47.5000",
+    "id": "1643839131"
+  },
+  {
+    "city": "Dolgoprudnyy",
+    "city_ascii": "Dolgoprudnyy",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.9333",
+    "lng": "37.5000",
+    "id": "1643283176"
+  },
+  {
+    "city": "Novomoskovsk",
+    "city_ascii": "Novomoskovsk",
+    "admin_name": "Tul’skaya Oblast’",
+    "lat": "54.0833",
+    "lng": "38.2167",
+    "id": "1643119962"
+  },
+  {
+    "city": "Oktyabr’skiy",
+    "city_ascii": "Oktyabr'skiy",
+    "admin_name": "Bashkortostan",
+    "lat": "54.4667",
+    "lng": "53.4667",
+    "id": "1643301615"
+  },
+  {
+    "city": "Kyzyl",
+    "city_ascii": "Kyzyl",
+    "admin_name": "Tyva",
+    "lat": "51.7167",
+    "lng": "94.4500",
+    "id": "1643780385"
+  },
+  {
+    "city": "Nevinnomyssk",
+    "city_ascii": "Nevinnomyssk",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "44.6333",
+    "lng": "41.9333",
+    "id": "1643869152"
+  },
+  {
+    "city": "Mikhaylovsk",
+    "city_ascii": "Mikhaylovsk",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "45.1333",
+    "lng": "42.0333",
+    "id": "1643773075"
+  },
+  {
+    "city": "Pervouralsk",
+    "city_ascii": "Pervouralsk",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.9167",
+    "lng": "59.9333",
+    "id": "1643845220"
+  },
+  {
+    "city": "Odintsovo",
+    "city_ascii": "Odintsovo",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.6667",
+    "lng": "37.2667",
+    "id": "1643102939"
+  },
+  {
+    "city": "Pushkino",
+    "city_ascii": "Pushkino",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "56.0167",
+    "lng": "37.8333",
+    "id": "1643799484"
+  },
+  {
+    "city": "Zhukovskiy",
+    "city_ascii": "Zhukovskiy",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.5972",
+    "lng": "38.1203",
+    "id": "1643012071"
+  },
+  {
+    "city": "Dimitrovgrad",
+    "city_ascii": "Dimitrovgrad",
+    "admin_name": "Ul’yanovskaya Oblast’",
+    "lat": "54.1833",
+    "lng": "49.5833",
+    "id": "1643039639"
+  },
+  {
+    "city": "Artëm",
+    "city_ascii": "Artem",
+    "admin_name": "Primorskiy Kray",
+    "lat": "43.3667",
+    "lng": "132.2000",
+    "id": "1643978240"
+  },
+  {
+    "city": "Novyy Urengoy",
+    "city_ascii": "Novyy Urengoy",
+    "admin_name": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "lat": "66.0833",
+    "lng": "76.6833",
+    "id": "1643427847"
+  },
+  {
+    "city": "Vidnoye",
+    "city_ascii": "Vidnoye",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.5500",
+    "lng": "37.7167",
+    "id": "1643052393"
+  },
+  {
+    "city": "Khanty-Mansiysk",
+    "city_ascii": "Khanty-Mansiysk",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "61.0000",
+    "lng": "69.0000",
+    "id": "1643001221"
+  },
+  {
+    "city": "Seversk",
+    "city_ascii": "Seversk",
+    "admin_name": "Tomskaya Oblast’",
+    "lat": "56.6000",
+    "lng": "84.8500",
+    "id": "1643818456"
+  },
+  {
+    "city": "Kamyshin",
+    "city_ascii": "Kamyshin",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "50.0833",
+    "lng": "45.4000",
+    "id": "1643117920"
+  },
+  {
+    "city": "Murom",
+    "city_ascii": "Murom",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "55.5667",
+    "lng": "42.0333",
+    "id": "1643769134"
+  },
+  {
+    "city": "Orekhovo-Zuyevo",
+    "city_ascii": "Orekhovo-Zuyevo",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.8000",
+    "lng": "38.9667",
+    "id": "1643381342"
+  },
+  {
+    "city": "Arzamas",
+    "city_ascii": "Arzamas",
+    "admin_name": "Nizhegorodskaya Oblast’",
+    "lat": "55.4000",
+    "lng": "43.8167",
+    "id": "1643088735"
+  },
+  {
+    "city": "Elista",
+    "city_ascii": "Elista",
+    "admin_name": "Kalmykiya",
+    "lat": "46.3167",
+    "lng": "44.2667",
+    "id": "1643581064"
+  },
+  {
+    "city": "Noyabrsk",
+    "city_ascii": "Noyabrsk",
+    "admin_name": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "lat": "63.2000",
+    "lng": "75.4500",
+    "id": "1643340196"
+  },
+  {
+    "city": "Berdsk",
+    "city_ascii": "Berdsk",
+    "admin_name": "Novosibirskaya Oblast’",
+    "lat": "54.7500",
+    "lng": "83.1000",
+    "id": "1643751718"
+  },
+  {
+    "city": "Noginsk",
+    "city_ascii": "Noginsk",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.8500",
+    "lng": "38.4333",
+    "id": "1643001706"
+  },
+  {
+    "city": "Novoshakhtinsk",
+    "city_ascii": "Novoshakhtinsk",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.7667",
+    "lng": "39.9167",
+    "id": "1643535469"
+  },
+  {
+    "city": "Yelets",
+    "city_ascii": "Yelets",
+    "admin_name": "Lipetskaya Oblast’",
+    "lat": "52.6167",
+    "lng": "38.4667",
+    "id": "1643014014"
+  },
+  {
+    "city": "Achinsk",
+    "city_ascii": "Achinsk",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "56.2817",
+    "lng": "90.5039",
+    "id": "1643890929"
+  },
+  {
+    "city": "Tobolsk",
+    "city_ascii": "Tobolsk",
+    "admin_name": "Tyumenskaya Oblast’",
+    "lat": "58.2000",
+    "lng": "68.2667",
+    "id": "1643201261"
+  },
+  {
+    "city": "Zelënodol’sk",
+    "city_ascii": "Zelenodol'sk",
+    "admin_name": "Tatarstan",
+    "lat": "55.8500",
+    "lng": "48.5167",
+    "id": "1643223486"
+  },
+  {
+    "city": "Novokuybyshevsk",
+    "city_ascii": "Novokuybyshevsk",
+    "admin_name": "Samarskaya Oblast’",
+    "lat": "53.1000",
+    "lng": "49.9333",
+    "id": "1643467643"
+  },
+  {
+    "city": "Sergiyev Posad",
+    "city_ascii": "Sergiyev Posad",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "56.3150",
+    "lng": "38.1367",
+    "id": "1643900929"
+  },
+  {
+    "city": "Zheleznogorsk",
+    "city_ascii": "Zheleznogorsk",
+    "admin_name": "Kurskaya Oblast’",
+    "lat": "52.3333",
+    "lng": "35.3667",
+    "id": "1643006066"
+  },
+  {
+    "city": "Mezhdurechensk",
+    "city_ascii": "Mezhdurechensk",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "53.6864",
+    "lng": "88.0703",
+    "id": "1643201199"
+  },
+  {
+    "city": "Votkinsk",
+    "city_ascii": "Votkinsk",
+    "admin_name": "Udmurtiya",
+    "lat": "57.0500",
+    "lng": "54.0000",
+    "id": "1643007991"
+  },
+  {
+    "city": "Serov",
+    "city_ascii": "Serov",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "59.6000",
+    "lng": "60.5667",
+    "id": "1643278883"
+  },
+  {
+    "city": "Leninsk-Kuznetskiy",
+    "city_ascii": "Leninsk-Kuznetskiy",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "54.6575",
+    "lng": "86.1617",
+    "id": "1643591516"
+  },
+  {
+    "city": "Gatchina",
+    "city_ascii": "Gatchina",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "59.5833",
+    "lng": "30.1333",
+    "id": "1643318154"
+  },
+  {
+    "city": "Michurinsk",
+    "city_ascii": "Michurinsk",
+    "admin_name": "Tambovskaya Oblast’",
+    "lat": "52.8833",
+    "lng": "40.4833",
+    "id": "1643419559"
+  },
+  {
+    "city": "Sarapul",
+    "city_ascii": "Sarapul",
+    "admin_name": "Udmurtiya",
+    "lat": "56.4667",
+    "lng": "53.8000",
+    "id": "1643320672"
+  },
+  {
+    "city": "Magadan",
+    "city_ascii": "Magadan",
+    "admin_name": "Magadanskaya Oblast’",
+    "lat": "59.5667",
+    "lng": "150.8000",
+    "id": "1643216966"
+  },
+  {
+    "city": "Solikamsk",
+    "city_ascii": "Solikamsk",
+    "admin_name": "Permskiy Kray",
+    "lat": "59.6433",
+    "lng": "56.7500",
+    "id": "1643137756"
+  },
+  {
+    "city": "Buzuluk",
+    "city_ascii": "Buzuluk",
+    "admin_name": "Orenburgskaya Oblast’",
+    "lat": "52.7833",
+    "lng": "52.2500",
+    "id": "1643877351"
+  },
+  {
+    "city": "Glazov",
+    "city_ascii": "Glazov",
+    "admin_name": "Udmurtiya",
+    "lat": "58.1333",
+    "lng": "52.6667",
+    "id": "1643380964"
+  },
+  {
+    "city": "Reutov",
+    "city_ascii": "Reutov",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.7622",
+    "lng": "37.8567",
+    "id": "1643138327"
+  },
+  {
+    "city": "Kansk",
+    "city_ascii": "Kansk",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "56.2000",
+    "lng": "95.7167",
+    "id": "1643874419"
+  },
+  {
+    "city": "Chekhov",
+    "city_ascii": "Chekhov",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.1500",
+    "lng": "37.4500",
+    "id": "1643988618"
+  },
+  {
+    "city": "Shchëkino",
+    "city_ascii": "Shchekino",
+    "admin_name": "Tul’skaya Oblast’",
+    "lat": "54.0000",
+    "lng": "37.5167",
+    "id": "1643062876"
+  },
+  {
+    "city": "Velikiye Luki",
+    "city_ascii": "Velikiye Luki",
+    "admin_name": "Pskovskaya Oblast’",
+    "lat": "56.3333",
+    "lng": "30.5333",
+    "id": "1643622811"
+  },
+  {
+    "city": "Anapa",
+    "city_ascii": "Anapa",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "44.8944",
+    "lng": "37.3167",
+    "id": "1643287068"
+  },
+  {
+    "city": "Gubkin",
+    "city_ascii": "Gubkin",
+    "admin_name": "Belgorodskaya Oblast’",
+    "lat": "51.2828",
+    "lng": "37.5353",
+    "id": "1643378602"
+  },
+  {
+    "city": "Kamensk-Shakhtinskiy",
+    "city_ascii": "Kamensk-Shakhtinskiy",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "48.3206",
+    "lng": "40.2611",
+    "id": "1643408575"
+  },
+  {
+    "city": "Zheleznogorsk",
+    "city_ascii": "Zheleznogorsk",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "56.2500",
+    "lng": "93.5333",
+    "id": "1643824002"
+  },
+  {
+    "city": "Yeysk",
+    "city_ascii": "Yeysk",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "46.7111",
+    "lng": "38.2733",
+    "id": "1643587963"
+  },
+  {
+    "city": "Gelendzhik",
+    "city_ascii": "Gelendzhik",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "44.5750",
+    "lng": "38.0725",
+    "id": "1643756962"
+  },
+  {
+    "city": "Azov",
+    "city_ascii": "Azov",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.1083",
+    "lng": "39.4181",
+    "id": "1643548776"
+  },
+  {
+    "city": "Ust’-Ilimsk",
+    "city_ascii": "Ust'-Ilimsk",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "58.0000",
+    "lng": "102.6667",
+    "id": "1643673948"
+  },
+  {
+    "city": "Bugulma",
+    "city_ascii": "Bugulma",
+    "admin_name": "Tatarstan",
+    "lat": "54.5364",
+    "lng": "52.7975",
+    "id": "1643987882"
+  },
+  {
+    "city": "Kuznetsk",
+    "city_ascii": "Kuznetsk",
+    "admin_name": "Penzenskaya Oblast’",
+    "lat": "53.1167",
+    "lng": "46.6000",
+    "id": "1643787798"
+  },
+  {
+    "city": "Vsevolozhsk",
+    "city_ascii": "Vsevolozhsk",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "60.0333",
+    "lng": "30.6667",
+    "id": "1643253701"
+  },
+  {
+    "city": "Novouralsk",
+    "city_ascii": "Novouralsk",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "57.2500",
+    "lng": "60.0833",
+    "id": "1643155652"
+  },
+  {
+    "city": "Kineshma",
+    "city_ascii": "Kineshma",
+    "admin_name": "Ivanovskaya Oblast’",
+    "lat": "57.4333",
+    "lng": "42.1333",
+    "id": "1643014487"
+  },
+  {
+    "city": "Bor",
+    "city_ascii": "Bor",
+    "admin_name": "Nizhegorodskaya Oblast’",
+    "lat": "56.3500",
+    "lng": "44.0833",
+    "id": "1643006538"
+  },
+  {
+    "city": "Ukhta",
+    "city_ascii": "Ukhta",
+    "admin_name": "Komi",
+    "lat": "63.5667",
+    "lng": "53.7000",
+    "id": "1643005165"
+  },
+  {
+    "city": "Ozërsk",
+    "city_ascii": "Ozersk",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "55.7500",
+    "lng": "60.7167",
+    "id": "1643881437"
+  },
+  {
+    "city": "Chaykovskiy",
+    "city_ascii": "Chaykovskiy",
+    "admin_name": "Permskiy Kray",
+    "lat": "56.7667",
+    "lng": "54.1500",
+    "id": "1643089795"
+  },
+  {
+    "city": "Kropotkin",
+    "city_ascii": "Kropotkin",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "45.4333",
+    "lng": "40.5667",
+    "id": "1643006243"
+  },
+  {
+    "city": "Usol’ye-Sibirskoye",
+    "city_ascii": "Usol'ye-Sibirskoye",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "52.7500",
+    "lng": "103.6333",
+    "id": "1643895073"
+  },
+  {
+    "city": "Naro-Fominsk",
+    "city_ascii": "Naro-Fominsk",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.3833",
+    "lng": "36.7667",
+    "id": "1643037888"
+  },
+  {
+    "city": "Novotroitsk",
+    "city_ascii": "Novotroitsk",
+    "admin_name": "Orenburgskaya Oblast’",
+    "lat": "51.2039",
+    "lng": "58.3114",
+    "id": "1643186193"
+  },
+  {
+    "city": "Balashov",
+    "city_ascii": "Balashov",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "51.5469",
+    "lng": "43.1733",
+    "id": "1643009402"
+  },
+  {
+    "city": "Dubna",
+    "city_ascii": "Dubna",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "56.7364",
+    "lng": "37.1625",
+    "id": "1643266302"
+  },
+  {
+    "city": "Yelabuga",
+    "city_ascii": "Yelabuga",
+    "admin_name": "Tatarstan",
+    "lat": "55.7667",
+    "lng": "52.0833",
+    "id": "1643438030"
+  },
+  {
+    "city": "Verkhnyaya Pyshma",
+    "city_ascii": "Verkhnyaya Pyshma",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.9761",
+    "lng": "60.5944",
+    "id": "1643491878"
+  },
+  {
+    "city": "Birobidzhan",
+    "city_ascii": "Birobidzhan",
+    "admin_name": "Yevreyskaya Avtonomnaya Oblast’",
+    "lat": "48.8000",
+    "lng": "132.9333",
+    "id": "1643548797"
+  },
+  {
+    "city": "Novoaltaysk",
+    "city_ascii": "Novoaltaysk",
+    "admin_name": "Altayskiy Kray",
+    "lat": "53.3833",
+    "lng": "83.9333",
+    "id": "1643896344"
+  },
+  {
+    "city": "Kotelniki",
+    "city_ascii": "Kotelniki",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.6617",
+    "lng": "37.8672",
+    "id": "1643514399"
+  },
+  {
+    "city": "Sertolovo",
+    "city_ascii": "Sertolovo",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "60.1500",
+    "lng": "30.2167",
+    "id": "1643009710"
+  },
+  {
+    "city": "Anzhero-Sudzhensk",
+    "city_ascii": "Anzhero-Sudzhensk",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "56.0833",
+    "lng": "86.0333",
+    "id": "1643779858"
+  },
+  {
+    "city": "Kirovo-Chepetsk",
+    "city_ascii": "Kirovo-Chepetsk",
+    "admin_name": "Kirovskaya Oblast’",
+    "lat": "58.5500",
+    "lng": "50.0000",
+    "id": "1643630912"
+  },
+  {
+    "city": "Vyborg",
+    "city_ascii": "Vyborg",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "60.7167",
+    "lng": "28.7667",
+    "id": "1643778472"
+  },
+  {
+    "city": "Chapayevsk",
+    "city_ascii": "Chapayevsk",
+    "admin_name": "Samarskaya Oblast’",
+    "lat": "52.9833",
+    "lng": "49.7167",
+    "id": "1643027172"
+  },
+  {
+    "city": "Troitsk",
+    "city_ascii": "Troitsk",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "54.0833",
+    "lng": "61.5667",
+    "id": "1643374193"
+  },
+  {
+    "city": "Buynaksk",
+    "city_ascii": "Buynaksk",
+    "admin_name": "Dagestan",
+    "lat": "42.8167",
+    "lng": "47.1167",
+    "id": "1643980922"
+  },
+  {
+    "city": "Apatity",
+    "city_ascii": "Apatity",
+    "admin_name": "Murmanskaya Oblast’",
+    "lat": "67.5667",
+    "lng": "33.4000",
+    "id": "1643183303"
+  },
+  {
+    "city": "Mineral’nyye Vody",
+    "city_ascii": "Mineral'nyye Vody",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "44.2167",
+    "lng": "43.1333",
+    "id": "1643357328"
+  },
+  {
+    "city": "Minusinsk",
+    "city_ascii": "Minusinsk",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "53.7000",
+    "lng": "91.6833",
+    "id": "1643003309"
+  },
+  {
+    "city": "Tuymazy",
+    "city_ascii": "Tuymazy",
+    "admin_name": "Bashkortostan",
+    "lat": "54.6000",
+    "lng": "53.7000",
+    "id": "1643065980"
+  },
+  {
+    "city": "Ishim",
+    "city_ascii": "Ishim",
+    "admin_name": "Tyumenskaya Oblast’",
+    "lat": "56.1167",
+    "lng": "69.5000",
+    "id": "1643798395"
+  },
+  {
+    "city": "Vorkuta",
+    "city_ascii": "Vorkuta",
+    "admin_name": "Komi",
+    "lat": "67.5000",
+    "lng": "64.0333",
+    "id": "1643002916"
+  },
+  {
+    "city": "Lytkarino",
+    "city_ascii": "Lytkarino",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.5833",
+    "lng": "37.9000",
+    "id": "1643669152"
+  },
+  {
+    "city": "Gudermes",
+    "city_ascii": "Gudermes",
+    "admin_name": "Chechnya",
+    "lat": "43.3500",
+    "lng": "46.1000",
+    "id": "1643035629"
+  },
+  {
+    "city": "Urus-Martan",
+    "city_ascii": "Urus-Martan",
+    "admin_name": "Chechnya",
+    "lat": "43.1333",
+    "lng": "45.5500",
+    "id": "1643013764"
+  },
+  {
+    "city": "Pavlovskiy Posad",
+    "city_ascii": "Pavlovskiy Posad",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.7667",
+    "lng": "38.6667",
+    "id": "1643881333"
+  },
+  {
+    "city": "Beloretsk",
+    "city_ascii": "Beloretsk",
+    "admin_name": "Bashkortostan",
+    "lat": "53.9667",
+    "lng": "58.4000",
+    "id": "1643447458"
+  },
+  {
+    "city": "Ishimbay",
+    "city_ascii": "Ishimbay",
+    "admin_name": "Bashkortostan",
+    "lat": "53.4500",
+    "lng": "56.0333",
+    "id": "1643130656"
+  },
+  {
+    "city": "Donskoy",
+    "city_ascii": "Donskoy",
+    "admin_name": "Tul’skaya Oblast’",
+    "lat": "53.9658",
+    "lng": "38.3247",
+    "id": "1643224911"
+  },
+  {
+    "city": "Stupino",
+    "city_ascii": "Stupino",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "54.8833",
+    "lng": "38.1000",
+    "id": "1643209318"
+  },
+  {
+    "city": "Gorno-Altaysk",
+    "city_ascii": "Gorno-Altaysk",
+    "admin_name": "Altay",
+    "lat": "51.9500",
+    "lng": "85.9667",
+    "id": "1643549691"
+  },
+  {
+    "city": "Novaya Balakhna",
+    "city_ascii": "Novaya Balakhna",
+    "admin_name": "Nizhegorodskaya Oblast’",
+    "lat": "56.4899",
+    "lng": "43.6011",
+    "id": "1643658083"
+  },
+  {
+    "city": "Klintsy",
+    "city_ascii": "Klintsy",
+    "admin_name": "Bryanskaya Oblast’",
+    "lat": "52.7500",
+    "lng": "32.2333",
+    "id": "1643620360"
+  },
+  {
+    "city": "Nyagan",
+    "city_ascii": "Nyagan",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "62.1333",
+    "lng": "65.3833",
+    "id": "1643802074"
+  },
+  {
+    "city": "Dmitrov",
+    "city_ascii": "Dmitrov",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "56.3500",
+    "lng": "37.5333",
+    "id": "1643642162"
+  },
+  {
+    "city": "Shuya",
+    "city_ascii": "Shuya",
+    "admin_name": "Ivanovskaya Oblast’",
+    "lat": "56.8500",
+    "lng": "41.3667",
+    "id": "1643360424"
+  },
+  {
+    "city": "Kungur",
+    "city_ascii": "Kungur",
+    "admin_name": "Permskiy Kray",
+    "lat": "57.4333",
+    "lng": "56.9333",
+    "id": "1643194296"
+  },
+  {
+    "city": "Kstovo",
+    "city_ascii": "Kstovo",
+    "admin_name": "Nizhegorodskaya Oblast’",
+    "lat": "56.1667",
+    "lng": "44.1667",
+    "id": "1643713056"
+  },
+  {
+    "city": "Georgiyevsk",
+    "city_ascii": "Georgiyevsk",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "44.1500",
+    "lng": "43.4667",
+    "id": "1643279802"
+  },
+  {
+    "city": "Leninogorsk",
+    "city_ascii": "Leninogorsk",
+    "admin_name": "Tatarstan",
+    "lat": "54.6000",
+    "lng": "52.5000",
+    "id": "1643010350"
+  },
+  {
+    "city": "Rossosh",
+    "city_ascii": "Rossosh",
+    "admin_name": "Voronezhskaya Oblast’",
+    "lat": "50.2000",
+    "lng": "39.5500",
+    "id": "1643115757"
+  },
+  {
+    "city": "Aleksin",
+    "city_ascii": "Aleksin",
+    "admin_name": "Tul’skaya Oblast’",
+    "lat": "54.5167",
+    "lng": "37.1000",
+    "id": "1643013998"
+  },
+  {
+    "city": "Borisoglebsk",
+    "city_ascii": "Borisoglebsk",
+    "admin_name": "Voronezhskaya Oblast’",
+    "lat": "51.3667",
+    "lng": "42.0833",
+    "id": "1643002462"
+  },
+  {
+    "city": "Fryazino",
+    "city_ascii": "Fryazino",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.9500",
+    "lng": "38.0500",
+    "id": "1643988572"
+  },
+  {
+    "city": "Berëzovskiy",
+    "city_ascii": "Berezovskiy",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.9000",
+    "lng": "60.8167",
+    "id": "1643702962"
+  },
+  {
+    "city": "Gukovo",
+    "city_ascii": "Gukovo",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "48.0500",
+    "lng": "39.9167",
+    "id": "1643040094"
+  },
+  {
+    "city": "Belogorsk",
+    "city_ascii": "Belogorsk",
+    "admin_name": "Amurskaya Oblast’",
+    "lat": "50.9167",
+    "lng": "128.4667",
+    "id": "1643671200"
+  },
+  {
+    "city": "Prokhladnyy",
+    "city_ascii": "Prokhladnyy",
+    "admin_name": "Kabardino-Balkariya",
+    "lat": "43.7500",
+    "lng": "44.0333",
+    "id": "1643315117"
+  },
+  {
+    "city": "Revda",
+    "city_ascii": "Revda",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.8053",
+    "lng": "59.9283",
+    "id": "1643633975"
+  },
+  {
+    "city": "Belebey",
+    "city_ascii": "Belebey",
+    "admin_name": "Bashkortostan",
+    "lat": "54.1000",
+    "lng": "54.1333",
+    "id": "1643040403"
+  },
+  {
+    "city": "Chistopol",
+    "city_ascii": "Chistopol",
+    "admin_name": "Tatarstan",
+    "lat": "55.3647",
+    "lng": "50.6261",
+    "id": "1643992511"
+  },
+  {
+    "city": "Zarechnyy",
+    "city_ascii": "Zarechnyy",
+    "admin_name": "Penzenskaya Oblast’",
+    "lat": "53.2000",
+    "lng": "45.1667",
+    "id": "1643027966"
+  },
+  {
+    "city": "Kumertau",
+    "city_ascii": "Kumertau",
+    "admin_name": "Bashkortostan",
+    "lat": "52.7667",
+    "lng": "55.7833",
+    "id": "1643237908"
+  },
+  {
+    "city": "Salsk",
+    "city_ascii": "Salsk",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "46.4833",
+    "lng": "41.5333",
+    "id": "1643005627"
+  },
+  {
+    "city": "Dzerzhinskiy",
+    "city_ascii": "Dzerzhinskiy",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.6333",
+    "lng": "37.8500",
+    "id": "1643369563"
+  },
+  {
+    "city": "Iskitim",
+    "city_ascii": "Iskitim",
+    "admin_name": "Novosibirskaya Oblast’",
+    "lat": "54.6400",
+    "lng": "83.3061",
+    "id": "1643924276"
+  },
+  {
+    "city": "Pavlovo",
+    "city_ascii": "Pavlovo",
+    "admin_name": "Nizhegorodskaya Oblast’",
+    "lat": "55.9653",
+    "lng": "43.0711",
+    "id": "1643644827"
+  },
+  {
+    "city": "Shali",
+    "city_ascii": "Shali",
+    "admin_name": "Chechnya",
+    "lat": "43.1500",
+    "lng": "45.9000",
+    "id": "1643096920"
+  },
+  {
+    "city": "Aleksandrov",
+    "city_ascii": "Aleksandrov",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "56.4000",
+    "lng": "38.7333",
+    "id": "1643014960"
+  },
+  {
+    "city": "Asbest",
+    "city_ascii": "Asbest",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "57.0000",
+    "lng": "61.4667",
+    "id": "1643561210"
+  },
+  {
+    "city": "Sibay",
+    "city_ascii": "Sibay",
+    "admin_name": "Bashkortostan",
+    "lat": "52.7000",
+    "lng": "58.6500",
+    "id": "1643012532"
+  },
+  {
+    "city": "Meleuz",
+    "city_ascii": "Meleuz",
+    "admin_name": "Bashkortostan",
+    "lat": "52.9500",
+    "lng": "55.9333",
+    "id": "1643373593"
+  },
+  {
+    "city": "Budënnovsk",
+    "city_ascii": "Budennovsk",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "44.7833",
+    "lng": "44.1667",
+    "id": "1643010057"
+  },
+  {
+    "city": "Kotlas",
+    "city_ascii": "Kotlas",
+    "admin_name": "Arkhangel’skaya Oblast’",
+    "lat": "61.2500",
+    "lng": "46.6333",
+    "id": "1643953441"
+  },
+  {
+    "city": "Mikhaylovka",
+    "city_ascii": "Mikhaylovka",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "50.0667",
+    "lng": "43.2500",
+    "id": "1643239180"
+  },
+  {
+    "city": "Izberbash",
+    "city_ascii": "Izberbash",
+    "admin_name": "Dagestan",
+    "lat": "42.5633",
+    "lng": "47.8636",
+    "id": "1643417777"
+  },
+  {
+    "city": "Rzhev",
+    "city_ascii": "Rzhev",
+    "admin_name": "Tverskaya Oblast’",
+    "lat": "56.2500",
+    "lng": "34.3167",
+    "id": "1643967736"
+  },
+  {
+    "city": "Lesosibirsk",
+    "city_ascii": "Lesosibirsk",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "58.2358",
+    "lng": "92.4828",
+    "id": "1643351184"
+  },
+  {
+    "city": "Krasnotur’insk",
+    "city_ascii": "Krasnotur'insk",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "59.7733",
+    "lng": "60.1853",
+    "id": "1643475253"
+  },
+  {
+    "city": "Volsk",
+    "city_ascii": "Volsk",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "52.0500",
+    "lng": "47.3833",
+    "id": "1643293120"
+  },
+  {
+    "city": "Belorechensk",
+    "city_ascii": "Belorechensk",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "44.7686",
+    "lng": "39.8733",
+    "id": "1643229263"
+  },
+  {
+    "city": "Tikhoretsk",
+    "city_ascii": "Tikhoretsk",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "45.8667",
+    "lng": "40.1333",
+    "id": "1643615827"
+  },
+  {
+    "city": "Polevskoy",
+    "city_ascii": "Polevskoy",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.4500",
+    "lng": "60.1833",
+    "id": "1643717197"
+  },
+  {
+    "city": "Zelenogorsk",
+    "city_ascii": "Zelenogorsk",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "56.1000",
+    "lng": "94.5833",
+    "id": "1643010181"
+  },
+  {
+    "city": "Liski",
+    "city_ascii": "Liski",
+    "admin_name": "Voronezhskaya Oblast’",
+    "lat": "50.9667",
+    "lng": "39.5167",
+    "id": "1643945171"
+  },
+  {
+    "city": "Cheremkhovo",
+    "city_ascii": "Cheremkhovo",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "53.1500",
+    "lng": "103.0833",
+    "id": "1643007385"
+  },
+  {
+    "city": "Tikhvin",
+    "city_ascii": "Tikhvin",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "59.6500",
+    "lng": "33.5333",
+    "id": "1643955290"
+  },
+  {
+    "city": "Neryungri",
+    "city_ascii": "Neryungri",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "56.6833",
+    "lng": "124.6667",
+    "id": "1643755298"
+  },
+  {
+    "city": "Lysva",
+    "city_ascii": "Lysva",
+    "admin_name": "Permskiy Kray",
+    "lat": "58.1003",
+    "lng": "57.8042",
+    "id": "1643566094"
+  },
+  {
+    "city": "Megion",
+    "city_ascii": "Megion",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "61.0331",
+    "lng": "76.1097",
+    "id": "1643111689"
+  },
+  {
+    "city": "Krasnokamensk",
+    "city_ascii": "Krasnokamensk",
+    "admin_name": "Zabaykal’skiy Kray",
+    "lat": "50.1000",
+    "lng": "118.0333",
+    "id": "1643383674"
+  },
+  {
+    "city": "Volzhsk",
+    "city_ascii": "Volzhsk",
+    "admin_name": "Mariy-El",
+    "lat": "55.8703",
+    "lng": "48.3561",
+    "id": "1643457067"
+  },
+  {
+    "city": "Slavyansk-na-Kubani",
+    "city_ascii": "Slavyansk-na-Kubani",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "45.2500",
+    "lng": "38.1167",
+    "id": "1643757173"
+  },
+  {
+    "city": "Gus’-Khrustal’nyy",
+    "city_ascii": "Gus'-Khrustal'nyy",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "55.6167",
+    "lng": "40.6833",
+    "id": "1643398222"
+  },
+  {
+    "city": "Timashevsk",
+    "city_ascii": "Timashevsk",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "45.6167",
+    "lng": "38.9333",
+    "id": "1643049653"
+  },
+  {
+    "city": "Salekhard",
+    "city_ascii": "Salekhard",
+    "admin_name": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "lat": "66.5333",
+    "lng": "66.6000",
+    "id": "1643083395"
+  },
+  {
+    "city": "Snezhinsk",
+    "city_ascii": "Snezhinsk",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "56.0833",
+    "lng": "60.7333",
+    "id": "1643306230"
+  },
+  {
+    "city": "Vyazma",
+    "city_ascii": "Vyazma",
+    "admin_name": "Smolenskaya Oblast’",
+    "lat": "55.2107",
+    "lng": "34.2912",
+    "id": "1643507171"
+  },
+  {
+    "city": "Kizlyar",
+    "city_ascii": "Kizlyar",
+    "admin_name": "Dagestan",
+    "lat": "43.8500",
+    "lng": "46.7167",
+    "id": "1643912106"
+  },
+  {
+    "city": "Kirishi",
+    "city_ascii": "Kirishi",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "59.4500",
+    "lng": "32.0167",
+    "id": "1643837695"
+  },
+  {
+    "city": "Uzlovaya",
+    "city_ascii": "Uzlovaya",
+    "admin_name": "Tul’skaya Oblast’",
+    "lat": "53.9833",
+    "lng": "38.1667",
+    "id": "1643849363"
+  },
+  {
+    "city": "Kingisepp",
+    "city_ascii": "Kingisepp",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "59.3667",
+    "lng": "28.6167",
+    "id": "1643712718"
+  },
+  {
+    "city": "Svobodnyy",
+    "city_ascii": "Svobodnyy",
+    "admin_name": "Amurskaya Oblast’",
+    "lat": "51.4000",
+    "lng": "128.1000",
+    "id": "1643016250"
+  },
+  {
+    "city": "Zhigulevsk",
+    "city_ascii": "Zhigulevsk",
+    "admin_name": "Samarskaya Oblast’",
+    "lat": "53.3997",
+    "lng": "49.4953",
+    "id": "1643351936"
+  },
+  {
+    "city": "Aksay",
+    "city_ascii": "Aksay",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.2500",
+    "lng": "39.8667",
+    "id": "1643659025"
+  },
+  {
+    "city": "Lesnoy",
+    "city_ascii": "Lesnoy",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "58.6333",
+    "lng": "59.7833",
+    "id": "1643751945"
+  },
+  {
+    "city": "Krasnokamsk",
+    "city_ascii": "Krasnokamsk",
+    "admin_name": "Permskiy Kray",
+    "lat": "58.0833",
+    "lng": "55.6833",
+    "id": "1643177240"
+  },
+  {
+    "city": "Borovichi",
+    "city_ascii": "Borovichi",
+    "admin_name": "Novgorodskaya Oblast’",
+    "lat": "58.4000",
+    "lng": "33.9167",
+    "id": "1643059892"
+  },
+  {
+    "city": "Rasskazovo",
+    "city_ascii": "Rasskazovo",
+    "admin_name": "Tambovskaya Oblast’",
+    "lat": "52.6667",
+    "lng": "41.8833",
+    "id": "1643014647"
+  },
+  {
+    "city": "Solnechnogorsk",
+    "city_ascii": "Solnechnogorsk",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "56.1833",
+    "lng": "36.9833",
+    "id": "1643958876"
+  },
+  {
+    "city": "Arsenyev",
+    "city_ascii": "Arsenyev",
+    "admin_name": "Primorskiy Kray",
+    "lat": "44.1667",
+    "lng": "133.2500",
+    "id": "1643534912"
+  },
+  {
+    "city": "Otradnyy",
+    "city_ascii": "Otradnyy",
+    "admin_name": "Samarskaya Oblast’",
+    "lat": "53.3667",
+    "lng": "51.3500",
+    "id": "1643670563"
+  },
+  {
+    "city": "Donetsk",
+    "city_ascii": "Donetsk",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "48.3333",
+    "lng": "39.9333",
+    "id": "1643627132"
+  },
+  {
+    "city": "Yurga",
+    "city_ascii": "Yurga",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "55.7231",
+    "lng": "84.8861",
+    "id": "1643047994"
+  },
+  {
+    "city": "Kurganinsk",
+    "city_ascii": "Kurganinsk",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "44.8667",
+    "lng": "40.6167",
+    "id": "1643002399"
+  },
+  {
+    "city": "Vyshniy Volochëk",
+    "city_ascii": "Vyshniy Volochek",
+    "admin_name": "Tverskaya Oblast’",
+    "lat": "57.5833",
+    "lng": "34.5667",
+    "id": "1643616804"
+  },
+  {
+    "city": "Nazarovo",
+    "city_ascii": "Nazarovo",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "56.0000",
+    "lng": "90.3833",
+    "id": "1643743440"
+  },
+  {
+    "city": "Vyksa",
+    "city_ascii": "Vyksa",
+    "admin_name": "Nizhegorodskaya Oblast’",
+    "lat": "55.3167",
+    "lng": "42.1667",
+    "id": "1643006557"
+  },
+  {
+    "city": "Nadym",
+    "city_ascii": "Nadym",
+    "admin_name": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "lat": "65.5333",
+    "lng": "72.5167",
+    "id": "1643709121"
+  },
+  {
+    "city": "Parma",
+    "city_ascii": "Parma",
+    "admin_name": "Komi",
+    "lat": "65.9230",
+    "lng": "57.4030",
+    "id": "1643982067"
+  },
+  {
+    "city": "Chusovoy",
+    "city_ascii": "Chusovoy",
+    "admin_name": "Permskiy Kray",
+    "lat": "58.3167",
+    "lng": "57.8167",
+    "id": "1643341477"
+  },
+  {
+    "city": "Chebarkul",
+    "city_ascii": "Chebarkul",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "54.9833",
+    "lng": "60.3667",
+    "id": "1643618231"
+  },
+  {
+    "city": "Kanash",
+    "city_ascii": "Kanash",
+    "admin_name": "Chuvashiya",
+    "lat": "55.5069",
+    "lng": "47.4914",
+    "id": "1643340791"
+  },
+  {
+    "city": "Karabulak",
+    "city_ascii": "Karabulak",
+    "admin_name": "Ingushetiya",
+    "lat": "43.3167",
+    "lng": "44.9167",
+    "id": "1643010318"
+  },
+  {
+    "city": "Birsk",
+    "city_ascii": "Birsk",
+    "admin_name": "Bashkortostan",
+    "lat": "55.4167",
+    "lng": "55.5333",
+    "id": "1643348438"
+  },
+  {
+    "city": "Kiselëvsk",
+    "city_ascii": "Kiselevsk",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "54.0000",
+    "lng": "86.6500",
+    "id": "1643153158"
+  },
+  {
+    "city": "Gryazi",
+    "city_ascii": "Gryazi",
+    "admin_name": "Lipetskaya Oblast’",
+    "lat": "52.5000",
+    "lng": "39.9667",
+    "id": "1643963705"
+  },
+  {
+    "city": "Roslavl",
+    "city_ascii": "Roslavl",
+    "admin_name": "Smolenskaya Oblast’",
+    "lat": "53.9500",
+    "lng": "32.8833",
+    "id": "1643356591"
+  },
+  {
+    "city": "Raduzhnyy",
+    "city_ascii": "Raduzhnyy",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "62.1333",
+    "lng": "77.4667",
+    "id": "1643039023"
+  },
+  {
+    "city": "Mozhga",
+    "city_ascii": "Mozhga",
+    "admin_name": "Udmurtiya",
+    "lat": "56.4500",
+    "lng": "52.2167",
+    "id": "1643022471"
+  },
+  {
+    "city": "Severomorsk",
+    "city_ascii": "Severomorsk",
+    "admin_name": "Murmanskaya Oblast’",
+    "lat": "69.0667",
+    "lng": "33.4167",
+    "id": "1643295687"
+  },
+  {
+    "city": "Livny",
+    "city_ascii": "Livny",
+    "admin_name": "Orlovskaya Oblast’",
+    "lat": "52.4239",
+    "lng": "37.5997",
+    "id": "1643284653"
+  },
+  {
+    "city": "Goryachiy Klyuch",
+    "city_ascii": "Goryachiy Klyuch",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "44.6333",
+    "lng": "39.1333",
+    "id": "1643630815"
+  },
+  {
+    "city": "Satka",
+    "city_ascii": "Satka",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "55.0500",
+    "lng": "59.0333",
+    "id": "1643644802"
+  },
+  {
+    "city": "Shelekhov",
+    "city_ascii": "Shelekhov",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "52.2167",
+    "lng": "104.1167",
+    "id": "1643613779"
+  },
+  {
+    "city": "Lyudinovo",
+    "city_ascii": "Lyudinovo",
+    "admin_name": "Kaluzhskaya Oblast’",
+    "lat": "53.8667",
+    "lng": "34.4333",
+    "id": "1643598604"
+  },
+  {
+    "city": "Gay",
+    "city_ascii": "Gay",
+    "admin_name": "Orenburgskaya Oblast’",
+    "lat": "51.4678",
+    "lng": "58.4431",
+    "id": "1643216197"
+  },
+  {
+    "city": "Maloyaroslavets",
+    "city_ascii": "Maloyaroslavets",
+    "admin_name": "Kaluzhskaya Oblast’",
+    "lat": "55.0167",
+    "lng": "36.4667",
+    "id": "1643014206"
+  },
+  {
+    "city": "Uray",
+    "city_ascii": "Uray",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "60.1333",
+    "lng": "64.8000",
+    "id": "1643009149"
+  },
+  {
+    "city": "Zarinsk",
+    "city_ascii": "Zarinsk",
+    "admin_name": "Altayskiy Kray",
+    "lat": "53.7089",
+    "lng": "84.9672",
+    "id": "1643009932"
+  },
+  {
+    "city": "Torzhok",
+    "city_ascii": "Torzhok",
+    "admin_name": "Tverskaya Oblast’",
+    "lat": "57.0333",
+    "lng": "34.9667",
+    "id": "1643710105"
+  },
+  {
+    "city": "Temryuk",
+    "city_ascii": "Temryuk",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "45.2667",
+    "lng": "37.3667",
+    "id": "1643588256"
+  },
+  {
+    "city": "Kimry",
+    "city_ascii": "Kimry",
+    "admin_name": "Tverskaya Oblast’",
+    "lat": "56.8667",
+    "lng": "37.3500",
+    "id": "1643056082"
+  },
+  {
+    "city": "Mariinsk",
+    "city_ascii": "Mariinsk",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "56.2000",
+    "lng": "87.7833",
+    "id": "1643015007"
+  },
+  {
+    "city": "Verkhnyaya Salda",
+    "city_ascii": "Verkhnyaya Salda",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "58.0456",
+    "lng": "60.5533",
+    "id": "1643609151"
+  },
+  {
+    "city": "Belaya Kalitva",
+    "city_ascii": "Belaya Kalitva",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "48.1833",
+    "lng": "40.7667",
+    "id": "1643376629"
+  },
+  {
+    "city": "Bol’shoy Kamen’",
+    "city_ascii": "Bol'shoy Kamen'",
+    "admin_name": "Primorskiy Kray",
+    "lat": "43.1167",
+    "lng": "132.3500",
+    "id": "1643747678"
+  },
+  {
+    "city": "Zainsk",
+    "city_ascii": "Zainsk",
+    "admin_name": "Tatarstan",
+    "lat": "55.3000",
+    "lng": "52.0167",
+    "id": "1643336213"
+  },
+  {
+    "city": "Yartsevo",
+    "city_ascii": "Yartsevo",
+    "admin_name": "Smolenskaya Oblast’",
+    "lat": "55.0667",
+    "lng": "32.7000",
+    "id": "1643013101"
+  },
+  {
+    "city": "Pyt’-Yakh",
+    "city_ascii": "Pyt'-Yakh",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "60.7500",
+    "lng": "72.7833",
+    "id": "1643096120"
+  },
+  {
+    "city": "Pugachev",
+    "city_ascii": "Pugachev",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "52.0167",
+    "lng": "48.8000",
+    "id": "1643132953"
+  },
+  {
+    "city": "Baksan",
+    "city_ascii": "Baksan",
+    "admin_name": "Kabardino-Balkariya",
+    "lat": "43.6825",
+    "lng": "43.5339",
+    "id": "1643894887"
+  },
+  {
+    "city": "Tutayev",
+    "city_ascii": "Tutayev",
+    "admin_name": "Yaroslavskaya Oblast’",
+    "lat": "57.8833",
+    "lng": "39.5500",
+    "id": "1643941523"
+  },
+  {
+    "city": "Shebekino",
+    "city_ascii": "Shebekino",
+    "admin_name": "Belgorodskaya Oblast’",
+    "lat": "50.4167",
+    "lng": "36.9000",
+    "id": "1643443268"
+  },
+  {
+    "city": "Apsheronsk",
+    "city_ascii": "Apsheronsk",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "44.4667",
+    "lng": "39.7333",
+    "id": "1643014988"
+  },
+  {
+    "city": "Strezhevoy",
+    "city_ascii": "Strezhevoy",
+    "admin_name": "Tomskaya Oblast’",
+    "lat": "60.7333",
+    "lng": "77.5833",
+    "id": "1643011459"
+  },
+  {
+    "city": "Kurchatov",
+    "city_ascii": "Kurchatov",
+    "admin_name": "Kurskaya Oblast’",
+    "lat": "51.6667",
+    "lng": "35.6500",
+    "id": "1643764083"
+  },
+  {
+    "city": "Morshansk",
+    "city_ascii": "Morshansk",
+    "admin_name": "Tambovskaya Oblast’",
+    "lat": "53.4500",
+    "lng": "41.8167",
+    "id": "1643010235"
+  },
+  {
+    "city": "Yalutorovsk",
+    "city_ascii": "Yalutorovsk",
+    "admin_name": "Tyumenskaya Oblast’",
+    "lat": "56.6500",
+    "lng": "66.2833",
+    "id": "1643158086"
+  },
+  {
+    "city": "Novozybkov",
+    "city_ascii": "Novozybkov",
+    "admin_name": "Bryanskaya Oblast’",
+    "lat": "52.5333",
+    "lng": "31.9333",
+    "id": "1643876625"
+  },
+  {
+    "city": "Pereslavl’-Zalesskiy",
+    "city_ascii": "Pereslavl'-Zalesskiy",
+    "admin_name": "Yaroslavskaya Oblast’",
+    "lat": "56.7333",
+    "lng": "38.8500",
+    "id": "1643256841"
+  },
+  {
+    "city": "Sovetsk",
+    "city_ascii": "Sovetsk",
+    "admin_name": "Kaliningradskaya Oblast’",
+    "lat": "55.0808",
+    "lng": "21.8864",
+    "id": "1643001581"
+  },
+  {
+    "city": "Tulun",
+    "city_ascii": "Tulun",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "54.5667",
+    "lng": "100.5667",
+    "id": "1643545822"
+  },
+  {
+    "city": "Kizilyurt",
+    "city_ascii": "Kizilyurt",
+    "admin_name": "Dagestan",
+    "lat": "43.2167",
+    "lng": "46.8667",
+    "id": "1643796605"
+  },
+  {
+    "city": "Yugorsk",
+    "city_ascii": "Yugorsk",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "61.3167",
+    "lng": "63.3333",
+    "id": "1643279109"
+  },
+  {
+    "city": "Izobil’nyy",
+    "city_ascii": "Izobil'nyy",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "45.3667",
+    "lng": "41.7167",
+    "id": "1643012152"
+  },
+  {
+    "city": "Malgobek",
+    "city_ascii": "Malgobek",
+    "admin_name": "Ingushetiya",
+    "lat": "43.5000",
+    "lng": "44.7500",
+    "id": "1643015431"
+  },
+  {
+    "city": "Rtishchevo",
+    "city_ascii": "Rtishchevo",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "52.2667",
+    "lng": "43.7667",
+    "id": "1643692612"
+  },
+  {
+    "city": "Kolchugino",
+    "city_ascii": "Kolchugino",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "56.3167",
+    "lng": "39.3667",
+    "id": "1643216490"
+  },
+  {
+    "city": "Volkhov",
+    "city_ascii": "Volkhov",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "59.9167",
+    "lng": "32.3000",
+    "id": "1643547178"
+  },
+  {
+    "city": "Yuzhnouralsk",
+    "city_ascii": "Yuzhnouralsk",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "54.4500",
+    "lng": "61.2500",
+    "id": "1643319860"
+  },
+  {
+    "city": "Krasnoufimsk",
+    "city_ascii": "Krasnoufimsk",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.6167",
+    "lng": "57.7722",
+    "id": "1643806300"
+  },
+  {
+    "city": "Zvenigorod",
+    "city_ascii": "Zvenigorod",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.7333",
+    "lng": "36.8500",
+    "id": "1643823915"
+  },
+  {
+    "city": "Protvino",
+    "city_ascii": "Protvino",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "54.8833",
+    "lng": "37.2167",
+    "id": "1643021953"
+  },
+  {
+    "city": "Safonovo",
+    "city_ascii": "Safonovo",
+    "admin_name": "Smolenskaya Oblast’",
+    "lat": "55.1167",
+    "lng": "33.2500",
+    "id": "1643281098"
+  },
+  {
+    "city": "Luga",
+    "city_ascii": "Luga",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "58.7333",
+    "lng": "29.8167",
+    "id": "1643463120"
+  },
+  {
+    "city": "Kachkanar",
+    "city_ascii": "Kachkanar",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "58.7000",
+    "lng": "59.4833",
+    "id": "1643014299"
+  },
+  {
+    "city": "Zavolzhye",
+    "city_ascii": "Zavolzhye",
+    "admin_name": "Nizhegorodskaya Oblast’",
+    "lat": "56.6500",
+    "lng": "43.4000",
+    "id": "1643954070"
+  },
+  {
+    "city": "Shatura",
+    "city_ascii": "Shatura",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.5667",
+    "lng": "39.5500",
+    "id": "1643976065"
+  },
+  {
+    "city": "Uryupinsk",
+    "city_ascii": "Uryupinsk",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "50.8000",
+    "lng": "42.0167",
+    "id": "1643866080"
+  },
+  {
+    "city": "Korkino",
+    "city_ascii": "Korkino",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "54.9000",
+    "lng": "61.4167",
+    "id": "1643383415"
+  },
+  {
+    "city": "Irbit",
+    "city_ascii": "Irbit",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "57.6667",
+    "lng": "63.0667",
+    "id": "1643949941"
+  },
+  {
+    "city": "Alekseyevka",
+    "city_ascii": "Alekseyevka",
+    "admin_name": "Belgorodskaya Oblast’",
+    "lat": "50.6333",
+    "lng": "38.7000",
+    "id": "1643033169"
+  },
+  {
+    "city": "Yefremov",
+    "city_ascii": "Yefremov",
+    "admin_name": "Tul’skaya Oblast’",
+    "lat": "53.1500",
+    "lng": "38.1167",
+    "id": "1643358029"
+  },
+  {
+    "city": "Novaya Usman’",
+    "city_ascii": "Novaya Usman'",
+    "admin_name": "Voronezhskaya Oblast’",
+    "lat": "51.6450",
+    "lng": "39.4142",
+    "id": "1643539163"
+  },
+  {
+    "city": "Kinel",
+    "city_ascii": "Kinel",
+    "admin_name": "Samarskaya Oblast’",
+    "lat": "53.2222",
+    "lng": "50.6333",
+    "id": "1643467753"
+  },
+  {
+    "city": "Rezh",
+    "city_ascii": "Rezh",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "57.3667",
+    "lng": "61.3667",
+    "id": "1643497489"
+  },
+  {
+    "city": "Vyazniki",
+    "city_ascii": "Vyazniki",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "56.2500",
+    "lng": "42.1667",
+    "id": "1643016775"
+  },
+  {
+    "city": "Yelizovo",
+    "city_ascii": "Yelizovo",
+    "admin_name": "Kamchatskiy Kray",
+    "lat": "53.1833",
+    "lng": "158.3833",
+    "id": "1643784414"
+  },
+  {
+    "city": "Uchaly",
+    "city_ascii": "Uchaly",
+    "admin_name": "Bashkortostan",
+    "lat": "54.3167",
+    "lng": "59.3833",
+    "id": "1643696748"
+  },
+  {
+    "city": "Novovyatsk",
+    "city_ascii": "Novovyatsk",
+    "admin_name": "Kirovskaya Oblast’",
+    "lat": "58.5083",
+    "lng": "49.6994",
+    "id": "1643083615"
+  },
+  {
+    "city": "Mtsensk",
+    "city_ascii": "Mtsensk",
+    "admin_name": "Orlovskaya Oblast’",
+    "lat": "53.2833",
+    "lng": "36.5667",
+    "id": "1643200546"
+  },
+  {
+    "city": "Beslan",
+    "city_ascii": "Beslan",
+    "admin_name": "North Ossetia",
+    "lat": "43.1833",
+    "lng": "44.5500",
+    "id": "1643201517"
+  },
+  {
+    "city": "Alapayevsk",
+    "city_ascii": "Alapayevsk",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "57.8500",
+    "lng": "61.7000",
+    "id": "1643648315"
+  },
+  {
+    "city": "Boyarka",
+    "city_ascii": "Boyarka",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "70.7670",
+    "lng": "97.5000",
+    "id": "1643010185"
+  },
+  {
+    "city": "Chernyakhovsk",
+    "city_ascii": "Chernyakhovsk",
+    "admin_name": "Kaliningradskaya Oblast’",
+    "lat": "54.6347",
+    "lng": "21.8119",
+    "id": "1643016647"
+  },
+  {
+    "city": "Krasnyy Sulin",
+    "city_ascii": "Krasnyy Sulin",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.8833",
+    "lng": "40.1000",
+    "id": "1643848888"
+  },
+  {
+    "city": "Mozdok",
+    "city_ascii": "Mozdok",
+    "admin_name": "North Ossetia",
+    "lat": "43.7333",
+    "lng": "44.7000",
+    "id": "1643138287"
+  },
+  {
+    "city": "Frolovo",
+    "city_ascii": "Frolovo",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "49.7667",
+    "lng": "43.6667",
+    "id": "1643011047"
+  },
+  {
+    "city": "Akhtubinsk",
+    "city_ascii": "Akhtubinsk",
+    "admin_name": "Astrakhanskaya Oblast’",
+    "lat": "48.2833",
+    "lng": "46.1667",
+    "id": "1643207712"
+  },
+  {
+    "city": "Blagoveshchensk",
+    "city_ascii": "Blagoveshchensk",
+    "admin_name": "Bashkortostan",
+    "lat": "55.0350",
+    "lng": "55.9781",
+    "id": "1643322992"
+  },
+  {
+    "city": "Kyshtym",
+    "city_ascii": "Kyshtym",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "55.7000",
+    "lng": "60.5500",
+    "id": "1643212206"
+  },
+  {
+    "city": "Spassk-Dal’niy",
+    "city_ascii": "Spassk-Dal'niy",
+    "admin_name": "Primorskiy Kray",
+    "lat": "44.6000",
+    "lng": "132.8167",
+    "id": "1643943494"
+  },
+  {
+    "city": "Istra",
+    "city_ascii": "Istra",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.9167",
+    "lng": "36.8667",
+    "id": "1643610937"
+  },
+  {
+    "city": "Lesozavodsk",
+    "city_ascii": "Lesozavodsk",
+    "admin_name": "Primorskiy Kray",
+    "lat": "45.4667",
+    "lng": "133.4000",
+    "id": "1643722124"
+  },
+  {
+    "city": "Millerovo",
+    "city_ascii": "Millerovo",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "48.9167",
+    "lng": "40.3833",
+    "id": "1643830496"
+  },
+  {
+    "city": "Tayshet",
+    "city_ascii": "Tayshet",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "55.9500",
+    "lng": "98.0167",
+    "id": "1643635211"
+  },
+  {
+    "city": "Sokol",
+    "city_ascii": "Sokol",
+    "admin_name": "Vologodskaya Oblast’",
+    "lat": "59.4667",
+    "lng": "40.1167",
+    "id": "1643586879"
+  },
+  {
+    "city": "Mirnyy",
+    "city_ascii": "Mirnyy",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "62.5500",
+    "lng": "113.9667",
+    "id": "1643007406"
+  },
+  {
+    "city": "Koryazhma",
+    "city_ascii": "Koryazhma",
+    "admin_name": "Arkhangel’skaya Oblast’",
+    "lat": "61.3167",
+    "lng": "47.1333",
+    "id": "1643316632"
+  },
+  {
+    "city": "Nurlat",
+    "city_ascii": "Nurlat",
+    "admin_name": "Tatarstan",
+    "lat": "54.4333",
+    "lng": "50.8000",
+    "id": "1643326238"
+  },
+  {
+    "city": "Sharypovo",
+    "city_ascii": "Sharypovo",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "55.5333",
+    "lng": "89.2000",
+    "id": "1643451385"
+  },
+  {
+    "city": "Likino-Dulevo",
+    "city_ascii": "Likino-Dulevo",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.7167",
+    "lng": "38.9500",
+    "id": "1643014243"
+  },
+  {
+    "city": "Aznakayevo",
+    "city_ascii": "Aznakayevo",
+    "admin_name": "Tatarstan",
+    "lat": "54.8500",
+    "lng": "53.1000",
+    "id": "1643955098"
+  },
+  {
+    "city": "Gubkinskiy",
+    "city_ascii": "Gubkinskiy",
+    "admin_name": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "lat": "66.4333",
+    "lng": "76.5000",
+    "id": "1643018972"
+  },
+  {
+    "city": "Konakovo",
+    "city_ascii": "Konakovo",
+    "admin_name": "Tverskaya Oblast’",
+    "lat": "56.7000",
+    "lng": "36.7500",
+    "id": "1643330779"
+  },
+  {
+    "city": "Slantsy",
+    "city_ascii": "Slantsy",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "59.1167",
+    "lng": "28.0667",
+    "id": "1643315242"
+  },
+  {
+    "city": "Kamenka",
+    "city_ascii": "Kamenka",
+    "admin_name": "Penzenskaya Oblast’",
+    "lat": "53.1833",
+    "lng": "44.0500",
+    "id": "1643795205"
+  },
+  {
+    "city": "Gulkevichi",
+    "city_ascii": "Gulkevichi",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "45.3594",
+    "lng": "40.7072",
+    "id": "1643733778"
+  },
+  {
+    "city": "Partizansk",
+    "city_ascii": "Partizansk",
+    "admin_name": "Primorskiy Kray",
+    "lat": "43.1167",
+    "lng": "133.1167",
+    "id": "1643537193"
+  },
+  {
+    "city": "Korsakov",
+    "city_ascii": "Korsakov",
+    "admin_name": "Sakhalinskaya Oblast’",
+    "lat": "46.6333",
+    "lng": "142.7667",
+    "id": "1643017767"
+  },
+  {
+    "city": "Chernushka",
+    "city_ascii": "Chernushka",
+    "admin_name": "Permskiy Kray",
+    "lat": "56.5167",
+    "lng": "56.1000",
+    "id": "1643534428"
+  },
+  {
+    "city": "Valuyki",
+    "city_ascii": "Valuyki",
+    "admin_name": "Belgorodskaya Oblast’",
+    "lat": "50.2167",
+    "lng": "38.1000",
+    "id": "1643337970"
+  },
+  {
+    "city": "Dalnegorsk",
+    "city_ascii": "Dalnegorsk",
+    "admin_name": "Primorskiy Kray",
+    "lat": "44.5500",
+    "lng": "135.5833",
+    "id": "1643147456"
+  },
+  {
+    "city": "Novodvinsk",
+    "city_ascii": "Novodvinsk",
+    "admin_name": "Arkhangel’skaya Oblast’",
+    "lat": "64.4167",
+    "lng": "40.8333",
+    "id": "1643592717"
+  },
+  {
+    "city": "Sukhoy Log",
+    "city_ascii": "Sukhoy Log",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.9167",
+    "lng": "62.0167",
+    "id": "1643890809"
+  },
+  {
+    "city": "Sosnogorsk",
+    "city_ascii": "Sosnogorsk",
+    "admin_name": "Komi",
+    "lat": "63.6000",
+    "lng": "53.9000",
+    "id": "1643361228"
+  },
+  {
+    "city": "Kamen’-na-Obi",
+    "city_ascii": "Kamen'-na-Obi",
+    "admin_name": "Altayskiy Kray",
+    "lat": "53.7833",
+    "lng": "81.3333",
+    "id": "1643009870"
+  },
+  {
+    "city": "Tavda",
+    "city_ascii": "Tavda",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "58.0500",
+    "lng": "65.2667",
+    "id": "1643627997"
+  },
+  {
+    "city": "Alatyr",
+    "city_ascii": "Alatyr",
+    "admin_name": "Chuvashiya",
+    "lat": "54.8500",
+    "lng": "46.5833",
+    "id": "1643942115"
+  },
+  {
+    "city": "Primorsko-Akhtarsk",
+    "city_ascii": "Primorsko-Akhtarsk",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "46.0500",
+    "lng": "38.1667",
+    "id": "1643397467"
+  },
+  {
+    "city": "Kulebaki",
+    "city_ascii": "Kulebaki",
+    "admin_name": "Nizhegorodskaya Oblast’",
+    "lat": "55.4167",
+    "lng": "42.5333",
+    "id": "1643223914"
+  },
+  {
+    "city": "Myski",
+    "city_ascii": "Myski",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "53.7000",
+    "lng": "87.8167",
+    "id": "1643972343"
+  },
+  {
+    "city": "Tosno",
+    "city_ascii": "Tosno",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "59.5500",
+    "lng": "30.9000",
+    "id": "1643457782"
+  },
+  {
+    "city": "Uglich",
+    "city_ascii": "Uglich",
+    "admin_name": "Yaroslavskaya Oblast’",
+    "lat": "57.5333",
+    "lng": "38.3333",
+    "id": "1643786573"
+  },
+  {
+    "city": "Ostrogozhsk",
+    "city_ascii": "Ostrogozhsk",
+    "admin_name": "Voronezhskaya Oblast’",
+    "lat": "50.8667",
+    "lng": "39.0667",
+    "id": "1643004403"
+  },
+  {
+    "city": "Dagestanskiye Ogni",
+    "city_ascii": "Dagestanskiye Ogni",
+    "admin_name": "Dagestan",
+    "lat": "42.1167",
+    "lng": "48.1833",
+    "id": "1643307601"
+  },
+  {
+    "city": "Usinsk",
+    "city_ascii": "Usinsk",
+    "admin_name": "Komi",
+    "lat": "66.0000",
+    "lng": "57.5333",
+    "id": "1643395315"
+  },
+  {
+    "city": "Dyurtyuli",
+    "city_ascii": "Dyurtyuli",
+    "admin_name": "Bashkortostan",
+    "lat": "55.4833",
+    "lng": "54.8667",
+    "id": "1643865529"
+  },
+  {
+    "city": "Sovetskiy",
+    "city_ascii": "Sovetskiy",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "61.3614",
+    "lng": "63.5842",
+    "id": "1643802838"
+  },
+  {
+    "city": "Nartkala",
+    "city_ascii": "Nartkala",
+    "admin_name": "Kabardino-Balkariya",
+    "lat": "43.5500",
+    "lng": "43.8500",
+    "id": "1643632227"
+  },
+  {
+    "city": "Trëkhgornyy",
+    "city_ascii": "Trekhgornyy",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "54.8000",
+    "lng": "58.4500",
+    "id": "1643017912"
+  },
+  {
+    "city": "Vichuga",
+    "city_ascii": "Vichuga",
+    "admin_name": "Ivanovskaya Oblast’",
+    "lat": "57.2000",
+    "lng": "41.9167",
+    "id": "1643107407"
+  },
+  {
+    "city": "Novovoronezh",
+    "city_ascii": "Novovoronezh",
+    "admin_name": "Voronezhskaya Oblast’",
+    "lat": "51.3167",
+    "lng": "39.2167",
+    "id": "1643532936"
+  },
+  {
+    "city": "Dedovsk",
+    "city_ascii": "Dedovsk",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.8500",
+    "lng": "37.1167",
+    "id": "1643962207"
+  },
+  {
+    "city": "Ob",
+    "city_ascii": "Ob",
+    "admin_name": "Novosibirskaya Oblast’",
+    "lat": "54.9917",
+    "lng": "82.7125",
+    "id": "1643161360"
+  },
+  {
+    "city": "Serdobsk",
+    "city_ascii": "Serdobsk",
+    "admin_name": "Penzenskaya Oblast’",
+    "lat": "52.4667",
+    "lng": "44.2000",
+    "id": "1643300629"
+  },
+  {
+    "city": "Balabanovo",
+    "city_ascii": "Balabanovo",
+    "admin_name": "Kaluzhskaya Oblast’",
+    "lat": "55.1833",
+    "lng": "36.6667",
+    "id": "1643544515"
+  },
+  {
+    "city": "Elektrogorsk",
+    "city_ascii": "Elektrogorsk",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.8833",
+    "lng": "38.8000",
+    "id": "1643526255"
+  },
+  {
+    "city": "Bogdanovich",
+    "city_ascii": "Bogdanovich",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.7803",
+    "lng": "62.0494",
+    "id": "1643075894"
+  },
+  {
+    "city": "Vyatskiye Polyany",
+    "city_ascii": "Vyatskiye Polyany",
+    "admin_name": "Kirovskaya Oblast’",
+    "lat": "56.2239",
+    "lng": "51.0633",
+    "id": "1643642329"
+  },
+  {
+    "city": "Furmanov",
+    "city_ascii": "Furmanov",
+    "admin_name": "Ivanovskaya Oblast’",
+    "lat": "57.2500",
+    "lng": "41.1333",
+    "id": "1643283283"
+  },
+  {
+    "city": "Bogoroditsk",
+    "city_ascii": "Bogoroditsk",
+    "admin_name": "Tul’skaya Oblast’",
+    "lat": "53.7667",
+    "lng": "38.1333",
+    "id": "1643215151"
+  },
+  {
+    "city": "Slobodskoy",
+    "city_ascii": "Slobodskoy",
+    "admin_name": "Kirovskaya Oblast’",
+    "lat": "58.7208",
+    "lng": "50.1850",
+    "id": "1643784759"
+  },
+  {
+    "city": "Losino-Petrovskiy",
+    "city_ascii": "Losino-Petrovskiy",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.8744",
+    "lng": "38.2017",
+    "id": "1643294187"
+  },
+  {
+    "city": "Borzya",
+    "city_ascii": "Borzya",
+    "admin_name": "Zabaykal’skiy Kray",
+    "lat": "50.3833",
+    "lng": "116.5167",
+    "id": "1643309577"
+  },
+  {
+    "city": "Labinsk",
+    "city_ascii": "Labinsk",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "44.6333",
+    "lng": "40.7333",
+    "id": "1643209545"
+  },
+  {
+    "city": "Gusev",
+    "city_ascii": "Gusev",
+    "admin_name": "Kaliningradskaya Oblast’",
+    "lat": "54.5833",
+    "lng": "22.2000",
+    "id": "1643116529"
+  },
+  {
+    "city": "Artëmovskiy",
+    "city_ascii": "Artemovskiy",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "57.3564",
+    "lng": "61.8711",
+    "id": "1643010530"
+  },
+  {
+    "city": "Marks",
+    "city_ascii": "Marks",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "51.7167",
+    "lng": "46.7500",
+    "id": "1643304163"
+  },
+  {
+    "city": "Kudymkar",
+    "city_ascii": "Kudymkar",
+    "admin_name": "Permskiy Kray",
+    "lat": "59.0167",
+    "lng": "54.6667",
+    "id": "1643283582"
+  },
+  {
+    "city": "Dobryanka",
+    "city_ascii": "Dobryanka",
+    "admin_name": "Permskiy Kray",
+    "lat": "58.4667",
+    "lng": "56.4167",
+    "id": "1643202553"
+  },
+  {
+    "city": "Zarechnyy",
+    "city_ascii": "Zarechnyy",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.8167",
+    "lng": "61.3333",
+    "id": "1643142776"
+  },
+  {
+    "city": "Monchegorsk",
+    "city_ascii": "Monchegorsk",
+    "admin_name": "Murmanskaya Oblast’",
+    "lat": "67.9333",
+    "lng": "32.9167",
+    "id": "1643634027"
+  },
+  {
+    "city": "Kandalaksha",
+    "city_ascii": "Kandalaksha",
+    "admin_name": "Murmanskaya Oblast’",
+    "lat": "67.1569",
+    "lng": "32.4117",
+    "id": "1643555433"
+  },
+  {
+    "city": "Karasuk",
+    "city_ascii": "Karasuk",
+    "admin_name": "Novosibirskaya Oblast’",
+    "lat": "53.7167",
+    "lng": "78.0500",
+    "id": "1643416504"
+  },
+  {
+    "city": "Velikiy Ustyug",
+    "city_ascii": "Velikiy Ustyug",
+    "admin_name": "Vologodskaya Oblast’",
+    "lat": "60.7667",
+    "lng": "46.3000",
+    "id": "1643173653"
+  },
+  {
+    "city": "Tynda",
+    "city_ascii": "Tynda",
+    "admin_name": "Amurskaya Oblast’",
+    "lat": "55.1667",
+    "lng": "124.7167",
+    "id": "1643364583"
+  },
+  {
+    "city": "Semiluki",
+    "city_ascii": "Semiluki",
+    "admin_name": "Voronezhskaya Oblast’",
+    "lat": "51.6833",
+    "lng": "39.0333",
+    "id": "1643299650"
+  },
+  {
+    "city": "Kasimov",
+    "city_ascii": "Kasimov",
+    "admin_name": "Ryazanskaya Oblast’",
+    "lat": "54.9333",
+    "lng": "41.4000",
+    "id": "1643283044"
+  },
+  {
+    "city": "Guryevsk",
+    "city_ascii": "Guryevsk",
+    "admin_name": "Kaliningradskaya Oblast’",
+    "lat": "54.7833",
+    "lng": "20.6167",
+    "id": "1643078744"
+  },
+  {
+    "city": "Kirov",
+    "city_ascii": "Kirov",
+    "admin_name": "Kaluzhskaya Oblast’",
+    "lat": "54.0833",
+    "lng": "34.3167",
+    "id": "1643587873"
+  },
+  {
+    "city": "Barabinsk",
+    "city_ascii": "Barabinsk",
+    "admin_name": "Novosibirskaya Oblast’",
+    "lat": "55.3500",
+    "lng": "78.3500",
+    "id": "1643008352"
+  },
+  {
+    "city": "Staraya Russa",
+    "city_ascii": "Staraya Russa",
+    "admin_name": "Novgorodskaya Oblast’",
+    "lat": "58.0000",
+    "lng": "31.3333",
+    "id": "1643015974"
+  },
+  {
+    "city": "Divnogorsk",
+    "city_ascii": "Divnogorsk",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "55.9594",
+    "lng": "92.3619",
+    "id": "1643520779"
+  },
+  {
+    "city": "Asha",
+    "city_ascii": "Asha",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "55.0000",
+    "lng": "57.2667",
+    "id": "1643056456"
+  },
+  {
+    "city": "Pokhvistnevo",
+    "city_ascii": "Pokhvistnevo",
+    "admin_name": "Samarskaya Oblast’",
+    "lat": "53.6500",
+    "lng": "52.1333",
+    "id": "1643843387"
+  },
+  {
+    "city": "Kirzhach",
+    "city_ascii": "Kirzhach",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "56.1500",
+    "lng": "38.8667",
+    "id": "1643096892"
+  },
+  {
+    "city": "Rostov",
+    "city_ascii": "Rostov",
+    "admin_name": "Yaroslavskaya Oblast’",
+    "lat": "57.1833",
+    "lng": "39.4167",
+    "id": "1643848937"
+  },
+  {
+    "city": "Mirnyy",
+    "city_ascii": "Mirnyy",
+    "admin_name": "Arkhangel’skaya Oblast’",
+    "lat": "62.7667",
+    "lng": "40.3333",
+    "id": "1643687005"
+  },
+  {
+    "city": "Topki",
+    "city_ascii": "Topki",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "55.3333",
+    "lng": "85.7500",
+    "id": "1643475451"
+  },
+  {
+    "city": "Tara",
+    "city_ascii": "Tara",
+    "admin_name": "Omskaya Oblast’",
+    "lat": "56.8833",
+    "lng": "74.3667",
+    "id": "1643015750"
+  },
+  {
+    "city": "Zavodoukovsk",
+    "city_ascii": "Zavodoukovsk",
+    "admin_name": "Tyumenskaya Oblast’",
+    "lat": "56.4833",
+    "lng": "66.5333",
+    "id": "1643833832"
+  },
+  {
+    "city": "Baltiysk",
+    "city_ascii": "Baltiysk",
+    "admin_name": "Kaliningradskaya Oblast’",
+    "lat": "54.6500",
+    "lng": "19.9167",
+    "id": "1643620016"
+  },
+  {
+    "city": "Kirovsk",
+    "city_ascii": "Kirovsk",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "59.8667",
+    "lng": "30.9833",
+    "id": "1643936101"
+  },
+  {
+    "city": "Kamyshlov",
+    "city_ascii": "Kamyshlov",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.8333",
+    "lng": "62.7167",
+    "id": "1643094029"
+  },
+  {
+    "city": "Kushva",
+    "city_ascii": "Kushva",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "58.2833",
+    "lng": "59.7333",
+    "id": "1643697197"
+  },
+  {
+    "city": "Zasechnoye",
+    "city_ascii": "Zasechnoye",
+    "admin_name": "Penzenskaya Oblast’",
+    "lat": "53.1142",
+    "lng": "45.0601",
+    "id": "1643364580"
+  },
+  {
+    "city": "Shumerlya",
+    "city_ascii": "Shumerlya",
+    "admin_name": "Chuvashiya",
+    "lat": "55.5333",
+    "lng": "46.3833",
+    "id": "1643065597"
+  },
+  {
+    "city": "Kotovsk",
+    "city_ascii": "Kotovsk",
+    "admin_name": "Tambovskaya Oblast’",
+    "lat": "52.5833",
+    "lng": "41.5167",
+    "id": "1643608746"
+  },
+  {
+    "city": "Kimovsk",
+    "city_ascii": "Kimovsk",
+    "admin_name": "Tul’skaya Oblast’",
+    "lat": "53.9667",
+    "lng": "38.5333",
+    "id": "1643483377"
+  },
+  {
+    "city": "Kaltan",
+    "city_ascii": "Kaltan",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "53.5167",
+    "lng": "87.2833",
+    "id": "1643027336"
+  },
+  {
+    "city": "Petrovsk",
+    "city_ascii": "Petrovsk",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "52.3167",
+    "lng": "45.3833",
+    "id": "1643935134"
+  },
+  {
+    "city": "Labytnangi",
+    "city_ascii": "Labytnangi",
+    "admin_name": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "lat": "66.6572",
+    "lng": "66.4183",
+    "id": "1643017504"
+  },
+  {
+    "city": "Udomlya",
+    "city_ascii": "Udomlya",
+    "admin_name": "Tverskaya Oblast’",
+    "lat": "57.8833",
+    "lng": "35.0000",
+    "id": "1643942215"
+  },
+  {
+    "city": "Kostomuksha",
+    "city_ascii": "Kostomuksha",
+    "admin_name": "Kareliya",
+    "lat": "64.5833",
+    "lng": "30.6000",
+    "id": "1643774276"
+  },
+  {
+    "city": "Yanaul",
+    "city_ascii": "Yanaul",
+    "admin_name": "Bashkortostan",
+    "lat": "56.2833",
+    "lng": "54.9333",
+    "id": "1643998426"
+  },
+  {
+    "city": "Skopin",
+    "city_ascii": "Skopin",
+    "admin_name": "Ryazanskaya Oblast’",
+    "lat": "53.8167",
+    "lng": "39.5500",
+    "id": "1643315805"
+  },
+  {
+    "city": "Kommunar",
+    "city_ascii": "Kommunar",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "59.6333",
+    "lng": "30.4000",
+    "id": "1643122289"
+  },
+  {
+    "city": "Ipatovo",
+    "city_ascii": "Ipatovo",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "45.7167",
+    "lng": "42.0000",
+    "id": "1643097291"
+  },
+  {
+    "city": "Polysayevo",
+    "city_ascii": "Polysayevo",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "54.6014",
+    "lng": "86.2486",
+    "id": "1643007659"
+  },
+  {
+    "city": "Kireyevsk",
+    "city_ascii": "Kireyevsk",
+    "admin_name": "Tul’skaya Oblast’",
+    "lat": "53.9333",
+    "lng": "37.9333",
+    "id": "1643694623"
+  },
+  {
+    "city": "Karpinsk",
+    "city_ascii": "Karpinsk",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "59.7667",
+    "lng": "59.9833",
+    "id": "1643966398"
+  },
+  {
+    "city": "Aleysk",
+    "city_ascii": "Aleysk",
+    "admin_name": "Altayskiy Kray",
+    "lat": "52.5000",
+    "lng": "82.7833",
+    "id": "1643212700"
+  },
+  {
+    "city": "Gagarin",
+    "city_ascii": "Gagarin",
+    "admin_name": "Smolenskaya Oblast’",
+    "lat": "55.5500",
+    "lng": "35.0167",
+    "id": "1643316239"
+  },
+  {
+    "city": "Krasnoznamensk",
+    "city_ascii": "Krasnoznamensk",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.6008",
+    "lng": "37.0358",
+    "id": "1643985194"
+  },
+  {
+    "city": "Dyatkovo",
+    "city_ascii": "Dyatkovo",
+    "admin_name": "Bryanskaya Oblast’",
+    "lat": "53.6000",
+    "lng": "34.3333",
+    "id": "1643789328"
+  },
+  {
+    "city": "Asino",
+    "city_ascii": "Asino",
+    "admin_name": "Tomskaya Oblast’",
+    "lat": "57.0000",
+    "lng": "86.1333",
+    "id": "1643361400"
+  },
+  {
+    "city": "Kholmsk",
+    "city_ascii": "Kholmsk",
+    "admin_name": "Sakhalinskaya Oblast’",
+    "lat": "47.0500",
+    "lng": "142.0500",
+    "id": "1643364292"
+  },
+  {
+    "city": "Nar’yan-Mar",
+    "city_ascii": "Nar'yan-Mar",
+    "admin_name": "Nenetskiy Avtonomnyy Okrug",
+    "lat": "67.6333",
+    "lng": "53.0500",
+    "id": "1643685127"
+  },
+  {
+    "city": "Znamensk",
+    "city_ascii": "Znamensk",
+    "admin_name": "Astrakhanskaya Oblast’",
+    "lat": "48.5833",
+    "lng": "45.7500",
+    "id": "1643760173"
+  },
+  {
+    "city": "Desnogorsk",
+    "city_ascii": "Desnogorsk",
+    "admin_name": "Smolenskaya Oblast’",
+    "lat": "54.1500",
+    "lng": "33.2833",
+    "id": "1643598979"
+  },
+  {
+    "city": "Buturlinovka",
+    "city_ascii": "Buturlinovka",
+    "admin_name": "Voronezhskaya Oblast’",
+    "lat": "50.8333",
+    "lng": "40.5833",
+    "id": "1643165289"
+  },
+  {
+    "city": "Kalach-na-Donu",
+    "city_ascii": "Kalach-na-Donu",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "48.7000",
+    "lng": "43.5167",
+    "id": "1643990894"
+  },
+  {
+    "city": "Unecha",
+    "city_ascii": "Unecha",
+    "admin_name": "Bryanskaya Oblast’",
+    "lat": "52.8461",
+    "lng": "32.6767",
+    "id": "1643789718"
+  },
+  {
+    "city": "Morozovsk",
+    "city_ascii": "Morozovsk",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "48.3667",
+    "lng": "41.8333",
+    "id": "1643038040"
+  },
+  {
+    "city": "Zernograd",
+    "city_ascii": "Zernograd",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "46.8500",
+    "lng": "40.3167",
+    "id": "1643009335"
+  },
+  {
+    "city": "Severouralsk",
+    "city_ascii": "Severouralsk",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "60.1500",
+    "lng": "59.9667",
+    "id": "1643560617"
+  },
+  {
+    "city": "Ozëry",
+    "city_ascii": "Ozery",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "54.8500",
+    "lng": "38.5667",
+    "id": "1643008708"
+  },
+  {
+    "city": "Stroitel",
+    "city_ascii": "Stroitel",
+    "admin_name": "Belgorodskaya Oblast’",
+    "lat": "50.7833",
+    "lng": "36.4833",
+    "id": "1643765660"
+  },
+  {
+    "city": "Karachayevsk",
+    "city_ascii": "Karachayevsk",
+    "admin_name": "Karachayevo-Cherkesiya",
+    "lat": "43.7731",
+    "lng": "41.9169",
+    "id": "1643606721"
+  },
+  {
+    "city": "Sredneuralsk",
+    "city_ascii": "Sredneuralsk",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.9833",
+    "lng": "60.4667",
+    "id": "1643770147"
+  },
+  {
+    "city": "Uvarovo",
+    "city_ascii": "Uvarovo",
+    "admin_name": "Tambovskaya Oblast’",
+    "lat": "51.9833",
+    "lng": "42.2667",
+    "id": "1643354757"
+  },
+  {
+    "city": "Staraya Kupavna",
+    "city_ascii": "Staraya Kupavna",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.8000",
+    "lng": "38.1667",
+    "id": "1643193878"
+  },
+  {
+    "city": "Neftekumsk",
+    "city_ascii": "Neftekumsk",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "44.7833",
+    "lng": "44.7667",
+    "id": "1643977901"
+  },
+  {
+    "city": "Dalnerechensk",
+    "city_ascii": "Dalnerechensk",
+    "admin_name": "Primorskiy Kray",
+    "lat": "45.9333",
+    "lng": "133.7333",
+    "id": "1643306858"
+  },
+  {
+    "city": "Mednogorsk",
+    "city_ascii": "Mednogorsk",
+    "admin_name": "Orenburgskaya Oblast’",
+    "lat": "51.4222",
+    "lng": "57.5953",
+    "id": "1643650403"
+  },
+  {
+    "city": "Gubakha",
+    "city_ascii": "Gubakha",
+    "admin_name": "Permskiy Kray",
+    "lat": "58.8706",
+    "lng": "57.5933",
+    "id": "1643737905"
+  },
+  {
+    "city": "Lermontov",
+    "city_ascii": "Lermontov",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "44.1167",
+    "lng": "42.9833",
+    "id": "1643313776"
+  },
+  {
+    "city": "Mendeleyevsk",
+    "city_ascii": "Mendeleyevsk",
+    "admin_name": "Tatarstan",
+    "lat": "55.9000",
+    "lng": "52.3333",
+    "id": "1643860674"
+  },
+  {
+    "city": "Golitsyno",
+    "city_ascii": "Golitsyno",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.6147",
+    "lng": "36.9872",
+    "id": "1643646490"
+  },
+  {
+    "city": "Atkarsk",
+    "city_ascii": "Atkarsk",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "51.8667",
+    "lng": "45.0000",
+    "id": "1643598170"
+  },
+  {
+    "city": "Verkhniy Ufaley",
+    "city_ascii": "Verkhniy Ufaley",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "56.0667",
+    "lng": "60.2333",
+    "id": "1643894211"
+  },
+  {
+    "city": "Ust’-Katav",
+    "city_ascii": "Ust'-Katav",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "54.9333",
+    "lng": "58.1833",
+    "id": "1643326615"
+  },
+  {
+    "city": "Pavlovsk",
+    "city_ascii": "Pavlovsk",
+    "admin_name": "Voronezhskaya Oblast’",
+    "lat": "50.4578",
+    "lng": "40.1081",
+    "id": "1643562859"
+  },
+  {
+    "city": "Guryevsk",
+    "city_ascii": "Guryevsk",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "54.2833",
+    "lng": "85.9333",
+    "id": "1643007187"
+  },
+  {
+    "city": "Vereshchagino",
+    "city_ascii": "Vereshchagino",
+    "admin_name": "Permskiy Kray",
+    "lat": "58.1000",
+    "lng": "54.6667",
+    "id": "1643676991"
+  },
+  {
+    "city": "Kirovsk",
+    "city_ascii": "Kirovsk",
+    "admin_name": "Murmanskaya Oblast’",
+    "lat": "67.6167",
+    "lng": "33.6500",
+    "id": "1643433043"
+  },
+  {
+    "city": "Nevyansk",
+    "city_ascii": "Nevyansk",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "57.4833",
+    "lng": "60.2000",
+    "id": "1643592737"
+  },
+  {
+    "city": "Kotelnikovo",
+    "city_ascii": "Kotelnikovo",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "47.6333",
+    "lng": "43.1500",
+    "id": "1643615512"
+  },
+  {
+    "city": "Tashtagol",
+    "city_ascii": "Tashtagol",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "52.7667",
+    "lng": "87.8667",
+    "id": "1643787144"
+  },
+  {
+    "city": "Berëzovskiy",
+    "city_ascii": "Berezovskiy",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "55.6167",
+    "lng": "86.2500",
+    "id": "1643773270"
+  },
+  {
+    "city": "Davlekanovo",
+    "city_ascii": "Davlekanovo",
+    "admin_name": "Bashkortostan",
+    "lat": "54.2167",
+    "lng": "55.0333",
+    "id": "1643452201"
+  },
+  {
+    "city": "Khadyzhensk",
+    "city_ascii": "Khadyzhensk",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "44.4256",
+    "lng": "39.5319",
+    "id": "1643592689"
+  },
+  {
+    "city": "Semikarakorsk",
+    "city_ascii": "Semikarakorsk",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.5167",
+    "lng": "40.8000",
+    "id": "1643808895"
+  },
+  {
+    "city": "Bavly",
+    "city_ascii": "Bavly",
+    "admin_name": "Tatarstan",
+    "lat": "54.3833",
+    "lng": "53.2833",
+    "id": "1643213721"
+  },
+  {
+    "city": "Aldan",
+    "city_ascii": "Aldan",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "58.6167",
+    "lng": "125.4167",
+    "id": "1643237106"
+  },
+  {
+    "city": "Bezhetsk",
+    "city_ascii": "Bezhetsk",
+    "admin_name": "Tverskaya Oblast’",
+    "lat": "57.7667",
+    "lng": "36.7000",
+    "id": "1643708632"
+  },
+  {
+    "city": "Palatka",
+    "city_ascii": "Palatka",
+    "admin_name": "Magadanskaya Oblast’",
+    "lat": "60.1000",
+    "lng": "150.9000",
+    "id": "1643837733"
+  },
+  {
+    "city": "Velsk",
+    "city_ascii": "Velsk",
+    "admin_name": "Arkhangel’skaya Oblast’",
+    "lat": "61.0667",
+    "lng": "42.1167",
+    "id": "1643373817"
+  },
+  {
+    "city": "Krasnouralsk",
+    "city_ascii": "Krasnouralsk",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "58.3500",
+    "lng": "60.0500",
+    "id": "1643663207"
+  },
+  {
+    "city": "Krasnoarmeysk",
+    "city_ascii": "Krasnoarmeysk",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "51.0231",
+    "lng": "45.7031",
+    "id": "1643504367"
+  },
+  {
+    "city": "Alagir",
+    "city_ascii": "Alagir",
+    "admin_name": "North Ossetia",
+    "lat": "43.0333",
+    "lng": "44.2333",
+    "id": "1643555747"
+  },
+  {
+    "city": "Sasovo",
+    "city_ascii": "Sasovo",
+    "admin_name": "Ryazanskaya Oblast’",
+    "lat": "54.3500",
+    "lng": "41.9167",
+    "id": "1643401119"
+  },
+  {
+    "city": "Rybnoye",
+    "city_ascii": "Rybnoye",
+    "admin_name": "Ryazanskaya Oblast’",
+    "lat": "54.7333",
+    "lng": "39.5167",
+    "id": "1643910725"
+  },
+  {
+    "city": "Lensk",
+    "city_ascii": "Lensk",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "60.7333",
+    "lng": "114.9167",
+    "id": "1643009226"
+  },
+  {
+    "city": "Svetlyy",
+    "city_ascii": "Svetlyy",
+    "admin_name": "Kaliningradskaya Oblast’",
+    "lat": "54.6667",
+    "lng": "20.1333",
+    "id": "1643742025"
+  },
+  {
+    "city": "Kotovo",
+    "city_ascii": "Kotovo",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "50.3167",
+    "lng": "44.8000",
+    "id": "1643692011"
+  },
+  {
+    "city": "Ostrov",
+    "city_ascii": "Ostrov",
+    "admin_name": "Pskovskaya Oblast’",
+    "lat": "57.3500",
+    "lng": "28.3500",
+    "id": "1643602961"
+  },
+  {
+    "city": "Roshal",
+    "city_ascii": "Roshal",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.6667",
+    "lng": "39.8833",
+    "id": "1643370665"
+  },
+  {
+    "city": "Bobrov",
+    "city_ascii": "Bobrov",
+    "admin_name": "Voronezhskaya Oblast’",
+    "lat": "51.1000",
+    "lng": "40.0333",
+    "id": "1643014225"
+  },
+  {
+    "city": "Kolpashevo",
+    "city_ascii": "Kolpashevo",
+    "admin_name": "Tomskaya Oblast’",
+    "lat": "58.3000",
+    "lng": "82.9000",
+    "id": "1643773170"
+  },
+  {
+    "city": "Oktyabrsk",
+    "city_ascii": "Oktyabrsk",
+    "admin_name": "Samarskaya Oblast’",
+    "lat": "53.1667",
+    "lng": "48.6667",
+    "id": "1643865779"
+  },
+  {
+    "city": "Buy",
+    "city_ascii": "Buy",
+    "admin_name": "Kostromskaya Oblast’",
+    "lat": "58.4833",
+    "lng": "41.5333",
+    "id": "1643121343"
+  },
+  {
+    "city": "Arsk",
+    "city_ascii": "Arsk",
+    "admin_name": "Tatarstan",
+    "lat": "56.1000",
+    "lng": "49.8833",
+    "id": "1643889493"
+  },
+  {
+    "city": "Khotkovo",
+    "city_ascii": "Khotkovo",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "56.2500",
+    "lng": "38.0000",
+    "id": "1643642751"
+  },
+  {
+    "city": "Sysert",
+    "city_ascii": "Sysert",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.5000",
+    "lng": "60.8167",
+    "id": "1643162244"
+  },
+  {
+    "city": "Nizhniy Lomov",
+    "city_ascii": "Nizhniy Lomov",
+    "admin_name": "Penzenskaya Oblast’",
+    "lat": "53.5167",
+    "lng": "43.6667",
+    "id": "1643956972"
+  },
+  {
+    "city": "Bologoye",
+    "city_ascii": "Bologoye",
+    "admin_name": "Tverskaya Oblast’",
+    "lat": "57.8833",
+    "lng": "34.0500",
+    "id": "1643381656"
+  },
+  {
+    "city": "Ryazhsk",
+    "city_ascii": "Ryazhsk",
+    "admin_name": "Ryazanskaya Oblast’",
+    "lat": "53.7000",
+    "lng": "40.0500",
+    "id": "1643410159"
+  },
+  {
+    "city": "Beloyarskiy",
+    "city_ascii": "Beloyarskiy",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "63.7167",
+    "lng": "66.6667",
+    "id": "1643836632"
+  },
+  {
+    "city": "Buinsk",
+    "city_ascii": "Buinsk",
+    "admin_name": "Tatarstan",
+    "lat": "54.9667",
+    "lng": "48.2833",
+    "id": "1643218865"
+  },
+  {
+    "city": "Tarko-Sale",
+    "city_ascii": "Tarko-Sale",
+    "admin_name": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "lat": "64.9167",
+    "lng": "77.8000",
+    "id": "1643113714"
+  },
+  {
+    "city": "Kurovskoye",
+    "city_ascii": "Kurovskoye",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.5833",
+    "lng": "38.9167",
+    "id": "1643003596"
+  },
+  {
+    "city": "Okha",
+    "city_ascii": "Okha",
+    "admin_name": "Sakhalinskaya Oblast’",
+    "lat": "53.5889",
+    "lng": "142.9492",
+    "id": "1643780649"
+  },
+  {
+    "city": "Nikolsk",
+    "city_ascii": "Nikolsk",
+    "admin_name": "Penzenskaya Oblast’",
+    "lat": "53.7167",
+    "lng": "46.0667",
+    "id": "1643760647"
+  },
+  {
+    "city": "Aramil",
+    "city_ascii": "Aramil",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.7000",
+    "lng": "60.8333",
+    "id": "1643755465"
+  },
+  {
+    "city": "Agryz",
+    "city_ascii": "Agryz",
+    "admin_name": "Tatarstan",
+    "lat": "56.5219",
+    "lng": "52.9975",
+    "id": "1643220768"
+  },
+  {
+    "city": "Toguchin",
+    "city_ascii": "Toguchin",
+    "admin_name": "Novosibirskaya Oblast’",
+    "lat": "55.2333",
+    "lng": "84.4167",
+    "id": "1643095919"
+  },
+  {
+    "city": "Fokino",
+    "city_ascii": "Fokino",
+    "admin_name": "Primorskiy Kray",
+    "lat": "42.9667",
+    "lng": "132.4000",
+    "id": "1643752363"
+  },
+  {
+    "city": "Inta",
+    "city_ascii": "Inta",
+    "admin_name": "Komi",
+    "lat": "66.0833",
+    "lng": "60.1333",
+    "id": "1643587482"
+  },
+  {
+    "city": "Osa",
+    "city_ascii": "Osa",
+    "admin_name": "Permskiy Kray",
+    "lat": "57.3000",
+    "lng": "55.4667",
+    "id": "1643282459"
+  },
+  {
+    "city": "Kozmodemyansk",
+    "city_ascii": "Kozmodemyansk",
+    "admin_name": "Mariy-El",
+    "lat": "56.3367",
+    "lng": "46.5711",
+    "id": "1643473458"
+  },
+  {
+    "city": "Zverevo",
+    "city_ascii": "Zverevo",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.0206",
+    "lng": "40.1225",
+    "id": "1643130170"
+  },
+  {
+    "city": "Pushchino",
+    "city_ascii": "Pushchino",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "54.8333",
+    "lng": "37.6167",
+    "id": "1643679889"
+  },
+  {
+    "city": "Dudinka",
+    "city_ascii": "Dudinka",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "69.4064",
+    "lng": "86.1764",
+    "id": "1643923236"
+  },
+  {
+    "city": "Krymsk",
+    "city_ascii": "Krymsk",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "44.9233",
+    "lng": "37.9806",
+    "id": "1643118471"
+  },
+  {
+    "city": "Proletarsk",
+    "city_ascii": "Proletarsk",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "46.7000",
+    "lng": "41.7333",
+    "id": "1643862086"
+  },
+  {
+    "city": "Ardon",
+    "city_ascii": "Ardon",
+    "admin_name": "North Ossetia",
+    "lat": "43.1833",
+    "lng": "44.3167",
+    "id": "1643992333"
+  },
+  {
+    "city": "Kavalerovo",
+    "city_ascii": "Kavalerovo",
+    "admin_name": "Primorskiy Kray",
+    "lat": "44.2702",
+    "lng": "135.0498",
+    "id": "1643093138"
+  },
+  {
+    "city": "Vanino",
+    "city_ascii": "Vanino",
+    "admin_name": "Khabarovskiy Kray",
+    "lat": "49.0873",
+    "lng": "140.2425",
+    "id": "1643490098"
+  },
+  {
+    "city": "Nelidovo",
+    "city_ascii": "Nelidovo",
+    "admin_name": "Tverskaya Oblast’",
+    "lat": "56.2167",
+    "lng": "32.8000",
+    "id": "1643775202"
+  },
+  {
+    "city": "Kharabali",
+    "city_ascii": "Kharabali",
+    "admin_name": "Astrakhanskaya Oblast’",
+    "lat": "47.4050",
+    "lng": "47.2556",
+    "id": "1643134744"
+  },
+  {
+    "city": "Kirovgrad",
+    "city_ascii": "Kirovgrad",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "57.4350",
+    "lng": "60.0561",
+    "id": "1643253740"
+  },
+  {
+    "city": "Chernogolovka",
+    "city_ascii": "Chernogolovka",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "56.0000",
+    "lng": "38.3667",
+    "id": "1643604279"
+  },
+  {
+    "city": "Lodeynoye Pole",
+    "city_ascii": "Lodeynoye Pole",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "60.7167",
+    "lng": "33.5500",
+    "id": "1643012084"
+  },
+  {
+    "city": "Novyy Oskol",
+    "city_ascii": "Novyy Oskol",
+    "admin_name": "Belgorodskaya Oblast’",
+    "lat": "50.7583",
+    "lng": "37.8736",
+    "id": "1643972982"
+  },
+  {
+    "city": "Plast",
+    "city_ascii": "Plast",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "54.3833",
+    "lng": "60.8167",
+    "id": "1643651635"
+  },
+  {
+    "city": "Priozërsk",
+    "city_ascii": "Priozersk",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "61.0500",
+    "lng": "30.1333",
+    "id": "1643755142"
+  },
+  {
+    "city": "Surovikino",
+    "city_ascii": "Surovikino",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "48.6000",
+    "lng": "42.8500",
+    "id": "1643870086"
+  },
+  {
+    "city": "Bogotol",
+    "city_ascii": "Bogotol",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "56.2000",
+    "lng": "89.5167",
+    "id": "1643208513"
+  },
+  {
+    "city": "Nyandoma",
+    "city_ascii": "Nyandoma",
+    "admin_name": "Arkhangel’skaya Oblast’",
+    "lat": "61.6667",
+    "lng": "40.2167",
+    "id": "1643011175"
+  },
+  {
+    "city": "Yershov",
+    "city_ascii": "Yershov",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "51.3500",
+    "lng": "48.2667",
+    "id": "1643218689"
+  },
+  {
+    "city": "Neftegorsk",
+    "city_ascii": "Neftegorsk",
+    "admin_name": "Samarskaya Oblast’",
+    "lat": "52.8000",
+    "lng": "51.1667",
+    "id": "1643711805"
+  },
+  {
+    "city": "Slyudyanka",
+    "city_ascii": "Slyudyanka",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "51.6567",
+    "lng": "103.7186",
+    "id": "1643956172"
+  },
+  {
+    "city": "Nizhnyaya Tura",
+    "city_ascii": "Nizhnyaya Tura",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "58.6208",
+    "lng": "59.8478",
+    "id": "1643124513"
+  },
+  {
+    "city": "Sorochinsk",
+    "city_ascii": "Sorochinsk",
+    "admin_name": "Orenburgskaya Oblast’",
+    "lat": "52.4167",
+    "lng": "53.1000",
+    "id": "1643278533"
+  },
+  {
+    "city": "Kukmor",
+    "city_ascii": "Kukmor",
+    "admin_name": "Tatarstan",
+    "lat": "56.1833",
+    "lng": "50.8833",
+    "id": "1643556564"
+  },
+  {
+    "city": "Baymak",
+    "city_ascii": "Baymak",
+    "admin_name": "Bashkortostan",
+    "lat": "52.5833",
+    "lng": "58.3167",
+    "id": "1643017239"
+  },
+  {
+    "city": "Pokrov",
+    "city_ascii": "Pokrov",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "55.9117",
+    "lng": "39.1847",
+    "id": "1643390317"
+  },
+  {
+    "city": "Vysokaya Gora",
+    "city_ascii": "Vysokaya Gora",
+    "admin_name": "Tatarstan",
+    "lat": "55.9121",
+    "lng": "49.3128",
+    "id": "1643580839"
+  },
+  {
+    "city": "Kaspiysk",
+    "city_ascii": "Kaspiysk",
+    "admin_name": "Dagestan",
+    "lat": "42.8803",
+    "lng": "47.6383",
+    "id": "1643020514"
+  },
+  {
+    "city": "Starodub",
+    "city_ascii": "Starodub",
+    "admin_name": "Bryanskaya Oblast’",
+    "lat": "52.5833",
+    "lng": "32.7667",
+    "id": "1643347111"
+  },
+  {
+    "city": "Zhukovka",
+    "city_ascii": "Zhukovka",
+    "admin_name": "Bryanskaya Oblast’",
+    "lat": "53.5333",
+    "lng": "33.7333",
+    "id": "1643737188"
+  },
+  {
+    "city": "Kalach",
+    "city_ascii": "Kalach",
+    "admin_name": "Voronezhskaya Oblast’",
+    "lat": "50.4333",
+    "lng": "41.0000",
+    "id": "1643931782"
+  },
+  {
+    "city": "Suvorov",
+    "city_ascii": "Suvorov",
+    "admin_name": "Tul’skaya Oblast’",
+    "lat": "54.1500",
+    "lng": "36.5500",
+    "id": "1643843521"
+  },
+  {
+    "city": "Yeniseysk",
+    "city_ascii": "Yeniseysk",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "58.4667",
+    "lng": "92.1333",
+    "id": "1643588190"
+  },
+  {
+    "city": "Karachev",
+    "city_ascii": "Karachev",
+    "admin_name": "Bryanskaya Oblast’",
+    "lat": "53.1167",
+    "lng": "34.9667",
+    "id": "1643019084"
+  },
+  {
+    "city": "Sobinka",
+    "city_ascii": "Sobinka",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "56.0000",
+    "lng": "40.0333",
+    "id": "1643819695"
+  },
+  {
+    "city": "Yur’yev-Pol’skiy",
+    "city_ascii": "Yur'yev-Pol'skiy",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "56.5000",
+    "lng": "39.6833",
+    "id": "1643130630"
+  },
+  {
+    "city": "Abdulino",
+    "city_ascii": "Abdulino",
+    "admin_name": "Orenburgskaya Oblast’",
+    "lat": "53.6667",
+    "lng": "53.6333",
+    "id": "1643685252"
+  },
+  {
+    "city": "Voskresensk",
+    "city_ascii": "Voskresensk",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.3167",
+    "lng": "38.7000",
+    "id": "1643351541"
+  },
+  {
+    "city": "Konstantinovsk",
+    "city_ascii": "Konstantinovsk",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.5667",
+    "lng": "41.0833",
+    "id": "1643188587"
+  },
+  {
+    "city": "Zelenogradsk",
+    "city_ascii": "Zelenogradsk",
+    "admin_name": "Kaliningradskaya Oblast’",
+    "lat": "54.9667",
+    "lng": "20.4833",
+    "id": "1643896449"
+  },
+  {
+    "city": "Tyrnyauz",
+    "city_ascii": "Tyrnyauz",
+    "admin_name": "Kabardino-Balkariya",
+    "lat": "43.4000",
+    "lng": "42.9167",
+    "id": "1643073002"
+  },
+  {
+    "city": "Plavsk",
+    "city_ascii": "Plavsk",
+    "admin_name": "Tul’skaya Oblast’",
+    "lat": "53.7167",
+    "lng": "37.2833",
+    "id": "1643003936"
+  },
+  {
+    "city": "Pikalëvo",
+    "city_ascii": "Pikalevo",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "59.5333",
+    "lng": "34.1333",
+    "id": "1643572951"
+  },
+  {
+    "city": "Iglino",
+    "city_ascii": "Iglino",
+    "admin_name": "Bashkortostan",
+    "lat": "54.8383",
+    "lng": "56.4231",
+    "id": "1643038194"
+  },
+  {
+    "city": "Lgov",
+    "city_ascii": "Lgov",
+    "admin_name": "Kurskaya Oblast’",
+    "lat": "51.6667",
+    "lng": "35.2667",
+    "id": "1643991928"
+  },
+  {
+    "city": "Svetlogorsk",
+    "city_ascii": "Svetlogorsk",
+    "admin_name": "Kaliningradskaya Oblast’",
+    "lat": "54.9500",
+    "lng": "20.1500",
+    "id": "1643734918"
+  },
+  {
+    "city": "Novomichurinsk",
+    "city_ascii": "Novomichurinsk",
+    "admin_name": "Ryazanskaya Oblast’",
+    "lat": "54.0500",
+    "lng": "39.7167",
+    "id": "1643380709"
+  },
+  {
+    "city": "Katav-Ivanovsk",
+    "city_ascii": "Katav-Ivanovsk",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "54.7500",
+    "lng": "58.2167",
+    "id": "1643848436"
+  },
+  {
+    "city": "Ostashkov",
+    "city_ascii": "Ostashkov",
+    "admin_name": "Tverskaya Oblast’",
+    "lat": "57.1500",
+    "lng": "33.1000",
+    "id": "1643804559"
+  },
+  {
+    "city": "Kinel’-Cherkassy",
+    "city_ascii": "Kinel'-Cherkassy",
+    "admin_name": "Samarskaya Oblast’",
+    "lat": "53.4683",
+    "lng": "51.4775",
+    "id": "1643695991"
+  },
+  {
+    "city": "Kozelsk",
+    "city_ascii": "Kozelsk",
+    "admin_name": "Kaluzhskaya Oblast’",
+    "lat": "54.0353",
+    "lng": "35.7767",
+    "id": "1643293500"
+  },
+  {
+    "city": "Turinsk",
+    "city_ascii": "Turinsk",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "58.0333",
+    "lng": "63.7000",
+    "id": "1643094071"
+  },
+  {
+    "city": "Nytva",
+    "city_ascii": "Nytva",
+    "admin_name": "Permskiy Kray",
+    "lat": "57.9500",
+    "lng": "55.3333",
+    "id": "1643014234"
+  },
+  {
+    "city": "Onega",
+    "city_ascii": "Onega",
+    "admin_name": "Arkhangel’skaya Oblast’",
+    "lat": "63.9167",
+    "lng": "38.0833",
+    "id": "1643716527"
+  },
+  {
+    "city": "Krasnoslobodsk",
+    "city_ascii": "Krasnoslobodsk",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "48.7000",
+    "lng": "44.5667",
+    "id": "1643897251"
+  },
+  {
+    "city": "Povorino",
+    "city_ascii": "Povorino",
+    "admin_name": "Voronezhskaya Oblast’",
+    "lat": "51.2000",
+    "lng": "42.2500",
+    "id": "1643533014"
+  },
+  {
+    "city": "Inza",
+    "city_ascii": "Inza",
+    "admin_name": "Ul’yanovskaya Oblast’",
+    "lat": "53.8500",
+    "lng": "46.3500",
+    "id": "1643770166"
+  },
+  {
+    "city": "Nizhnyaya Salda",
+    "city_ascii": "Nizhnyaya Salda",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "58.0667",
+    "lng": "60.7167",
+    "id": "1643295393"
+  },
+  {
+    "city": "Petrovsk-Zabaykal’skiy",
+    "city_ascii": "Petrovsk-Zabaykal'skiy",
+    "admin_name": "Zabaykal’skiy Kray",
+    "lat": "51.2667",
+    "lng": "108.8333",
+    "id": "1643676561"
+  },
+  {
+    "city": "Shimanovsk",
+    "city_ascii": "Shimanovsk",
+    "admin_name": "Amurskaya Oblast’",
+    "lat": "52.0000",
+    "lng": "127.7000",
+    "id": "1643749021"
+  },
+  {
+    "city": "Kirsanov",
+    "city_ascii": "Kirsanov",
+    "admin_name": "Tambovskaya Oblast’",
+    "lat": "52.6500",
+    "lng": "42.7333",
+    "id": "1643643425"
+  },
+  {
+    "city": "Kamyzyak",
+    "city_ascii": "Kamyzyak",
+    "admin_name": "Astrakhanskaya Oblast’",
+    "lat": "46.1167",
+    "lng": "48.0833",
+    "id": "1643101212"
+  },
+  {
+    "city": "Gavrilov-Yam",
+    "city_ascii": "Gavrilov-Yam",
+    "admin_name": "Yaroslavskaya Oblast’",
+    "lat": "57.3167",
+    "lng": "39.8500",
+    "id": "1643185412"
+  },
+  {
+    "city": "Menzelinsk",
+    "city_ascii": "Menzelinsk",
+    "admin_name": "Tatarstan",
+    "lat": "55.7333",
+    "lng": "53.1167",
+    "id": "1643750653"
+  },
+  {
+    "city": "Poronaysk",
+    "city_ascii": "Poronaysk",
+    "admin_name": "Sakhalinskaya Oblast’",
+    "lat": "49.2167",
+    "lng": "143.1167",
+    "id": "1643094568"
+  },
+  {
+    "city": "Ilanskiy",
+    "city_ascii": "Ilanskiy",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "56.2414",
+    "lng": "96.0581",
+    "id": "1643903543"
+  },
+  {
+    "city": "Seltso",
+    "city_ascii": "Seltso",
+    "admin_name": "Bryanskaya Oblast’",
+    "lat": "53.3678",
+    "lng": "34.0978",
+    "id": "1643772327"
+  },
+  {
+    "city": "Raychikhinsk",
+    "city_ascii": "Raychikhinsk",
+    "admin_name": "Amurskaya Oblast’",
+    "lat": "49.7833",
+    "lng": "129.4167",
+    "id": "1643638607"
+  },
+  {
+    "city": "Mamadysh",
+    "city_ascii": "Mamadysh",
+    "admin_name": "Tatarstan",
+    "lat": "55.7131",
+    "lng": "51.4106",
+    "id": "1643004821"
+  },
+  {
+    "city": "Kondrovo",
+    "city_ascii": "Kondrovo",
+    "admin_name": "Kaluzhskaya Oblast’",
+    "lat": "54.8000",
+    "lng": "35.9333",
+    "id": "1643237880"
+  },
+  {
+    "city": "Zhukovo",
+    "city_ascii": "Zhukovo",
+    "admin_name": "Kaluzhskaya Oblast’",
+    "lat": "55.0333",
+    "lng": "36.7500",
+    "id": "1643886560"
+  },
+  {
+    "city": "Zhirnovsk",
+    "city_ascii": "Zhirnovsk",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "50.9833",
+    "lng": "44.7833",
+    "id": "1643137846"
+  },
+  {
+    "city": "Podporozhye",
+    "city_ascii": "Podporozhye",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "60.9000",
+    "lng": "34.2000",
+    "id": "1643153235"
+  },
+  {
+    "city": "Boksitogorsk",
+    "city_ascii": "Boksitogorsk",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "59.4833",
+    "lng": "33.8333",
+    "id": "1643927094"
+  },
+  {
+    "city": "Podstepki",
+    "city_ascii": "Podstepki",
+    "admin_name": "Samarskaya Oblast’",
+    "lat": "53.5151",
+    "lng": "49.1294",
+    "id": "1643224520"
+  },
+  {
+    "city": "Novoanninskiy",
+    "city_ascii": "Novoanninskiy",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "50.5333",
+    "lng": "42.6833",
+    "id": "1643803707"
+  },
+  {
+    "city": "Chaltyr",
+    "city_ascii": "Chaltyr",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.2848",
+    "lng": "39.4823",
+    "id": "1643982881"
+  },
+  {
+    "city": "Kizel",
+    "city_ascii": "Kizel",
+    "admin_name": "Permskiy Kray",
+    "lat": "59.0500",
+    "lng": "57.6667",
+    "id": "1643267536"
+  },
+  {
+    "city": "Akhty",
+    "city_ascii": "Akhty",
+    "admin_name": "Dagestan",
+    "lat": "41.4647",
+    "lng": "47.7400",
+    "id": "1643631394"
+  },
+  {
+    "city": "Yasnogorsk",
+    "city_ascii": "Yasnogorsk",
+    "admin_name": "Tul’skaya Oblast’",
+    "lat": "54.5000",
+    "lng": "37.6667",
+    "id": "1643871801"
+  },
+  {
+    "city": "Ruza",
+    "city_ascii": "Ruza",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.7000",
+    "lng": "36.2000",
+    "id": "1643967155"
+  },
+  {
+    "city": "Yasnyy",
+    "city_ascii": "Yasnyy",
+    "admin_name": "Orenburgskaya Oblast’",
+    "lat": "51.0500",
+    "lng": "59.9667",
+    "id": "1643810405"
+  },
+  {
+    "city": "Novouzensk",
+    "city_ascii": "Novouzensk",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "50.4667",
+    "lng": "48.1333",
+    "id": "1643676305"
+  },
+  {
+    "city": "Belokurikha",
+    "city_ascii": "Belokurikha",
+    "admin_name": "Altayskiy Kray",
+    "lat": "51.9833",
+    "lng": "84.9833",
+    "id": "1643613232"
+  },
+  {
+    "city": "Borodino",
+    "city_ascii": "Borodino",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "55.9056",
+    "lng": "94.8997",
+    "id": "1643427490"
+  },
+  {
+    "city": "Argun",
+    "city_ascii": "Argun",
+    "admin_name": "Chechnya",
+    "lat": "43.2944",
+    "lng": "45.8839",
+    "id": "1643005496"
+  },
+  {
+    "city": "Kulunda",
+    "city_ascii": "Kulunda",
+    "admin_name": "Altayskiy Kray",
+    "lat": "52.5827",
+    "lng": "78.9473",
+    "id": "1643649266"
+  },
+  {
+    "city": "Degtyarsk",
+    "city_ascii": "Degtyarsk",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.7000",
+    "lng": "60.1167",
+    "id": "1643565822"
+  },
+  {
+    "city": "Kasli",
+    "city_ascii": "Kasli",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "55.9000",
+    "lng": "60.7667",
+    "id": "1643483987"
+  },
+  {
+    "city": "Pochëp",
+    "city_ascii": "Pochep",
+    "admin_name": "Bryanskaya Oblast’",
+    "lat": "52.9333",
+    "lng": "33.4500",
+    "id": "1643674732"
+  },
+  {
+    "city": "Pallasovka",
+    "city_ascii": "Pallasovka",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "50.0500",
+    "lng": "46.8833",
+    "id": "1643361305"
+  },
+  {
+    "city": "Kalininsk",
+    "city_ascii": "Kalininsk",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "51.5000",
+    "lng": "44.4667",
+    "id": "1643016449"
+  },
+  {
+    "city": "Barysh",
+    "city_ascii": "Barysh",
+    "admin_name": "Ul’yanovskaya Oblast’",
+    "lat": "53.6500",
+    "lng": "47.1000",
+    "id": "1643221892"
+  },
+  {
+    "city": "Nerchinsk",
+    "city_ascii": "Nerchinsk",
+    "admin_name": "Zabaykal’skiy Kray",
+    "lat": "51.9944",
+    "lng": "116.5556",
+    "id": "1643896987"
+  },
+  {
+    "city": "Chegdomyn",
+    "city_ascii": "Chegdomyn",
+    "admin_name": "Khabarovskiy Kray",
+    "lat": "51.1178",
+    "lng": "133.0241",
+    "id": "1643328181"
+  },
+  {
+    "city": "Rylsk",
+    "city_ascii": "Rylsk",
+    "admin_name": "Kurskaya Oblast’",
+    "lat": "51.5667",
+    "lng": "34.6667",
+    "id": "1643436531"
+  },
+  {
+    "city": "Sortavala",
+    "city_ascii": "Sortavala",
+    "admin_name": "Kareliya",
+    "lat": "61.7056",
+    "lng": "30.6958",
+    "id": "1643799487"
+  },
+  {
+    "city": "Dubovka",
+    "city_ascii": "Dubovka",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "49.0500",
+    "lng": "44.8333",
+    "id": "1643833054"
+  },
+  {
+    "city": "Danilov",
+    "city_ascii": "Danilov",
+    "admin_name": "Yaroslavskaya Oblast’",
+    "lat": "58.1833",
+    "lng": "40.1667",
+    "id": "1643198619"
+  },
+  {
+    "city": "Tsimlyansk",
+    "city_ascii": "Tsimlyansk",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.6478",
+    "lng": "42.0961",
+    "id": "1643104941"
+  },
+  {
+    "city": "Navashino",
+    "city_ascii": "Navashino",
+    "admin_name": "Nizhegorodskaya Oblast’",
+    "lat": "55.5500",
+    "lng": "42.2000",
+    "id": "1643012933"
+  },
+  {
+    "city": "Kuleshovka",
+    "city_ascii": "Kuleshovka",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.0833",
+    "lng": "39.5667",
+    "id": "1643894648"
+  },
+  {
+    "city": "Talitsa",
+    "city_ascii": "Talitsa",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "57.0125",
+    "lng": "63.7292",
+    "id": "1643272531"
+  },
+  {
+    "city": "Ust’-Ordynskiy",
+    "city_ascii": "Ust'-Ordynskiy",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "52.8056",
+    "lng": "104.7622",
+    "id": "1643007224"
+  },
+  {
+    "city": "Gryazovets",
+    "city_ascii": "Gryazovets",
+    "admin_name": "Vologodskaya Oblast’",
+    "lat": "58.8833",
+    "lng": "40.2500",
+    "id": "1643659896"
+  },
+  {
+    "city": "Sukhinichi",
+    "city_ascii": "Sukhinichi",
+    "admin_name": "Kaluzhskaya Oblast’",
+    "lat": "54.1000",
+    "lng": "35.3500",
+    "id": "1643650021"
+  },
+  {
+    "city": "Shchigry",
+    "city_ascii": "Shchigry",
+    "admin_name": "Kurskaya Oblast’",
+    "lat": "51.8667",
+    "lng": "36.9333",
+    "id": "1643401048"
+  },
+  {
+    "city": "Abinsk",
+    "city_ascii": "Abinsk",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "44.8667",
+    "lng": "38.1500",
+    "id": "1643216828"
+  },
+  {
+    "city": "Boguchar",
+    "city_ascii": "Boguchar",
+    "admin_name": "Voronezhskaya Oblast’",
+    "lat": "49.9500",
+    "lng": "40.5500",
+    "id": "1643779708"
+  },
+  {
+    "city": "Volgorechensk",
+    "city_ascii": "Volgorechensk",
+    "admin_name": "Kostromskaya Oblast’",
+    "lat": "57.4439",
+    "lng": "41.1592",
+    "id": "1643892465"
+  },
+  {
+    "city": "Privolzhsk",
+    "city_ascii": "Privolzhsk",
+    "admin_name": "Ivanovskaya Oblast’",
+    "lat": "57.3825",
+    "lng": "41.2861",
+    "id": "1643261146"
+  },
+  {
+    "city": "Chudovo",
+    "city_ascii": "Chudovo",
+    "admin_name": "Novgorodskaya Oblast’",
+    "lat": "59.1167",
+    "lng": "31.6667",
+    "id": "1643696989"
+  },
+  {
+    "city": "Krasnyy Kut",
+    "city_ascii": "Krasnyy Kut",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "50.9500",
+    "lng": "46.9667",
+    "id": "1643654009"
+  },
+  {
+    "city": "Ochër",
+    "city_ascii": "Ocher",
+    "admin_name": "Permskiy Kray",
+    "lat": "57.8833",
+    "lng": "54.7333",
+    "id": "1643072449"
+  },
+  {
+    "city": "Krasnozavodsk",
+    "city_ascii": "Krasnozavodsk",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "56.4333",
+    "lng": "38.2333",
+    "id": "1643009707"
+  },
+  {
+    "city": "Agidel",
+    "city_ascii": "Agidel",
+    "admin_name": "Bashkortostan",
+    "lat": "55.9000",
+    "lng": "53.9333",
+    "id": "1643864231"
+  },
+  {
+    "city": "Krasnovishersk",
+    "city_ascii": "Krasnovishersk",
+    "admin_name": "Permskiy Kray",
+    "lat": "60.4167",
+    "lng": "57.1000",
+    "id": "1643010731"
+  },
+  {
+    "city": "Uzhur",
+    "city_ascii": "Uzhur",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "55.3175",
+    "lng": "89.8225",
+    "id": "1643237169"
+  },
+  {
+    "city": "Kashin",
+    "city_ascii": "Kashin",
+    "admin_name": "Tverskaya Oblast’",
+    "lat": "57.3500",
+    "lng": "37.6167",
+    "id": "1643719450"
+  },
+  {
+    "city": "Valday",
+    "city_ascii": "Valday",
+    "admin_name": "Novgorodskaya Oblast’",
+    "lat": "57.9667",
+    "lng": "33.2500",
+    "id": "1643697222"
+  },
+  {
+    "city": "Ivdel",
+    "city_ascii": "Ivdel",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "60.6833",
+    "lng": "60.4167",
+    "id": "1643246085"
+  },
+  {
+    "city": "Pestovo",
+    "city_ascii": "Pestovo",
+    "admin_name": "Novgorodskaya Oblast’",
+    "lat": "58.6000",
+    "lng": "35.8167",
+    "id": "1643460089"
+  },
+  {
+    "city": "Nevel",
+    "city_ascii": "Nevel",
+    "admin_name": "Pskovskaya Oblast’",
+    "lat": "56.0333",
+    "lng": "29.9167",
+    "id": "1643498267"
+  },
+  {
+    "city": "Gvardeysk",
+    "city_ascii": "Gvardeysk",
+    "admin_name": "Kaliningradskaya Oblast’",
+    "lat": "54.6667",
+    "lng": "21.0833",
+    "id": "1643013384"
+  },
+  {
+    "city": "Krasnogvardeyskoye",
+    "city_ascii": "Krasnogvardeyskoye",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "45.8500",
+    "lng": "41.5167",
+    "id": "1643102176"
+  },
+  {
+    "city": "Kaspiyskiy",
+    "city_ascii": "Kaspiyskiy",
+    "admin_name": "Kalmykiya",
+    "lat": "45.3908",
+    "lng": "47.3658",
+    "id": "1643395852"
+  },
+  {
+    "city": "Shlisselburg",
+    "city_ascii": "Shlisselburg",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "59.9536",
+    "lng": "31.0383",
+    "id": "1643852770"
+  },
+  {
+    "city": "Pervomaysk",
+    "city_ascii": "Pervomaysk",
+    "admin_name": "Nizhegorodskaya Oblast’",
+    "lat": "54.8667",
+    "lng": "43.8000",
+    "id": "1643783903"
+  },
+  {
+    "city": "Bessonovka",
+    "city_ascii": "Bessonovka",
+    "admin_name": "Penzenskaya Oblast’",
+    "lat": "53.3094",
+    "lng": "45.0419",
+    "id": "1643788725"
+  },
+  {
+    "city": "Kupino",
+    "city_ascii": "Kupino",
+    "admin_name": "Novosibirskaya Oblast’",
+    "lat": "54.3667",
+    "lng": "77.3000",
+    "id": "1643059736"
+  },
+  {
+    "city": "Kartaly",
+    "city_ascii": "Kartaly",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "53.0500",
+    "lng": "60.6500",
+    "id": "1643181186"
+  },
+  {
+    "city": "Novoulyanovsk",
+    "city_ascii": "Novoulyanovsk",
+    "admin_name": "Ul’yanovskaya Oblast’",
+    "lat": "54.1667",
+    "lng": "48.3833",
+    "id": "1643073136"
+  },
+  {
+    "city": "Isilkul",
+    "city_ascii": "Isilkul",
+    "admin_name": "Omskaya Oblast’",
+    "lat": "54.9500",
+    "lng": "71.2500",
+    "id": "1643502986"
+  },
+  {
+    "city": "Nikolayevsk",
+    "city_ascii": "Nikolayevsk",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "50.0333",
+    "lng": "45.4500",
+    "id": "1643965946"
+  },
+  {
+    "city": "Beloozërskiy",
+    "city_ascii": "Beloozerskiy",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.4589",
+    "lng": "38.4411",
+    "id": "1643491121"
+  },
+  {
+    "city": "Golyshmanovo",
+    "city_ascii": "Golyshmanovo",
+    "admin_name": "Tyumenskaya Oblast’",
+    "lat": "56.3819",
+    "lng": "68.3715",
+    "id": "1643817304"
+  },
+  {
+    "city": "Svetogorsk",
+    "city_ascii": "Svetogorsk",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "61.1167",
+    "lng": "28.8500",
+    "id": "1643956298"
+  },
+  {
+    "city": "Melenki",
+    "city_ascii": "Melenki",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "55.3333",
+    "lng": "41.6500",
+    "id": "1643886318"
+  },
+  {
+    "city": "Leninsk",
+    "city_ascii": "Leninsk",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "48.7000",
+    "lng": "45.2167",
+    "id": "1643120939"
+  },
+  {
+    "city": "Udachnyy",
+    "city_ascii": "Udachnyy",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "66.4000",
+    "lng": "112.3167",
+    "id": "1643138235"
+  },
+  {
+    "city": "Kodinsk",
+    "city_ascii": "Kodinsk",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "58.6833",
+    "lng": "99.1833",
+    "id": "1643232820"
+  },
+  {
+    "city": "Petushki",
+    "city_ascii": "Petushki",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "55.9333",
+    "lng": "39.4667",
+    "id": "1643011606"
+  },
+  {
+    "city": "Kusa",
+    "city_ascii": "Kusa",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "55.3500",
+    "lng": "59.4500",
+    "id": "1643204008"
+  },
+  {
+    "city": "Trubchevsk",
+    "city_ascii": "Trubchevsk",
+    "admin_name": "Bryanskaya Oblast’",
+    "lat": "52.5667",
+    "lng": "33.7667",
+    "id": "1643481460"
+  },
+  {
+    "city": "Korenovsk",
+    "city_ascii": "Korenovsk",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "45.4686",
+    "lng": "39.4519",
+    "id": "1643474762"
+  },
+  {
+    "city": "Adygeysk",
+    "city_ascii": "Adygeysk",
+    "admin_name": "Adygeya",
+    "lat": "44.8832",
+    "lng": "39.1902",
+    "id": "1643365200"
+  },
+  {
+    "city": "Zima",
+    "city_ascii": "Zima",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "53.9167",
+    "lng": "102.0500",
+    "id": "1643510813"
+  },
+  {
+    "city": "Arzgir",
+    "city_ascii": "Arzgir",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "45.3694",
+    "lng": "44.2281",
+    "id": "1643130198"
+  },
+  {
+    "city": "Zabaykalsk",
+    "city_ascii": "Zabaykalsk",
+    "admin_name": "Zabaykal’skiy Kray",
+    "lat": "49.6514",
+    "lng": "117.3269",
+    "id": "1643974760"
+  },
+  {
+    "city": "Karabanovo",
+    "city_ascii": "Karabanovo",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "56.3167",
+    "lng": "38.7000",
+    "id": "1643955513"
+  },
+  {
+    "city": "Anadyr",
+    "city_ascii": "Anadyr",
+    "admin_name": "Chukotskiy Avtonomnyy Okrug",
+    "lat": "64.7333",
+    "lng": "177.5167",
+    "id": "1643453469"
+  },
+  {
+    "city": "Manturovo",
+    "city_ascii": "Manturovo",
+    "admin_name": "Kostromskaya Oblast’",
+    "lat": "58.3333",
+    "lng": "44.7667",
+    "id": "1643951602"
+  },
+  {
+    "city": "Vysokovsk",
+    "city_ascii": "Vysokovsk",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "56.3167",
+    "lng": "36.5500",
+    "id": "1643011226"
+  },
+  {
+    "city": "Mogocha",
+    "city_ascii": "Mogocha",
+    "admin_name": "Zabaykal’skiy Kray",
+    "lat": "53.7333",
+    "lng": "119.7667",
+    "id": "1643177886"
+  },
+  {
+    "city": "Pionerskiy",
+    "city_ascii": "Pionerskiy",
+    "admin_name": "Kaliningradskaya Oblast’",
+    "lat": "54.9517",
+    "lng": "20.2333",
+    "id": "1643251057"
+  },
+  {
+    "city": "Severobaykalsk",
+    "city_ascii": "Severobaykalsk",
+    "admin_name": "Buryatiya",
+    "lat": "55.6500",
+    "lng": "109.3167",
+    "id": "1643130007"
+  },
+  {
+    "city": "Lakinsk",
+    "city_ascii": "Lakinsk",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "56.0333",
+    "lng": "39.9667",
+    "id": "1643547858"
+  },
+  {
+    "city": "Galich",
+    "city_ascii": "Galich",
+    "admin_name": "Kostromskaya Oblast’",
+    "lat": "58.3833",
+    "lng": "42.3500",
+    "id": "1643147614"
+  },
+  {
+    "city": "Rayevskiy",
+    "city_ascii": "Rayevskiy",
+    "admin_name": "Bashkortostan",
+    "lat": "54.0664",
+    "lng": "54.9358",
+    "id": "1643613500"
+  },
+  {
+    "city": "Tsivilsk",
+    "city_ascii": "Tsivilsk",
+    "admin_name": "Chuvashiya",
+    "lat": "55.8667",
+    "lng": "47.4833",
+    "id": "1643574991"
+  },
+  {
+    "city": "Svirsk",
+    "city_ascii": "Svirsk",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "53.0833",
+    "lng": "103.3333",
+    "id": "1643442205"
+  },
+  {
+    "city": "Belëv",
+    "city_ascii": "Belev",
+    "admin_name": "Tul’skaya Oblast’",
+    "lat": "53.8125",
+    "lng": "36.1333",
+    "id": "1643708912"
+  },
+  {
+    "city": "Blagodarnyy",
+    "city_ascii": "Blagodarnyy",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "45.1000",
+    "lng": "43.4500",
+    "id": "1643447136"
+  },
+  {
+    "city": "Borovsk",
+    "city_ascii": "Borovsk",
+    "admin_name": "Kaluzhskaya Oblast’",
+    "lat": "55.2000",
+    "lng": "36.5000",
+    "id": "1643432341"
+  },
+  {
+    "city": "Venëv",
+    "city_ascii": "Venev",
+    "admin_name": "Tul’skaya Oblast’",
+    "lat": "54.3500",
+    "lng": "38.2667",
+    "id": "1643092677"
+  },
+  {
+    "city": "Gorokhovets",
+    "city_ascii": "Gorokhovets",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "56.2000",
+    "lng": "42.7000",
+    "id": "1643628827"
+  },
+  {
+    "city": "Shilka",
+    "city_ascii": "Shilka",
+    "admin_name": "Zabaykal’skiy Kray",
+    "lat": "51.8500",
+    "lng": "116.0333",
+    "id": "1643938937"
+  },
+  {
+    "city": "Sosnovoborsk",
+    "city_ascii": "Sosnovoborsk",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "56.1333",
+    "lng": "93.3667",
+    "id": "1643158864"
+  },
+  {
+    "city": "Kalyazin",
+    "city_ascii": "Kalyazin",
+    "admin_name": "Tverskaya Oblast’",
+    "lat": "57.2333",
+    "lng": "37.8833",
+    "id": "1643298637"
+  },
+  {
+    "city": "Fokino",
+    "city_ascii": "Fokino",
+    "admin_name": "Bryanskaya Oblast’",
+    "lat": "53.2128",
+    "lng": "34.4186",
+    "id": "1643057736"
+  },
+  {
+    "city": "Petrov Val",
+    "city_ascii": "Petrov Val",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "50.1500",
+    "lng": "45.2167",
+    "id": "1643860504"
+  },
+  {
+    "city": "Baykalsk",
+    "city_ascii": "Baykalsk",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "51.5167",
+    "lng": "104.1333",
+    "id": "1643186912"
+  },
+  {
+    "city": "Ak-Dovurak",
+    "city_ascii": "Ak-Dovurak",
+    "admin_name": "Tyva",
+    "lat": "51.1833",
+    "lng": "90.6000",
+    "id": "1643785448"
+  },
+  {
+    "city": "Uren",
+    "city_ascii": "Uren",
+    "admin_name": "Nizhegorodskaya Oblast’",
+    "lat": "57.4500",
+    "lng": "45.7833",
+    "id": "1643733031"
+  },
+  {
+    "city": "Bogorodsk",
+    "city_ascii": "Bogorodsk",
+    "admin_name": "Nizhegorodskaya Oblast’",
+    "lat": "56.1167",
+    "lng": "43.5000",
+    "id": "1643424718"
+  },
+  {
+    "city": "Syasstroy",
+    "city_ascii": "Syasstroy",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "60.1500",
+    "lng": "32.5833",
+    "id": "1643899356"
+  },
+  {
+    "city": "Abaza",
+    "city_ascii": "Abaza",
+    "admin_name": "Khakasiya",
+    "lat": "52.6481",
+    "lng": "90.0739",
+    "id": "1643885049"
+  },
+  {
+    "city": "Polyarnyy",
+    "city_ascii": "Polyarnyy",
+    "admin_name": "Murmanskaya Oblast’",
+    "lat": "69.2000",
+    "lng": "33.4667",
+    "id": "1643432811"
+  },
+  {
+    "city": "Cherlak",
+    "city_ascii": "Cherlak",
+    "admin_name": "Omskaya Oblast’",
+    "lat": "54.1605",
+    "lng": "74.8200",
+    "id": "1643336296"
+  },
+  {
+    "city": "Olenegorsk",
+    "city_ascii": "Olenegorsk",
+    "admin_name": "Murmanskaya Oblast’",
+    "lat": "68.1500",
+    "lng": "33.2833",
+    "id": "1643381812"
+  },
+  {
+    "city": "Cherdakly",
+    "city_ascii": "Cherdakly",
+    "admin_name": "Ul’yanovskaya Oblast’",
+    "lat": "54.3591",
+    "lng": "48.8487",
+    "id": "1643586210"
+  },
+  {
+    "city": "Khvalynsk",
+    "city_ascii": "Khvalynsk",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "52.4833",
+    "lng": "48.1000",
+    "id": "1643012410"
+  },
+  {
+    "city": "Uyar",
+    "city_ascii": "Uyar",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "55.8267",
+    "lng": "94.3153",
+    "id": "1643343542"
+  },
+  {
+    "city": "Kameshkovo",
+    "city_ascii": "Kameshkovo",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "56.3500",
+    "lng": "41.0000",
+    "id": "1643012226"
+  },
+  {
+    "city": "Pokrovsk",
+    "city_ascii": "Pokrovsk",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "61.4833",
+    "lng": "129.1500",
+    "id": "1643183370"
+  },
+  {
+    "city": "Belovo",
+    "city_ascii": "Belovo",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "54.4167",
+    "lng": "86.3000",
+    "id": "1643699718"
+  },
+  {
+    "city": "Pokrovskoye",
+    "city_ascii": "Pokrovskoye",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.4164",
+    "lng": "38.8989",
+    "id": "1643043206"
+  },
+  {
+    "city": "Dolinsk",
+    "city_ascii": "Dolinsk",
+    "admin_name": "Sakhalinskaya Oblast’",
+    "lat": "47.3167",
+    "lng": "142.8000",
+    "id": "1643206913"
+  },
+  {
+    "city": "Strunino",
+    "city_ascii": "Strunino",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "56.3667",
+    "lng": "38.5833",
+    "id": "1643212321"
+  },
+  {
+    "city": "Zhatay",
+    "city_ascii": "Zhatay",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "62.1500",
+    "lng": "129.8167",
+    "id": "1643098394"
+  },
+  {
+    "city": "Shagonar",
+    "city_ascii": "Shagonar",
+    "admin_name": "Tyva",
+    "lat": "51.5500",
+    "lng": "92.7667",
+    "id": "1643785605"
+  },
+  {
+    "city": "Magdagachi",
+    "city_ascii": "Magdagachi",
+    "admin_name": "Amurskaya Oblast’",
+    "lat": "53.4500",
+    "lng": "125.8000",
+    "id": "1643413401"
+  },
+  {
+    "city": "Oboyan",
+    "city_ascii": "Oboyan",
+    "admin_name": "Kurskaya Oblast’",
+    "lat": "51.2000",
+    "lng": "36.2833",
+    "id": "1643628324"
+  },
+  {
+    "city": "Babayevo",
+    "city_ascii": "Babayevo",
+    "admin_name": "Vologodskaya Oblast’",
+    "lat": "59.3833",
+    "lng": "35.9167",
+    "id": "1643658178"
+  },
+  {
+    "city": "Kremenki",
+    "city_ascii": "Kremenki",
+    "admin_name": "Kaluzhskaya Oblast’",
+    "lat": "54.8833",
+    "lng": "37.1167",
+    "id": "1643139785"
+  },
+  {
+    "city": "Gusinoozërsk",
+    "city_ascii": "Gusinoozersk",
+    "admin_name": "Buryatiya",
+    "lat": "51.2833",
+    "lng": "106.5167",
+    "id": "1643386183"
+  },
+  {
+    "city": "Severnyy",
+    "city_ascii": "Severnyy",
+    "admin_name": "Komi",
+    "lat": "67.6083",
+    "lng": "64.1233",
+    "id": "1643427677"
+  },
+  {
+    "city": "Aginskoye",
+    "city_ascii": "Aginskoye",
+    "admin_name": "Zabaykal’skiy Kray",
+    "lat": "51.1031",
+    "lng": "114.5228",
+    "id": "1643514234"
+  },
+  {
+    "city": "Toropets",
+    "city_ascii": "Toropets",
+    "admin_name": "Tverskaya Oblast’",
+    "lat": "56.5000",
+    "lng": "31.6500",
+    "id": "1643009626"
+  },
+  {
+    "city": "Volosovo",
+    "city_ascii": "Volosovo",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "59.4333",
+    "lng": "29.4833",
+    "id": "1643898126"
+  },
+  {
+    "city": "Polyarnyye Zori",
+    "city_ascii": "Polyarnyye Zori",
+    "admin_name": "Murmanskaya Oblast’",
+    "lat": "67.3667",
+    "lng": "32.5000",
+    "id": "1643472022"
+  },
+  {
+    "city": "Chekmagush",
+    "city_ascii": "Chekmagush",
+    "admin_name": "Bashkortostan",
+    "lat": "55.1333",
+    "lng": "54.6667",
+    "id": "1643906704"
+  },
+  {
+    "city": "Sosenskiy",
+    "city_ascii": "Sosenskiy",
+    "admin_name": "Kaluzhskaya Oblast’",
+    "lat": "54.0500",
+    "lng": "35.9667",
+    "id": "1643480430"
+  },
+  {
+    "city": "Tetyushi",
+    "city_ascii": "Tetyushi",
+    "admin_name": "Tatarstan",
+    "lat": "54.9333",
+    "lng": "48.8333",
+    "id": "1643097545"
+  },
+  {
+    "city": "Kuvandyk",
+    "city_ascii": "Kuvandyk",
+    "admin_name": "Orenburgskaya Oblast’",
+    "lat": "51.4667",
+    "lng": "57.3667",
+    "id": "1643197108"
+  },
+  {
+    "city": "Yermolino",
+    "city_ascii": "Yermolino",
+    "admin_name": "Kaluzhskaya Oblast’",
+    "lat": "55.2000",
+    "lng": "36.6000",
+    "id": "1643925447"
+  },
+  {
+    "city": "Surazh",
+    "city_ascii": "Surazh",
+    "admin_name": "Bryanskaya Oblast’",
+    "lat": "53.0167",
+    "lng": "32.3833",
+    "id": "1643268069"
+  },
+  {
+    "city": "Baley",
+    "city_ascii": "Baley",
+    "admin_name": "Zabaykal’skiy Kray",
+    "lat": "51.6000",
+    "lng": "116.6333",
+    "id": "1643419393"
+  },
+  {
+    "city": "Yarovoye",
+    "city_ascii": "Yarovoye",
+    "admin_name": "Altayskiy Kray",
+    "lat": "52.9333",
+    "lng": "78.5833",
+    "id": "1643017965"
+  },
+  {
+    "city": "Narimanov",
+    "city_ascii": "Narimanov",
+    "admin_name": "Astrakhanskaya Oblast’",
+    "lat": "46.6833",
+    "lng": "47.8500",
+    "id": "1643669598"
+  },
+  {
+    "city": "Chuguyevka",
+    "city_ascii": "Chuguyevka",
+    "admin_name": "Primorskiy Kray",
+    "lat": "44.1667",
+    "lng": "133.8583",
+    "id": "1643876909"
+  },
+  {
+    "city": "Yemanzhelinsk",
+    "city_ascii": "Yemanzhelinsk",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "54.7667",
+    "lng": "61.3333",
+    "id": "1643916431"
+  },
+  {
+    "city": "Sol’-Iletsk",
+    "city_ascii": "Sol'-Iletsk",
+    "admin_name": "Orenburgskaya Oblast’",
+    "lat": "51.1667",
+    "lng": "55.0000",
+    "id": "1643001542"
+  },
+  {
+    "city": "Zavyalovo",
+    "city_ascii": "Zavyalovo",
+    "admin_name": "Udmurtiya",
+    "lat": "56.7922",
+    "lng": "53.3756",
+    "id": "1643096121"
+  },
+  {
+    "city": "Susuman",
+    "city_ascii": "Susuman",
+    "admin_name": "Magadanskaya Oblast’",
+    "lat": "62.7833",
+    "lng": "148.1667",
+    "id": "1643731360"
+  },
+  {
+    "city": "Chulym",
+    "city_ascii": "Chulym",
+    "admin_name": "Novosibirskaya Oblast’",
+    "lat": "55.1167",
+    "lng": "80.9667",
+    "id": "1643503284"
+  },
+  {
+    "city": "Dugulubgey",
+    "city_ascii": "Dugulubgey",
+    "admin_name": "Kabardino-Balkariya",
+    "lat": "43.6500",
+    "lng": "43.5500",
+    "id": "1643487395"
+  },
+  {
+    "city": "Likhoslavl",
+    "city_ascii": "Likhoslavl",
+    "admin_name": "Tverskaya Oblast’",
+    "lat": "57.1333",
+    "lng": "35.4833",
+    "id": "1643616895"
+  },
+  {
+    "city": "Arkadak",
+    "city_ascii": "Arkadak",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "51.9333",
+    "lng": "43.5000",
+    "id": "1643300892"
+  },
+  {
+    "city": "Belousovo",
+    "city_ascii": "Belousovo",
+    "admin_name": "Kaluzhskaya Oblast’",
+    "lat": "55.0833",
+    "lng": "36.6667",
+    "id": "1643537529"
+  },
+  {
+    "city": "Tayga",
+    "city_ascii": "Tayga",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "56.0667",
+    "lng": "85.6167",
+    "id": "1643905675"
+  },
+  {
+    "city": "Gornozavodsk",
+    "city_ascii": "Gornozavodsk",
+    "admin_name": "Permskiy Kray",
+    "lat": "58.3667",
+    "lng": "58.3333",
+    "id": "1643388843"
+  },
+  {
+    "city": "Kandry",
+    "city_ascii": "Kandry",
+    "admin_name": "Bashkortostan",
+    "lat": "54.5500",
+    "lng": "54.1000",
+    "id": "1643092340"
+  },
+  {
+    "city": "Vikhorevka",
+    "city_ascii": "Vikhorevka",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "56.1167",
+    "lng": "101.1667",
+    "id": "1643023865"
+  },
+  {
+    "city": "Yemva",
+    "city_ascii": "Yemva",
+    "admin_name": "Komi",
+    "lat": "62.6000",
+    "lng": "50.8667",
+    "id": "1643717483"
+  },
+  {
+    "city": "Krasnousol’skiy",
+    "city_ascii": "Krasnousol'skiy",
+    "admin_name": "Bashkortostan",
+    "lat": "53.8947",
+    "lng": "56.4686",
+    "id": "1643830289"
+  },
+  {
+    "city": "Khilok",
+    "city_ascii": "Khilok",
+    "admin_name": "Zabaykal’skiy Kray",
+    "lat": "51.3500",
+    "lng": "110.4500",
+    "id": "1643397911"
+  },
+  {
+    "city": "Peschanokopskoye",
+    "city_ascii": "Peschanokopskoye",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "46.1958",
+    "lng": "41.0778",
+    "id": "1643956352"
+  },
+  {
+    "city": "Nevelsk",
+    "city_ascii": "Nevelsk",
+    "admin_name": "Sakhalinskaya Oblast’",
+    "lat": "46.6833",
+    "lng": "141.8667",
+    "id": "1643719954"
+  },
+  {
+    "city": "Novaya Lyalya",
+    "city_ascii": "Novaya Lyalya",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "59.0667",
+    "lng": "60.6000",
+    "id": "1643222721"
+  },
+  {
+    "city": "Yuzhno-Sukhokumsk",
+    "city_ascii": "Yuzhno-Sukhokumsk",
+    "admin_name": "Dagestan",
+    "lat": "44.6667",
+    "lng": "45.6500",
+    "id": "1643359037"
+  },
+  {
+    "city": "Aleksandrovsk",
+    "city_ascii": "Aleksandrovsk",
+    "admin_name": "Permskiy Kray",
+    "lat": "59.1667",
+    "lng": "57.6000",
+    "id": "1643050793"
+  },
+  {
+    "city": "Sudogda",
+    "city_ascii": "Sudogda",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "55.9500",
+    "lng": "40.8667",
+    "id": "1643470978"
+  },
+  {
+    "city": "Namtsy",
+    "city_ascii": "Namtsy",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "62.7333",
+    "lng": "129.6667",
+    "id": "1643884907"
+  },
+  {
+    "city": "Taksimo",
+    "city_ascii": "Taksimo",
+    "admin_name": "Buryatiya",
+    "lat": "56.3315",
+    "lng": "114.8900",
+    "id": "1643663655"
+  },
+  {
+    "city": "Churapcha",
+    "city_ascii": "Churapcha",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "61.9928",
+    "lng": "132.4317",
+    "id": "1643001695"
+  },
+  {
+    "city": "Karabash",
+    "city_ascii": "Karabash",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "55.4833",
+    "lng": "60.2167",
+    "id": "1643422680"
+  },
+  {
+    "city": "Magas",
+    "city_ascii": "Magas",
+    "admin_name": "Ingushetiya",
+    "lat": "43.1667",
+    "lng": "44.8167",
+    "id": "1643520048"
+  },
+  {
+    "city": "Vytegra",
+    "city_ascii": "Vytegra",
+    "admin_name": "Vologodskaya Oblast’",
+    "lat": "61.0000",
+    "lng": "36.4500",
+    "id": "1643014673"
+  },
+  {
+    "city": "Vylgort",
+    "city_ascii": "Vylgort",
+    "admin_name": "Komi",
+    "lat": "61.6275",
+    "lng": "50.7672",
+    "id": "1643864627"
+  },
+  {
+    "city": "Zelenokumsk",
+    "city_ascii": "Zelenokumsk",
+    "admin_name": "Stavropol’skiy Kray",
+    "lat": "44.4167",
+    "lng": "43.9167",
+    "id": "1643031364"
+  },
+  {
+    "city": "Alleroy",
+    "city_ascii": "Alleroy",
+    "admin_name": "Chechnya",
+    "lat": "43.0870",
+    "lng": "46.3020",
+    "id": "1643528710"
+  },
+  {
+    "city": "Shakhunya",
+    "city_ascii": "Shakhunya",
+    "admin_name": "Nizhegorodskaya Oblast’",
+    "lat": "57.6667",
+    "lng": "46.6167",
+    "id": "1643622934"
+  },
+  {
+    "city": "Nazyvayevsk",
+    "city_ascii": "Nazyvayevsk",
+    "admin_name": "Omskaya Oblast’",
+    "lat": "55.5667",
+    "lng": "71.2667",
+    "id": "1643639751"
+  },
+  {
+    "city": "Nyazepetrovsk",
+    "city_ascii": "Nyazepetrovsk",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "56.0500",
+    "lng": "59.6000",
+    "id": "1643877254"
+  },
+  {
+    "city": "Zakamensk",
+    "city_ascii": "Zakamensk",
+    "admin_name": "Buryatiya",
+    "lat": "50.3833",
+    "lng": "103.3000",
+    "id": "1643401848"
+  },
+  {
+    "city": "Alkhan-Kala",
+    "city_ascii": "Alkhan-Kala",
+    "admin_name": "Chechnya",
+    "lat": "43.2586",
+    "lng": "45.5392",
+    "id": "1643152177"
+  },
+  {
+    "city": "Chernigovka",
+    "city_ascii": "Chernigovka",
+    "admin_name": "Primorskiy Kray",
+    "lat": "44.3406",
+    "lng": "132.5689",
+    "id": "1643176778"
+  },
+  {
+    "city": "Sorsk",
+    "city_ascii": "Sorsk",
+    "admin_name": "Khakasiya",
+    "lat": "54.0333",
+    "lng": "90.2500",
+    "id": "1643209786"
+  },
+  {
+    "city": "Gornyak",
+    "city_ascii": "Gornyak",
+    "admin_name": "Altayskiy Kray",
+    "lat": "50.9833",
+    "lng": "81.4667",
+    "id": "1643814454"
+  },
+  {
+    "city": "Nogliki",
+    "city_ascii": "Nogliki",
+    "admin_name": "Sakhalinskaya Oblast’",
+    "lat": "51.8333",
+    "lng": "143.1667",
+    "id": "1643874280"
+  },
+  {
+    "city": "Mikhaylov",
+    "city_ascii": "Mikhaylov",
+    "admin_name": "Ryazanskaya Oblast’",
+    "lat": "54.2333",
+    "lng": "39.0333",
+    "id": "1643366422"
+  },
+  {
+    "city": "Korablino",
+    "city_ascii": "Korablino",
+    "admin_name": "Ryazanskaya Oblast’",
+    "lat": "53.9167",
+    "lng": "40.0167",
+    "id": "1643006109"
+  },
+  {
+    "city": "Kambarka",
+    "city_ascii": "Kambarka",
+    "admin_name": "Udmurtiya",
+    "lat": "56.2667",
+    "lng": "54.2167",
+    "id": "1643279946"
+  },
+  {
+    "city": "Nyurba",
+    "city_ascii": "Nyurba",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "63.2833",
+    "lng": "118.3333",
+    "id": "1643555326"
+  },
+  {
+    "city": "Vilyuysk",
+    "city_ascii": "Vilyuysk",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "63.7500",
+    "lng": "121.6333",
+    "id": "1643430483"
+  },
+  {
+    "city": "Suntar",
+    "city_ascii": "Suntar",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "62.1667",
+    "lng": "117.6333",
+    "id": "1643961858"
+  },
+  {
+    "city": "Ertil",
+    "city_ascii": "Ertil",
+    "admin_name": "Voronezhskaya Oblast’",
+    "lat": "51.8500",
+    "lng": "40.8000",
+    "id": "1643566170"
+  },
+  {
+    "city": "Snezhnogorsk",
+    "city_ascii": "Snezhnogorsk",
+    "admin_name": "Murmanskaya Oblast’",
+    "lat": "69.2000",
+    "lng": "33.2333",
+    "id": "1643272014"
+  },
+  {
+    "city": "Sylva",
+    "city_ascii": "Sylva",
+    "admin_name": "Permskiy Kray",
+    "lat": "58.0333",
+    "lng": "56.7681",
+    "id": "1643208268"
+  },
+  {
+    "city": "Malaya Vishera",
+    "city_ascii": "Malaya Vishera",
+    "admin_name": "Novgorodskaya Oblast’",
+    "lat": "58.8500",
+    "lng": "32.2333",
+    "id": "1643002504"
+  },
+  {
+    "city": "Digora",
+    "city_ascii": "Digora",
+    "admin_name": "North Ossetia",
+    "lat": "43.1581",
+    "lng": "44.1569",
+    "id": "1643075544"
+  },
+  {
+    "city": "Barda",
+    "city_ascii": "Barda",
+    "admin_name": "Permskiy Kray",
+    "lat": "56.9167",
+    "lng": "55.5833",
+    "id": "1643300436"
+  },
+  {
+    "city": "Zaozërnyy",
+    "city_ascii": "Zaozernyy",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "55.9667",
+    "lng": "94.7000",
+    "id": "1643658238"
+  },
+  {
+    "city": "Opochka",
+    "city_ascii": "Opochka",
+    "admin_name": "Pskovskaya Oblast’",
+    "lat": "56.7000",
+    "lng": "28.6667",
+    "id": "1643125012"
+  },
+  {
+    "city": "Verkhniy Tagil",
+    "city_ascii": "Verkhniy Tagil",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "57.3833",
+    "lng": "59.9500",
+    "id": "1643392209"
+  },
+  {
+    "city": "Volodarsk",
+    "city_ascii": "Volodarsk",
+    "admin_name": "Nizhegorodskaya Oblast’",
+    "lat": "56.2167",
+    "lng": "43.1833",
+    "id": "1643851131"
+  },
+  {
+    "city": "Kushnarënkovo",
+    "city_ascii": "Kushnarenkovo",
+    "admin_name": "Bashkortostan",
+    "lat": "55.1050",
+    "lng": "55.3478",
+    "id": "1643940498"
+  },
+  {
+    "city": "Serafimovskiy",
+    "city_ascii": "Serafimovskiy",
+    "admin_name": "Bashkortostan",
+    "lat": "54.4167",
+    "lng": "53.7833",
+    "id": "1643861038"
+  },
+  {
+    "city": "Pechory",
+    "city_ascii": "Pechory",
+    "admin_name": "Pskovskaya Oblast’",
+    "lat": "57.8167",
+    "lng": "27.6167",
+    "id": "1643575087"
+  },
+  {
+    "city": "Tarusa",
+    "city_ascii": "Tarusa",
+    "admin_name": "Kaluzhskaya Oblast’",
+    "lat": "54.7333",
+    "lng": "37.1833",
+    "id": "1643162455"
+  },
+  {
+    "city": "Zuyevka",
+    "city_ascii": "Zuyevka",
+    "admin_name": "Kirovskaya Oblast’",
+    "lat": "58.4000",
+    "lng": "51.1500",
+    "id": "1643984570"
+  },
+  {
+    "city": "Vnukovo",
+    "city_ascii": "Vnukovo",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.5997",
+    "lng": "37.2800",
+    "id": "1643528688"
+  },
+  {
+    "city": "Khorol",
+    "city_ascii": "Khorol",
+    "admin_name": "Primorskiy Kray",
+    "lat": "44.4289",
+    "lng": "132.0742",
+    "id": "1643989491"
+  },
+  {
+    "city": "Chadan",
+    "city_ascii": "Chadan",
+    "admin_name": "Tyva",
+    "lat": "51.2833",
+    "lng": "91.5833",
+    "id": "1643075116"
+  },
+  {
+    "city": "Tyukalinsk",
+    "city_ascii": "Tyukalinsk",
+    "admin_name": "Omskaya Oblast’",
+    "lat": "55.8667",
+    "lng": "72.2000",
+    "id": "1643338887"
+  },
+  {
+    "city": "Mikhaylovsk",
+    "city_ascii": "Mikhaylovsk",
+    "admin_name": "Sverdlovskaya Oblast’",
+    "lat": "56.4500",
+    "lng": "59.1333",
+    "id": "1643402294"
+  },
+  {
+    "city": "Kem",
+    "city_ascii": "Kem",
+    "admin_name": "Kareliya",
+    "lat": "64.9500",
+    "lng": "34.5833",
+    "id": "1643304829"
+  },
+  {
+    "city": "Cherepanovo",
+    "city_ascii": "Cherepanovo",
+    "admin_name": "Novosibirskaya Oblast’",
+    "lat": "54.2333",
+    "lng": "83.3667",
+    "id": "1643646272"
+  },
+  {
+    "city": "Ruzayevka",
+    "city_ascii": "Ruzayevka",
+    "admin_name": "Mordoviya",
+    "lat": "54.0667",
+    "lng": "44.9333",
+    "id": "1643836574"
+  },
+  {
+    "city": "Aniva",
+    "city_ascii": "Aniva",
+    "admin_name": "Sakhalinskaya Oblast’",
+    "lat": "46.7167",
+    "lng": "142.5167",
+    "id": "1643419980"
+  },
+  {
+    "city": "Dombarovskiy",
+    "city_ascii": "Dombarovskiy",
+    "admin_name": "Orenburgskaya Oblast’",
+    "lat": "50.7550",
+    "lng": "59.5331",
+    "id": "1643794034"
+  },
+  {
+    "city": "Ivangorod",
+    "city_ascii": "Ivangorod",
+    "admin_name": "Leningradskaya Oblast’",
+    "lat": "59.3667",
+    "lng": "28.2167",
+    "id": "1643468545"
+  },
+  {
+    "city": "Igrim",
+    "city_ascii": "Igrim",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "63.1933",
+    "lng": "64.4194",
+    "id": "1643468393"
+  },
+  {
+    "city": "Burayevo",
+    "city_ascii": "Burayevo",
+    "admin_name": "Bashkortostan",
+    "lat": "55.8397",
+    "lng": "55.4044",
+    "id": "1643852683"
+  },
+  {
+    "city": "Nikel",
+    "city_ascii": "Nikel",
+    "admin_name": "Murmanskaya Oblast’",
+    "lat": "69.4139",
+    "lng": "30.2319",
+    "id": "1643124017"
+  },
+  {
+    "city": "Verkhneyarkeyevo",
+    "city_ascii": "Verkhneyarkeyevo",
+    "admin_name": "Bashkortostan",
+    "lat": "55.4458",
+    "lng": "54.3167",
+    "id": "1643594058"
+  },
+  {
+    "city": "Olëkminsk",
+    "city_ascii": "Olekminsk",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "60.3667",
+    "lng": "120.4167",
+    "id": "1643265838"
+  },
+  {
+    "city": "Bolokhovo",
+    "city_ascii": "Bolokhovo",
+    "admin_name": "Tul’skaya Oblast’",
+    "lat": "54.0833",
+    "lng": "37.8333",
+    "id": "1643953673"
+  },
+  {
+    "city": "Moskovskiy",
+    "city_ascii": "Moskovskiy",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.6000",
+    "lng": "37.3500",
+    "id": "1643344934"
+  },
+  {
+    "city": "Kalachinsk",
+    "city_ascii": "Kalachinsk",
+    "admin_name": "Omskaya Oblast’",
+    "lat": "55.0500",
+    "lng": "74.5833",
+    "id": "1643894191"
+  },
+  {
+    "city": "Yuryevets",
+    "city_ascii": "Yuryevets",
+    "admin_name": "Ivanovskaya Oblast’",
+    "lat": "57.3167",
+    "lng": "43.1000",
+    "id": "1643782980"
+  },
+  {
+    "city": "Suzdal",
+    "city_ascii": "Suzdal",
+    "admin_name": "Vladimirskaya Oblast’",
+    "lat": "56.4167",
+    "lng": "40.4500",
+    "id": "1643926701"
+  },
+  {
+    "city": "Kuvshinovo",
+    "city_ascii": "Kuvshinovo",
+    "admin_name": "Tverskaya Oblast’",
+    "lat": "57.0333",
+    "lng": "34.1833",
+    "id": "1643901783"
+  },
+  {
+    "city": "Zavitinsk",
+    "city_ascii": "Zavitinsk",
+    "admin_name": "Amurskaya Oblast’",
+    "lat": "50.1281",
+    "lng": "129.4433",
+    "id": "1643858622"
+  },
+  {
+    "city": "Neman",
+    "city_ascii": "Neman",
+    "admin_name": "Kaliningradskaya Oblast’",
+    "lat": "55.0333",
+    "lng": "22.0333",
+    "id": "1643209452"
+  },
+  {
+    "city": "Chechen-Aul",
+    "city_ascii": "Chechen-Aul",
+    "admin_name": "Chechnya",
+    "lat": "43.2033",
+    "lng": "45.7833",
+    "id": "1643795075"
+  },
+  {
+    "city": "Belaya Glina",
+    "city_ascii": "Belaya Glina",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "46.0833",
+    "lng": "40.8583",
+    "id": "1643712602"
+  },
+  {
+    "city": "Samashki",
+    "city_ascii": "Samashki",
+    "admin_name": "Chechnya",
+    "lat": "43.2906",
+    "lng": "45.3014",
+    "id": "1643255362"
+  },
+  {
+    "city": "Kagalnik",
+    "city_ascii": "Kagalnik",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.0770",
+    "lng": "39.3236",
+    "id": "1643000939"
+  },
+  {
+    "city": "Ust’-Nera",
+    "city_ascii": "Ust'-Nera",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "64.5666",
+    "lng": "143.2000",
+    "id": "1643124244"
+  },
+  {
+    "city": "Omutinskiy",
+    "city_ascii": "Omutinskiy",
+    "admin_name": "Tyumenskaya Oblast’",
+    "lat": "56.4781",
+    "lng": "67.6678",
+    "id": "1643867342"
+  },
+  {
+    "city": "Gadzhiyevo",
+    "city_ascii": "Gadzhiyevo",
+    "admin_name": "Murmanskaya Oblast’",
+    "lat": "69.2500",
+    "lng": "33.4167",
+    "id": "1643712515"
+  },
+  {
+    "city": "Dorogobuzh",
+    "city_ascii": "Dorogobuzh",
+    "admin_name": "Smolenskaya Oblast’",
+    "lat": "54.9167",
+    "lng": "33.3000",
+    "id": "1643314720"
+  },
+  {
+    "city": "Sergiyevsk",
+    "city_ascii": "Sergiyevsk",
+    "admin_name": "Samarskaya Oblast’",
+    "lat": "53.9450",
+    "lng": "51.1711",
+    "id": "1643920476"
+  },
+  {
+    "city": "Vuktyl",
+    "city_ascii": "Vuktyl",
+    "admin_name": "Komi",
+    "lat": "63.7000",
+    "lng": "57.3167",
+    "id": "1643046290"
+  },
+  {
+    "city": "Tatarsk",
+    "city_ascii": "Tatarsk",
+    "admin_name": "Novosibirskaya Oblast’",
+    "lat": "55.2500",
+    "lng": "75.9833",
+    "id": "1643001589"
+  },
+  {
+    "city": "Slavgorod",
+    "city_ascii": "Slavgorod",
+    "admin_name": "Altayskiy Kray",
+    "lat": "52.9833",
+    "lng": "78.6667",
+    "id": "1643239330"
+  },
+  {
+    "city": "Bodaybo",
+    "city_ascii": "Bodaybo",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "57.8667",
+    "lng": "114.2000",
+    "id": "1643017251"
+  },
+  {
+    "city": "Borskoye",
+    "city_ascii": "Borskoye",
+    "admin_name": "Samarskaya Oblast’",
+    "lat": "53.0261",
+    "lng": "51.6983",
+    "id": "1643086374"
+  },
+  {
+    "city": "Krasnoslobodsk",
+    "city_ascii": "Krasnoslobodsk",
+    "admin_name": "Mordoviya",
+    "lat": "54.4333",
+    "lng": "43.8000",
+    "id": "1643898157"
+  },
+  {
+    "city": "Zavolzhsk",
+    "city_ascii": "Zavolzhsk",
+    "admin_name": "Ivanovskaya Oblast’",
+    "lat": "57.4667",
+    "lng": "42.1500",
+    "id": "1643171028"
+  },
+  {
+    "city": "Nartan",
+    "city_ascii": "Nartan",
+    "admin_name": "Kabardino-Balkariya",
+    "lat": "43.5167",
+    "lng": "43.7000",
+    "id": "1643903135"
+  },
+  {
+    "city": "Aleksandrov Gay",
+    "city_ascii": "Aleksandrov Gay",
+    "admin_name": "Saratovskaya Oblast’",
+    "lat": "50.1333",
+    "lng": "48.5500",
+    "id": "1643709614"
+  },
+  {
+    "city": "Aleksandrovsk-Sakhalinskiy",
+    "city_ascii": "Aleksandrovsk-Sakhalinskiy",
+    "admin_name": "Sakhalinskaya Oblast’",
+    "lat": "50.9000",
+    "lng": "142.1500",
+    "id": "1643873847"
+  },
+  {
+    "city": "Kargopol",
+    "city_ascii": "Kargopol",
+    "admin_name": "Arkhangel’skaya Oblast’",
+    "lat": "61.5000",
+    "lng": "38.9333",
+    "id": "1643025947"
+  },
+  {
+    "city": "Kamen’-Rybolov",
+    "city_ascii": "Kamen'-Rybolov",
+    "admin_name": "Primorskiy Kray",
+    "lat": "44.7667",
+    "lng": "132.0167",
+    "id": "1643554622"
+  },
+  {
+    "city": "Aniskino",
+    "city_ascii": "Aniskino",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.9417",
+    "lng": "38.1500",
+    "id": "1643484680"
+  },
+  {
+    "city": "Zubovo",
+    "city_ascii": "Zubovo",
+    "admin_name": "Bashkortostan",
+    "lat": "54.6167",
+    "lng": "55.9000",
+    "id": "1643775970"
+  },
+  {
+    "city": "Mrakovo",
+    "city_ascii": "Mrakovo",
+    "admin_name": "Bashkortostan",
+    "lat": "52.7139",
+    "lng": "56.6269",
+    "id": "1643603881"
+  },
+  {
+    "city": "Pokrovka",
+    "city_ascii": "Pokrovka",
+    "admin_name": "Primorskiy Kray",
+    "lat": "43.9500",
+    "lng": "131.6347",
+    "id": "1643436265"
+  },
+  {
+    "city": "Belinskiy",
+    "city_ascii": "Belinskiy",
+    "admin_name": "Penzenskaya Oblast’",
+    "lat": "52.9667",
+    "lng": "43.4333",
+    "id": "1643873820"
+  },
+  {
+    "city": "Totma",
+    "city_ascii": "Totma",
+    "admin_name": "Vologodskaya Oblast’",
+    "lat": "59.9667",
+    "lng": "42.7500",
+    "id": "1643361608"
+  },
+  {
+    "city": "Serafimovich",
+    "city_ascii": "Serafimovich",
+    "admin_name": "Volgogradskaya Oblast’",
+    "lat": "49.5833",
+    "lng": "42.7333",
+    "id": "1643516718"
+  },
+  {
+    "city": "Mikhaylovka",
+    "city_ascii": "Mikhaylovka",
+    "admin_name": "Primorskiy Kray",
+    "lat": "43.9283",
+    "lng": "132.0061",
+    "id": "1643131545"
+  },
+  {
+    "city": "Laishevo",
+    "city_ascii": "Laishevo",
+    "admin_name": "Tatarstan",
+    "lat": "55.4000",
+    "lng": "49.5667",
+    "id": "1643137529"
+  },
+  {
+    "city": "Dubovskoye",
+    "city_ascii": "Dubovskoye",
+    "admin_name": "Rostovskaya Oblast’",
+    "lat": "47.4092",
+    "lng": "42.7575",
+    "id": "1643298743"
+  },
+  {
+    "city": "Karmaskaly",
+    "city_ascii": "Karmaskaly",
+    "admin_name": "Bashkortostan",
+    "lat": "54.3694",
+    "lng": "56.1778",
+    "id": "1643751700"
+  },
+  {
+    "city": "Elektrougli",
+    "city_ascii": "Elektrougli",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.7167",
+    "lng": "38.2000",
+    "id": "1643003501"
+  },
+  {
+    "city": "Biryusinsk",
+    "city_ascii": "Biryusinsk",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "55.9667",
+    "lng": "97.8333",
+    "id": "1643008672"
+  },
+  {
+    "city": "Kargat",
+    "city_ascii": "Kargat",
+    "admin_name": "Novosibirskaya Oblast’",
+    "lat": "55.1956",
+    "lng": "80.2811",
+    "id": "1643914194"
+  },
+  {
+    "city": "Olovyannaya",
+    "city_ascii": "Olovyannaya",
+    "admin_name": "Zabaykal’skiy Kray",
+    "lat": "50.9500",
+    "lng": "115.5666",
+    "id": "1643754076"
+  },
+  {
+    "city": "Sharya",
+    "city_ascii": "Sharya",
+    "admin_name": "Kostromskaya Oblast’",
+    "lat": "58.3667",
+    "lng": "45.5000",
+    "id": "1643446883"
+  },
+  {
+    "city": "Uglegorsk",
+    "city_ascii": "Uglegorsk",
+    "admin_name": "Sakhalinskaya Oblast’",
+    "lat": "49.0667",
+    "lng": "142.0333",
+    "id": "1643572665"
+  },
+  {
+    "city": "Belomorsk",
+    "city_ascii": "Belomorsk",
+    "admin_name": "Kareliya",
+    "lat": "64.5253",
+    "lng": "34.7658",
+    "id": "1643588400"
+  },
+  {
+    "city": "Zmeinogorsk",
+    "city_ascii": "Zmeinogorsk",
+    "admin_name": "Altayskiy Kray",
+    "lat": "51.1667",
+    "lng": "82.2000",
+    "id": "1643913373"
+  },
+  {
+    "city": "Khandyga",
+    "city_ascii": "Khandyga",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "62.6660",
+    "lng": "135.6000",
+    "id": "1643340100"
+  },
+  {
+    "city": "Skovorodino",
+    "city_ascii": "Skovorodino",
+    "admin_name": "Amurskaya Oblast’",
+    "lat": "53.9833",
+    "lng": "123.9333",
+    "id": "1643357581"
+  },
+  {
+    "city": "Verkhnevilyuysk",
+    "city_ascii": "Verkhnevilyuysk",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "63.4500",
+    "lng": "120.3000",
+    "id": "1643968444"
+  },
+  {
+    "city": "Omutninsk",
+    "city_ascii": "Omutninsk",
+    "admin_name": "Kirovskaya Oblast’",
+    "lat": "58.6667",
+    "lng": "52.1833",
+    "id": "1643987727"
+  },
+  {
+    "city": "Umba",
+    "city_ascii": "Umba",
+    "admin_name": "Murmanskaya Oblast’",
+    "lat": "66.6814",
+    "lng": "34.3455",
+    "id": "1643774657"
+  },
+  {
+    "city": "Tazovskiy",
+    "city_ascii": "Tazovskiy",
+    "admin_name": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "lat": "67.4833",
+    "lng": "78.7167",
+    "id": "1643167905"
+  },
+  {
+    "city": "Mundybash",
+    "city_ascii": "Mundybash",
+    "admin_name": "Kemerovskaya Oblast’",
+    "lat": "53.2333",
+    "lng": "87.3167",
+    "id": "1643009473"
+  },
+  {
+    "city": "Tiksi",
+    "city_ascii": "Tiksi",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "71.6269",
+    "lng": "128.8350",
+    "id": "1643870212"
+  },
+  {
+    "city": "Makarov",
+    "city_ascii": "Makarov",
+    "admin_name": "Sakhalinskaya Oblast’",
+    "lat": "48.6333",
+    "lng": "142.8000",
+    "id": "1643711002"
+  },
+  {
+    "city": "Okhotsk",
+    "city_ascii": "Okhotsk",
+    "admin_name": "Khabarovskiy Kray",
+    "lat": "59.3830",
+    "lng": "143.2170",
+    "id": "1643017106"
+  },
+  {
+    "city": "Bakal",
+    "city_ascii": "Bakal",
+    "admin_name": "Chelyabinskaya Oblast’",
+    "lat": "54.9333",
+    "lng": "58.8167",
+    "id": "1643146722"
+  },
+  {
+    "city": "Bilibino",
+    "city_ascii": "Bilibino",
+    "admin_name": "Chukotskiy Avtonomnyy Okrug",
+    "lat": "68.0500",
+    "lng": "166.4500",
+    "id": "1643015766"
+  },
+  {
+    "city": "Tura",
+    "city_ascii": "Tura",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "64.2833",
+    "lng": "100.2167",
+    "id": "1643809018"
+  },
+  {
+    "city": "Buguruslan",
+    "city_ascii": "Buguruslan",
+    "admin_name": "Orenburgskaya Oblast’",
+    "lat": "53.6583",
+    "lng": "52.4358",
+    "id": "1643675272"
+  },
+  {
+    "city": "Chernyshevskiy",
+    "city_ascii": "Chernyshevskiy",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "63.0128",
+    "lng": "112.4714",
+    "id": "1643326299"
+  },
+  {
+    "city": "Ust’-Kamchatsk",
+    "city_ascii": "Ust'-Kamchatsk",
+    "admin_name": "Kamchatskiy Kray",
+    "lat": "56.2167",
+    "lng": "162.5500",
+    "id": "1643715088"
+  },
+  {
+    "city": "Segezha",
+    "city_ascii": "Segezha",
+    "admin_name": "Kareliya",
+    "lat": "63.7333",
+    "lng": "34.3167",
+    "id": "1643971245"
+  },
+  {
+    "city": "Yegoryevsk",
+    "city_ascii": "Yegoryevsk",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "55.3833",
+    "lng": "39.0500",
+    "id": "1643266841"
+  },
+  {
+    "city": "Shira",
+    "city_ascii": "Shira",
+    "admin_name": "Khakasiya",
+    "lat": "54.4939",
+    "lng": "89.9628",
+    "id": "1643191566"
+  },
+  {
+    "city": "Sangar",
+    "city_ascii": "Sangar",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "63.9241",
+    "lng": "127.4739",
+    "id": "1643096707"
+  },
+  {
+    "city": "Sayanogorsk",
+    "city_ascii": "Sayanogorsk",
+    "admin_name": "Khakasiya",
+    "lat": "53.0500",
+    "lng": "91.4500",
+    "id": "1643565856"
+  },
+  {
+    "city": "Batagay",
+    "city_ascii": "Batagay",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "67.6560",
+    "lng": "134.6350",
+    "id": "1643604003"
+  },
+  {
+    "city": "Omsukchan",
+    "city_ascii": "Omsukchan",
+    "admin_name": "Magadanskaya Oblast’",
+    "lat": "62.5333",
+    "lng": "155.8000",
+    "id": "1643004933"
+  },
+  {
+    "city": "Novyy Uoyan",
+    "city_ascii": "Novyy Uoyan",
+    "admin_name": "Buryatiya",
+    "lat": "56.1350",
+    "lng": "111.7339",
+    "id": "1643043728"
+  },
+  {
+    "city": "Pevek",
+    "city_ascii": "Pevek",
+    "admin_name": "Chukotskiy Avtonomnyy Okrug",
+    "lat": "69.7000",
+    "lng": "170.2833",
+    "id": "1643597133"
+  },
+  {
+    "city": "Klin",
+    "city_ascii": "Klin",
+    "admin_name": "Moskovskaya Oblast’",
+    "lat": "56.3333",
+    "lng": "36.7333",
+    "id": "1643730409"
+  },
+  {
+    "city": "Vitim",
+    "city_ascii": "Vitim",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "59.4515",
+    "lng": "112.5578",
+    "id": "1643662368"
+  },
+  {
+    "city": "Kondopoga",
+    "city_ascii": "Kondopoga",
+    "admin_name": "Kareliya",
+    "lat": "62.2000",
+    "lng": "34.2833",
+    "id": "1643955723"
+  },
+  {
+    "city": "Cherskiy",
+    "city_ascii": "Cherskiy",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "68.7501",
+    "lng": "161.3300",
+    "id": "1643174283"
+  },
+  {
+    "city": "Palana",
+    "city_ascii": "Palana",
+    "admin_name": "Kamchatskiy Kray",
+    "lat": "59.0840",
+    "lng": "159.9500",
+    "id": "1643584640"
+  },
+  {
+    "city": "Zyryanka",
+    "city_ascii": "Zyryanka",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "65.7360",
+    "lng": "150.8900",
+    "id": "1643201511"
+  },
+  {
+    "city": "De-Kastri",
+    "city_ascii": "De-Kastri",
+    "admin_name": "Khabarovskiy Kray",
+    "lat": "51.4666",
+    "lng": "140.7833",
+    "id": "1643988786"
+  },
+  {
+    "city": "Igarka",
+    "city_ascii": "Igarka",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "67.4667",
+    "lng": "86.5833",
+    "id": "1643125542"
+  },
+  {
+    "city": "Teeli",
+    "city_ascii": "Teeli",
+    "admin_name": "Tyva",
+    "lat": "51.0086",
+    "lng": "90.2092",
+    "id": "1643964699"
+  },
+  {
+    "city": "Zhigansk",
+    "city_ascii": "Zhigansk",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "66.7667",
+    "lng": "123.3833",
+    "id": "1643742366"
+  },
+  {
+    "city": "Bukachacha",
+    "city_ascii": "Bukachacha",
+    "admin_name": "Zabaykal’skiy Kray",
+    "lat": "52.9833",
+    "lng": "116.9166",
+    "id": "1643741623"
+  },
+  {
+    "city": "Ugol’nyye Kopi",
+    "city_ascii": "Ugol'nyye Kopi",
+    "admin_name": "Chukotskiy Avtonomnyy Okrug",
+    "lat": "64.7333",
+    "lng": "177.7000",
+    "id": "1643017360"
+  },
+  {
+    "city": "Kirs",
+    "city_ascii": "Kirs",
+    "admin_name": "Kirovskaya Oblast’",
+    "lat": "59.3500",
+    "lng": "52.2500",
+    "id": "1643457660"
+  },
+  {
+    "city": "Srednekolymsk",
+    "city_ascii": "Srednekolymsk",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "67.4667",
+    "lng": "153.7167",
+    "id": "1643536960"
+  },
+  {
+    "city": "Khatanga",
+    "city_ascii": "Khatanga",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "71.9797",
+    "lng": "102.4728",
+    "id": "1643018667"
+  },
+  {
+    "city": "Ust’-Maya",
+    "city_ascii": "Ust'-Maya",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "60.4566",
+    "lng": "134.5433",
+    "id": "1643532310"
+  },
+  {
+    "city": "Mezen",
+    "city_ascii": "Mezen",
+    "admin_name": "Arkhangel’skaya Oblast’",
+    "lat": "65.8439",
+    "lng": "44.2464",
+    "id": "1643928515"
+  },
+  {
+    "city": "Saranpaul",
+    "city_ascii": "Saranpaul",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "64.2600",
+    "lng": "60.9083",
+    "id": "1643184738"
+  },
+  {
+    "city": "Provideniya",
+    "city_ascii": "Provideniya",
+    "admin_name": "Chukotskiy Avtonomnyy Okrug",
+    "lat": "64.4235",
+    "lng": "-173.2258",
+    "id": "1643868459"
+  },
+  {
+    "city": "Chokurdakh",
+    "city_ascii": "Chokurdakh",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "70.6183",
+    "lng": "147.8946",
+    "id": "1643382256"
+  },
+  {
+    "city": "Severo-Kuril’sk",
+    "city_ascii": "Severo-Kuril'sk",
+    "admin_name": "Sakhalinskaya Oblast’",
+    "lat": "50.6667",
+    "lng": "156.1167",
+    "id": "1643689971"
+  },
+  {
+    "city": "Olenëk",
+    "city_ascii": "Olenek",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "68.5000",
+    "lng": "112.4667",
+    "id": "1643535703"
+  },
+  {
+    "city": "Nizhneudinsk",
+    "city_ascii": "Nizhneudinsk",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "54.9333",
+    "lng": "99.0000",
+    "id": "1643007260"
+  },
+  {
+    "city": "Saskylakh",
+    "city_ascii": "Saskylakh",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "71.9653",
+    "lng": "114.0922",
+    "id": "1643818493"
+  },
+  {
+    "city": "Egvekinot",
+    "city_ascii": "Egvekinot",
+    "admin_name": "Chukotskiy Avtonomnyy Okrug",
+    "lat": "66.3221",
+    "lng": "-179.1837",
+    "id": "1643466779"
+  },
+  {
+    "city": "Krasnogorsk",
+    "city_ascii": "Krasnogorsk",
+    "admin_name": "Sakhalinskaya Oblast’",
+    "lat": "48.4172",
+    "lng": "142.0869",
+    "id": "1643415310"
+  },
+  {
+    "city": "Evensk",
+    "city_ascii": "Evensk",
+    "admin_name": "Magadanskaya Oblast’",
+    "lat": "61.9500",
+    "lng": "159.2333",
+    "id": "1643589710"
+  },
+  {
+    "city": "Zheleznogorsk-Ilimskiy",
+    "city_ascii": "Zheleznogorsk-Ilimskiy",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "56.5833",
+    "lng": "104.1333",
+    "id": "1643429689"
+  },
+  {
+    "city": "Beringovskiy",
+    "city_ascii": "Beringovskiy",
+    "admin_name": "Chukotskiy Avtonomnyy Okrug",
+    "lat": "63.0655",
+    "lng": "179.3067",
+    "id": "1643017874"
+  },
+  {
+    "city": "Novyy Port",
+    "city_ascii": "Novyy Port",
+    "admin_name": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "lat": "67.6919",
+    "lng": "72.8964",
+    "id": "1643538343"
+  },
+  {
+    "city": "Bagdarin",
+    "city_ascii": "Bagdarin",
+    "admin_name": "Buryatiya",
+    "lat": "54.4444",
+    "lng": "113.5861",
+    "id": "1643127681"
+  },
+  {
+    "city": "Zeya",
+    "city_ascii": "Zeya",
+    "admin_name": "Amurskaya Oblast’",
+    "lat": "53.7333",
+    "lng": "127.2500",
+    "id": "1643518761"
+  },
+  {
+    "city": "Oktyabr’skiy",
+    "city_ascii": "Oktyabr'skiy",
+    "admin_name": "Kamchatskiy Kray",
+    "lat": "52.6636",
+    "lng": "156.2387",
+    "id": "1643010084"
+  },
+  {
+    "city": "Ust’-Kuyga",
+    "city_ascii": "Ust'-Kuyga",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "70.0171",
+    "lng": "135.6000",
+    "id": "1643953506"
+  },
+  {
+    "city": "Eldikan",
+    "city_ascii": "Eldikan",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "60.8000",
+    "lng": "135.1833",
+    "id": "1643197422"
+  },
+  {
+    "city": "Kyakhta",
+    "city_ascii": "Kyakhta",
+    "admin_name": "Buryatiya",
+    "lat": "50.3500",
+    "lng": "106.4500",
+    "id": "1643237220"
+  },
+  {
+    "city": "Artëmovsk",
+    "city_ascii": "Artemovsk",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "54.3483",
+    "lng": "93.4356",
+    "id": "1643012116"
+  },
+  {
+    "city": "Tuapse",
+    "city_ascii": "Tuapse",
+    "admin_name": "Krasnodarskiy Kray",
+    "lat": "44.1044",
+    "lng": "39.0772",
+    "id": "1643910130"
+  },
+  {
+    "city": "Nakhodka",
+    "city_ascii": "Nakhodka",
+    "admin_name": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "lat": "67.7206",
+    "lng": "77.6617",
+    "id": "1643884797"
+  },
+  {
+    "city": "Kazachye",
+    "city_ascii": "Kazachye",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "70.7522",
+    "lng": "136.2342",
+    "id": "1643011063"
+  },
+  {
+    "city": "Bikin",
+    "city_ascii": "Bikin",
+    "admin_name": "Khabarovskiy Kray",
+    "lat": "46.8167",
+    "lng": "134.2667",
+    "id": "1643608189"
+  },
+  {
+    "city": "Dikson",
+    "city_ascii": "Dikson",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "73.5070",
+    "lng": "80.5451",
+    "id": "1643554430"
+  },
+  {
+    "city": "Klyuchi",
+    "city_ascii": "Klyuchi",
+    "admin_name": "Kamchatskiy Kray",
+    "lat": "56.3167",
+    "lng": "160.8333",
+    "id": "1643863467"
+  },
+  {
+    "city": "Kurtamysh",
+    "city_ascii": "Kurtamysh",
+    "admin_name": "Kurganskaya Oblast’",
+    "lat": "54.9167",
+    "lng": "64.4333",
+    "id": "1643527477"
+  },
+  {
+    "city": "Chernogorsk",
+    "city_ascii": "Chernogorsk",
+    "admin_name": "Khakasiya",
+    "lat": "53.8167",
+    "lng": "91.3000",
+    "id": "1643871191"
+  },
+  {
+    "city": "Kirensk",
+    "city_ascii": "Kirensk",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "57.7833",
+    "lng": "108.0833",
+    "id": "1643494440"
+  },
+  {
+    "city": "Vyazemskiy",
+    "city_ascii": "Vyazemskiy",
+    "admin_name": "Khabarovskiy Kray",
+    "lat": "47.5250",
+    "lng": "134.7572",
+    "id": "1643608053"
+  },
+  {
+    "city": "Shadrinsk",
+    "city_ascii": "Shadrinsk",
+    "admin_name": "Kurganskaya Oblast’",
+    "lat": "56.1333",
+    "lng": "63.6500",
+    "id": "1643030252"
+  },
+  {
+    "city": "Lavrentiya",
+    "city_ascii": "Lavrentiya",
+    "admin_name": "Chukotskiy Avtonomnyy Okrug",
+    "lat": "65.5842",
+    "lng": "-170.9889",
+    "id": "1643889063"
+  },
+  {
+    "city": "Verkhoyansk",
+    "city_ascii": "Verkhoyansk",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "67.5500",
+    "lng": "133.3833",
+    "id": "1643386560"
+  },
+  {
+    "city": "Yerëma",
+    "city_ascii": "Yerema",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "60.3808",
+    "lng": "107.7794",
+    "id": "1643177367"
+  },
+  {
+    "city": "Zhilinda",
+    "city_ascii": "Zhilinda",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "70.1333",
+    "lng": "113.9833",
+    "id": "1643497497"
+  },
+  {
+    "city": "Manily",
+    "city_ascii": "Manily",
+    "admin_name": "Kamchatskiy Kray",
+    "lat": "62.4908",
+    "lng": "165.3298",
+    "id": "1643235167"
+  },
+  {
+    "city": "Tiyerbes",
+    "city_ascii": "Tiyerbes",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "64.3728",
+    "lng": "120.5494",
+    "id": "1643794725"
+  },
+  {
+    "city": "Omolon",
+    "city_ascii": "Omolon",
+    "admin_name": "Chukotskiy Avtonomnyy Okrug",
+    "lat": "65.2667",
+    "lng": "160.4667",
+    "id": "1643719081"
+  },
+  {
+    "city": "Ust’-Nyukzha",
+    "city_ascii": "Ust'-Nyukzha",
+    "admin_name": "Amurskaya Oblast’",
+    "lat": "56.5500",
+    "lng": "121.6000",
+    "id": "1643347046"
+  },
+  {
+    "city": "Obluchye",
+    "city_ascii": "Obluchye",
+    "admin_name": "Yevreyskaya Avtonomnaya Oblast’",
+    "lat": "49.0167",
+    "lng": "131.0500",
+    "id": "1643987123"
+  },
+  {
+    "city": "Oymyakon",
+    "city_ascii": "Oymyakon",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "63.4608",
+    "lng": "142.7858",
+    "id": "1643797797"
+  },
+  {
+    "city": "Sherlovaya Gora",
+    "city_ascii": "Sherlovaya Gora",
+    "admin_name": "Zabaykal’skiy Kray",
+    "lat": "50.5306",
+    "lng": "116.3006",
+    "id": "1643008235"
+  },
+  {
+    "city": "Nizhneyansk",
+    "city_ascii": "Nizhneyansk",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "71.4333",
+    "lng": "136.0666",
+    "id": "1643012685"
+  },
+  {
+    "city": "Bugrino",
+    "city_ascii": "Bugrino",
+    "admin_name": "Nenetskiy Avtonomnyy Okrug",
+    "lat": "68.7831",
+    "lng": "49.3036",
+    "id": "1643062803"
+  },
+  {
+    "city": "Amursk",
+    "city_ascii": "Amursk",
+    "admin_name": "Khabarovskiy Kray",
+    "lat": "50.2167",
+    "lng": "136.9000",
+    "id": "1643243118"
+  },
+  {
+    "city": "Shoyna",
+    "city_ascii": "Shoyna",
+    "admin_name": "Nenetskiy Avtonomnyy Okrug",
+    "lat": "67.8778",
+    "lng": "44.1547",
+    "id": "1643012303"
+  },
+  {
+    "city": "Put’ Lenina",
+    "city_ascii": "Put' Lenina",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "68.5166",
+    "lng": "107.8000",
+    "id": "1643749671"
+  },
+  {
+    "city": "Amderma",
+    "city_ascii": "Amderma",
+    "admin_name": "Nenetskiy Avtonomnyy Okrug",
+    "lat": "69.7631",
+    "lng": "61.6678",
+    "id": "1643719353"
+  },
+  {
+    "city": "Ust’-Kut",
+    "city_ascii": "Ust'-Kut",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "56.7833",
+    "lng": "105.6333",
+    "id": "1643157794"
+  },
+  {
+    "city": "Uelen",
+    "city_ascii": "Uelen",
+    "admin_name": "Chukotskiy Avtonomnyy Okrug",
+    "lat": "66.1594",
+    "lng": "-169.8092",
+    "id": "1643387315"
+  },
+  {
+    "city": "Turukhansk",
+    "city_ascii": "Turukhansk",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "65.7970",
+    "lng": "87.9680",
+    "id": "1643037921"
+  },
+  {
+    "city": "Ayan",
+    "city_ascii": "Ayan",
+    "admin_name": "Khabarovskiy Kray",
+    "lat": "56.4583",
+    "lng": "138.1681",
+    "id": "1643586492"
+  },
+  {
+    "city": "Sovetskaya Gavan’",
+    "city_ascii": "Sovetskaya Gavan'",
+    "admin_name": "Khabarovskiy Kray",
+    "lat": "48.9667",
+    "lng": "140.2833",
+    "id": "1643037289"
+  },
+  {
+    "city": "Kotelnich",
+    "city_ascii": "Kotelnich",
+    "admin_name": "Kirovskaya Oblast’",
+    "lat": "58.3078",
+    "lng": "48.3181",
+    "id": "1643742016"
+  },
+  {
+    "city": "Nikolayevsk-na-Amure",
+    "city_ascii": "Nikolayevsk-na-Amure",
+    "admin_name": "Khabarovskiy Kray",
+    "lat": "53.1333",
+    "lng": "140.7333",
+    "id": "1643026765"
+  },
+  {
+    "city": "Progress",
+    "city_ascii": "Progress",
+    "admin_name": "Amurskaya Oblast’",
+    "lat": "49.7504",
+    "lng": "129.6167",
+    "id": "1643007077"
+  },
+  {
+    "city": "Chumikan",
+    "city_ascii": "Chumikan",
+    "admin_name": "Khabarovskiy Kray",
+    "lat": "54.7000",
+    "lng": "135.2833",
+    "id": "1643639466"
+  },
+  {
+    "city": "Mukhomornoye",
+    "city_ascii": "Mukhomornoye",
+    "admin_name": "Chukotskiy Avtonomnyy Okrug",
+    "lat": "66.4171",
+    "lng": "173.3333",
+    "id": "1643631484"
+  },
+  {
+    "city": "Vorontsovo",
+    "city_ascii": "Vorontsovo",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "71.6983",
+    "lng": "83.5642",
+    "id": "1643504976"
+  },
+  {
+    "city": "Il’pyrskiy",
+    "city_ascii": "Il'pyrskiy",
+    "admin_name": "Kamchatskiy Kray",
+    "lat": "59.9600",
+    "lng": "164.2000",
+    "id": "1643660854"
+  },
+  {
+    "city": "Enurmino",
+    "city_ascii": "Enurmino",
+    "admin_name": "Chukotskiy Avtonomnyy Okrug",
+    "lat": "66.9500",
+    "lng": "-171.8167",
+    "id": "1643693470"
+  },
+  {
+    "city": "Sovetsk",
+    "city_ascii": "Sovetsk",
+    "admin_name": "Kirovskaya Oblast’",
+    "lat": "57.5833",
+    "lng": "48.9833",
+    "id": "1643054411"
+  },
+  {
+    "city": "Kovda",
+    "city_ascii": "Kovda",
+    "admin_name": "Murmanskaya Oblast’",
+    "lat": "66.6919",
+    "lng": "32.8708",
+    "id": "1643959579"
+  },
+  {
+    "city": "Korf",
+    "city_ascii": "Korf",
+    "admin_name": "Kamchatskiy Kray",
+    "lat": "60.3667",
+    "lng": "166.0167",
+    "id": "1643630456"
+  },
+  {
+    "city": "Ust’-Olenëk",
+    "city_ascii": "Ust'-Olenek",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "72.9833",
+    "lng": "119.8167",
+    "id": "1643349100"
+  },
+  {
+    "city": "Matochkin Shar",
+    "city_ascii": "Matochkin Shar",
+    "admin_name": "Arkhangel’skaya Oblast’",
+    "lat": "73.2700",
+    "lng": "56.4497",
+    "id": "1643843865"
+  },
+  {
+    "city": "Siglan",
+    "city_ascii": "Siglan",
+    "admin_name": "Magadanskaya Oblast’",
+    "lat": "59.0337",
+    "lng": "152.4166",
+    "id": "1643408923"
+  },
+  {
+    "city": "Omchak",
+    "city_ascii": "Omchak",
+    "admin_name": "Magadanskaya Oblast’",
+    "lat": "61.6333",
+    "lng": "147.9167",
+    "id": "1643827519"
+  },
+  {
+    "city": "Shalaurova",
+    "city_ascii": "Shalaurova",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "73.2204",
+    "lng": "143.1833",
+    "id": "1643617349"
+  },
+  {
+    "city": "Khorgo",
+    "city_ascii": "Khorgo",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "73.4833",
+    "lng": "113.6300",
+    "id": "1643550363"
+  },
+  {
+    "city": "Peregrebnoye",
+    "city_ascii": "Peregrebnoye",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "62.9670",
+    "lng": "65.0859",
+    "id": "1643322655"
+  },
+  {
+    "city": "Komsa",
+    "city_ascii": "Komsa",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "61.8680",
+    "lng": "89.2577",
+    "id": "1643255641"
+  },
+  {
+    "city": "Gyda",
+    "city_ascii": "Gyda",
+    "admin_name": "Yamalo-Nenetskiy Avtonomnyy Okrug",
+    "lat": "70.8814",
+    "lng": "78.4661",
+    "id": "1643172565"
+  },
+  {
+    "city": "Menkerya",
+    "city_ascii": "Menkerya",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "67.9886",
+    "lng": "123.3505",
+    "id": "1643637503"
+  },
+  {
+    "city": "Zvëzdnyy",
+    "city_ascii": "Zvezdnyy",
+    "admin_name": "Chukotskiy Avtonomnyy Okrug",
+    "lat": "70.9333",
+    "lng": "-179.6000",
+    "id": "1643877771"
+  },
+  {
+    "city": "Pakhachi",
+    "city_ascii": "Pakhachi",
+    "admin_name": "Kamchatskiy Kray",
+    "lat": "60.5816",
+    "lng": "169.0500",
+    "id": "1643406349"
+  },
+  {
+    "city": "Indiga",
+    "city_ascii": "Indiga",
+    "admin_name": "Nenetskiy Avtonomnyy Okrug",
+    "lat": "67.6898",
+    "lng": "49.0166",
+    "id": "1643522900"
+  },
+  {
+    "city": "Starorybnoye",
+    "city_ascii": "Starorybnoye",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "72.7666",
+    "lng": "104.8000",
+    "id": "1643724242"
+  },
+  {
+    "city": "Laryak",
+    "city_ascii": "Laryak",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "61.1012",
+    "lng": "80.2514",
+    "id": "1643861109"
+  },
+  {
+    "city": "Ulkan",
+    "city_ascii": "Ulkan",
+    "admin_name": "Irkutskaya Oblast’",
+    "lat": "55.9004",
+    "lng": "107.7833",
+    "id": "1643020424"
+  },
+  {
+    "city": "Strelka",
+    "city_ascii": "Strelka",
+    "admin_name": "Magadanskaya Oblast’",
+    "lat": "61.8670",
+    "lng": "152.2502",
+    "id": "1643297872"
+  },
+  {
+    "city": "Chagda",
+    "city_ascii": "Chagda",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "60.1000",
+    "lng": "133.9000",
+    "id": "1643773533"
+  },
+  {
+    "city": "Sagastyr",
+    "city_ascii": "Sagastyr",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "73.3779",
+    "lng": "126.5924",
+    "id": "1643535665"
+  },
+  {
+    "city": "Zemlya Bunge",
+    "city_ascii": "Zemlya Bunge",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "74.8983",
+    "lng": "142.1050",
+    "id": "1643720805"
+  },
+  {
+    "city": "Trofimovsk",
+    "city_ascii": "Trofimovsk",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "72.5997",
+    "lng": "127.0337",
+    "id": "1643214114"
+  },
+  {
+    "city": "Tunguskhaya",
+    "city_ascii": "Tunguskhaya",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "64.9004",
+    "lng": "125.2500",
+    "id": "1643610062"
+  },
+  {
+    "city": "Agapa",
+    "city_ascii": "Agapa",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "71.4504",
+    "lng": "89.2500",
+    "id": "1643009087"
+  },
+  {
+    "city": "Podkamennaya Tunguska",
+    "city_ascii": "Podkamennaya Tunguska",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "61.5995",
+    "lng": "90.1236",
+    "id": "1643764711"
+  },
+  {
+    "city": "Tukchi",
+    "city_ascii": "Tukchi",
+    "admin_name": "Khabarovskiy Kray",
+    "lat": "57.3670",
+    "lng": "139.5000",
+    "id": "1643472801"
+  },
+  {
+    "city": "Varnek",
+    "city_ascii": "Varnek",
+    "admin_name": "Nenetskiy Avtonomnyy Okrug",
+    "lat": "69.7153",
+    "lng": "60.0600",
+    "id": "1643378778"
+  },
+  {
+    "city": "Numto",
+    "city_ascii": "Numto",
+    "admin_name": "Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra",
+    "lat": "63.6667",
+    "lng": "71.3333",
+    "id": "1643985006"
+  },
+  {
+    "city": "Bol’sheretsk",
+    "city_ascii": "Bol'sheretsk",
+    "admin_name": "Kamchatskiy Kray",
+    "lat": "52.4390",
+    "lng": "156.3594",
+    "id": "1643981807"
+  },
+  {
+    "city": "Utkholok",
+    "city_ascii": "Utkholok",
+    "admin_name": "Kamchatskiy Kray",
+    "lat": "57.5504",
+    "lng": "157.2333",
+    "id": "1643251905"
+  },
+  {
+    "city": "Yessey",
+    "city_ascii": "Yessey",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "68.4652",
+    "lng": "102.1887",
+    "id": "1643816547"
+  },
+  {
+    "city": "Karamken",
+    "city_ascii": "Karamken",
+    "admin_name": "Magadanskaya Oblast’",
+    "lat": "60.2004",
+    "lng": "151.1666",
+    "id": "1643511192"
+  },
+  {
+    "city": "Pechora",
+    "city_ascii": "Pechora",
+    "admin_name": "Komi",
+    "lat": "65.1587",
+    "lng": "57.2087",
+    "id": "1643976718"
+  },
+  {
+    "city": "Mikhalkino",
+    "city_ascii": "Mikhalkino",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "69.4353",
+    "lng": "161.5508",
+    "id": "1643001530"
+  },
+  {
+    "city": "Nordvik",
+    "city_ascii": "Nordvik",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "73.9975",
+    "lng": "111.4633",
+    "id": "1643587468"
+  },
+  {
+    "city": "Logashkino",
+    "city_ascii": "Logashkino",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "70.8500",
+    "lng": "153.9167",
+    "id": "1643050775"
+  },
+  {
+    "city": "Noginsk",
+    "city_ascii": "Noginsk",
+    "admin_name": "Krasnoyarskiy Kray",
+    "lat": "64.4833",
+    "lng": "91.2333",
+    "id": "1643129651"
+  },
+  {
+    "city": "Ambarchik",
+    "city_ascii": "Ambarchik",
+    "admin_name": "Sakha (Yakutiya)",
+    "lat": "69.6261",
+    "lng": "162.3039",
+    "id": "1643739159"
+  }
+]

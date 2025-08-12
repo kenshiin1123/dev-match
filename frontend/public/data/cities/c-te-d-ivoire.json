@@ -1,0 +1,530 @@
+[
+  {
+    "city": "Abidjan",
+    "city_ascii": "Abidjan",
+    "admin_name": "Abidjan",
+    "lat": "5.3364",
+    "lng": "-4.0267",
+    "id": "1384207980"
+  },
+  {
+    "city": "Yopougon",
+    "city_ascii": "Yopougon",
+    "admin_name": "Abidjan",
+    "lat": "5.3748",
+    "lng": "-4.0867",
+    "id": "1384759584"
+  },
+  {
+    "city": "Bouaké",
+    "city_ascii": "Bouake",
+    "admin_name": "Vallée du Bandama",
+    "lat": "7.6833",
+    "lng": "-5.0331",
+    "id": "1384983838"
+  },
+  {
+    "city": "Cocody",
+    "city_ascii": "Cocody",
+    "admin_name": "Abidjan",
+    "lat": "5.3351",
+    "lng": "-4.0039",
+    "id": "1384351512"
+  },
+  {
+    "city": "Port-Bouët",
+    "city_ascii": "Port-Bouet",
+    "admin_name": "Abidjan",
+    "lat": "5.2568",
+    "lng": "-3.9630",
+    "id": "1384512844"
+  },
+  {
+    "city": "Korhogo",
+    "city_ascii": "Korhogo",
+    "admin_name": "Savanes",
+    "lat": "9.4578",
+    "lng": "-5.6294",
+    "id": "1384205840"
+  },
+  {
+    "city": "Daloa",
+    "city_ascii": "Daloa",
+    "admin_name": "Sassandra-Marahoué",
+    "lat": "6.8900",
+    "lng": "-6.4500",
+    "id": "1384564974"
+  },
+  {
+    "city": "Koumassi",
+    "city_ascii": "Koumassi",
+    "admin_name": "Abidjan",
+    "lat": "5.2972",
+    "lng": "-3.9675",
+    "id": "1384863297"
+  },
+  {
+    "city": "San-Pédro",
+    "city_ascii": "San-Pedro",
+    "admin_name": "Bas-Sassandra",
+    "lat": "4.7704",
+    "lng": "-6.6400",
+    "id": "1384436547"
+  },
+  {
+    "city": "Yamoussoukro",
+    "city_ascii": "Yamoussoukro",
+    "admin_name": "Yamoussoukro",
+    "lat": "6.8161",
+    "lng": "-5.2742",
+    "id": "1384683557"
+  },
+  {
+    "city": "Attiecoubé",
+    "city_ascii": "Attiecoube",
+    "admin_name": "Abidjan",
+    "lat": "5.3453",
+    "lng": "-4.0350",
+    "id": "1384919817"
+  },
+  {
+    "city": "Divo",
+    "city_ascii": "Divo",
+    "admin_name": "Gôh-Djiboua",
+    "lat": "5.8372",
+    "lng": "-5.3572",
+    "id": "1384831436"
+  },
+  {
+    "city": "Gagnoa",
+    "city_ascii": "Gagnoa",
+    "admin_name": "Gôh-Djiboua",
+    "lat": "6.1333",
+    "lng": "-5.9333",
+    "id": "1384138010"
+  },
+  {
+    "city": "Soubré",
+    "city_ascii": "Soubre",
+    "admin_name": "Bas-Sassandra",
+    "lat": "5.7836",
+    "lng": "-6.5939",
+    "id": "1384745470"
+  },
+  {
+    "city": "Man",
+    "city_ascii": "Man",
+    "admin_name": "Montagnes",
+    "lat": "7.4004",
+    "lng": "-7.5500",
+    "id": "1384112524"
+  },
+  {
+    "city": "Duekoué",
+    "city_ascii": "Duekoue",
+    "admin_name": "Montagnes",
+    "lat": "6.7419",
+    "lng": "-7.3492",
+    "id": "1384429839"
+  },
+  {
+    "city": "Marcory",
+    "city_ascii": "Marcory",
+    "admin_name": "Abidjan",
+    "lat": "5.3120",
+    "lng": "-3.9936",
+    "id": "1384405403"
+  },
+  {
+    "city": "Bouaflé",
+    "city_ascii": "Bouafle",
+    "admin_name": "Sassandra-Marahoué",
+    "lat": "6.9903",
+    "lng": "-5.7442",
+    "id": "1384274339"
+  },
+  {
+    "city": "Bingerville",
+    "city_ascii": "Bingerville",
+    "admin_name": "Abidjan",
+    "lat": "5.3500",
+    "lng": "-3.9000",
+    "id": "1384754377"
+  },
+  {
+    "city": "Guiglo",
+    "city_ascii": "Guiglo",
+    "admin_name": "Montagnes",
+    "lat": "6.5436",
+    "lng": "-7.4933",
+    "id": "1384483732"
+  },
+  {
+    "city": "Abengourou",
+    "city_ascii": "Abengourou",
+    "admin_name": "Comoé",
+    "lat": "6.7297",
+    "lng": "-3.4964",
+    "id": "1384295898"
+  },
+  {
+    "city": "Ferkessédougou",
+    "city_ascii": "Ferkessedougou",
+    "admin_name": "Savanes",
+    "lat": "9.5928",
+    "lng": "-5.1944",
+    "id": "1384974005"
+  },
+  {
+    "city": "Adzopé",
+    "city_ascii": "Adzope",
+    "admin_name": "Lagunes",
+    "lat": "6.1035",
+    "lng": "-3.8648",
+    "id": "1384370507"
+  },
+  {
+    "city": "Bondoukou",
+    "city_ascii": "Bondoukou",
+    "admin_name": "Zanzan",
+    "lat": "8.0304",
+    "lng": "-2.8000",
+    "id": "1384649653"
+  },
+  {
+    "city": "Dabou",
+    "city_ascii": "Dabou",
+    "admin_name": "Lagunes",
+    "lat": "5.3256",
+    "lng": "-4.3767",
+    "id": "1384274793"
+  },
+  {
+    "city": "Sinfra",
+    "city_ascii": "Sinfra",
+    "admin_name": "Sassandra-Marahoué",
+    "lat": "6.6210",
+    "lng": "-5.9114",
+    "id": "1384501295"
+  },
+  {
+    "city": "Agboville",
+    "city_ascii": "Agboville",
+    "admin_name": "Lagunes",
+    "lat": "5.9333",
+    "lng": "-4.2167",
+    "id": "1384823872"
+  },
+  {
+    "city": "Oumé",
+    "city_ascii": "Oume",
+    "admin_name": "Gôh-Djiboua",
+    "lat": "6.3833",
+    "lng": "-5.4167",
+    "id": "1384920146"
+  },
+  {
+    "city": "Grand-Bassam",
+    "city_ascii": "Grand-Bassam",
+    "admin_name": "Comoé",
+    "lat": "5.2000",
+    "lng": "-3.7333",
+    "id": "1384167408"
+  },
+  {
+    "city": "Séguéla",
+    "city_ascii": "Seguela",
+    "admin_name": "Woroba",
+    "lat": "7.9611",
+    "lng": "-6.6731",
+    "id": "1384639807"
+  },
+  {
+    "city": "Daoukro",
+    "city_ascii": "Daoukro",
+    "admin_name": "Lacs",
+    "lat": "7.0586",
+    "lng": "-3.9646",
+    "id": "1384963890"
+  },
+  {
+    "city": "Aboisso",
+    "city_ascii": "Aboisso",
+    "admin_name": "Comoé",
+    "lat": "5.4667",
+    "lng": "-3.2000",
+    "id": "1384385857"
+  },
+  {
+    "city": "Bouna",
+    "city_ascii": "Bouna",
+    "admin_name": "Zanzan",
+    "lat": "9.2667",
+    "lng": "-3.0000",
+    "id": "1384414296"
+  },
+  {
+    "city": "Boundiali",
+    "city_ascii": "Boundiali",
+    "admin_name": "Savanes",
+    "lat": "9.5167",
+    "lng": "-6.4833",
+    "id": "1384246050"
+  },
+  {
+    "city": "Katiola",
+    "city_ascii": "Katiola",
+    "admin_name": "Vallée du Bandama",
+    "lat": "8.1333",
+    "lng": "-5.1000",
+    "id": "1384854888"
+  },
+  {
+    "city": "Sassandra",
+    "city_ascii": "Sassandra",
+    "admin_name": "Bas-Sassandra",
+    "lat": "4.9504",
+    "lng": "-6.0833",
+    "id": "1384107875"
+  },
+  {
+    "city": "Odienné",
+    "city_ascii": "Odienne",
+    "admin_name": "Denguélé",
+    "lat": "9.5000",
+    "lng": "-7.5667",
+    "id": "1384967993"
+  },
+  {
+    "city": "Dabakala",
+    "city_ascii": "Dabakala",
+    "admin_name": "Vallée du Bandama",
+    "lat": "8.3667",
+    "lng": "-4.4333",
+    "id": "1384615263"
+  },
+  {
+    "city": "Bongouanou",
+    "city_ascii": "Bongouanou",
+    "admin_name": "Comoé",
+    "lat": "6.6517",
+    "lng": "-4.2041",
+    "id": "1384380718"
+  },
+  {
+    "city": "Mankono",
+    "city_ascii": "Mankono",
+    "admin_name": "Woroba",
+    "lat": "8.0586",
+    "lng": "-6.1897",
+    "id": "1384518405"
+  },
+  {
+    "city": "Biankouma",
+    "city_ascii": "Biankouma",
+    "admin_name": "Montagnes",
+    "lat": "7.7333",
+    "lng": "-7.6167",
+    "id": "1384938071"
+  },
+  {
+    "city": "Dimbokro",
+    "city_ascii": "Dimbokro",
+    "admin_name": "Lacs",
+    "lat": "6.6505",
+    "lng": "-4.7100",
+    "id": "1384235566"
+  },
+  {
+    "city": "Touba",
+    "city_ascii": "Touba",
+    "admin_name": "Woroba",
+    "lat": "8.2833",
+    "lng": "-7.6833",
+    "id": "1384485647"
+  },
+  {
+    "city": "Jacqueville",
+    "city_ascii": "Jacqueville",
+    "admin_name": "Lagunes",
+    "lat": "5.2000",
+    "lng": "-4.4167",
+    "id": "1384785975"
+  },
+  {
+    "city": "Toumodi",
+    "city_ascii": "Toumodi",
+    "admin_name": "Lacs",
+    "lat": "6.5520",
+    "lng": "-5.0190",
+    "id": "1384416676"
+  },
+  {
+    "city": "Toumoukro",
+    "city_ascii": "Toumoukro",
+    "admin_name": "Savanes",
+    "lat": "10.3833",
+    "lng": "-5.7500",
+    "id": "1384732814"
+  },
+  {
+    "city": "Kong",
+    "city_ascii": "Kong",
+    "admin_name": "Savanes",
+    "lat": "9.1506",
+    "lng": "-4.6103",
+    "id": "1384360739"
+  },
+  {
+    "city": "Rubino",
+    "city_ascii": "Rubino",
+    "admin_name": "Lagunes",
+    "lat": "6.0692",
+    "lng": "-4.3086",
+    "id": "1384906865"
+  },
+  {
+    "city": "Bin-Houyé",
+    "city_ascii": "Bin-Houye",
+    "admin_name": "Montagnes",
+    "lat": "6.7825",
+    "lng": "-8.3163",
+    "id": "1384806115"
+  },
+  {
+    "city": "Grand-Lahou",
+    "city_ascii": "Grand-Lahou",
+    "admin_name": "Lagunes",
+    "lat": "5.1333",
+    "lng": "-5.0167",
+    "id": "1384711432"
+  },
+  {
+    "city": "Noé",
+    "city_ascii": "Noe",
+    "admin_name": "Comoé",
+    "lat": "5.2833",
+    "lng": "-2.8000",
+    "id": "1384503232"
+  },
+  {
+    "city": "Bonoufla",
+    "city_ascii": "Bonoufla",
+    "admin_name": "Sassandra-Marahoué",
+    "lat": "7.1291",
+    "lng": "-6.4742",
+    "id": "1384583177"
+  },
+  {
+    "city": "Sipilou",
+    "city_ascii": "Sipilou",
+    "admin_name": "Montagnes",
+    "lat": "7.8667",
+    "lng": "-8.1000",
+    "id": "1384489288"
+  },
+  {
+    "city": "Zaliohouan",
+    "city_ascii": "Zaliohouan",
+    "admin_name": "Sassandra-Marahoué",
+    "lat": "6.7952",
+    "lng": "-6.2355",
+    "id": "1384464976"
+  },
+  {
+    "city": "Yabayo",
+    "city_ascii": "Yabayo",
+    "admin_name": "Bas-Sassandra",
+    "lat": "5.9388",
+    "lng": "-6.5983",
+    "id": "1384922069"
+  },
+  {
+    "city": "Luénoufla",
+    "city_ascii": "Luenoufla",
+    "admin_name": "Sassandra-Marahoué",
+    "lat": "7.0724",
+    "lng": "-6.2413",
+    "id": "1384556975"
+  },
+  {
+    "city": "Mabéhiri",
+    "city_ascii": "Mabehiri",
+    "admin_name": "Bas-Sassandra",
+    "lat": "5.6667",
+    "lng": "-6.4167",
+    "id": "1384102956"
+  },
+  {
+    "city": "Para",
+    "city_ascii": "Para",
+    "admin_name": "Bas-Sassandra",
+    "lat": "5.5196",
+    "lng": "-7.3275",
+    "id": "1384364677"
+  },
+  {
+    "city": "Bédigoazon",
+    "city_ascii": "Bedigoazon",
+    "admin_name": "Montagnes",
+    "lat": "6.5663",
+    "lng": "-7.7204",
+    "id": "1384014562"
+  },
+  {
+    "city": "Brofodoumé",
+    "city_ascii": "Brofodoume",
+    "admin_name": "Abidjan",
+    "lat": "5.5136",
+    "lng": "-3.9307",
+    "id": "1384691434"
+  },
+  {
+    "city": "Ahigbé Koffikro",
+    "city_ascii": "Ahigbe Koffikro",
+    "admin_name": "Comoé",
+    "lat": "5.4075",
+    "lng": "-3.3802",
+    "id": "1384105456"
+  },
+  {
+    "city": "Doukouya",
+    "city_ascii": "Doukouya",
+    "admin_name": "Gôh-Djiboua",
+    "lat": "6.4262",
+    "lng": "-5.5592",
+    "id": "1384210901"
+  },
+  {
+    "city": "Minignan",
+    "city_ascii": "Minignan",
+    "admin_name": "Denguélé",
+    "lat": "9.9974",
+    "lng": "-7.8359",
+    "id": "1384218318"
+  },
+  {
+    "city": "Pélézi",
+    "city_ascii": "Pelezi",
+    "admin_name": "Sassandra-Marahoué",
+    "lat": "7.2817",
+    "lng": "-6.8145",
+    "id": "1384934552"
+  },
+  {
+    "city": "Mignouré",
+    "city_ascii": "Mignoure",
+    "admin_name": "Sassandra-Marahoué",
+    "lat": "7.4875",
+    "lng": "-6.7882",
+    "id": "1384735479"
+  },
+  {
+    "city": "Papara",
+    "city_ascii": "Papara",
+    "admin_name": "Savanes",
+    "lat": "10.6167",
+    "lng": "-6.2500",
+    "id": "1384525930"
+  }
+]

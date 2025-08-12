@@ -1,0 +1,1666 @@
+[
+  {
+    "city": "Cotonou",
+    "city_ascii": "Cotonou",
+    "admin_name": "Littoral",
+    "lat": "6.3667",
+    "lng": "2.4333",
+    "id": "1204955174"
+  },
+  {
+    "city": "Abomey-Calavi",
+    "city_ascii": "Abomey-Calavi",
+    "admin_name": "Atlantique",
+    "lat": "6.4486",
+    "lng": "2.3556",
+    "id": "1204016569"
+  },
+  {
+    "city": "Godomè",
+    "city_ascii": "Godome",
+    "admin_name": "Atlantique",
+    "lat": "6.3667",
+    "lng": "2.3500",
+    "id": "1204027999"
+  },
+  {
+    "city": "Banikoara",
+    "city_ascii": "Banikoara",
+    "admin_name": "Alibori",
+    "lat": "11.3000",
+    "lng": "2.4333",
+    "id": "1204495680"
+  },
+  {
+    "city": "Djougou",
+    "city_ascii": "Djougou",
+    "admin_name": "Donga",
+    "lat": "9.7000",
+    "lng": "1.6667",
+    "id": "1204972666"
+  },
+  {
+    "city": "Tchaourou",
+    "city_ascii": "Tchaourou",
+    "admin_name": "Borgou",
+    "lat": "8.8833",
+    "lng": "2.6000",
+    "id": "1204695000"
+  },
+  {
+    "city": "Parakou",
+    "city_ascii": "Parakou",
+    "admin_name": "Borgou",
+    "lat": "9.3500",
+    "lng": "2.6167",
+    "id": "1204807468"
+  },
+  {
+    "city": "Bakaga",
+    "city_ascii": "Bakaga",
+    "admin_name": "Borgou",
+    "lat": "9.3500",
+    "lng": "2.6167",
+    "id": "1204320764"
+  },
+  {
+    "city": "Kandi",
+    "city_ascii": "Kandi",
+    "admin_name": "Alibori",
+    "lat": "11.1286",
+    "lng": "2.9369",
+    "id": "1204875413"
+  },
+  {
+    "city": "Aplahoué",
+    "city_ascii": "Aplahoue",
+    "admin_name": "Couffo",
+    "lat": "6.9333",
+    "lng": "1.6833",
+    "id": "1204958955"
+  },
+  {
+    "city": "Kalalé",
+    "city_ascii": "Kalale",
+    "admin_name": "Borgou",
+    "lat": "10.2953",
+    "lng": "3.3786",
+    "id": "1204531108"
+  },
+  {
+    "city": "Malanville",
+    "city_ascii": "Malanville",
+    "admin_name": "Atacora",
+    "lat": "11.8667",
+    "lng": "3.3833",
+    "id": "1204159179"
+  },
+  {
+    "city": "Kétou",
+    "city_ascii": "Ketou",
+    "admin_name": "Plateau",
+    "lat": "7.3581",
+    "lng": "2.6075",
+    "id": "1204020661"
+  },
+  {
+    "city": "Bohicon",
+    "city_ascii": "Bohicon",
+    "admin_name": "Zou",
+    "lat": "7.2000",
+    "lng": "2.0667",
+    "id": "1204200335"
+  },
+  {
+    "city": "Djakotomé",
+    "city_ascii": "Djakotome",
+    "admin_name": "Couffo",
+    "lat": "6.9000",
+    "lng": "1.7167",
+    "id": "1204961382"
+  },
+  {
+    "city": "Porto-Novo",
+    "city_ascii": "Porto-Novo",
+    "admin_name": "Ouémé",
+    "lat": "6.4972",
+    "lng": "2.6050",
+    "id": "1204172060"
+  },
+  {
+    "city": "Zagnanado",
+    "city_ascii": "Zagnanado",
+    "admin_name": "Zou",
+    "lat": "7.2667",
+    "lng": "2.3500",
+    "id": "1204320194"
+  },
+  {
+    "city": "Bassila",
+    "city_ascii": "Bassila",
+    "admin_name": "Donga",
+    "lat": "9.0167",
+    "lng": "1.6667",
+    "id": "1204259496"
+  },
+  {
+    "city": "Avrankou",
+    "city_ascii": "Avrankou",
+    "admin_name": "Ouémé",
+    "lat": "6.5500",
+    "lng": "2.6667",
+    "id": "1204861603"
+  },
+  {
+    "city": "Allada",
+    "city_ascii": "Allada",
+    "admin_name": "Atlantique",
+    "lat": "6.6500",
+    "lng": "2.1500",
+    "id": "1204001429"
+  },
+  {
+    "city": "Missérété",
+    "city_ascii": "Misserete",
+    "admin_name": "Ouémé",
+    "lat": "6.5625",
+    "lng": "2.5853",
+    "id": "1204481663"
+  },
+  {
+    "city": "Glazoué",
+    "city_ascii": "Glazoue",
+    "admin_name": "Collines",
+    "lat": "7.9736",
+    "lng": "2.2400",
+    "id": "1204842273"
+  },
+  {
+    "city": "Pobé",
+    "city_ascii": "Pobe",
+    "admin_name": "Plateau",
+    "lat": "6.9667",
+    "lng": "2.6833",
+    "id": "1204955158"
+  },
+  {
+    "city": "Djidja",
+    "city_ascii": "Djidja",
+    "admin_name": "Zou",
+    "lat": "7.3333",
+    "lng": "1.9333",
+    "id": "1204250731"
+  },
+  {
+    "city": "Lalo",
+    "city_ascii": "Lalo",
+    "admin_name": "Couffo",
+    "lat": "6.9167",
+    "lng": "1.8833",
+    "id": "1204461381"
+  },
+  {
+    "city": "Gogounou",
+    "city_ascii": "Gogounou",
+    "admin_name": "Alibori",
+    "lat": "10.8386",
+    "lng": "2.8361",
+    "id": "1204602986"
+  },
+  {
+    "city": "Adjaouèrè",
+    "city_ascii": "Adjaouere",
+    "admin_name": "Plateau",
+    "lat": "7.0000",
+    "lng": "2.6167",
+    "id": "1204225827"
+  },
+  {
+    "city": "Sakété",
+    "city_ascii": "Sakete",
+    "admin_name": "Plateau",
+    "lat": "6.7364",
+    "lng": "2.6581",
+    "id": "1204601704"
+  },
+  {
+    "city": "Matéri",
+    "city_ascii": "Materi",
+    "admin_name": "Atacora",
+    "lat": "10.6978",
+    "lng": "1.0633",
+    "id": "1204459888"
+  },
+  {
+    "city": "Ifanhim",
+    "city_ascii": "Ifanhim",
+    "admin_name": "Plateau",
+    "lat": "6.6667",
+    "lng": "2.7167",
+    "id": "1204693168"
+  },
+  {
+    "city": "Ndali",
+    "city_ascii": "Ndali",
+    "admin_name": "Borgou",
+    "lat": "9.8608",
+    "lng": "2.7181",
+    "id": "1204045508"
+  },
+  {
+    "city": "Dassa-Zoumé",
+    "city_ascii": "Dassa-Zoume",
+    "admin_name": "Collines",
+    "lat": "7.7500",
+    "lng": "2.1833",
+    "id": "1204114587"
+  },
+  {
+    "city": "Kouandé",
+    "city_ascii": "Kouande",
+    "admin_name": "Atacora",
+    "lat": "10.3317",
+    "lng": "1.6914",
+    "id": "1204029400"
+  },
+  {
+    "city": "Banté",
+    "city_ascii": "Bante",
+    "admin_name": "Collines",
+    "lat": "8.4167",
+    "lng": "1.8833",
+    "id": "1204394009"
+  },
+  {
+    "city": "Lokossa",
+    "city_ascii": "Lokossa",
+    "admin_name": "Mono",
+    "lat": "6.6333",
+    "lng": "1.7167",
+    "id": "1204036358"
+  },
+  {
+    "city": "Natitingou",
+    "city_ascii": "Natitingou",
+    "admin_name": "Atacora",
+    "lat": "10.3000",
+    "lng": "1.3667",
+    "id": "1204752595"
+  },
+  {
+    "city": "Tota",
+    "city_ascii": "Tota",
+    "admin_name": "Couffo",
+    "lat": "6.8000",
+    "lng": "1.7833",
+    "id": "1204352038"
+  },
+  {
+    "city": "Adjarra",
+    "city_ascii": "Adjarra",
+    "admin_name": "Ouémé",
+    "lat": "6.5333",
+    "lng": "2.6667",
+    "id": "1204832299"
+  },
+  {
+    "city": "Ouidah",
+    "city_ascii": "Ouidah",
+    "admin_name": "Atlantique",
+    "lat": "6.3667",
+    "lng": "2.0833",
+    "id": "1204541753"
+  },
+  {
+    "city": "Sinendé",
+    "city_ascii": "Sinende",
+    "admin_name": "Borgou",
+    "lat": "10.3447",
+    "lng": "2.3792",
+    "id": "1204182311"
+  },
+  {
+    "city": "Abomey",
+    "city_ascii": "Abomey",
+    "admin_name": "Zou",
+    "lat": "7.1856",
+    "lng": "1.9881",
+    "id": "1204597697"
+  },
+  {
+    "city": "Ségbana",
+    "city_ascii": "Segbana",
+    "admin_name": "Alibori",
+    "lat": "10.9278",
+    "lng": "3.6944",
+    "id": "1204782008"
+  },
+  {
+    "city": "Toviklin",
+    "city_ascii": "Toviklin",
+    "admin_name": "Couffo",
+    "lat": "6.8333",
+    "lng": "1.8167",
+    "id": "1204701826"
+  },
+  {
+    "city": "Boukoumbé",
+    "city_ascii": "Boukoumbe",
+    "admin_name": "Atacora",
+    "lat": "10.1833",
+    "lng": "1.1000",
+    "id": "1204827134"
+  },
+  {
+    "city": "Pèrèrè",
+    "city_ascii": "Perere",
+    "admin_name": "Borgou",
+    "lat": "9.7994",
+    "lng": "2.9928",
+    "id": "1204059359"
+  },
+  {
+    "city": "Péhonko",
+    "city_ascii": "Pehonko",
+    "admin_name": "Atacora",
+    "lat": "10.2283",
+    "lng": "2.0019",
+    "id": "1204295188"
+  },
+  {
+    "city": "So-Awa",
+    "city_ascii": "So-Awa",
+    "admin_name": "Atlantique",
+    "lat": "6.4667",
+    "lng": "2.4167",
+    "id": "1204255912"
+  },
+  {
+    "city": "Ekpé",
+    "city_ascii": "Ekpe",
+    "admin_name": "Ouémé",
+    "lat": "6.4000",
+    "lng": "2.5333",
+    "id": "1204585283"
+  },
+  {
+    "city": "Toffo",
+    "city_ascii": "Toffo",
+    "admin_name": "Atlantique",
+    "lat": "6.8500",
+    "lng": "2.0833",
+    "id": "1204877588"
+  },
+  {
+    "city": "Tanguiéta",
+    "city_ascii": "Tanguieta",
+    "admin_name": "Atacora",
+    "lat": "10.6167",
+    "lng": "1.2667",
+    "id": "1204832080"
+  },
+  {
+    "city": "Péda-Houéyogbé",
+    "city_ascii": "Peda-Houeyogbe",
+    "admin_name": "Mono",
+    "lat": "6.4500",
+    "lng": "1.9333",
+    "id": "1204188588"
+  },
+  {
+    "city": "Ouaké",
+    "city_ascii": "Ouake",
+    "admin_name": "Donga",
+    "lat": "9.6617",
+    "lng": "1.3847",
+    "id": "1204988582"
+  },
+  {
+    "city": "Zogbodomé",
+    "city_ascii": "Zogbodome",
+    "admin_name": "Zou",
+    "lat": "7.0833",
+    "lng": "2.1000",
+    "id": "1204008692"
+  },
+  {
+    "city": "Kopargo",
+    "city_ascii": "Kopargo",
+    "admin_name": "Donga",
+    "lat": "9.8375",
+    "lng": "1.5481",
+    "id": "1204451155"
+  },
+  {
+    "city": "Bopa",
+    "city_ascii": "Bopa",
+    "admin_name": "Mono",
+    "lat": "6.5833",
+    "lng": "1.9833",
+    "id": "1204457759"
+  },
+  {
+    "city": "Nikki",
+    "city_ascii": "Nikki",
+    "admin_name": "Borgou",
+    "lat": "9.9333",
+    "lng": "3.2083",
+    "id": "1204598313"
+  },
+  {
+    "city": "Karimama",
+    "city_ascii": "Karimama",
+    "admin_name": "Alibori",
+    "lat": "12.0667",
+    "lng": "3.1833",
+    "id": "1204991433"
+  },
+  {
+    "city": "Dangbo",
+    "city_ascii": "Dangbo",
+    "admin_name": "Ouémé",
+    "lat": "6.5000",
+    "lng": "2.6833",
+    "id": "1204613725"
+  },
+  {
+    "city": "Adjohon",
+    "city_ascii": "Adjohon",
+    "admin_name": "Ouémé",
+    "lat": "6.7000",
+    "lng": "2.4667",
+    "id": "1204412228"
+  },
+  {
+    "city": "Ouinhri",
+    "city_ascii": "Ouinhri",
+    "admin_name": "Zou",
+    "lat": "7.0000",
+    "lng": "2.4500",
+    "id": "1204186479"
+  },
+  {
+    "city": "Grand-Popo",
+    "city_ascii": "Grand-Popo",
+    "admin_name": "Mono",
+    "lat": "6.2833",
+    "lng": "1.8333",
+    "id": "1204984679"
+  },
+  {
+    "city": "Athiémé",
+    "city_ascii": "Athieme",
+    "admin_name": "Mono",
+    "lat": "6.5833",
+    "lng": "1.6667",
+    "id": "1204354787"
+  },
+  {
+    "city": "Agbangnizoun",
+    "city_ascii": "Agbangnizoun",
+    "admin_name": "Zou",
+    "lat": "7.0667",
+    "lng": "1.9667",
+    "id": "1204553139"
+  },
+  {
+    "city": "Tori-Bossito",
+    "city_ascii": "Tori-Bossito",
+    "admin_name": "Atlantique",
+    "lat": "6.5031",
+    "lng": "2.1450",
+    "id": "1204446512"
+  },
+  {
+    "city": "Bonou",
+    "city_ascii": "Bonou",
+    "admin_name": "Ouémé",
+    "lat": "6.9000",
+    "lng": "2.4500",
+    "id": "1204851057"
+  },
+  {
+    "city": "Cové",
+    "city_ascii": "Cove",
+    "admin_name": "Zou",
+    "lat": "7.2333",
+    "lng": "2.3000",
+    "id": "1204989651"
+  },
+  {
+    "city": "Toukountouna",
+    "city_ascii": "Toukountouna",
+    "admin_name": "Atacora",
+    "lat": "10.4986",
+    "lng": "1.3756",
+    "id": "1204293214"
+  },
+  {
+    "city": "Kérou",
+    "city_ascii": "Kerou",
+    "admin_name": "Atacora",
+    "lat": "10.8250",
+    "lng": "2.1094",
+    "id": "1204765359"
+  },
+  {
+    "city": "Savalou",
+    "city_ascii": "Savalou",
+    "admin_name": "Collines",
+    "lat": "7.9333",
+    "lng": "1.9667",
+    "id": "1204628914"
+  },
+  {
+    "city": "Comé",
+    "city_ascii": "Come",
+    "admin_name": "Mono",
+    "lat": "6.4000",
+    "lng": "1.8833",
+    "id": "1204211586"
+  },
+  {
+    "city": "Savé",
+    "city_ascii": "Save",
+    "admin_name": "Collines",
+    "lat": "8.0333",
+    "lng": "2.4833",
+    "id": "1204120625"
+  },
+  {
+    "city": "Bembèrèkè",
+    "city_ascii": "Bembereke",
+    "admin_name": "Borgou",
+    "lat": "10.2250",
+    "lng": "2.6681",
+    "id": "1204771815"
+  },
+  {
+    "city": "Agblangandan",
+    "city_ascii": "Agblangandan",
+    "admin_name": "Ouémé",
+    "lat": "6.3667",
+    "lng": "2.5167",
+    "id": "1204834123"
+  },
+  {
+    "city": "Founougo",
+    "city_ascii": "Founougo",
+    "admin_name": "Alibori",
+    "lat": "11.4808",
+    "lng": "2.5322",
+    "id": "1204005508"
+  },
+  {
+    "city": "Golo-Djigbé",
+    "city_ascii": "Golo-Djigbe",
+    "admin_name": "Atlantique",
+    "lat": "6.5403",
+    "lng": "2.3253",
+    "id": "1204048164"
+  },
+  {
+    "city": "Bouka",
+    "city_ascii": "Bouka",
+    "admin_name": "Borgou",
+    "lat": "10.2167",
+    "lng": "3.1333",
+    "id": "1204320470"
+  },
+  {
+    "city": "Paouignan",
+    "city_ascii": "Paouignan",
+    "admin_name": "Collines",
+    "lat": "7.6937",
+    "lng": "2.2673",
+    "id": "1204769858"
+  },
+  {
+    "city": "Idigny",
+    "city_ascii": "Idigny",
+    "admin_name": "Plateau",
+    "lat": "7.4833",
+    "lng": "2.7000",
+    "id": "1204693959"
+  },
+  {
+    "city": "Guéné",
+    "city_ascii": "Guene",
+    "admin_name": "Atacora",
+    "lat": "11.7306",
+    "lng": "3.2242",
+    "id": "1204326206"
+  },
+  {
+    "city": "Goumori",
+    "city_ascii": "Goumori",
+    "admin_name": "Alibori",
+    "lat": "11.1833",
+    "lng": "2.2833",
+    "id": "1204178150"
+  },
+  {
+    "city": "Azové",
+    "city_ascii": "Azove",
+    "admin_name": "Couffo",
+    "lat": "6.9500",
+    "lng": "1.7000",
+    "id": "1204299072"
+  },
+  {
+    "city": "Doutou",
+    "city_ascii": "Doutou",
+    "admin_name": "Mono",
+    "lat": "6.5500",
+    "lng": "1.8833",
+    "id": "1204517894"
+  },
+  {
+    "city": "Sori",
+    "city_ascii": "Sori",
+    "admin_name": "Alibori",
+    "lat": "10.7281",
+    "lng": "2.7825",
+    "id": "1204061306"
+  },
+  {
+    "city": "Bagou",
+    "city_ascii": "Bagou",
+    "admin_name": "Alibori",
+    "lat": "10.8147",
+    "lng": "2.7164",
+    "id": "1204993446"
+  },
+  {
+    "city": "Vakon",
+    "city_ascii": "Vakon",
+    "admin_name": "Ouémé",
+    "lat": "6.5167",
+    "lng": "2.5667",
+    "id": "1204060141"
+  },
+  {
+    "city": "Kissa",
+    "city_ascii": "Kissa",
+    "admin_name": "Couffo",
+    "lat": "7.0333",
+    "lng": "1.7833",
+    "id": "1204966404"
+  },
+  {
+    "city": "Issaba",
+    "city_ascii": "Issaba",
+    "admin_name": "Plateau",
+    "lat": "7.0833",
+    "lng": "2.6167",
+    "id": "1204318038"
+  },
+  {
+    "city": "Atchoupa",
+    "city_ascii": "Atchoupa",
+    "admin_name": "Ouémé",
+    "lat": "6.5333",
+    "lng": "2.6333",
+    "id": "1204356835"
+  },
+  {
+    "city": "Bouanri",
+    "city_ascii": "Bouanri",
+    "admin_name": "Borgou",
+    "lat": "10.2000",
+    "lng": "2.8667",
+    "id": "1204515161"
+  },
+  {
+    "city": "Togba",
+    "city_ascii": "Togba",
+    "admin_name": "Couffo",
+    "lat": "7.1000",
+    "lng": "1.6667",
+    "id": "1204084609"
+  },
+  {
+    "city": "Zinvié",
+    "city_ascii": "Zinvie",
+    "admin_name": "Atlantique",
+    "lat": "6.6167",
+    "lng": "2.3500",
+    "id": "1204106178"
+  },
+  {
+    "city": "Biro",
+    "city_ascii": "Biro",
+    "admin_name": "Borgou",
+    "lat": "9.9000",
+    "lng": "2.9333",
+    "id": "1204043636"
+  },
+  {
+    "city": "Tohoué",
+    "city_ascii": "Tohoue",
+    "admin_name": "Ouémé",
+    "lat": "6.3967",
+    "lng": "2.5853",
+    "id": "1204089582"
+  },
+  {
+    "city": "Lobogo",
+    "city_ascii": "Lobogo",
+    "admin_name": "Mono",
+    "lat": "6.6333",
+    "lng": "1.9000",
+    "id": "1204784192"
+  },
+  {
+    "city": "Kolokondé",
+    "city_ascii": "Kolokonde",
+    "admin_name": "Donga",
+    "lat": "9.9000",
+    "lng": "1.7667",
+    "id": "1204155469"
+  },
+  {
+    "city": "Akassato",
+    "city_ascii": "Akassato",
+    "admin_name": "Atlantique",
+    "lat": "6.5000",
+    "lng": "2.3667",
+    "id": "1204097389"
+  },
+  {
+    "city": "Tobré",
+    "city_ascii": "Tobre",
+    "admin_name": "Atacora",
+    "lat": "10.2000",
+    "lng": "2.1333",
+    "id": "1204523231"
+  },
+  {
+    "city": "Massé",
+    "city_ascii": "Masse",
+    "admin_name": "Plateau",
+    "lat": "7.1578",
+    "lng": "2.5436",
+    "id": "1204168312"
+  },
+  {
+    "city": "Aklanpa",
+    "city_ascii": "Aklanpa",
+    "admin_name": "Collines",
+    "lat": "8.1684",
+    "lng": "2.2320",
+    "id": "1204854535"
+  },
+  {
+    "city": "Azaourissè",
+    "city_ascii": "Azaourisse",
+    "admin_name": "Ouémé",
+    "lat": "6.6944",
+    "lng": "2.5075",
+    "id": "1204305272"
+  },
+  {
+    "city": "Tantéga",
+    "city_ascii": "Tantega",
+    "admin_name": "Atacora",
+    "lat": "10.8500",
+    "lng": "1.0333",
+    "id": "1204310643"
+  },
+  {
+    "city": "Tiahounkossi",
+    "city_ascii": "Tiahounkossi",
+    "admin_name": "Atacora",
+    "lat": "10.8167",
+    "lng": "1.0667",
+    "id": "1204600986"
+  },
+  {
+    "city": "Ina",
+    "city_ascii": "Ina",
+    "admin_name": "Borgou",
+    "lat": "9.9833",
+    "lng": "2.7167",
+    "id": "1204781465"
+  },
+  {
+    "city": "Adjahomé",
+    "city_ascii": "Adjahome",
+    "admin_name": "Couffo",
+    "lat": "7.0618",
+    "lng": "1.8368",
+    "id": "1204465355"
+  },
+  {
+    "city": "Angara-Débou",
+    "city_ascii": "Angara-Debou",
+    "admin_name": "Atacora",
+    "lat": "11.3289",
+    "lng": "3.0406",
+    "id": "1204754411"
+  },
+  {
+    "city": "Garou",
+    "city_ascii": "Garou",
+    "admin_name": "Atacora",
+    "lat": "11.8053",
+    "lng": "3.4739",
+    "id": "1204420447"
+  },
+  {
+    "city": "Ségou",
+    "city_ascii": "Segou",
+    "admin_name": "Atlantique",
+    "lat": "6.6167",
+    "lng": "2.2167",
+    "id": "1204316381"
+  },
+  {
+    "city": "Banigbé",
+    "city_ascii": "Banigbe",
+    "admin_name": "Plateau",
+    "lat": "6.9000",
+    "lng": "2.6500",
+    "id": "1204880247"
+  },
+  {
+    "city": "Sérarou",
+    "city_ascii": "Serarou",
+    "admin_name": "Borgou",
+    "lat": "9.5833",
+    "lng": "2.6500",
+    "id": "1204060961"
+  },
+  {
+    "city": "Dassari",
+    "city_ascii": "Dassari",
+    "admin_name": "Atacora",
+    "lat": "10.8158",
+    "lng": "1.1406",
+    "id": "1204472631"
+  },
+  {
+    "city": "Toui",
+    "city_ascii": "Toui",
+    "admin_name": "Collines",
+    "lat": "8.6833",
+    "lng": "2.6000",
+    "id": "1204315946"
+  },
+  {
+    "city": "Bétérou",
+    "city_ascii": "Beterou",
+    "admin_name": "Borgou",
+    "lat": "9.2000",
+    "lng": "2.2667",
+    "id": "1204549567"
+  },
+  {
+    "city": "Sakabansi",
+    "city_ascii": "Sakabansi",
+    "admin_name": "Borgou",
+    "lat": "10.0442",
+    "lng": "3.3821",
+    "id": "1204658968"
+  },
+  {
+    "city": "Briniamaro",
+    "city_ascii": "Briniamaro",
+    "admin_name": "Atacora",
+    "lat": "10.7411",
+    "lng": "2.0731",
+    "id": "1204210282"
+  },
+  {
+    "city": "Sinmpérékou",
+    "city_ascii": "Sinmperekou",
+    "admin_name": "Alibori",
+    "lat": "11.2333",
+    "lng": "2.4167",
+    "id": "1204770736"
+  },
+  {
+    "city": "Onklou",
+    "city_ascii": "Onklou",
+    "admin_name": "Donga",
+    "lat": "9.5000",
+    "lng": "1.9833",
+    "id": "1204898832"
+  },
+  {
+    "city": "Dahé",
+    "city_ascii": "Dahe",
+    "admin_name": "Mono",
+    "lat": "6.5167",
+    "lng": "1.9500",
+    "id": "1204007633"
+  },
+  {
+    "city": "Pahou",
+    "city_ascii": "Pahou",
+    "admin_name": "Atlantique",
+    "lat": "6.3833",
+    "lng": "2.2167",
+    "id": "1204813265"
+  },
+  {
+    "city": "Ayomi",
+    "city_ascii": "Ayomi",
+    "admin_name": "Couffo",
+    "lat": "6.7833",
+    "lng": "1.7167",
+    "id": "1204017290"
+  },
+  {
+    "city": "Adakplamé",
+    "city_ascii": "Adakplame",
+    "admin_name": "Plateau",
+    "lat": "7.4500",
+    "lng": "2.5500",
+    "id": "1204512448"
+  },
+  {
+    "city": "Méridjonou",
+    "city_ascii": "Meridjonou",
+    "admin_name": "Ouémé",
+    "lat": "6.4619",
+    "lng": "2.6774",
+    "id": "1204586133"
+  },
+  {
+    "city": "Gouka",
+    "city_ascii": "Gouka",
+    "admin_name": "Collines",
+    "lat": "8.1333",
+    "lng": "1.9667",
+    "id": "1204271160"
+  },
+  {
+    "city": "Manta",
+    "city_ascii": "Manta",
+    "admin_name": "Atacora",
+    "lat": "10.3564",
+    "lng": "1.1056",
+    "id": "1204718749"
+  },
+  {
+    "city": "Doumé",
+    "city_ascii": "Doume",
+    "admin_name": "Collines",
+    "lat": "8.0167",
+    "lng": "1.6333",
+    "id": "1204780226"
+  },
+  {
+    "city": "Atomé-Avégamé",
+    "city_ascii": "Atome-Avegame",
+    "admin_name": "Couffo",
+    "lat": "7.2333",
+    "lng": "1.6500",
+    "id": "1204148297"
+  },
+  {
+    "city": "Hévié",
+    "city_ascii": "Hevie",
+    "admin_name": "Atlantique",
+    "lat": "6.4167",
+    "lng": "2.2500",
+    "id": "1204788471"
+  },
+  {
+    "city": "Toura",
+    "city_ascii": "Toura",
+    "admin_name": "Alibori",
+    "lat": "11.2436",
+    "lng": "2.3831",
+    "id": "1204764388"
+  },
+  {
+    "city": "Gouandé",
+    "city_ascii": "Gouande",
+    "admin_name": "Atacora",
+    "lat": "10.7828",
+    "lng": "0.9186",
+    "id": "1204660302"
+  },
+  {
+    "city": "Gomparou",
+    "city_ascii": "Gomparou",
+    "admin_name": "Alibori",
+    "lat": "11.3000",
+    "lng": "2.4489",
+    "id": "1204353834"
+  },
+  {
+    "city": "Donwari",
+    "city_ascii": "Donwari",
+    "admin_name": "Alibori",
+    "lat": "11.1197",
+    "lng": "2.8558",
+    "id": "1204710462"
+  },
+  {
+    "city": "Kouti",
+    "city_ascii": "Kouti",
+    "admin_name": "Plateau",
+    "lat": "6.5542",
+    "lng": "2.6616",
+    "id": "1204870206"
+  },
+  {
+    "city": "Birni",
+    "city_ascii": "Birni",
+    "admin_name": "Atacora",
+    "lat": "9.9892",
+    "lng": "1.5269",
+    "id": "1204657577"
+  },
+  {
+    "city": "Siki",
+    "city_ascii": "Siki",
+    "admin_name": "Borgou",
+    "lat": "10.1833",
+    "lng": "2.3833",
+    "id": "1204404747"
+  },
+  {
+    "city": "Kika",
+    "city_ascii": "Kika",
+    "admin_name": "Borgou",
+    "lat": "9.3000",
+    "lng": "2.2667",
+    "id": "1204827560"
+  },
+  {
+    "city": "Pira",
+    "city_ascii": "Pira",
+    "admin_name": "Collines",
+    "lat": "8.5000",
+    "lng": "1.7333",
+    "id": "1204787777"
+  },
+  {
+    "city": "Soklogbo",
+    "city_ascii": "Soklogbo",
+    "admin_name": "Collines",
+    "lat": "7.6937",
+    "lng": "2.2673",
+    "id": "1204257791"
+  },
+  {
+    "city": "Godohou",
+    "city_ascii": "Godohou",
+    "admin_name": "Couffo",
+    "lat": "7.0333",
+    "lng": "1.7833",
+    "id": "1204689512"
+  },
+  {
+    "city": "Ouénou",
+    "city_ascii": "Ouenou",
+    "admin_name": "Borgou",
+    "lat": "9.7870",
+    "lng": "2.6375",
+    "id": "1204883770"
+  },
+  {
+    "city": "Katagon",
+    "city_ascii": "Katagon",
+    "admin_name": "Ouémé",
+    "lat": "6.6333",
+    "lng": "2.5833",
+    "id": "1204968472"
+  },
+  {
+    "city": "Sagon",
+    "city_ascii": "Sagon",
+    "admin_name": "Zou",
+    "lat": "7.1500",
+    "lng": "2.4167",
+    "id": "1204489937"
+  },
+  {
+    "city": "Gbanhi",
+    "city_ascii": "Gbanhi",
+    "admin_name": "Collines",
+    "lat": "8.4497",
+    "lng": "2.4737",
+    "id": "1204877914"
+  },
+  {
+    "city": "Sam",
+    "city_ascii": "Sam",
+    "admin_name": "Alibori",
+    "lat": "11.0333",
+    "lng": "2.7333",
+    "id": "1204921865"
+  },
+  {
+    "city": "Sokouhoué",
+    "city_ascii": "Sokouhoue",
+    "admin_name": "Couffo",
+    "lat": "6.9000",
+    "lng": "1.6667",
+    "id": "1204283045"
+  },
+  {
+    "city": "Kountouri",
+    "city_ascii": "Kountouri",
+    "admin_name": "Atacora",
+    "lat": "10.4050",
+    "lng": "0.9425",
+    "id": "1204829344"
+  },
+  {
+    "city": "Tori-Cada",
+    "city_ascii": "Tori-Cada",
+    "admin_name": "Atlantique",
+    "lat": "6.5833",
+    "lng": "2.2000",
+    "id": "1204073775"
+  },
+  {
+    "city": "Coussé",
+    "city_ascii": "Cousse",
+    "admin_name": "Atlantique",
+    "lat": "6.8500",
+    "lng": "2.1333",
+    "id": "1204184442"
+  },
+  {
+    "city": "Lissegazoun",
+    "city_ascii": "Lissegazoun",
+    "admin_name": "Atlantique",
+    "lat": "6.6167",
+    "lng": "2.0833",
+    "id": "1204896606"
+  },
+  {
+    "city": "Gbéroubouè",
+    "city_ascii": "Gberouboue",
+    "admin_name": "Borgou",
+    "lat": "10.5333",
+    "lng": "2.7333",
+    "id": "1204150052"
+  },
+  {
+    "city": "Péonga",
+    "city_ascii": "Peonga",
+    "admin_name": "Borgou",
+    "lat": "10.3333",
+    "lng": "3.2667",
+    "id": "1204235504"
+  },
+  {
+    "city": "Dérassi",
+    "city_ascii": "Derassi",
+    "admin_name": "Borgou",
+    "lat": "10.1667",
+    "lng": "3.2667",
+    "id": "1204113697"
+  },
+  {
+    "city": "Kaboua",
+    "city_ascii": "Kaboua",
+    "admin_name": "Collines",
+    "lat": "8.2500",
+    "lng": "2.6833",
+    "id": "1204419841"
+  },
+  {
+    "city": "Agamé",
+    "city_ascii": "Agame",
+    "admin_name": "Couffo",
+    "lat": "6.7333",
+    "lng": "1.7667",
+    "id": "1204183664"
+  },
+  {
+    "city": "Guinagourou",
+    "city_ascii": "Guinagourou",
+    "admin_name": "Borgou",
+    "lat": "9.5667",
+    "lng": "2.9500",
+    "id": "1204101823"
+  },
+  {
+    "city": "Niémasson",
+    "city_ascii": "Niemasson",
+    "admin_name": "Atacora",
+    "lat": "10.3078",
+    "lng": "2.0378",
+    "id": "1204862347"
+  },
+  {
+    "city": "Sérékali",
+    "city_ascii": "Serekali",
+    "admin_name": "Borgou",
+    "lat": "9.9186",
+    "lng": "3.0434",
+    "id": "1204362974"
+  },
+  {
+    "city": "Sanson",
+    "city_ascii": "Sanson",
+    "admin_name": "Borgou",
+    "lat": "9.2833",
+    "lng": "2.4333",
+    "id": "1204972497"
+  },
+  {
+    "city": "Gounarou",
+    "city_ascii": "Gounarou",
+    "admin_name": "Alibori",
+    "lat": "10.8667",
+    "lng": "2.8500",
+    "id": "1204739414"
+  },
+  {
+    "city": "Agouna",
+    "city_ascii": "Agouna",
+    "admin_name": "Zou",
+    "lat": "7.5667",
+    "lng": "1.7000",
+    "id": "1204331167"
+  },
+  {
+    "city": "Fô-Bouré",
+    "city_ascii": "Fo-Boure",
+    "admin_name": "Borgou",
+    "lat": "10.1167",
+    "lng": "2.4000",
+    "id": "1204807965"
+  },
+  {
+    "city": "Adohoun",
+    "city_ascii": "Adohoun",
+    "admin_name": "Mono",
+    "lat": "6.6333",
+    "lng": "1.6667",
+    "id": "1204360441"
+  },
+  {
+    "city": "Kilibo",
+    "city_ascii": "Kilibo",
+    "admin_name": "Collines",
+    "lat": "8.5717",
+    "lng": "2.6017",
+    "id": "1204473850"
+  },
+  {
+    "city": "Ouédo-Aguéko",
+    "city_ascii": "Ouedo-Agueko",
+    "admin_name": "Atlantique",
+    "lat": "6.4963",
+    "lng": "2.4268",
+    "id": "1204089947"
+  },
+  {
+    "city": "Yoko",
+    "city_ascii": "Yoko",
+    "admin_name": "Plateau",
+    "lat": "6.7000",
+    "lng": "2.6167",
+    "id": "1204983391"
+  },
+  {
+    "city": "Lonkly",
+    "city_ascii": "Lonkly",
+    "admin_name": "Couffo",
+    "lat": "7.1333",
+    "lng": "1.6833",
+    "id": "1204106600"
+  },
+  {
+    "city": "Takon",
+    "city_ascii": "Takon",
+    "admin_name": "Plateau",
+    "lat": "6.6500",
+    "lng": "2.6167",
+    "id": "1204057835"
+  },
+  {
+    "city": "Dougba",
+    "city_ascii": "Dougba",
+    "admin_name": "Collines",
+    "lat": "8.4497",
+    "lng": "2.4737",
+    "id": "1204867484"
+  },
+  {
+    "city": "Libanté",
+    "city_ascii": "Libante",
+    "admin_name": "Alibori",
+    "lat": "10.7936",
+    "lng": "3.5828",
+    "id": "1204606503"
+  },
+  {
+    "city": "Dan",
+    "city_ascii": "Dan",
+    "admin_name": "Zou",
+    "lat": "7.3167",
+    "lng": "2.0667",
+    "id": "1204916794"
+  },
+  {
+    "city": "Firou",
+    "city_ascii": "Firou",
+    "admin_name": "Atacora",
+    "lat": "10.9192",
+    "lng": "1.9386",
+    "id": "1204000006"
+  },
+  {
+    "city": "Ahogbeya",
+    "city_ascii": "Ahogbeya",
+    "admin_name": "Couffo",
+    "lat": "7.0333",
+    "lng": "1.9167",
+    "id": "1204793788"
+  },
+  {
+    "city": "Ganvié",
+    "city_ascii": "Ganvie",
+    "admin_name": "Atlantique",
+    "lat": "6.4667",
+    "lng": "2.4167",
+    "id": "1204791143"
+  },
+  {
+    "city": "Pabégou",
+    "city_ascii": "Pabegou",
+    "admin_name": "Donga",
+    "lat": "9.8333",
+    "lng": "1.5492",
+    "id": "1204757820"
+  },
+  {
+    "city": "Hozin",
+    "city_ascii": "Hozin",
+    "admin_name": "Ouémé",
+    "lat": "6.5333",
+    "lng": "2.5500",
+    "id": "1204420035"
+  },
+  {
+    "city": "Ouédo",
+    "city_ascii": "Ouedo",
+    "admin_name": "Atlantique",
+    "lat": "6.4833",
+    "lng": "2.4500",
+    "id": "1204184077"
+  },
+  {
+    "city": "Massi",
+    "city_ascii": "Massi",
+    "admin_name": "Donga",
+    "lat": "9.9167",
+    "lng": "1.4667",
+    "id": "1204807005"
+  },
+  {
+    "city": "Tomboutou",
+    "city_ascii": "Tomboutou",
+    "admin_name": "Atacora",
+    "lat": "11.8550",
+    "lng": "3.2892",
+    "id": "1204547327"
+  },
+  {
+    "city": "Birni Lafia",
+    "city_ascii": "Birni Lafia",
+    "admin_name": "Alibori",
+    "lat": "11.9783",
+    "lng": "3.2225",
+    "id": "1204630471"
+  },
+  {
+    "city": "Basso",
+    "city_ascii": "Basso",
+    "admin_name": "Borgou",
+    "lat": "10.5000",
+    "lng": "3.6833",
+    "id": "1204113994"
+  },
+  {
+    "city": "Kouarfa",
+    "city_ascii": "Kouarfa",
+    "admin_name": "Atacora",
+    "lat": "10.4833",
+    "lng": "1.5167",
+    "id": "1204521211"
+  },
+  {
+    "city": "Agatogba",
+    "city_ascii": "Agatogba",
+    "admin_name": "Mono",
+    "lat": "6.4000",
+    "lng": "1.9000",
+    "id": "1204332185"
+  },
+  {
+    "city": "Tayakou",
+    "city_ascii": "Tayakou",
+    "admin_name": "Atacora",
+    "lat": "10.5500",
+    "lng": "1.2000",
+    "id": "1204564962"
+  },
+  {
+    "city": "Zoudjamé",
+    "city_ascii": "Zoudjame",
+    "admin_name": "Couffo",
+    "lat": "6.8167",
+    "lng": "1.8667",
+    "id": "1204268397"
+  },
+  {
+    "city": "Datori",
+    "city_ascii": "Datori",
+    "admin_name": "Atacora",
+    "lat": "10.4017",
+    "lng": "0.7828",
+    "id": "1204437203"
+  },
+  {
+    "city": "Dasso",
+    "city_ascii": "Dasso",
+    "admin_name": "Zou",
+    "lat": "7.0167",
+    "lng": "2.4667",
+    "id": "1204988587"
+  },
+  {
+    "city": "Agoué",
+    "city_ascii": "Agoue",
+    "admin_name": "Mono",
+    "lat": "6.2500",
+    "lng": "1.6833",
+    "id": "1204642749"
+  },
+  {
+    "city": "Bougou",
+    "city_ascii": "Bougou",
+    "admin_name": "Donga",
+    "lat": "9.4333",
+    "lng": "1.6167",
+    "id": "1204336645"
+  },
+  {
+    "city": "Sonsoro",
+    "city_ascii": "Sonsoro",
+    "admin_name": "Alibori",
+    "lat": "11.0875",
+    "lng": "2.7597",
+    "id": "1204182952"
+  },
+  {
+    "city": "Dagbé",
+    "city_ascii": "Dagbe",
+    "admin_name": "Ouémé",
+    "lat": "6.5667",
+    "lng": "2.6833",
+    "id": "1204590696"
+  },
+  {
+    "city": "Sokotindji",
+    "city_ascii": "Sokotindji",
+    "admin_name": "Alibori",
+    "lat": "10.8528",
+    "lng": "3.4297",
+    "id": "1204682883"
+  },
+  {
+    "city": "Barei",
+    "city_ascii": "Barei",
+    "admin_name": "Donga",
+    "lat": "9.6833",
+    "lng": "1.5667",
+    "id": "1204494037"
+  },
+  {
+    "city": "Tasso",
+    "city_ascii": "Tasso",
+    "admin_name": "Borgou",
+    "lat": "9.6737",
+    "lng": "3.2333",
+    "id": "1204006461"
+  },
+  {
+    "city": "Lagbé",
+    "city_ascii": "Lagbe",
+    "admin_name": "Plateau",
+    "lat": "6.6833",
+    "lng": "2.6833",
+    "id": "1204458286"
+  },
+  {
+    "city": "Lanta",
+    "city_ascii": "Lanta",
+    "admin_name": "Couffo",
+    "lat": "7.1000",
+    "lng": "1.8667",
+    "id": "1204662871"
+  },
+  {
+    "city": "Dodji-Bata",
+    "city_ascii": "Dodji-Bata",
+    "admin_name": "Atlantique",
+    "lat": "6.6833",
+    "lng": "2.2833",
+    "id": "1204452596"
+  },
+  {
+    "city": "Ouédémè",
+    "city_ascii": "Ouedeme",
+    "admin_name": "Couffo",
+    "lat": "6.7000",
+    "lng": "1.6833",
+    "id": "1204584039"
+  },
+  {
+    "city": "Adjido",
+    "city_ascii": "Adjido",
+    "admin_name": "Zou",
+    "lat": "7.0333",
+    "lng": "1.9833",
+    "id": "1204261939"
+  },
+  {
+    "city": "Akpassi",
+    "city_ascii": "Akpassi",
+    "admin_name": "Collines",
+    "lat": "8.4500",
+    "lng": "1.8833",
+    "id": "1204094346"
+  },
+  {
+    "city": "Takouta",
+    "city_ascii": "Takouta",
+    "admin_name": "Atacora",
+    "lat": "10.3000",
+    "lng": "1.2000",
+    "id": "1204727932"
+  },
+  {
+    "city": "Mousoulou",
+    "city_ascii": "Mousoulou",
+    "admin_name": "Zou",
+    "lat": "7.3899",
+    "lng": "1.9367",
+    "id": "1204568655"
+  },
+  {
+    "city": "Igana",
+    "city_ascii": "Igana",
+    "admin_name": "Plateau",
+    "lat": "7.0333",
+    "lng": "2.7000",
+    "id": "1204917317"
+  },
+  {
+    "city": "Ouando",
+    "city_ascii": "Ouando",
+    "admin_name": "Ouémé",
+    "lat": "6.5542",
+    "lng": "2.6616",
+    "id": "1204175156"
+  },
+  {
+    "city": "Avabodji",
+    "city_ascii": "Avabodji",
+    "admin_name": "Ouémé",
+    "lat": "6.4533",
+    "lng": "2.5275",
+    "id": "1204918574"
+  },
+  {
+    "city": "Adjarra",
+    "city_ascii": "Adjarra",
+    "admin_name": "Atlantique",
+    "lat": "6.5333",
+    "lng": "2.2667",
+    "id": "1204162479"
+  },
+  {
+    "city": "Dékanmé",
+    "city_ascii": "Dekanme",
+    "admin_name": "Zou",
+    "lat": "7.1333",
+    "lng": "1.9667",
+    "id": "1204694695"
+  },
+  {
+    "city": "Locogahoué",
+    "city_ascii": "Locogahoue",
+    "admin_name": "Couffo",
+    "lat": "6.8000",
+    "lng": "1.7830",
+    "id": "1204156851"
+  },
+  {
+    "city": "Sèmèrè",
+    "city_ascii": "Semere",
+    "admin_name": "Donga",
+    "lat": "9.6268",
+    "lng": "1.4515",
+    "id": "1204987964"
+  },
+  {
+    "city": "Tanmpègré",
+    "city_ascii": "Tanmpegre",
+    "admin_name": "Atacora",
+    "lat": "10.4800",
+    "lng": "1.4500",
+    "id": "1204794902"
+  },
+  {
+    "city": "Dogbo",
+    "city_ascii": "Dogbo",
+    "admin_name": "Couffo",
+    "lat": "6.8167",
+    "lng": "1.7833",
+    "id": "1204497206"
+  }
+]

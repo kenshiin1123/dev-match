@@ -1,0 +1,362 @@
+[
+  {
+    "city": "Khartoum",
+    "city_ascii": "Khartoum",
+    "admin_name": "Khartoum",
+    "lat": "15.6031",
+    "lng": "32.5265",
+    "id": "1729268475"
+  },
+  {
+    "city": "Omdurman",
+    "city_ascii": "Omdurman",
+    "admin_name": "Khartoum",
+    "lat": "15.6835",
+    "lng": "32.4629",
+    "id": "1729912179"
+  },
+  {
+    "city": "Khartoum North",
+    "city_ascii": "Khartoum North",
+    "admin_name": "Khartoum",
+    "lat": "15.6333",
+    "lng": "32.6333",
+    "id": "1729318628"
+  },
+  {
+    "city": "Port Sudan",
+    "city_ascii": "Port Sudan",
+    "admin_name": "Red Sea",
+    "lat": "19.6158",
+    "lng": "37.2164",
+    "id": "1729710259"
+  },
+  {
+    "city": "El Geneina",
+    "city_ascii": "El Geneina",
+    "admin_name": "West Darfur",
+    "lat": "13.4500",
+    "lng": "22.4400",
+    "id": "1729642412"
+  },
+  {
+    "city": "Kassala",
+    "city_ascii": "Kassala",
+    "admin_name": "Kassala",
+    "lat": "15.4500",
+    "lng": "36.4000",
+    "id": "1729157224"
+  },
+  {
+    "city": "El Fasher",
+    "city_ascii": "El Fasher",
+    "admin_name": "North Darfur",
+    "lat": "13.6300",
+    "lng": "25.3500",
+    "id": "1729372385"
+  },
+  {
+    "city": "Nyala",
+    "city_ascii": "Nyala",
+    "admin_name": "South Darfur",
+    "lat": "12.0500",
+    "lng": "24.8833",
+    "id": "1729833248"
+  },
+  {
+    "city": "El Obeid",
+    "city_ascii": "El Obeid",
+    "admin_name": "North Kordofan",
+    "lat": "13.1833",
+    "lng": "30.2167",
+    "id": "1729215531"
+  },
+  {
+    "city": "Gedaref",
+    "city_ascii": "Gedaref",
+    "admin_name": "Gedaref",
+    "lat": "14.0333",
+    "lng": "35.3833",
+    "id": "1729215057"
+  },
+  {
+    "city": "Wad Medani",
+    "city_ascii": "Wad Medani",
+    "admin_name": "Gezira",
+    "lat": "14.4000",
+    "lng": "33.5100",
+    "id": "1729581572"
+  },
+  {
+    "city": "Kūstī",
+    "city_ascii": "Kusti",
+    "admin_name": "White Nile",
+    "lat": "13.1700",
+    "lng": "32.6600",
+    "id": "1729229371"
+  },
+  {
+    "city": "Ed Daein",
+    "city_ascii": "Ed Daein",
+    "admin_name": "East Darfur",
+    "lat": "11.4672",
+    "lng": "26.1317",
+    "id": "1729512354"
+  },
+  {
+    "city": "Singa",
+    "city_ascii": "Singa",
+    "admin_name": "Sennar",
+    "lat": "13.1483",
+    "lng": "33.9311",
+    "id": "1729951108"
+  },
+  {
+    "city": "Kurmuk",
+    "city_ascii": "Kurmuk",
+    "admin_name": "Blue Nile",
+    "lat": "10.5563",
+    "lng": "34.2848",
+    "id": "1729180375"
+  },
+  {
+    "city": "Ar Ruseris",
+    "city_ascii": "Ar Ruseris",
+    "admin_name": "Blue Nile",
+    "lat": "11.8633",
+    "lng": "34.3877",
+    "id": "1729614147"
+  },
+  {
+    "city": "Ed Damazin",
+    "city_ascii": "Ed Damazin",
+    "admin_name": "Blue Nile",
+    "lat": "11.7704",
+    "lng": "34.3500",
+    "id": "1729684147"
+  },
+  {
+    "city": "Al Manāqil",
+    "city_ascii": "Al Manaqil",
+    "admin_name": "Gezira",
+    "lat": "14.2504",
+    "lng": "32.9800",
+    "id": "1729742500"
+  },
+  {
+    "city": "Sannār",
+    "city_ascii": "Sannar",
+    "admin_name": "Sennar",
+    "lat": "13.5500",
+    "lng": "33.6000",
+    "id": "1729986512"
+  },
+  {
+    "city": "Atbara",
+    "city_ascii": "Atbara",
+    "admin_name": "River Nile",
+    "lat": "17.7167",
+    "lng": "33.9833",
+    "id": "1729042522"
+  },
+  {
+    "city": "Ed Damer",
+    "city_ascii": "Ed Damer",
+    "admin_name": "River Nile",
+    "lat": "17.5900",
+    "lng": "33.9600",
+    "id": "1729791168"
+  },
+  {
+    "city": "An Nuhūd",
+    "city_ascii": "An Nuhud",
+    "admin_name": "West Kordofan",
+    "lat": "12.6904",
+    "lng": "28.4200",
+    "id": "1729223651"
+  },
+  {
+    "city": "Kadugli",
+    "city_ascii": "Kadugli",
+    "admin_name": "South Kordofan",
+    "lat": "11.0100",
+    "lng": "29.7000",
+    "id": "1729757472"
+  },
+  {
+    "city": "Ad Diwem",
+    "city_ascii": "Ad Diwem",
+    "admin_name": "White Nile",
+    "lat": "13.9904",
+    "lng": "32.3000",
+    "id": "1729364292"
+  },
+  {
+    "city": "Dongola",
+    "city_ascii": "Dongola",
+    "admin_name": "Northern",
+    "lat": "19.1769",
+    "lng": "30.4839",
+    "id": "1729300155"
+  },
+  {
+    "city": "Umm Ruwaba",
+    "city_ascii": "Umm Ruwaba",
+    "admin_name": "North Kordofan",
+    "lat": "12.9058",
+    "lng": "31.2156",
+    "id": "1729566926"
+  },
+  {
+    "city": "Shendi",
+    "city_ascii": "Shendi",
+    "admin_name": "River Nile",
+    "lat": "16.6805",
+    "lng": "33.4200",
+    "id": "1729244380"
+  },
+  {
+    "city": "Ad Dabbah",
+    "city_ascii": "Ad Dabbah",
+    "admin_name": "Northern",
+    "lat": "18.0500",
+    "lng": "30.9500",
+    "id": "1729074461"
+  },
+  {
+    "city": "Abū Ḩamad",
+    "city_ascii": "Abu Hamad",
+    "admin_name": "River Nile",
+    "lat": "19.5375",
+    "lng": "33.3275",
+    "id": "1729554381"
+  },
+  {
+    "city": "Kutum",
+    "city_ascii": "Kutum",
+    "admin_name": "North Darfur",
+    "lat": "14.2056",
+    "lng": "24.6500",
+    "id": "1729748758"
+  },
+  {
+    "city": "Sawākin",
+    "city_ascii": "Sawakin",
+    "admin_name": "Red Sea",
+    "lat": "19.1025",
+    "lng": "37.3300",
+    "id": "1729959085"
+  },
+  {
+    "city": "Tokār",
+    "city_ascii": "Tokar",
+    "admin_name": "Red Sea",
+    "lat": "18.4333",
+    "lng": "37.7333",
+    "id": "1729512860"
+  },
+  {
+    "city": "Zalingei",
+    "city_ascii": "Zalingei",
+    "admin_name": "Central Darfur",
+    "lat": "12.9092",
+    "lng": "23.4706",
+    "id": "1729805075"
+  },
+  {
+    "city": "Al Qiţena",
+    "city_ascii": "Al Qitena",
+    "admin_name": "White Nile",
+    "lat": "14.8648",
+    "lng": "32.3668",
+    "id": "1729413594"
+  },
+  {
+    "city": "Babanūsah",
+    "city_ascii": "Babanusah",
+    "admin_name": "West Kordofan",
+    "lat": "11.3334",
+    "lng": "27.8000",
+    "id": "1729601692"
+  },
+  {
+    "city": "Wādī Ḩalfā’",
+    "city_ascii": "Wadi Halfa'",
+    "admin_name": "Northern",
+    "lat": "21.8000",
+    "lng": "31.3500",
+    "id": "1729435342"
+  },
+  {
+    "city": "Berber",
+    "city_ascii": "Berber",
+    "admin_name": "River Nile",
+    "lat": "18.0170",
+    "lng": "33.9833",
+    "id": "1729960469"
+  },
+  {
+    "city": "Kuraymah",
+    "city_ascii": "Kuraymah",
+    "admin_name": "Northern",
+    "lat": "18.5500",
+    "lng": "31.8500",
+    "id": "1729460308"
+  },
+  {
+    "city": "Umm Badr",
+    "city_ascii": "Umm Badr",
+    "admin_name": "North Kordofan",
+    "lat": "14.2333",
+    "lng": "27.9500",
+    "id": "1729226320"
+  },
+  {
+    "city": "Marawī",
+    "city_ascii": "Marawi",
+    "admin_name": "Northern",
+    "lat": "18.4833",
+    "lng": "31.8167",
+    "id": "1729782394"
+  },
+  {
+    "city": "Karmah an Nuzul",
+    "city_ascii": "Karmah an Nuzul",
+    "admin_name": "Northern",
+    "lat": "19.6008",
+    "lng": "30.4097",
+    "id": "1729918529"
+  },
+  {
+    "city": "Haya",
+    "city_ascii": "Haya",
+    "admin_name": "Red Sea",
+    "lat": "18.3461",
+    "lng": "36.3969",
+    "id": "1729440799"
+  },
+  {
+    "city": "Rabak",
+    "city_ascii": "Rabak",
+    "admin_name": "White Nile",
+    "lat": "13.1880",
+    "lng": "32.7437",
+    "id": "1729452233"
+  },
+  {
+    "city": "Al Mijlad",
+    "city_ascii": "Al Mijlad",
+    "admin_name": "West Kordofan",
+    "lat": "11.0337",
+    "lng": "27.7333",
+    "id": "1729768355"
+  },
+  {
+    "city": "El Fula",
+    "city_ascii": "El Fula",
+    "admin_name": "West Kordofan",
+    "lat": "11.7120",
+    "lng": "28.3462",
+    "id": "1729946051"
+  }
+]

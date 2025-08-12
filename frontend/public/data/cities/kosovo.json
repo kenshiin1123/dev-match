@@ -1,0 +1,330 @@
+[
+  {
+    "city": "Prizren",
+    "city_ascii": "Prizren",
+    "admin_name": "Prizren",
+    "lat": "42.2139",
+    "lng": "20.7397",
+    "id": "1901360309"
+  },
+  {
+    "city": "Pristina",
+    "city_ascii": "Pristina",
+    "admin_name": "Prishtinë",
+    "lat": "42.6666",
+    "lng": "21.1724",
+    "id": "1901760068"
+  },
+  {
+    "city": "Ferizaj",
+    "city_ascii": "Ferizaj",
+    "admin_name": "Ferizaj",
+    "lat": "42.3706",
+    "lng": "21.1553",
+    "id": "1901875540"
+  },
+  {
+    "city": "Pejë",
+    "city_ascii": "Peje",
+    "admin_name": "Pejë",
+    "lat": "42.6600",
+    "lng": "20.2922",
+    "id": "1901339694"
+  },
+  {
+    "city": "Gjakovë",
+    "city_ascii": "Gjakove",
+    "admin_name": "Gjakovë",
+    "lat": "42.3803",
+    "lng": "20.4308",
+    "id": "1901089874"
+  },
+  {
+    "city": "Gjilan",
+    "city_ascii": "Gjilan",
+    "admin_name": "Gjilan",
+    "lat": "42.4689",
+    "lng": "21.4633",
+    "id": "1901235642"
+  },
+  {
+    "city": "Podujevë",
+    "city_ascii": "Podujeve",
+    "admin_name": "Podujevë",
+    "lat": "42.9111",
+    "lng": "21.1899",
+    "id": "1901550082"
+  },
+  {
+    "city": "Mitrovicë",
+    "city_ascii": "Mitrovice",
+    "admin_name": "",
+    "lat": "42.8833",
+    "lng": "20.8667",
+    "id": "1901138430"
+  },
+  {
+    "city": "Lipjan",
+    "city_ascii": "Lipjan",
+    "admin_name": "Lipjan",
+    "lat": "42.5217",
+    "lng": "21.1258",
+    "id": "1901682048"
+  },
+  {
+    "city": "Vushtrri",
+    "city_ascii": "Vushtrri",
+    "admin_name": "Vushtrri",
+    "lat": "42.8231",
+    "lng": "20.9675",
+    "id": "1901107642"
+  },
+  {
+    "city": "Suharekë",
+    "city_ascii": "Suhareke",
+    "admin_name": "Suharekë",
+    "lat": "42.3586",
+    "lng": "20.8250",
+    "id": "1901918563"
+  },
+  {
+    "city": "Gllogovc",
+    "city_ascii": "Gllogovc",
+    "admin_name": "Gllogovc",
+    "lat": "42.6283",
+    "lng": "20.8939",
+    "id": "1901031751"
+  },
+  {
+    "city": "Rahovec",
+    "city_ascii": "Rahovec",
+    "admin_name": "Rahovec",
+    "lat": "42.3994",
+    "lng": "20.6547",
+    "id": "1901336358"
+  },
+  {
+    "city": "Skenderaj",
+    "city_ascii": "Skenderaj",
+    "admin_name": "Skenderaj",
+    "lat": "42.7467",
+    "lng": "20.7886",
+    "id": "1901259570"
+  },
+  {
+    "city": "Viti",
+    "city_ascii": "Viti",
+    "admin_name": "Viti",
+    "lat": "42.3214",
+    "lng": "21.3583",
+    "id": "1901328795"
+  },
+  {
+    "city": "Fushë Kosovë",
+    "city_ascii": "Fushe Kosove",
+    "admin_name": "Fushë Kosovë",
+    "lat": "42.6639",
+    "lng": "21.0961",
+    "id": "1901134407"
+  },
+  {
+    "city": "Istog",
+    "city_ascii": "Istog",
+    "admin_name": "Istog",
+    "lat": "42.7808",
+    "lng": "20.4875",
+    "id": "1901248770"
+  },
+  {
+    "city": "Klinë",
+    "city_ascii": "Kline",
+    "admin_name": "Klinë",
+    "lat": "42.6217",
+    "lng": "20.5778",
+    "id": "1901230162"
+  },
+  {
+    "city": "Kamenicë",
+    "city_ascii": "Kamenice",
+    "admin_name": "Kamenicë",
+    "lat": "42.5781",
+    "lng": "21.5803",
+    "id": "1901851592"
+  },
+  {
+    "city": "Dragash",
+    "city_ascii": "Dragash",
+    "admin_name": "Dragash",
+    "lat": "42.0265",
+    "lng": "20.6533",
+    "id": "1901112530"
+  },
+  {
+    "city": "Kaçanik",
+    "city_ascii": "Kacanik",
+    "admin_name": "Kaçanik",
+    "lat": "42.2319",
+    "lng": "21.2594",
+    "id": "1901200321"
+  },
+  {
+    "city": "Shtime",
+    "city_ascii": "Shtime",
+    "admin_name": "Shtime",
+    "lat": "42.4331",
+    "lng": "21.0397",
+    "id": "1901598505"
+  },
+  {
+    "city": "Leposaviq",
+    "city_ascii": "Leposaviq",
+    "admin_name": "Leposaviq",
+    "lat": "43.1039",
+    "lng": "20.8028",
+    "id": "1901974597"
+  },
+  {
+    "city": "Zveçan",
+    "city_ascii": "Zvecan",
+    "admin_name": "Zveçan",
+    "lat": "42.9075",
+    "lng": "20.8403",
+    "id": "1901208362"
+  },
+  {
+    "city": "Zubin Potok",
+    "city_ascii": "Zubin Potok",
+    "admin_name": "Zubin Potok",
+    "lat": "42.9144",
+    "lng": "20.6897",
+    "id": "1901608808"
+  },
+  {
+    "city": "Vitomiricë",
+    "city_ascii": "Vitomirice",
+    "admin_name": "Pejë",
+    "lat": "42.6950",
+    "lng": "20.3386",
+    "id": "1901482786"
+  },
+  {
+    "city": "Matiçan",
+    "city_ascii": "Matican",
+    "admin_name": "Prishtinë",
+    "lat": "42.6456",
+    "lng": "21.1983",
+    "id": "1901916938"
+  },
+  {
+    "city": "Shtërpcë",
+    "city_ascii": "Shterpce",
+    "admin_name": "Shtërpcë",
+    "lat": "42.2394",
+    "lng": "21.0272",
+    "id": "1901828239"
+  },
+  {
+    "city": "Graçanicë",
+    "city_ascii": "Gracanice",
+    "admin_name": "Graçanicë",
+    "lat": "42.6011",
+    "lng": "21.1958",
+    "id": "1901753443"
+  },
+  {
+    "city": "Hani i Elezit",
+    "city_ascii": "Hani i Elezit",
+    "admin_name": "Hani i Elezit",
+    "lat": "42.1500",
+    "lng": "21.2967",
+    "id": "1901964789"
+  },
+  {
+    "city": "Dushanovë",
+    "city_ascii": "Dushanove",
+    "admin_name": "Prizren",
+    "lat": "42.2317",
+    "lng": "20.7197",
+    "id": "1901150015"
+  },
+  {
+    "city": "Zhur",
+    "city_ascii": "Zhur",
+    "admin_name": "Prizren",
+    "lat": "42.1639",
+    "lng": "20.6211",
+    "id": "1901520274"
+  },
+  {
+    "city": "Novobërdë",
+    "city_ascii": "Novoberde",
+    "admin_name": "Novobërdë",
+    "lat": "42.6178",
+    "lng": "21.4197",
+    "id": "1901684676"
+  },
+  {
+    "city": "Obiliq",
+    "city_ascii": "Obiliq",
+    "admin_name": "Obiliq",
+    "lat": "42.6869",
+    "lng": "21.0703",
+    "id": "1901102771"
+  },
+  {
+    "city": "Junik",
+    "city_ascii": "Junik",
+    "admin_name": "Junik",
+    "lat": "42.4758",
+    "lng": "20.2772",
+    "id": "1901930204"
+  },
+  {
+    "city": "Ranillug",
+    "city_ascii": "Ranillug",
+    "admin_name": "Ranillug",
+    "lat": "42.4922",
+    "lng": "21.5989",
+    "id": "1901029901"
+  },
+  {
+    "city": "Mamushë",
+    "city_ascii": "Mamushe",
+    "admin_name": "Mamushë",
+    "lat": "42.3308",
+    "lng": "20.7269",
+    "id": "1901042958"
+  },
+  {
+    "city": "Deçan",
+    "city_ascii": "Decan",
+    "admin_name": "Deçan",
+    "lat": "42.5378",
+    "lng": "20.2911",
+    "id": "1901189818"
+  },
+  {
+    "city": "Malishevë",
+    "city_ascii": "Malisheve",
+    "admin_name": "Malishevë",
+    "lat": "42.4822",
+    "lng": "20.7458",
+    "id": "1901597212"
+  },
+  {
+    "city": "Kllokot",
+    "city_ascii": "Kllokot",
+    "admin_name": "Kllokot",
+    "lat": "42.3714",
+    "lng": "21.3744",
+    "id": "1901445768"
+  },
+  {
+    "city": "Partesh",
+    "city_ascii": "Partesh",
+    "admin_name": "Partesh",
+    "lat": "42.4019",
+    "lng": "21.4336",
+    "id": "1901909986"
+  }
+]

@@ -1,0 +1,2546 @@
+[
+  {
+    "city": "Guatemala City",
+    "city_ascii": "Guatemala City",
+    "admin_name": "Guatemala",
+    "lat": "14.6417",
+    "lng": "-90.5133",
+    "id": "1320197916"
+  },
+  {
+    "city": "Mixco",
+    "city_ascii": "Mixco",
+    "admin_name": "Guatemala",
+    "lat": "14.6331",
+    "lng": "-90.6064",
+    "id": "1320420152"
+  },
+  {
+    "city": "Villa Nueva",
+    "city_ascii": "Villa Nueva",
+    "admin_name": "Guatemala",
+    "lat": "14.5269",
+    "lng": "-90.5875",
+    "id": "1320353009"
+  },
+  {
+    "city": "San Juan Sacatepéquez",
+    "city_ascii": "San Juan Sacatepequez",
+    "admin_name": "Guatemala",
+    "lat": "14.7189",
+    "lng": "-90.6442",
+    "id": "1320451247"
+  },
+  {
+    "city": "San Pedro Carchá",
+    "city_ascii": "San Pedro Carcha",
+    "admin_name": "Alta Verapaz",
+    "lat": "15.4667",
+    "lng": "-90.3000",
+    "id": "1320220558"
+  },
+  {
+    "city": "Cobán",
+    "city_ascii": "Coban",
+    "admin_name": "Alta Verapaz",
+    "lat": "15.4833",
+    "lng": "-90.3667",
+    "id": "1320020813"
+  },
+  {
+    "city": "Quetzaltenango",
+    "city_ascii": "Quetzaltenango",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.8333",
+    "lng": "-91.5167",
+    "id": "1320083599"
+  },
+  {
+    "city": "Jalapa",
+    "city_ascii": "Jalapa",
+    "admin_name": "Jalapa",
+    "lat": "14.6333",
+    "lng": "-89.9833",
+    "id": "1320108089"
+  },
+  {
+    "city": "Escuintla",
+    "city_ascii": "Escuintla",
+    "admin_name": "Escuintla",
+    "lat": "14.2978",
+    "lng": "-90.7869",
+    "id": "1320838903"
+  },
+  {
+    "city": "Villa Canales",
+    "city_ascii": "Villa Canales",
+    "admin_name": "Guatemala",
+    "lat": "14.4833",
+    "lng": "-90.5333",
+    "id": "1320213771"
+  },
+  {
+    "city": "Jutiapa",
+    "city_ascii": "Jutiapa",
+    "admin_name": "Jutiapa",
+    "lat": "14.2828",
+    "lng": "-89.8925",
+    "id": "1320264119"
+  },
+  {
+    "city": "Amatitlán",
+    "city_ascii": "Amatitlan",
+    "admin_name": "Guatemala",
+    "lat": "14.4833",
+    "lng": "-90.6167",
+    "id": "1320637423"
+  },
+  {
+    "city": "Chichicastenango",
+    "city_ascii": "Chichicastenango",
+    "admin_name": "Quiché",
+    "lat": "14.9333",
+    "lng": "-91.1167",
+    "id": "1320948769"
+  },
+  {
+    "city": "Momostenango",
+    "city_ascii": "Momostenango",
+    "admin_name": "Totonicapán",
+    "lat": "15.0000",
+    "lng": "2.0000",
+    "id": "1320482609"
+  },
+  {
+    "city": "Huehuetenango",
+    "city_ascii": "Huehuetenango",
+    "admin_name": "Huehuetenango",
+    "lat": "15.3147",
+    "lng": "-91.4761",
+    "id": "1320742269"
+  },
+  {
+    "city": "Petapa",
+    "city_ascii": "Petapa",
+    "admin_name": "Guatemala",
+    "lat": "14.5000",
+    "lng": "-90.5667",
+    "id": "1320957558"
+  },
+  {
+    "city": "Santa Lucía Cotzumalguapa",
+    "city_ascii": "Santa Lucia Cotzumalguapa",
+    "admin_name": "Escuintla",
+    "lat": "14.3500",
+    "lng": "-91.0167",
+    "id": "1320110674"
+  },
+  {
+    "city": "Chinautla",
+    "city_ascii": "Chinautla",
+    "admin_name": "Guatemala",
+    "lat": "14.7000",
+    "lng": "-90.5000",
+    "id": "1320450064"
+  },
+  {
+    "city": "Coatepeque",
+    "city_ascii": "Coatepeque",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.7000",
+    "lng": "-91.8667",
+    "id": "1320672314"
+  },
+  {
+    "city": "Totonicapán",
+    "city_ascii": "Totonicapan",
+    "admin_name": "Totonicapán",
+    "lat": "14.9108",
+    "lng": "-91.3606",
+    "id": "1320223386"
+  },
+  {
+    "city": "Chimaltenango",
+    "city_ascii": "Chimaltenango",
+    "admin_name": "Chimaltenango",
+    "lat": "14.6622",
+    "lng": "-90.8208",
+    "id": "1320147012"
+  },
+  {
+    "city": "Tecpán Guatemala",
+    "city_ascii": "Tecpan Guatemala",
+    "admin_name": "Chimaltenango",
+    "lat": "14.7667",
+    "lng": "-91.0000",
+    "id": "1320835574"
+  },
+  {
+    "city": "Pochuta",
+    "city_ascii": "Pochuta",
+    "admin_name": "Chimaltenango",
+    "lat": "14.5450",
+    "lng": "-91.0889",
+    "id": "1320115832"
+  },
+  {
+    "city": "Chiquimula",
+    "city_ascii": "Chiquimula",
+    "admin_name": "Chiquimula",
+    "lat": "14.7833",
+    "lng": "-89.5333",
+    "id": "1320041079"
+  },
+  {
+    "city": "Puerto Barrios",
+    "city_ascii": "Puerto Barrios",
+    "admin_name": "Izabal",
+    "lat": "15.7133",
+    "lng": "-88.5899",
+    "id": "1320517532"
+  },
+  {
+    "city": "Retalhuleu",
+    "city_ascii": "Retalhuleu",
+    "admin_name": "Retalhuleu",
+    "lat": "14.5333",
+    "lng": "-91.6833",
+    "id": "1320999503"
+  },
+  {
+    "city": "Malacatán",
+    "city_ascii": "Malacatan",
+    "admin_name": "San Marcos",
+    "lat": "14.9000",
+    "lng": "-92.0497",
+    "id": "1320759841"
+  },
+  {
+    "city": "Joyabaj",
+    "city_ascii": "Joyabaj",
+    "admin_name": "Quiché",
+    "lat": "14.9950",
+    "lng": "-90.8075",
+    "id": "1320625420"
+  },
+  {
+    "city": "Morales",
+    "city_ascii": "Morales",
+    "admin_name": "Izabal",
+    "lat": "15.4725",
+    "lng": "-88.8414",
+    "id": "1320701049"
+  },
+  {
+    "city": "Sololá",
+    "city_ascii": "Solola",
+    "admin_name": "Sololá",
+    "lat": "14.7667",
+    "lng": "-91.1833",
+    "id": "1320747500"
+  },
+  {
+    "city": "Sayaxché",
+    "city_ascii": "Sayaxche",
+    "admin_name": "Petén",
+    "lat": "16.5167",
+    "lng": "-90.1833",
+    "id": "1320897653"
+  },
+  {
+    "city": "Santa Cruz del Quiché",
+    "city_ascii": "Santa Cruz del Quiche",
+    "admin_name": "Quiché",
+    "lat": "15.0300",
+    "lng": "-91.1500",
+    "id": "1320642159"
+  },
+  {
+    "city": "Senahú",
+    "city_ascii": "Senahu",
+    "admin_name": "Alta Verapaz",
+    "lat": "15.4164",
+    "lng": "-89.8203",
+    "id": "1320727854"
+  },
+  {
+    "city": "San Martín Jilotepeque",
+    "city_ascii": "San Martin Jilotepeque",
+    "admin_name": "Chimaltenango",
+    "lat": "14.7833",
+    "lng": "-90.8000",
+    "id": "1320611842"
+  },
+  {
+    "city": "Chiantla",
+    "city_ascii": "Chiantla",
+    "admin_name": "Huehuetenango",
+    "lat": "15.3500",
+    "lng": "-91.4500",
+    "id": "1320904799"
+  },
+  {
+    "city": "San José Pinula",
+    "city_ascii": "San Jose Pinula",
+    "admin_name": "Guatemala",
+    "lat": "14.5500",
+    "lng": "-90.4167",
+    "id": "1320568537"
+  },
+  {
+    "city": "Santa Catarina Pinula",
+    "city_ascii": "Santa Catarina Pinula",
+    "admin_name": "Guatemala",
+    "lat": "14.5667",
+    "lng": "-90.5000",
+    "id": "1320763146"
+  },
+  {
+    "city": "Nahualá",
+    "city_ascii": "Nahuala",
+    "admin_name": "Sololá",
+    "lat": "14.8500",
+    "lng": "-91.3167",
+    "id": "1320452965"
+  },
+  {
+    "city": "La Libertad",
+    "city_ascii": "La Libertad",
+    "admin_name": "Petén",
+    "lat": "16.7861",
+    "lng": "-90.1167",
+    "id": "1320389989"
+  },
+  {
+    "city": "San Pedro Sacatepéquez",
+    "city_ascii": "San Pedro Sacatepequez",
+    "admin_name": "San Marcos",
+    "lat": "14.9667",
+    "lng": "-91.7667",
+    "id": "1320463364"
+  },
+  {
+    "city": "Concepción Tutuapa",
+    "city_ascii": "Concepcion Tutuapa",
+    "admin_name": "San Marcos",
+    "lat": "15.2833",
+    "lng": "-91.7833",
+    "id": "1320051048"
+  },
+  {
+    "city": "Mazatenango",
+    "city_ascii": "Mazatenango",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.5333",
+    "lng": "-91.5000",
+    "id": "1320123250"
+  },
+  {
+    "city": "El Estor",
+    "city_ascii": "El Estor",
+    "admin_name": "Izabal",
+    "lat": "15.5333",
+    "lng": "-89.3500",
+    "id": "1320745698"
+  },
+  {
+    "city": "Nueva Concepción",
+    "city_ascii": "Nueva Concepcion",
+    "admin_name": "Escuintla",
+    "lat": "14.1997",
+    "lng": "-91.2997",
+    "id": "1320214238"
+  },
+  {
+    "city": "Tacaná",
+    "city_ascii": "Tacana",
+    "admin_name": "San Marcos",
+    "lat": "15.2414",
+    "lng": "-92.0683",
+    "id": "1320608933"
+  },
+  {
+    "city": "Panzos",
+    "city_ascii": "Panzos",
+    "admin_name": "Alta Verapaz",
+    "lat": "15.4000",
+    "lng": "-89.6667",
+    "id": "1320362247"
+  },
+  {
+    "city": "San Cristóbal Verapaz",
+    "city_ascii": "San Cristobal Verapaz",
+    "admin_name": "Alta Verapaz",
+    "lat": "15.3650",
+    "lng": "-90.4792",
+    "id": "1320384406"
+  },
+  {
+    "city": "Comitancillo",
+    "city_ascii": "Comitancillo",
+    "admin_name": "San Marcos",
+    "lat": "15.0833",
+    "lng": "-91.7167",
+    "id": "1320980243"
+  },
+  {
+    "city": "Lívingston",
+    "city_ascii": "Livingston",
+    "admin_name": "Izabal",
+    "lat": "15.8300",
+    "lng": "-88.7500",
+    "id": "1320970605"
+  },
+  {
+    "city": "San Pedro Pinula",
+    "city_ascii": "San Pedro Pinula",
+    "admin_name": "Jalapa",
+    "lat": "14.6667",
+    "lng": "-89.8500",
+    "id": "1320622602"
+  },
+  {
+    "city": "Fray Bartolomé de Las Casas",
+    "city_ascii": "Fray Bartolome de Las Casas",
+    "admin_name": "Alta Verapaz",
+    "lat": "15.8456",
+    "lng": "-89.8658",
+    "id": "1320227536"
+  },
+  {
+    "city": "San Luis",
+    "city_ascii": "San Luis",
+    "admin_name": "Petén",
+    "lat": "16.1989",
+    "lng": "-89.4403",
+    "id": "1320642245"
+  },
+  {
+    "city": "Jocotán",
+    "city_ascii": "Jocotan",
+    "admin_name": "Chiquimula",
+    "lat": "14.8167",
+    "lng": "-89.3833",
+    "id": "1320875548"
+  },
+  {
+    "city": "Palencia",
+    "city_ascii": "Palencia",
+    "admin_name": "Guatemala",
+    "lat": "14.6667",
+    "lng": "-90.3667",
+    "id": "1320202368"
+  },
+  {
+    "city": "Uspantán",
+    "city_ascii": "Uspantan",
+    "admin_name": "Quiché",
+    "lat": "15.3458",
+    "lng": "-90.8694",
+    "id": "1320948711"
+  },
+  {
+    "city": "Palín",
+    "city_ascii": "Palin",
+    "admin_name": "Escuintla",
+    "lat": "14.4039",
+    "lng": "-90.6986",
+    "id": "1320669279"
+  },
+  {
+    "city": "Patzún",
+    "city_ascii": "Patzun",
+    "admin_name": "Chimaltenango",
+    "lat": "14.6833",
+    "lng": "-91.0167",
+    "id": "1320400081"
+  },
+  {
+    "city": "Salamá",
+    "city_ascii": "Salama",
+    "admin_name": "Baja Verapaz",
+    "lat": "15.1000",
+    "lng": "-90.2667",
+    "id": "1320223205"
+  },
+  {
+    "city": "Santa María La Pila",
+    "city_ascii": "Santa Maria La Pila",
+    "admin_name": "Alta Verapaz",
+    "lat": "15.6056",
+    "lng": "-89.8125",
+    "id": "1320008740"
+  },
+  {
+    "city": "Poptún",
+    "city_ascii": "Poptun",
+    "admin_name": "Petén",
+    "lat": "16.3222",
+    "lng": "-89.4222",
+    "id": "1320738240"
+  },
+  {
+    "city": "Chisec",
+    "city_ascii": "Chisec",
+    "admin_name": "Alta Verapaz",
+    "lat": "15.8125",
+    "lng": "-90.3217",
+    "id": "1320378643"
+  },
+  {
+    "city": "Puerto San José",
+    "city_ascii": "Puerto San Jose",
+    "admin_name": "Escuintla",
+    "lat": "13.9333",
+    "lng": "-90.8167",
+    "id": "1320016478"
+  },
+  {
+    "city": "San Pedro Ayampuc",
+    "city_ascii": "San Pedro Ayampuc",
+    "admin_name": "Guatemala",
+    "lat": "14.7833",
+    "lng": "-90.4500",
+    "id": "1320976684"
+  },
+  {
+    "city": "Chicacao",
+    "city_ascii": "Chicacao",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.5333",
+    "lng": "-91.3167",
+    "id": "1320018206"
+  },
+  {
+    "city": "Cuilco",
+    "city_ascii": "Cuilco",
+    "admin_name": "Huehuetenango",
+    "lat": "15.4000",
+    "lng": "-91.9667",
+    "id": "1320503377"
+  },
+  {
+    "city": "Zacapa",
+    "city_ascii": "Zacapa",
+    "admin_name": "Zacapa",
+    "lat": "14.9667",
+    "lng": "-89.5333",
+    "id": "1320977472"
+  },
+  {
+    "city": "San Francisco El Alto",
+    "city_ascii": "San Francisco El Alto",
+    "admin_name": "Totonicapán",
+    "lat": "14.9500",
+    "lng": "-91.4500",
+    "id": "1320250670"
+  },
+  {
+    "city": "San Antonio Suchitepéquez",
+    "city_ascii": "San Antonio Suchitepequez",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.5333",
+    "lng": "-91.4167",
+    "id": "1320180712"
+  },
+  {
+    "city": "Los Amates",
+    "city_ascii": "Los Amates",
+    "admin_name": "Izabal",
+    "lat": "15.2667",
+    "lng": "-89.1000",
+    "id": "1320690487"
+  },
+  {
+    "city": "Purulhá",
+    "city_ascii": "Purulha",
+    "admin_name": "Baja Verapaz",
+    "lat": "15.2667",
+    "lng": "-90.2000",
+    "id": "1320914723"
+  },
+  {
+    "city": "Chiquimulilla",
+    "city_ascii": "Chiquimulilla",
+    "admin_name": "Santa Rosa",
+    "lat": "14.0833",
+    "lng": "-90.3833",
+    "id": "1320719368"
+  },
+  {
+    "city": "Soloma",
+    "city_ascii": "Soloma",
+    "admin_name": "Huehuetenango",
+    "lat": "15.7167",
+    "lng": "-91.4500",
+    "id": "1320272967"
+  },
+  {
+    "city": "Tiquisate",
+    "city_ascii": "Tiquisate",
+    "admin_name": "Escuintla",
+    "lat": "14.2833",
+    "lng": "-91.3667",
+    "id": "1320708461"
+  },
+  {
+    "city": "Fraijanes",
+    "city_ascii": "Fraijanes",
+    "admin_name": "Guatemala",
+    "lat": "14.4667",
+    "lng": "-90.4333",
+    "id": "1320070590"
+  },
+  {
+    "city": "Tajumulco",
+    "city_ascii": "Tajumulco",
+    "admin_name": "San Marcos",
+    "lat": "15.0833",
+    "lng": "-91.8833",
+    "id": "1320562305"
+  },
+  {
+    "city": "Camotán",
+    "city_ascii": "Camotan",
+    "admin_name": "Chiquimula",
+    "lat": "14.8167",
+    "lng": "-89.3817",
+    "id": "1320004485"
+  },
+  {
+    "city": "San Juan Chamelco",
+    "city_ascii": "San Juan Chamelco",
+    "admin_name": "Alta Verapaz",
+    "lat": "15.4257",
+    "lng": "-90.3263",
+    "id": "1320919361"
+  },
+  {
+    "city": "Ostuncalco",
+    "city_ascii": "Ostuncalco",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.8667",
+    "lng": "-91.6167",
+    "id": "1320940734"
+  },
+  {
+    "city": "La Democracia",
+    "city_ascii": "La Democracia",
+    "admin_name": "Huehuetenango",
+    "lat": "15.6333",
+    "lng": "-91.8667",
+    "id": "1320454944"
+  },
+  {
+    "city": "Santa Catarina Ixtahuacán",
+    "city_ascii": "Santa Catarina Ixtahuacan",
+    "admin_name": "Sololá",
+    "lat": "14.8000",
+    "lng": "-91.3667",
+    "id": "1320474320"
+  },
+  {
+    "city": "Barberena",
+    "city_ascii": "Barberena",
+    "admin_name": "Santa Rosa",
+    "lat": "14.3167",
+    "lng": "-90.3667",
+    "id": "1320951727"
+  },
+  {
+    "city": "Cubulco",
+    "city_ascii": "Cubulco",
+    "admin_name": "Baja Verapaz",
+    "lat": "15.1083",
+    "lng": "-90.6306",
+    "id": "1320016070"
+  },
+  {
+    "city": "San Mateo Ixtatán",
+    "city_ascii": "San Mateo Ixtatan",
+    "admin_name": "Huehuetenango",
+    "lat": "15.8333",
+    "lng": "-91.4833",
+    "id": "1320506898"
+  },
+  {
+    "city": "Aguacatán",
+    "city_ascii": "Aguacatan",
+    "admin_name": "Huehuetenango",
+    "lat": "15.3500",
+    "lng": "-91.3167",
+    "id": "1320252531"
+  },
+  {
+    "city": "Antigua Guatemala",
+    "city_ascii": "Antigua Guatemala",
+    "admin_name": "Sacatepéquez",
+    "lat": "14.5667",
+    "lng": "-90.7333",
+    "id": "1320020808"
+  },
+  {
+    "city": "Santa María Chiquimula",
+    "city_ascii": "Santa Maria Chiquimula",
+    "admin_name": "Totonicapán",
+    "lat": "15.0292",
+    "lng": "-91.3294",
+    "id": "1320879854"
+  },
+  {
+    "city": "San Pedro Sacatepéquez",
+    "city_ascii": "San Pedro Sacatepequez",
+    "admin_name": "Guatemala",
+    "lat": "14.6833",
+    "lng": "-90.6333",
+    "id": "1320594851"
+  },
+  {
+    "city": "Ixtahuacán",
+    "city_ascii": "Ixtahuacan",
+    "admin_name": "Huehuetenango",
+    "lat": "15.4167",
+    "lng": "-91.7667",
+    "id": "1320074127"
+  },
+  {
+    "city": "Colomba",
+    "city_ascii": "Colomba",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.7167",
+    "lng": "-91.7333",
+    "id": "1320816498"
+  },
+  {
+    "city": "Esquipulas",
+    "city_ascii": "Esquipulas",
+    "admin_name": "Chiquimula",
+    "lat": "14.5667",
+    "lng": "-89.3500",
+    "id": "1320011938"
+  },
+  {
+    "city": "San Andrés Villa Seca",
+    "city_ascii": "San Andres Villa Seca",
+    "admin_name": "Retalhuleu",
+    "lat": "14.5667",
+    "lng": "-91.5833",
+    "id": "1320905434"
+  },
+  {
+    "city": "San Agustín Acasaguastlán",
+    "city_ascii": "San Agustin Acasaguastlan",
+    "admin_name": "El Progreso",
+    "lat": "14.9500",
+    "lng": "-89.9667",
+    "id": "1320288825"
+  },
+  {
+    "city": "Sacapulas",
+    "city_ascii": "Sacapulas",
+    "admin_name": "Quiché",
+    "lat": "15.2892",
+    "lng": "-91.0892",
+    "id": "1320486900"
+  },
+  {
+    "city": "San Benito",
+    "city_ascii": "San Benito",
+    "admin_name": "Petén",
+    "lat": "16.9167",
+    "lng": "-89.9000",
+    "id": "1320506543"
+  },
+  {
+    "city": "La Gomera",
+    "city_ascii": "La Gomera",
+    "admin_name": "Escuintla",
+    "lat": "14.0833",
+    "lng": "-91.0500",
+    "id": "1320383323"
+  },
+  {
+    "city": "Asunción Mita",
+    "city_ascii": "Asuncion Mita",
+    "admin_name": "Jutiapa",
+    "lat": "14.3333",
+    "lng": "-89.7167",
+    "id": "1320346897"
+  },
+  {
+    "city": "San Miguel Ixtahuacán",
+    "city_ascii": "San Miguel Ixtahuacan",
+    "admin_name": "San Marcos",
+    "lat": "15.2500",
+    "lng": "-91.7500",
+    "id": "1320896592"
+  },
+  {
+    "city": "San Pablo",
+    "city_ascii": "San Pablo",
+    "admin_name": "San Marcos",
+    "lat": "14.9333",
+    "lng": "-92.0000",
+    "id": "1320088732"
+  },
+  {
+    "city": "El Tumbador",
+    "city_ascii": "El Tumbador",
+    "admin_name": "San Marcos",
+    "lat": "14.8667",
+    "lng": "-91.9333",
+    "id": "1320000006"
+  },
+  {
+    "city": "Chajul",
+    "city_ascii": "Chajul",
+    "admin_name": "Quiché",
+    "lat": "15.4872",
+    "lng": "-91.0347",
+    "id": "1320789980"
+  },
+  {
+    "city": "Santa Eulalia",
+    "city_ascii": "Santa Eulalia",
+    "admin_name": "Huehuetenango",
+    "lat": "15.7333",
+    "lng": "-91.4586",
+    "id": "1320956110"
+  },
+  {
+    "city": "Nentón",
+    "city_ascii": "Nenton",
+    "admin_name": "Huehuetenango",
+    "lat": "15.8000",
+    "lng": "-91.7500",
+    "id": "1320745927"
+  },
+  {
+    "city": "Tucurú",
+    "city_ascii": "Tucuru",
+    "admin_name": "Alta Verapaz",
+    "lat": "15.3000",
+    "lng": "-90.0667",
+    "id": "1320241241"
+  },
+  {
+    "city": "Gualán",
+    "city_ascii": "Gualan",
+    "admin_name": "Zacapa",
+    "lat": "15.1333",
+    "lng": "-89.3667",
+    "id": "1320124337"
+  },
+  {
+    "city": "San Marcos",
+    "city_ascii": "San Marcos",
+    "admin_name": "San Marcos",
+    "lat": "14.9653",
+    "lng": "-91.7958",
+    "id": "1320960166"
+  },
+  {
+    "city": "La Libertad",
+    "city_ascii": "La Libertad",
+    "admin_name": "Huehuetenango",
+    "lat": "15.5000",
+    "lng": "-91.8333",
+    "id": "1320045134"
+  },
+  {
+    "city": "Santo Domingo Suchitepéquez",
+    "city_ascii": "Santo Domingo Suchitepequez",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.4667",
+    "lng": "-91.4833",
+    "id": "1320285516"
+  },
+  {
+    "city": "Masagua",
+    "city_ascii": "Masagua",
+    "admin_name": "Escuintla",
+    "lat": "14.2000",
+    "lng": "-90.8500",
+    "id": "1320486083"
+  },
+  {
+    "city": "Mataquescuintla",
+    "city_ascii": "Mataquescuintla",
+    "admin_name": "Jalapa",
+    "lat": "14.5336",
+    "lng": "-90.1839",
+    "id": "1320459318"
+  },
+  {
+    "city": "Cunén",
+    "city_ascii": "Cunen",
+    "admin_name": "Quiché",
+    "lat": "15.3333",
+    "lng": "-91.0333",
+    "id": "1320582365"
+  },
+  {
+    "city": "Cantel",
+    "city_ascii": "Cantel",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.8112",
+    "lng": "-91.4555",
+    "id": "1320112635"
+  },
+  {
+    "city": "Cuilapa",
+    "city_ascii": "Cuilapa",
+    "admin_name": "Santa Rosa",
+    "lat": "14.2833",
+    "lng": "-90.3000",
+    "id": "1320810416"
+  },
+  {
+    "city": "Génova",
+    "city_ascii": "Genova",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.6167",
+    "lng": "-91.8333",
+    "id": "1320204723"
+  },
+  {
+    "city": "Sumpango",
+    "city_ascii": "Sumpango",
+    "admin_name": "Sacatepéquez",
+    "lat": "14.6478",
+    "lng": "-90.7347",
+    "id": "1320583719"
+  },
+  {
+    "city": "Rabinal",
+    "city_ascii": "Rabinal",
+    "admin_name": "Baja Verapaz",
+    "lat": "15.0680",
+    "lng": "-90.4890",
+    "id": "1320817079"
+  },
+  {
+    "city": "Santiago Atitlán",
+    "city_ascii": "Santiago Atitlan",
+    "admin_name": "Sololá",
+    "lat": "14.6333",
+    "lng": "-91.2333",
+    "id": "1320947677"
+  },
+  {
+    "city": "Colotenango",
+    "city_ascii": "Colotenango",
+    "admin_name": "Huehuetenango",
+    "lat": "15.4167",
+    "lng": "-91.7167",
+    "id": "1320397198"
+  },
+  {
+    "city": "Santa Bárbara",
+    "city_ascii": "Santa Barbara",
+    "admin_name": "Huehuetenango",
+    "lat": "15.3167",
+    "lng": "-91.6167",
+    "id": "1320493010"
+  },
+  {
+    "city": "Flores",
+    "city_ascii": "Flores",
+    "admin_name": "Petén",
+    "lat": "16.9297",
+    "lng": "-89.8917",
+    "id": "1320651129"
+  },
+  {
+    "city": "Jacaltenango",
+    "city_ascii": "Jacaltenango",
+    "admin_name": "Huehuetenango",
+    "lat": "15.6667",
+    "lng": "-91.7333",
+    "id": "1320537447"
+  },
+  {
+    "city": "Tejutla",
+    "city_ascii": "Tejutla",
+    "admin_name": "San Marcos",
+    "lat": "15.1225",
+    "lng": "-91.8053",
+    "id": "1320914432"
+  },
+  {
+    "city": "El Asintal",
+    "city_ascii": "El Asintal",
+    "admin_name": "Retalhuleu",
+    "lat": "14.6000",
+    "lng": "-91.7333",
+    "id": "1320424397"
+  },
+  {
+    "city": "San Sebastián Huehuetenango",
+    "city_ascii": "San Sebastian Huehuetenango",
+    "admin_name": "Huehuetenango",
+    "lat": "15.3833",
+    "lng": "-91.5833",
+    "id": "1320449471"
+  },
+  {
+    "city": "Chicamán",
+    "city_ascii": "Chicaman",
+    "admin_name": "Quiché",
+    "lat": "15.3483",
+    "lng": "-90.7994",
+    "id": "1320356049"
+  },
+  {
+    "city": "Yepocapa",
+    "city_ascii": "Yepocapa",
+    "admin_name": "Chimaltenango",
+    "lat": "14.5000",
+    "lng": "-90.9500",
+    "id": "1320657231"
+  },
+  {
+    "city": "San Cristóbal Totonicapán",
+    "city_ascii": "San Cristobal Totonicapan",
+    "admin_name": "Totonicapán",
+    "lat": "14.9167",
+    "lng": "-91.4333",
+    "id": "1320524150"
+  },
+  {
+    "city": "Sanarate",
+    "city_ascii": "Sanarate",
+    "admin_name": "El Progreso",
+    "lat": "14.7950",
+    "lng": "-90.1922",
+    "id": "1320227243"
+  },
+  {
+    "city": "Nuevo San Carlos",
+    "city_ascii": "Nuevo San Carlos",
+    "admin_name": "Retalhuleu",
+    "lat": "14.6000",
+    "lng": "-91.7000",
+    "id": "1320293782"
+  },
+  {
+    "city": "Tactic",
+    "city_ascii": "Tactic",
+    "admin_name": "Alta Verapaz",
+    "lat": "15.3167",
+    "lng": "-90.3511",
+    "id": "1320105267"
+  },
+  {
+    "city": "San Pedro Necta",
+    "city_ascii": "San Pedro Necta",
+    "admin_name": "Huehuetenango",
+    "lat": "15.5000",
+    "lng": "-91.7667",
+    "id": "1320888118"
+  },
+  {
+    "city": "Patulul",
+    "city_ascii": "Patulul",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.4167",
+    "lng": "-91.1667",
+    "id": "1320760305"
+  },
+  {
+    "city": "Ciudad Vieja",
+    "city_ascii": "Ciudad Vieja",
+    "admin_name": "Sacatepéquez",
+    "lat": "14.5233",
+    "lng": "-90.7667",
+    "id": "1320909841"
+  },
+  {
+    "city": "Patzicía",
+    "city_ascii": "Patzicia",
+    "admin_name": "Chimaltenango",
+    "lat": "14.6317",
+    "lng": "-90.9269",
+    "id": "1320491635"
+  },
+  {
+    "city": "Raxruhá",
+    "city_ascii": "Raxruha",
+    "admin_name": "Alta Verapaz",
+    "lat": "15.8666",
+    "lng": "-90.0424",
+    "id": "1320014679"
+  },
+  {
+    "city": "Zacualpa",
+    "city_ascii": "Zacualpa",
+    "admin_name": "Quiché",
+    "lat": "15.0272",
+    "lng": "-90.8778",
+    "id": "1320530349"
+  },
+  {
+    "city": "Todos Santos Cuchumatán",
+    "city_ascii": "Todos Santos Cuchumatan",
+    "admin_name": "Huehuetenango",
+    "lat": "15.5167",
+    "lng": "-91.6167",
+    "id": "1320616032"
+  },
+  {
+    "city": "Olintepeque",
+    "city_ascii": "Olintepeque",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.8833",
+    "lng": "-91.5167",
+    "id": "1320868542"
+  },
+  {
+    "city": "Nueva Santa Rosa",
+    "city_ascii": "Nueva Santa Rosa",
+    "admin_name": "Santa Rosa",
+    "lat": "14.3811",
+    "lng": "-90.2761",
+    "id": "1320719046"
+  },
+  {
+    "city": "Las Cruces",
+    "city_ascii": "Las Cruces",
+    "admin_name": "Petén",
+    "lat": "16.6583",
+    "lng": "-90.2950",
+    "id": "1320919420"
+  },
+  {
+    "city": "San Raimundo",
+    "city_ascii": "San Raimundo",
+    "admin_name": "Guatemala",
+    "lat": "14.7647",
+    "lng": "-90.5956",
+    "id": "1320612138"
+  },
+  {
+    "city": "Champerico",
+    "city_ascii": "Champerico",
+    "admin_name": "Retalhuleu",
+    "lat": "14.2930",
+    "lng": "-91.9140",
+    "id": "1320124316"
+  },
+  {
+    "city": "La Unión",
+    "city_ascii": "La Union",
+    "admin_name": "Zacapa",
+    "lat": "14.9667",
+    "lng": "-89.2833",
+    "id": "1320575011"
+  },
+  {
+    "city": "San Pédro Jocopilas",
+    "city_ascii": "San Pedro Jocopilas",
+    "admin_name": "Quiché",
+    "lat": "15.0953",
+    "lng": "-91.1508",
+    "id": "1320372881"
+  },
+  {
+    "city": "Comapa",
+    "city_ascii": "Comapa",
+    "admin_name": "Jutiapa",
+    "lat": "14.1167",
+    "lng": "-89.9167",
+    "id": "1320504188"
+  },
+  {
+    "city": "Santiago Sacatepéquez",
+    "city_ascii": "Santiago Sacatepequez",
+    "admin_name": "Sacatepéquez",
+    "lat": "14.6531",
+    "lng": "-90.6525",
+    "id": "1320070166"
+  },
+  {
+    "city": "San Miguel Chicaj",
+    "city_ascii": "San Miguel Chicaj",
+    "admin_name": "Baja Verapaz",
+    "lat": "15.1000",
+    "lng": "-90.4000",
+    "id": "1320830871"
+  },
+  {
+    "city": "Taxisco",
+    "city_ascii": "Taxisco",
+    "admin_name": "Santa Rosa",
+    "lat": "14.0667",
+    "lng": "-90.4667",
+    "id": "1320216194"
+  },
+  {
+    "city": "San Juan Cotzal",
+    "city_ascii": "San Juan Cotzal",
+    "admin_name": "Quiché",
+    "lat": "15.4353",
+    "lng": "-91.0356",
+    "id": "1320691334"
+  },
+  {
+    "city": "San Miguel Acatán",
+    "city_ascii": "San Miguel Acatan",
+    "admin_name": "Huehuetenango",
+    "lat": "15.7000",
+    "lng": "-91.6167",
+    "id": "1320204061"
+  },
+  {
+    "city": "Cuyotenango",
+    "city_ascii": "Cuyotenango",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.5333",
+    "lng": "-91.5667",
+    "id": "1320056390"
+  },
+  {
+    "city": "San Carlos Sija",
+    "city_ascii": "San Carlos Sija",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.9833",
+    "lng": "-91.5500",
+    "id": "1320621922"
+  },
+  {
+    "city": "Santa Cruz Verapaz",
+    "city_ascii": "Santa Cruz Verapaz",
+    "admin_name": "Alta Verapaz",
+    "lat": "15.3667",
+    "lng": "-90.4333",
+    "id": "1320163756"
+  },
+  {
+    "city": "San Andrés Itzapa",
+    "city_ascii": "San Andres Itzapa",
+    "admin_name": "Chimaltenango",
+    "lat": "14.6167",
+    "lng": "-90.8500",
+    "id": "1320220802"
+  },
+  {
+    "city": "Catarina",
+    "city_ascii": "Catarina",
+    "admin_name": "San Marcos",
+    "lat": "14.8500",
+    "lng": "-92.0833",
+    "id": "1320853090"
+  },
+  {
+    "city": "San Andrés",
+    "city_ascii": "San Andres",
+    "admin_name": "Petén",
+    "lat": "16.9675",
+    "lng": "-89.9103",
+    "id": "1320000015"
+  },
+  {
+    "city": "La Blanca",
+    "city_ascii": "La Blanca",
+    "admin_name": "San Marcos",
+    "lat": "14.5791",
+    "lng": "-92.1414",
+    "id": "1320627277"
+  },
+  {
+    "city": "San José Poaquil",
+    "city_ascii": "San Jose Poaquil",
+    "admin_name": "Chimaltenango",
+    "lat": "14.8167",
+    "lng": "-90.9000",
+    "id": "1320659437"
+  },
+  {
+    "city": "San Martín Sacatepéquez",
+    "city_ascii": "San Martin Sacatepequez",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.8246",
+    "lng": "-91.6425",
+    "id": "1320569817"
+  },
+  {
+    "city": "Chiché",
+    "city_ascii": "Chiche",
+    "admin_name": "Quiché",
+    "lat": "15.0106",
+    "lng": "-91.0650",
+    "id": "1320628712"
+  },
+  {
+    "city": "Nuevo Progreso",
+    "city_ascii": "Nuevo Progreso",
+    "admin_name": "San Marcos",
+    "lat": "14.8000",
+    "lng": "-91.9167",
+    "id": "1320732230"
+  },
+  {
+    "city": "San Carlos Alzatate",
+    "city_ascii": "San Carlos Alzatate",
+    "admin_name": "Jalapa",
+    "lat": "14.5000",
+    "lng": "-90.0667",
+    "id": "1320987618"
+  },
+  {
+    "city": "San Lucas Tolimán",
+    "city_ascii": "San Lucas Toliman",
+    "admin_name": "Sololá",
+    "lat": "14.6333",
+    "lng": "-91.1333",
+    "id": "1320193805"
+  },
+  {
+    "city": "Santa Catarina Mita",
+    "city_ascii": "Santa Catarina Mita",
+    "admin_name": "Jutiapa",
+    "lat": "14.4500",
+    "lng": "-89.7500",
+    "id": "1320928551"
+  },
+  {
+    "city": "El Palmar",
+    "city_ascii": "El Palmar",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.6500",
+    "lng": "-91.5833",
+    "id": "1320401854"
+  },
+  {
+    "city": "Jalpatagua",
+    "city_ascii": "Jalpatagua",
+    "admin_name": "Jutiapa",
+    "lat": "14.1333",
+    "lng": "-90.0167",
+    "id": "1320215735"
+  },
+  {
+    "city": "Jerez",
+    "city_ascii": "Jerez",
+    "admin_name": "Jutiapa",
+    "lat": "14.1000",
+    "lng": "-89.7500",
+    "id": "1320129254"
+  },
+  {
+    "city": "Monjas",
+    "city_ascii": "Monjas",
+    "admin_name": "Jalapa",
+    "lat": "14.5000",
+    "lng": "-89.8667",
+    "id": "1320080716"
+  },
+  {
+    "city": "Río Bravo",
+    "city_ascii": "Rio Bravo",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.4011",
+    "lng": "-91.3195",
+    "id": "1320453852"
+  },
+  {
+    "city": "San Juan Ixcoy",
+    "city_ascii": "San Juan Ixcoy",
+    "admin_name": "Huehuetenango",
+    "lat": "15.6000",
+    "lng": "-91.4500",
+    "id": "1320110393"
+  },
+  {
+    "city": "San Antonio Ilotenango",
+    "city_ascii": "San Antonio Ilotenango",
+    "admin_name": "Quiché",
+    "lat": "15.0544",
+    "lng": "-91.2294",
+    "id": "1320641141"
+  },
+  {
+    "city": "San Sebastián",
+    "city_ascii": "San Sebastian",
+    "admin_name": "Retalhuleu",
+    "lat": "14.5667",
+    "lng": "-91.6500",
+    "id": "1320277612"
+  },
+  {
+    "city": "Ciudad Melchor de Mencos",
+    "city_ascii": "Ciudad Melchor de Mencos",
+    "admin_name": "Petén",
+    "lat": "17.0667",
+    "lng": "-89.1500",
+    "id": "1320635102"
+  },
+  {
+    "city": "Olopa",
+    "city_ascii": "Olopa",
+    "admin_name": "Chiquimula",
+    "lat": "14.6833",
+    "lng": "-89.3500",
+    "id": "1320980263"
+  },
+  {
+    "city": "Dolores",
+    "city_ascii": "Dolores",
+    "admin_name": "Petén",
+    "lat": "16.5142",
+    "lng": "-89.4158",
+    "id": "1320503120"
+  },
+  {
+    "city": "Quezaltepeque",
+    "city_ascii": "Quezaltepeque",
+    "admin_name": "Chiquimula",
+    "lat": "14.6333",
+    "lng": "-89.4500",
+    "id": "1320647000"
+  },
+  {
+    "city": "Conguaco",
+    "city_ascii": "Conguaco",
+    "admin_name": "Jutiapa",
+    "lat": "14.0500",
+    "lng": "-90.0333",
+    "id": "1320354333"
+  },
+  {
+    "city": "San Andrés Xecul",
+    "city_ascii": "San Andres Xecul",
+    "admin_name": "Totonicapán",
+    "lat": "14.9000",
+    "lng": "-91.4833",
+    "id": "1320913861"
+  },
+  {
+    "city": "Zaragoza",
+    "city_ascii": "Zaragoza",
+    "admin_name": "Chimaltenango",
+    "lat": "14.6500",
+    "lng": "-90.8833",
+    "id": "1320225440"
+  },
+  {
+    "city": "San Agustín Chahal",
+    "city_ascii": "San Agustin Chahal",
+    "admin_name": "Alta Verapaz",
+    "lat": "15.7500",
+    "lng": "-89.5667",
+    "id": "1320935505"
+  },
+  {
+    "city": "Pueblo Nuevo Viñas",
+    "city_ascii": "Pueblo Nuevo Vinas",
+    "admin_name": "Santa Rosa",
+    "lat": "14.2333",
+    "lng": "-90.4667",
+    "id": "1320114174"
+  },
+  {
+    "city": "San Lucas Sacatepéquez",
+    "city_ascii": "San Lucas Sacatepequez",
+    "admin_name": "Sacatepéquez",
+    "lat": "14.6167",
+    "lng": "-90.6500",
+    "id": "1320964594"
+  },
+  {
+    "city": "Acatenango",
+    "city_ascii": "Acatenango",
+    "admin_name": "Chimaltenango",
+    "lat": "14.5544",
+    "lng": "-90.9439",
+    "id": "1320527035"
+  },
+  {
+    "city": "San Jerónimo",
+    "city_ascii": "San Jeronimo",
+    "admin_name": "Baja Verapaz",
+    "lat": "15.0611",
+    "lng": "-90.2403",
+    "id": "1320251984"
+  },
+  {
+    "city": "Alotenango",
+    "city_ascii": "Alotenango",
+    "admin_name": "Sacatepéquez",
+    "lat": "14.4878",
+    "lng": "-90.8058",
+    "id": "1320366805"
+  },
+  {
+    "city": "Cabricán",
+    "city_ascii": "Cabrican",
+    "admin_name": "Quetzaltenango",
+    "lat": "15.0747",
+    "lng": "-91.6486",
+    "id": "1320549099"
+  },
+  {
+    "city": "San Andrés Sajcabajá",
+    "city_ascii": "San Andres Sajcabaja",
+    "admin_name": "Quiché",
+    "lat": "15.1756",
+    "lng": "-90.9417",
+    "id": "1320184261"
+  },
+  {
+    "city": "Santa Bárbara",
+    "city_ascii": "Santa Barbara",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.4333",
+    "lng": "-91.2333",
+    "id": "1320803022"
+  },
+  {
+    "city": "Guastatoya",
+    "city_ascii": "Guastatoya",
+    "admin_name": "El Progreso",
+    "lat": "14.8500",
+    "lng": "-90.0667",
+    "id": "1320849830"
+  },
+  {
+    "city": "Ciudad Tecún Umán",
+    "city_ascii": "Ciudad Tecun Uman",
+    "admin_name": "San Marcos",
+    "lat": "14.6667",
+    "lng": "-92.1500",
+    "id": "1320502351"
+  },
+  {
+    "city": "Sipacapa",
+    "city_ascii": "Sipacapa",
+    "admin_name": "San Marcos",
+    "lat": "15.2122",
+    "lng": "-91.6347",
+    "id": "1320386242"
+  },
+  {
+    "city": "Oratorio",
+    "city_ascii": "Oratorio",
+    "admin_name": "Santa Rosa",
+    "lat": "14.2281",
+    "lng": "-90.1758",
+    "id": "1320964983"
+  },
+  {
+    "city": "San Luis Jilotepeque",
+    "city_ascii": "San Luis Jilotepeque",
+    "admin_name": "Jalapa",
+    "lat": "14.6500",
+    "lng": "-89.7333",
+    "id": "1320097405"
+  },
+  {
+    "city": "Santa María de Jesús",
+    "city_ascii": "Santa Maria de Jesus",
+    "admin_name": "Sacatepéquez",
+    "lat": "14.4933",
+    "lng": "-90.7094",
+    "id": "1320368552"
+  },
+  {
+    "city": "Santa María Ixhuatán",
+    "city_ascii": "Santa Maria Ixhuatan",
+    "admin_name": "Santa Rosa",
+    "lat": "14.1833",
+    "lng": "-90.2667",
+    "id": "1320000004"
+  },
+  {
+    "city": "Samayac",
+    "city_ascii": "Samayac",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.5833",
+    "lng": "-91.4667",
+    "id": "1320175624"
+  },
+  {
+    "city": "San Felipe",
+    "city_ascii": "San Felipe",
+    "admin_name": "Retalhuleu",
+    "lat": "14.6206",
+    "lng": "-91.5961",
+    "id": "1320120726"
+  },
+  {
+    "city": "Lanquín",
+    "city_ascii": "Lanquin",
+    "admin_name": "Alta Verapaz",
+    "lat": "15.5667",
+    "lng": "-89.9667",
+    "id": "1320936016"
+  },
+  {
+    "city": "Siquinalá",
+    "city_ascii": "Siquinala",
+    "admin_name": "Escuintla",
+    "lat": "14.3000",
+    "lng": "-90.9667",
+    "id": "1320866947"
+  },
+  {
+    "city": "La Máquina",
+    "city_ascii": "La Maquina",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.3000",
+    "lng": "-91.5667",
+    "id": "1320355896"
+  },
+  {
+    "city": "Casillas",
+    "city_ascii": "Casillas",
+    "admin_name": "Santa Rosa",
+    "lat": "14.4167",
+    "lng": "-90.2500",
+    "id": "1320372175"
+  },
+  {
+    "city": "San Juan Atitán",
+    "city_ascii": "San Juan Atitan",
+    "admin_name": "Huehuetenango",
+    "lat": "15.4333",
+    "lng": "-91.6333",
+    "id": "1320659095"
+  },
+  {
+    "city": "San Sebastián Coatán",
+    "city_ascii": "San Sebastian Coatan",
+    "admin_name": "Huehuetenango",
+    "lat": "15.7333",
+    "lng": "-91.5667",
+    "id": "1320533592"
+  },
+  {
+    "city": "El Quetzal",
+    "city_ascii": "El Quetzal",
+    "admin_name": "San Marcos",
+    "lat": "14.7667",
+    "lng": "-91.8167",
+    "id": "1320885818"
+  },
+  {
+    "city": "El Progreso",
+    "city_ascii": "El Progreso",
+    "admin_name": "Jutiapa",
+    "lat": "14.3500",
+    "lng": "-89.8500",
+    "id": "1320689547"
+  },
+  {
+    "city": "Santa Lucia La Reforma",
+    "city_ascii": "Santa Lucia La Reforma",
+    "admin_name": "Totonicapán",
+    "lat": "15.1333",
+    "lng": "-91.2333",
+    "id": "1320776973"
+  },
+  {
+    "city": "La Esperanza",
+    "city_ascii": "La Esperanza",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.8667",
+    "lng": "-91.5667",
+    "id": "1320463184"
+  },
+  {
+    "city": "Ixchiguán",
+    "city_ascii": "Ixchiguan",
+    "admin_name": "San Marcos",
+    "lat": "15.1675",
+    "lng": "-91.9319",
+    "id": "1320779608"
+  },
+  {
+    "city": "Flores Costa Cuca",
+    "city_ascii": "Flores Costa Cuca",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.6500",
+    "lng": "-91.8167",
+    "id": "1320176965"
+  },
+  {
+    "city": "San Francisco Zapotitlán",
+    "city_ascii": "San Francisco Zapotitlan",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.5833",
+    "lng": "-91.5167",
+    "id": "1320950165"
+  },
+  {
+    "city": "Tamahú",
+    "city_ascii": "Tamahu",
+    "admin_name": "Alta Verapaz",
+    "lat": "15.3333",
+    "lng": "-90.1667",
+    "id": "1320032339"
+  },
+  {
+    "city": "Santa Ana",
+    "city_ascii": "Santa Ana",
+    "admin_name": "Petén",
+    "lat": "16.8069",
+    "lng": "-89.8272",
+    "id": "1320569617"
+  },
+  {
+    "city": "Ipala",
+    "city_ascii": "Ipala",
+    "admin_name": "Chiquimula",
+    "lat": "14.6191",
+    "lng": "-89.6226",
+    "id": "1320436052"
+  },
+  {
+    "city": "Quesada",
+    "city_ascii": "Quesada",
+    "admin_name": "Jutiapa",
+    "lat": "14.2667",
+    "lng": "-90.0333",
+    "id": "1320537682"
+  },
+  {
+    "city": "El Tejar",
+    "city_ascii": "El Tejar",
+    "admin_name": "Chimaltenango",
+    "lat": "14.6500",
+    "lng": "-90.8000",
+    "id": "1320344068"
+  },
+  {
+    "city": "Santa Apolonia",
+    "city_ascii": "Santa Apolonia",
+    "admin_name": "Chimaltenango",
+    "lat": "14.7833",
+    "lng": "-90.9667",
+    "id": "1320348479"
+  },
+  {
+    "city": "La Reforma",
+    "city_ascii": "La Reforma",
+    "admin_name": "San Marcos",
+    "lat": "14.8000",
+    "lng": "-91.8167",
+    "id": "1320422188"
+  },
+  {
+    "city": "Jocotenango",
+    "city_ascii": "Jocotenango",
+    "admin_name": "Sacatepéquez",
+    "lat": "14.5819",
+    "lng": "-90.7436",
+    "id": "1320436479"
+  },
+  {
+    "city": "Río Hondo",
+    "city_ascii": "Rio Hondo",
+    "admin_name": "Zacapa",
+    "lat": "15.0464",
+    "lng": "-89.5847",
+    "id": "1320228061"
+  },
+  {
+    "city": "Pajapita",
+    "city_ascii": "Pajapita",
+    "admin_name": "San Marcos",
+    "lat": "14.7167",
+    "lng": "-92.0333",
+    "id": "1320459427"
+  },
+  {
+    "city": "La Democracia",
+    "city_ascii": "La Democracia",
+    "admin_name": "Escuintla",
+    "lat": "14.2308",
+    "lng": "-90.9472",
+    "id": "1320578325"
+  },
+  {
+    "city": "Malacatancito",
+    "city_ascii": "Malacatancito",
+    "admin_name": "Huehuetenango",
+    "lat": "15.2167",
+    "lng": "-91.5167",
+    "id": "1320075688"
+  },
+  {
+    "city": "San José Ojetenam",
+    "city_ascii": "San Jose Ojetenam",
+    "admin_name": "San Marcos",
+    "lat": "15.2167",
+    "lng": "-91.9667",
+    "id": "1320556269"
+  },
+  {
+    "city": "San Antonio La Paz",
+    "city_ascii": "San Antonio La Paz",
+    "admin_name": "El Progreso",
+    "lat": "14.7500",
+    "lng": "-90.2833",
+    "id": "1320686525"
+  },
+  {
+    "city": "San Pablo Jocopilas",
+    "city_ascii": "San Pablo Jocopilas",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.5833",
+    "lng": "-91.4500",
+    "id": "1320534769"
+  },
+  {
+    "city": "Guazacapán",
+    "city_ascii": "Guazacapan",
+    "admin_name": "Santa Rosa",
+    "lat": "14.0667",
+    "lng": "-90.4167",
+    "id": "1320179300"
+  },
+  {
+    "city": "Santa Lucía Utatlán",
+    "city_ascii": "Santa Lucia Utatlan",
+    "admin_name": "Sololá",
+    "lat": "14.7667",
+    "lng": "-91.2667",
+    "id": "1320410768"
+  },
+  {
+    "city": "Salcajá",
+    "city_ascii": "Salcaja",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.8833",
+    "lng": "-91.4500",
+    "id": "1320564253"
+  },
+  {
+    "city": "Santa Rosa de Lima",
+    "city_ascii": "Santa Rosa de Lima",
+    "admin_name": "Santa Rosa",
+    "lat": "14.3833",
+    "lng": "-90.3000",
+    "id": "1320410444"
+  },
+  {
+    "city": "Concepción Huista",
+    "city_ascii": "Concepcion Huista",
+    "admin_name": "Huehuetenango",
+    "lat": "15.6167",
+    "lng": "-91.6833",
+    "id": "1320586594"
+  },
+  {
+    "city": "San Antonio Sacatepéquez",
+    "city_ascii": "San Antonio Sacatepequez",
+    "admin_name": "San Marcos",
+    "lat": "14.9667",
+    "lng": "-91.7333",
+    "id": "1320733193"
+  },
+  {
+    "city": "Concepción Chiquirichapa",
+    "city_ascii": "Concepcion Chiquirichapa",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.8500",
+    "lng": "-91.6167",
+    "id": "1320512845"
+  },
+  {
+    "city": "Palestina de los Altos",
+    "city_ascii": "Palestina de los Altos",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.9333",
+    "lng": "-91.7000",
+    "id": "1320342960"
+  },
+  {
+    "city": "Parramos",
+    "city_ascii": "Parramos",
+    "admin_name": "Chimaltenango",
+    "lat": "14.6078",
+    "lng": "-90.8031",
+    "id": "1320705427"
+  },
+  {
+    "city": "Iztapa",
+    "city_ascii": "Iztapa",
+    "admin_name": "Escuintla",
+    "lat": "13.9331",
+    "lng": "-90.7075",
+    "id": "1320160535"
+  },
+  {
+    "city": "Teculután",
+    "city_ascii": "Teculutan",
+    "admin_name": "Zacapa",
+    "lat": "14.9831",
+    "lng": "-89.5667",
+    "id": "1320018661"
+  },
+  {
+    "city": "Atescatempa",
+    "city_ascii": "Atescatempa",
+    "admin_name": "Jutiapa",
+    "lat": "14.1750",
+    "lng": "-89.7417",
+    "id": "1320044665"
+  },
+  {
+    "city": "Pastores",
+    "city_ascii": "Pastores",
+    "admin_name": "Sacatepéquez",
+    "lat": "14.6000",
+    "lng": "-90.7500",
+    "id": "1320454567"
+  },
+  {
+    "city": "El Rodeo",
+    "city_ascii": "El Rodeo",
+    "admin_name": "San Marcos",
+    "lat": "14.9167",
+    "lng": "-91.9667",
+    "id": "1320277640"
+  },
+  {
+    "city": "Cajolá",
+    "city_ascii": "Cajola",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.9167",
+    "lng": "-91.6167",
+    "id": "1320101495"
+  },
+  {
+    "city": "San Antonio Huista",
+    "city_ascii": "San Antonio Huista",
+    "admin_name": "Huehuetenango",
+    "lat": "15.6500",
+    "lng": "-91.7667",
+    "id": "1320351687"
+  },
+  {
+    "city": "San Juan Ermita",
+    "city_ascii": "San Juan Ermita",
+    "admin_name": "Chiquimula",
+    "lat": "14.7667",
+    "lng": "-89.4333",
+    "id": "1320736877"
+  },
+  {
+    "city": "San Rafael La Independencia",
+    "city_ascii": "San Rafael La Independencia",
+    "admin_name": "Huehuetenango",
+    "lat": "15.7167",
+    "lng": "-91.5333",
+    "id": "1320263088"
+  },
+  {
+    "city": "San Vicente Pacaya",
+    "city_ascii": "San Vicente Pacaya",
+    "admin_name": "Escuintla",
+    "lat": "14.4161",
+    "lng": "-90.6392",
+    "id": "1320296319"
+  },
+  {
+    "city": "San Rafael Pie de la Cuesta",
+    "city_ascii": "San Rafael Pie de la Cuesta",
+    "admin_name": "San Marcos",
+    "lat": "14.9333",
+    "lng": "-91.9167",
+    "id": "1320018274"
+  },
+  {
+    "city": "Yupiltepeque",
+    "city_ascii": "Yupiltepeque",
+    "admin_name": "Jutiapa",
+    "lat": "14.2000",
+    "lng": "-89.7833",
+    "id": "1320104275"
+  },
+  {
+    "city": "Sipacate",
+    "city_ascii": "Sipacate",
+    "admin_name": "Escuintla",
+    "lat": "13.9333",
+    "lng": "-91.1500",
+    "id": "1320395246"
+  },
+  {
+    "city": "San Cristóbal Cucho",
+    "city_ascii": "San Cristobal Cucho",
+    "admin_name": "San Marcos",
+    "lat": "14.9000",
+    "lng": "-91.7833",
+    "id": "1320539548"
+  },
+  {
+    "city": "Santa Cruz Naranjo",
+    "city_ascii": "Santa Cruz Naranjo",
+    "admin_name": "Santa Rosa",
+    "lat": "14.3858",
+    "lng": "-90.3708",
+    "id": "1320978897"
+  },
+  {
+    "city": "Agua Blanca",
+    "city_ascii": "Agua Blanca",
+    "admin_name": "Jutiapa",
+    "lat": "14.4833",
+    "lng": "-89.6494",
+    "id": "1320861023"
+  },
+  {
+    "city": "Guanagazapa",
+    "city_ascii": "Guanagazapa",
+    "admin_name": "Escuintla",
+    "lat": "14.2333",
+    "lng": "-90.6500",
+    "id": "1320760116"
+  },
+  {
+    "city": "Santa Lucía Milpas Altas",
+    "city_ascii": "Santa Lucia Milpas Altas",
+    "admin_name": "Sacatepéquez",
+    "lat": "14.5833",
+    "lng": "-90.6833",
+    "id": "1320588328"
+  },
+  {
+    "city": "Almolonga",
+    "city_ascii": "Almolonga",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.8122",
+    "lng": "-91.4944",
+    "id": "1320537455"
+  },
+  {
+    "city": "San Bernardino",
+    "city_ascii": "San Bernardino",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.5333",
+    "lng": "-91.4500",
+    "id": "1320929953"
+  },
+  {
+    "city": "Sibinal",
+    "city_ascii": "Sibinal",
+    "admin_name": "San Marcos",
+    "lat": "15.1342",
+    "lng": "-92.0500",
+    "id": "1320990586"
+  },
+  {
+    "city": "Chuarrancho",
+    "city_ascii": "Chuarrancho",
+    "admin_name": "Guatemala",
+    "lat": "14.8181",
+    "lng": "-90.5153",
+    "id": "1320688968"
+  },
+  {
+    "city": "San Francisco",
+    "city_ascii": "San Francisco",
+    "admin_name": "Petén",
+    "lat": "16.7833",
+    "lng": "-89.9361",
+    "id": "1320240607"
+  },
+  {
+    "city": "Santa Cruz Muluá",
+    "city_ascii": "Santa Cruz Mulua",
+    "admin_name": "Retalhuleu",
+    "lat": "14.5833",
+    "lng": "-91.6167",
+    "id": "1320315123"
+  },
+  {
+    "city": "Panajachel",
+    "city_ascii": "Panajachel",
+    "admin_name": "Sololá",
+    "lat": "14.7406",
+    "lng": "-91.1594",
+    "id": "1320143050"
+  },
+  {
+    "city": "Zunil",
+    "city_ascii": "Zunil",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.7833",
+    "lng": "-91.4833",
+    "id": "1320355897"
+  },
+  {
+    "city": "San Bartolomé Jocotenango",
+    "city_ascii": "San Bartolome Jocotenango",
+    "admin_name": "Quiché",
+    "lat": "15.1928",
+    "lng": "-91.0775",
+    "id": "1320987645"
+  },
+  {
+    "city": "San Antonio Palopó",
+    "city_ascii": "San Antonio Palopo",
+    "admin_name": "Sololá",
+    "lat": "14.7000",
+    "lng": "-91.1167",
+    "id": "1320477213"
+  },
+  {
+    "city": "San Miguel Dueñas",
+    "city_ascii": "San Miguel Duenas",
+    "admin_name": "Sacatepéquez",
+    "lat": "14.5167",
+    "lng": "-90.8000",
+    "id": "1320250757"
+  },
+  {
+    "city": "El Chal",
+    "city_ascii": "El Chal",
+    "admin_name": "Petén",
+    "lat": "16.6400",
+    "lng": "-89.6500",
+    "id": "1320084650"
+  },
+  {
+    "city": "Huitán",
+    "city_ascii": "Huitan",
+    "admin_name": "Quetzaltenango",
+    "lat": "15.1000",
+    "lng": "-91.6167",
+    "id": "1320474688"
+  },
+  {
+    "city": "Cabañas",
+    "city_ascii": "Cabanas",
+    "admin_name": "Zacapa",
+    "lat": "14.9333",
+    "lng": "-89.8000",
+    "id": "1320540151"
+  },
+  {
+    "city": "Granados",
+    "city_ascii": "Granados",
+    "admin_name": "Baja Verapaz",
+    "lat": "14.9139",
+    "lng": "-90.5233",
+    "id": "1320807744"
+  },
+  {
+    "city": "Santo Domingo Xenacoj",
+    "city_ascii": "Santo Domingo Xenacoj",
+    "admin_name": "Sacatepéquez",
+    "lat": "14.6822",
+    "lng": "-90.7067",
+    "id": "1320621620"
+  },
+  {
+    "city": "El Rodeo",
+    "city_ascii": "El Rodeo",
+    "admin_name": "Escuintla",
+    "lat": "14.3906",
+    "lng": "-90.8314",
+    "id": "1320523864"
+  },
+  {
+    "city": "San Lorenzo",
+    "city_ascii": "San Lorenzo",
+    "admin_name": "San Marcos",
+    "lat": "15.0211",
+    "lng": "-91.7378",
+    "id": "1320756044"
+  },
+  {
+    "city": "Esquipulas Palo Gordo",
+    "city_ascii": "Esquipulas Palo Gordo",
+    "admin_name": "San Marcos",
+    "lat": "14.9333",
+    "lng": "-91.8167",
+    "id": "1320136046"
+  },
+  {
+    "city": "San José Acatempa",
+    "city_ascii": "San Jose Acatempa",
+    "admin_name": "Jutiapa",
+    "lat": "14.2667",
+    "lng": "-90.1333",
+    "id": "1320370299"
+  },
+  {
+    "city": "San Lorenzo",
+    "city_ascii": "San Lorenzo",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.4833",
+    "lng": "-91.5167",
+    "id": "1320322258"
+  },
+  {
+    "city": "San Rafael Las Flores",
+    "city_ascii": "San Rafael Las Flores",
+    "admin_name": "Santa Rosa",
+    "lat": "14.4814",
+    "lng": "-90.1733",
+    "id": "1320867057"
+  },
+  {
+    "city": "San Rafael Petzal",
+    "city_ascii": "San Rafael Petzal",
+    "admin_name": "Huehuetenango",
+    "lat": "15.4167",
+    "lng": "-91.6667",
+    "id": "1320389398"
+  },
+  {
+    "city": "Sansare",
+    "city_ascii": "Sansare",
+    "admin_name": "El Progreso",
+    "lat": "14.7500",
+    "lng": "-90.1167",
+    "id": "1320883953"
+  },
+  {
+    "city": "Chinique",
+    "city_ascii": "Chinique",
+    "admin_name": "Quiché",
+    "lat": "15.0411",
+    "lng": "-91.0269",
+    "id": "1320877724"
+  },
+  {
+    "city": "San Jorge",
+    "city_ascii": "San Jorge",
+    "admin_name": "Zacapa",
+    "lat": "14.9333",
+    "lng": "-89.6000",
+    "id": "1320839859"
+  },
+  {
+    "city": "El Jícaro",
+    "city_ascii": "El Jicaro",
+    "admin_name": "El Progreso",
+    "lat": "14.9131",
+    "lng": "-89.8953",
+    "id": "1320253000"
+  },
+  {
+    "city": "San Juan La Laguna",
+    "city_ascii": "San Juan La Laguna",
+    "admin_name": "Sololá",
+    "lat": "14.7000",
+    "lng": "-91.2833",
+    "id": "1320529701"
+  },
+  {
+    "city": "San Jacinto",
+    "city_ascii": "San Jacinto",
+    "admin_name": "Chiquimula",
+    "lat": "14.6667",
+    "lng": "-89.5000",
+    "id": "1320094957"
+  },
+  {
+    "city": "Usumatlán",
+    "city_ascii": "Usumatlan",
+    "admin_name": "Zacapa",
+    "lat": "14.9489",
+    "lng": "-89.7767",
+    "id": "1320983656"
+  },
+  {
+    "city": "San Martín Zapotitlán",
+    "city_ascii": "San Martin Zapotitlan",
+    "admin_name": "Retalhuleu",
+    "lat": "14.6000",
+    "lng": "-91.6000",
+    "id": "1320924510"
+  },
+  {
+    "city": "San Juan Tecuaco",
+    "city_ascii": "San Juan Tecuaco",
+    "admin_name": "Santa Rosa",
+    "lat": "14.0836",
+    "lng": "-90.2664",
+    "id": "1320640188"
+  },
+  {
+    "city": "Santo Tomás La Unión",
+    "city_ascii": "Santo Tomas La Union",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.6333",
+    "lng": "-91.3833",
+    "id": "1320346394"
+  },
+  {
+    "city": "Ocós",
+    "city_ascii": "Ocos",
+    "admin_name": "San Marcos",
+    "lat": "14.5094",
+    "lng": "-92.1933",
+    "id": "1320442186"
+  },
+  {
+    "city": "Magdalena Milpas Altas",
+    "city_ascii": "Magdalena Milpas Altas",
+    "admin_name": "Sacatepéquez",
+    "lat": "14.5453",
+    "lng": "-90.6753",
+    "id": "1320138967"
+  },
+  {
+    "city": "Canillá",
+    "city_ascii": "Canilla",
+    "admin_name": "Quiché",
+    "lat": "15.1667",
+    "lng": "-90.8500",
+    "id": "1320925878"
+  },
+  {
+    "city": "San Antonio Aguas Calientes",
+    "city_ascii": "San Antonio Aguas Calientes",
+    "admin_name": "Sacatepéquez",
+    "lat": "14.5333",
+    "lng": "-90.7667",
+    "id": "1320340484"
+  },
+  {
+    "city": "Playa Grande",
+    "city_ascii": "Playa Grande",
+    "admin_name": "Quiché",
+    "lat": "15.9833",
+    "lng": "-90.7667",
+    "id": "1320692827"
+  },
+  {
+    "city": "Morazán",
+    "city_ascii": "Morazan",
+    "admin_name": "El Progreso",
+    "lat": "14.9328",
+    "lng": "-90.1431",
+    "id": "1320386903"
+  },
+  {
+    "city": "Concepción Las Minas",
+    "city_ascii": "Concepcion Las Minas",
+    "admin_name": "Chiquimula",
+    "lat": "14.5167",
+    "lng": "-89.4500",
+    "id": "1320071349"
+  },
+  {
+    "city": "San Miguel Panán",
+    "city_ascii": "San Miguel Panan",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.5333",
+    "lng": "-91.3667",
+    "id": "1320095749"
+  },
+  {
+    "city": "San Bartolo",
+    "city_ascii": "San Bartolo",
+    "admin_name": "Totonicapán",
+    "lat": "15.0844",
+    "lng": "-91.4558",
+    "id": "1320306258"
+  },
+  {
+    "city": "Huité",
+    "city_ascii": "Huite",
+    "admin_name": "Zacapa",
+    "lat": "14.9333",
+    "lng": "-89.7167",
+    "id": "1320201309"
+  },
+  {
+    "city": "San José El Ídolo",
+    "city_ascii": "San Jose El Idolo",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.4500",
+    "lng": "-91.4167",
+    "id": "1320054644"
+  },
+  {
+    "city": "Tectitán",
+    "city_ascii": "Tectitan",
+    "admin_name": "Huehuetenango",
+    "lat": "15.3333",
+    "lng": "-92.0333",
+    "id": "1320428411"
+  },
+  {
+    "city": "San Pedro La Laguna",
+    "city_ascii": "San Pedro La Laguna",
+    "admin_name": "Sololá",
+    "lat": "14.6940",
+    "lng": "-91.2720",
+    "id": "1320860856"
+  },
+  {
+    "city": "Pueblo Nuevo",
+    "city_ascii": "Pueblo Nuevo",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.6500",
+    "lng": "-91.5333",
+    "id": "1320682969"
+  },
+  {
+    "city": "Pasaco",
+    "city_ascii": "Pasaco",
+    "admin_name": "Jutiapa",
+    "lat": "13.9833",
+    "lng": "-90.2000",
+    "id": "1320928744"
+  },
+  {
+    "city": "Moyuta",
+    "city_ascii": "Moyuta",
+    "admin_name": "Jutiapa",
+    "lat": "14.0333",
+    "lng": "-90.0833",
+    "id": "1320284268"
+  },
+  {
+    "city": "Santa Cruz Balanyá",
+    "city_ascii": "Santa Cruz Balanya",
+    "admin_name": "Chimaltenango",
+    "lat": "14.6833",
+    "lng": "-90.9167",
+    "id": "1320621567"
+  },
+  {
+    "city": "Estanzuela",
+    "city_ascii": "Estanzuela",
+    "admin_name": "Zacapa",
+    "lat": "15.0000",
+    "lng": "-89.5667",
+    "id": "1320854533"
+  },
+  {
+    "city": "Santa Ana Huista",
+    "city_ascii": "Santa Ana Huista",
+    "admin_name": "Huehuetenango",
+    "lat": "15.6833",
+    "lng": "-91.8167",
+    "id": "1320972408"
+  },
+  {
+    "city": "San Gaspar Ixchil",
+    "city_ascii": "San Gaspar Ixchil",
+    "admin_name": "Huehuetenango",
+    "lat": "15.3833",
+    "lng": "-91.7167",
+    "id": "1320445115"
+  },
+  {
+    "city": "Zapotitlán",
+    "city_ascii": "Zapotitlan",
+    "admin_name": "Jutiapa",
+    "lat": "14.1333",
+    "lng": "-89.8333",
+    "id": "1320939109"
+  },
+  {
+    "city": "Santiago Chimaltenango",
+    "city_ascii": "Santiago Chimaltenango",
+    "admin_name": "Huehuetenango",
+    "lat": "15.4814",
+    "lng": "-91.7261",
+    "id": "1320827981"
+  },
+  {
+    "city": "El Chol",
+    "city_ascii": "El Chol",
+    "admin_name": "Baja Verapaz",
+    "lat": "14.9667",
+    "lng": "-90.4833",
+    "id": "1320103256"
+  },
+  {
+    "city": "Santa Clara La Laguna",
+    "city_ascii": "Santa Clara La Laguna",
+    "admin_name": "Sololá",
+    "lat": "14.7167",
+    "lng": "-91.3000",
+    "id": "1320225556"
+  },
+  {
+    "city": "Pachalum",
+    "city_ascii": "Pachalum",
+    "admin_name": "Quiché",
+    "lat": "14.9269",
+    "lng": "-90.6650",
+    "id": "1320074787"
+  },
+  {
+    "city": "San Miguel Sigüilá",
+    "city_ascii": "San Miguel Siguila",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.9000",
+    "lng": "-91.6167",
+    "id": "1320294122"
+  },
+  {
+    "city": "San Francisco la Unión",
+    "city_ascii": "San Francisco la Union",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.9167",
+    "lng": "-91.5333",
+    "id": "1320800465"
+  },
+  {
+    "city": "San Juan Bautista",
+    "city_ascii": "San Juan Bautista",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.4167",
+    "lng": "-91.1833",
+    "id": "1320577327"
+  },
+  {
+    "city": "San José La Arada",
+    "city_ascii": "San Jose La Arada",
+    "admin_name": "Chiquimula",
+    "lat": "14.7167",
+    "lng": "-89.5833",
+    "id": "1320756927"
+  },
+  {
+    "city": "San Manuel Chaparrón",
+    "city_ascii": "San Manuel Chaparron",
+    "admin_name": "Jalapa",
+    "lat": "14.5167",
+    "lng": "-89.7667",
+    "id": "1320449306"
+  },
+  {
+    "city": "Sibilia",
+    "city_ascii": "Sibilia",
+    "admin_name": "Quetzaltenango",
+    "lat": "15.0000",
+    "lng": "-91.6167",
+    "id": "1320074499"
+  },
+  {
+    "city": "San Mateo",
+    "city_ascii": "San Mateo",
+    "admin_name": "Quetzaltenango",
+    "lat": "14.8667",
+    "lng": "-91.5833",
+    "id": "1320122162"
+  },
+  {
+    "city": "Zunilito",
+    "city_ascii": "Zunilito",
+    "admin_name": "Suchitepéquez",
+    "lat": "14.6167",
+    "lng": "-91.5167",
+    "id": "1320537106"
+  },
+  {
+    "city": "San Bartolomé Milpas Altas",
+    "city_ascii": "San Bartolome Milpas Altas",
+    "admin_name": "Sacatepéquez",
+    "lat": "14.6072",
+    "lng": "-90.6781",
+    "id": "1320802747"
+  }
+]

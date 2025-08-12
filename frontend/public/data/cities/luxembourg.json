@@ -1,0 +1,114 @@
+[
+  {
+    "city": "Luxembourg",
+    "city_ascii": "Luxembourg",
+    "admin_name": "Luxembourg",
+    "lat": "49.6117",
+    "lng": "6.1319",
+    "id": "1442262731"
+  },
+  {
+    "city": "Esch-sur-Alzette",
+    "city_ascii": "Esch-sur-Alzette",
+    "admin_name": "Esch-sur-Alzette",
+    "lat": "49.4969",
+    "lng": "5.9806",
+    "id": "1442192663"
+  },
+  {
+    "city": "Dudelange",
+    "city_ascii": "Dudelange",
+    "admin_name": "Esch-sur-Alzette",
+    "lat": "49.4833",
+    "lng": "6.0833",
+    "id": "1442627138"
+  },
+  {
+    "city": "Differdange",
+    "city_ascii": "Differdange",
+    "admin_name": "Esch-sur-Alzette",
+    "lat": "49.5222",
+    "lng": "5.8917",
+    "id": "1442264411"
+  },
+  {
+    "city": "Diekirch",
+    "city_ascii": "Diekirch",
+    "admin_name": "Diekirch",
+    "lat": "49.8681",
+    "lng": "6.1567",
+    "id": "1442382721"
+  },
+  {
+    "city": "Echternach",
+    "city_ascii": "Echternach",
+    "admin_name": "Echternach",
+    "lat": "49.8117",
+    "lng": "6.4217",
+    "id": "1442794725"
+  },
+  {
+    "city": "Wiltz",
+    "city_ascii": "Wiltz",
+    "admin_name": "Wiltz",
+    "lat": "49.9661",
+    "lng": "5.9325",
+    "id": "1442345477"
+  },
+  {
+    "city": "Grevenmacher",
+    "city_ascii": "Grevenmacher",
+    "admin_name": "Grevenmacher",
+    "lat": "49.6806",
+    "lng": "6.4417",
+    "id": "1442392954"
+  },
+  {
+    "city": "Remich",
+    "city_ascii": "Remich",
+    "admin_name": "Remich",
+    "lat": "49.5444",
+    "lng": "6.3667",
+    "id": "1442971283"
+  },
+  {
+    "city": "Vianden",
+    "city_ascii": "Vianden",
+    "admin_name": "Vianden",
+    "lat": "49.9000",
+    "lng": "6.2000",
+    "id": "1442979391"
+  },
+  {
+    "city": "Capellen",
+    "city_ascii": "Capellen",
+    "admin_name": "Capellen",
+    "lat": "49.6444",
+    "lng": "5.9897",
+    "id": "1442533571"
+  },
+  {
+    "city": "Clervaux",
+    "city_ascii": "Clervaux",
+    "admin_name": "Clervaux",
+    "lat": "50.0500",
+    "lng": "6.0333",
+    "id": "1442118762"
+  },
+  {
+    "city": "Mersch",
+    "city_ascii": "Mersch",
+    "admin_name": "Mersch",
+    "lat": "49.7500",
+    "lng": "6.1000",
+    "id": "1442283324"
+  },
+  {
+    "city": "Redange-sur-Attert",
+    "city_ascii": "Redange-sur-Attert",
+    "admin_name": "Redange",
+    "lat": "49.7652",
+    "lng": "5.8894",
+    "id": "1442099691"
+  }
+]

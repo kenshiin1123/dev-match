@@ -1,0 +1,8114 @@
+[
+  {
+    "city": "Mexico City",
+    "city_ascii": "Mexico City",
+    "admin_name": "Ciudad de México",
+    "lat": "19.4333",
+    "lng": "-99.1333",
+    "id": "1484247881"
+  },
+  {
+    "city": "Guadalajara",
+    "city_ascii": "Guadalajara",
+    "admin_name": "Jalisco",
+    "lat": "20.6767",
+    "lng": "-103.3475",
+    "id": "1484950208"
+  },
+  {
+    "city": "Monterrey",
+    "city_ascii": "Monterrey",
+    "admin_name": "Nuevo León",
+    "lat": "25.6844",
+    "lng": "-100.3181",
+    "id": "1484559591"
+  },
+  {
+    "city": "Toluca",
+    "city_ascii": "Toluca",
+    "admin_name": "México",
+    "lat": "19.2925",
+    "lng": "-99.6569",
+    "id": "1484124846"
+  },
+  {
+    "city": "Tijuana",
+    "city_ascii": "Tijuana",
+    "admin_name": "Baja California",
+    "lat": "32.5250",
+    "lng": "-117.0333",
+    "id": "1484708778"
+  },
+  {
+    "city": "Ecatepec",
+    "city_ascii": "Ecatepec",
+    "admin_name": "México",
+    "lat": "19.6097",
+    "lng": "-99.0600",
+    "id": "1484003694"
+  },
+  {
+    "city": "León de los Aldama",
+    "city_ascii": "Leon de los Aldama",
+    "admin_name": "Guanajuato",
+    "lat": "21.1167",
+    "lng": "-101.6833",
+    "id": "1484811199"
+  },
+  {
+    "city": "Puebla",
+    "city_ascii": "Puebla",
+    "admin_name": "Puebla",
+    "lat": "19.0333",
+    "lng": "-98.1833",
+    "id": "1484416394"
+  },
+  {
+    "city": "Zapopan",
+    "city_ascii": "Zapopan",
+    "admin_name": "Jalisco",
+    "lat": "20.7167",
+    "lng": "-103.4000",
+    "id": "1484198680"
+  },
+  {
+    "city": "Juárez",
+    "city_ascii": "Juarez",
+    "admin_name": "Chihuahua",
+    "lat": "31.7450",
+    "lng": "-106.4850",
+    "id": "1484840083"
+  },
+  {
+    "city": "Mexicali",
+    "city_ascii": "Mexicali",
+    "admin_name": "Baja California",
+    "lat": "32.6633",
+    "lng": "-115.4678",
+    "id": "1484788702"
+  },
+  {
+    "city": "Nezahualcóyotl",
+    "city_ascii": "Nezahualcoyotl",
+    "admin_name": "México",
+    "lat": "19.4081",
+    "lng": "-99.0186",
+    "id": "1484074285"
+  },
+  {
+    "city": "Ciudad Nezahualcóyotl",
+    "city_ascii": "Ciudad Nezahualcoyotl",
+    "admin_name": "México",
+    "lat": "19.4006",
+    "lng": "-99.0148",
+    "id": "1484016661"
+  },
+  {
+    "city": "Morelia",
+    "city_ascii": "Morelia",
+    "admin_name": "Michoacán",
+    "lat": "19.7683",
+    "lng": "-101.1894",
+    "id": "1484669072"
+  },
+  {
+    "city": "Aguascalientes",
+    "city_ascii": "Aguascalientes",
+    "admin_name": "Aguascalientes",
+    "lat": "21.8760",
+    "lng": "-102.2960",
+    "id": "1484666646"
+  },
+  {
+    "city": "Chihuahua",
+    "city_ascii": "Chihuahua",
+    "admin_name": "Chihuahua",
+    "lat": "28.6369",
+    "lng": "-106.0769",
+    "id": "1484335603"
+  },
+  {
+    "city": "Naucalpan de Juárez",
+    "city_ascii": "Naucalpan de Juarez",
+    "admin_name": "México",
+    "lat": "19.4753",
+    "lng": "-99.2378",
+    "id": "1484850125"
+  },
+  {
+    "city": "Mérida",
+    "city_ascii": "Merida",
+    "admin_name": "Yucatán",
+    "lat": "20.9667",
+    "lng": "-89.6167",
+    "id": "1484396779"
+  },
+  {
+    "city": "Cancún",
+    "city_ascii": "Cancun",
+    "admin_name": "Quintana Roo",
+    "lat": "21.1606",
+    "lng": "-86.8475",
+    "id": "1484010310"
+  },
+  {
+    "city": "Saltillo",
+    "city_ascii": "Saltillo",
+    "admin_name": "Coahuila",
+    "lat": "25.4231",
+    "lng": "-100.9919",
+    "id": "1484107245"
+  },
+  {
+    "city": "Hermosillo",
+    "city_ascii": "Hermosillo",
+    "admin_name": "Sonora",
+    "lat": "29.0989",
+    "lng": "-110.9542",
+    "id": "1484015319"
+  },
+  {
+    "city": "Culiacán",
+    "city_ascii": "Culiacan",
+    "admin_name": "Sinaloa",
+    "lat": "24.8069",
+    "lng": "-107.3939",
+    "id": "1484516810"
+  },
+  {
+    "city": "Querétaro",
+    "city_ascii": "Queretaro",
+    "admin_name": "Querétaro",
+    "lat": "20.5875",
+    "lng": "-100.3928",
+    "id": "1484604775"
+  },
+  {
+    "city": "San Luis Potosí",
+    "city_ascii": "San Luis Potosi",
+    "admin_name": "San Luis Potosí",
+    "lat": "22.1511",
+    "lng": "-100.9761",
+    "id": "1484583620"
+  },
+  {
+    "city": "Guadalupe",
+    "city_ascii": "Guadalupe",
+    "admin_name": "Nuevo León",
+    "lat": "25.6775",
+    "lng": "-100.2597",
+    "id": "1484002410"
+  },
+  {
+    "city": "Acapulco de Juárez",
+    "city_ascii": "Acapulco de Juarez",
+    "admin_name": "Guerrero",
+    "lat": "16.8636",
+    "lng": "-99.8825",
+    "id": "1484463183"
+  },
+  {
+    "city": "Tlaquepaque",
+    "city_ascii": "Tlaquepaque",
+    "admin_name": "Jalisco",
+    "lat": "20.6167",
+    "lng": "-103.3167",
+    "id": "1484087945"
+  },
+  {
+    "city": "Durango",
+    "city_ascii": "Durango",
+    "admin_name": "Durango",
+    "lat": "24.0250",
+    "lng": "-104.6675",
+    "id": "1484854616"
+  },
+  {
+    "city": "Tlalnepantla",
+    "city_ascii": "Tlalnepantla",
+    "admin_name": "México",
+    "lat": "19.5367",
+    "lng": "-99.1947",
+    "id": "1484861603"
+  },
+  {
+    "city": "Chimalhuacán",
+    "city_ascii": "Chimalhuacan",
+    "admin_name": "México",
+    "lat": "19.4131",
+    "lng": "-98.9839",
+    "id": "1484504936"
+  },
+  {
+    "city": "Irapuato",
+    "city_ascii": "Irapuato",
+    "admin_name": "Guanajuato",
+    "lat": "20.6667",
+    "lng": "-101.3500",
+    "id": "1484625454"
+  },
+  {
+    "city": "Reynosa",
+    "city_ascii": "Reynosa",
+    "admin_name": "Tamaulipas",
+    "lat": "26.0922",
+    "lng": "-98.2778",
+    "id": "1484737671"
+  },
+  {
+    "city": "Tuxtla",
+    "city_ascii": "Tuxtla",
+    "admin_name": "Chiapas",
+    "lat": "16.7528",
+    "lng": "-93.1167",
+    "id": "1484832519"
+  },
+  {
+    "city": "Tonalá",
+    "city_ascii": "Tonala",
+    "admin_name": "Jalisco",
+    "lat": "20.6167",
+    "lng": "-103.2333",
+    "id": "1484750897"
+  },
+  {
+    "city": "Ensenada",
+    "city_ascii": "Ensenada",
+    "admin_name": "Baja California",
+    "lat": "31.8578",
+    "lng": "-116.6058",
+    "id": "1484714297"
+  },
+  {
+    "city": "Ixtapaluca",
+    "city_ascii": "Ixtapaluca",
+    "admin_name": "México",
+    "lat": "19.3186",
+    "lng": "-98.8822",
+    "id": "1484452937"
+  },
+  {
+    "city": "Heroica Matamoros",
+    "city_ascii": "Heroica Matamoros",
+    "admin_name": "Tamaulipas",
+    "lat": "25.8797",
+    "lng": "-97.5042",
+    "id": "1484614906"
+  },
+  {
+    "city": "Ciudad Apodaca",
+    "city_ascii": "Ciudad Apodaca",
+    "admin_name": "Nuevo León",
+    "lat": "25.7817",
+    "lng": "-100.1886",
+    "id": "1484855080"
+  },
+  {
+    "city": "Tultitlán de Mariano Escobedo",
+    "city_ascii": "Tultitlan de Mariano Escobedo",
+    "admin_name": "México",
+    "lat": "19.6450",
+    "lng": "-99.1694",
+    "id": "1484562374"
+  },
+  {
+    "city": "Mazatlán",
+    "city_ascii": "Mazatlan",
+    "admin_name": "Sinaloa",
+    "lat": "23.2167",
+    "lng": "-106.4167",
+    "id": "1484841466"
+  },
+  {
+    "city": "Ciudad López Mateos",
+    "city_ascii": "Ciudad Lopez Mateos",
+    "admin_name": "México",
+    "lat": "19.5500",
+    "lng": "-99.2833",
+    "id": "1484363879"
+  },
+  {
+    "city": "Ciudad General Escobedo",
+    "city_ascii": "Ciudad General Escobedo",
+    "admin_name": "Nuevo León",
+    "lat": "25.7933",
+    "lng": "-100.1583",
+    "id": "1484345554"
+  },
+  {
+    "city": "San Nicolás de los Garza",
+    "city_ascii": "San Nicolas de los Garza",
+    "admin_name": "Nuevo León",
+    "lat": "25.7500",
+    "lng": "-100.2833",
+    "id": "1484264138"
+  },
+  {
+    "city": "Veracruz",
+    "city_ascii": "Veracruz",
+    "admin_name": "Veracruz",
+    "lat": "19.1903",
+    "lng": "-96.1533",
+    "id": "1484992153"
+  },
+  {
+    "city": "Tepic",
+    "city_ascii": "Tepic",
+    "admin_name": "Nayarit",
+    "lat": "21.5083",
+    "lng": "-104.8931",
+    "id": "1484433877"
+  },
+  {
+    "city": "Xalapa",
+    "city_ascii": "Xalapa",
+    "admin_name": "Veracruz",
+    "lat": "19.5400",
+    "lng": "-96.9275",
+    "id": "1484334948"
+  },
+  {
+    "city": "Nuevo Laredo",
+    "city_ascii": "Nuevo Laredo",
+    "admin_name": "Tamaulipas",
+    "lat": "27.4861",
+    "lng": "-99.5069",
+    "id": "1484597234"
+  },
+  {
+    "city": "Celaya",
+    "city_ascii": "Celaya",
+    "admin_name": "Guanajuato",
+    "lat": "20.5222",
+    "lng": "-100.8122",
+    "id": "1484979555"
+  },
+  {
+    "city": "Nicolás Romero",
+    "city_ascii": "Nicolas Romero",
+    "admin_name": "México",
+    "lat": "19.5833",
+    "lng": "-99.3667",
+    "id": "1484589606"
+  },
+  {
+    "city": "Tecámac",
+    "city_ascii": "Tecamac",
+    "admin_name": "México",
+    "lat": "19.7131",
+    "lng": "-98.9683",
+    "id": "1484363321"
+  },
+  {
+    "city": "Minatitlán",
+    "city_ascii": "Minatitlan",
+    "admin_name": "Veracruz",
+    "lat": "17.9833",
+    "lng": "-94.5500",
+    "id": "1484735713"
+  },
+  {
+    "city": "Villahermosa",
+    "city_ascii": "Villahermosa",
+    "admin_name": "Tabasco",
+    "lat": "17.9892",
+    "lng": "-92.9281",
+    "id": "1484460894"
+  },
+  {
+    "city": "Cuernavaca",
+    "city_ascii": "Cuernavaca",
+    "admin_name": "Morelos",
+    "lat": "18.9186",
+    "lng": "-99.2342",
+    "id": "1484926471"
+  },
+  {
+    "city": "Uruapan",
+    "city_ascii": "Uruapan",
+    "admin_name": "Michoacán",
+    "lat": "19.4208",
+    "lng": "-102.0628",
+    "id": "1484051478"
+  },
+  {
+    "city": "Soledad de Graciano Sánchez",
+    "city_ascii": "Soledad de Graciano Sanchez",
+    "admin_name": "San Luis Potosí",
+    "lat": "22.1833",
+    "lng": "-100.9333",
+    "id": "1484610487"
+  },
+  {
+    "city": "Ciudad Obregón",
+    "city_ascii": "Ciudad Obregon",
+    "admin_name": "Sonora",
+    "lat": "27.4939",
+    "lng": "-109.9389",
+    "id": "1484887986"
+  },
+  {
+    "city": "Gómez Palacio",
+    "city_ascii": "Gomez Palacio",
+    "admin_name": "Durango",
+    "lat": "25.5611",
+    "lng": "-103.4983",
+    "id": "1484092318"
+  },
+  {
+    "city": "Salamanca",
+    "city_ascii": "Salamanca",
+    "admin_name": "Guanajuato",
+    "lat": "20.5703",
+    "lng": "-101.1972",
+    "id": "1484741627"
+  },
+  {
+    "city": "Guasavito",
+    "city_ascii": "Guasavito",
+    "admin_name": "Sinaloa",
+    "lat": "25.5744",
+    "lng": "-108.4706",
+    "id": "1484662260"
+  },
+  {
+    "city": "Tehuacán",
+    "city_ascii": "Tehuacan",
+    "admin_name": "Puebla",
+    "lat": "18.4617",
+    "lng": "-97.3928",
+    "id": "1484817336"
+  },
+  {
+    "city": "Coatzacoalcos",
+    "city_ascii": "Coatzacoalcos",
+    "admin_name": "Veracruz",
+    "lat": "18.1414",
+    "lng": "-94.4344",
+    "id": "1484016854"
+  },
+  {
+    "city": "Chalco",
+    "city_ascii": "Chalco",
+    "admin_name": "México",
+    "lat": "19.2647",
+    "lng": "-98.8975",
+    "id": "1484834149"
+  },
+  {
+    "city": "Ciudad Benito Juárez",
+    "city_ascii": "Ciudad Benito Juarez",
+    "admin_name": "Nuevo León",
+    "lat": "25.6500",
+    "lng": "-100.0833",
+    "id": "1484140727"
+  },
+  {
+    "city": "Ciudad Santa Catarina",
+    "city_ascii": "Ciudad Santa Catarina",
+    "admin_name": "Nuevo León",
+    "lat": "25.6833",
+    "lng": "-100.4500",
+    "id": "1484858068"
+  },
+  {
+    "city": "Ciudad Victoria",
+    "city_ascii": "Ciudad Victoria",
+    "admin_name": "Tamaulipas",
+    "lat": "23.7389",
+    "lng": "-99.1431",
+    "id": "1484616519"
+  },
+  {
+    "city": "Playa del Carmen",
+    "city_ascii": "Playa del Carmen",
+    "admin_name": "Quintana Roo",
+    "lat": "20.6281",
+    "lng": "-87.0755",
+    "id": "1484559458"
+  },
+  {
+    "city": "La Peña",
+    "city_ascii": "La Pena",
+    "admin_name": "México",
+    "lat": "19.3606",
+    "lng": "-98.9417",
+    "id": "1484889859"
+  },
+  {
+    "city": "San Juan del Río",
+    "city_ascii": "San Juan del Rio",
+    "admin_name": "Querétaro",
+    "lat": "20.3833",
+    "lng": "-99.9833",
+    "id": "1484890205"
+  },
+  {
+    "city": "Oaxaca",
+    "city_ascii": "Oaxaca",
+    "admin_name": "Oaxaca",
+    "lat": "17.0606",
+    "lng": "-96.7253",
+    "id": "1484301467"
+  },
+  {
+    "city": "Los Mochis",
+    "city_ascii": "Los Mochis",
+    "admin_name": "Sinaloa",
+    "lat": "25.7835",
+    "lng": "-108.9937",
+    "id": "1484443585"
+  },
+  {
+    "city": "Pachuca",
+    "city_ascii": "Pachuca",
+    "admin_name": "Hidalgo",
+    "lat": "20.1000",
+    "lng": "-98.7500",
+    "id": "1484575026"
+  },
+  {
+    "city": "Tampico",
+    "city_ascii": "Tampico",
+    "admin_name": "Tamaulipas",
+    "lat": "22.2553",
+    "lng": "-97.8686",
+    "id": "1484060031"
+  },
+  {
+    "city": "Coacalco",
+    "city_ascii": "Coacalco",
+    "admin_name": "México",
+    "lat": "19.6333",
+    "lng": "-99.0931",
+    "id": "1484929782"
+  },
+  {
+    "city": "Huixquilucan",
+    "city_ascii": "Huixquilucan",
+    "admin_name": "México",
+    "lat": "19.3611",
+    "lng": "-99.3508",
+    "id": "1484187110"
+  },
+  {
+    "city": "Nogales",
+    "city_ascii": "Nogales",
+    "admin_name": "Sonora",
+    "lat": "31.3000",
+    "lng": "-110.9333",
+    "id": "1484793569"
+  },
+  {
+    "city": "Heroica Nogales",
+    "city_ascii": "Heroica Nogales",
+    "admin_name": "Sonora",
+    "lat": "31.3186",
+    "lng": "-110.9458",
+    "id": "1484364591"
+  },
+  {
+    "city": "La Paz",
+    "city_ascii": "La Paz",
+    "admin_name": "Baja California Sur",
+    "lat": "24.1422",
+    "lng": "-110.3108",
+    "id": "1484005187"
+  },
+  {
+    "city": "Campeche",
+    "city_ascii": "Campeche",
+    "admin_name": "Campeche",
+    "lat": "19.8500",
+    "lng": "-90.5306",
+    "id": "1484431512"
+  },
+  {
+    "city": "Carmen",
+    "city_ascii": "Carmen",
+    "admin_name": "Campeche",
+    "lat": "18.6431",
+    "lng": "-91.8306",
+    "id": "1484620016"
+  },
+  {
+    "city": "Monclova",
+    "city_ascii": "Monclova",
+    "admin_name": "Coahuila",
+    "lat": "26.9103",
+    "lng": "-101.4222",
+    "id": "1484281759"
+  },
+  {
+    "city": "García",
+    "city_ascii": "Garcia",
+    "admin_name": "Nuevo León",
+    "lat": "25.8167",
+    "lng": "-100.5833",
+    "id": "1484753599"
+  },
+  {
+    "city": "Fresnillo",
+    "city_ascii": "Fresnillo",
+    "admin_name": "Zacatecas",
+    "lat": "23.1750",
+    "lng": "-102.8675",
+    "id": "1484014035"
+  },
+  {
+    "city": "Chilpancingo",
+    "city_ascii": "Chilpancingo",
+    "admin_name": "Guerrero",
+    "lat": "17.5500",
+    "lng": "-99.5000",
+    "id": "1484290575"
+  },
+  {
+    "city": "Puerto Vallarta",
+    "city_ascii": "Puerto Vallarta",
+    "admin_name": "Jalisco",
+    "lat": "20.6458",
+    "lng": "-105.2222",
+    "id": "1484408906"
+  },
+  {
+    "city": "Tapachula",
+    "city_ascii": "Tapachula",
+    "admin_name": "Chiapas",
+    "lat": "14.9000",
+    "lng": "-92.2667",
+    "id": "1484997178"
+  },
+  {
+    "city": "Jiutepec",
+    "city_ascii": "Jiutepec",
+    "admin_name": "Morelos",
+    "lat": "18.8833",
+    "lng": "-99.1667",
+    "id": "1484001709"
+  },
+  {
+    "city": "Comalcalco",
+    "city_ascii": "Comalcalco",
+    "admin_name": "Tabasco",
+    "lat": "18.2801",
+    "lng": "-93.2018",
+    "id": "1484317909"
+  },
+  {
+    "city": "Zamora",
+    "city_ascii": "Zamora",
+    "admin_name": "Michoacán",
+    "lat": "19.9833",
+    "lng": "-102.2833",
+    "id": "1484229977"
+  },
+  {
+    "city": "Córdoba",
+    "city_ascii": "Cordoba",
+    "admin_name": "Veracruz",
+    "lat": "18.8942",
+    "lng": "-96.9347",
+    "id": "1484179679"
+  },
+  {
+    "city": "Cabo San Lucas",
+    "city_ascii": "Cabo San Lucas",
+    "admin_name": "Baja California Sur",
+    "lat": "22.8897",
+    "lng": "-109.9156",
+    "id": "1484694325"
+  },
+  {
+    "city": "El Tezal",
+    "city_ascii": "El Tezal",
+    "admin_name": "Baja California Sur",
+    "lat": "22.8897",
+    "lng": "-109.9156",
+    "id": "1484747622"
+  },
+  {
+    "city": "Ciudad Madero",
+    "city_ascii": "Ciudad Madero",
+    "admin_name": "Tamaulipas",
+    "lat": "22.2475",
+    "lng": "-97.8375",
+    "id": "1484185237"
+  },
+  {
+    "city": "Cuautla",
+    "city_ascii": "Cuautla",
+    "admin_name": "Morelos",
+    "lat": "18.8167",
+    "lng": "-98.9500",
+    "id": "1484359683"
+  },
+  {
+    "city": "Guanajuato",
+    "city_ascii": "Guanajuato",
+    "admin_name": "Guanajuato",
+    "lat": "21.0178",
+    "lng": "-101.2567",
+    "id": "1484185068"
+  },
+  {
+    "city": "Cholula de Rivadabia",
+    "city_ascii": "Cholula de Rivadabia",
+    "admin_name": "Puebla",
+    "lat": "19.0633",
+    "lng": "-98.3064",
+    "id": "1484237822"
+  },
+  {
+    "city": "Ciudad del Carmen",
+    "city_ascii": "Ciudad del Carmen",
+    "admin_name": "Campeche",
+    "lat": "18.6333",
+    "lng": "-91.8333",
+    "id": "1484192447"
+  },
+  {
+    "city": "Manzanillo",
+    "city_ascii": "Manzanillo",
+    "admin_name": "Colima",
+    "lat": "19.0522",
+    "lng": "-104.3158",
+    "id": "1484223913"
+  },
+  {
+    "city": "Poza Rica de Hidalgo",
+    "city_ascii": "Poza Rica de Hidalgo",
+    "admin_name": "Veracruz",
+    "lat": "20.5333",
+    "lng": "-97.4500",
+    "id": "1484808798"
+  },
+  {
+    "city": "San Cristóbal",
+    "city_ascii": "San Cristobal",
+    "admin_name": "Chiapas",
+    "lat": "16.7367",
+    "lng": "-92.6383",
+    "id": "1484451215"
+  },
+  {
+    "city": "Cuauhtémoc",
+    "city_ascii": "Cuauhtemoc",
+    "admin_name": "Chihuahua",
+    "lat": "28.4050",
+    "lng": "-106.8667",
+    "id": "1484365643"
+  },
+  {
+    "city": "Cuautitlán",
+    "city_ascii": "Cuautitlan",
+    "admin_name": "México",
+    "lat": "19.6833",
+    "lng": "-99.1833",
+    "id": "1484256075"
+  },
+  {
+    "city": "Ciudad Valles",
+    "city_ascii": "Ciudad Valles",
+    "admin_name": "San Luis Potosí",
+    "lat": "21.9833",
+    "lng": "-99.0167",
+    "id": "1484904610"
+  },
+  {
+    "city": "San Luis Río Colorado",
+    "city_ascii": "San Luis Rio Colorado",
+    "admin_name": "Sonora",
+    "lat": "32.4767",
+    "lng": "-114.7625",
+    "id": "1484573106"
+  },
+  {
+    "city": "Santa María Texmelucan",
+    "city_ascii": "Santa Maria Texmelucan",
+    "admin_name": "Puebla",
+    "lat": "19.2833",
+    "lng": "-98.4333",
+    "id": "1484127851"
+  },
+  {
+    "city": "Chicoloapan",
+    "city_ascii": "Chicoloapan",
+    "admin_name": "México",
+    "lat": "19.4167",
+    "lng": "-98.9000",
+    "id": "1484980825"
+  },
+  {
+    "city": "Piedras Negras",
+    "city_ascii": "Piedras Negras",
+    "admin_name": "Coahuila",
+    "lat": "28.7000",
+    "lng": "-100.5231",
+    "id": "1484000400"
+  },
+  {
+    "city": "Lagos de Moreno",
+    "city_ascii": "Lagos de Moreno",
+    "admin_name": "Jalisco",
+    "lat": "21.3500",
+    "lng": "-101.9167",
+    "id": "1484759605"
+  },
+  {
+    "city": "Guadalupe",
+    "city_ascii": "Guadalupe",
+    "admin_name": "Zacatecas",
+    "lat": "22.7528",
+    "lng": "-102.5078",
+    "id": "1484781342"
+  },
+  {
+    "city": "Chetumal",
+    "city_ascii": "Chetumal",
+    "admin_name": "Quintana Roo",
+    "lat": "18.5036",
+    "lng": "-88.3053",
+    "id": "1484338031"
+  },
+  {
+    "city": "San Martin Texmelucan de Labastida",
+    "city_ascii": "San Martin Texmelucan de Labastida",
+    "admin_name": "Puebla",
+    "lat": "19.2833",
+    "lng": "-98.4333",
+    "id": "1484481265"
+  },
+  {
+    "city": "Tuxtepec",
+    "city_ascii": "Tuxtepec",
+    "admin_name": "Oaxaca",
+    "lat": "18.1000",
+    "lng": "-96.1167",
+    "id": "1484448356"
+  },
+  {
+    "city": "San Andrés Tuxtla",
+    "city_ascii": "San Andres Tuxtla",
+    "admin_name": "Veracruz",
+    "lat": "18.4483",
+    "lng": "-95.2122",
+    "id": "1484871648"
+  },
+  {
+    "city": "Papantla de Olarte",
+    "city_ascii": "Papantla de Olarte",
+    "admin_name": "Veracruz",
+    "lat": "20.4478",
+    "lng": "-97.3200",
+    "id": "1484844355"
+  },
+  {
+    "city": "Ciudad Acuña",
+    "city_ascii": "Ciudad Acuna",
+    "admin_name": "Coahuila",
+    "lat": "29.3242",
+    "lng": "-100.9317",
+    "id": "1484828397"
+  },
+  {
+    "city": "Macuspana",
+    "city_ascii": "Macuspana",
+    "admin_name": "Tabasco",
+    "lat": "17.7667",
+    "lng": "-92.6000",
+    "id": "1484086926"
+  },
+  {
+    "city": "Guaymas",
+    "city_ascii": "Guaymas",
+    "admin_name": "Sonora",
+    "lat": "27.9183",
+    "lng": "-110.8933",
+    "id": "1484822562"
+  },
+  {
+    "city": "Ixtlahuaca",
+    "city_ascii": "Ixtlahuaca",
+    "admin_name": "México",
+    "lat": "19.5689",
+    "lng": "-99.7669",
+    "id": "1484837068"
+  },
+  {
+    "city": "Tulancingo",
+    "city_ascii": "Tulancingo",
+    "admin_name": "Hidalgo",
+    "lat": "20.0833",
+    "lng": "-98.3667",
+    "id": "1484419416"
+  },
+  {
+    "city": "Delicias",
+    "city_ascii": "Delicias",
+    "admin_name": "Chihuahua",
+    "lat": "28.1931",
+    "lng": "-105.4717",
+    "id": "1484405772"
+  },
+  {
+    "city": "Valle de Santiago",
+    "city_ascii": "Valle de Santiago",
+    "admin_name": "Guanajuato",
+    "lat": "20.3900",
+    "lng": "-101.2600",
+    "id": "1484060538"
+  },
+  {
+    "city": "Pénjamo",
+    "city_ascii": "Penjamo",
+    "admin_name": "Guanajuato",
+    "lat": "20.4311",
+    "lng": "-101.7222",
+    "id": "1484131107"
+  },
+  {
+    "city": "Villa de Álvarez",
+    "city_ascii": "Villa de Alvarez",
+    "admin_name": "Colima",
+    "lat": "19.2500",
+    "lng": "-103.7333",
+    "id": "1484653806"
+  },
+  {
+    "city": "Zacatecas",
+    "city_ascii": "Zacatecas",
+    "admin_name": "Zacatecas",
+    "lat": "22.7736",
+    "lng": "-102.5736",
+    "id": "1484118312"
+  },
+  {
+    "city": "Pesquería",
+    "city_ascii": "Pesqueria",
+    "admin_name": "Nuevo León",
+    "lat": "25.7850",
+    "lng": "-100.0511",
+    "id": "1484002865"
+  },
+  {
+    "city": "Colima",
+    "city_ascii": "Colima",
+    "admin_name": "Colima",
+    "lat": "19.2433",
+    "lng": "-103.7247",
+    "id": "1484585697"
+  },
+  {
+    "city": "Tepatitlán de Morelos",
+    "city_ascii": "Tepatitlan de Morelos",
+    "admin_name": "Jalisco",
+    "lat": "20.8139",
+    "lng": "-102.7639",
+    "id": "1484777621"
+  },
+  {
+    "city": "Las Maravillas",
+    "city_ascii": "Las Maravillas",
+    "admin_name": "Chiapas",
+    "lat": "16.3667",
+    "lng": "-91.7333",
+    "id": "1484792236"
+  },
+  {
+    "city": "Cuautitlán Izcalli",
+    "city_ascii": "Cuautitlan Izcalli",
+    "admin_name": "México",
+    "lat": "19.6500",
+    "lng": "-99.2500",
+    "id": "1484282338"
+  },
+  {
+    "city": "Kanasín",
+    "city_ascii": "Kanasin",
+    "admin_name": "Yucatán",
+    "lat": "20.9344",
+    "lng": "-89.5578",
+    "id": "1484390572"
+  },
+  {
+    "city": "Cunduacán",
+    "city_ascii": "Cunduacan",
+    "admin_name": "Tabasco",
+    "lat": "18.0667",
+    "lng": "-93.1667",
+    "id": "1484076708"
+  },
+  {
+    "city": "San José del Cabo",
+    "city_ascii": "San Jose del Cabo",
+    "admin_name": "Baja California Sur",
+    "lat": "23.0614",
+    "lng": "-109.7081",
+    "id": "1484157742"
+  },
+  {
+    "city": "Zinacantepec",
+    "city_ascii": "Zinacantepec",
+    "admin_name": "México",
+    "lat": "19.2833",
+    "lng": "-99.7333",
+    "id": "1484976252"
+  },
+  {
+    "city": "Tultepec",
+    "city_ascii": "Tultepec",
+    "admin_name": "México",
+    "lat": "19.6850",
+    "lng": "-99.1281",
+    "id": "1484818856"
+  },
+  {
+    "city": "Apatzingan de la Constitucion",
+    "city_ascii": "Apatzingan de la Constitucion",
+    "admin_name": "Michoacán",
+    "lat": "19.0886",
+    "lng": "-102.3508",
+    "id": "1484693242"
+  },
+  {
+    "city": "Orizaba",
+    "city_ascii": "Orizaba",
+    "admin_name": "Veracruz",
+    "lat": "18.8500",
+    "lng": "-97.1000",
+    "id": "1484766767"
+  },
+  {
+    "city": "San Pedro Garza García",
+    "city_ascii": "San Pedro Garza Garcia",
+    "admin_name": "Nuevo León",
+    "lat": "25.6667",
+    "lng": "-100.3000",
+    "id": "1484228590"
+  },
+  {
+    "city": "Ciudad Hidalgo",
+    "city_ascii": "Ciudad Hidalgo",
+    "admin_name": "Michoacán",
+    "lat": "19.6917",
+    "lng": "-100.5536",
+    "id": "1484580926"
+  },
+  {
+    "city": "Navojoa",
+    "city_ascii": "Navojoa",
+    "admin_name": "Sonora",
+    "lat": "27.0813",
+    "lng": "-109.4461",
+    "id": "1484166303"
+  },
+  {
+    "city": "Chilapa de Álvarez",
+    "city_ascii": "Chilapa de Alvarez",
+    "admin_name": "Guerrero",
+    "lat": "17.5944",
+    "lng": "-99.1778",
+    "id": "1484562441"
+  },
+  {
+    "city": "Tizayuca",
+    "city_ascii": "Tizayuca",
+    "admin_name": "Hidalgo",
+    "lat": "19.8333",
+    "lng": "-98.9833",
+    "id": "1484244950"
+  },
+  {
+    "city": "Miramar",
+    "city_ascii": "Miramar",
+    "admin_name": "Tamaulipas",
+    "lat": "22.3375",
+    "lng": "-97.8694",
+    "id": "1484353090"
+  },
+  {
+    "city": "Iguala de la Independencia",
+    "city_ascii": "Iguala de la Independencia",
+    "admin_name": "Guerrero",
+    "lat": "18.3450",
+    "lng": "-99.5383",
+    "id": "1484280781"
+  },
+  {
+    "city": "Matamoros",
+    "city_ascii": "Matamoros",
+    "admin_name": "Coahuila",
+    "lat": "25.5330",
+    "lng": "-103.2500",
+    "id": "1484930279"
+  },
+  {
+    "city": "Heroica Guaymas",
+    "city_ascii": "Heroica Guaymas",
+    "admin_name": "Sonora",
+    "lat": "27.9183",
+    "lng": "-110.8989",
+    "id": "1484689704"
+  },
+  {
+    "city": "Tecomán",
+    "city_ascii": "Tecoman",
+    "admin_name": "Colima",
+    "lat": "18.9089",
+    "lng": "-103.8747",
+    "id": "1484348795"
+  },
+  {
+    "city": "Temixco",
+    "city_ascii": "Temixco",
+    "admin_name": "Morelos",
+    "lat": "18.8500",
+    "lng": "-99.2333",
+    "id": "1484273506"
+  },
+  {
+    "city": "El Pueblito",
+    "city_ascii": "El Pueblito",
+    "admin_name": "Querétaro",
+    "lat": "20.5397",
+    "lng": "-100.4414",
+    "id": "1484084843"
+  },
+  {
+    "city": "Ciudad Guzmán",
+    "city_ascii": "Ciudad Guzman",
+    "admin_name": "Jalisco",
+    "lat": "19.7000",
+    "lng": "-103.4667",
+    "id": "1484316056"
+  },
+  {
+    "city": "Tlapacoyan",
+    "city_ascii": "Tlapacoyan",
+    "admin_name": "Veracruz",
+    "lat": "19.9617",
+    "lng": "-97.2108",
+    "id": "1484434864"
+  },
+  {
+    "city": "Comitán",
+    "city_ascii": "Comitan",
+    "admin_name": "Chiapas",
+    "lat": "16.2500",
+    "lng": "-92.1333",
+    "id": "1484955658"
+  },
+  {
+    "city": "Chilón",
+    "city_ascii": "Chilon",
+    "admin_name": "Chiapas",
+    "lat": "17.2333",
+    "lng": "-92.4167",
+    "id": "1484862349"
+  },
+  {
+    "city": "San Antonio la Isla",
+    "city_ascii": "San Antonio la Isla",
+    "admin_name": "México",
+    "lat": "19.1677",
+    "lng": "-99.5542",
+    "id": "1484369728"
+  },
+  {
+    "city": "San Antonio Enchisi",
+    "city_ascii": "San Antonio Enchisi",
+    "admin_name": "México",
+    "lat": "19.7072",
+    "lng": "-99.7867",
+    "id": "1484770456"
+  },
+  {
+    "city": "Martínez de la Torre",
+    "city_ascii": "Martinez de la Torre",
+    "admin_name": "Veracruz",
+    "lat": "20.0667",
+    "lng": "-97.0500",
+    "id": "1484150240"
+  },
+  {
+    "city": "San Francisco de la Piedad",
+    "city_ascii": "San Francisco de la Piedad",
+    "admin_name": "Guanajuato",
+    "lat": "20.0325",
+    "lng": "-100.7214",
+    "id": "1484681430"
+  },
+  {
+    "city": "Ocotlán",
+    "city_ascii": "Ocotlan",
+    "admin_name": "Jalisco",
+    "lat": "20.3467",
+    "lng": "-102.7744",
+    "id": "1484159296"
+  },
+  {
+    "city": "Temoaya",
+    "city_ascii": "Temoaya",
+    "admin_name": "México",
+    "lat": "19.4686",
+    "lng": "-99.5933",
+    "id": "1484890875"
+  },
+  {
+    "city": "Lerma",
+    "city_ascii": "Lerma",
+    "admin_name": "México",
+    "lat": "19.2847",
+    "lng": "-99.5119",
+    "id": "1484402392"
+  },
+  {
+    "city": "Texcoco",
+    "city_ascii": "Texcoco",
+    "admin_name": "México",
+    "lat": "19.5200",
+    "lng": "-98.8800",
+    "id": "1484653265"
+  },
+  {
+    "city": "Parral",
+    "city_ascii": "Parral",
+    "admin_name": "Chihuahua",
+    "lat": "26.9333",
+    "lng": "-105.6667",
+    "id": "1484607603"
+  },
+  {
+    "city": "Tenancingo",
+    "city_ascii": "Tenancingo",
+    "admin_name": "México",
+    "lat": "18.9608",
+    "lng": "-99.5906",
+    "id": "1484006247"
+  },
+  {
+    "city": "Tula de Allende",
+    "city_ascii": "Tula de Allende",
+    "admin_name": "Hidalgo",
+    "lat": "20.0500",
+    "lng": "-99.3500",
+    "id": "1484845374"
+  },
+  {
+    "city": "Tepexpan",
+    "city_ascii": "Tepexpan",
+    "admin_name": "México",
+    "lat": "19.6192",
+    "lng": "-98.9353",
+    "id": "1484184592"
+  },
+  {
+    "city": "Matehuala",
+    "city_ascii": "Matehuala",
+    "admin_name": "San Luis Potosí",
+    "lat": "23.6528",
+    "lng": "-100.6444",
+    "id": "1484682498"
+  },
+  {
+    "city": "Ciudad Río Bravo",
+    "city_ascii": "Ciudad Rio Bravo",
+    "admin_name": "Tamaulipas",
+    "lat": "25.9861",
+    "lng": "-98.0889",
+    "id": "1484549731"
+  },
+  {
+    "city": "Playas de Rosarito",
+    "city_ascii": "Playas de Rosarito",
+    "admin_name": "Baja California",
+    "lat": "32.3422",
+    "lng": "-117.0561",
+    "id": "1484522993"
+  },
+  {
+    "city": "San Felipe del Progreso",
+    "city_ascii": "San Felipe del Progreso",
+    "admin_name": "México",
+    "lat": "19.7125",
+    "lng": "-99.9511",
+    "id": "1484781559"
+  },
+  {
+    "city": "Ixmiquilpan",
+    "city_ascii": "Ixmiquilpan",
+    "admin_name": "Hidalgo",
+    "lat": "20.4819",
+    "lng": "-99.2181",
+    "id": "1484683374"
+  },
+  {
+    "city": "Pátzcuaro",
+    "city_ascii": "Patzcuaro",
+    "admin_name": "Michoacán",
+    "lat": "19.5164",
+    "lng": "-101.6097",
+    "id": "1484039505"
+  },
+  {
+    "city": "Tamazunchale",
+    "city_ascii": "Tamazunchale",
+    "admin_name": "San Luis Potosí",
+    "lat": "21.2667",
+    "lng": "-98.7833",
+    "id": "1484802864"
+  },
+  {
+    "city": "Paraíso",
+    "city_ascii": "Paraiso",
+    "admin_name": "Tabasco",
+    "lat": "18.3961",
+    "lng": "-93.2128",
+    "id": "1484393519"
+  },
+  {
+    "city": "Rincón de Romos",
+    "city_ascii": "Rincon de Romos",
+    "admin_name": "Aguascalientes",
+    "lat": "22.2333",
+    "lng": "-102.3167",
+    "id": "1484371427"
+  },
+  {
+    "city": "Santa Cruz Xoxocotlán",
+    "city_ascii": "Santa Cruz Xoxocotlan",
+    "admin_name": "Oaxaca",
+    "lat": "17.0264",
+    "lng": "-96.7333",
+    "id": "1484706021"
+  },
+  {
+    "city": "Teziutlan",
+    "city_ascii": "Teziutlan",
+    "admin_name": "Puebla",
+    "lat": "19.8178",
+    "lng": "-97.3667",
+    "id": "1484709570"
+  },
+  {
+    "city": "Coatepec",
+    "city_ascii": "Coatepec",
+    "admin_name": "Veracruz",
+    "lat": "19.4522",
+    "lng": "-96.9614",
+    "id": "1484934939"
+  },
+  {
+    "city": "San José del Rincón Centro",
+    "city_ascii": "San Jose del Rincon Centro",
+    "admin_name": "México",
+    "lat": "19.6606",
+    "lng": "-100.1525",
+    "id": "1484390046"
+  },
+  {
+    "city": "Agua Prieta",
+    "city_ascii": "Agua Prieta",
+    "admin_name": "Sonora",
+    "lat": "31.3258",
+    "lng": "-109.5489",
+    "id": "1484381848"
+  },
+  {
+    "city": "Ciudad de Atlixco",
+    "city_ascii": "Ciudad de Atlixco",
+    "admin_name": "Puebla",
+    "lat": "18.9000",
+    "lng": "-98.4500",
+    "id": "1484268457"
+  },
+  {
+    "city": "San Francisco",
+    "city_ascii": "San Francisco",
+    "admin_name": "Sonora",
+    "lat": "30.7841",
+    "lng": "-112.5180",
+    "id": "1484657489"
+  },
+  {
+    "city": "Jilotepec",
+    "city_ascii": "Jilotepec",
+    "admin_name": "México",
+    "lat": "19.9519",
+    "lng": "-99.5328",
+    "id": "1484789785"
+  },
+  {
+    "city": "Salinas Victoria",
+    "city_ascii": "Salinas Victoria",
+    "admin_name": "Nuevo León",
+    "lat": "25.9667",
+    "lng": "-100.3000",
+    "id": "1484014927"
+  },
+  {
+    "city": "Santa Rosa Jauregui",
+    "city_ascii": "Santa Rosa Jauregui",
+    "admin_name": "Querétaro",
+    "lat": "20.7418",
+    "lng": "-100.4473",
+    "id": "1484681374"
+  },
+  {
+    "city": "Guasave",
+    "city_ascii": "Guasave",
+    "admin_name": "Sinaloa",
+    "lat": "25.5655",
+    "lng": "-108.4718",
+    "id": "1484450749"
+  },
+  {
+    "city": "Apaseo el Grande",
+    "city_ascii": "Apaseo el Grande",
+    "admin_name": "Guanajuato",
+    "lat": "20.5531",
+    "lng": "-100.6347",
+    "id": "1484338735"
+  },
+  {
+    "city": "Ciudad Mante",
+    "city_ascii": "Ciudad Mante",
+    "admin_name": "Tamaulipas",
+    "lat": "22.7333",
+    "lng": "-98.9500",
+    "id": "1484536173"
+  },
+  {
+    "city": "Túxpam de Rodríguez Cano",
+    "city_ascii": "Tuxpam de Rodriguez Cano",
+    "admin_name": "Veracruz",
+    "lat": "20.9500",
+    "lng": "-97.4000",
+    "id": "1484316468"
+  },
+  {
+    "city": "Acayucan",
+    "city_ascii": "Acayucan",
+    "admin_name": "Veracruz",
+    "lat": "17.9422",
+    "lng": "-94.9103",
+    "id": "1484349924"
+  },
+  {
+    "city": "La Piedad",
+    "city_ascii": "La Piedad",
+    "admin_name": "Michoacán",
+    "lat": "20.3333",
+    "lng": "-102.0167",
+    "id": "1484779296"
+  },
+  {
+    "city": "La Trinidad",
+    "city_ascii": "La Trinidad",
+    "admin_name": "Chiapas",
+    "lat": "15.9833",
+    "lng": "-91.8667",
+    "id": "1484023235"
+  },
+  {
+    "city": "Villa Vicente Guerrero",
+    "city_ascii": "Villa Vicente Guerrero",
+    "admin_name": "Tlaxcala",
+    "lat": "19.1190",
+    "lng": "-98.1700",
+    "id": "1484274098"
+  },
+  {
+    "city": "Comonfort",
+    "city_ascii": "Comonfort",
+    "admin_name": "Guanajuato",
+    "lat": "20.7167",
+    "lng": "-100.7667",
+    "id": "1484359235"
+  },
+  {
+    "city": "Apizaco",
+    "city_ascii": "Apizaco",
+    "admin_name": "Tlaxcala",
+    "lat": "19.4167",
+    "lng": "-98.1333",
+    "id": "1484021647"
+  },
+  {
+    "city": "Xicotepec de Juárez",
+    "city_ascii": "Xicotepec de Juarez",
+    "admin_name": "Puebla",
+    "lat": "20.3000",
+    "lng": "-97.9667",
+    "id": "1484427246"
+  },
+  {
+    "city": "Salina Cruz",
+    "city_ascii": "Salina Cruz",
+    "admin_name": "Oaxaca",
+    "lat": "16.1833",
+    "lng": "-95.2083",
+    "id": "1484364230"
+  },
+  {
+    "city": "Tecate",
+    "city_ascii": "Tecate",
+    "admin_name": "Baja California",
+    "lat": "32.5722",
+    "lng": "-116.6403",
+    "id": "1484547809"
+  },
+  {
+    "city": "Tala",
+    "city_ascii": "Tala",
+    "admin_name": "Jalisco",
+    "lat": "20.6667",
+    "lng": "-103.7000",
+    "id": "1484003075"
+  },
+  {
+    "city": "Maravatío de Ocampo",
+    "city_ascii": "Maravatio de Ocampo",
+    "admin_name": "Michoacán",
+    "lat": "19.8976",
+    "lng": "-100.4500",
+    "id": "1484174386"
+  },
+  {
+    "city": "San Andrés Cholula",
+    "city_ascii": "San Andres Cholula",
+    "admin_name": "Puebla",
+    "lat": "19.0500",
+    "lng": "-98.3000",
+    "id": "1484648176"
+  },
+  {
+    "city": "Ciudad Lerdo",
+    "city_ascii": "Ciudad Lerdo",
+    "admin_name": "Durango",
+    "lat": "25.5500",
+    "lng": "-103.5167",
+    "id": "1484980436"
+  },
+  {
+    "city": "Ciudad Lázaro Cárdenas",
+    "city_ascii": "Ciudad Lazaro Cardenas",
+    "admin_name": "Michoacán",
+    "lat": "17.9561",
+    "lng": "-102.1922",
+    "id": "1484804575"
+  },
+  {
+    "city": "Sahuayo de Morelos",
+    "city_ascii": "Sahuayo de Morelos",
+    "admin_name": "Michoacán",
+    "lat": "20.0500",
+    "lng": "-102.7333",
+    "id": "1484554120"
+  },
+  {
+    "city": "Villa Victoria",
+    "city_ascii": "Villa Victoria",
+    "admin_name": "México",
+    "lat": "19.4333",
+    "lng": "-100.0000",
+    "id": "1484528358"
+  },
+  {
+    "city": "Huebampo",
+    "city_ascii": "Huebampo",
+    "admin_name": "Sonora",
+    "lat": "26.7228",
+    "lng": "-109.4856",
+    "id": "1484527916"
+  },
+  {
+    "city": "Perote",
+    "city_ascii": "Perote",
+    "admin_name": "Veracruz",
+    "lat": "19.5619",
+    "lng": "-97.2419",
+    "id": "1484668149"
+  },
+  {
+    "city": "Cozumel",
+    "city_ascii": "Cozumel",
+    "admin_name": "Quintana Roo",
+    "lat": "20.5104",
+    "lng": "-86.9493",
+    "id": "1484935305"
+  },
+  {
+    "city": "Tecamachalco",
+    "city_ascii": "Tecamachalco",
+    "admin_name": "Puebla",
+    "lat": "18.8667",
+    "lng": "-97.7167",
+    "id": "1484013224"
+  },
+  {
+    "city": "Tacámbaro de Codallos",
+    "city_ascii": "Tacambaro de Codallos",
+    "admin_name": "Michoacán",
+    "lat": "19.2356",
+    "lng": "-101.4569",
+    "id": "1484508699"
+  },
+  {
+    "city": "Cadereyta Jiménez",
+    "city_ascii": "Cadereyta Jimenez",
+    "admin_name": "Nuevo León",
+    "lat": "25.6000",
+    "lng": "-100.0000",
+    "id": "1484839099"
+  },
+  {
+    "city": "Frontera",
+    "city_ascii": "Frontera",
+    "admin_name": "Coahuila",
+    "lat": "26.9260",
+    "lng": "-101.4490",
+    "id": "1484811972"
+  },
+  {
+    "city": "Juchitán de Zaragoza",
+    "city_ascii": "Juchitan de Zaragoza",
+    "admin_name": "Oaxaca",
+    "lat": "16.4333",
+    "lng": "-95.0167",
+    "id": "1484386317"
+  },
+  {
+    "city": "Silao",
+    "city_ascii": "Silao",
+    "admin_name": "Guanajuato",
+    "lat": "20.9478",
+    "lng": "-101.4281",
+    "id": "1484276023"
+  },
+  {
+    "city": "San Francisco del Rincón",
+    "city_ascii": "San Francisco del Rincon",
+    "admin_name": "Guanajuato",
+    "lat": "21.0228",
+    "lng": "-101.8600",
+    "id": "1484674455"
+  },
+  {
+    "city": "Tejupilco",
+    "city_ascii": "Tejupilco",
+    "admin_name": "México",
+    "lat": "18.9058",
+    "lng": "-100.1528",
+    "id": "1484506998"
+  },
+  {
+    "city": "Linares",
+    "city_ascii": "Linares",
+    "admin_name": "Nuevo León",
+    "lat": "24.8597",
+    "lng": "-99.5647",
+    "id": "1484504671"
+  },
+  {
+    "city": "San Miguel de Allende",
+    "city_ascii": "San Miguel de Allende",
+    "admin_name": "Guanajuato",
+    "lat": "20.9142",
+    "lng": "-100.7436",
+    "id": "1484007926"
+  },
+  {
+    "city": "San Juan de los Lagos",
+    "city_ascii": "San Juan de los Lagos",
+    "admin_name": "Jalisco",
+    "lat": "21.2458",
+    "lng": "-102.3308",
+    "id": "1484319370"
+  },
+  {
+    "city": "Los Reyes de Salgado",
+    "city_ascii": "Los Reyes de Salgado",
+    "admin_name": "Michoacán",
+    "lat": "19.5833",
+    "lng": "-102.4667",
+    "id": "1484279186"
+  },
+  {
+    "city": "Rioverde",
+    "city_ascii": "Rioverde",
+    "admin_name": "San Luis Potosí",
+    "lat": "21.9300",
+    "lng": "-99.9800",
+    "id": "1484341437"
+  },
+  {
+    "city": "Izúcar de Matamoros",
+    "city_ascii": "Izucar de Matamoros",
+    "admin_name": "Puebla",
+    "lat": "18.6000",
+    "lng": "-98.4667",
+    "id": "1484858520"
+  },
+  {
+    "city": "Ixtaczoquitlán",
+    "city_ascii": "Ixtaczoquitlan",
+    "admin_name": "Veracruz",
+    "lat": "18.8500",
+    "lng": "-97.0667",
+    "id": "1484464346"
+  },
+  {
+    "city": "Purísima de Bustos",
+    "city_ascii": "Purisima de Bustos",
+    "admin_name": "Guanajuato",
+    "lat": "21.0333",
+    "lng": "-101.8667",
+    "id": "1484104201"
+  },
+  {
+    "city": "Jacona de Plancarte",
+    "city_ascii": "Jacona de Plancarte",
+    "admin_name": "Michoacán",
+    "lat": "19.9333",
+    "lng": "-102.3167",
+    "id": "1484202328"
+  },
+  {
+    "city": "Yuriria",
+    "city_ascii": "Yuriria",
+    "admin_name": "Guanajuato",
+    "lat": "20.2000",
+    "lng": "-101.1500",
+    "id": "1484511222"
+  },
+  {
+    "city": "Mineral de la Reforma",
+    "city_ascii": "Mineral de la Reforma",
+    "admin_name": "Hidalgo",
+    "lat": "20.1500",
+    "lng": "-98.4333",
+    "id": "1484886107"
+  },
+  {
+    "city": "Valle Hermoso",
+    "city_ascii": "Valle Hermoso",
+    "admin_name": "Tamaulipas",
+    "lat": "25.6736",
+    "lng": "-97.8144",
+    "id": "1484479299"
+  },
+  {
+    "city": "Zapotlanejo",
+    "city_ascii": "Zapotlanejo",
+    "admin_name": "Jalisco",
+    "lat": "20.6228",
+    "lng": "-103.0689",
+    "id": "1484013669"
+  },
+  {
+    "city": "Ixtlahuacán de los Membrillos",
+    "city_ascii": "Ixtlahuacan de los Membrillos",
+    "admin_name": "Jalisco",
+    "lat": "20.3500",
+    "lng": "-103.1833",
+    "id": "1484370414"
+  },
+  {
+    "city": "La Barca",
+    "city_ascii": "La Barca",
+    "admin_name": "Jalisco",
+    "lat": "20.2833",
+    "lng": "-102.5667",
+    "id": "1484900173"
+  },
+  {
+    "city": "Tepotzotlán",
+    "city_ascii": "Tepotzotlan",
+    "admin_name": "México",
+    "lat": "19.7161",
+    "lng": "-99.2236",
+    "id": "1484890297"
+  },
+  {
+    "city": "Santa Catarina Otzolotepec",
+    "city_ascii": "Santa Catarina Otzolotepec",
+    "admin_name": "Puebla",
+    "lat": "18.5667",
+    "lng": "-97.2500",
+    "id": "1484006128"
+  },
+  {
+    "city": "Heroica Caborca",
+    "city_ascii": "Heroica Caborca",
+    "admin_name": "Sonora",
+    "lat": "30.7167",
+    "lng": "-112.1500",
+    "id": "1484993432"
+  },
+  {
+    "city": "Zihuatanejo",
+    "city_ascii": "Zihuatanejo",
+    "admin_name": "Guerrero",
+    "lat": "17.6444",
+    "lng": "-101.5511",
+    "id": "1484489217"
+  },
+  {
+    "city": "Dolores Hidalgo Cuna de la Independencia Nacional",
+    "city_ascii": "Dolores Hidalgo Cuna de la Independencia Nacional",
+    "admin_name": "Guanajuato",
+    "lat": "21.1516",
+    "lng": "-100.9369",
+    "id": "1484115665"
+  },
+  {
+    "city": "San Mateo Atenco",
+    "city_ascii": "San Mateo Atenco",
+    "admin_name": "México",
+    "lat": "19.2667",
+    "lng": "-99.5333",
+    "id": "1484296261"
+  },
+  {
+    "city": "Ramos Arizpe",
+    "city_ascii": "Ramos Arizpe",
+    "admin_name": "Coahuila",
+    "lat": "25.5500",
+    "lng": "-100.9667",
+    "id": "1484685820"
+  },
+  {
+    "city": "Chignahuapan",
+    "city_ascii": "Chignahuapan",
+    "admin_name": "Puebla",
+    "lat": "19.8333",
+    "lng": "-98.0333",
+    "id": "1484645158"
+  },
+  {
+    "city": "Ocoyoacac",
+    "city_ascii": "Ocoyoacac",
+    "admin_name": "México",
+    "lat": "19.2739",
+    "lng": "-99.4606",
+    "id": "1484479100"
+  },
+  {
+    "city": "Torreón",
+    "city_ascii": "Torreon",
+    "admin_name": "Coahuila",
+    "lat": "25.5419",
+    "lng": "-103.4083",
+    "id": "1484215762"
+  },
+  {
+    "city": "Romita",
+    "city_ascii": "Romita",
+    "admin_name": "Guanajuato",
+    "lat": "20.8708",
+    "lng": "-101.5169",
+    "id": "1484697777"
+  },
+  {
+    "city": "Jocotitlán",
+    "city_ascii": "Jocotitlan",
+    "admin_name": "México",
+    "lat": "19.7072",
+    "lng": "-99.7867",
+    "id": "1484167307"
+  },
+  {
+    "city": "Autlán de Navarro",
+    "city_ascii": "Autlan de Navarro",
+    "admin_name": "Jalisco",
+    "lat": "19.7667",
+    "lng": "-104.3667",
+    "id": "1484240559"
+  },
+  {
+    "city": "Coyula",
+    "city_ascii": "Coyula",
+    "admin_name": "Jalisco",
+    "lat": "20.6586",
+    "lng": "-103.2264",
+    "id": "1484778877"
+  },
+  {
+    "city": "Sabinas",
+    "city_ascii": "Sabinas",
+    "admin_name": "Coahuila",
+    "lat": "27.9167",
+    "lng": "-101.3000",
+    "id": "1484526560"
+  },
+  {
+    "city": "Santo Domingo Tehuantepec",
+    "city_ascii": "Santo Domingo Tehuantepec",
+    "admin_name": "Oaxaca",
+    "lat": "16.3244",
+    "lng": "-95.2389",
+    "id": "1484904308"
+  },
+  {
+    "city": "Apaseo el Alto",
+    "city_ascii": "Apaseo el Alto",
+    "admin_name": "Guanajuato",
+    "lat": "20.4500",
+    "lng": "-100.6167",
+    "id": "1484638153"
+  },
+  {
+    "city": "Santiago Tianguistenco",
+    "city_ascii": "Santiago Tianguistenco",
+    "admin_name": "México",
+    "lat": "19.1797",
+    "lng": "-99.4706",
+    "id": "1484113134"
+  },
+  {
+    "city": "Misantla",
+    "city_ascii": "Misantla",
+    "admin_name": "Veracruz",
+    "lat": "19.9333",
+    "lng": "-96.8500",
+    "id": "1484744150"
+  },
+  {
+    "city": "Atotonilco el Alto",
+    "city_ascii": "Atotonilco el Alto",
+    "admin_name": "Jalisco",
+    "lat": "20.5333",
+    "lng": "-102.5000",
+    "id": "1484290836"
+  },
+  {
+    "city": "Guamúchil",
+    "city_ascii": "Guamuchil",
+    "admin_name": "Sinaloa",
+    "lat": "25.4639",
+    "lng": "-108.0794",
+    "id": "1484709566"
+  },
+  {
+    "city": "Teoloyucan",
+    "city_ascii": "Teoloyucan",
+    "admin_name": "México",
+    "lat": "19.7442",
+    "lng": "-99.1811",
+    "id": "1484003827"
+  },
+  {
+    "city": "Puerto Peñasco",
+    "city_ascii": "Puerto Penasco",
+    "admin_name": "Sonora",
+    "lat": "31.3167",
+    "lng": "-113.5369",
+    "id": "1484567937"
+  },
+  {
+    "city": "San Francisco de los Romo",
+    "city_ascii": "San Francisco de los Romo",
+    "admin_name": "Aguascalientes",
+    "lat": "22.0833",
+    "lng": "-102.2667",
+    "id": "1484352122"
+  },
+  {
+    "city": "Cortazar",
+    "city_ascii": "Cortazar",
+    "admin_name": "Guanajuato",
+    "lat": "20.4828",
+    "lng": "-100.9611",
+    "id": "1484238779"
+  },
+  {
+    "city": "Valle de Bravo",
+    "city_ascii": "Valle de Bravo",
+    "admin_name": "México",
+    "lat": "19.1925",
+    "lng": "-100.1306",
+    "id": "1484105173"
+  },
+  {
+    "city": "Huatusco",
+    "city_ascii": "Huatusco",
+    "admin_name": "Veracruz",
+    "lat": "19.1489",
+    "lng": "-96.9661",
+    "id": "1484463389"
+  },
+  {
+    "city": "Huejotzingo",
+    "city_ascii": "Huejotzingo",
+    "admin_name": "Puebla",
+    "lat": "19.1619",
+    "lng": "-98.4064",
+    "id": "1484474577"
+  },
+  {
+    "city": "Huehuetoca",
+    "city_ascii": "Huehuetoca",
+    "admin_name": "México",
+    "lat": "19.8342",
+    "lng": "-99.2033",
+    "id": "1484000089"
+  },
+  {
+    "city": "Altamira",
+    "city_ascii": "Altamira",
+    "admin_name": "Tamaulipas",
+    "lat": "22.3375",
+    "lng": "-97.8694",
+    "id": "1484764524"
+  },
+  {
+    "city": "Huauchinango",
+    "city_ascii": "Huauchinango",
+    "admin_name": "Puebla",
+    "lat": "20.1767",
+    "lng": "-98.0528",
+    "id": "1484856743"
+  },
+  {
+    "city": "Balancán",
+    "city_ascii": "Balancan",
+    "admin_name": "Tabasco",
+    "lat": "17.8000",
+    "lng": "-91.5333",
+    "id": "1484783192"
+  },
+  {
+    "city": "Mexquitic de Carmona",
+    "city_ascii": "Mexquitic de Carmona",
+    "admin_name": "San Luis Potosí",
+    "lat": "22.2667",
+    "lng": "-101.1167",
+    "id": "1484703531"
+  },
+  {
+    "city": "Temascalcingo",
+    "city_ascii": "Temascalcingo",
+    "admin_name": "México",
+    "lat": "19.9147",
+    "lng": "-100.0036",
+    "id": "1484038182"
+  },
+  {
+    "city": "Zempoala",
+    "city_ascii": "Zempoala",
+    "admin_name": "Hidalgo",
+    "lat": "19.9153",
+    "lng": "-98.6689",
+    "id": "1484524155"
+  },
+  {
+    "city": "Anahuac",
+    "city_ascii": "Anahuac",
+    "admin_name": "Veracruz",
+    "lat": "22.1833",
+    "lng": "-97.9333",
+    "id": "1484994415"
+  },
+  {
+    "city": "Jerez de García Salinas",
+    "city_ascii": "Jerez de Garcia Salinas",
+    "admin_name": "Zacatecas",
+    "lat": "22.6481",
+    "lng": "-102.9903",
+    "id": "1484361423"
+  },
+  {
+    "city": "Santiago Tuxtla",
+    "city_ascii": "Santiago Tuxtla",
+    "admin_name": "Veracruz",
+    "lat": "18.4653",
+    "lng": "-95.3025",
+    "id": "1484009696"
+  },
+  {
+    "city": "Cosamaloapan",
+    "city_ascii": "Cosamaloapan",
+    "admin_name": "Veracruz",
+    "lat": "18.3676",
+    "lng": "-95.7986",
+    "id": "1484307969"
+  },
+  {
+    "city": "Alvarado",
+    "city_ascii": "Alvarado",
+    "admin_name": "Veracruz",
+    "lat": "18.7811",
+    "lng": "-95.7572",
+    "id": "1484208918"
+  },
+  {
+    "city": "Tezonapa",
+    "city_ascii": "Tezonapa",
+    "admin_name": "Veracruz",
+    "lat": "18.6000",
+    "lng": "-96.6833",
+    "id": "1484617215"
+  },
+  {
+    "city": "Acambay",
+    "city_ascii": "Acambay",
+    "admin_name": "México",
+    "lat": "19.9539",
+    "lng": "-99.8431",
+    "id": "1484667611"
+  },
+  {
+    "city": "Acámbaro",
+    "city_ascii": "Acambaro",
+    "admin_name": "Guanajuato",
+    "lat": "20.0361",
+    "lng": "-100.7314",
+    "id": "1484524073"
+  },
+  {
+    "city": "Uman",
+    "city_ascii": "Uman",
+    "admin_name": "Yucatán",
+    "lat": "20.8833",
+    "lng": "-89.7500",
+    "id": "1484009408"
+  },
+  {
+    "city": "Chiapa de Corzo",
+    "city_ascii": "Chiapa de Corzo",
+    "admin_name": "Chiapas",
+    "lat": "16.7069",
+    "lng": "-93.0139",
+    "id": "1484314420"
+  },
+  {
+    "city": "Nuevo Casas Grandes",
+    "city_ascii": "Nuevo Casas Grandes",
+    "admin_name": "Chihuahua",
+    "lat": "30.4167",
+    "lng": "-107.9167",
+    "id": "1484004002"
+  },
+  {
+    "city": "Oxchuc",
+    "city_ascii": "Oxchuc",
+    "admin_name": "Chiapas",
+    "lat": "16.7833",
+    "lng": "-92.2833",
+    "id": "1484221816"
+  },
+  {
+    "city": "Ixhuatlán de Madero",
+    "city_ascii": "Ixhuatlan de Madero",
+    "admin_name": "Veracruz",
+    "lat": "20.6833",
+    "lng": "-98.0167",
+    "id": "1484817314"
+  },
+  {
+    "city": "Pinotepa",
+    "city_ascii": "Pinotepa",
+    "admin_name": "Oaxaca",
+    "lat": "16.3401",
+    "lng": "-98.0530",
+    "id": "1484150923"
+  },
+  {
+    "city": "Simojovel de Allende",
+    "city_ascii": "Simojovel de Allende",
+    "admin_name": "Chiapas",
+    "lat": "17.1500",
+    "lng": "-92.7167",
+    "id": "1484425686"
+  },
+  {
+    "city": "San José Villa de Allende",
+    "city_ascii": "San Jose Villa de Allende",
+    "admin_name": "México",
+    "lat": "19.3747",
+    "lng": "-100.1475",
+    "id": "1484492033"
+  },
+  {
+    "city": "Tizimín",
+    "city_ascii": "Tizimin",
+    "admin_name": "Yucatán",
+    "lat": "21.1425",
+    "lng": "-88.1647",
+    "id": "1484254957"
+  },
+  {
+    "city": "Tlacotepec",
+    "city_ascii": "Tlacotepec",
+    "admin_name": "Puebla",
+    "lat": "18.6882",
+    "lng": "-97.6489",
+    "id": "1484013898"
+  },
+  {
+    "city": "Taxco de Alarcón",
+    "city_ascii": "Taxco de Alarcon",
+    "admin_name": "Guerrero",
+    "lat": "18.5564",
+    "lng": "-99.6050",
+    "id": "1484987082"
+  },
+  {
+    "city": "Uriangato",
+    "city_ascii": "Uriangato",
+    "admin_name": "Guanajuato",
+    "lat": "20.1333",
+    "lng": "-101.1667",
+    "id": "1484679933"
+  },
+  {
+    "city": "Acatzingo",
+    "city_ascii": "Acatzingo",
+    "admin_name": "Puebla",
+    "lat": "18.9817",
+    "lng": "-97.7822",
+    "id": "1484022961"
+  },
+  {
+    "city": "Huamantla",
+    "city_ascii": "Huamantla",
+    "admin_name": "Tlaxcala",
+    "lat": "19.3133",
+    "lng": "-97.9228",
+    "id": "1484180362"
+  },
+  {
+    "city": "San Luis de la Paz",
+    "city_ascii": "San Luis de la Paz",
+    "admin_name": "Guanajuato",
+    "lat": "21.3000",
+    "lng": "-100.5167",
+    "id": "1484137795"
+  },
+  {
+    "city": "Palenque",
+    "city_ascii": "Palenque",
+    "admin_name": "Chiapas",
+    "lat": "17.4333",
+    "lng": "-91.8000",
+    "id": "1484011438"
+  },
+  {
+    "city": "Encarnación de Díaz",
+    "city_ascii": "Encarnacion de Diaz",
+    "admin_name": "Jalisco",
+    "lat": "21.5167",
+    "lng": "-102.2333",
+    "id": "1484206173"
+  },
+  {
+    "city": "Umán",
+    "city_ascii": "Uman",
+    "admin_name": "Yucatán",
+    "lat": "20.8833",
+    "lng": "-89.7500",
+    "id": "1484028324"
+  },
+  {
+    "city": "Zumpango",
+    "city_ascii": "Zumpango",
+    "admin_name": "México",
+    "lat": "19.7969",
+    "lng": "-99.0992",
+    "id": "1484625824"
+  },
+  {
+    "city": "Francisco I. Madero",
+    "city_ascii": "Francisco I. Madero",
+    "admin_name": "Coahuila",
+    "lat": "25.7753",
+    "lng": "-103.2731",
+    "id": "1484764993"
+  },
+  {
+    "city": "Tepeapulco",
+    "city_ascii": "Tepeapulco",
+    "admin_name": "Hidalgo",
+    "lat": "19.7856",
+    "lng": "-98.5517",
+    "id": "1484457950"
+  },
+  {
+    "city": "San Pedro",
+    "city_ascii": "San Pedro",
+    "admin_name": "Coahuila",
+    "lat": "24.7260",
+    "lng": "-102.9840",
+    "id": "1484673086"
+  },
+  {
+    "city": "Santa Lucía del Camino",
+    "city_ascii": "Santa Lucia del Camino",
+    "admin_name": "Oaxaca",
+    "lat": "17.0667",
+    "lng": "-96.7000",
+    "id": "1484226980"
+  },
+  {
+    "city": "Catemaco",
+    "city_ascii": "Catemaco",
+    "admin_name": "Veracruz",
+    "lat": "18.4167",
+    "lng": "-95.1167",
+    "id": "1484469922"
+  },
+  {
+    "city": "Cintalapa de Figueroa",
+    "city_ascii": "Cintalapa de Figueroa",
+    "admin_name": "Chiapas",
+    "lat": "16.6978",
+    "lng": "-93.7203",
+    "id": "1484563700"
+  },
+  {
+    "city": "Valladolid",
+    "city_ascii": "Valladolid",
+    "admin_name": "Yucatán",
+    "lat": "20.6894",
+    "lng": "-88.2017",
+    "id": "1484332013"
+  },
+  {
+    "city": "Jiménez",
+    "city_ascii": "Jimenez",
+    "admin_name": "Chihuahua",
+    "lat": "27.1300",
+    "lng": "-104.9067",
+    "id": "1484452730"
+  },
+  {
+    "city": "San Pedro Mixtepec",
+    "city_ascii": "San Pedro Mixtepec",
+    "admin_name": "Oaxaca",
+    "lat": "16.0000",
+    "lng": "-97.1169",
+    "id": "1484546885"
+  },
+  {
+    "city": "Ciudad Fernández",
+    "city_ascii": "Ciudad Fernandez",
+    "admin_name": "San Luis Potosí",
+    "lat": "21.9500",
+    "lng": "-100.0000",
+    "id": "1484923404"
+  },
+  {
+    "city": "Colonia del Sol",
+    "city_ascii": "Colonia del Sol",
+    "admin_name": "Baja California Sur",
+    "lat": "22.9125",
+    "lng": "-109.9208",
+    "id": "1484445555"
+  },
+  {
+    "city": "Cuetzalan",
+    "city_ascii": "Cuetzalan",
+    "admin_name": "Puebla",
+    "lat": "20.0333",
+    "lng": "-97.5167",
+    "id": "1484831454"
+  },
+  {
+    "city": "Ocosingo",
+    "city_ascii": "Ocosingo",
+    "admin_name": "Chiapas",
+    "lat": "16.9072",
+    "lng": "-92.0961",
+    "id": "1484937914"
+  },
+  {
+    "city": "Pabellón de Arteaga",
+    "city_ascii": "Pabellon de Arteaga",
+    "admin_name": "Aguascalientes",
+    "lat": "22.1500",
+    "lng": "-102.2667",
+    "id": "1484799033"
+  },
+  {
+    "city": "Buena Vista Tomatlán",
+    "city_ascii": "Buena Vista Tomatlan",
+    "admin_name": "Michoacán",
+    "lat": "19.2102",
+    "lng": "-102.5869",
+    "id": "1484801408"
+  },
+  {
+    "city": "Huichapan",
+    "city_ascii": "Huichapan",
+    "admin_name": "Hidalgo",
+    "lat": "20.3733",
+    "lng": "-99.6489",
+    "id": "1484054165"
+  },
+  {
+    "city": "Chenalhó",
+    "city_ascii": "Chenalho",
+    "admin_name": "Chiapas",
+    "lat": "16.9333",
+    "lng": "-92.5667",
+    "id": "1484048952"
+  },
+  {
+    "city": "Calimaya",
+    "city_ascii": "Calimaya",
+    "admin_name": "México",
+    "lat": "19.1608",
+    "lng": "-99.6172",
+    "id": "1484137559"
+  },
+  {
+    "city": "Santiago",
+    "city_ascii": "Santiago",
+    "admin_name": "Nuevo León",
+    "lat": "25.4333",
+    "lng": "-100.1333",
+    "id": "1484043921"
+  },
+  {
+    "city": "Teotihuacan",
+    "city_ascii": "Teotihuacan",
+    "admin_name": "México",
+    "lat": "19.6897",
+    "lng": "-98.8608",
+    "id": "1484416743"
+  },
+  {
+    "city": "Santa Ana Chiautempan",
+    "city_ascii": "Santa Ana Chiautempan",
+    "admin_name": "Tlaxcala",
+    "lat": "19.3167",
+    "lng": "-98.1833",
+    "id": "1484567035"
+  },
+  {
+    "city": "El Dorado",
+    "city_ascii": "El Dorado",
+    "admin_name": "Sinaloa",
+    "lat": "24.3231",
+    "lng": "-107.3631",
+    "id": "1484719986"
+  },
+  {
+    "city": "La Independencia",
+    "city_ascii": "La Independencia",
+    "admin_name": "Chiapas",
+    "lat": "16.2526",
+    "lng": "-92.0237",
+    "id": "1484210828"
+  },
+  {
+    "city": "Tlalmanalco",
+    "city_ascii": "Tlalmanalco",
+    "admin_name": "México",
+    "lat": "19.2044",
+    "lng": "-98.8025",
+    "id": "1484054902"
+  },
+  {
+    "city": "Acaxochitlán",
+    "city_ascii": "Acaxochitlan",
+    "admin_name": "Hidalgo",
+    "lat": "20.1667",
+    "lng": "-98.2000",
+    "id": "1484005465"
+  },
+  {
+    "city": "Santa María Huatulco",
+    "city_ascii": "Santa Maria Huatulco",
+    "admin_name": "Oaxaca",
+    "lat": "15.8500",
+    "lng": "-96.3333",
+    "id": "1484007409"
+  },
+  {
+    "city": "Guacharachi",
+    "city_ascii": "Guacharachi",
+    "admin_name": "Chihuahua",
+    "lat": "27.1500",
+    "lng": "-107.3167",
+    "id": "1484013438"
+  },
+  {
+    "city": "Cuautepec de Hinojosa",
+    "city_ascii": "Cuautepec de Hinojosa",
+    "admin_name": "Hidalgo",
+    "lat": "20.1500",
+    "lng": "-98.4333",
+    "id": "1484413126"
+  },
+  {
+    "city": "Ciudad de Huajuapam de León",
+    "city_ascii": "Ciudad de Huajuapam de Leon",
+    "admin_name": "Oaxaca",
+    "lat": "17.8000",
+    "lng": "-97.7667",
+    "id": "1484375272"
+  },
+  {
+    "city": "Montemorelos",
+    "city_ascii": "Montemorelos",
+    "admin_name": "Nuevo León",
+    "lat": "25.1872",
+    "lng": "-99.8267",
+    "id": "1484813948"
+  },
+  {
+    "city": "Tres Valles",
+    "city_ascii": "Tres Valles",
+    "admin_name": "Veracruz",
+    "lat": "18.1667",
+    "lng": "-96.0167",
+    "id": "1484297361"
+  },
+  {
+    "city": "Jalacingo",
+    "city_ascii": "Jalacingo",
+    "admin_name": "Veracruz",
+    "lat": "19.6000",
+    "lng": "-97.2167",
+    "id": "1484760292"
+  },
+  {
+    "city": "Petatlán",
+    "city_ascii": "Petatlan",
+    "admin_name": "Guerrero",
+    "lat": "17.5383",
+    "lng": "-101.2739",
+    "id": "1484714363"
+  },
+  {
+    "city": "Tlajomulco de Zúñiga",
+    "city_ascii": "Tlajomulco de Zuniga",
+    "admin_name": "Jalisco",
+    "lat": "20.4736",
+    "lng": "-103.4431",
+    "id": "1484017493"
+  },
+  {
+    "city": "Zongolica",
+    "city_ascii": "Zongolica",
+    "admin_name": "Veracruz",
+    "lat": "18.6667",
+    "lng": "-97.0000",
+    "id": "1484604711"
+  },
+  {
+    "city": "Ciudad Constitución",
+    "city_ascii": "Ciudad Constitucion",
+    "admin_name": "Baja California Sur",
+    "lat": "25.0322",
+    "lng": "-111.6703",
+    "id": "1484811681"
+  },
+  {
+    "city": "Pedro Celestino Negrete",
+    "city_ascii": "Pedro Celestino Negrete",
+    "admin_name": "Durango",
+    "lat": "24.6113",
+    "lng": "-103.0944",
+    "id": "1484247270"
+  },
+  {
+    "city": "Loreto",
+    "city_ascii": "Loreto",
+    "admin_name": "Zacatecas",
+    "lat": "22.2667",
+    "lng": "-101.9833",
+    "id": "1484384276"
+  },
+  {
+    "city": "Actopan",
+    "city_ascii": "Actopan",
+    "admin_name": "Veracruz",
+    "lat": "19.5036",
+    "lng": "-96.6192",
+    "id": "1484594634"
+  },
+  {
+    "city": "Isla",
+    "city_ascii": "Isla",
+    "admin_name": "Veracruz",
+    "lat": "18.0333",
+    "lng": "-95.5333",
+    "id": "1484843047"
+  },
+  {
+    "city": "Hueyapan de Ocampo",
+    "city_ascii": "Hueyapan de Ocampo",
+    "admin_name": "Veracruz",
+    "lat": "18.1500",
+    "lng": "-95.1500",
+    "id": "1484670918"
+  },
+  {
+    "city": "Ocozocoautla de Espinosa",
+    "city_ascii": "Ocozocoautla de Espinosa",
+    "admin_name": "Chiapas",
+    "lat": "16.7500",
+    "lng": "-93.3667",
+    "id": "1484720187"
+  },
+  {
+    "city": "Jesús María",
+    "city_ascii": "Jesus Maria",
+    "admin_name": "Aguascalientes",
+    "lat": "21.9667",
+    "lng": "-102.3500",
+    "id": "1484096692"
+  },
+  {
+    "city": "Tepalcatepec",
+    "city_ascii": "Tepalcatepec",
+    "admin_name": "Michoacán",
+    "lat": "19.1833",
+    "lng": "-102.8500",
+    "id": "1484817788"
+  },
+  {
+    "city": "Atenco",
+    "city_ascii": "Atenco",
+    "admin_name": "México",
+    "lat": "19.5167",
+    "lng": "-98.9167",
+    "id": "1484838122"
+  },
+  {
+    "city": "Tecoanapa",
+    "city_ascii": "Tecoanapa",
+    "admin_name": "Guerrero",
+    "lat": "16.8000",
+    "lng": "-99.1500",
+    "id": "1484394496"
+  },
+  {
+    "city": "Acatlán de Pérez Figueroa",
+    "city_ascii": "Acatlan de Perez Figueroa",
+    "admin_name": "Oaxaca",
+    "lat": "18.5333",
+    "lng": "-96.6000",
+    "id": "1484695178"
+  },
+  {
+    "city": "Juventino Rosas",
+    "city_ascii": "Juventino Rosas",
+    "admin_name": "Guanajuato",
+    "lat": "20.6500",
+    "lng": "-101.0000",
+    "id": "1484008596"
+  },
+  {
+    "city": "Jocotepec",
+    "city_ascii": "Jocotepec",
+    "admin_name": "Jalisco",
+    "lat": "20.2863",
+    "lng": "-103.4304",
+    "id": "1484245726"
+  },
+  {
+    "city": "Coyuca de Catalán",
+    "city_ascii": "Coyuca de Catalan",
+    "admin_name": "Guerrero",
+    "lat": "18.3256",
+    "lng": "-100.6992",
+    "id": "1484460732"
+  },
+  {
+    "city": "Santa María Atzompa",
+    "city_ascii": "Santa Maria Atzompa",
+    "admin_name": "Oaxaca",
+    "lat": "17.1014",
+    "lng": "-96.7778",
+    "id": "1484411990"
+  },
+  {
+    "city": "Moroleón",
+    "city_ascii": "Moroleon",
+    "admin_name": "Guanajuato",
+    "lat": "20.1333",
+    "lng": "-101.2000",
+    "id": "1484802402"
+  },
+  {
+    "city": "San Luis Acatlán",
+    "city_ascii": "San Luis Acatlan",
+    "admin_name": "Guerrero",
+    "lat": "16.5333",
+    "lng": "-98.0500",
+    "id": "1484556142"
+  },
+  {
+    "city": "Coyotepec",
+    "city_ascii": "Coyotepec",
+    "admin_name": "México",
+    "lat": "19.7500",
+    "lng": "-99.1711",
+    "id": "1484352296"
+  },
+  {
+    "city": "Jáltipan de Morelos",
+    "city_ascii": "Jaltipan de Morelos",
+    "admin_name": "Veracruz",
+    "lat": "17.9703",
+    "lng": "-94.7144",
+    "id": "1484054405"
+  },
+  {
+    "city": "Tezoyuca",
+    "city_ascii": "Tezoyuca",
+    "admin_name": "México",
+    "lat": "19.7500",
+    "lng": "-99.1833",
+    "id": "1484920679"
+  },
+  {
+    "city": "Yajalón",
+    "city_ascii": "Yajalon",
+    "admin_name": "Chiapas",
+    "lat": "17.1833",
+    "lng": "-92.3167",
+    "id": "1484860213"
+  },
+  {
+    "city": "Camargo",
+    "city_ascii": "Camargo",
+    "admin_name": "Chihuahua",
+    "lat": "27.6670",
+    "lng": "-105.1670",
+    "id": "1484013592"
+  },
+  {
+    "city": "Cihuatlán",
+    "city_ascii": "Cihuatlan",
+    "admin_name": "Jalisco",
+    "lat": "19.2500",
+    "lng": "-104.5667",
+    "id": "1484019808"
+  },
+  {
+    "city": "Heroica Ciudad de Tlaxiaco",
+    "city_ascii": "Heroica Ciudad de Tlaxiaco",
+    "admin_name": "Oaxaca",
+    "lat": "17.2077",
+    "lng": "-97.6798",
+    "id": "1484201826"
+  },
+  {
+    "city": "Huejutla de Reyes",
+    "city_ascii": "Huejutla de Reyes",
+    "admin_name": "Hidalgo",
+    "lat": "21.1333",
+    "lng": "-98.4167",
+    "id": "1484746079"
+  },
+  {
+    "city": "Zimapan",
+    "city_ascii": "Zimapan",
+    "admin_name": "Hidalgo",
+    "lat": "20.7333",
+    "lng": "-99.3833",
+    "id": "1484785009"
+  },
+  {
+    "city": "Yecapixtla",
+    "city_ascii": "Yecapixtla",
+    "admin_name": "Morelos",
+    "lat": "18.8833",
+    "lng": "-98.8650",
+    "id": "1484433908"
+  },
+  {
+    "city": "Matías Romero",
+    "city_ascii": "Matias Romero",
+    "admin_name": "Oaxaca",
+    "lat": "16.8769",
+    "lng": "-95.0411",
+    "id": "1484296757"
+  },
+  {
+    "city": "Temascal",
+    "city_ascii": "Temascal",
+    "admin_name": "Oaxaca",
+    "lat": "18.2394",
+    "lng": "-96.4031",
+    "id": "1484505986"
+  },
+  {
+    "city": "Villa del Carbón",
+    "city_ascii": "Villa del Carbon",
+    "admin_name": "México",
+    "lat": "19.7272",
+    "lng": "-99.5417",
+    "id": "1484004677"
+  },
+  {
+    "city": "Apan",
+    "city_ascii": "Apan",
+    "admin_name": "Hidalgo",
+    "lat": "19.7000",
+    "lng": "-98.4333",
+    "id": "1484086106"
+  },
+  {
+    "city": "Playa Vicente",
+    "city_ascii": "Playa Vicente",
+    "admin_name": "Veracruz",
+    "lat": "17.8333",
+    "lng": "-95.8167",
+    "id": "1484068720"
+  },
+  {
+    "city": "Axochiapan",
+    "city_ascii": "Axochiapan",
+    "admin_name": "Morelos",
+    "lat": "18.5000",
+    "lng": "-98.7500",
+    "id": "1484424671"
+  },
+  {
+    "city": "Nueva Rosita",
+    "city_ascii": "Nueva Rosita",
+    "admin_name": "Coahuila",
+    "lat": "27.9372",
+    "lng": "-101.2172",
+    "id": "1484540557"
+  },
+  {
+    "city": "Ciudad Melchor Múzquiz",
+    "city_ascii": "Ciudad Melchor Muzquiz",
+    "admin_name": "Coahuila",
+    "lat": "27.8667",
+    "lng": "-101.5000",
+    "id": "1484736113"
+  },
+  {
+    "city": "Galeana",
+    "city_ascii": "Galeana",
+    "admin_name": "Nuevo León",
+    "lat": "24.8333",
+    "lng": "-100.0667",
+    "id": "1484336701"
+  },
+  {
+    "city": "Juan Rodríguez Clara",
+    "city_ascii": "Juan Rodriguez Clara",
+    "admin_name": "Veracruz",
+    "lat": "18.0000",
+    "lng": "-95.4000",
+    "id": "1484000401"
+  },
+  {
+    "city": "Empalme",
+    "city_ascii": "Empalme",
+    "admin_name": "Sonora",
+    "lat": "27.9617",
+    "lng": "-110.8125",
+    "id": "1484366250"
+  },
+  {
+    "city": "Zacatelco",
+    "city_ascii": "Zacatelco",
+    "admin_name": "Tlaxcala",
+    "lat": "19.2167",
+    "lng": "-98.2333",
+    "id": "1484460521"
+  },
+  {
+    "city": "Santa Clara del Cobre",
+    "city_ascii": "Santa Clara del Cobre",
+    "admin_name": "Michoacán",
+    "lat": "19.4050",
+    "lng": "-101.6380",
+    "id": "1484589302"
+  },
+  {
+    "city": "San Felipe Orizatlán",
+    "city_ascii": "San Felipe Orizatlan",
+    "admin_name": "Hidalgo",
+    "lat": "21.1719",
+    "lng": "-98.6064",
+    "id": "1484942420"
+  },
+  {
+    "city": "Xico",
+    "city_ascii": "Xico",
+    "admin_name": "Veracruz",
+    "lat": "19.4170",
+    "lng": "-97.0000",
+    "id": "1484011085"
+  },
+  {
+    "city": "Zacualtipán",
+    "city_ascii": "Zacualtipan",
+    "admin_name": "Hidalgo",
+    "lat": "20.6500",
+    "lng": "-98.6500",
+    "id": "1484806928"
+  },
+  {
+    "city": "Cananea",
+    "city_ascii": "Cananea",
+    "admin_name": "Sonora",
+    "lat": "30.9819",
+    "lng": "-110.3006",
+    "id": "1484752107"
+  },
+  {
+    "city": "Tlapa de Comonfort",
+    "city_ascii": "Tlapa de Comonfort",
+    "admin_name": "Guerrero",
+    "lat": "17.5461",
+    "lng": "-98.5764",
+    "id": "1484110723"
+  },
+  {
+    "city": "San Juan Cancuc",
+    "city_ascii": "San Juan Cancuc",
+    "admin_name": "Chiapas",
+    "lat": "16.9333",
+    "lng": "-92.3833",
+    "id": "1484128452"
+  },
+  {
+    "city": "Ameca",
+    "city_ascii": "Ameca",
+    "admin_name": "Jalisco",
+    "lat": "20.5486",
+    "lng": "-104.0431",
+    "id": "1484716155"
+  },
+  {
+    "city": "Tlalixcoyan",
+    "city_ascii": "Tlalixcoyan",
+    "admin_name": "Veracruz",
+    "lat": "18.8031",
+    "lng": "-96.0611",
+    "id": "1484527678"
+  },
+  {
+    "city": "Jalapa",
+    "city_ascii": "Jalapa",
+    "admin_name": "Tabasco",
+    "lat": "17.7000",
+    "lng": "-92.8000",
+    "id": "1484336788"
+  },
+  {
+    "city": "Mixquiahuala de Juarez",
+    "city_ascii": "Mixquiahuala de Juarez",
+    "admin_name": "Hidalgo",
+    "lat": "20.2311",
+    "lng": "-99.2131",
+    "id": "1484223912"
+  },
+  {
+    "city": "Melchor Ocampo",
+    "city_ascii": "Melchor Ocampo",
+    "admin_name": "México",
+    "lat": "19.7083",
+    "lng": "-99.1444",
+    "id": "1484243108"
+  },
+  {
+    "city": "Villaflores",
+    "city_ascii": "Villaflores",
+    "admin_name": "Chiapas",
+    "lat": "16.2355",
+    "lng": "-93.2677",
+    "id": "1484602239"
+  },
+  {
+    "city": "Tuxpan",
+    "city_ascii": "Tuxpan",
+    "admin_name": "Jalisco",
+    "lat": "19.5539",
+    "lng": "-103.3756",
+    "id": "1484236445"
+  },
+  {
+    "city": "Paracho de Verduzco",
+    "city_ascii": "Paracho de Verduzco",
+    "admin_name": "Michoacán",
+    "lat": "19.6500",
+    "lng": "-102.0667",
+    "id": "1484536308"
+  },
+  {
+    "city": "Progreso",
+    "city_ascii": "Progreso",
+    "admin_name": "Yucatán",
+    "lat": "21.2800",
+    "lng": "-89.6700",
+    "id": "1484340626"
+  },
+  {
+    "city": "Mariano Escobedo",
+    "city_ascii": "Mariano Escobedo",
+    "admin_name": "Veracruz",
+    "lat": "18.9167",
+    "lng": "-97.1333",
+    "id": "1484215926"
+  },
+  {
+    "city": "Salvatierra",
+    "city_ascii": "Salvatierra",
+    "admin_name": "Guanajuato",
+    "lat": "20.2156",
+    "lng": "-100.8961",
+    "id": "1484878589"
+  },
+  {
+    "city": "Ciudad Manuel Doblado",
+    "city_ascii": "Ciudad Manuel Doblado",
+    "admin_name": "Guanajuato",
+    "lat": "20.7303",
+    "lng": "-101.9533",
+    "id": "1484254805"
+  },
+  {
+    "city": "Sayula",
+    "city_ascii": "Sayula",
+    "admin_name": "Jalisco",
+    "lat": "19.8667",
+    "lng": "-103.6167",
+    "id": "1484178547"
+  },
+  {
+    "city": "Jaral del Progreso",
+    "city_ascii": "Jaral del Progreso",
+    "admin_name": "Guanajuato",
+    "lat": "20.3667",
+    "lng": "-101.0667",
+    "id": "1484182390"
+  },
+  {
+    "city": "Tomatlán",
+    "city_ascii": "Tomatlan",
+    "admin_name": "Jalisco",
+    "lat": "19.9369",
+    "lng": "-105.2500",
+    "id": "1484507470"
+  },
+  {
+    "city": "Coatepec Harinas",
+    "city_ascii": "Coatepec Harinas",
+    "admin_name": "México",
+    "lat": "18.9000",
+    "lng": "-99.7167",
+    "id": "1484641903"
+  },
+  {
+    "city": "Zacatepec",
+    "city_ascii": "Zacatepec",
+    "admin_name": "Morelos",
+    "lat": "18.6833",
+    "lng": "-99.1833",
+    "id": "1484549065"
+  },
+  {
+    "city": "Berriozábal",
+    "city_ascii": "Berriozabal",
+    "admin_name": "Chiapas",
+    "lat": "16.8003",
+    "lng": "-93.2733",
+    "id": "1484051098"
+  },
+  {
+    "city": "Miahuatlán de Porfirio Díaz",
+    "city_ascii": "Miahuatlan de Porfirio Diaz",
+    "admin_name": "Oaxaca",
+    "lat": "16.3167",
+    "lng": "-96.5833",
+    "id": "1484776246"
+  },
+  {
+    "city": "Tamuín",
+    "city_ascii": "Tamuin",
+    "admin_name": "San Luis Potosí",
+    "lat": "22.0000",
+    "lng": "-98.7833",
+    "id": "1484269723"
+  },
+  {
+    "city": "Tonalá",
+    "city_ascii": "Tonala",
+    "admin_name": "Chiapas",
+    "lat": "16.0914",
+    "lng": "-93.7518",
+    "id": "1484944309"
+  },
+  {
+    "city": "Ciudad de Allende",
+    "city_ascii": "Ciudad de Allende",
+    "admin_name": "Nuevo León",
+    "lat": "25.2833",
+    "lng": "-100.0167",
+    "id": "1484216013"
+  },
+  {
+    "city": "Tangancícuaro de Arista",
+    "city_ascii": "Tangancicuaro de Arista",
+    "admin_name": "Michoacán",
+    "lat": "19.8870",
+    "lng": "-102.2080",
+    "id": "1484528763"
+  },
+  {
+    "city": "Soteapan",
+    "city_ascii": "Soteapan",
+    "admin_name": "Veracruz",
+    "lat": "18.2333",
+    "lng": "-94.8667",
+    "id": "1484716801"
+  },
+  {
+    "city": "Río Grande",
+    "city_ascii": "Rio Grande",
+    "admin_name": "Zacatecas",
+    "lat": "23.8225",
+    "lng": "-103.0361",
+    "id": "1484276798"
+  },
+  {
+    "city": "Tenosique",
+    "city_ascii": "Tenosique",
+    "admin_name": "Tabasco",
+    "lat": "17.4756",
+    "lng": "-91.4225",
+    "id": "1484303350"
+  },
+  {
+    "city": "Ocuilan de Arteaga",
+    "city_ascii": "Ocuilan de Arteaga",
+    "admin_name": "México",
+    "lat": "19.0000",
+    "lng": "-99.4000",
+    "id": "1484570544"
+  },
+  {
+    "city": "Santa Ana Nextlalpan",
+    "city_ascii": "Santa Ana Nextlalpan",
+    "admin_name": "México",
+    "lat": "19.7167",
+    "lng": "-99.0667",
+    "id": "1484696225"
+  },
+  {
+    "city": "La Huacana",
+    "city_ascii": "La Huacana",
+    "admin_name": "Michoacán",
+    "lat": "18.9625",
+    "lng": "-101.8069",
+    "id": "1484078900"
+  },
+  {
+    "city": "Tepeji del Río de Ocampo",
+    "city_ascii": "Tepeji del Rio de Ocampo",
+    "admin_name": "Hidalgo",
+    "lat": "19.9039",
+    "lng": "-99.3414",
+    "id": "1484352351"
+  },
+  {
+    "city": "Acatlán de Osorio",
+    "city_ascii": "Acatlan de Osorio",
+    "admin_name": "Puebla",
+    "lat": "18.2086",
+    "lng": "-98.0575",
+    "id": "1484340141"
+  },
+  {
+    "city": "San Juan Evangelista",
+    "city_ascii": "San Juan Evangelista",
+    "admin_name": "Veracruz",
+    "lat": "17.8833",
+    "lng": "-95.1333",
+    "id": "1484667360"
+  },
+  {
+    "city": "Parras de la Fuente",
+    "city_ascii": "Parras de la Fuente",
+    "admin_name": "Coahuila",
+    "lat": "25.4403",
+    "lng": "-102.1792",
+    "id": "1484273682"
+  },
+  {
+    "city": "Zacatlán",
+    "city_ascii": "Zacatlan",
+    "admin_name": "Puebla",
+    "lat": "19.9319",
+    "lng": "-97.9600",
+    "id": "1484132726"
+  },
+  {
+    "city": "Zapotiltic",
+    "city_ascii": "Zapotiltic",
+    "admin_name": "Jalisco",
+    "lat": "19.6270",
+    "lng": "-103.4170",
+    "id": "1484535008"
+  },
+  {
+    "city": "Tlanchinol",
+    "city_ascii": "Tlanchinol",
+    "admin_name": "Hidalgo",
+    "lat": "19.9892",
+    "lng": "-98.6786",
+    "id": "1484386874"
+  },
+  {
+    "city": "Ixtapan de la Sal",
+    "city_ascii": "Ixtapan de la Sal",
+    "admin_name": "México",
+    "lat": "18.8333",
+    "lng": "-99.6833",
+    "id": "1484821151"
+  },
+  {
+    "city": "Santiago Juxtlahuaca",
+    "city_ascii": "Santiago Juxtlahuaca",
+    "admin_name": "Oaxaca",
+    "lat": "17.3333",
+    "lng": "-98.0167",
+    "id": "1484380988"
+  },
+  {
+    "city": "Paso de Ovejas",
+    "city_ascii": "Paso de Ovejas",
+    "admin_name": "Veracruz",
+    "lat": "19.2850",
+    "lng": "-96.4400",
+    "id": "1484005936"
+  },
+  {
+    "city": "Tulum",
+    "city_ascii": "Tulum",
+    "admin_name": "Quintana Roo",
+    "lat": "20.2119",
+    "lng": "-87.4658",
+    "id": "1484002889"
+  },
+  {
+    "city": "Calpulalpan",
+    "city_ascii": "Calpulalpan",
+    "admin_name": "Tlaxcala",
+    "lat": "19.5869",
+    "lng": "-98.5683",
+    "id": "1484814346"
+  },
+  {
+    "city": "Pánuco",
+    "city_ascii": "Panuco",
+    "admin_name": "Veracruz",
+    "lat": "22.0500",
+    "lng": "-98.1833",
+    "id": "1484059135"
+  },
+  {
+    "city": "Temascalapa",
+    "city_ascii": "Temascalapa",
+    "admin_name": "México",
+    "lat": "19.8000",
+    "lng": "-98.9000",
+    "id": "1484792221"
+  },
+  {
+    "city": "Villanueva",
+    "city_ascii": "Villanueva",
+    "admin_name": "Zacatecas",
+    "lat": "22.3536",
+    "lng": "-102.8831",
+    "id": "1484244113"
+  },
+  {
+    "city": "San Felipe",
+    "city_ascii": "San Felipe",
+    "admin_name": "Guanajuato",
+    "lat": "21.4833",
+    "lng": "-101.2167",
+    "id": "1484279509"
+  },
+  {
+    "city": "Ticul",
+    "city_ascii": "Ticul",
+    "admin_name": "Yucatán",
+    "lat": "20.3953",
+    "lng": "-89.5339",
+    "id": "1484056090"
+  },
+  {
+    "city": "Sayula de Alemán",
+    "city_ascii": "Sayula de Aleman",
+    "admin_name": "Veracruz",
+    "lat": "17.8833",
+    "lng": "-94.9500",
+    "id": "1484073387"
+  },
+  {
+    "city": "Putla Villa de Guerrero",
+    "city_ascii": "Putla Villa de Guerrero",
+    "admin_name": "Oaxaca",
+    "lat": "17.0167",
+    "lng": "-97.9167",
+    "id": "1484503444"
+  },
+  {
+    "city": "Nueva Italia de Ruiz",
+    "city_ascii": "Nueva Italia de Ruiz",
+    "admin_name": "Michoacán",
+    "lat": "19.0194",
+    "lng": "-102.1089",
+    "id": "1484876293"
+  },
+  {
+    "city": "Huixtla",
+    "city_ascii": "Huixtla",
+    "admin_name": "Chiapas",
+    "lat": "15.1386",
+    "lng": "-92.4647",
+    "id": "1484012568"
+  },
+  {
+    "city": "Ciudad Sabinas Hidalgo",
+    "city_ascii": "Ciudad Sabinas Hidalgo",
+    "admin_name": "Nuevo León",
+    "lat": "26.5000",
+    "lng": "-100.1833",
+    "id": "1484159329"
+  },
+  {
+    "city": "Atlautla",
+    "city_ascii": "Atlautla",
+    "admin_name": "México",
+    "lat": "19.0279",
+    "lng": "-98.7814",
+    "id": "1484312852"
+  },
+  {
+    "city": "Paso del Macho",
+    "city_ascii": "Paso del Macho",
+    "admin_name": "Veracruz",
+    "lat": "18.9667",
+    "lng": "-96.7167",
+    "id": "1484203573"
+  },
+  {
+    "city": "Turicato",
+    "city_ascii": "Turicato",
+    "admin_name": "Michoacán",
+    "lat": "19.0500",
+    "lng": "-101.4167",
+    "id": "1484580353"
+  },
+  {
+    "city": "El Oro de Hidalgo",
+    "city_ascii": "El Oro de Hidalgo",
+    "admin_name": "México",
+    "lat": "19.8008",
+    "lng": "-100.1314",
+    "id": "1484677445"
+  },
+  {
+    "city": "Chapa de Mota",
+    "city_ascii": "Chapa de Mota",
+    "admin_name": "México",
+    "lat": "19.8144",
+    "lng": "-99.5269",
+    "id": "1484616953"
+  },
+  {
+    "city": "Amatenango de la Frontera",
+    "city_ascii": "Amatenango de la Frontera",
+    "admin_name": "Chiapas",
+    "lat": "15.5333",
+    "lng": "-92.0833",
+    "id": "1484343885"
+  },
+  {
+    "city": "Amecameca de Juárez",
+    "city_ascii": "Amecameca de Juarez",
+    "admin_name": "México",
+    "lat": "19.7500",
+    "lng": "-99.1711",
+    "id": "1484353804"
+  },
+  {
+    "city": "Tecozautla",
+    "city_ascii": "Tecozautla",
+    "admin_name": "Hidalgo",
+    "lat": "20.5333",
+    "lng": "-99.6333",
+    "id": "1484766704"
+  },
+  {
+    "city": "Cuauhtémoc",
+    "city_ascii": "Cuauhtemoc",
+    "admin_name": "Colima",
+    "lat": "19.3281",
+    "lng": "-103.6028",
+    "id": "1484009228"
+  },
+  {
+    "city": "Tequila",
+    "city_ascii": "Tequila",
+    "admin_name": "Jalisco",
+    "lat": "20.8828",
+    "lng": "-103.8367",
+    "id": "1484763049"
+  },
+  {
+    "city": "Tancítaro",
+    "city_ascii": "Tancitaro",
+    "admin_name": "Michoacán",
+    "lat": "19.3378",
+    "lng": "-102.3625",
+    "id": "1484944433"
+  },
+  {
+    "city": "Atotonilco de Tula",
+    "city_ascii": "Atotonilco de Tula",
+    "admin_name": "Hidalgo",
+    "lat": "20.0500",
+    "lng": "-99.1833",
+    "id": "1484176739"
+  },
+  {
+    "city": "Rodolfo Sánchez Taboada",
+    "city_ascii": "Rodolfo Sanchez Taboada",
+    "admin_name": "Baja California",
+    "lat": "31.7958",
+    "lng": "-116.5911",
+    "id": "1484409365"
+  },
+  {
+    "city": "Escuintla",
+    "city_ascii": "Escuintla",
+    "admin_name": "Chiapas",
+    "lat": "15.3333",
+    "lng": "-92.6333",
+    "id": "1484508510"
+  },
+  {
+    "city": "Champotón",
+    "city_ascii": "Champoton",
+    "admin_name": "Campeche",
+    "lat": "19.3500",
+    "lng": "-90.7167",
+    "id": "1484959684"
+  },
+  {
+    "city": "Juanacatlán",
+    "city_ascii": "Juanacatlan",
+    "admin_name": "Jalisco",
+    "lat": "20.5000",
+    "lng": "-103.1667",
+    "id": "1484068541"
+  },
+  {
+    "city": "Capulhuac",
+    "city_ascii": "Capulhuac",
+    "admin_name": "México",
+    "lat": "19.2000",
+    "lng": "-99.4667",
+    "id": "1484829703"
+  },
+  {
+    "city": "Jonuta",
+    "city_ascii": "Jonuta",
+    "admin_name": "Tabasco",
+    "lat": "18.0833",
+    "lng": "-92.1333",
+    "id": "1484712409"
+  },
+  {
+    "city": "Escuinapa",
+    "city_ascii": "Escuinapa",
+    "admin_name": "Sinaloa",
+    "lat": "22.8350",
+    "lng": "-105.7780",
+    "id": "1484295544"
+  },
+  {
+    "city": "Tepetlaoxtoc",
+    "city_ascii": "Tepetlaoxtoc",
+    "admin_name": "México",
+    "lat": "19.5731",
+    "lng": "-98.8203",
+    "id": "1484140193"
+  },
+  {
+    "city": "Magdalena de Kino",
+    "city_ascii": "Magdalena de Kino",
+    "admin_name": "Sonora",
+    "lat": "30.6167",
+    "lng": "-111.0500",
+    "id": "1484799240"
+  },
+  {
+    "city": "Temascaltepec de González",
+    "city_ascii": "Temascaltepec de Gonzalez",
+    "admin_name": "México",
+    "lat": "19.0433",
+    "lng": "-100.0414",
+    "id": "1484114407"
+  },
+  {
+    "city": "Huatabampo",
+    "city_ascii": "Huatabampo",
+    "admin_name": "Sonora",
+    "lat": "27.0500",
+    "lng": "-109.4167",
+    "id": "1484335657"
+  },
+  {
+    "city": "San Salvador El Seco",
+    "city_ascii": "San Salvador El Seco",
+    "admin_name": "Puebla",
+    "lat": "19.1333",
+    "lng": "-97.6500",
+    "id": "1484262709"
+  },
+  {
+    "city": "Ometepec",
+    "city_ascii": "Ometepec",
+    "admin_name": "Guerrero",
+    "lat": "16.6833",
+    "lng": "-98.4167",
+    "id": "1484936909"
+  },
+  {
+    "city": "Nanchital de Lázaro Cárdenas del Río",
+    "city_ascii": "Nanchital de Lazaro Cardenas del Rio",
+    "admin_name": "Veracruz",
+    "lat": "18.0667",
+    "lng": "-94.4167",
+    "id": "1484990539"
+  },
+  {
+    "city": "Tequisquiapan",
+    "city_ascii": "Tequisquiapan",
+    "admin_name": "Querétaro",
+    "lat": "20.5206",
+    "lng": "-99.8958",
+    "id": "1484303338"
+  },
+  {
+    "city": "Villa Donato Guerra",
+    "city_ascii": "Villa Donato Guerra",
+    "admin_name": "México",
+    "lat": "19.3083",
+    "lng": "-100.1422",
+    "id": "1484701900"
+  },
+  {
+    "city": "Xalatlaco",
+    "city_ascii": "Xalatlaco",
+    "admin_name": "México",
+    "lat": "19.1811",
+    "lng": "-99.4164",
+    "id": "1484277337"
+  },
+  {
+    "city": "Escárcega",
+    "city_ascii": "Escarcega",
+    "admin_name": "Campeche",
+    "lat": "18.6067",
+    "lng": "-90.7344",
+    "id": "1484800970"
+  },
+  {
+    "city": "Juchitepec",
+    "city_ascii": "Juchitepec",
+    "admin_name": "México",
+    "lat": "19.0997",
+    "lng": "-98.8792",
+    "id": "1484007934"
+  },
+  {
+    "city": "San Rafael",
+    "city_ascii": "San Rafael",
+    "admin_name": "Veracruz",
+    "lat": "20.1889",
+    "lng": "-96.8658",
+    "id": "1484480100"
+  },
+  {
+    "city": "Cocula",
+    "city_ascii": "Cocula",
+    "admin_name": "Jalisco",
+    "lat": "20.3900",
+    "lng": "-103.8200",
+    "id": "1484453255"
+  },
+  {
+    "city": "Actopan",
+    "city_ascii": "Actopan",
+    "admin_name": "Hidalgo",
+    "lat": "20.2681",
+    "lng": "-98.9442",
+    "id": "1484903562"
+  },
+  {
+    "city": "San Fernando",
+    "city_ascii": "San Fernando",
+    "admin_name": "Tamaulipas",
+    "lat": "24.8504",
+    "lng": "-98.1600",
+    "id": "1484830415"
+  },
+  {
+    "city": "Ozumba",
+    "city_ascii": "Ozumba",
+    "admin_name": "México",
+    "lat": "19.0392",
+    "lng": "-98.7936",
+    "id": "1484458348"
+  },
+  {
+    "city": "Teapa",
+    "city_ascii": "Teapa",
+    "admin_name": "Tabasco",
+    "lat": "17.5483",
+    "lng": "-92.9530",
+    "id": "1484729901"
+  },
+  {
+    "city": "Reforma",
+    "city_ascii": "Reforma",
+    "admin_name": "Chiapas",
+    "lat": "17.8658",
+    "lng": "-93.1472",
+    "id": "1484640217"
+  },
+  {
+    "city": "Úrsulo Galván",
+    "city_ascii": "Ursulo Galvan",
+    "admin_name": "Veracruz",
+    "lat": "19.4000",
+    "lng": "-96.3000",
+    "id": "1484748710"
+  },
+  {
+    "city": "Abasolo",
+    "city_ascii": "Abasolo",
+    "admin_name": "Guanajuato",
+    "lat": "20.4500",
+    "lng": "-101.5170",
+    "id": "1484064616"
+  },
+  {
+    "city": "Las Rosas",
+    "city_ascii": "Las Rosas",
+    "admin_name": "Chiapas",
+    "lat": "16.3667",
+    "lng": "-92.3500",
+    "id": "1484866090"
+  },
+  {
+    "city": "Navolato",
+    "city_ascii": "Navolato",
+    "admin_name": "Sinaloa",
+    "lat": "24.7656",
+    "lng": "-107.7019",
+    "id": "1484515879"
+  },
+  {
+    "city": "San Salvador",
+    "city_ascii": "San Salvador",
+    "admin_name": "Hidalgo",
+    "lat": "20.2833",
+    "lng": "-99.0153",
+    "id": "1484680072"
+  },
+  {
+    "city": "Ciudad Ixtepec",
+    "city_ascii": "Ciudad Ixtepec",
+    "admin_name": "Oaxaca",
+    "lat": "16.5628",
+    "lng": "-95.1000",
+    "id": "1484662903"
+  },
+  {
+    "city": "Ciudad Sahagun",
+    "city_ascii": "Ciudad Sahagun",
+    "admin_name": "Hidalgo",
+    "lat": "19.7714",
+    "lng": "-98.5803",
+    "id": "1484112463"
+  },
+  {
+    "city": "Cuitzeo del Porvenir",
+    "city_ascii": "Cuitzeo del Porvenir",
+    "admin_name": "Michoacán",
+    "lat": "19.9686",
+    "lng": "-101.1394",
+    "id": "1484718007"
+  },
+  {
+    "city": "Zacoalco de Torres",
+    "city_ascii": "Zacoalco de Torres",
+    "admin_name": "Jalisco",
+    "lat": "20.2333",
+    "lng": "-103.5833",
+    "id": "1484373793"
+  },
+  {
+    "city": "Metepec",
+    "city_ascii": "Metepec",
+    "admin_name": "México",
+    "lat": "19.2511",
+    "lng": "-99.6047",
+    "id": "1484782768"
+  },
+  {
+    "city": "Tetela de Ocampo",
+    "city_ascii": "Tetela de Ocampo",
+    "admin_name": "Puebla",
+    "lat": "19.8167",
+    "lng": "-97.8000",
+    "id": "1484794888"
+  },
+  {
+    "city": "Xochistlahuaca",
+    "city_ascii": "Xochistlahuaca",
+    "admin_name": "Guerrero",
+    "lat": "16.7914",
+    "lng": "-98.2419",
+    "id": "1484003499"
+  },
+  {
+    "city": "Villa de Zaachila",
+    "city_ascii": "Villa de Zaachila",
+    "admin_name": "Oaxaca",
+    "lat": "16.9508",
+    "lng": "-96.7492",
+    "id": "1484472329"
+  },
+  {
+    "city": "San Felipe Jalapa de Díaz",
+    "city_ascii": "San Felipe Jalapa de Diaz",
+    "admin_name": "Oaxaca",
+    "lat": "18.0667",
+    "lng": "-96.5333",
+    "id": "1484014091"
+  },
+  {
+    "city": "Nochistlán de Mejía",
+    "city_ascii": "Nochistlan de Mejia",
+    "admin_name": "Zacatecas",
+    "lat": "21.3642",
+    "lng": "-102.8464",
+    "id": "1484761642"
+  },
+  {
+    "city": "Quiroga",
+    "city_ascii": "Quiroga",
+    "admin_name": "Michoacán",
+    "lat": "19.6667",
+    "lng": "-101.5333",
+    "id": "1484553970"
+  },
+  {
+    "city": "Villa Luvianos",
+    "city_ascii": "Villa Luvianos",
+    "admin_name": "México",
+    "lat": "18.9200",
+    "lng": "-100.2983",
+    "id": "1484500757"
+  },
+  {
+    "city": "Motozintla",
+    "city_ascii": "Motozintla",
+    "admin_name": "Chiapas",
+    "lat": "15.3632",
+    "lng": "-92.2477",
+    "id": "1484046011"
+  },
+  {
+    "city": "Tlalpujahua de Rayón",
+    "city_ascii": "Tlalpujahua de Rayon",
+    "admin_name": "Michoacán",
+    "lat": "19.8050",
+    "lng": "-100.1744",
+    "id": "1484026388"
+  },
+  {
+    "city": "Soledad de Doblado",
+    "city_ascii": "Soledad de Doblado",
+    "admin_name": "Veracruz",
+    "lat": "19.0500",
+    "lng": "-96.4167",
+    "id": "1484007805"
+  },
+  {
+    "city": "San Juan Guichicovi",
+    "city_ascii": "San Juan Guichicovi",
+    "admin_name": "Oaxaca",
+    "lat": "16.9667",
+    "lng": "-95.0833",
+    "id": "1484056048"
+  },
+  {
+    "city": "Contla",
+    "city_ascii": "Contla",
+    "admin_name": "Tlaxcala",
+    "lat": "19.3333",
+    "lng": "-98.1667",
+    "id": "1484059318"
+  },
+  {
+    "city": "Apaxco de Ocampo",
+    "city_ascii": "Apaxco de Ocampo",
+    "admin_name": "México",
+    "lat": "19.9800",
+    "lng": "-99.1500",
+    "id": "1484505240"
+  },
+  {
+    "city": "Los Reyes de Juárez",
+    "city_ascii": "Los Reyes de Juarez",
+    "admin_name": "Puebla",
+    "lat": "18.9458",
+    "lng": "-97.8058",
+    "id": "1484937929"
+  },
+  {
+    "city": "Tuxpan",
+    "city_ascii": "Tuxpan",
+    "admin_name": "Michoacán",
+    "lat": "19.5661",
+    "lng": "-100.4625",
+    "id": "1484359180"
+  },
+  {
+    "city": "Jalpan",
+    "city_ascii": "Jalpan",
+    "admin_name": "Querétaro",
+    "lat": "21.2167",
+    "lng": "-99.4725",
+    "id": "1484214957"
+  },
+  {
+    "city": "Castaños",
+    "city_ascii": "Castanos",
+    "admin_name": "Coahuila",
+    "lat": "26.7833",
+    "lng": "-101.4167",
+    "id": "1484472740"
+  },
+  {
+    "city": "Cuerámaro",
+    "city_ascii": "Cueramaro",
+    "admin_name": "Guanajuato",
+    "lat": "20.6258",
+    "lng": "-101.6739",
+    "id": "1484743958"
+  },
+  {
+    "city": "Tepehuacán de Guerrero",
+    "city_ascii": "Tepehuacan de Guerrero",
+    "admin_name": "Hidalgo",
+    "lat": "21.0131",
+    "lng": "-98.8442",
+    "id": "1484592101"
+  },
+  {
+    "city": "Nahuatzén",
+    "city_ascii": "Nahuatzen",
+    "admin_name": "Michoacán",
+    "lat": "19.6536",
+    "lng": "-101.9158",
+    "id": "1484829020"
+  },
+  {
+    "city": "San Agustín Tlaxiaca",
+    "city_ascii": "San Agustin Tlaxiaca",
+    "admin_name": "Hidalgo",
+    "lat": "20.1144",
+    "lng": "-98.8867",
+    "id": "1484185265"
+  },
+  {
+    "city": "Villagrán",
+    "city_ascii": "Villagran",
+    "admin_name": "Guanajuato",
+    "lat": "20.5170",
+    "lng": "-100.9830",
+    "id": "1484237393"
+  },
+  {
+    "city": "Amatepec",
+    "city_ascii": "Amatepec",
+    "admin_name": "México",
+    "lat": "18.6500",
+    "lng": "-100.1500",
+    "id": "1484058749"
+  },
+  {
+    "city": "Nava",
+    "city_ascii": "Nava",
+    "admin_name": "Coahuila",
+    "lat": "28.4214",
+    "lng": "-100.7675",
+    "id": "1484120104"
+  },
+  {
+    "city": "Atitalaquia",
+    "city_ascii": "Atitalaquia",
+    "admin_name": "Hidalgo",
+    "lat": "20.0583",
+    "lng": "-99.2208",
+    "id": "1484827281"
+  },
+  {
+    "city": "Acapetahua",
+    "city_ascii": "Acapetahua",
+    "admin_name": "Chiapas",
+    "lat": "15.2333",
+    "lng": "-92.7667",
+    "id": "1484664781"
+  },
+  {
+    "city": "Paracuaro",
+    "city_ascii": "Paracuaro",
+    "admin_name": "Michoacán",
+    "lat": "19.1467",
+    "lng": "-102.2194",
+    "id": "1484022148"
+  },
+  {
+    "city": "Tlaxcoapan",
+    "city_ascii": "Tlaxcoapan",
+    "admin_name": "Hidalgo",
+    "lat": "20.0953",
+    "lng": "-99.2200",
+    "id": "1484883241"
+  },
+  {
+    "city": "Miacatlán",
+    "city_ascii": "Miacatlan",
+    "admin_name": "Morelos",
+    "lat": "18.7722",
+    "lng": "-99.3547",
+    "id": "1484216622"
+  },
+  {
+    "city": "Cuajinicuilapa",
+    "city_ascii": "Cuajinicuilapa",
+    "admin_name": "Guerrero",
+    "lat": "16.4717",
+    "lng": "-98.4153",
+    "id": "1484450188"
+  },
+  {
+    "city": "Tecolutla",
+    "city_ascii": "Tecolutla",
+    "admin_name": "Veracruz",
+    "lat": "20.4797",
+    "lng": "-97.0100",
+    "id": "1484719991"
+  },
+  {
+    "city": "Jaltenco",
+    "city_ascii": "Jaltenco",
+    "admin_name": "México",
+    "lat": "19.7511",
+    "lng": "-99.0931",
+    "id": "1484504076"
+  },
+  {
+    "city": "Tehuipango",
+    "city_ascii": "Tehuipango",
+    "admin_name": "Veracruz",
+    "lat": "18.5167",
+    "lng": "-97.0500",
+    "id": "1484975485"
+  },
+  {
+    "city": "Santiago Papasquiaro",
+    "city_ascii": "Santiago Papasquiaro",
+    "admin_name": "Durango",
+    "lat": "25.0439",
+    "lng": "-105.4192",
+    "id": "1484176278"
+  },
+  {
+    "city": "Tuxpan",
+    "city_ascii": "Tuxpan",
+    "admin_name": "Nayarit",
+    "lat": "21.8667",
+    "lng": "-105.4500",
+    "id": "1484274950"
+  },
+  {
+    "city": "Huaquechula",
+    "city_ascii": "Huaquechula",
+    "admin_name": "Puebla",
+    "lat": "18.7667",
+    "lng": "-98.5500",
+    "id": "1484461466"
+  },
+  {
+    "city": "El Grullo",
+    "city_ascii": "El Grullo",
+    "admin_name": "Jalisco",
+    "lat": "19.8000",
+    "lng": "-104.2000",
+    "id": "1484796823"
+  },
+  {
+    "city": "Puerto Escondido",
+    "city_ascii": "Puerto Escondido",
+    "admin_name": "Oaxaca",
+    "lat": "15.8619",
+    "lng": "-97.0672",
+    "id": "1484644846"
+  },
+  {
+    "city": "Ciudad Altamirano",
+    "city_ascii": "Ciudad Altamirano",
+    "admin_name": "Guerrero",
+    "lat": "18.3472",
+    "lng": "-100.6531",
+    "id": "1484274706"
+  },
+  {
+    "city": "Tecax",
+    "city_ascii": "Tecax",
+    "admin_name": "Yucatán",
+    "lat": "20.2019",
+    "lng": "-89.2881",
+    "id": "1484782521"
+  },
+  {
+    "city": "Felipe Carrillo Puerto",
+    "city_ascii": "Felipe Carrillo Puerto",
+    "admin_name": "Quintana Roo",
+    "lat": "19.5786",
+    "lng": "-88.0453",
+    "id": "1484914299"
+  },
+  {
+    "city": "Arriaga",
+    "city_ascii": "Arriaga",
+    "admin_name": "Chiapas",
+    "lat": "16.2361",
+    "lng": "-93.8995",
+    "id": "1484409481"
+  },
+  {
+    "city": "Pinal de Amoles",
+    "city_ascii": "Pinal de Amoles",
+    "admin_name": "Querétaro",
+    "lat": "21.1342",
+    "lng": "-99.4586",
+    "id": "1484630305"
+  },
+  {
+    "city": "Acatlán",
+    "city_ascii": "Acatlan",
+    "admin_name": "Jalisco",
+    "lat": "20.2333",
+    "lng": "-103.5333",
+    "id": "1484516807"
+  },
+  {
+    "city": "Atlatlahucan",
+    "city_ascii": "Atlatlahucan",
+    "admin_name": "Morelos",
+    "lat": "18.9350",
+    "lng": "-98.9000",
+    "id": "1484784884"
+  },
+  {
+    "city": "Miahuatlán",
+    "city_ascii": "Miahuatlan",
+    "admin_name": "Puebla",
+    "lat": "18.5667",
+    "lng": "-97.4333",
+    "id": "1484649521"
+  },
+  {
+    "city": "Álamo",
+    "city_ascii": "Alamo",
+    "admin_name": "Veracruz",
+    "lat": "20.9167",
+    "lng": "-97.6750",
+    "id": "1484161565"
+  },
+  {
+    "city": "Santa María Tonameca",
+    "city_ascii": "Santa Maria Tonameca",
+    "admin_name": "Oaxaca",
+    "lat": "15.7458",
+    "lng": "-96.5472",
+    "id": "1484998049"
+  },
+  {
+    "city": "Sultepec",
+    "city_ascii": "Sultepec",
+    "admin_name": "México",
+    "lat": "18.8667",
+    "lng": "-99.9500",
+    "id": "1484381977"
+  },
+  {
+    "city": "Hunucmá",
+    "city_ascii": "Hunucma",
+    "admin_name": "Yucatán",
+    "lat": "21.0153",
+    "lng": "-89.8744",
+    "id": "1484800428"
+  },
+  {
+    "city": "Ixhuatlancillo",
+    "city_ascii": "Ixhuatlancillo",
+    "admin_name": "Veracruz",
+    "lat": "18.9000",
+    "lng": "-97.1500",
+    "id": "1484287458"
+  },
+  {
+    "city": "Jamay",
+    "city_ascii": "Jamay",
+    "admin_name": "Jalisco",
+    "lat": "20.2900",
+    "lng": "-102.7100",
+    "id": "1484510036"
+  },
+  {
+    "city": "Zumpango del Río",
+    "city_ascii": "Zumpango del Rio",
+    "admin_name": "Guerrero",
+    "lat": "17.6500",
+    "lng": "-99.5000",
+    "id": "1484750477"
+  },
+  {
+    "city": "Jiquílpan de Juárez",
+    "city_ascii": "Jiquilpan de Juarez",
+    "admin_name": "Michoacán",
+    "lat": "19.5900",
+    "lng": "-102.4300",
+    "id": "1484915765"
+  },
+  {
+    "city": "Carlos A. Carrillo",
+    "city_ascii": "Carlos A. Carrillo",
+    "admin_name": "Veracruz",
+    "lat": "18.3748",
+    "lng": "-95.7544",
+    "id": "1484904757"
+  },
+  {
+    "city": "Amatán",
+    "city_ascii": "Amatan",
+    "admin_name": "Chiapas",
+    "lat": "17.3667",
+    "lng": "-92.8167",
+    "id": "1484881501"
+  },
+  {
+    "city": "San Agustín Loxicha",
+    "city_ascii": "San Agustin Loxicha",
+    "admin_name": "Oaxaca",
+    "lat": "16.0167",
+    "lng": "-96.6167",
+    "id": "1484509506"
+  },
+  {
+    "city": "Cazones de Herrera",
+    "city_ascii": "Cazones de Herrera",
+    "admin_name": "Veracruz",
+    "lat": "20.7044",
+    "lng": "-97.3106",
+    "id": "1484665627"
+  },
+  {
+    "city": "Las Margaritas",
+    "city_ascii": "Las Margaritas",
+    "admin_name": "Chiapas",
+    "lat": "16.3153",
+    "lng": "-91.9817",
+    "id": "1484007496"
+  },
+  {
+    "city": "El Salto",
+    "city_ascii": "El Salto",
+    "admin_name": "Durango",
+    "lat": "23.7823",
+    "lng": "-105.3585",
+    "id": "1484463833"
+  },
+  {
+    "city": "Santa María Colotepec",
+    "city_ascii": "Santa Maria Colotepec",
+    "admin_name": "Oaxaca",
+    "lat": "15.8833",
+    "lng": "-96.9167",
+    "id": "1484824159"
+  },
+  {
+    "city": "Maxcanú",
+    "city_ascii": "Maxcanu",
+    "admin_name": "Yucatán",
+    "lat": "20.5833",
+    "lng": "-89.9833",
+    "id": "1484052886"
+  },
+  {
+    "city": "Manlio Fabio Altamirano",
+    "city_ascii": "Manlio Fabio Altamirano",
+    "admin_name": "Veracruz",
+    "lat": "19.1003",
+    "lng": "-96.3411",
+    "id": "1484739619"
+  },
+  {
+    "city": "Tantoyuca",
+    "city_ascii": "Tantoyuca",
+    "admin_name": "Veracruz",
+    "lat": "21.3500",
+    "lng": "-98.2333",
+    "id": "1484205572"
+  },
+  {
+    "city": "San Miguel Ocotenco",
+    "city_ascii": "San Miguel Ocotenco",
+    "admin_name": "Puebla",
+    "lat": "19.0666",
+    "lng": "-97.4525",
+    "id": "1484616570"
+  },
+  {
+    "city": "Ciudad Serdán",
+    "city_ascii": "Ciudad Serdan",
+    "admin_name": "Puebla",
+    "lat": "18.9833",
+    "lng": "-97.4500",
+    "id": "1484943496"
+  },
+  {
+    "city": "Atotonilco el Grande",
+    "city_ascii": "Atotonilco el Grande",
+    "admin_name": "Hidalgo",
+    "lat": "20.6667",
+    "lng": "-98.6667",
+    "id": "1484578299"
+  },
+  {
+    "city": "San Juan Otzolotepec",
+    "city_ascii": "San Juan Otzolotepec",
+    "admin_name": "Oaxaca",
+    "lat": "17.2984",
+    "lng": "-95.4918",
+    "id": "1484001857"
+  },
+  {
+    "city": "Ahualulco de Mercado",
+    "city_ascii": "Ahualulco de Mercado",
+    "admin_name": "Jalisco",
+    "lat": "20.6167",
+    "lng": "-103.8667",
+    "id": "1484137273"
+  },
+  {
+    "city": "Tecali",
+    "city_ascii": "Tecali",
+    "admin_name": "Puebla",
+    "lat": "18.9000",
+    "lng": "-97.9667",
+    "id": "1484035847"
+  },
+  {
+    "city": "San Martín Totolán",
+    "city_ascii": "San Martin Totolan",
+    "admin_name": "Michoacán",
+    "lat": "19.9852",
+    "lng": "-102.6802",
+    "id": "1484775588"
+  },
+  {
+    "city": "Cerro Azul",
+    "city_ascii": "Cerro Azul",
+    "admin_name": "Veracruz",
+    "lat": "21.1920",
+    "lng": "-97.7409",
+    "id": "1484720981"
+  },
+  {
+    "city": "General Pánfilo Natera",
+    "city_ascii": "General Panfilo Natera",
+    "admin_name": "Zacatecas",
+    "lat": "22.6650",
+    "lng": "-102.1097",
+    "id": "1484662922"
+  },
+  {
+    "city": "San Buenaventura",
+    "city_ascii": "San Buenaventura",
+    "admin_name": "Coahuila",
+    "lat": "27.0625",
+    "lng": "-101.5467",
+    "id": "1484100040"
+  },
+  {
+    "city": "La Higuerita",
+    "city_ascii": "La Higuerita",
+    "admin_name": "Jalisco",
+    "lat": "19.4833",
+    "lng": "-104.6500",
+    "id": "1484769959"
+  },
+  {
+    "city": "La Huerta",
+    "city_ascii": "La Huerta",
+    "admin_name": "Jalisco",
+    "lat": "19.4844",
+    "lng": "-104.6438",
+    "id": "1484366583"
+  },
+  {
+    "city": "Motul",
+    "city_ascii": "Motul",
+    "admin_name": "Yucatán",
+    "lat": "21.1667",
+    "lng": "-89.4667",
+    "id": "1484505595"
+  },
+  {
+    "city": "Tototlán",
+    "city_ascii": "Tototlan",
+    "admin_name": "Jalisco",
+    "lat": "20.0833",
+    "lng": "-102.6500",
+    "id": "1484885208"
+  },
+  {
+    "city": "Soledad Atzompa",
+    "city_ascii": "Soledad Atzompa",
+    "admin_name": "Veracruz",
+    "lat": "18.7500",
+    "lng": "-97.1500",
+    "id": "1484642759"
+  },
+  {
+    "city": "Tamiahua",
+    "city_ascii": "Tamiahua",
+    "admin_name": "Veracruz",
+    "lat": "21.2788",
+    "lng": "-97.4462",
+    "id": "1484634319"
+  },
+  {
+    "city": "Rafael Delgado",
+    "city_ascii": "Rafael Delgado",
+    "admin_name": "Veracruz",
+    "lat": "18.8167",
+    "lng": "-97.0667",
+    "id": "1484016423"
+  },
+  {
+    "city": "Oxkutzkab",
+    "city_ascii": "Oxkutzkab",
+    "admin_name": "Yucatán",
+    "lat": "20.3056",
+    "lng": "-89.4183",
+    "id": "1484480343"
+  },
+  {
+    "city": "Frontera",
+    "city_ascii": "Frontera",
+    "admin_name": "Tabasco",
+    "lat": "18.5336",
+    "lng": "-92.6469",
+    "id": "1484000527"
+  },
+  {
+    "city": "Malinalco",
+    "city_ascii": "Malinalco",
+    "admin_name": "México",
+    "lat": "18.9483",
+    "lng": "-99.4947",
+    "id": "1484454332"
+  },
+  {
+    "city": "Naolinco de Victoria",
+    "city_ascii": "Naolinco de Victoria",
+    "admin_name": "Veracruz",
+    "lat": "19.6367",
+    "lng": "-96.8525",
+    "id": "1484476201"
+  },
+  {
+    "city": "San Miguel de Papasquiaro",
+    "city_ascii": "San Miguel de Papasquiaro",
+    "admin_name": "Durango",
+    "lat": "24.8304",
+    "lng": "-105.3400",
+    "id": "1484521716"
+  },
+  {
+    "city": "Ojinaga",
+    "city_ascii": "Ojinaga",
+    "admin_name": "Chihuahua",
+    "lat": "29.5644",
+    "lng": "-104.4164",
+    "id": "1484761843"
+  },
+  {
+    "city": "Tequixquiac",
+    "city_ascii": "Tequixquiac",
+    "admin_name": "México",
+    "lat": "19.9097",
+    "lng": "-99.1417",
+    "id": "1484908675"
+  },
+  {
+    "city": "Yahualica de González Gallo",
+    "city_ascii": "Yahualica de Gonzalez Gallo",
+    "admin_name": "Jalisco",
+    "lat": "21.1781",
+    "lng": "-102.8860",
+    "id": "1484271707"
+  },
+  {
+    "city": "Meoqui",
+    "city_ascii": "Meoqui",
+    "admin_name": "Chihuahua",
+    "lat": "28.2722",
+    "lng": "-105.4819",
+    "id": "1484867296"
+  },
+  {
+    "city": "Huautla",
+    "city_ascii": "Huautla",
+    "admin_name": "Hidalgo",
+    "lat": "21.0308",
+    "lng": "-98.2850",
+    "id": "1484208664"
+  },
+  {
+    "city": "San Juan Cotzocón",
+    "city_ascii": "San Juan Cotzocon",
+    "admin_name": "Oaxaca",
+    "lat": "17.1667",
+    "lng": "-95.7833",
+    "id": "1484942065"
+  },
+  {
+    "city": "Emiliano Zapata",
+    "city_ascii": "Emiliano Zapata",
+    "admin_name": "Tabasco",
+    "lat": "17.7446",
+    "lng": "-91.7651",
+    "id": "1484000334"
+  },
+  {
+    "city": "Puente Nacional",
+    "city_ascii": "Puente Nacional",
+    "admin_name": "Veracruz",
+    "lat": "19.3302",
+    "lng": "-96.4837",
+    "id": "1484974086"
+  },
+  {
+    "city": "Acatlán",
+    "city_ascii": "Acatlan",
+    "admin_name": "Hidalgo",
+    "lat": "20.1444",
+    "lng": "-98.4383",
+    "id": "1484652472"
+  },
+  {
+    "city": "Yahualica",
+    "city_ascii": "Yahualica",
+    "admin_name": "Hidalgo",
+    "lat": "20.9531",
+    "lng": "-98.3800",
+    "id": "1484980764"
+  },
+  {
+    "city": "Huejúcar",
+    "city_ascii": "Huejucar",
+    "admin_name": "Jalisco",
+    "lat": "22.3591",
+    "lng": "-103.2108",
+    "id": "1484409823"
+  },
+  {
+    "city": "Ocatlán",
+    "city_ascii": "Ocatlan",
+    "admin_name": "Tlaxcala",
+    "lat": "19.3167",
+    "lng": "-98.2283",
+    "id": "1484715262"
+  },
+  {
+    "city": "Chalchihuitán",
+    "city_ascii": "Chalchihuitan",
+    "admin_name": "Chiapas",
+    "lat": "17.0333",
+    "lng": "-92.6167",
+    "id": "1484099582"
+  },
+  {
+    "city": "Axapusco",
+    "city_ascii": "Axapusco",
+    "admin_name": "México",
+    "lat": "19.7194",
+    "lng": "-98.7972",
+    "id": "1484580584"
+  },
+  {
+    "city": "Pueblo Juárez",
+    "city_ascii": "Pueblo Juarez",
+    "admin_name": "Chiapas",
+    "lat": "17.7000",
+    "lng": "-93.2000",
+    "id": "1484543161"
+  },
+  {
+    "city": "Charo",
+    "city_ascii": "Charo",
+    "admin_name": "Michoacán",
+    "lat": "19.7500",
+    "lng": "-101.0500",
+    "id": "1484226531"
+  },
+  {
+    "city": "Magdalena",
+    "city_ascii": "Magdalena",
+    "admin_name": "Jalisco",
+    "lat": "20.9167",
+    "lng": "-103.9500",
+    "id": "1484476169"
+  },
+  {
+    "city": "Comalapa",
+    "city_ascii": "Comalapa",
+    "admin_name": "Chiapas",
+    "lat": "15.6500",
+    "lng": "-92.1500",
+    "id": "1484741837"
+  },
+  {
+    "city": "Tixtla de Guerrero",
+    "city_ascii": "Tixtla de Guerrero",
+    "admin_name": "Guerrero",
+    "lat": "17.5667",
+    "lng": "-99.4000",
+    "id": "1484176714"
+  },
+  {
+    "city": "Sombrerete",
+    "city_ascii": "Sombrerete",
+    "admin_name": "Zacatecas",
+    "lat": "23.6333",
+    "lng": "-103.6397",
+    "id": "1484007324"
+  },
+  {
+    "city": "Ocotlán de Morelos",
+    "city_ascii": "Ocotlan de Morelos",
+    "admin_name": "Oaxaca",
+    "lat": "16.7914",
+    "lng": "-96.6750",
+    "id": "1484002311"
+  },
+  {
+    "city": "Tlaltenango de Sánchez Román",
+    "city_ascii": "Tlaltenango de Sanchez Roman",
+    "admin_name": "Zacatecas",
+    "lat": "21.7815",
+    "lng": "-103.3059",
+    "id": "1484361545"
+  },
+  {
+    "city": "Cuilapan de Guerrero",
+    "city_ascii": "Cuilapan de Guerrero",
+    "admin_name": "Oaxaca",
+    "lat": "16.9972",
+    "lng": "-96.7817",
+    "id": "1484534441"
+  },
+  {
+    "city": "Chapala",
+    "city_ascii": "Chapala",
+    "admin_name": "Jalisco",
+    "lat": "20.2961",
+    "lng": "-103.1911",
+    "id": "1484011650"
+  },
+  {
+    "city": "Acatic",
+    "city_ascii": "Acatic",
+    "admin_name": "Jalisco",
+    "lat": "20.7803",
+    "lng": "-102.9100",
+    "id": "1484373854"
+  },
+  {
+    "city": "San Martín de las Pirámides",
+    "city_ascii": "San Martin de las Piramides",
+    "admin_name": "México",
+    "lat": "19.7333",
+    "lng": "-98.8167",
+    "id": "1484000182"
+  },
+  {
+    "city": "Allende",
+    "city_ascii": "Allende",
+    "admin_name": "Coahuila",
+    "lat": "28.3333",
+    "lng": "-100.8333",
+    "id": "1484737223"
+  },
+  {
+    "city": "Fortín de las Flores",
+    "city_ascii": "Fortin de las Flores",
+    "admin_name": "Veracruz",
+    "lat": "18.9000",
+    "lng": "-97.0000",
+    "id": "1484333240"
+  },
+  {
+    "city": "Degollado",
+    "city_ascii": "Degollado",
+    "admin_name": "Jalisco",
+    "lat": "20.4667",
+    "lng": "-102.1500",
+    "id": "1484086425"
+  },
+  {
+    "city": "Valle Nacional",
+    "city_ascii": "Valle Nacional",
+    "admin_name": "Oaxaca",
+    "lat": "17.7667",
+    "lng": "-96.3000",
+    "id": "1484002795"
+  },
+  {
+    "city": "Nogales",
+    "city_ascii": "Nogales",
+    "admin_name": "Veracruz",
+    "lat": "18.8167",
+    "lng": "-97.1667",
+    "id": "1484829832"
+  },
+  {
+    "city": "Chocamán",
+    "city_ascii": "Chocaman",
+    "admin_name": "Veracruz",
+    "lat": "19.0167",
+    "lng": "-97.0333",
+    "id": "1484659925"
+  },
+  {
+    "city": "Altepexi",
+    "city_ascii": "Altepexi",
+    "admin_name": "Puebla",
+    "lat": "18.3500",
+    "lng": "-97.3167",
+    "id": "1484498863"
+  },
+  {
+    "city": "Xoxocotla",
+    "city_ascii": "Xoxocotla",
+    "admin_name": "Morelos",
+    "lat": "18.6850",
+    "lng": "-99.2439",
+    "id": "1484012470"
+  },
+  {
+    "city": "Texistepec",
+    "city_ascii": "Texistepec",
+    "admin_name": "Veracruz",
+    "lat": "17.9000",
+    "lng": "-94.8167",
+    "id": "1484059063"
+  },
+  {
+    "city": "Chachahuantla",
+    "city_ascii": "Chachahuantla",
+    "admin_name": "Puebla",
+    "lat": "20.2756",
+    "lng": "-98.1503",
+    "id": "1484829941"
+  },
+  {
+    "city": "Pahuatlán de Valle",
+    "city_ascii": "Pahuatlan de Valle",
+    "admin_name": "Puebla",
+    "lat": "20.2756",
+    "lng": "-98.1503",
+    "id": "1484531785"
+  },
+  {
+    "city": "Tepexi de Rodríguez",
+    "city_ascii": "Tepexi de Rodriguez",
+    "admin_name": "Puebla",
+    "lat": "18.5833",
+    "lng": "-97.9333",
+    "id": "1484944836"
+  },
+  {
+    "city": "Chapulhuacán",
+    "city_ascii": "Chapulhuacan",
+    "admin_name": "Hidalgo",
+    "lat": "21.1547",
+    "lng": "-98.9039",
+    "id": "1484747290"
+  },
+  {
+    "city": "La Resolana",
+    "city_ascii": "La Resolana",
+    "admin_name": "Jalisco",
+    "lat": "19.3425",
+    "lng": "-104.2878",
+    "id": "1484556709"
+  },
+  {
+    "city": "Atoyac de Álvarez",
+    "city_ascii": "Atoyac de Alvarez",
+    "admin_name": "Guerrero",
+    "lat": "17.2000",
+    "lng": "-100.4333",
+    "id": "1484657833"
+  },
+  {
+    "city": "Colonia General Felipe Ángeles",
+    "city_ascii": "Colonia General Felipe Angeles",
+    "admin_name": "Durango",
+    "lat": "23.9167",
+    "lng": "-104.6000",
+    "id": "1484647102"
+  },
+  {
+    "city": "Santa María Chilchotla",
+    "city_ascii": "Santa Maria Chilchotla",
+    "admin_name": "Oaxaca",
+    "lat": "18.2333",
+    "lng": "-96.8167",
+    "id": "1484011437"
+  },
+  {
+    "city": "Las Vigas de Ramírez",
+    "city_ascii": "Las Vigas de Ramirez",
+    "admin_name": "Veracruz",
+    "lat": "19.6369",
+    "lng": "-97.1000",
+    "id": "1484942376"
+  },
+  {
+    "city": "Vega de Alatorre",
+    "city_ascii": "Vega de Alatorre",
+    "admin_name": "Veracruz",
+    "lat": "19.9833",
+    "lng": "-96.6750",
+    "id": "1484534910"
+  },
+  {
+    "city": "Cruz Grande",
+    "city_ascii": "Cruz Grande",
+    "admin_name": "Guerrero",
+    "lat": "16.7333",
+    "lng": "-99.1333",
+    "id": "1484074616"
+  },
+  {
+    "city": "Huanímaro",
+    "city_ascii": "Huanimaro",
+    "admin_name": "Guanajuato",
+    "lat": "20.3675",
+    "lng": "-101.4969",
+    "id": "1484325445"
+  },
+  {
+    "city": "Villa Hidalgo",
+    "city_ascii": "Villa Hidalgo",
+    "admin_name": "Jalisco",
+    "lat": "21.6667",
+    "lng": "-102.6000",
+    "id": "1484702656"
+  },
+  {
+    "city": "Naranjos",
+    "city_ascii": "Naranjos",
+    "admin_name": "Veracruz",
+    "lat": "21.3509",
+    "lng": "-97.6866",
+    "id": "1484227797"
+  },
+  {
+    "city": "Teopisca",
+    "city_ascii": "Teopisca",
+    "admin_name": "Chiapas",
+    "lat": "16.5500",
+    "lng": "-92.5000",
+    "id": "1484755833"
+  },
+  {
+    "city": "Etzatlán",
+    "city_ascii": "Etzatlan",
+    "admin_name": "Jalisco",
+    "lat": "20.7667",
+    "lng": "-104.0833",
+    "id": "1484334826"
+  },
+  {
+    "city": "Cárdenas",
+    "city_ascii": "Cardenas",
+    "admin_name": "San Luis Potosí",
+    "lat": "22.0100",
+    "lng": "-99.6520",
+    "id": "1484956696"
+  },
+  {
+    "city": "Ciudad Miguel Alemán",
+    "city_ascii": "Ciudad Miguel Aleman",
+    "admin_name": "Tamaulipas",
+    "lat": "26.4003",
+    "lng": "-99.0253",
+    "id": "1484636817"
+  },
+  {
+    "city": "El Arenal",
+    "city_ascii": "El Arenal",
+    "admin_name": "Jalisco",
+    "lat": "20.7000",
+    "lng": "-103.6167",
+    "id": "1484970184"
+  },
+  {
+    "city": "Comapa",
+    "city_ascii": "Comapa",
+    "admin_name": "Veracruz",
+    "lat": "19.1650",
+    "lng": "-96.8856",
+    "id": "1484768761"
+  },
+  {
+    "city": "Zimatlán de Álvarez",
+    "city_ascii": "Zimatlan de Alvarez",
+    "admin_name": "Oaxaca",
+    "lat": "16.8667",
+    "lng": "-96.7833",
+    "id": "1484989287"
+  },
+  {
+    "city": "Tepetlixpa",
+    "city_ascii": "Tepetlixpa",
+    "admin_name": "México",
+    "lat": "19.0006",
+    "lng": "-98.8178",
+    "id": "1484018861"
+  },
+  {
+    "city": "Peto",
+    "city_ascii": "Peto",
+    "admin_name": "Yucatán",
+    "lat": "20.1256",
+    "lng": "-88.9214",
+    "id": "1484013411"
+  },
+  {
+    "city": "Atlapexco",
+    "city_ascii": "Atlapexco",
+    "admin_name": "Hidalgo",
+    "lat": "21.0221",
+    "lng": "-98.3543",
+    "id": "1484002302"
+  },
+  {
+    "city": "Calvillo",
+    "city_ascii": "Calvillo",
+    "admin_name": "Aguascalientes",
+    "lat": "21.8500",
+    "lng": "-102.7167",
+    "id": "1484468847"
+  },
+  {
+    "city": "Colotlán",
+    "city_ascii": "Colotlan",
+    "admin_name": "Jalisco",
+    "lat": "22.2000",
+    "lng": "-103.3000",
+    "id": "1484670065"
+  },
+  {
+    "city": "Chiconcuac",
+    "city_ascii": "Chiconcuac",
+    "admin_name": "México",
+    "lat": "19.5500",
+    "lng": "-98.9000",
+    "id": "1484345092"
+  },
+  {
+    "city": "Lerdo de Tejada",
+    "city_ascii": "Lerdo de Tejada",
+    "admin_name": "Veracruz",
+    "lat": "18.6239",
+    "lng": "-95.5142",
+    "id": "1484800186"
+  },
+  {
+    "city": "San Juan Zitlaltepec",
+    "city_ascii": "San Juan Zitlaltepec",
+    "admin_name": "México",
+    "lat": "19.7167",
+    "lng": "-99.0500",
+    "id": "1484882196"
+  },
+  {
+    "city": "Hidalgotitlán",
+    "city_ascii": "Hidalgotitlan",
+    "admin_name": "Veracruz",
+    "lat": "17.7833",
+    "lng": "-94.6333",
+    "id": "1484749313"
+  },
+  {
+    "city": "Suchiapa",
+    "city_ascii": "Suchiapa",
+    "admin_name": "Chiapas",
+    "lat": "16.6181",
+    "lng": "-93.0942",
+    "id": "1484835465"
+  },
+  {
+    "city": "Jesús María",
+    "city_ascii": "Jesus Maria",
+    "admin_name": "Jalisco",
+    "lat": "20.6078",
+    "lng": "-102.2242",
+    "id": "1484588871"
+  },
+  {
+    "city": "Cardonal",
+    "city_ascii": "Cardonal",
+    "admin_name": "Hidalgo",
+    "lat": "20.6167",
+    "lng": "-99.1167",
+    "id": "1484936605"
+  },
+  {
+    "city": "José Cardel",
+    "city_ascii": "Jose Cardel",
+    "admin_name": "Veracruz",
+    "lat": "19.3667",
+    "lng": "-96.3667",
+    "id": "1484785956"
+  },
+  {
+    "city": "Mapastepec",
+    "city_ascii": "Mapastepec",
+    "admin_name": "Chiapas",
+    "lat": "15.4411",
+    "lng": "-92.8916",
+    "id": "1484386885"
+  },
+  {
+    "city": "Texcaltitlán",
+    "city_ascii": "Texcaltitlan",
+    "admin_name": "México",
+    "lat": "18.9297",
+    "lng": "-99.9372",
+    "id": "1484685265"
+  },
+  {
+    "city": "Puerto Morelos",
+    "city_ascii": "Puerto Morelos",
+    "admin_name": "Quintana Roo",
+    "lat": "20.8536",
+    "lng": "-86.8753",
+    "id": "1484801229"
+  },
+  {
+    "city": "Jamiltepec",
+    "city_ascii": "Jamiltepec",
+    "admin_name": "Oaxaca",
+    "lat": "16.2833",
+    "lng": "-97.8167",
+    "id": "1484035155"
+  },
+  {
+    "city": "Senguio",
+    "city_ascii": "Senguio",
+    "admin_name": "Michoacán",
+    "lat": "19.7328",
+    "lng": "-100.3522",
+    "id": "1484696811"
+  },
+  {
+    "city": "Cacahoatán",
+    "city_ascii": "Cacahoatan",
+    "admin_name": "Chiapas",
+    "lat": "17.1667",
+    "lng": "-92.1667",
+    "id": "1484991082"
+  },
+  {
+    "city": "Cherán",
+    "city_ascii": "Cheran",
+    "admin_name": "Michoacán",
+    "lat": "19.6833",
+    "lng": "-101.9500",
+    "id": "1484573730"
+  },
+  {
+    "city": "Ixtlahuacán del Río",
+    "city_ascii": "Ixtlahuacan del Rio",
+    "admin_name": "Jalisco",
+    "lat": "20.8667",
+    "lng": "-103.2500",
+    "id": "1484528814"
+  },
+  {
+    "city": "Cotija de la Paz",
+    "city_ascii": "Cotija de la Paz",
+    "admin_name": "Michoacán",
+    "lat": "19.8167",
+    "lng": "-102.6833",
+    "id": "1484490839"
+  },
+  {
+    "city": "Santa Ana Jilotzingo",
+    "city_ascii": "Santa Ana Jilotzingo",
+    "admin_name": "México",
+    "lat": "19.4000",
+    "lng": "-99.2333",
+    "id": "1484669477"
+  },
+  {
+    "city": "Vista Hermosa de Negrete",
+    "city_ascii": "Vista Hermosa de Negrete",
+    "admin_name": "Michoacán",
+    "lat": "20.2717",
+    "lng": "-102.4749",
+    "id": "1484012642"
+  },
+  {
+    "city": "San Ignacio Cerro Gordo",
+    "city_ascii": "San Ignacio Cerro Gordo",
+    "admin_name": "Jalisco",
+    "lat": "20.7333",
+    "lng": "-102.5167",
+    "id": "1484086194"
+  },
+  {
+    "city": "Ajacuba",
+    "city_ascii": "Ajacuba",
+    "admin_name": "Hidalgo",
+    "lat": "20.0833",
+    "lng": "-99.1167",
+    "id": "1484132188"
+  },
+  {
+    "city": "Huehuetla",
+    "city_ascii": "Huehuetla",
+    "admin_name": "Puebla",
+    "lat": "20.1075",
+    "lng": "-97.6233",
+    "id": "1484001118"
+  },
+  {
+    "city": "Tlalnelhuayocan",
+    "city_ascii": "Tlalnelhuayocan",
+    "admin_name": "Veracruz",
+    "lat": "19.5667",
+    "lng": "-96.9667",
+    "id": "1484053667"
+  },
+  {
+    "city": "Aldama",
+    "city_ascii": "Aldama",
+    "admin_name": "Chihuahua",
+    "lat": "28.8386",
+    "lng": "-105.9111",
+    "id": "1484197521"
+  },
+  {
+    "city": "Asunción Nochixtlán",
+    "city_ascii": "Asuncion Nochixtlan",
+    "admin_name": "Oaxaca",
+    "lat": "17.4500",
+    "lng": "-97.2167",
+    "id": "1484302009"
+  },
+  {
+    "city": "Santa Cruz Zenzontepec",
+    "city_ascii": "Santa Cruz Zenzontepec",
+    "admin_name": "Oaxaca",
+    "lat": "16.5333",
+    "lng": "-97.5000",
+    "id": "1484403131"
+  },
+  {
+    "city": "Coalcomán de Vásquez Pallares Uno",
+    "city_ascii": "Coalcoman de Vasquez Pallares Uno",
+    "admin_name": "Michoacán",
+    "lat": "18.6442",
+    "lng": "-103.1267",
+    "id": "1484488181"
+  },
+  {
+    "city": "Coalcomán de Vázquez Pallares",
+    "city_ascii": "Coalcoman de Vazquez Pallares",
+    "admin_name": "Michoacán",
+    "lat": "18.7833",
+    "lng": "-103.1667",
+    "id": "1484699271"
+  },
+  {
+    "city": "San Blas Atempa",
+    "city_ascii": "San Blas Atempa",
+    "admin_name": "Oaxaca",
+    "lat": "16.3167",
+    "lng": "-95.2167",
+    "id": "1484548529"
+  },
+  {
+    "city": "Cuautitlán",
+    "city_ascii": "Cuautitlan",
+    "admin_name": "Jalisco",
+    "lat": "19.4522",
+    "lng": "-104.3583",
+    "id": "1484216677"
+  },
+  {
+    "city": "Filomeno Mata",
+    "city_ascii": "Filomeno Mata",
+    "admin_name": "Veracruz",
+    "lat": "20.2000",
+    "lng": "-97.7000",
+    "id": "1484846261"
+  },
+  {
+    "city": "Santiago Ixcuintla",
+    "city_ascii": "Santiago Ixcuintla",
+    "admin_name": "Nayarit",
+    "lat": "21.8110",
+    "lng": "-105.2079",
+    "id": "1484248235"
+  },
+  {
+    "city": "San José Tenango",
+    "city_ascii": "San Jose Tenango",
+    "admin_name": "Oaxaca",
+    "lat": "18.1500",
+    "lng": "-96.7333",
+    "id": "1484844323"
+  },
+  {
+    "city": "Pijijiapan",
+    "city_ascii": "Pijijiapan",
+    "admin_name": "Chiapas",
+    "lat": "15.6833",
+    "lng": "-93.2167",
+    "id": "1484994799"
+  },
+  {
+    "city": "Xochiatipan de Castillo",
+    "city_ascii": "Xochiatipan de Castillo",
+    "admin_name": "Hidalgo",
+    "lat": "20.8333",
+    "lng": "-98.2850",
+    "id": "1484688256"
+  },
+  {
+    "city": "Tlacoachistlahuaca",
+    "city_ascii": "Tlacoachistlahuaca",
+    "admin_name": "Guerrero",
+    "lat": "16.7833",
+    "lng": "-98.2000",
+    "id": "1484268442"
+  },
+  {
+    "city": "Cuquío",
+    "city_ascii": "Cuquio",
+    "admin_name": "Jalisco",
+    "lat": "20.9290",
+    "lng": "-103.0229",
+    "id": "1484426156"
+  },
+  {
+    "city": "Unión de San Antonio",
+    "city_ascii": "Union de San Antonio",
+    "admin_name": "Jalisco",
+    "lat": "21.1280",
+    "lng": "-102.0060",
+    "id": "1484001030"
+  },
+  {
+    "city": "Zapotlán del Rey",
+    "city_ascii": "Zapotlan del Rey",
+    "admin_name": "Jalisco",
+    "lat": "20.4674",
+    "lng": "-102.9248",
+    "id": "1484897349"
+  },
+  {
+    "city": "San Bartolo Tutotepec",
+    "city_ascii": "San Bartolo Tutotepec",
+    "admin_name": "Hidalgo",
+    "lat": "20.4000",
+    "lng": "-98.2000",
+    "id": "1484290508"
+  },
+  {
+    "city": "Villa Corona",
+    "city_ascii": "Villa Corona",
+    "admin_name": "Jalisco",
+    "lat": "20.2417",
+    "lng": "-103.6167",
+    "id": "1484753179"
+  },
+  {
+    "city": "Mazapil",
+    "city_ascii": "Mazapil",
+    "admin_name": "Zacatecas",
+    "lat": "24.6383",
+    "lng": "-101.5553",
+    "id": "1484135363"
+  },
+  {
+    "city": "Benito Juárez",
+    "city_ascii": "Benito Juarez",
+    "admin_name": "Veracruz",
+    "lat": "20.8833",
+    "lng": "-98.2000",
+    "id": "1484526354"
+  },
+  {
+    "city": "Amacuzac",
+    "city_ascii": "Amacuzac",
+    "admin_name": "Morelos",
+    "lat": "18.6000",
+    "lng": "-99.3700",
+    "id": "1484072402"
+  },
+  {
+    "city": "Palau",
+    "city_ascii": "Palau",
+    "admin_name": "Coahuila",
+    "lat": "27.9167",
+    "lng": "-101.4167",
+    "id": "1484142037"
+  },
+  {
+    "city": "Santos Reyes Nopala",
+    "city_ascii": "Santos Reyes Nopala",
+    "admin_name": "Oaxaca",
+    "lat": "16.1000",
+    "lng": "-97.1500",
+    "id": "1484003311"
+  },
+  {
+    "city": "Compostela",
+    "city_ascii": "Compostela",
+    "admin_name": "Nayarit",
+    "lat": "21.2389",
+    "lng": "-104.9000",
+    "id": "1484966833"
+  },
+  {
+    "city": "Moloacán",
+    "city_ascii": "Moloacan",
+    "admin_name": "Veracruz",
+    "lat": "17.9833",
+    "lng": "-94.3500",
+    "id": "1484009613"
+  },
+  {
+    "city": "Tenango de Doria",
+    "city_ascii": "Tenango de Doria",
+    "admin_name": "Hidalgo",
+    "lat": "20.3356",
+    "lng": "-98.2267",
+    "id": "1484595420"
+  },
+  {
+    "city": "Ciudad Hidalgo",
+    "city_ascii": "Ciudad Hidalgo",
+    "admin_name": "Chiapas",
+    "lat": "14.6792",
+    "lng": "-92.1497",
+    "id": "1484360693"
+  },
+  {
+    "city": "Pajapan",
+    "city_ascii": "Pajapan",
+    "admin_name": "Veracruz",
+    "lat": "18.2667",
+    "lng": "-94.6833",
+    "id": "1484768670"
+  },
+  {
+    "city": "Tepatlaxco",
+    "city_ascii": "Tepatlaxco",
+    "admin_name": "Puebla",
+    "lat": "19.0667",
+    "lng": "-97.9667",
+    "id": "1484624680"
+  },
+  {
+    "city": "Tasquillo",
+    "city_ascii": "Tasquillo",
+    "admin_name": "Hidalgo",
+    "lat": "20.6167",
+    "lng": "-99.2500",
+    "id": "1484659098"
+  },
+  {
+    "city": "Totutla",
+    "city_ascii": "Totutla",
+    "admin_name": "Veracruz",
+    "lat": "19.2167",
+    "lng": "-96.9667",
+    "id": "1484089486"
+  },
+  {
+    "city": "Ziracuaretiro",
+    "city_ascii": "Ziracuaretiro",
+    "admin_name": "Michoacán",
+    "lat": "19.4333",
+    "lng": "-101.9167",
+    "id": "1484827641"
+  },
+  {
+    "city": "Ignacio de la Llave",
+    "city_ascii": "Ignacio de la Llave",
+    "admin_name": "Veracruz",
+    "lat": "18.6618",
+    "lng": "-95.9721",
+    "id": "1484700629"
+  },
+  {
+    "city": "Mecayapan",
+    "city_ascii": "Mecayapan",
+    "admin_name": "Veracruz",
+    "lat": "18.2167",
+    "lng": "-94.8333",
+    "id": "1484664655"
+  },
+  {
+    "city": "Ejutla de Crespo",
+    "city_ascii": "Ejutla de Crespo",
+    "admin_name": "Oaxaca",
+    "lat": "16.5672",
+    "lng": "-96.7308",
+    "id": "1484630380"
+  },
+  {
+    "city": "Pisaflores",
+    "city_ascii": "Pisaflores",
+    "admin_name": "Hidalgo",
+    "lat": "21.1933",
+    "lng": "-99.0050",
+    "id": "1484698691"
+  },
+  {
+    "city": "Calnali",
+    "city_ascii": "Calnali",
+    "admin_name": "Hidalgo",
+    "lat": "20.9000",
+    "lng": "-98.5833",
+    "id": "1484014196"
+  },
+  {
+    "city": "Tlahuelilpan",
+    "city_ascii": "Tlahuelilpan",
+    "admin_name": "Hidalgo",
+    "lat": "20.1297",
+    "lng": "-99.2286",
+    "id": "1484009996"
+  },
+  {
+    "city": "San Felipe",
+    "city_ascii": "San Felipe",
+    "admin_name": "Baja California",
+    "lat": "31.0275",
+    "lng": "-114.8353",
+    "id": "1484794463"
+  },
+  {
+    "city": "Peñamiller",
+    "city_ascii": "Penamiller",
+    "admin_name": "Querétaro",
+    "lat": "21.0519",
+    "lng": "-99.8150",
+    "id": "1484158047"
+  },
+  {
+    "city": "Dzitbalché",
+    "city_ascii": "Dzitbalche",
+    "admin_name": "Campeche",
+    "lat": "20.3167",
+    "lng": "-90.0500",
+    "id": "1484603562"
+  },
+  {
+    "city": "San Juan Lalana",
+    "city_ascii": "San Juan Lalana",
+    "admin_name": "Oaxaca",
+    "lat": "17.4667",
+    "lng": "-95.8833",
+    "id": "1484819599"
+  },
+  {
+    "city": "Teocelo",
+    "city_ascii": "Teocelo",
+    "admin_name": "Veracruz",
+    "lat": "19.3833",
+    "lng": "-96.9667",
+    "id": "1484611016"
+  },
+  {
+    "city": "Zinapécuaro",
+    "city_ascii": "Zinapecuaro",
+    "admin_name": "Michoacán",
+    "lat": "19.8603",
+    "lng": "-100.8275",
+    "id": "1484739166"
+  },
+  {
+    "city": "Alfajayucan",
+    "city_ascii": "Alfajayucan",
+    "admin_name": "Hidalgo",
+    "lat": "20.4000",
+    "lng": "-99.3500",
+    "id": "1484991912"
+  },
+  {
+    "city": "Salinas de Hidalgo",
+    "city_ascii": "Salinas de Hidalgo",
+    "admin_name": "San Luis Potosí",
+    "lat": "22.6280",
+    "lng": "-101.7156",
+    "id": "1484391139"
+  },
+  {
+    "city": "Nuevo San Juan Parangaricutiro",
+    "city_ascii": "Nuevo San Juan Parangaricutiro",
+    "admin_name": "Michoacán",
+    "lat": "19.4000",
+    "lng": "-102.1333",
+    "id": "1484014213"
+  },
+  {
+    "city": "Chinampa de Gorostiza",
+    "city_ascii": "Chinampa de Gorostiza",
+    "admin_name": "Veracruz",
+    "lat": "21.3667",
+    "lng": "-97.7333",
+    "id": "1484006654"
+  },
+  {
+    "city": "Jilotepec",
+    "city_ascii": "Jilotepec",
+    "admin_name": "Veracruz",
+    "lat": "19.6097",
+    "lng": "-96.9511",
+    "id": "1484009524"
+  },
+  {
+    "city": "Jalpa de Méndez",
+    "city_ascii": "Jalpa de Mendez",
+    "admin_name": "Tabasco",
+    "lat": "18.1764",
+    "lng": "-93.0631",
+    "id": "1484768624"
+  },
+  {
+    "city": "Epitacio Huerta",
+    "city_ascii": "Epitacio Huerta",
+    "admin_name": "Michoacán",
+    "lat": "20.1348",
+    "lng": "-100.2934",
+    "id": "1484920890"
+  },
+  {
+    "city": "Tecolotlán",
+    "city_ascii": "Tecolotlan",
+    "admin_name": "Jalisco",
+    "lat": "20.1000",
+    "lng": "-103.8333",
+    "id": "1484469850"
+  },
+  {
+    "city": "San Gabriel",
+    "city_ascii": "San Gabriel",
+    "admin_name": "Jalisco",
+    "lat": "19.7000",
+    "lng": "-103.7333",
+    "id": "1484723837"
+  },
+  {
+    "city": "Tlacolula de Matamoros",
+    "city_ascii": "Tlacolula de Matamoros",
+    "admin_name": "Oaxaca",
+    "lat": "16.9542",
+    "lng": "-96.4792",
+    "id": "1484076523"
+  },
+  {
+    "city": "Ciudad Guadalupe Victoria",
+    "city_ascii": "Ciudad Guadalupe Victoria",
+    "admin_name": "Durango",
+    "lat": "24.4497",
+    "lng": "-104.1225",
+    "id": "1484654052"
+  },
+  {
+    "city": "Zapotlán de Juárez",
+    "city_ascii": "Zapotlan de Juarez",
+    "admin_name": "Hidalgo",
+    "lat": "19.9667",
+    "lng": "-98.8500",
+    "id": "1484756389"
+  },
+  {
+    "city": "Juchique de Ferrer",
+    "city_ascii": "Juchique de Ferrer",
+    "admin_name": "Veracruz",
+    "lat": "19.8333",
+    "lng": "-96.7000",
+    "id": "1484992524"
+  },
+  {
+    "city": "Cosautlán",
+    "city_ascii": "Cosautlan",
+    "admin_name": "Veracruz",
+    "lat": "19.3333",
+    "lng": "-96.9833",
+    "id": "1484430709"
+  },
+  {
+    "city": "Noria de Ángeles",
+    "city_ascii": "Noria de Angeles",
+    "admin_name": "Zacatecas",
+    "lat": "22.4433",
+    "lng": "-101.9097",
+    "id": "1484566696"
+  },
+  {
+    "city": "San Sebastián Tutla",
+    "city_ascii": "San Sebastian Tutla",
+    "admin_name": "Oaxaca",
+    "lat": "17.0667",
+    "lng": "-96.6667",
+    "id": "1484827954"
+  },
+  {
+    "city": "Oteapan",
+    "city_ascii": "Oteapan",
+    "admin_name": "Veracruz",
+    "lat": "18.0000",
+    "lng": "-94.6667",
+    "id": "1484584805"
+  },
+  {
+    "city": "Santa Anita",
+    "city_ascii": "Santa Anita",
+    "admin_name": "Sonora",
+    "lat": "30.5118",
+    "lng": "-111.1234",
+    "id": "1484530456"
+  },
+  {
+    "city": "Izamal",
+    "city_ascii": "Izamal",
+    "admin_name": "Yucatán",
+    "lat": "20.9314",
+    "lng": "-89.0178",
+    "id": "1484567751"
+  },
+  {
+    "city": "Venustiano Carranza",
+    "city_ascii": "Venustiano Carranza",
+    "admin_name": "Chiapas",
+    "lat": "16.3294",
+    "lng": "-92.5625",
+    "id": "1484842496"
+  },
+  {
+    "city": "Santiago Tulantepec",
+    "city_ascii": "Santiago Tulantepec",
+    "admin_name": "Hidalgo",
+    "lat": "20.0397",
+    "lng": "-98.3575",
+    "id": "1484221851"
+  },
+  {
+    "city": "Ciudad de Huitzuco",
+    "city_ascii": "Ciudad de Huitzuco",
+    "admin_name": "Guerrero",
+    "lat": "18.3000",
+    "lng": "-99.3500",
+    "id": "1484912284"
+  },
+  {
+    "city": "El Rosario",
+    "city_ascii": "El Rosario",
+    "admin_name": "Sinaloa",
+    "lat": "22.9922",
+    "lng": "-105.8572",
+    "id": "1484373649"
+  },
+  {
+    "city": "Santa Catarina Juquila",
+    "city_ascii": "Santa Catarina Juquila",
+    "admin_name": "Oaxaca",
+    "lat": "16.2364",
+    "lng": "-97.2919",
+    "id": "1484108848"
+  },
+  {
+    "city": "Vicente Guerrero",
+    "city_ascii": "Vicente Guerrero",
+    "admin_name": "Durango",
+    "lat": "23.7500",
+    "lng": "-103.9833",
+    "id": "1484862775"
+  },
+  {
+    "city": "San Julián",
+    "city_ascii": "San Julian",
+    "admin_name": "Jalisco",
+    "lat": "21.0167",
+    "lng": "-102.1667",
+    "id": "1484367855"
+  },
+  {
+    "city": "Tlaltetela",
+    "city_ascii": "Tlaltetela",
+    "admin_name": "Veracruz",
+    "lat": "19.3167",
+    "lng": "-96.9000",
+    "id": "1484184075"
+  },
+  {
+    "city": "Ixhuatlán del Sureste",
+    "city_ascii": "Ixhuatlan del Sureste",
+    "admin_name": "Veracruz",
+    "lat": "18.0170",
+    "lng": "-94.3800",
+    "id": "1484815291"
+  },
+  {
+    "city": "San Jacinto Amilpas",
+    "city_ascii": "San Jacinto Amilpas",
+    "admin_name": "Oaxaca",
+    "lat": "17.1000",
+    "lng": "-96.7667",
+    "id": "1484813830"
+  },
+  {
+    "city": "La Cruz",
+    "city_ascii": "La Cruz",
+    "admin_name": "Sinaloa",
+    "lat": "23.9214",
+    "lng": "-106.8919",
+    "id": "1484243519"
+  },
+  {
+    "city": "Capilla de Guadalupe",
+    "city_ascii": "Capilla de Guadalupe",
+    "admin_name": "Jalisco",
+    "lat": "20.6500",
+    "lng": "-102.8000",
+    "id": "1484606464"
+  },
+  {
+    "city": "Tatahuicapan",
+    "city_ascii": "Tatahuicapan",
+    "admin_name": "Veracruz",
+    "lat": "18.2500",
+    "lng": "-94.7667",
+    "id": "1484402622"
+  },
+  {
+    "city": "Cosío",
+    "city_ascii": "Cosio",
+    "admin_name": "Aguascalientes",
+    "lat": "22.3667",
+    "lng": "-102.3000",
+    "id": "1484671410"
+  },
+  {
+    "city": "Cochoapa el Grande",
+    "city_ascii": "Cochoapa el Grande",
+    "admin_name": "Guerrero",
+    "lat": "17.2000",
+    "lng": "-98.4500",
+    "id": "1484944228"
+  },
+  {
+    "city": "Madera",
+    "city_ascii": "Madera",
+    "admin_name": "Chihuahua",
+    "lat": "29.1900",
+    "lng": "-108.1414",
+    "id": "1484958144"
+  },
+  {
+    "city": "Santa María Petapa",
+    "city_ascii": "Santa Maria Petapa",
+    "admin_name": "Oaxaca",
+    "lat": "16.8167",
+    "lng": "-95.1167",
+    "id": "1484501021"
+  },
+  {
+    "city": "Ayutla de los Libres",
+    "city_ascii": "Ayutla de los Libres",
+    "admin_name": "Guerrero",
+    "lat": "16.9000",
+    "lng": "-99.2167",
+    "id": "1484235149"
+  },
+  {
+    "city": "Amatitán",
+    "city_ascii": "Amatitan",
+    "admin_name": "Jalisco",
+    "lat": "20.8350",
+    "lng": "-103.7310",
+    "id": "1484634445"
+  },
+  {
+    "city": "Erongarícuaro",
+    "city_ascii": "Erongaricuaro",
+    "admin_name": "Michoacán",
+    "lat": "19.5833",
+    "lng": "-101.7167",
+    "id": "1484012062"
+  },
+  {
+    "city": "Chilcuautla",
+    "city_ascii": "Chilcuautla",
+    "admin_name": "Hidalgo",
+    "lat": "20.3333",
+    "lng": "-99.2333",
+    "id": "1484513510"
+  },
+  {
+    "city": "Puréparo de Echaíz",
+    "city_ascii": "Pureparo de Echaiz",
+    "admin_name": "Michoacán",
+    "lat": "19.9000",
+    "lng": "-102.0167",
+    "id": "1484222410"
+  },
+  {
+    "city": "Pichucalco",
+    "city_ascii": "Pichucalco",
+    "admin_name": "Chiapas",
+    "lat": "17.5000",
+    "lng": "-93.1167",
+    "id": "1484558261"
+  },
+  {
+    "city": "Huasca de Ocampo",
+    "city_ascii": "Huasca de Ocampo",
+    "admin_name": "Hidalgo",
+    "lat": "20.2028",
+    "lng": "-98.5758",
+    "id": "1484063344"
+  },
+  {
+    "city": "Tanhuato de Guerrero",
+    "city_ascii": "Tanhuato de Guerrero",
+    "admin_name": "Michoacán",
+    "lat": "20.2819",
+    "lng": "-102.3319",
+    "id": "1484151979"
+  },
+  {
+    "city": "San Pedro Tapanatepec",
+    "city_ascii": "San Pedro Tapanatepec",
+    "admin_name": "Oaxaca",
+    "lat": "16.3667",
+    "lng": "-94.2000",
+    "id": "1484844084"
+  },
+  {
+    "city": "Zacualpan",
+    "city_ascii": "Zacualpan",
+    "admin_name": "México",
+    "lat": "18.7197",
+    "lng": "-99.7800",
+    "id": "1484694794"
+  },
+  {
+    "city": "Nopala de Villagran",
+    "city_ascii": "Nopala de Villagran",
+    "admin_name": "Hidalgo",
+    "lat": "20.2528",
+    "lng": "-99.6433",
+    "id": "1484987808"
+  },
+  {
+    "city": "Huitzilan",
+    "city_ascii": "Huitzilan",
+    "admin_name": "Puebla",
+    "lat": "19.9667",
+    "lng": "-97.6833",
+    "id": "1484786185"
+  },
+  {
+    "city": "La Magdalena Tlaltelulco",
+    "city_ascii": "La Magdalena Tlaltelulco",
+    "admin_name": "Tlaxcala",
+    "lat": "19.2667",
+    "lng": "-98.2000",
+    "id": "1484446251"
+  },
+  {
+    "city": "Guadalupe Victoria",
+    "city_ascii": "Guadalupe Victoria",
+    "admin_name": "Puebla",
+    "lat": "19.2833",
+    "lng": "-97.3333",
+    "id": "1484527511"
+  },
+  {
+    "city": "El Arenal",
+    "city_ascii": "El Arenal",
+    "admin_name": "Hidalgo",
+    "lat": "20.2167",
+    "lng": "-98.9167",
+    "id": "1484425146"
+  },
+  {
+    "city": "Acala",
+    "city_ascii": "Acala",
+    "admin_name": "Chiapas",
+    "lat": "16.5533",
+    "lng": "-92.8069",
+    "id": "1484788928"
+  },
+  {
+    "city": "Talpa de Allende",
+    "city_ascii": "Talpa de Allende",
+    "admin_name": "Jalisco",
+    "lat": "20.3806",
+    "lng": "-104.8222",
+    "id": "1484030876"
+  },
+  {
+    "city": "Calkiní",
+    "city_ascii": "Calkini",
+    "admin_name": "Campeche",
+    "lat": "20.3667",
+    "lng": "-90.0500",
+    "id": "1484329915"
+  },
+  {
+    "city": "Tecuala",
+    "city_ascii": "Tecuala",
+    "admin_name": "Nayarit",
+    "lat": "22.4004",
+    "lng": "-105.4600",
+    "id": "1484955369"
+  },
+  {
+    "city": "Coquimatlán",
+    "city_ascii": "Coquimatlan",
+    "admin_name": "Colima",
+    "lat": "19.2038",
+    "lng": "-103.8086",
+    "id": "1484193381"
+  },
+  {
+    "city": "Chemax",
+    "city_ascii": "Chemax",
+    "admin_name": "Yucatán",
+    "lat": "20.6550",
+    "lng": "-87.9372",
+    "id": "1484867017"
+  },
+  {
+    "city": "San Mateo del Mar",
+    "city_ascii": "San Mateo del Mar",
+    "admin_name": "Oaxaca",
+    "lat": "16.2105",
+    "lng": "-94.9822",
+    "id": "1484954959"
+  },
+  {
+    "city": "Cerritos",
+    "city_ascii": "Cerritos",
+    "admin_name": "San Luis Potosí",
+    "lat": "22.4275",
+    "lng": "-100.2783",
+    "id": "1484001904"
+  },
+  {
+    "city": "Tepetzintla",
+    "city_ascii": "Tepetzintla",
+    "admin_name": "Veracruz",
+    "lat": "21.1658",
+    "lng": "-97.8511",
+    "id": "1484385901"
+  },
+  {
+    "city": "Loreto",
+    "city_ascii": "Loreto",
+    "admin_name": "Baja California Sur",
+    "lat": "26.0128",
+    "lng": "-111.3433",
+    "id": "1484876942"
+  },
+  {
+    "city": "Tlaxcala",
+    "city_ascii": "Tlaxcala",
+    "admin_name": "Tlaxcala",
+    "lat": "19.3125",
+    "lng": "-98.2400",
+    "id": "1484359502"
+  },
+  {
+    "city": "Mineral del Monte",
+    "city_ascii": "Mineral del Monte",
+    "admin_name": "Hidalgo",
+    "lat": "20.1333",
+    "lng": "-98.6667",
+    "id": "1484360018"
+  },
+  {
+    "city": "Técpan de Galeana",
+    "city_ascii": "Tecpan de Galeana",
+    "admin_name": "Guerrero",
+    "lat": "17.2500",
+    "lng": "-100.6833",
+    "id": "1484708548"
+  },
+  {
+    "city": "Zontecomatlán de López y Fuentes",
+    "city_ascii": "Zontecomatlan de Lopez y Fuentes",
+    "admin_name": "Veracruz",
+    "lat": "20.7667",
+    "lng": "-98.3333",
+    "id": "1484226245"
+  },
+  {
+    "city": "Guachochi",
+    "city_ascii": "Guachochi",
+    "admin_name": "Chihuahua",
+    "lat": "26.8194",
+    "lng": "-107.0700",
+    "id": "1484533430"
+  },
+  {
+    "city": "Tlayacapan",
+    "city_ascii": "Tlayacapan",
+    "admin_name": "Morelos",
+    "lat": "18.9556",
+    "lng": "-98.9811",
+    "id": "1484386110"
+  },
+  {
+    "city": "Chiconquiaco",
+    "city_ascii": "Chiconquiaco",
+    "admin_name": "Veracruz",
+    "lat": "19.7500",
+    "lng": "-96.8167",
+    "id": "1484230887"
+  },
+  {
+    "city": "Nacozari Viejo",
+    "city_ascii": "Nacozari Viejo",
+    "admin_name": "Sonora",
+    "lat": "30.3833",
+    "lng": "-109.6833",
+    "id": "1484108383"
+  },
+  {
+    "city": "Churumuco de Morelos",
+    "city_ascii": "Churumuco de Morelos",
+    "admin_name": "Michoacán",
+    "lat": "18.6167",
+    "lng": "-101.6333",
+    "id": "1484004930"
+  },
+  {
+    "city": "Santa Rosalía",
+    "city_ascii": "Santa Rosalia",
+    "admin_name": "Baja California Sur",
+    "lat": "27.3389",
+    "lng": "-112.2669",
+    "id": "1484950775"
+  },
+  {
+    "city": "Tianguistengo",
+    "city_ascii": "Tianguistengo",
+    "admin_name": "Hidalgo",
+    "lat": "20.7278",
+    "lng": "-98.6289",
+    "id": "1484089008"
+  },
+  {
+    "city": "San Andrés Timilpan",
+    "city_ascii": "San Andres Timilpan",
+    "admin_name": "México",
+    "lat": "19.8667",
+    "lng": "-99.7333",
+    "id": "1484996853"
+  },
+  {
+    "city": "El Barrio de la Soledad",
+    "city_ascii": "El Barrio de la Soledad",
+    "admin_name": "Oaxaca",
+    "lat": "16.8000",
+    "lng": "-95.1167",
+    "id": "1484814019"
+  },
+  {
+    "city": "Ciénega de Flores",
+    "city_ascii": "Cienega de Flores",
+    "admin_name": "Nuevo León",
+    "lat": "25.9500",
+    "lng": "-100.1833",
+    "id": "1484782533"
+  },
+  {
+    "city": "Zozocolco de Hidalgo",
+    "city_ascii": "Zozocolco de Hidalgo",
+    "admin_name": "Veracruz",
+    "lat": "20.1333",
+    "lng": "-97.5833",
+    "id": "1484949093"
+  },
+  {
+    "city": "Bochil",
+    "city_ascii": "Bochil",
+    "admin_name": "Chiapas",
+    "lat": "16.9833",
+    "lng": "-92.9167",
+    "id": "1484171114"
+  },
+  {
+    "city": "Almoloya de Alquisiras",
+    "city_ascii": "Almoloya de Alquisiras",
+    "admin_name": "México",
+    "lat": "18.8500",
+    "lng": "-99.8500",
+    "id": "1484855096"
+  },
+  {
+    "city": "Juan Aldama",
+    "city_ascii": "Juan Aldama",
+    "admin_name": "Zacatecas",
+    "lat": "24.2911",
+    "lng": "-103.3939",
+    "id": "1484898373"
+  },
+  {
+    "city": "Grajales",
+    "city_ascii": "Grajales",
+    "admin_name": "Puebla",
+    "lat": "19.2275",
+    "lng": "-97.8039",
+    "id": "1484035729"
+  },
+  {
+    "city": "Santiago Jocotepec",
+    "city_ascii": "Santiago Jocotepec",
+    "admin_name": "Oaxaca",
+    "lat": "17.5833",
+    "lng": "-95.8833",
+    "id": "1484170405"
+  },
+  {
+    "city": "Tepoztlán",
+    "city_ascii": "Tepoztlan",
+    "admin_name": "Morelos",
+    "lat": "18.9853",
+    "lng": "-99.0997",
+    "id": "1484948191"
+  },
+  {
+    "city": "Charcas",
+    "city_ascii": "Charcas",
+    "admin_name": "San Luis Potosí",
+    "lat": "23.1261",
+    "lng": "-101.1128",
+    "id": "1484233945"
+  },
+  {
+    "city": "Santiago de Anaya",
+    "city_ascii": "Santiago de Anaya",
+    "admin_name": "Hidalgo",
+    "lat": "20.3844",
+    "lng": "-98.9647",
+    "id": "1484062040"
+  },
+  {
+    "city": "Ezequiel Montes",
+    "city_ascii": "Ezequiel Montes",
+    "admin_name": "Querétaro",
+    "lat": "20.6667",
+    "lng": "-99.8833",
+    "id": "1484350732"
+  },
+  {
+    "city": "Mazamitla",
+    "city_ascii": "Mazamitla",
+    "admin_name": "Jalisco",
+    "lat": "19.9153",
+    "lng": "-103.0208",
+    "id": "1484841788"
+  },
+  {
+    "city": "Polotitlán de la Ilustración",
+    "city_ascii": "Polotitlan de la Ilustracion",
+    "admin_name": "México",
+    "lat": "20.2253",
+    "lng": "-99.8154",
+    "id": "1484418357"
+  },
+  {
+    "city": "Unión de Tula",
+    "city_ascii": "Union de Tula",
+    "admin_name": "Jalisco",
+    "lat": "19.9570",
+    "lng": "-104.2680",
+    "id": "1484444951"
+  },
+  {
+    "city": "Tampamolón Corona",
+    "city_ascii": "Tampamolon Corona",
+    "admin_name": "San Luis Potosí",
+    "lat": "21.5667",
+    "lng": "-98.8167",
+    "id": "1484813967"
+  },
+  {
+    "city": "San Gabriel Chilac",
+    "city_ascii": "San Gabriel Chilac",
+    "admin_name": "Puebla",
+    "lat": "18.3167",
+    "lng": "-97.3500",
+    "id": "1484839273"
+  },
+  {
+    "city": "San Pedro Pochutla",
+    "city_ascii": "San Pedro Pochutla",
+    "admin_name": "Oaxaca",
+    "lat": "15.7476",
+    "lng": "-96.4666",
+    "id": "1484815091"
+  },
+  {
+    "city": "Aldama",
+    "city_ascii": "Aldama",
+    "admin_name": "Tamaulipas",
+    "lat": "22.9194",
+    "lng": "-98.0736",
+    "id": "1484835121"
+  },
+  {
+    "city": "Guerrero Negro",
+    "city_ascii": "Guerrero Negro",
+    "admin_name": "Baja California Sur",
+    "lat": "27.9589",
+    "lng": "-114.0561",
+    "id": "1484879768"
+  },
+  {
+    "city": "Tapilula",
+    "city_ascii": "Tapilula",
+    "admin_name": "Chiapas",
+    "lat": "17.2500",
+    "lng": "-93.0167",
+    "id": "1484306142"
+  },
+  {
+    "city": "Ixcatepec",
+    "city_ascii": "Ixcatepec",
+    "admin_name": "Veracruz",
+    "lat": "21.2333",
+    "lng": "-98.0000",
+    "id": "1484476969"
+  },
+  {
+    "city": "Chalma",
+    "city_ascii": "Chalma",
+    "admin_name": "Veracruz",
+    "lat": "21.2167",
+    "lng": "-98.4000",
+    "id": "1484039198"
+  },
+  {
+    "city": "Ilamatlán",
+    "city_ascii": "Ilamatlan",
+    "admin_name": "Veracruz",
+    "lat": "20.7833",
+    "lng": "-98.4500",
+    "id": "1484806313"
+  },
+  {
+    "city": "Ascensión",
+    "city_ascii": "Ascension",
+    "admin_name": "Chihuahua",
+    "lat": "31.0928",
+    "lng": "-107.9964",
+    "id": "1484659928"
+  },
+  {
+    "city": "Villa Unión",
+    "city_ascii": "Villa Union",
+    "admin_name": "Sinaloa",
+    "lat": "23.1883",
+    "lng": "-106.2158",
+    "id": "1484310975"
+  },
+  {
+    "city": "Cadereyta",
+    "city_ascii": "Cadereyta",
+    "admin_name": "Querétaro",
+    "lat": "20.6910",
+    "lng": "-99.8190",
+    "id": "1484014263"
+  },
+  {
+    "city": "Soyaniquilpan",
+    "city_ascii": "Soyaniquilpan",
+    "admin_name": "México",
+    "lat": "19.9892",
+    "lng": "-99.4361",
+    "id": "1484895616"
+  },
+  {
+    "city": "Villa González Ortega",
+    "city_ascii": "Villa Gonzalez Ortega",
+    "admin_name": "Zacatecas",
+    "lat": "22.5136",
+    "lng": "-101.9189",
+    "id": "1484927187"
+  },
+  {
+    "city": "Miahuatlán",
+    "city_ascii": "Miahuatlan",
+    "admin_name": "Puebla",
+    "lat": "18.2833",
+    "lng": "-97.2833",
+    "id": "1484451722"
+  },
+  {
+    "city": "Villa Juárez",
+    "city_ascii": "Villa Juarez",
+    "admin_name": "Sonora",
+    "lat": "27.1278",
+    "lng": "-109.8426",
+    "id": "1484467834"
+  },
+  {
+    "city": "Santa María Jalapa del Marqués",
+    "city_ascii": "Santa Maria Jalapa del Marques",
+    "admin_name": "Oaxaca",
+    "lat": "16.4401",
+    "lng": "-95.4434",
+    "id": "1484628971"
+  },
+  {
+    "city": "Singuilucan",
+    "city_ascii": "Singuilucan",
+    "admin_name": "Hidalgo",
+    "lat": "19.9675",
+    "lng": "-98.5178",
+    "id": "1484024966"
+  },
+  {
+    "city": "Mazatlán Villa de Flores",
+    "city_ascii": "Mazatlan Villa de Flores",
+    "admin_name": "Oaxaca",
+    "lat": "18.0167",
+    "lng": "-96.9167",
+    "id": "1484893255"
+  },
+  {
+    "city": "La Crucecita",
+    "city_ascii": "La Crucecita",
+    "admin_name": "Oaxaca",
+    "lat": "15.7753",
+    "lng": "-96.1425",
+    "id": "1484030886"
+  },
+  {
+    "city": "Tezontepec",
+    "city_ascii": "Tezontepec",
+    "admin_name": "Hidalgo",
+    "lat": "19.8833",
+    "lng": "-98.8167",
+    "id": "1484120923"
+  },
+  {
+    "city": "Nacozari de García",
+    "city_ascii": "Nacozari de Garcia",
+    "admin_name": "Sonora",
+    "lat": "30.3833",
+    "lng": "-109.6833",
+    "id": "1484112459"
+  },
+  {
+    "city": "Santa Cruz Atizapán",
+    "city_ascii": "Santa Cruz Atizapan",
+    "admin_name": "México",
+    "lat": "19.1756",
+    "lng": "-99.4886",
+    "id": "1484011710"
+  },
+  {
+    "city": "Chapantongo",
+    "city_ascii": "Chapantongo",
+    "admin_name": "Hidalgo",
+    "lat": "20.2833",
+    "lng": "-99.4000",
+    "id": "1484970395"
+  },
+  {
+    "city": "Valparaíso",
+    "city_ascii": "Valparaiso",
+    "admin_name": "Zacatecas",
+    "lat": "22.7667",
+    "lng": "-103.5667",
+    "id": "1484885454"
+  },
+  {
+    "city": "Ayutla",
+    "city_ascii": "Ayutla",
+    "admin_name": "Jalisco",
+    "lat": "20.8167",
+    "lng": "-104.2000",
+    "id": "1484883782"
+  },
+  {
+    "city": "Nuevo Ideal",
+    "city_ascii": "Nuevo Ideal",
+    "admin_name": "Durango",
+    "lat": "24.8875",
+    "lng": "-105.0728",
+    "id": "1484407989"
+  },
+  {
+    "city": "Vicente Guerrero",
+    "city_ascii": "Vicente Guerrero",
+    "admin_name": "Baja California",
+    "lat": "30.7264",
+    "lng": "-115.9903",
+    "id": "1484159343"
+  },
+  {
+    "city": "Santa Cruz Amilpas",
+    "city_ascii": "Santa Cruz Amilpas",
+    "admin_name": "Oaxaca",
+    "lat": "17.0667",
+    "lng": "-96.6833",
+    "id": "1484665188"
+  },
+  {
+    "city": "Pueblo Nuevo",
+    "city_ascii": "Pueblo Nuevo",
+    "admin_name": "Chiapas",
+    "lat": "17.1500",
+    "lng": "-92.9000",
+    "id": "1484535200"
+  },
+  {
+    "city": "Huazalingo",
+    "city_ascii": "Huazalingo",
+    "admin_name": "Hidalgo",
+    "lat": "21.8156",
+    "lng": "-98.5078",
+    "id": "1484658282"
+  },
+  {
+    "city": "Valtierrilla",
+    "city_ascii": "Valtierrilla",
+    "admin_name": "Guanajuato",
+    "lat": "20.0000",
+    "lng": "31.0000",
+    "id": "1484002834"
+  },
+  {
+    "city": "Santiago Amoltepec",
+    "city_ascii": "Santiago Amoltepec",
+    "admin_name": "Oaxaca",
+    "lat": "16.6167",
+    "lng": "-97.5000",
+    "id": "1484936827"
+  },
+  {
+    "city": "Isla Mujeres",
+    "city_ascii": "Isla Mujeres",
+    "admin_name": "Quintana Roo",
+    "lat": "21.2333",
+    "lng": "-86.7333",
+    "id": "1484856745"
+  },
+  {
+    "city": "Xalpatlahuac",
+    "city_ascii": "Xalpatlahuac",
+    "admin_name": "Guerrero",
+    "lat": "17.3333",
+    "lng": "-98.6500",
+    "id": "1484565396"
+  },
+  {
+    "city": "El Fuerte",
+    "city_ascii": "El Fuerte",
+    "admin_name": "Sinaloa",
+    "lat": "26.4214",
+    "lng": "-108.6200",
+    "id": "1484950387"
+  },
+  {
+    "city": "Progreso",
+    "city_ascii": "Progreso",
+    "admin_name": "Baja California",
+    "lat": "32.5842",
+    "lng": "-115.5842",
+    "id": "1484104363"
+  },
+  {
+    "city": "Bacalar",
+    "city_ascii": "Bacalar",
+    "admin_name": "Quintana Roo",
+    "lat": "18.6769",
+    "lng": "-88.3953",
+    "id": "1484206678"
+  },
+  {
+    "city": "Villa Sola de Vega",
+    "city_ascii": "Villa Sola de Vega",
+    "admin_name": "Oaxaca",
+    "lat": "16.5125",
+    "lng": "-96.9806",
+    "id": "1484921061"
+  },
+  {
+    "city": "Eloxochitlán",
+    "city_ascii": "Eloxochitlan",
+    "admin_name": "Puebla",
+    "lat": "18.5088",
+    "lng": "-96.9227",
+    "id": "1484796183"
+  },
+  {
+    "city": "Santa Ana Maya",
+    "city_ascii": "Santa Ana Maya",
+    "admin_name": "Michoacán",
+    "lat": "20.0000",
+    "lng": "-101.0167",
+    "id": "1484004080"
+  },
+  {
+    "city": "San Pedro Jicayán",
+    "city_ascii": "San Pedro Jicayan",
+    "admin_name": "Oaxaca",
+    "lat": "16.4167",
+    "lng": "-97.9833",
+    "id": "1484151830"
+  },
+  {
+    "city": "Santa Ana",
+    "city_ascii": "Santa Ana",
+    "admin_name": "Sonora",
+    "lat": "30.5406",
+    "lng": "-111.1205",
+    "id": "1484002576"
+  },
+  {
+    "city": "San Miguel Xoxtla",
+    "city_ascii": "San Miguel Xoxtla",
+    "admin_name": "Puebla",
+    "lat": "19.1833",
+    "lng": "-98.3000",
+    "id": "1484989109"
+  },
+  {
+    "city": "Mecatlán",
+    "city_ascii": "Mecatlan",
+    "admin_name": "Veracruz",
+    "lat": "20.2167",
+    "lng": "-97.0167",
+    "id": "1484471160"
+  },
+  {
+    "city": "Emiliano Zapata",
+    "city_ascii": "Emiliano Zapata",
+    "admin_name": "Hidalgo",
+    "lat": "19.6500",
+    "lng": "-98.5500",
+    "id": "1484053015"
+  },
+  {
+    "city": "Pantepec",
+    "city_ascii": "Pantepec",
+    "admin_name": "Chiapas",
+    "lat": "17.1833",
+    "lng": "-93.0500",
+    "id": "1484062153"
+  },
+  {
+    "city": "Tzintzuntzán",
+    "city_ascii": "Tzintzuntzan",
+    "admin_name": "Michoacán",
+    "lat": "19.6283",
+    "lng": "-101.5789",
+    "id": "1484799786"
+  },
+  {
+    "city": "Juchipila",
+    "city_ascii": "Juchipila",
+    "admin_name": "Zacatecas",
+    "lat": "21.4103",
+    "lng": "-103.1175",
+    "id": "1484952476"
+  },
+  {
+    "city": "Cuichapa",
+    "city_ascii": "Cuichapa",
+    "admin_name": "Veracruz",
+    "lat": "18.7600",
+    "lng": "-96.8167",
+    "id": "1484015677"
+  },
+  {
+    "city": "Tempoal de Sánchez",
+    "city_ascii": "Tempoal de Sanchez",
+    "admin_name": "Veracruz",
+    "lat": "21.5167",
+    "lng": "-98.3833",
+    "id": "1484011037"
+  },
+  {
+    "city": "La Magdalena Chichicaspa",
+    "city_ascii": "La Magdalena Chichicaspa",
+    "admin_name": "México",
+    "lat": "19.4181",
+    "lng": "-99.3228",
+    "id": "1484790302"
+  },
+  {
+    "city": "Huixcolotla",
+    "city_ascii": "Huixcolotla",
+    "admin_name": "Puebla",
+    "lat": "18.9147",
+    "lng": "-97.7736",
+    "id": "1484332923"
+  },
+  {
+    "city": "Cocotitlán",
+    "city_ascii": "Cocotitlan",
+    "admin_name": "México",
+    "lat": "19.2167",
+    "lng": "-98.8500",
+    "id": "1484387908"
+  },
+  {
+    "city": "Citlaltépec",
+    "city_ascii": "Citlaltepec",
+    "admin_name": "Veracruz",
+    "lat": "21.3297",
+    "lng": "-97.8789",
+    "id": "1484014771"
+  },
+  {
+    "city": "Yecuatla",
+    "city_ascii": "Yecuatla",
+    "admin_name": "Veracruz",
+    "lat": "19.8667",
+    "lng": "-96.7833",
+    "id": "1484655912"
+  },
+  {
+    "city": "San Bartolo Yautepec",
+    "city_ascii": "San Bartolo Yautepec",
+    "admin_name": "Oaxaca",
+    "lat": "16.4200",
+    "lng": "-95.9100",
+    "id": "1484940134"
+  },
+  {
+    "city": "Abasolo",
+    "city_ascii": "Abasolo",
+    "admin_name": "Tamaulipas",
+    "lat": "24.0559",
+    "lng": "-98.3733",
+    "id": "1484491384"
+  },
+  {
+    "city": "Jacala",
+    "city_ascii": "Jacala",
+    "admin_name": "Hidalgo",
+    "lat": "21.0053",
+    "lng": "-99.1719",
+    "id": "1484527650"
+  },
+  {
+    "city": "San Marcos",
+    "city_ascii": "San Marcos",
+    "admin_name": "Guerrero",
+    "lat": "16.7958",
+    "lng": "-99.3833",
+    "id": "1484255918"
+  },
+  {
+    "city": "El Parral",
+    "city_ascii": "El Parral",
+    "admin_name": "Chiapas",
+    "lat": "16.3662",
+    "lng": "-93.0067",
+    "id": "1484888163"
+  },
+  {
+    "city": "Pánuco de Coronado",
+    "city_ascii": "Panuco de Coronado",
+    "admin_name": "Durango",
+    "lat": "24.5392",
+    "lng": "-104.3253",
+    "id": "1484921271"
+  },
+  {
+    "city": "Ojuelos de Jalisco",
+    "city_ascii": "Ojuelos de Jalisco",
+    "admin_name": "Jalisco",
+    "lat": "21.8667",
+    "lng": "-101.5833",
+    "id": "1484896796"
+  },
+  {
+    "city": "Jaltenango",
+    "city_ascii": "Jaltenango",
+    "admin_name": "Chiapas",
+    "lat": "15.8725",
+    "lng": "-92.7250",
+    "id": "1484260963"
+  },
+  {
+    "city": "San Fernando",
+    "city_ascii": "San Fernando",
+    "admin_name": "Chiapas",
+    "lat": "16.8717",
+    "lng": "-93.2063",
+    "id": "1484329029"
+  },
+  {
+    "city": "San Juan del Rio del Centauro del Norte",
+    "city_ascii": "San Juan del Rio del Centauro del Norte",
+    "admin_name": "Durango",
+    "lat": "24.7667",
+    "lng": "-104.4667",
+    "id": "1484372713"
+  },
+  {
+    "city": "Chiautla de Tapia",
+    "city_ascii": "Chiautla de Tapia",
+    "admin_name": "Puebla",
+    "lat": "18.3015",
+    "lng": "-98.6034",
+    "id": "1484573116"
+  },
+  {
+    "city": "José María Morelos",
+    "city_ascii": "Jose Maria Morelos",
+    "admin_name": "Quintana Roo",
+    "lat": "19.7500",
+    "lng": "-88.7000",
+    "id": "1484872600"
+  },
+  {
+    "city": "Tolcayuca",
+    "city_ascii": "Tolcayuca",
+    "admin_name": "Hidalgo",
+    "lat": "19.9500",
+    "lng": "-98.9167",
+    "id": "1484403443"
+  },
+  {
+    "city": "San Nicolás de los Ranchos",
+    "city_ascii": "San Nicolas de los Ranchos",
+    "admin_name": "Puebla",
+    "lat": "19.0667",
+    "lng": "-98.4833",
+    "id": "1484875886"
+  },
+  {
+    "city": "Ángel R. Cabada",
+    "city_ascii": "Angel R. Cabada",
+    "admin_name": "Veracruz",
+    "lat": "18.5969",
+    "lng": "-95.4453",
+    "id": "1484667573"
+  },
+  {
+    "city": "San Pedro Ixcatlán",
+    "city_ascii": "San Pedro Ixcatlan",
+    "admin_name": "Oaxaca",
+    "lat": "18.1500",
+    "lng": "-96.5000",
+    "id": "1484497758"
+  },
+  {
+    "city": "Mixtla de Altamirano",
+    "city_ascii": "Mixtla de Altamirano",
+    "admin_name": "Veracruz",
+    "lat": "18.6000",
+    "lng": "-97.0000",
+    "id": "1484655126"
+  },
+  {
+    "city": "Tlachichilco",
+    "city_ascii": "Tlachichilco",
+    "admin_name": "Veracruz",
+    "lat": "20.6217",
+    "lng": "-98.1994",
+    "id": "1484876244"
+  },
+  {
+    "city": "Tepetzintla",
+    "city_ascii": "Tepetzintla",
+    "admin_name": "Puebla",
+    "lat": "19.9667",
+    "lng": "-97.8333",
+    "id": "1484778629"
+  },
+  {
+    "city": "Jiquipilas",
+    "city_ascii": "Jiquipilas",
+    "admin_name": "Chiapas",
+    "lat": "16.6683",
+    "lng": "-93.6444",
+    "id": "1484691049"
+  },
+  {
+    "city": "Huandacareo",
+    "city_ascii": "Huandacareo",
+    "admin_name": "Michoacán",
+    "lat": "19.9906",
+    "lng": "-101.2750",
+    "id": "1484155611"
+  },
+  {
+    "city": "Espita",
+    "city_ascii": "Espita",
+    "admin_name": "Yucatán",
+    "lat": "21.0128",
+    "lng": "-88.3047",
+    "id": "1484433962"
+  },
+  {
+    "city": "Epazoyucan",
+    "city_ascii": "Epazoyucan",
+    "admin_name": "Hidalgo",
+    "lat": "20.0177",
+    "lng": "-98.6361",
+    "id": "1484543443"
+  },
+  {
+    "city": "Olintla",
+    "city_ascii": "Olintla",
+    "admin_name": "Puebla",
+    "lat": "20.1000",
+    "lng": "-97.6833",
+    "id": "1484975870"
+  },
+  {
+    "city": "Santa Isabel Cholula",
+    "city_ascii": "Santa Isabel Cholula",
+    "admin_name": "Puebla",
+    "lat": "19.0000",
+    "lng": "-98.3667",
+    "id": "1484043974"
+  },
+  {
+    "city": "Muna",
+    "city_ascii": "Muna",
+    "admin_name": "Yucatán",
+    "lat": "20.4800",
+    "lng": "-89.7200",
+    "id": "1484692677"
+  },
+  {
+    "city": "Sonoita",
+    "city_ascii": "Sonoita",
+    "admin_name": "Sonora",
+    "lat": "31.8614",
+    "lng": "-112.8544",
+    "id": "1484032951"
+  },
+  {
+    "city": "Ajijic",
+    "city_ascii": "Ajijic",
+    "admin_name": "Jalisco",
+    "lat": "20.3000",
+    "lng": "-103.2833",
+    "id": "1484699000"
+  },
+  {
+    "city": "Tlacolulan",
+    "city_ascii": "Tlacolulan",
+    "admin_name": "Veracruz",
+    "lat": "19.6667",
+    "lng": "-97.0000",
+    "id": "1484260116"
+  },
+  {
+    "city": "Pihuamo",
+    "city_ascii": "Pihuamo",
+    "admin_name": "Jalisco",
+    "lat": "18.9500",
+    "lng": "-103.1670",
+    "id": "1484848423"
+  },
+  {
+    "city": "Villa Purificación",
+    "city_ascii": "Villa Purificacion",
+    "admin_name": "Jalisco",
+    "lat": "19.5667",
+    "lng": "-104.3833",
+    "id": "1484448303"
+  },
+  {
+    "city": "Amatenango del Valle",
+    "city_ascii": "Amatenango del Valle",
+    "admin_name": "Chiapas",
+    "lat": "16.5167",
+    "lng": "-92.4000",
+    "id": "1484632903"
+  },
+  {
+    "city": "San Pablo Atlazalpan",
+    "city_ascii": "San Pablo Atlazalpan",
+    "admin_name": "México",
+    "lat": "19.2172",
+    "lng": "-98.9090",
+    "id": "1484948651"
+  },
+  {
+    "city": "Anenecuilco",
+    "city_ascii": "Anenecuilco",
+    "admin_name": "Morelos",
+    "lat": "18.7781",
+    "lng": "-98.9850",
+    "id": "1484003918"
+  },
+  {
+    "city": "Tolimán",
+    "city_ascii": "Toliman",
+    "admin_name": "Jalisco",
+    "lat": "19.5333",
+    "lng": "-103.9000",
+    "id": "1484385923"
+  },
+  {
+    "city": "González",
+    "city_ascii": "Gonzalez",
+    "admin_name": "Tamaulipas",
+    "lat": "22.8281",
+    "lng": "-98.4306",
+    "id": "1484835501"
+  },
+  {
+    "city": "Temamatla",
+    "city_ascii": "Temamatla",
+    "admin_name": "México",
+    "lat": "19.2028",
+    "lng": "-98.8700",
+    "id": "1484069603"
+  },
+  {
+    "city": "Zaragoza",
+    "city_ascii": "Zaragoza",
+    "admin_name": "Coahuila",
+    "lat": "28.4869",
+    "lng": "-100.9175",
+    "id": "1484517254"
+  },
+  {
+    "city": "Jamapa",
+    "city_ascii": "Jamapa",
+    "admin_name": "Veracruz",
+    "lat": "19.0411",
+    "lng": "-96.2411",
+    "id": "1484467927"
+  },
+  {
+    "city": "Candelaria",
+    "city_ascii": "Candelaria",
+    "admin_name": "Campeche",
+    "lat": "18.1835",
+    "lng": "-91.0463",
+    "id": "1484925669"
+  },
+  {
+    "city": "San Luis de La Loma",
+    "city_ascii": "San Luis de La Loma",
+    "admin_name": "Guerrero",
+    "lat": "17.2714",
+    "lng": "-100.8911",
+    "id": "1484748421"
+  },
+  {
+    "city": "La Trinitaria",
+    "city_ascii": "La Trinitaria",
+    "admin_name": "Chiapas",
+    "lat": "16.1203",
+    "lng": "-92.0408",
+    "id": "1484842922"
+  },
+  {
+    "city": "Joquicingo",
+    "city_ascii": "Joquicingo",
+    "admin_name": "México",
+    "lat": "19.0556",
+    "lng": "-99.5467",
+    "id": "1484561507"
+  },
+  {
+    "city": "Tezoatlán de Segura y Luna",
+    "city_ascii": "Tezoatlan de Segura y Luna",
+    "admin_name": "Oaxaca",
+    "lat": "17.6500",
+    "lng": "-97.8167",
+    "id": "1484633645"
+  },
+  {
+    "city": "Saucillo",
+    "city_ascii": "Saucillo",
+    "admin_name": "Chihuahua",
+    "lat": "28.0333",
+    "lng": "-105.2833",
+    "id": "1484590798"
+  },
+  {
+    "city": "Tixkokob",
+    "city_ascii": "Tixkokob",
+    "admin_name": "Yucatán",
+    "lat": "21.0022",
+    "lng": "-89.3936",
+    "id": "1484306905"
+  },
+  {
+    "city": "Acanceh",
+    "city_ascii": "Acanceh",
+    "admin_name": "Yucatán",
+    "lat": "20.8133",
+    "lng": "-89.4524",
+    "id": "1484170180"
+  },
+  {
+    "city": "Álamos",
+    "city_ascii": "Alamos",
+    "admin_name": "Sonora",
+    "lat": "27.0275",
+    "lng": "-108.9400",
+    "id": "1484052656"
+  },
+  {
+    "city": "Nacajuca",
+    "city_ascii": "Nacajuca",
+    "admin_name": "Tabasco",
+    "lat": "18.1692",
+    "lng": "-93.0197",
+    "id": "1484698021"
+  },
+  {
+    "city": "Texcatepec",
+    "city_ascii": "Texcatepec",
+    "admin_name": "Veracruz",
+    "lat": "20.5833",
+    "lng": "-98.3667",
+    "id": "1484575888"
+  },
+  {
+    "city": "Mineral de Angangueo",
+    "city_ascii": "Mineral de Angangueo",
+    "admin_name": "Michoacán",
+    "lat": "19.6167",
+    "lng": "-100.2833",
+    "id": "1484121857"
+  },
+  {
+    "city": "Soyaló",
+    "city_ascii": "Soyalo",
+    "admin_name": "Chiapas",
+    "lat": "16.9333",
+    "lng": "-92.9833",
+    "id": "1484806087"
+  },
+  {
+    "city": "Villa Corzo",
+    "city_ascii": "Villa Corzo",
+    "admin_name": "Chiapas",
+    "lat": "16.1848",
+    "lng": "-93.2677",
+    "id": "1484270020"
+  },
+  {
+    "city": "Totolapan",
+    "city_ascii": "Totolapan",
+    "admin_name": "Morelos",
+    "lat": "18.9869",
+    "lng": "-98.9197",
+    "id": "1484963370"
+  },
+  {
+    "city": "Emiliano Zapata",
+    "city_ascii": "Emiliano Zapata",
+    "admin_name": "Chiapas",
+    "lat": "16.5392",
+    "lng": "-92.8967",
+    "id": "1484357716"
+  },
+  {
+    "city": "Villa Unión",
+    "city_ascii": "Villa Union",
+    "admin_name": "Durango",
+    "lat": "23.9667",
+    "lng": "-104.0333",
+    "id": "1484796365"
+  },
+  {
+    "city": "Tezontepec de Aldama",
+    "city_ascii": "Tezontepec de Aldama",
+    "admin_name": "Hidalgo",
+    "lat": "19.8833",
+    "lng": "-98.8167",
+    "id": "1484742902"
+  },
+  {
+    "city": "Santa Bárbara",
+    "city_ascii": "Santa Barbara",
+    "admin_name": "Chihuahua",
+    "lat": "26.8133",
+    "lng": "-105.8203",
+    "id": "1484698134"
+  },
+  {
+    "city": "Zaragoza",
+    "city_ascii": "Zaragoza",
+    "admin_name": "Veracruz",
+    "lat": "17.9531",
+    "lng": "-94.6414",
+    "id": "1484089470"
+  },
+  {
+    "city": "Santa Catarina Ayotzingo",
+    "city_ascii": "Santa Catarina Ayotzingo",
+    "admin_name": "México",
+    "lat": "19.2647",
+    "lng": "-98.8975",
+    "id": "1484300687"
+  },
+  {
+    "city": "Almoloya",
+    "city_ascii": "Almoloya",
+    "admin_name": "Hidalgo",
+    "lat": "19.7000",
+    "lng": "-98.4000",
+    "id": "1484494575"
+  },
+  {
+    "city": "Altamirano",
+    "city_ascii": "Altamirano",
+    "admin_name": "Chiapas",
+    "lat": "16.7361",
+    "lng": "-92.0389",
+    "id": "1484175446"
+  },
+  {
+    "city": "San Ignacio Cohuirimpo",
+    "city_ascii": "San Ignacio Cohuirimpo",
+    "admin_name": "Sonora",
+    "lat": "27.0500",
+    "lng": "-109.4167",
+    "id": "1484235510"
+  },
+  {
+    "city": "Tenango del Aire",
+    "city_ascii": "Tenango del Aire",
+    "admin_name": "México",
+    "lat": "19.1575",
+    "lng": "-98.8581",
+    "id": "1484285163"
+  },
+  {
+    "city": "San Juanito",
+    "city_ascii": "San Juanito",
+    "admin_name": "Chihuahua",
+    "lat": "27.9700",
+    "lng": "-107.6003",
+    "id": "1484053518"
+  },
+  {
+    "city": "Tierra Colorada",
+    "city_ascii": "Tierra Colorada",
+    "admin_name": "Guerrero",
+    "lat": "17.1656",
+    "lng": "-99.5264",
+    "id": "1484516715"
+  },
+  {
+    "city": "Candelaria Loxicha",
+    "city_ascii": "Candelaria Loxicha",
+    "admin_name": "Oaxaca",
+    "lat": "15.9167",
+    "lng": "-96.4833",
+    "id": "1484628588"
+  },
+  {
+    "city": "Coacoatzintla",
+    "city_ascii": "Coacoatzintla",
+    "admin_name": "Veracruz",
+    "lat": "19.6500",
+    "lng": "-96.9333",
+    "id": "1484309288"
+  },
+  {
+    "city": "Las Veredas",
+    "city_ascii": "Las Veredas",
+    "admin_name": "Baja California Sur",
+    "lat": "23.1503",
+    "lng": "-109.7061",
+    "id": "1484096349"
+  },
+  {
+    "city": "Santiago Tangamandapio",
+    "city_ascii": "Santiago Tangamandapio",
+    "admin_name": "Michoacán",
+    "lat": "19.9500",
+    "lng": "-102.4333",
+    "id": "1484550468"
+  },
+  {
+    "city": "Teotlaltzingo",
+    "city_ascii": "Teotlaltzingo",
+    "admin_name": "Puebla",
+    "lat": "19.2333",
+    "lng": "-98.4833",
+    "id": "1484592594"
+  },
+  {
+    "city": "Santiago Suchilquitongo",
+    "city_ascii": "Santiago Suchilquitongo",
+    "admin_name": "Oaxaca",
+    "lat": "17.2500",
+    "lng": "-96.8833",
+    "id": "1484773312"
+  },
+  {
+    "city": "Cuatro Ciénegas de Carranza",
+    "city_ascii": "Cuatro Cienegas de Carranza",
+    "admin_name": "Coahuila",
+    "lat": "26.9861",
+    "lng": "-102.0664",
+    "id": "1484012996"
+  },
+  {
+    "city": "Molango",
+    "city_ascii": "Molango",
+    "admin_name": "Hidalgo",
+    "lat": "20.7844",
+    "lng": "-98.7175",
+    "id": "1484340479"
+  },
+  {
+    "city": "Coroneo",
+    "city_ascii": "Coroneo",
+    "admin_name": "Guanajuato",
+    "lat": "20.1333",
+    "lng": "-100.3333",
+    "id": "1484498281"
+  },
+  {
+    "city": "Canatlán",
+    "city_ascii": "Canatlan",
+    "admin_name": "Durango",
+    "lat": "24.5200",
+    "lng": "-104.7800",
+    "id": "1484221814"
+  },
+  {
+    "city": "Teocuitatlán de Corona",
+    "city_ascii": "Teocuitatlan de Corona",
+    "admin_name": "Jalisco",
+    "lat": "20.0167",
+    "lng": "-103.1833",
+    "id": "1484087600"
+  },
+  {
+    "city": "Agua Blanca Iturbide",
+    "city_ascii": "Agua Blanca Iturbide",
+    "admin_name": "Hidalgo",
+    "lat": "20.3500",
+    "lng": "-98.3500",
+    "id": "1484459690"
+  },
+  {
+    "city": "Hecelchakán",
+    "city_ascii": "Hecelchakan",
+    "admin_name": "Campeche",
+    "lat": "20.1667",
+    "lng": "-90.1333",
+    "id": "1484700920"
+  },
+  {
+    "city": "Jaltocan",
+    "city_ascii": "Jaltocan",
+    "admin_name": "Hidalgo",
+    "lat": "21.1333",
+    "lng": "-98.5383",
+    "id": "1484352270"
+  },
+  {
+    "city": "Chavinda",
+    "city_ascii": "Chavinda",
+    "admin_name": "Michoacán",
+    "lat": "20.0167",
+    "lng": "-102.4500",
+    "id": "1484159886"
+  },
+  {
+    "city": "Minatitlán",
+    "city_ascii": "Minatitlan",
+    "admin_name": "Colima",
+    "lat": "19.3833",
+    "lng": "-104.0500",
+    "id": "1484015579"
+  },
+  {
+    "city": "Tlalixtac de Cabrera",
+    "city_ascii": "Tlalixtac de Cabrera",
+    "admin_name": "Oaxaca",
+    "lat": "17.0667",
+    "lng": "-96.6500",
+    "id": "1484878072"
+  },
+  {
+    "city": "Tetela del Volcán",
+    "city_ascii": "Tetela del Volcan",
+    "admin_name": "Morelos",
+    "lat": "18.9633",
+    "lng": "-99.2533",
+    "id": "1484343325"
+  },
+  {
+    "city": "San Blas",
+    "city_ascii": "San Blas",
+    "admin_name": "Nayarit",
+    "lat": "21.5397",
+    "lng": "-105.2856",
+    "id": "1484142814"
+  },
+  {
+    "city": "Akil",
+    "city_ascii": "Akil",
+    "admin_name": "Yucatán",
+    "lat": "20.2656",
+    "lng": "-89.3478",
+    "id": "1484515773"
+  },
+  {
+    "city": "Mexicaltzingo",
+    "city_ascii": "Mexicaltzingo",
+    "admin_name": "México",
+    "lat": "19.2092",
+    "lng": "-99.5858",
+    "id": "1484468778"
+  },
+  {
+    "city": "Cuapiaxtla de Madero",
+    "city_ascii": "Cuapiaxtla de Madero",
+    "admin_name": "Puebla",
+    "lat": "18.9167",
+    "lng": "-97.8167",
+    "id": "1484036948"
+  },
+  {
+    "city": "La Misión",
+    "city_ascii": "La Mision",
+    "admin_name": "Hidalgo",
+    "lat": "21.1000",
+    "lng": "-99.1333",
+    "id": "1484006779"
+  },
+  {
+    "city": "Chichihualco",
+    "city_ascii": "Chichihualco",
+    "admin_name": "Guerrero",
+    "lat": "17.6550",
+    "lng": "-99.6740",
+    "id": "1484534707"
+  },
+  {
+    "city": "Ciudad Tula",
+    "city_ascii": "Ciudad Tula",
+    "admin_name": "Tamaulipas",
+    "lat": "23.0000",
+    "lng": "-99.7200",
+    "id": "1484516323"
+  },
+  {
+    "city": "Iliatenco",
+    "city_ascii": "Iliatenco",
+    "admin_name": "Guerrero",
+    "lat": "18.2167",
+    "lng": "-99.4833",
+    "id": "1484975821"
+  },
+  {
+    "city": "Parilla",
+    "city_ascii": "Parilla",
+    "admin_name": "Tabasco",
+    "lat": "17.9119",
+    "lng": "-92.9175",
+    "id": "1484710529"
+  },
+  {
+    "city": "Benemérito",
+    "city_ascii": "Benemerito",
+    "admin_name": "Chiapas",
+    "lat": "16.5172",
+    "lng": "-90.6531",
+    "id": "1484889494"
+  },
+  {
+    "city": "Huejuquilla el Alto",
+    "city_ascii": "Huejuquilla el Alto",
+    "admin_name": "Jalisco",
+    "lat": "22.6256",
+    "lng": "-103.8964",
+    "id": "1484316706"
+  },
+  {
+    "city": "Pajacuarán",
+    "city_ascii": "Pajacuaran",
+    "admin_name": "Michoacán",
+    "lat": "20.1178",
+    "lng": "-102.5667",
+    "id": "1484044014"
+  },
+  {
+    "city": "San Pedro Huamelula",
+    "city_ascii": "San Pedro Huamelula",
+    "admin_name": "Oaxaca",
+    "lat": "16.0167",
+    "lng": "-95.6667",
+    "id": "1484802560"
+  },
+  {
+    "city": "Platón Sánchez",
+    "city_ascii": "Platon Sanchez",
+    "admin_name": "Veracruz",
+    "lat": "21.2833",
+    "lng": "-98.3667",
+    "id": "1484193492"
+  },
+  {
+    "city": "China",
+    "city_ascii": "China",
+    "admin_name": "Nuevo León",
+    "lat": "25.7033",
+    "lng": "-99.2365",
+    "id": "1484761202"
+  },
+  {
+    "city": "San Nicolas Buenos Aires",
+    "city_ascii": "San Nicolas Buenos Aires",
+    "admin_name": "Puebla",
+    "lat": "19.1667",
+    "lng": "-97.5500",
+    "id": "1484819352"
+  },
+  {
+    "city": "Tzucacab",
+    "city_ascii": "Tzucacab",
+    "admin_name": "Yucatán",
+    "lat": "20.0708",
+    "lng": "-89.0506",
+    "id": "1484877569"
+  },
+  {
+    "city": "Anáhuac",
+    "city_ascii": "Anahuac",
+    "admin_name": "Chihuahua",
+    "lat": "28.4800",
+    "lng": "-106.7442",
+    "id": "1484106283"
+  },
+  {
+    "city": "Boca del Rio",
+    "city_ascii": "Boca del Rio",
+    "admin_name": "Veracruz",
+    "lat": "19.1056",
+    "lng": "-96.1078",
+    "id": "1484658980"
+  },
+  {
+    "city": "Cuicatlan",
+    "city_ascii": "Cuicatlan",
+    "admin_name": "Oaxaca",
+    "lat": "17.8000",
+    "lng": "-96.9500",
+    "id": "1484474019"
+  },
+  {
+    "city": "Coycoyan de las Flores",
+    "city_ascii": "Coycoyan de las Flores",
+    "admin_name": "Guerrero",
+    "lat": "17.2667",
+    "lng": "-98.2667",
+    "id": "1484976767"
+  },
+  {
+    "city": "San Carlos Yautepec",
+    "city_ascii": "San Carlos Yautepec",
+    "admin_name": "Oaxaca",
+    "lat": "16.5000",
+    "lng": "-96.1000",
+    "id": "1484274293"
+  },
+  {
+    "city": "Cuencamé de Ceniceros",
+    "city_ascii": "Cuencame de Ceniceros",
+    "admin_name": "Durango",
+    "lat": "24.8667",
+    "lng": "-103.7000",
+    "id": "1484919654"
+  },
+  {
+    "city": "Tekit",
+    "city_ascii": "Tekit",
+    "admin_name": "Yucatán",
+    "lat": "20.5322",
+    "lng": "-89.3314",
+    "id": "1484351882"
+  },
+  {
+    "city": "Etchojoa",
+    "city_ascii": "Etchojoa",
+    "admin_name": "Sonora",
+    "lat": "26.8667",
+    "lng": "-109.6500",
+    "id": "1484867357"
+  },
+  {
+    "city": "Ciudad Cuauhtémoc",
+    "city_ascii": "Ciudad Cuauhtemoc",
+    "admin_name": "Veracruz",
+    "lat": "21.2833",
+    "lng": "-98.3667",
+    "id": "1484666501"
+  },
+  {
+    "city": "Santo Tomás de los Plátanos",
+    "city_ascii": "Santo Tomas de los Platanos",
+    "admin_name": "México",
+    "lat": "19.1817",
+    "lng": "-100.2589",
+    "id": "1484531949"
+  },
+  {
+    "city": "Pueblo Viejo",
+    "city_ascii": "Pueblo Viejo",
+    "admin_name": "México",
+    "lat": "19.1790",
+    "lng": "-100.2984",
+    "id": "1484057384"
+  },
+  {
+    "city": "San Gregorio Atzompa",
+    "city_ascii": "San Gregorio Atzompa",
+    "admin_name": "Puebla",
+    "lat": "19.0224",
+    "lng": "-98.3445",
+    "id": "1484057992"
+  },
+  {
+    "city": "Tepetlán",
+    "city_ascii": "Tepetlan",
+    "admin_name": "Veracruz",
+    "lat": "19.6667",
+    "lng": "-96.8000",
+    "id": "1484555085"
+  },
+  {
+    "city": "Comala",
+    "city_ascii": "Comala",
+    "admin_name": "Colima",
+    "lat": "19.3208",
+    "lng": "-103.7603",
+    "id": "1484287042"
+  },
+  {
+    "city": "Tila",
+    "city_ascii": "Tila",
+    "admin_name": "Chiapas",
+    "lat": "17.3000",
+    "lng": "-92.4333",
+    "id": "1484810186"
+  },
+  {
+    "city": "Xicoténcatl",
+    "city_ascii": "Xicotencatl",
+    "admin_name": "Tamaulipas",
+    "lat": "22.9958",
+    "lng": "-98.9447",
+    "id": "1484154416"
+  },
+  {
+    "city": "Villa Aldama",
+    "city_ascii": "Villa Aldama",
+    "admin_name": "Veracruz",
+    "lat": "19.6500",
+    "lng": "-97.2333",
+    "id": "1484465521"
+  },
+  {
+    "city": "Cuervos",
+    "city_ascii": "Cuervos",
+    "admin_name": "Baja California",
+    "lat": "32.6308",
+    "lng": "-114.8569",
+    "id": "1484208189"
+  },
+  {
+    "city": "Lototla",
+    "city_ascii": "Lototla",
+    "admin_name": "Hidalgo",
+    "lat": "20.8392",
+    "lng": "-98.7178",
+    "id": "1484853725"
+  },
+  {
+    "city": "Chanal",
+    "city_ascii": "Chanal",
+    "admin_name": "Chiapas",
+    "lat": "16.6489",
+    "lng": "-92.2214",
+    "id": "1484260225"
+  },
+  {
+    "city": "Tlahualilo de Zaragoza",
+    "city_ascii": "Tlahualilo de Zaragoza",
+    "admin_name": "Durango",
+    "lat": "26.1083",
+    "lng": "-103.4431",
+    "id": "1484368402"
+  },
+  {
+    "city": "Seybaplaya",
+    "city_ascii": "Seybaplaya",
+    "admin_name": "Campeche",
+    "lat": "19.6394",
+    "lng": "-90.6883",
+    "id": "1484152587"
+  },
+  {
+    "city": "Santa María Jacatepec",
+    "city_ascii": "Santa Maria Jacatepec",
+    "admin_name": "Oaxaca",
+    "lat": "17.8500",
+    "lng": "-96.2000",
+    "id": "1484347290"
+  },
+  {
+    "city": "San Juanito de Escobedo",
+    "city_ascii": "San Juanito de Escobedo",
+    "admin_name": "Jalisco",
+    "lat": "20.8000",
+    "lng": "-104.0000",
+    "id": "1484130165"
+  },
+  {
+    "city": "Halachó",
+    "city_ascii": "Halacho",
+    "admin_name": "Yucatán",
+    "lat": "20.4764",
+    "lng": "-90.0819",
+    "id": "1484161200"
+  },
+  {
+    "city": "Zacualpan de Amilpas",
+    "city_ascii": "Zacualpan de Amilpas",
+    "admin_name": "Morelos",
+    "lat": "18.7836",
+    "lng": "-98.7594",
+    "id": "1484800291"
+  },
+  {
+    "city": "Ecatzingo",
+    "city_ascii": "Ecatzingo",
+    "admin_name": "México",
+    "lat": "18.9500",
+    "lng": "-98.7500",
+    "id": "1484003696"
+  },
+  {
+    "city": "San Agustín de las Juntas",
+    "city_ascii": "San Agustin de las Juntas",
+    "admin_name": "Oaxaca",
+    "lat": "17.0000",
+    "lng": "-96.7167",
+    "id": "1484607979"
+  },
+  {
+    "city": "Doctor Arroyo",
+    "city_ascii": "Doctor Arroyo",
+    "admin_name": "Nuevo León",
+    "lat": "23.6667",
+    "lng": "-100.1667",
+    "id": "1484096942"
+  },
+  {
+    "city": "San Pablo Huixtepec",
+    "city_ascii": "San Pablo Huixtepec",
+    "admin_name": "Oaxaca",
+    "lat": "16.8167",
+    "lng": "-96.7833",
+    "id": "1484156599"
+  },
+  {
+    "city": "Choix",
+    "city_ascii": "Choix",
+    "admin_name": "Sinaloa",
+    "lat": "26.7086",
+    "lng": "-108.3253",
+    "id": "1484806011"
+  },
+  {
+    "city": "Villa de Guadalupe",
+    "city_ascii": "Villa de Guadalupe",
+    "admin_name": "San Luis Potosí",
+    "lat": "23.3667",
+    "lng": "-100.7500",
+    "id": "1484900401"
+  },
+  {
+    "city": "Mascota",
+    "city_ascii": "Mascota",
+    "admin_name": "Jalisco",
+    "lat": "20.5235",
+    "lng": "-104.7886",
+    "id": "1484002814"
+  },
+  {
+    "city": "Tlahuiltepa",
+    "city_ascii": "Tlahuiltepa",
+    "admin_name": "Hidalgo",
+    "lat": "20.9233",
+    "lng": "-98.9497",
+    "id": "1484500392"
+  },
+  {
+    "city": "Otumba",
+    "city_ascii": "Otumba",
+    "admin_name": "México",
+    "lat": "19.6989",
+    "lng": "-98.7572",
+    "id": "1484001484"
+  },
+  {
+    "city": "Carácuaro",
+    "city_ascii": "Caracuaro",
+    "admin_name": "Michoacán",
+    "lat": "19.0167",
+    "lng": "-101.1261",
+    "id": "1484202131"
+  },
+  {
+    "city": "Santa María Ajoloapan",
+    "city_ascii": "Santa Maria Ajoloapan",
+    "admin_name": "México",
+    "lat": "19.9692",
+    "lng": "-99.0353",
+    "id": "1484494406"
+  },
+  {
+    "city": "Cuetzala del Progreso",
+    "city_ascii": "Cuetzala del Progreso",
+    "admin_name": "Guerrero",
+    "lat": "18.2833",
+    "lng": "-99.8333",
+    "id": "1484248755"
+  },
+  {
+    "city": "Zacapoaxtla",
+    "city_ascii": "Zacapoaxtla",
+    "admin_name": "Puebla",
+    "lat": "19.8833",
+    "lng": "-97.5833",
+    "id": "1484761233"
+  },
+  {
+    "city": "Tecoh",
+    "city_ascii": "Tecoh",
+    "admin_name": "Yucatán",
+    "lat": "20.7419",
+    "lng": "-89.4744",
+    "id": "1484904738"
+  },
+  {
+    "city": "Ciudad Insurgentes",
+    "city_ascii": "Ciudad Insurgentes",
+    "admin_name": "Baja California Sur",
+    "lat": "25.2617",
+    "lng": "-111.7744",
+    "id": "1484354076"
+  },
+  {
+    "city": "Amatlán de los Reyes",
+    "city_ascii": "Amatlan de los Reyes",
+    "admin_name": "Veracruz",
+    "lat": "18.8457",
+    "lng": "-96.9149",
+    "id": "1484683104"
+  },
+  {
+    "city": "Coatetelco",
+    "city_ascii": "Coatetelco",
+    "admin_name": "Morelos",
+    "lat": "18.7294",
+    "lng": "-99.3256",
+    "id": "1484016853"
+  },
+  {
+    "city": "San Pedro Atocpan",
+    "city_ascii": "San Pedro Atocpan",
+    "admin_name": "Ciudad de México",
+    "lat": "19.2006",
+    "lng": "-99.0492",
+    "id": "1484981405"
+  },
+  {
+    "city": "Ixtapa Zihuatanejo",
+    "city_ascii": "Ixtapa Zihuatanejo",
+    "admin_name": "Guerrero",
+    "lat": "17.6367",
+    "lng": "-101.5514",
+    "id": "1484980277"
+  },
+  {
+    "city": "Chilón",
+    "city_ascii": "Chilon",
+    "admin_name": "Chiapas",
+    "lat": "17.1167",
+    "lng": "-92.2833",
+    "id": "1484706149"
+  },
+  {
+    "city": "San Francisco Ixhuatan",
+    "city_ascii": "San Francisco Ixhuatan",
+    "admin_name": "Oaxaca",
+    "lat": "16.3500",
+    "lng": "-94.4833",
+    "id": "1484223318"
+  },
+  {
+    "city": "Higuera de Zaragoza",
+    "city_ascii": "Higuera de Zaragoza",
+    "admin_name": "Sinaloa",
+    "lat": "25.9500",
+    "lng": "-109.2833",
+    "id": "1484471294"
+  },
+  {
+    "city": "Tepechitlán",
+    "city_ascii": "Tepechitlan",
+    "admin_name": "Zacatecas",
+    "lat": "21.6667",
+    "lng": "-103.3333",
+    "id": "1484570912"
+  },
+  {
+    "city": "Lerma",
+    "city_ascii": "Lerma",
+    "admin_name": "Campeche",
+    "lat": "19.8000",
+    "lng": "-90.6000",
+    "id": "1484035396"
+  },
+  {
+    "city": "Tzitzio",
+    "city_ascii": "Tzitzio",
+    "admin_name": "Michoacán",
+    "lat": "19.5856",
+    "lng": "-100.9231",
+    "id": "1484231858"
+  },
+  {
+    "city": "San Francisco Chimalpa",
+    "city_ascii": "San Francisco Chimalpa",
+    "admin_name": "México",
+    "lat": "19.4419",
+    "lng": "-99.3419",
+    "id": "1484599969"
+  },
+  {
+    "city": "Almoloya del Río",
+    "city_ascii": "Almoloya del Rio",
+    "admin_name": "México",
+    "lat": "19.1586",
+    "lng": "-99.4886",
+    "id": "1484000708"
+  },
+  {
+    "city": "La Junta",
+    "city_ascii": "La Junta",
+    "admin_name": "Chihuahua",
+    "lat": "28.4778",
+    "lng": "-107.3317",
+    "id": "1484913185"
+  },
+  {
+    "city": "Tlahuitoltepec",
+    "city_ascii": "Tlahuitoltepec",
+    "admin_name": "Oaxaca",
+    "lat": "17.1000",
+    "lng": "-96.0667",
+    "id": "1484826435"
+  },
+  {
+    "city": "Santa María del Tule",
+    "city_ascii": "Santa Maria del Tule",
+    "admin_name": "Oaxaca",
+    "lat": "17.0465",
+    "lng": "-96.6363",
+    "id": "1484488353"
+  },
+  {
+    "city": "San José de Gracia",
+    "city_ascii": "San Jose de Gracia",
+    "admin_name": "Aguascalientes",
+    "lat": "22.1500",
+    "lng": "-102.4167",
+    "id": "1484004442"
+  },
+  {
+    "city": "Tepetitlan",
+    "city_ascii": "Tepetitlan",
+    "admin_name": "Hidalgo",
+    "lat": "20.1842",
+    "lng": "-99.3808",
+    "id": "1484277299"
+  },
+  {
+    "city": "Tataltepec de Valdés",
+    "city_ascii": "Tataltepec de Valdes",
+    "admin_name": "Oaxaca",
+    "lat": "16.3064",
+    "lng": "-97.5461",
+    "id": "1484294949"
+  },
+  {
+    "city": "Ayapango",
+    "city_ascii": "Ayapango",
+    "admin_name": "México",
+    "lat": "19.1264",
+    "lng": "-98.8028",
+    "id": "1484009067"
+  },
+  {
+    "city": "Santa María Xadani",
+    "city_ascii": "Santa Maria Xadani",
+    "admin_name": "Oaxaca",
+    "lat": "16.3667",
+    "lng": "-95.0167",
+    "id": "1484494009"
+  },
+  {
+    "city": "San Juan Ixcaquixtla",
+    "city_ascii": "San Juan Ixcaquixtla",
+    "admin_name": "Puebla",
+    "lat": "18.4500",
+    "lng": "-97.8167",
+    "id": "1484614314"
+  },
+  {
+    "city": "Hostotipaquillo",
+    "city_ascii": "Hostotipaquillo",
+    "admin_name": "Jalisco",
+    "lat": "21.2167",
+    "lng": "-103.8500",
+    "id": "1484387476"
+  },
+  {
+    "city": "Lázaro Cárdenas",
+    "city_ascii": "Lazaro Cardenas",
+    "admin_name": "Chihuahua",
+    "lat": "28.3897",
+    "lng": "-105.6236",
+    "id": "1484739082"
+  },
+  {
+    "city": "Monte Escobedo",
+    "city_ascii": "Monte Escobedo",
+    "admin_name": "Zacatecas",
+    "lat": "22.3000",
+    "lng": "-103.5667",
+    "id": "1484046726"
+  },
+  {
+    "city": "Teotitlán",
+    "city_ascii": "Teotitlan",
+    "admin_name": "Oaxaca",
+    "lat": "18.1333",
+    "lng": "-97.0833",
+    "id": "1484390294"
+  },
+  {
+    "city": "Pantelhó",
+    "city_ascii": "Pantelho",
+    "admin_name": "Chiapas",
+    "lat": "17.0000",
+    "lng": "-92.4833",
+    "id": "1484849992"
+  },
+  {
+    "city": "Rayón",
+    "city_ascii": "Rayon",
+    "admin_name": "México",
+    "lat": "19.1481",
+    "lng": "-99.5800",
+    "id": "1484649015"
+  },
+  {
+    "city": "Vícam Pueblo",
+    "city_ascii": "Vicam Pueblo",
+    "admin_name": "Sonora",
+    "lat": "27.6422",
+    "lng": "-110.2897",
+    "id": "1484237374"
+  },
+  {
+    "city": "El Espinal",
+    "city_ascii": "El Espinal",
+    "admin_name": "Oaxaca",
+    "lat": "16.4906",
+    "lng": "-95.0444",
+    "id": "1484603133"
+  },
+  {
+    "city": "Ahumada",
+    "city_ascii": "Ahumada",
+    "admin_name": "Chihuahua",
+    "lat": "30.6186",
+    "lng": "-106.5122",
+    "id": "1484004336"
+  },
+  {
+    "city": "Coahuitlán",
+    "city_ascii": "Coahuitlan",
+    "admin_name": "Veracruz",
+    "lat": "20.2667",
+    "lng": "-97.7167",
+    "id": "1484959001"
+  },
+  {
+    "city": "San Pedro Ixtlahuaca",
+    "city_ascii": "San Pedro Ixtlahuaca",
+    "admin_name": "Oaxaca",
+    "lat": "17.0500",
+    "lng": "-96.8167",
+    "id": "1484203625"
+  },
+  {
+    "city": "Ayotoxco de Guerrero",
+    "city_ascii": "Ayotoxco de Guerrero",
+    "admin_name": "Puebla",
+    "lat": "20.1000",
+    "lng": "-97.4000",
+    "id": "1484789379"
+  },
+  {
+    "city": "Bacobampo",
+    "city_ascii": "Bacobampo",
+    "admin_name": "Sonora",
+    "lat": "26.9889",
+    "lng": "-109.6500",
+    "id": "1484112118"
+  },
+  {
+    "city": "Hueyotlipan",
+    "city_ascii": "Hueyotlipan",
+    "admin_name": "Puebla",
+    "lat": "18.9000",
+    "lng": "-97.8500",
+    "id": "1484584311"
+  },
+  {
+    "city": "San Pablo Villa de Mitla",
+    "city_ascii": "San Pablo Villa de Mitla",
+    "admin_name": "Oaxaca",
+    "lat": "16.9170",
+    "lng": "-96.4000",
+    "id": "1484844758"
+  },
+  {
+    "city": "San Quintín",
+    "city_ascii": "San Quintin",
+    "admin_name": "Baja California",
+    "lat": "30.4837",
+    "lng": "-115.9500",
+    "id": "1484693426"
+  },
+  {
+    "city": "Esperanza",
+    "city_ascii": "Esperanza",
+    "admin_name": "Sonora",
+    "lat": "27.5800",
+    "lng": "-109.9298",
+    "id": "1484729183"
+  },
+  {
+    "city": "Nautla",
+    "city_ascii": "Nautla",
+    "admin_name": "Veracruz",
+    "lat": "20.2167",
+    "lng": "-96.7833",
+    "id": "1484174535"
+  },
+  {
+    "city": "Altata",
+    "city_ascii": "Altata",
+    "admin_name": "Sinaloa",
+    "lat": "24.6333",
+    "lng": "-107.9167",
+    "id": "1484699069"
+  },
+  {
+    "city": "Mazatán",
+    "city_ascii": "Mazatan",
+    "admin_name": "Sonora",
+    "lat": "29.0167",
+    "lng": "-110.1333",
+    "id": "1484350756"
+  },
+  {
+    "city": "Punta Prieta",
+    "city_ascii": "Punta Prieta",
+    "admin_name": "Baja California",
+    "lat": "28.9289",
+    "lng": "-114.1556",
+    "id": "1484583029"
+  },
+  {
+    "city": "Las Delicias",
+    "city_ascii": "Las Delicias",
+    "admin_name": "Chihuahua",
+    "lat": "28.2000",
+    "lng": "-105.5000",
+    "id": "1484513329"
+  }
+]

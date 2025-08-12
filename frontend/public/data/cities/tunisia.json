@@ -1,0 +1,1178 @@
+[
+  {
+    "city": "Tunis",
+    "city_ascii": "Tunis",
+    "admin_name": "Tunis",
+    "lat": "36.8064",
+    "lng": "10.1817",
+    "id": "1788742103"
+  },
+  {
+    "city": "Sfax",
+    "city_ascii": "Sfax",
+    "admin_name": "Sfax",
+    "lat": "34.7400",
+    "lng": "10.7600",
+    "id": "1788741658"
+  },
+  {
+    "city": "Sousse",
+    "city_ascii": "Sousse",
+    "admin_name": "Sousse",
+    "lat": "35.8333",
+    "lng": "10.6333",
+    "id": "1788927583"
+  },
+  {
+    "city": "Kairouan",
+    "city_ascii": "Kairouan",
+    "admin_name": "Kairouan",
+    "lat": "35.6772",
+    "lng": "10.1008",
+    "id": "1788844707"
+  },
+  {
+    "city": "Gabès",
+    "city_ascii": "Gabes",
+    "admin_name": "Gabès",
+    "lat": "33.8833",
+    "lng": "10.1167",
+    "id": "1788064276"
+  },
+  {
+    "city": "Bizerte",
+    "city_ascii": "Bizerte",
+    "admin_name": "Bizerte",
+    "lat": "37.2778",
+    "lng": "9.8639",
+    "id": "1788330365"
+  },
+  {
+    "city": "Sukrah",
+    "city_ascii": "Sukrah",
+    "admin_name": "L’Ariana",
+    "lat": "36.8833",
+    "lng": "10.2500",
+    "id": "1788614141"
+  },
+  {
+    "city": "Sakiet ed Daier",
+    "city_ascii": "Sakiet ed Daier",
+    "admin_name": "Sfax",
+    "lat": "34.8000",
+    "lng": "10.7800",
+    "id": "1788449518"
+  },
+  {
+    "city": "Ariana",
+    "city_ascii": "Ariana",
+    "admin_name": "L’Ariana",
+    "lat": "36.8625",
+    "lng": "10.1956",
+    "id": "1788682546"
+  },
+  {
+    "city": "Gafsa",
+    "city_ascii": "Gafsa",
+    "admin_name": "Gafsa",
+    "lat": "34.4225",
+    "lng": "8.7842",
+    "id": "1788454569"
+  },
+  {
+    "city": "Kasserine",
+    "city_ascii": "Kasserine",
+    "admin_name": "Kasserine",
+    "lat": "35.1667",
+    "lng": "8.8333",
+    "id": "1788047794"
+  },
+  {
+    "city": "Monastir",
+    "city_ascii": "Monastir",
+    "admin_name": "Monastir",
+    "lat": "35.7694",
+    "lng": "10.8194",
+    "id": "1788553334"
+  },
+  {
+    "city": "Hammamet",
+    "city_ascii": "Hammamet",
+    "admin_name": "Nabeul",
+    "lat": "36.4000",
+    "lng": "10.6167",
+    "id": "1788426798"
+  },
+  {
+    "city": "Sakiet ez Zit",
+    "city_ascii": "Sakiet ez Zit",
+    "admin_name": "Sfax",
+    "lat": "34.8000",
+    "lng": "10.7700",
+    "id": "1788542455"
+  },
+  {
+    "city": "La Marsa",
+    "city_ascii": "La Marsa",
+    "admin_name": "Tunis",
+    "lat": "36.8764",
+    "lng": "10.3253",
+    "id": "1788911754"
+  },
+  {
+    "city": "Ben Arous",
+    "city_ascii": "Ben Arous",
+    "admin_name": "Ben Arous",
+    "lat": "36.7472",
+    "lng": "10.3333",
+    "id": "1788439087"
+  },
+  {
+    "city": "Msaken",
+    "city_ascii": "Msaken",
+    "admin_name": "Sousse",
+    "lat": "35.7333",
+    "lng": "10.5833",
+    "id": "1788688595"
+  },
+  {
+    "city": "Béja",
+    "city_ascii": "Beja",
+    "admin_name": "Béja",
+    "lat": "36.7333",
+    "lng": "9.1833",
+    "id": "1788225711"
+  },
+  {
+    "city": "Ben Gardane",
+    "city_ascii": "Ben Gardane",
+    "admin_name": "Médenine",
+    "lat": "33.1389",
+    "lng": "11.2167",
+    "id": "1788380441"
+  },
+  {
+    "city": "Houmt Souk",
+    "city_ascii": "Houmt Souk",
+    "admin_name": "Médenine",
+    "lat": "33.8667",
+    "lng": "10.8500",
+    "id": "1788550812"
+  },
+  {
+    "city": "Nabeul",
+    "city_ascii": "Nabeul",
+    "admin_name": "Nabeul",
+    "lat": "36.4542",
+    "lng": "10.7347",
+    "id": "1788902612"
+  },
+  {
+    "city": "Medenine",
+    "city_ascii": "Medenine",
+    "admin_name": "Médenine",
+    "lat": "33.3547",
+    "lng": "10.5053",
+    "id": "1788240639"
+  },
+  {
+    "city": "Zarzis",
+    "city_ascii": "Zarzis",
+    "admin_name": "Médenine",
+    "lat": "33.5000",
+    "lng": "11.1167",
+    "id": "1788933524"
+  },
+  {
+    "city": "Mahdia",
+    "city_ascii": "Mahdia",
+    "admin_name": "Mahdia",
+    "lat": "35.5000",
+    "lng": "11.0667",
+    "id": "1788440786"
+  },
+  {
+    "city": "Feriana",
+    "city_ascii": "Feriana",
+    "admin_name": "Kasserine",
+    "lat": "34.9500",
+    "lng": "8.5667",
+    "id": "1788954884"
+  },
+  {
+    "city": "Fouchana",
+    "city_ascii": "Fouchana",
+    "admin_name": "Ben Arous",
+    "lat": "36.7000",
+    "lng": "10.1667",
+    "id": "1788968797"
+  },
+  {
+    "city": "Le Kram",
+    "city_ascii": "Le Kram",
+    "admin_name": "Tunis",
+    "lat": "36.8333",
+    "lng": "10.3167",
+    "id": "1788996070"
+  },
+  {
+    "city": "Le Bardo",
+    "city_ascii": "Le Bardo",
+    "admin_name": "Tunis",
+    "lat": "36.8092",
+    "lng": "10.1406",
+    "id": "1788939893"
+  },
+  {
+    "city": "Radès",
+    "city_ascii": "Rades",
+    "admin_name": "Ben Arous",
+    "lat": "36.7667",
+    "lng": "10.2833",
+    "id": "1788930929"
+  },
+  {
+    "city": "Tataouine",
+    "city_ascii": "Tataouine",
+    "admin_name": "Tataouine",
+    "lat": "32.9306",
+    "lng": "10.4500",
+    "id": "1788300169"
+  },
+  {
+    "city": "Oued Lill",
+    "city_ascii": "Oued Lill",
+    "admin_name": "Manouba",
+    "lat": "36.8333",
+    "lng": "10.0500",
+    "id": "1788810522"
+  },
+  {
+    "city": "Korba",
+    "city_ascii": "Korba",
+    "admin_name": "Nabeul",
+    "lat": "36.5667",
+    "lng": "10.8667",
+    "id": "1788344871"
+  },
+  {
+    "city": "Midoun",
+    "city_ascii": "Midoun",
+    "admin_name": "Médenine",
+    "lat": "33.8000",
+    "lng": "11.0000",
+    "id": "1788034420"
+  },
+  {
+    "city": "Kelaa Kebira",
+    "city_ascii": "Kelaa Kebira",
+    "admin_name": "Sousse",
+    "lat": "35.8667",
+    "lng": "10.5333",
+    "id": "1788598421"
+  },
+  {
+    "city": "Kélibia",
+    "city_ascii": "Kelibia",
+    "admin_name": "Nabeul",
+    "lat": "36.8500",
+    "lng": "11.1000",
+    "id": "1788675416"
+  },
+  {
+    "city": "Moknine",
+    "city_ascii": "Moknine",
+    "admin_name": "Monastir",
+    "lat": "35.6333",
+    "lng": "10.9000",
+    "id": "1788874932"
+  },
+  {
+    "city": "Menzel Temime",
+    "city_ascii": "Menzel Temime",
+    "admin_name": "Nabeul",
+    "lat": "36.7833",
+    "lng": "10.9833",
+    "id": "1788000016"
+  },
+  {
+    "city": "Menzel Bourguiba",
+    "city_ascii": "Menzel Bourguiba",
+    "admin_name": "Bizerte",
+    "lat": "37.1500",
+    "lng": "9.7833",
+    "id": "1788007460"
+  },
+  {
+    "city": "Ksar Hellal",
+    "city_ascii": "Ksar Hellal",
+    "admin_name": "Monastir",
+    "lat": "35.6429",
+    "lng": "10.8911",
+    "id": "1788303496"
+  },
+  {
+    "city": "Djemmal",
+    "city_ascii": "Djemmal",
+    "admin_name": "Monastir",
+    "lat": "35.6400",
+    "lng": "10.7600",
+    "id": "1788132714"
+  },
+  {
+    "city": "El Kef",
+    "city_ascii": "El Kef",
+    "admin_name": "Kef",
+    "lat": "36.1822",
+    "lng": "8.7147",
+    "id": "1788314833"
+  },
+  {
+    "city": "Bir Ali Ben Khalifa",
+    "city_ascii": "Bir Ali Ben Khalifa",
+    "admin_name": "Sfax",
+    "lat": "34.7339",
+    "lng": "10.1000",
+    "id": "1788587849"
+  },
+  {
+    "city": "Dar Chabanne",
+    "city_ascii": "Dar Chabanne",
+    "admin_name": "Nabeul",
+    "lat": "36.4700",
+    "lng": "10.7500",
+    "id": "1788696431"
+  },
+  {
+    "city": "Sidi Bouzid",
+    "city_ascii": "Sidi Bouzid",
+    "admin_name": "Sidi Bouzid",
+    "lat": "35.0381",
+    "lng": "9.4858",
+    "id": "1788196439"
+  },
+  {
+    "city": "Jendouba",
+    "city_ascii": "Jendouba",
+    "admin_name": "Jendouba",
+    "lat": "36.4833",
+    "lng": "8.7833",
+    "id": "1788952846"
+  },
+  {
+    "city": "Hammam Sousse",
+    "city_ascii": "Hammam Sousse",
+    "admin_name": "Sousse",
+    "lat": "35.8589",
+    "lng": "10.5939",
+    "id": "1788113180"
+  },
+  {
+    "city": "El Hamma",
+    "city_ascii": "El Hamma",
+    "admin_name": "Gabès",
+    "lat": "33.8864",
+    "lng": "9.7951",
+    "id": "1788376550"
+  },
+  {
+    "city": "La Goulette",
+    "city_ascii": "La Goulette",
+    "admin_name": "Tunis",
+    "lat": "36.8181",
+    "lng": "10.3050",
+    "id": "1788529784"
+  },
+  {
+    "city": "Soliman",
+    "city_ascii": "Soliman",
+    "admin_name": "Nabeul",
+    "lat": "36.7000",
+    "lng": "10.4833",
+    "id": "1788428570"
+  },
+  {
+    "city": "Jedeïda",
+    "city_ascii": "Jedeida",
+    "admin_name": "Manouba",
+    "lat": "36.8333",
+    "lng": "9.9167",
+    "id": "1788986183"
+  },
+  {
+    "city": "Kalaa Srira",
+    "city_ascii": "Kalaa Srira",
+    "admin_name": "Sousse",
+    "lat": "35.8236",
+    "lng": "10.5583",
+    "id": "1788232663"
+  },
+  {
+    "city": "Hammam-Lif",
+    "city_ascii": "Hammam-Lif",
+    "admin_name": "Ben Arous",
+    "lat": "36.7333",
+    "lng": "10.3333",
+    "id": "1788380846"
+  },
+  {
+    "city": "Teboulba",
+    "city_ascii": "Teboulba",
+    "admin_name": "Monastir",
+    "lat": "35.6700",
+    "lng": "10.9000",
+    "id": "1788404428"
+  },
+  {
+    "city": "Tozeur",
+    "city_ascii": "Tozeur",
+    "admin_name": "Tozeur",
+    "lat": "33.9167",
+    "lng": "8.1333",
+    "id": "1788636202"
+  },
+  {
+    "city": "Metlaoui",
+    "city_ascii": "Metlaoui",
+    "admin_name": "Gafsa",
+    "lat": "34.3333",
+    "lng": "8.4000",
+    "id": "1788302066"
+  },
+  {
+    "city": "Sbeitla",
+    "city_ascii": "Sbeitla",
+    "admin_name": "Kasserine",
+    "lat": "35.2297",
+    "lng": "9.1294",
+    "id": "1788964283"
+  },
+  {
+    "city": "Ksour Essaf",
+    "city_ascii": "Ksour Essaf",
+    "admin_name": "Mahdia",
+    "lat": "35.4300",
+    "lng": "10.9800",
+    "id": "1788935774"
+  },
+  {
+    "city": "Ez Zahra",
+    "city_ascii": "Ez Zahra",
+    "admin_name": "Ben Arous",
+    "lat": "36.7439",
+    "lng": "10.3083",
+    "id": "1788800357"
+  },
+  {
+    "city": "Manouba",
+    "city_ascii": "Manouba",
+    "admin_name": "Manouba",
+    "lat": "36.8078",
+    "lng": "10.1011",
+    "id": "1788608864"
+  },
+  {
+    "city": "Siliana",
+    "city_ascii": "Siliana",
+    "admin_name": "Siliana",
+    "lat": "36.0819",
+    "lng": "9.3747",
+    "id": "1788057426"
+  },
+  {
+    "city": "Douz",
+    "city_ascii": "Douz",
+    "admin_name": "Kébili",
+    "lat": "33.4500",
+    "lng": "9.0167",
+    "id": "1788276238"
+  },
+  {
+    "city": "El Ksar",
+    "city_ascii": "El Ksar",
+    "admin_name": "Gafsa",
+    "lat": "34.3900",
+    "lng": "8.8000",
+    "id": "1788855302"
+  },
+  {
+    "city": "Mateur",
+    "city_ascii": "Mateur",
+    "admin_name": "Bizerte",
+    "lat": "37.0400",
+    "lng": "9.6650",
+    "id": "1788734106"
+  },
+  {
+    "city": "Akouda",
+    "city_ascii": "Akouda",
+    "admin_name": "Sousse",
+    "lat": "35.8714",
+    "lng": "10.5697",
+    "id": "1788415117"
+  },
+  {
+    "city": "Rass el Djebel",
+    "city_ascii": "Rass el Djebel",
+    "admin_name": "Bizerte",
+    "lat": "37.2150",
+    "lng": "10.1200",
+    "id": "1788857696"
+  },
+  {
+    "city": "Beni Khiar",
+    "city_ascii": "Beni Khiar",
+    "admin_name": "Nabeul",
+    "lat": "36.4667",
+    "lng": "10.7833",
+    "id": "1788551393"
+  },
+  {
+    "city": "Tebourba",
+    "city_ascii": "Tebourba",
+    "admin_name": "Manouba",
+    "lat": "36.8333",
+    "lng": "9.8333",
+    "id": "1788846367"
+  },
+  {
+    "city": "Kebili",
+    "city_ascii": "Kebili",
+    "admin_name": "Kébili",
+    "lat": "33.7050",
+    "lng": "8.9650",
+    "id": "1788285135"
+  },
+  {
+    "city": "Rhennouch",
+    "city_ascii": "Rhennouch",
+    "admin_name": "Gabès",
+    "lat": "33.9300",
+    "lng": "10.0700",
+    "id": "1788492556"
+  },
+  {
+    "city": "Mégrine",
+    "city_ascii": "Megrine",
+    "admin_name": "Ben Arous",
+    "lat": "36.7667",
+    "lng": "10.2333",
+    "id": "1788569609"
+  },
+  {
+    "city": "Dahmani",
+    "city_ascii": "Dahmani",
+    "admin_name": "Kef",
+    "lat": "35.9500",
+    "lng": "8.8333",
+    "id": "1788333939"
+  },
+  {
+    "city": "Grombalia",
+    "city_ascii": "Grombalia",
+    "admin_name": "Nabeul",
+    "lat": "36.6000",
+    "lng": "10.5000",
+    "id": "1788960227"
+  },
+  {
+    "city": "Ar Rudayyif",
+    "city_ascii": "Ar Rudayyif",
+    "admin_name": "Gafsa",
+    "lat": "34.3833",
+    "lng": "8.1500",
+    "id": "1788485664"
+  },
+  {
+    "city": "El Fahs",
+    "city_ascii": "El Fahs",
+    "admin_name": "Zaghouan",
+    "lat": "36.3667",
+    "lng": "9.9000",
+    "id": "1788763932"
+  },
+  {
+    "city": "Ajim",
+    "city_ascii": "Ajim",
+    "admin_name": "Médenine",
+    "lat": "33.7167",
+    "lng": "10.7500",
+    "id": "1788666202"
+  },
+  {
+    "city": "Takelsa",
+    "city_ascii": "Takelsa",
+    "admin_name": "Nabeul",
+    "lat": "36.7833",
+    "lng": "10.6333",
+    "id": "1788957675"
+  },
+  {
+    "city": "Medjez el Bab",
+    "city_ascii": "Medjez el Bab",
+    "admin_name": "Béja",
+    "lat": "36.6436",
+    "lng": "9.6042",
+    "id": "1788828392"
+  },
+  {
+    "city": "Ouardenine",
+    "city_ascii": "Ouardenine",
+    "admin_name": "Monastir",
+    "lat": "35.7200",
+    "lng": "10.6700",
+    "id": "1788833416"
+  },
+  {
+    "city": "Beni Khalled",
+    "city_ascii": "Beni Khalled",
+    "admin_name": "Nabeul",
+    "lat": "36.6500",
+    "lng": "10.6000",
+    "id": "1788038432"
+  },
+  {
+    "city": "La Mornaghia",
+    "city_ascii": "La Mornaghia",
+    "admin_name": "Manouba",
+    "lat": "36.7667",
+    "lng": "10.0167",
+    "id": "1788281746"
+  },
+  {
+    "city": "Nefta",
+    "city_ascii": "Nefta",
+    "admin_name": "Tozeur",
+    "lat": "33.8833",
+    "lng": "7.8833",
+    "id": "1788494742"
+  },
+  {
+    "city": "Zaghouan",
+    "city_ascii": "Zaghouan",
+    "admin_name": "Zaghouan",
+    "lat": "36.4056",
+    "lng": "10.1431",
+    "id": "1788008309"
+  },
+  {
+    "city": "Chebba",
+    "city_ascii": "Chebba",
+    "admin_name": "Mahdia",
+    "lat": "35.2372",
+    "lng": "11.1150",
+    "id": "1788108362"
+  },
+  {
+    "city": "Tabarka",
+    "city_ascii": "Tabarka",
+    "admin_name": "Jendouba",
+    "lat": "36.9544",
+    "lng": "8.7581",
+    "id": "1788433154"
+  },
+  {
+    "city": "Moularès",
+    "city_ascii": "Moulares",
+    "admin_name": "Gafsa",
+    "lat": "34.4833",
+    "lng": "8.2667",
+    "id": "1788693734"
+  },
+  {
+    "city": "El Jem",
+    "city_ascii": "El Jem",
+    "admin_name": "Mahdia",
+    "lat": "35.2967",
+    "lng": "10.7128",
+    "id": "1788320100"
+  },
+  {
+    "city": "Sahline",
+    "city_ascii": "Sahline",
+    "admin_name": "Monastir",
+    "lat": "35.7506",
+    "lng": "10.7122",
+    "id": "1788956768"
+  },
+  {
+    "city": "Carthage",
+    "city_ascii": "Carthage",
+    "admin_name": "Tunis",
+    "lat": "36.8528",
+    "lng": "10.3233",
+    "id": "1788412127"
+  },
+  {
+    "city": "Tinja",
+    "city_ascii": "Tinja",
+    "admin_name": "Bizerte",
+    "lat": "37.1667",
+    "lng": "9.7667",
+    "id": "1788355927"
+  },
+  {
+    "city": "Tabursuq",
+    "city_ascii": "Tabursuq",
+    "admin_name": "Béja",
+    "lat": "36.4572",
+    "lng": "9.2483",
+    "id": "1788107658"
+  },
+  {
+    "city": "Zaouiet Sousse",
+    "city_ascii": "Zaouiet Sousse",
+    "admin_name": "Sousse",
+    "lat": "35.7833",
+    "lng": "10.6333",
+    "id": "1788010481"
+  },
+  {
+    "city": "Métouia",
+    "city_ascii": "Metouia",
+    "admin_name": "Gabès",
+    "lat": "33.9667",
+    "lng": "10.0000",
+    "id": "1788442482"
+  },
+  {
+    "city": "Bekalta",
+    "city_ascii": "Bekalta",
+    "admin_name": "Monastir",
+    "lat": "35.6167",
+    "lng": "11.0000",
+    "id": "1788338192"
+  },
+  {
+    "city": "Ghardimaou",
+    "city_ascii": "Ghardimaou",
+    "admin_name": "Jendouba",
+    "lat": "36.4500",
+    "lng": "8.4333",
+    "id": "1788721346"
+  },
+  {
+    "city": "Tajerouine",
+    "city_ascii": "Tajerouine",
+    "admin_name": "Kef",
+    "lat": "35.8833",
+    "lng": "8.5500",
+    "id": "1788699943"
+  },
+  {
+    "city": "Menzel Abderhaman",
+    "city_ascii": "Menzel Abderhaman",
+    "admin_name": "Bizerte",
+    "lat": "37.2300",
+    "lng": "9.8600",
+    "id": "1788469824"
+  },
+  {
+    "city": "Mennzel Bou Zelfa",
+    "city_ascii": "Mennzel Bou Zelfa",
+    "admin_name": "Nabeul",
+    "lat": "36.6817",
+    "lng": "10.5847",
+    "id": "1788372559"
+  },
+  {
+    "city": "El Alia",
+    "city_ascii": "El Alia",
+    "admin_name": "Bizerte",
+    "lat": "37.1667",
+    "lng": "10.0333",
+    "id": "1788662915"
+  },
+  {
+    "city": "Thala",
+    "city_ascii": "Thala",
+    "admin_name": "Kasserine",
+    "lat": "35.5667",
+    "lng": "8.6667",
+    "id": "1788886917"
+  },
+  {
+    "city": "Galaat el Andeless",
+    "city_ascii": "Galaat el Andeless",
+    "admin_name": "L’Ariana",
+    "lat": "37.0625",
+    "lng": "10.1183",
+    "id": "1788275217"
+  },
+  {
+    "city": "Banbalah",
+    "city_ascii": "Banbalah",
+    "admin_name": "Monastir",
+    "lat": "35.7000",
+    "lng": "10.8000",
+    "id": "1788415510"
+  },
+  {
+    "city": "Mareth",
+    "city_ascii": "Mareth",
+    "admin_name": "Gabès",
+    "lat": "33.6333",
+    "lng": "10.3000",
+    "id": "1788204287"
+  },
+  {
+    "city": "Mahires",
+    "city_ascii": "Mahires",
+    "admin_name": "Sfax",
+    "lat": "34.5333",
+    "lng": "10.5000",
+    "id": "1788002942"
+  },
+  {
+    "city": "Bennane",
+    "city_ascii": "Bennane",
+    "admin_name": "Monastir",
+    "lat": "35.6833",
+    "lng": "10.8333",
+    "id": "1788571318"
+  },
+  {
+    "city": "Goubellat",
+    "city_ascii": "Goubellat",
+    "admin_name": "Béja",
+    "lat": "36.5333",
+    "lng": "9.6667",
+    "id": "1788528654"
+  },
+  {
+    "city": "Gammarth",
+    "city_ascii": "Gammarth",
+    "admin_name": "Tunis",
+    "lat": "36.9097",
+    "lng": "10.2867",
+    "id": "1788251361"
+  },
+  {
+    "city": "El Maknassi",
+    "city_ascii": "El Maknassi",
+    "admin_name": "Sidi Bouzid",
+    "lat": "34.6042",
+    "lng": "9.6056",
+    "id": "1788035263"
+  },
+  {
+    "city": "Bou Salem",
+    "city_ascii": "Bou Salem",
+    "admin_name": "Jendouba",
+    "lat": "36.6167",
+    "lng": "8.9667",
+    "id": "1788364620"
+  },
+  {
+    "city": "Ksibet el Mediouni",
+    "city_ascii": "Ksibet el Mediouni",
+    "admin_name": "Monastir",
+    "lat": "35.6900",
+    "lng": "10.8500",
+    "id": "1788726660"
+  },
+  {
+    "city": "Degache",
+    "city_ascii": "Degache",
+    "admin_name": "Tozeur",
+    "lat": "33.9833",
+    "lng": "8.2167",
+    "id": "1788855852"
+  },
+  {
+    "city": "El Guetar",
+    "city_ascii": "El Guetar",
+    "admin_name": "Gafsa",
+    "lat": "34.3372",
+    "lng": "8.9528",
+    "id": "1788801519"
+  },
+  {
+    "city": "Messadine",
+    "city_ascii": "Messadine",
+    "admin_name": "Sousse",
+    "lat": "35.7619",
+    "lng": "10.5953",
+    "id": "1788994280"
+  },
+  {
+    "city": "Seïada",
+    "city_ascii": "Seiada",
+    "admin_name": "Monastir",
+    "lat": "35.6700",
+    "lng": "10.9000",
+    "id": "1788658832"
+  },
+  {
+    "city": "Hammam el Rhezez",
+    "city_ascii": "Hammam el Rhezez",
+    "admin_name": "Nabeul",
+    "lat": "36.8900",
+    "lng": "11.1200",
+    "id": "1788114133"
+  },
+  {
+    "city": "Maktar",
+    "city_ascii": "Maktar",
+    "admin_name": "Siliana",
+    "lat": "35.8606",
+    "lng": "9.2058",
+    "id": "1788602708"
+  },
+  {
+    "city": "Testour",
+    "city_ascii": "Testour",
+    "admin_name": "Béja",
+    "lat": "36.5500",
+    "lng": "9.4500",
+    "id": "1788691139"
+  },
+  {
+    "city": "Bou Arada",
+    "city_ascii": "Bou Arada",
+    "admin_name": "Siliana",
+    "lat": "36.3500",
+    "lng": "9.6167",
+    "id": "1788598968"
+  },
+  {
+    "city": "Khunays",
+    "city_ascii": "Khunays",
+    "admin_name": "Monastir",
+    "lat": "35.7122",
+    "lng": "10.8167",
+    "id": "1788472866"
+  },
+  {
+    "city": "M’dhilla",
+    "city_ascii": "M'dhilla",
+    "admin_name": "Gafsa",
+    "lat": "34.2500",
+    "lng": "8.7500",
+    "id": "1788513102"
+  },
+  {
+    "city": "Bou Arkoub",
+    "city_ascii": "Bou Arkoub",
+    "admin_name": "Nabeul",
+    "lat": "36.5400",
+    "lng": "10.5500",
+    "id": "1788987515"
+  },
+  {
+    "city": "As Sars",
+    "city_ascii": "As Sars",
+    "admin_name": "Kef",
+    "lat": "36.0833",
+    "lng": "9.0167",
+    "id": "1788457626"
+  },
+  {
+    "city": "Skhira",
+    "city_ascii": "Skhira",
+    "admin_name": "Sfax",
+    "lat": "34.3006",
+    "lng": "10.0708",
+    "id": "1788034697"
+  },
+  {
+    "city": "Zriba-Village",
+    "city_ascii": "Zriba-Village",
+    "admin_name": "Nabeul",
+    "lat": "36.3333",
+    "lng": "10.2500",
+    "id": "1788393853"
+  },
+  {
+    "city": "Bou Merdès",
+    "city_ascii": "Bou Merdes",
+    "admin_name": "Mahdia",
+    "lat": "35.4500",
+    "lng": "10.7333",
+    "id": "1788022009"
+  },
+  {
+    "city": "Agareb",
+    "city_ascii": "Agareb",
+    "admin_name": "Sfax",
+    "lat": "34.4333",
+    "lng": "10.1833",
+    "id": "1788531195"
+  },
+  {
+    "city": "Er Regueb",
+    "city_ascii": "Er Regueb",
+    "admin_name": "Sidi Bouzid",
+    "lat": "34.8667",
+    "lng": "9.7833",
+    "id": "1788507948"
+  },
+  {
+    "city": "Rejiche",
+    "city_ascii": "Rejiche",
+    "admin_name": "Mahdia",
+    "lat": "35.4667",
+    "lng": "11.0333",
+    "id": "1788954885"
+  },
+  {
+    "city": "Sidi Tabet",
+    "city_ascii": "Sidi Tabet",
+    "admin_name": "L’Ariana",
+    "lat": "36.9139",
+    "lng": "10.0361",
+    "id": "1788986316"
+  },
+  {
+    "city": "Enfida",
+    "city_ascii": "Enfida",
+    "admin_name": "Sousse",
+    "lat": "36.1353",
+    "lng": "10.3808",
+    "id": "1788901656"
+  },
+  {
+    "city": "Ousseltia",
+    "city_ascii": "Ousseltia",
+    "admin_name": "Kairouan",
+    "lat": "35.8400",
+    "lng": "9.5800",
+    "id": "1788889773"
+  },
+  {
+    "city": "Hajeb el Aïoun",
+    "city_ascii": "Hajeb el Aioun",
+    "admin_name": "Kairouan",
+    "lat": "35.3900",
+    "lng": "9.5400",
+    "id": "1788265599"
+  },
+  {
+    "city": "Rhar el Melah",
+    "city_ascii": "Rhar el Melah",
+    "admin_name": "Bizerte",
+    "lat": "37.1667",
+    "lng": "10.1833",
+    "id": "1788960922"
+  },
+  {
+    "city": "Sidi Bou Ali",
+    "city_ascii": "Sidi Bou Ali",
+    "admin_name": "Sousse",
+    "lat": "35.9561",
+    "lng": "10.4722",
+    "id": "1788097463"
+  },
+  {
+    "city": "Gafour",
+    "city_ascii": "Gafour",
+    "admin_name": "Siliana",
+    "lat": "36.3400",
+    "lng": "9.3200",
+    "id": "1788863450"
+  },
+  {
+    "city": "Remada",
+    "city_ascii": "Remada",
+    "admin_name": "Tataouine",
+    "lat": "32.3061",
+    "lng": "10.3822",
+    "id": "1788796526"
+  },
+  {
+    "city": "Harqalah",
+    "city_ascii": "Harqalah",
+    "admin_name": "Sousse",
+    "lat": "36.0333",
+    "lng": "10.5000",
+    "id": "1788657831"
+  },
+  {
+    "city": "El Metline",
+    "city_ascii": "El Metline",
+    "admin_name": "Bizerte",
+    "lat": "37.2500",
+    "lng": "10.0500",
+    "id": "1788292839"
+  },
+  {
+    "city": "Jerissa",
+    "city_ascii": "Jerissa",
+    "admin_name": "Kef",
+    "lat": "35.8500",
+    "lng": "8.6333",
+    "id": "1788448705"
+  },
+  {
+    "city": "Aïne Draham",
+    "city_ascii": "Aine Draham",
+    "admin_name": "Jendouba",
+    "lat": "36.7833",
+    "lng": "8.7000",
+    "id": "1788027300"
+  },
+  {
+    "city": "El Haouaria",
+    "city_ascii": "El Haouaria",
+    "admin_name": "Nabeul",
+    "lat": "37.0500",
+    "lng": "11.0167",
+    "id": "1788314375"
+  },
+  {
+    "city": "Ghomrassen",
+    "city_ascii": "Ghomrassen",
+    "admin_name": "Tataouine",
+    "lat": "33.0592",
+    "lng": "10.3400",
+    "id": "1788309516"
+  },
+  {
+    "city": "Menzel Kamel",
+    "city_ascii": "Menzel Kamel",
+    "admin_name": "Monastir",
+    "lat": "35.6333",
+    "lng": "10.6667",
+    "id": "1788923582"
+  },
+  {
+    "city": "Tazarka",
+    "city_ascii": "Tazarka",
+    "admin_name": "Nabeul",
+    "lat": "36.5500",
+    "lng": "10.8333",
+    "id": "1788779433"
+  },
+  {
+    "city": "Wadhraf",
+    "city_ascii": "Wadhraf",
+    "admin_name": "Gabès",
+    "lat": "33.9833",
+    "lng": "9.9667",
+    "id": "1788853513"
+  },
+  {
+    "city": "Beni Hassane",
+    "city_ascii": "Beni Hassane",
+    "admin_name": "Monastir",
+    "lat": "35.5700",
+    "lng": "10.8200",
+    "id": "1788945888"
+  },
+  {
+    "city": "El Golaa",
+    "city_ascii": "El Golaa",
+    "admin_name": "Kébili",
+    "lat": "33.7050",
+    "lng": "8.9650",
+    "id": "1788961564"
+  },
+  {
+    "city": "Dehiba",
+    "city_ascii": "Dehiba",
+    "admin_name": "Tataouine",
+    "lat": "32.0167",
+    "lng": "10.7000",
+    "id": "1788484869"
+  }
+]

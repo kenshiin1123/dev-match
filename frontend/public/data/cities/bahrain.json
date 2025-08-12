@@ -1,0 +1,82 @@
+[
+  {
+    "city": "Manama",
+    "city_ascii": "Manama",
+    "admin_name": "Al ‘Āşimah",
+    "lat": "26.2233",
+    "lng": "50.5875",
+    "id": "1048989486"
+  },
+  {
+    "city": "Al Muḩarraq",
+    "city_ascii": "Al Muharraq",
+    "admin_name": "Al Muḩarraq",
+    "lat": "26.2500",
+    "lng": "50.6167",
+    "id": "1048992336"
+  },
+  {
+    "city": "Madīnat Ḩamad",
+    "city_ascii": "Madinat Hamad",
+    "admin_name": "Ash Shamālīyah",
+    "lat": "26.1128",
+    "lng": "50.5139",
+    "id": "1048909146"
+  },
+  {
+    "city": "Jidd Ḩafş",
+    "city_ascii": "Jidd Hafs",
+    "admin_name": "Al ‘Āşimah",
+    "lat": "26.2190",
+    "lng": "50.5380",
+    "id": "1048383141"
+  },
+  {
+    "city": "Madīnat ‘Īsá",
+    "city_ascii": "Madinat `Isa",
+    "admin_name": "Al Janūbīyah",
+    "lat": "26.1736",
+    "lng": "50.5478",
+    "id": "1048219300"
+  },
+  {
+    "city": "Sitrah",
+    "city_ascii": "Sitrah",
+    "admin_name": "Al ‘Āşimah",
+    "lat": "26.1200",
+    "lng": "50.6500",
+    "id": "1048449399"
+  },
+  {
+    "city": "Al Hamalah",
+    "city_ascii": "Al Hamalah",
+    "admin_name": "Ash Shamālīyah",
+    "lat": "26.1497",
+    "lng": "50.4653",
+    "id": "1048095735"
+  },
+  {
+    "city": "Ad Dirāz",
+    "city_ascii": "Ad Diraz",
+    "admin_name": "Ash Shamālīyah",
+    "lat": "26.2186",
+    "lng": "50.4756",
+    "id": "1048063693"
+  },
+  {
+    "city": "Al Mālikīyah",
+    "city_ascii": "Al Malikiyah",
+    "admin_name": "Ash Shamālīyah",
+    "lat": "26.1008",
+    "lng": "50.4878",
+    "id": "1048201058"
+  },
+  {
+    "city": "Karrānah",
+    "city_ascii": "Karranah",
+    "admin_name": "Ash Shamālīyah",
+    "lat": "26.2306",
+    "lng": "50.5108",
+    "id": "1048633318"
+  }
+]

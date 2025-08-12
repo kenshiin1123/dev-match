@@ -1,0 +1,706 @@
+[
+  {
+    "city": "Nairobi",
+    "city_ascii": "Nairobi",
+    "admin_name": "Nairobi City",
+    "lat": "-1.2864",
+    "lng": "36.8172",
+    "id": "1404000661"
+  },
+  {
+    "city": "Mombasa",
+    "city_ascii": "Mombasa",
+    "admin_name": "Mombasa",
+    "lat": "-4.0500",
+    "lng": "39.6667",
+    "id": "1404512373"
+  },
+  {
+    "city": "Kisumu",
+    "city_ascii": "Kisumu",
+    "admin_name": "Kisumu",
+    "lat": "-0.1000",
+    "lng": "34.7500",
+    "id": "1404511920"
+  },
+  {
+    "city": "Kikuyu",
+    "city_ascii": "Kikuyu",
+    "admin_name": "Kiambu",
+    "lat": "-1.2463",
+    "lng": "36.6629",
+    "id": "1404116834"
+  },
+  {
+    "city": "Nakuru",
+    "city_ascii": "Nakuru",
+    "admin_name": "Nakuru",
+    "lat": "-0.2833",
+    "lng": "36.0667",
+    "id": "1404140179"
+  },
+  {
+    "city": "Eldoret",
+    "city_ascii": "Eldoret",
+    "admin_name": "Uasin Gishu",
+    "lat": "0.5167",
+    "lng": "35.2833",
+    "id": "1404676289"
+  },
+  {
+    "city": "Kakuma",
+    "city_ascii": "Kakuma",
+    "admin_name": "Turkana",
+    "lat": "3.7167",
+    "lng": "34.8667",
+    "id": "1404320261"
+  },
+  {
+    "city": "Lunga-Lunga",
+    "city_ascii": "Lunga-Lunga",
+    "admin_name": "Kwale",
+    "lat": "-4.5500",
+    "lng": "39.1200",
+    "id": "1404110872"
+  },
+  {
+    "city": "Habaswein",
+    "city_ascii": "Habaswein",
+    "admin_name": "Wajir",
+    "lat": "1.0166",
+    "lng": "39.4912",
+    "id": "1404012344"
+  },
+  {
+    "city": "Ongata Rongai",
+    "city_ascii": "Ongata Rongai",
+    "admin_name": "Kajiado",
+    "lat": "-1.4000",
+    "lng": "36.7700",
+    "id": "1404422353"
+  },
+  {
+    "city": "Molo",
+    "city_ascii": "Molo",
+    "admin_name": "Nakuru",
+    "lat": "-0.2485",
+    "lng": "35.7319",
+    "id": "1404340216"
+  },
+  {
+    "city": "Kitenkela",
+    "city_ascii": "Kitenkela",
+    "admin_name": "Kajiado",
+    "lat": "-1.4855",
+    "lng": "36.9047",
+    "id": "1404000624"
+  },
+  {
+    "city": "Kiambu",
+    "city_ascii": "Kiambu",
+    "admin_name": "Kiambu",
+    "lat": "-1.1714",
+    "lng": "36.8356",
+    "id": "1404390868"
+  },
+  {
+    "city": "Ramu",
+    "city_ascii": "Ramu",
+    "admin_name": "Mandera",
+    "lat": "3.9375",
+    "lng": "41.2203",
+    "id": "1404221019"
+  },
+  {
+    "city": "Kilifi",
+    "city_ascii": "Kilifi",
+    "admin_name": "Kilifi",
+    "lat": "-3.6333",
+    "lng": "39.8500",
+    "id": "1404002930"
+  },
+  {
+    "city": "Malindi",
+    "city_ascii": "Malindi",
+    "admin_name": "Kilifi",
+    "lat": "-3.2100",
+    "lng": "40.1000",
+    "id": "1404380224"
+  },
+  {
+    "city": "Vihiga",
+    "city_ascii": "Vihiga",
+    "admin_name": "Vihiga",
+    "lat": "0.0369",
+    "lng": "34.7101",
+    "id": "1404002123"
+  },
+  {
+    "city": "Machakos",
+    "city_ascii": "Machakos",
+    "admin_name": "Machakos",
+    "lat": "-1.5167",
+    "lng": "37.2667",
+    "id": "1404746781"
+  },
+  {
+    "city": "Ngong",
+    "city_ascii": "Ngong",
+    "admin_name": "Kajiado",
+    "lat": "-1.3667",
+    "lng": "36.6333",
+    "id": "1404947852"
+  },
+  {
+    "city": "Mumias",
+    "city_ascii": "Mumias",
+    "admin_name": "Kakamega",
+    "lat": "0.3333",
+    "lng": "34.4833",
+    "id": "1404232773"
+  },
+  {
+    "city": "Thika",
+    "city_ascii": "Thika",
+    "admin_name": "Kiambu",
+    "lat": "-1.0396",
+    "lng": "37.0900",
+    "id": "1404482650"
+  },
+  {
+    "city": "Nyeri",
+    "city_ascii": "Nyeri",
+    "admin_name": "Nyeri",
+    "lat": "-0.4167",
+    "lng": "36.9500",
+    "id": "1404924901"
+  },
+  {
+    "city": "Kakamega",
+    "city_ascii": "Kakamega",
+    "admin_name": "Kakamega",
+    "lat": "0.2833",
+    "lng": "34.7500",
+    "id": "1404614327"
+  },
+  {
+    "city": "Kendu Bay",
+    "city_ascii": "Kendu Bay",
+    "admin_name": "Homa Bay",
+    "lat": "-0.3596",
+    "lng": "34.6400",
+    "id": "1404600696"
+  },
+  {
+    "city": "Wajir",
+    "city_ascii": "Wajir",
+    "admin_name": "Wajir",
+    "lat": "1.7472",
+    "lng": "40.0572",
+    "id": "1404067343"
+  },
+  {
+    "city": "Lafey",
+    "city_ascii": "Lafey",
+    "admin_name": "Mandera",
+    "lat": "3.1508",
+    "lng": "41.1864",
+    "id": "1404326023"
+  },
+  {
+    "city": "Athi River",
+    "city_ascii": "Athi River",
+    "admin_name": "Machakos",
+    "lat": "-1.4500",
+    "lng": "36.9833",
+    "id": "1404232217"
+  },
+  {
+    "city": "Ukunda",
+    "city_ascii": "Ukunda",
+    "admin_name": "Kwale",
+    "lat": "-4.2929",
+    "lng": "39.5640",
+    "id": "1404549809"
+  },
+  {
+    "city": "Nandi Hills",
+    "city_ascii": "Nandi Hills",
+    "admin_name": "Nandi",
+    "lat": "0.1037",
+    "lng": "35.1843",
+    "id": "1404700660"
+  },
+  {
+    "city": "Garissa",
+    "city_ascii": "Garissa",
+    "admin_name": "Garissa",
+    "lat": "-0.4569",
+    "lng": "39.6583",
+    "id": "1404464692"
+  },
+  {
+    "city": "Narok",
+    "city_ascii": "Narok",
+    "admin_name": "Narok",
+    "lat": "-1.0833",
+    "lng": "35.8667",
+    "id": "1404459814"
+  },
+  {
+    "city": "Kitale",
+    "city_ascii": "Kitale",
+    "admin_name": "Trans Nzoia",
+    "lat": "1.0167",
+    "lng": "35.0000",
+    "id": "1404890081"
+  },
+  {
+    "city": "Wundanyi",
+    "city_ascii": "Wundanyi",
+    "admin_name": "Taita/Taveta",
+    "lat": "-3.3964",
+    "lng": "38.3573",
+    "id": "1404917325"
+  },
+  {
+    "city": "El Wak",
+    "city_ascii": "El Wak",
+    "admin_name": "Mandera",
+    "lat": "2.8167",
+    "lng": "40.9333",
+    "id": "1404102561"
+  },
+  {
+    "city": "Banane",
+    "city_ascii": "Banane",
+    "admin_name": "Isiolo",
+    "lat": "0.5035",
+    "lng": "38.6620",
+    "id": "1404457234"
+  },
+  {
+    "city": "Wote",
+    "city_ascii": "Wote",
+    "admin_name": "Makueni",
+    "lat": "-1.7808",
+    "lng": "37.6288",
+    "id": "1404304549"
+  },
+  {
+    "city": "Kimilili",
+    "city_ascii": "Kimilili",
+    "admin_name": "Bungoma",
+    "lat": "0.7877",
+    "lng": "34.7156",
+    "id": "1404489379"
+  },
+  {
+    "city": "Bungoma",
+    "city_ascii": "Bungoma",
+    "admin_name": "Bungoma",
+    "lat": "0.5666",
+    "lng": "34.5666",
+    "id": "1404689847"
+  },
+  {
+    "city": "Isiolo",
+    "city_ascii": "Isiolo",
+    "admin_name": "Isiolo",
+    "lat": "0.3500",
+    "lng": "37.5833",
+    "id": "1404771203"
+  },
+  {
+    "city": "Voi",
+    "city_ascii": "Voi",
+    "admin_name": "Taita/Taveta",
+    "lat": "-3.3696",
+    "lng": "38.5700",
+    "id": "1404504656"
+  },
+  {
+    "city": "Meru",
+    "city_ascii": "Meru",
+    "admin_name": "Meru",
+    "lat": "0.0500",
+    "lng": "37.6500",
+    "id": "1404588252"
+  },
+  {
+    "city": "Webuye",
+    "city_ascii": "Webuye",
+    "admin_name": "Bungoma",
+    "lat": "0.6004",
+    "lng": "34.7712",
+    "id": "1404979270"
+  },
+  {
+    "city": "Iten",
+    "city_ascii": "Iten",
+    "admin_name": "Elgeyo/Marakwet",
+    "lat": "0.6703",
+    "lng": "35.5081",
+    "id": "1404000102"
+  },
+  {
+    "city": "Embu",
+    "city_ascii": "Embu",
+    "admin_name": "Embu",
+    "lat": "-0.5333",
+    "lng": "37.4500",
+    "id": "1404376456"
+  },
+  {
+    "city": "Kisii",
+    "city_ascii": "Kisii",
+    "admin_name": "Kisii",
+    "lat": "-0.6698",
+    "lng": "34.7675",
+    "id": "1404617601"
+  },
+  {
+    "city": "Homa Bay",
+    "city_ascii": "Homa Bay",
+    "admin_name": "Homa Bay",
+    "lat": "-0.5167",
+    "lng": "34.4500",
+    "id": "1404321159"
+  },
+  {
+    "city": "Rumuruti",
+    "city_ascii": "Rumuruti",
+    "admin_name": "Laikipia",
+    "lat": "0.2725",
+    "lng": "36.5381",
+    "id": "1404005234"
+  },
+  {
+    "city": "Nanyuki",
+    "city_ascii": "Nanyuki",
+    "admin_name": "Laikipia",
+    "lat": "0.0167",
+    "lng": "37.0667",
+    "id": "1404481993"
+  },
+  {
+    "city": "Maralal",
+    "city_ascii": "Maralal",
+    "admin_name": "Samburu",
+    "lat": "1.1000",
+    "lng": "36.7000",
+    "id": "1404895664"
+  },
+  {
+    "city": "Busia",
+    "city_ascii": "Busia",
+    "admin_name": "Busia",
+    "lat": "0.4608",
+    "lng": "34.1108",
+    "id": "1404250734"
+  },
+  {
+    "city": "Mandera",
+    "city_ascii": "Mandera",
+    "admin_name": "Mandera",
+    "lat": "3.9167",
+    "lng": "41.8333",
+    "id": "1404192737"
+  },
+  {
+    "city": "Kericho",
+    "city_ascii": "Kericho",
+    "admin_name": "Kericho",
+    "lat": "-0.3692",
+    "lng": "35.2839",
+    "id": "1404338562"
+  },
+  {
+    "city": "Kitui",
+    "city_ascii": "Kitui",
+    "admin_name": "Kitui",
+    "lat": "-1.3667",
+    "lng": "38.0167",
+    "id": "1404548296"
+  },
+  {
+    "city": "Lamu",
+    "city_ascii": "Lamu",
+    "admin_name": "Lamu",
+    "lat": "-2.2620",
+    "lng": "40.9197",
+    "id": "1404163131"
+  },
+  {
+    "city": "Moyale",
+    "city_ascii": "Moyale",
+    "admin_name": "Marsabit",
+    "lat": "3.5270",
+    "lng": "39.0560",
+    "id": "1404689643"
+  },
+  {
+    "city": "Kajiado",
+    "city_ascii": "Kajiado",
+    "admin_name": "Kajiado",
+    "lat": "-1.8500",
+    "lng": "36.7833",
+    "id": "1404265412"
+  },
+  {
+    "city": "Taveta",
+    "city_ascii": "Taveta",
+    "admin_name": "Taita/Taveta",
+    "lat": "-3.3956",
+    "lng": "37.6761",
+    "id": "1404624215"
+  },
+  {
+    "city": "Takaba",
+    "city_ascii": "Takaba",
+    "admin_name": "Mandera",
+    "lat": "3.3553",
+    "lng": "40.2228",
+    "id": "1404710881"
+  },
+  {
+    "city": "Baragoi",
+    "city_ascii": "Baragoi",
+    "admin_name": "Samburu",
+    "lat": "1.7840",
+    "lng": "36.7860",
+    "id": "1404601511"
+  },
+  {
+    "city": "Kapsabet",
+    "city_ascii": "Kapsabet",
+    "admin_name": "Nandi",
+    "lat": "0.2000",
+    "lng": "35.1000",
+    "id": "1404814363"
+  },
+  {
+    "city": "Eldama Ravine",
+    "city_ascii": "Eldama Ravine",
+    "admin_name": "Baringo",
+    "lat": "0.0504",
+    "lng": "35.7200",
+    "id": "1404468256"
+  },
+  {
+    "city": "Marsabit",
+    "city_ascii": "Marsabit",
+    "admin_name": "Marsabit",
+    "lat": "2.3333",
+    "lng": "37.9833",
+    "id": "1404055253"
+  },
+  {
+    "city": "Lodwar",
+    "city_ascii": "Lodwar",
+    "admin_name": "Turkana",
+    "lat": "3.1167",
+    "lng": "35.6000",
+    "id": "1404993573"
+  },
+  {
+    "city": "Mwingi",
+    "city_ascii": "Mwingi",
+    "admin_name": "Kitui",
+    "lat": "-0.9296",
+    "lng": "38.0700",
+    "id": "1404312666"
+  },
+  {
+    "city": "Bartabwa",
+    "city_ascii": "Bartabwa",
+    "admin_name": "Baringo",
+    "lat": "0.8380",
+    "lng": "35.8097",
+    "id": "1404047345"
+  },
+  {
+    "city": "Naivasha",
+    "city_ascii": "Naivasha",
+    "admin_name": "Nakuru",
+    "lat": "-0.7167",
+    "lng": "36.4333",
+    "id": "1404904927"
+  },
+  {
+    "city": "Kerugoya",
+    "city_ascii": "Kerugoya",
+    "admin_name": "Kirinyaga",
+    "lat": "-0.4989",
+    "lng": "37.2803",
+    "id": "1404597807"
+  },
+  {
+    "city": "Makuyu",
+    "city_ascii": "Makuyu",
+    "admin_name": "Murang’a",
+    "lat": "-0.9183",
+    "lng": "37.2148",
+    "id": "1404000094"
+  },
+  {
+    "city": "Port Victoria",
+    "city_ascii": "Port Victoria",
+    "admin_name": "Busia",
+    "lat": "0.0981",
+    "lng": "33.9725",
+    "id": "1404757827"
+  },
+  {
+    "city": "Msambweni",
+    "city_ascii": "Msambweni",
+    "admin_name": "Kwale",
+    "lat": "-4.4667",
+    "lng": "39.4667",
+    "id": "1404130106"
+  },
+  {
+    "city": "Kwale",
+    "city_ascii": "Kwale",
+    "admin_name": "Kwale",
+    "lat": "-4.1737",
+    "lng": "39.4521",
+    "id": "1404769042"
+  },
+  {
+    "city": "Sotik",
+    "city_ascii": "Sotik",
+    "admin_name": "Bomet",
+    "lat": "-0.6796",
+    "lng": "35.1200",
+    "id": "1404807525"
+  },
+  {
+    "city": "Kargi",
+    "city_ascii": "Kargi",
+    "admin_name": "Marsabit",
+    "lat": "2.5068",
+    "lng": "37.5756",
+    "id": "1404034627"
+  },
+  {
+    "city": "Hola",
+    "city_ascii": "Hola",
+    "admin_name": "Tana River",
+    "lat": "-1.5000",
+    "lng": "40.0300",
+    "id": "1404396632"
+  },
+  {
+    "city": "Mwatate",
+    "city_ascii": "Mwatate",
+    "admin_name": "Taita/Taveta",
+    "lat": "-3.5050",
+    "lng": "38.3772",
+    "id": "1404648092"
+  },
+  {
+    "city": "Namanga",
+    "city_ascii": "Namanga",
+    "admin_name": "Nyamira",
+    "lat": "-2.5500",
+    "lng": "36.7833",
+    "id": "1404000001"
+  },
+  {
+    "city": "Witu",
+    "city_ascii": "Witu",
+    "admin_name": "Lamu",
+    "lat": "-2.3796",
+    "lng": "40.4300",
+    "id": "1404037095"
+  },
+  {
+    "city": "Karungu",
+    "city_ascii": "Karungu",
+    "admin_name": "Migori",
+    "lat": "-0.8496",
+    "lng": "34.1500",
+    "id": "1404796412"
+  },
+  {
+    "city": "Konza",
+    "city_ascii": "Konza",
+    "admin_name": "Machakos",
+    "lat": "-1.7496",
+    "lng": "37.1200",
+    "id": "1404143289"
+  },
+  {
+    "city": "Tsavo",
+    "city_ascii": "Tsavo",
+    "admin_name": "Taita/Taveta",
+    "lat": "-2.9828",
+    "lng": "38.4666",
+    "id": "1404321644"
+  },
+  {
+    "city": "Nyamira",
+    "city_ascii": "Nyamira",
+    "admin_name": "Nyamira",
+    "lat": "-0.5633",
+    "lng": "34.9358",
+    "id": "1404000104"
+  },
+  {
+    "city": "Siaya",
+    "city_ascii": "Siaya",
+    "admin_name": "Siaya",
+    "lat": "0.0607",
+    "lng": "34.2881",
+    "id": "1404162576"
+  },
+  {
+    "city": "Murang’a",
+    "city_ascii": "Murang'a",
+    "admin_name": "Murang’a",
+    "lat": "-0.7210",
+    "lng": "37.1526",
+    "id": "1404066738"
+  },
+  {
+    "city": "Ol Kalou",
+    "city_ascii": "Ol Kalou",
+    "admin_name": "Nyandarua",
+    "lat": "-0.2643",
+    "lng": "36.3788",
+    "id": "1404930645"
+  },
+  {
+    "city": "Sotik Post",
+    "city_ascii": "Sotik Post",
+    "admin_name": "Bomet",
+    "lat": "-0.7813",
+    "lng": "35.3416",
+    "id": "1404087664"
+  },
+  {
+    "city": "Kapenguria",
+    "city_ascii": "Kapenguria",
+    "admin_name": "West Pokot",
+    "lat": "1.2389",
+    "lng": "35.1119",
+    "id": "1404228137"
+  },
+  {
+    "city": "Kabarnet",
+    "city_ascii": "Kabarnet",
+    "admin_name": "Baringo",
+    "lat": "0.4919",
+    "lng": "35.7430",
+    "id": "1404620707"
+  },
+  {
+    "city": "Migori",
+    "city_ascii": "Migori",
+    "admin_name": "Migori",
+    "lat": "-1.0634",
+    "lng": "34.4731",
+    "id": "1404478510"
+  }
+]

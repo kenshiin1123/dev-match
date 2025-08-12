@@ -1,0 +1,98 @@
+[
+  {
+    "city": "Apia",
+    "city_ascii": "Apia",
+    "admin_name": "Tuamasaga",
+    "lat": "-13.8333",
+    "lng": "-171.7500",
+    "id": "1882489296"
+  },
+  {
+    "city": "Afega",
+    "city_ascii": "Afega",
+    "admin_name": "Tuamasaga",
+    "lat": "-13.8019",
+    "lng": "-171.8217",
+    "id": "1882284139"
+  },
+  {
+    "city": "Safotu",
+    "city_ascii": "Safotu",
+    "admin_name": "Gagaifomauga",
+    "lat": "-13.4528",
+    "lng": "-172.4036",
+    "id": "1882879383"
+  },
+  {
+    "city": "Leulumoega",
+    "city_ascii": "Leulumoega",
+    "admin_name": "A‘ana",
+    "lat": "-13.8167",
+    "lng": "-171.9167",
+    "id": "1882782502"
+  },
+  {
+    "city": "Asau",
+    "city_ascii": "Asau",
+    "admin_name": "Vaisigano",
+    "lat": "-13.5194",
+    "lng": "-172.6372",
+    "id": "1882504626"
+  },
+  {
+    "city": "Lufilufi",
+    "city_ascii": "Lufilufi",
+    "admin_name": "Atua",
+    "lat": "-13.8500",
+    "lng": "-171.5833",
+    "id": "1882092632"
+  },
+  {
+    "city": "Vailoa",
+    "city_ascii": "Vailoa",
+    "admin_name": "Palauli",
+    "lat": "-13.7558",
+    "lng": "-172.3064",
+    "id": "1882047846"
+  },
+  {
+    "city": "Saleaula",
+    "city_ascii": "Saleaula",
+    "admin_name": "Gaga‘emauga",
+    "lat": "-13.4501",
+    "lng": "-172.3335",
+    "id": "1882605280"
+  },
+  {
+    "city": "Samamea",
+    "city_ascii": "Samamea",
+    "admin_name": "Va‘a-o-Fonoti",
+    "lat": "-13.9333",
+    "lng": "-171.5333",
+    "id": "1882468874"
+  },
+  {
+    "city": "Safotulafai",
+    "city_ascii": "Safotulafai",
+    "admin_name": "Fa‘asaleleaga",
+    "lat": "-13.6817",
+    "lng": "-172.1850",
+    "id": "1882524892"
+  },
+  {
+    "city": "Mulifanua",
+    "city_ascii": "Mulifanua",
+    "admin_name": "Aiga-i-le-Tai",
+    "lat": "-13.8333",
+    "lng": "-171.9833",
+    "id": "1882029963"
+  },
+  {
+    "city": "Satupa‘itea",
+    "city_ascii": "Satupa`itea",
+    "admin_name": "Satupa‘itea",
+    "lat": "-13.7659",
+    "lng": "-172.3269",
+    "id": "1882940042"
+  }
+]

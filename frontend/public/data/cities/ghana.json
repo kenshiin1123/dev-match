@@ -1,0 +1,690 @@
+[
+  {
+    "city": "Kumasi",
+    "city_ascii": "Kumasi",
+    "admin_name": "Ashanti",
+    "lat": "6.7000",
+    "lng": "-1.6250",
+    "id": "1288181103"
+  },
+  {
+    "city": "Boankra",
+    "city_ascii": "Boankra",
+    "admin_name": "Ashanti",
+    "lat": "6.6919",
+    "lng": "-1.4051",
+    "id": "1288164978"
+  },
+  {
+    "city": "Tamale",
+    "city_ascii": "Tamale",
+    "admin_name": "Northern",
+    "lat": "9.4075",
+    "lng": "-0.8533",
+    "id": "1288890688"
+  },
+  {
+    "city": "Domaa-Ahenkro",
+    "city_ascii": "Domaa-Ahenkro",
+    "admin_name": "Bono",
+    "lat": "7.2739",
+    "lng": "-2.8735",
+    "id": "1288459533"
+  },
+  {
+    "city": "Accra",
+    "city_ascii": "Accra",
+    "admin_name": "Greater Accra",
+    "lat": "5.5461",
+    "lng": "-0.2067",
+    "id": "1288299415"
+  },
+  {
+    "city": "Sunyani",
+    "city_ascii": "Sunyani",
+    "admin_name": "Bono",
+    "lat": "7.3360",
+    "lng": "-2.3360",
+    "id": "1288679588"
+  },
+  {
+    "city": "Ashaiman",
+    "city_ascii": "Ashaiman",
+    "admin_name": "Greater Accra",
+    "lat": "5.6995",
+    "lng": "-0.0348",
+    "id": "1288638865"
+  },
+  {
+    "city": "Obuase",
+    "city_ascii": "Obuase",
+    "admin_name": "Ashanti",
+    "lat": "6.2000",
+    "lng": "-1.6833",
+    "id": "1288615192"
+  },
+  {
+    "city": "Cape Coast",
+    "city_ascii": "Cape Coast",
+    "admin_name": "Central",
+    "lat": "5.1000",
+    "lng": "-1.2500",
+    "id": "1288506097"
+  },
+  {
+    "city": "Tema",
+    "city_ascii": "Tema",
+    "admin_name": "Greater Accra",
+    "lat": "5.6667",
+    "lng": "-0.0167",
+    "id": "1288205885"
+  },
+  {
+    "city": "Medina Estates",
+    "city_ascii": "Medina Estates",
+    "admin_name": "Greater Accra",
+    "lat": "5.6658",
+    "lng": "-0.1631",
+    "id": "1288850745"
+  },
+  {
+    "city": "Koforidua",
+    "city_ascii": "Koforidua",
+    "admin_name": "Eastern",
+    "lat": "6.1000",
+    "lng": "-0.2667",
+    "id": "1288961962"
+  },
+  {
+    "city": "Suhum",
+    "city_ascii": "Suhum",
+    "admin_name": "Eastern",
+    "lat": "6.0409",
+    "lng": "-0.4500",
+    "id": "1288836102"
+  },
+  {
+    "city": "Kintampo",
+    "city_ascii": "Kintampo",
+    "admin_name": "Bono East",
+    "lat": "8.0563",
+    "lng": "-1.7306",
+    "id": "1288911745"
+  },
+  {
+    "city": "Wa",
+    "city_ascii": "Wa",
+    "admin_name": "Upper West",
+    "lat": "10.0667",
+    "lng": "-2.5000",
+    "id": "1288765586"
+  },
+  {
+    "city": "Atebubu",
+    "city_ascii": "Atebubu",
+    "admin_name": "Bono East",
+    "lat": "7.7554",
+    "lng": "-0.9808",
+    "id": "1288881078"
+  },
+  {
+    "city": "Techiman",
+    "city_ascii": "Techiman",
+    "admin_name": "Bono East",
+    "lat": "7.5905",
+    "lng": "-1.9395",
+    "id": "1288222236"
+  },
+  {
+    "city": "Dzolokpuita",
+    "city_ascii": "Dzolokpuita",
+    "admin_name": "Volta",
+    "lat": "6.7847",
+    "lng": "0.4416",
+    "id": "1288118620"
+  },
+  {
+    "city": "Ho",
+    "city_ascii": "Ho",
+    "admin_name": "Volta",
+    "lat": "6.6004",
+    "lng": "0.4700",
+    "id": "1288938914"
+  },
+  {
+    "city": "Ahenkro",
+    "city_ascii": "Ahenkro",
+    "admin_name": "Oti",
+    "lat": "7.1146",
+    "lng": "0.3211",
+    "id": "1288684117"
+  },
+  {
+    "city": "Dome",
+    "city_ascii": "Dome",
+    "admin_name": "Greater Accra",
+    "lat": "5.6500",
+    "lng": "-0.2361",
+    "id": "1288419315"
+  },
+  {
+    "city": "Gbawe",
+    "city_ascii": "Gbawe",
+    "admin_name": "Greater Accra",
+    "lat": "5.5769",
+    "lng": "-0.3104",
+    "id": "1288613578"
+  },
+  {
+    "city": "Konongo",
+    "city_ascii": "Konongo",
+    "admin_name": "Ashanti",
+    "lat": "6.6167",
+    "lng": "-1.2167",
+    "id": "1288795145"
+  },
+  {
+    "city": "Ejura",
+    "city_ascii": "Ejura",
+    "admin_name": "Ashanti",
+    "lat": "7.3856",
+    "lng": "-1.3562",
+    "id": "1288797018"
+  },
+  {
+    "city": "Swedru",
+    "city_ascii": "Swedru",
+    "admin_name": "Central",
+    "lat": "5.5371",
+    "lng": "-0.6998",
+    "id": "1288165565"
+  },
+  {
+    "city": "Bolgatanga",
+    "city_ascii": "Bolgatanga",
+    "admin_name": "Upper East",
+    "lat": "10.7904",
+    "lng": "-0.8500",
+    "id": "1288943371"
+  },
+  {
+    "city": "Aflao",
+    "city_ascii": "Aflao",
+    "admin_name": "Volta",
+    "lat": "6.1468",
+    "lng": "1.1799",
+    "id": "1288563374"
+  },
+  {
+    "city": "Berekum",
+    "city_ascii": "Berekum",
+    "admin_name": "Bono",
+    "lat": "7.4504",
+    "lng": "-2.5900",
+    "id": "1288257467"
+  },
+  {
+    "city": "Nkawkaw",
+    "city_ascii": "Nkawkaw",
+    "admin_name": "Eastern",
+    "lat": "6.5505",
+    "lng": "-0.7800",
+    "id": "1288350107"
+  },
+  {
+    "city": "Bawku",
+    "city_ascii": "Bawku",
+    "admin_name": "Upper East",
+    "lat": "11.0600",
+    "lng": "-0.2422",
+    "id": "1288067377"
+  },
+  {
+    "city": "Tafo",
+    "city_ascii": "Tafo",
+    "admin_name": "Ashanti",
+    "lat": "6.7316",
+    "lng": "-1.6137",
+    "id": "1288961345"
+  },
+  {
+    "city": "Oda",
+    "city_ascii": "Oda",
+    "admin_name": "Eastern",
+    "lat": "5.9267",
+    "lng": "-0.9858",
+    "id": "1288743724"
+  },
+  {
+    "city": "Hohoe",
+    "city_ascii": "Hohoe",
+    "admin_name": "Volta",
+    "lat": "7.1490",
+    "lng": "0.4746",
+    "id": "1288897773"
+  },
+  {
+    "city": "Winneba",
+    "city_ascii": "Winneba",
+    "admin_name": "Central",
+    "lat": "5.3500",
+    "lng": "-0.6333",
+    "id": "1288886612"
+  },
+  {
+    "city": "Yendi",
+    "city_ascii": "Yendi",
+    "admin_name": "Northern",
+    "lat": "9.4337",
+    "lng": "-0.0167",
+    "id": "1288631491"
+  },
+  {
+    "city": "Bogoso",
+    "city_ascii": "Bogoso",
+    "admin_name": "Western",
+    "lat": "5.5675",
+    "lng": "-2.0137",
+    "id": "1288602735"
+  },
+  {
+    "city": "Begoro",
+    "city_ascii": "Begoro",
+    "admin_name": "Eastern",
+    "lat": "6.3871",
+    "lng": "-0.3774",
+    "id": "1288119992"
+  },
+  {
+    "city": "Nsawam",
+    "city_ascii": "Nsawam",
+    "admin_name": "Eastern",
+    "lat": "5.8089",
+    "lng": "-0.3503",
+    "id": "1288888871"
+  },
+  {
+    "city": "Mampong",
+    "city_ascii": "Mampong",
+    "admin_name": "Ashanti",
+    "lat": "7.0627",
+    "lng": "-1.4001",
+    "id": "1288185670"
+  },
+  {
+    "city": "Asamankese",
+    "city_ascii": "Asamankese",
+    "admin_name": "Eastern",
+    "lat": "5.8601",
+    "lng": "-0.6635",
+    "id": "1288419778"
+  },
+  {
+    "city": "Savelugu",
+    "city_ascii": "Savelugu",
+    "admin_name": "Northern",
+    "lat": "9.6244",
+    "lng": "-0.8253",
+    "id": "1288849459"
+  },
+  {
+    "city": "Agogo",
+    "city_ascii": "Agogo",
+    "admin_name": "Ashanti",
+    "lat": "6.8000",
+    "lng": "-1.0833",
+    "id": "1288687736"
+  },
+  {
+    "city": "Anloga",
+    "city_ascii": "Anloga",
+    "admin_name": "Volta",
+    "lat": "5.7947",
+    "lng": "0.8973",
+    "id": "1288427445"
+  },
+  {
+    "city": "Prestea",
+    "city_ascii": "Prestea",
+    "admin_name": "Western",
+    "lat": "5.4338",
+    "lng": "-2.1429",
+    "id": "1288044330"
+  },
+  {
+    "city": "Effia-Kuma",
+    "city_ascii": "Effia-Kuma",
+    "admin_name": "Western",
+    "lat": "4.9228",
+    "lng": "-1.7669",
+    "id": "1288001558"
+  },
+  {
+    "city": "Tarkwa",
+    "city_ascii": "Tarkwa",
+    "admin_name": "Western",
+    "lat": "5.3038",
+    "lng": "-1.9896",
+    "id": "1288746725"
+  },
+  {
+    "city": "Gyapekurom",
+    "city_ascii": "Gyapekurom",
+    "admin_name": "Bono",
+    "lat": "7.5833",
+    "lng": "-2.7833",
+    "id": "1288171372"
+  },
+  {
+    "city": "Elmina",
+    "city_ascii": "Elmina",
+    "admin_name": "Central",
+    "lat": "5.0898",
+    "lng": "-1.3480",
+    "id": "1288051661"
+  },
+  {
+    "city": "Kpandu",
+    "city_ascii": "Kpandu",
+    "admin_name": "Volta",
+    "lat": "6.9954",
+    "lng": "0.2931",
+    "id": "1288918364"
+  },
+  {
+    "city": "Axim",
+    "city_ascii": "Axim",
+    "admin_name": "Western",
+    "lat": "4.8667",
+    "lng": "-2.2414",
+    "id": "1288413384"
+  },
+  {
+    "city": "Duayaw-Nkwanta",
+    "city_ascii": "Duayaw-Nkwanta",
+    "admin_name": "Ahafo",
+    "lat": "7.1749",
+    "lng": "-2.0996",
+    "id": "1288805863"
+  },
+  {
+    "city": "Navrongo",
+    "city_ascii": "Navrongo",
+    "admin_name": "Upper East",
+    "lat": "10.8917",
+    "lng": "-1.0889",
+    "id": "1288024756"
+  },
+  {
+    "city": "Apam",
+    "city_ascii": "Apam",
+    "admin_name": "Central",
+    "lat": "5.2790",
+    "lng": "-0.7397",
+    "id": "1288261355"
+  },
+  {
+    "city": "Salaga",
+    "city_ascii": "Salaga",
+    "admin_name": "Savannah",
+    "lat": "8.5508",
+    "lng": "-0.5187",
+    "id": "1288387076"
+  },
+  {
+    "city": "Saltpond",
+    "city_ascii": "Saltpond",
+    "admin_name": "Central",
+    "lat": "5.2091",
+    "lng": "-1.0606",
+    "id": "1288282866"
+  },
+  {
+    "city": "Akwatia",
+    "city_ascii": "Akwatia",
+    "admin_name": "Eastern",
+    "lat": "6.0402",
+    "lng": "-0.8088",
+    "id": "1288226088"
+  },
+  {
+    "city": "Shama",
+    "city_ascii": "Shama",
+    "admin_name": "Western",
+    "lat": "5.0041",
+    "lng": "-1.6421",
+    "id": "1288704035"
+  },
+  {
+    "city": "Nyakrom",
+    "city_ascii": "Nyakrom",
+    "admin_name": "Central",
+    "lat": "5.6103",
+    "lng": "-0.7877",
+    "id": "1288290852"
+  },
+  {
+    "city": "Keta",
+    "city_ascii": "Keta",
+    "admin_name": "Volta",
+    "lat": "5.9167",
+    "lng": "0.9833",
+    "id": "1288925538"
+  },
+  {
+    "city": "Seva",
+    "city_ascii": "Seva",
+    "admin_name": "Volta",
+    "lat": "5.9167",
+    "lng": "0.9833",
+    "id": "1288737377"
+  },
+  {
+    "city": "Somanya",
+    "city_ascii": "Somanya",
+    "admin_name": "Eastern",
+    "lat": "6.1055",
+    "lng": "-0.0150",
+    "id": "1288817361"
+  },
+  {
+    "city": "Peduasi",
+    "city_ascii": "Peduasi",
+    "admin_name": "Eastern",
+    "lat": "5.8065",
+    "lng": "-0.1847",
+    "id": "1288311590"
+  },
+  {
+    "city": "Aburi",
+    "city_ascii": "Aburi",
+    "admin_name": "Eastern",
+    "lat": "5.8472",
+    "lng": "-0.1775",
+    "id": "1288664364"
+  },
+  {
+    "city": "Mumford",
+    "city_ascii": "Mumford",
+    "admin_name": "Central",
+    "lat": "5.2618",
+    "lng": "-0.7590",
+    "id": "1288614778"
+  },
+  {
+    "city": "Bechem",
+    "city_ascii": "Bechem",
+    "admin_name": "Ahafo",
+    "lat": "7.0887",
+    "lng": "-2.0271",
+    "id": "1288926942"
+  },
+  {
+    "city": "Kade",
+    "city_ascii": "Kade",
+    "admin_name": "Eastern",
+    "lat": "6.0939",
+    "lng": "-0.8360",
+    "id": "1288010670"
+  },
+  {
+    "city": "Odumase",
+    "city_ascii": "Odumase",
+    "admin_name": "Bono",
+    "lat": "7.3713",
+    "lng": "-2.3190",
+    "id": "1288366074"
+  },
+  {
+    "city": "Karaga",
+    "city_ascii": "Karaga",
+    "admin_name": "Northern",
+    "lat": "9.9250",
+    "lng": "-0.4297",
+    "id": "1288380968"
+  },
+  {
+    "city": "Nalerigu",
+    "city_ascii": "Nalerigu",
+    "admin_name": "North East",
+    "lat": "10.5273",
+    "lng": "-0.3698",
+    "id": "1288845503"
+  },
+  {
+    "city": "Anomabu",
+    "city_ascii": "Anomabu",
+    "admin_name": "Central",
+    "lat": "5.1749",
+    "lng": "-1.1214",
+    "id": "1288745249"
+  },
+  {
+    "city": "Akropong",
+    "city_ascii": "Akropong",
+    "admin_name": "Eastern",
+    "lat": "5.9746",
+    "lng": "-0.0854",
+    "id": "1288823605"
+  },
+  {
+    "city": "Diari",
+    "city_ascii": "Diari",
+    "admin_name": "Northern",
+    "lat": "9.8452",
+    "lng": "-0.8655",
+    "id": "1288997321"
+  },
+  {
+    "city": "Gumani",
+    "city_ascii": "Gumani",
+    "admin_name": "Northern",
+    "lat": "9.4500",
+    "lng": "-0.7667",
+    "id": "1288021248"
+  },
+  {
+    "city": "Kete Krachi",
+    "city_ascii": "Kete Krachi",
+    "admin_name": "Oti",
+    "lat": "7.7939",
+    "lng": "-0.0498",
+    "id": "1288185431"
+  },
+  {
+    "city": "Kibi",
+    "city_ascii": "Kibi",
+    "admin_name": "Eastern",
+    "lat": "6.1667",
+    "lng": "-0.5500",
+    "id": "1288567078"
+  },
+  {
+    "city": "Kpandae",
+    "city_ascii": "Kpandae",
+    "admin_name": "Northern",
+    "lat": "8.4688",
+    "lng": "-0.0113",
+    "id": "1288068686"
+  },
+  {
+    "city": "Mpraeso",
+    "city_ascii": "Mpraeso",
+    "admin_name": "Eastern",
+    "lat": "6.5932",
+    "lng": "-0.7346",
+    "id": "1288953417"
+  },
+  {
+    "city": "Sawla",
+    "city_ascii": "Sawla",
+    "admin_name": "Savannah",
+    "lat": "9.2729",
+    "lng": "-2.4143",
+    "id": "1288207822"
+  },
+  {
+    "city": "Akim Swedru",
+    "city_ascii": "Akim Swedru",
+    "admin_name": "Eastern",
+    "lat": "5.8938",
+    "lng": "-1.0164",
+    "id": "1288676050"
+  },
+  {
+    "city": "Aboso",
+    "city_ascii": "Aboso",
+    "admin_name": "Western",
+    "lat": "5.3607",
+    "lng": "-1.9486",
+    "id": "1288901641"
+  },
+  {
+    "city": "Chamba",
+    "city_ascii": "Chamba",
+    "admin_name": "Northern",
+    "lat": "8.7000",
+    "lng": "-0.1333",
+    "id": "1288296967"
+  },
+  {
+    "city": "Damongo",
+    "city_ascii": "Damongo",
+    "admin_name": "Savannah",
+    "lat": "9.0830",
+    "lng": "-1.8188",
+    "id": "1288827226"
+  },
+  {
+    "city": "Goaso",
+    "city_ascii": "Goaso",
+    "admin_name": "Ahafo",
+    "lat": "6.8036",
+    "lng": "-2.5172",
+    "id": "1288616024"
+  },
+  {
+    "city": "Sekondi",
+    "city_ascii": "Sekondi",
+    "admin_name": "Western",
+    "lat": "4.9433",
+    "lng": "-1.7040",
+    "id": "1288186231"
+  },
+  {
+    "city": "Dambai",
+    "city_ascii": "Dambai",
+    "admin_name": "Oti",
+    "lat": "8.0662",
+    "lng": "0.1795",
+    "id": "1288521614"
+  },
+  {
+    "city": "Sefwi Wiawso",
+    "city_ascii": "Sefwi Wiawso",
+    "admin_name": "Western North",
+    "lat": "6.2058",
+    "lng": "-2.4894",
+    "id": "1288994228"
+  }
+]

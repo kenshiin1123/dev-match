@@ -1,0 +1,986 @@
+[
+  {
+    "city": "Kinshasa",
+    "city_ascii": "Kinshasa",
+    "admin_name": "Kinshasa",
+    "lat": "-4.3219",
+    "lng": "15.3119",
+    "id": "1180000363"
+  },
+  {
+    "city": "Mbuji-Mayi",
+    "city_ascii": "Mbuji-Mayi",
+    "admin_name": "Kasaï Oriental",
+    "lat": "-6.1500",
+    "lng": "23.6000",
+    "id": "1180399586"
+  },
+  {
+    "city": "Kananga",
+    "city_ascii": "Kananga",
+    "admin_name": "Kasaï Central",
+    "lat": "-5.8970",
+    "lng": "22.4488",
+    "id": "1180172460"
+  },
+  {
+    "city": "Lubumbashi",
+    "city_ascii": "Lubumbashi",
+    "admin_name": "Haut-Katanga",
+    "lat": "-11.6647",
+    "lng": "27.4794",
+    "id": "1180506234"
+  },
+  {
+    "city": "Mbandaka",
+    "city_ascii": "Mbandaka",
+    "admin_name": "Équateur",
+    "lat": "0.0478",
+    "lng": "18.2558",
+    "id": "1180720887"
+  },
+  {
+    "city": "Bukavu",
+    "city_ascii": "Bukavu",
+    "admin_name": "Sud-Kivu",
+    "lat": "-2.5061",
+    "lng": "28.8608",
+    "id": "1180475821"
+  },
+  {
+    "city": "Kisangani",
+    "city_ascii": "Kisangani",
+    "admin_name": "Tshopo",
+    "lat": "0.5167",
+    "lng": "25.2000",
+    "id": "1180478201"
+  },
+  {
+    "city": "Tshikapa",
+    "city_ascii": "Tshikapa",
+    "admin_name": "Kasaï",
+    "lat": "-6.4167",
+    "lng": "20.8000",
+    "id": "1180581239"
+  },
+  {
+    "city": "Kibanseke Première",
+    "city_ascii": "Kibanseke Premiere",
+    "admin_name": "Kinshasa",
+    "lat": "-4.4419",
+    "lng": "15.3950",
+    "id": "1180763985"
+  },
+  {
+    "city": "Bunia",
+    "city_ascii": "Bunia",
+    "admin_name": "Ituri",
+    "lat": "1.5667",
+    "lng": "30.2500",
+    "id": "1180006418"
+  },
+  {
+    "city": "Uvira",
+    "city_ascii": "Uvira",
+    "admin_name": "Sud-Kivu",
+    "lat": "-3.4000",
+    "lng": "29.1500",
+    "id": "1180205443"
+  },
+  {
+    "city": "Kabinda",
+    "city_ascii": "Kabinda",
+    "admin_name": "Lomami",
+    "lat": "-6.1300",
+    "lng": "24.4800",
+    "id": "1180751831"
+  },
+  {
+    "city": "Likasi",
+    "city_ascii": "Likasi",
+    "admin_name": "Haut-Katanga",
+    "lat": "-10.9833",
+    "lng": "26.7333",
+    "id": "1180978192"
+  },
+  {
+    "city": "Kolwezi",
+    "city_ascii": "Kolwezi",
+    "admin_name": "Lualaba",
+    "lat": "-10.7167",
+    "lng": "25.4667",
+    "id": "1180380965"
+  },
+  {
+    "city": "Kikwit",
+    "city_ascii": "Kikwit",
+    "admin_name": "Kwilu",
+    "lat": "-5.0386",
+    "lng": "18.8181",
+    "id": "1180518247"
+  },
+  {
+    "city": "Matadi",
+    "city_ascii": "Matadi",
+    "admin_name": "Kongo Central",
+    "lat": "-5.8167",
+    "lng": "13.4833",
+    "id": "1180529604"
+  },
+  {
+    "city": "Ndjili",
+    "city_ascii": "Ndjili",
+    "admin_name": "Kinshasa",
+    "lat": "-4.4089",
+    "lng": "15.3775",
+    "id": "1180965012"
+  },
+  {
+    "city": "Kisenzi",
+    "city_ascii": "Kisenzi",
+    "admin_name": "Kinshasa",
+    "lat": "-4.4094",
+    "lng": "15.3425",
+    "id": "1180795720"
+  },
+  {
+    "city": "Goma",
+    "city_ascii": "Goma",
+    "admin_name": "Nord-Kivu",
+    "lat": "-1.6794",
+    "lng": "29.2336",
+    "id": "1180805022"
+  },
+  {
+    "city": "Beni",
+    "city_ascii": "Beni",
+    "admin_name": "Nord-Kivu",
+    "lat": "0.5000",
+    "lng": "29.4667",
+    "id": "1180325051"
+  },
+  {
+    "city": "Gbadolite",
+    "city_ascii": "Gbadolite",
+    "admin_name": "Nord-Ubangi",
+    "lat": "4.2833",
+    "lng": "21.0167",
+    "id": "1180674224"
+  },
+  {
+    "city": "Mwene-Ditu",
+    "city_ascii": "Mwene-Ditu",
+    "admin_name": "Lomami",
+    "lat": "-7.0000",
+    "lng": "23.4500",
+    "id": "1180134137"
+  },
+  {
+    "city": "Isiro",
+    "city_ascii": "Isiro",
+    "admin_name": "Haut-Uélé",
+    "lat": "2.7833",
+    "lng": "27.6167",
+    "id": "1180183850"
+  },
+  {
+    "city": "Kindu",
+    "city_ascii": "Kindu",
+    "admin_name": "Maniema",
+    "lat": "-2.9500",
+    "lng": "25.9500",
+    "id": "1180106925"
+  },
+  {
+    "city": "Boma",
+    "city_ascii": "Boma",
+    "admin_name": "Kongo Central",
+    "lat": "-5.8500",
+    "lng": "13.0500",
+    "id": "1180611452"
+  },
+  {
+    "city": "Kamina",
+    "city_ascii": "Kamina",
+    "admin_name": "Haut-Lomami",
+    "lat": "-8.7386",
+    "lng": "24.9906",
+    "id": "1180363197"
+  },
+  {
+    "city": "Butembo",
+    "city_ascii": "Butembo",
+    "admin_name": "Nord-Kivu",
+    "lat": "0.1500",
+    "lng": "29.2833",
+    "id": "1180446432"
+  },
+  {
+    "city": "Moanda",
+    "city_ascii": "Moanda",
+    "admin_name": "Kongo Central",
+    "lat": "-5.9342",
+    "lng": "12.3494",
+    "id": "1180108441"
+  },
+  {
+    "city": "Kalemie",
+    "city_ascii": "Kalemie",
+    "admin_name": "Tanganyika",
+    "lat": "-5.9128",
+    "lng": "29.1906",
+    "id": "1180574233"
+  },
+  {
+    "city": "Wamba",
+    "city_ascii": "Wamba",
+    "admin_name": "Haut-Uélé",
+    "lat": "2.1442",
+    "lng": "27.9929",
+    "id": "1180866253"
+  },
+  {
+    "city": "Gandajika",
+    "city_ascii": "Gandajika",
+    "admin_name": "Lomami",
+    "lat": "-6.7500",
+    "lng": "23.9667",
+    "id": "1180466776"
+  },
+  {
+    "city": "Bandundu",
+    "city_ascii": "Bandundu",
+    "admin_name": "Kwilu",
+    "lat": "-3.3167",
+    "lng": "17.3667",
+    "id": "1180219776"
+  },
+  {
+    "city": "Nsele",
+    "city_ascii": "Nsele",
+    "admin_name": "Kinshasa",
+    "lat": "-4.3744",
+    "lng": "15.4947",
+    "id": "1180786924"
+  },
+  {
+    "city": "Gemena",
+    "city_ascii": "Gemena",
+    "admin_name": "Sud-Ubangi",
+    "lat": "3.2500",
+    "lng": "19.7667",
+    "id": "1180000163"
+  },
+  {
+    "city": "Kipushi",
+    "city_ascii": "Kipushi",
+    "admin_name": "Haut-Katanga",
+    "lat": "-11.7625",
+    "lng": "27.2500",
+    "id": "1180810333"
+  },
+  {
+    "city": "Baraka",
+    "city_ascii": "Baraka",
+    "admin_name": "Sud-Kivu",
+    "lat": "-4.1041",
+    "lng": "29.0940",
+    "id": "1180665112"
+  },
+  {
+    "city": "Ilebo",
+    "city_ascii": "Ilebo",
+    "admin_name": "Kasaï",
+    "lat": "-4.3167",
+    "lng": "20.6000",
+    "id": "1180788280"
+  },
+  {
+    "city": "Kongolo",
+    "city_ascii": "Kongolo",
+    "admin_name": "Tanganyika",
+    "lat": "-5.4000",
+    "lng": "27.0000",
+    "id": "1180814807"
+  },
+  {
+    "city": "Bumba",
+    "city_ascii": "Bumba",
+    "admin_name": "Mongala",
+    "lat": "2.1844",
+    "lng": "22.4703",
+    "id": "1180549980"
+  },
+  {
+    "city": "Mbanza-Ngungu",
+    "city_ascii": "Mbanza-Ngungu",
+    "admin_name": "Kongo Central",
+    "lat": "-5.2500",
+    "lng": "14.8667",
+    "id": "1180474388"
+  },
+  {
+    "city": "Lingwala",
+    "city_ascii": "Lingwala",
+    "admin_name": "Kinshasa",
+    "lat": "-4.3203",
+    "lng": "15.2983",
+    "id": "1180733209"
+  },
+  {
+    "city": "Luvungi",
+    "city_ascii": "Luvungi",
+    "admin_name": "Sud-Kivu",
+    "lat": "-2.8600",
+    "lng": "29.0300",
+    "id": "1180967802"
+  },
+  {
+    "city": "Tshilenge",
+    "city_ascii": "Tshilenge",
+    "admin_name": "Kasaï Oriental",
+    "lat": "-6.2500",
+    "lng": "23.7667",
+    "id": "1180504718"
+  },
+  {
+    "city": "Lisala",
+    "city_ascii": "Lisala",
+    "admin_name": "Mongala",
+    "lat": "2.1486",
+    "lng": "21.5136",
+    "id": "1180477995"
+  },
+  {
+    "city": "Lodja",
+    "city_ascii": "Lodja",
+    "admin_name": "Sankuru",
+    "lat": "-3.5242",
+    "lng": "23.5964",
+    "id": "1180001261"
+  },
+  {
+    "city": "Kanyobagonga",
+    "city_ascii": "Kanyobagonga",
+    "admin_name": "Nord-Kivu",
+    "lat": "-0.7020",
+    "lng": "29.1726",
+    "id": "1180879458"
+  },
+  {
+    "city": "Binga",
+    "city_ascii": "Binga",
+    "admin_name": "Mongala",
+    "lat": "2.4000",
+    "lng": "20.4200",
+    "id": "1180236070"
+  },
+  {
+    "city": "Kasongo",
+    "city_ascii": "Kasongo",
+    "admin_name": "Maniema",
+    "lat": "-4.4500",
+    "lng": "26.6500",
+    "id": "1180000473"
+  },
+  {
+    "city": "Idiofa",
+    "city_ascii": "Idiofa",
+    "admin_name": "Kwilu",
+    "lat": "-4.9668",
+    "lng": "19.5910",
+    "id": "1180986517"
+  },
+  {
+    "city": "Bakwa-Kalonji",
+    "city_ascii": "Bakwa-Kalonji",
+    "admin_name": "Kasaï",
+    "lat": "-4.3500",
+    "lng": "20.7200",
+    "id": "1180566859"
+  },
+  {
+    "city": "Bulungu",
+    "city_ascii": "Bulungu",
+    "admin_name": "Kwilu",
+    "lat": "-4.5500",
+    "lng": "18.6000",
+    "id": "1180342743"
+  },
+  {
+    "city": "Buta",
+    "city_ascii": "Buta",
+    "admin_name": "Bas-Uélé",
+    "lat": "2.8000",
+    "lng": "24.7333",
+    "id": "1180712204"
+  },
+  {
+    "city": "Mbulungu",
+    "city_ascii": "Mbulungu",
+    "admin_name": "Kasaï Central",
+    "lat": "-6.0667",
+    "lng": "21.9000",
+    "id": "1180152255"
+  },
+  {
+    "city": "Zongo",
+    "city_ascii": "Zongo",
+    "admin_name": "Sud-Ubangi",
+    "lat": "4.3433",
+    "lng": "18.5928",
+    "id": "1180165321"
+  },
+  {
+    "city": "Hyosha",
+    "city_ascii": "Hyosha",
+    "admin_name": "Nord-Kivu",
+    "lat": "0.6975",
+    "lng": "29.5197",
+    "id": "1180671131"
+  },
+  {
+    "city": "Dungu",
+    "city_ascii": "Dungu",
+    "admin_name": "Haut-Uélé",
+    "lat": "3.6167",
+    "lng": "28.5667",
+    "id": "1180164137"
+  },
+  {
+    "city": "Mulongo",
+    "city_ascii": "Mulongo",
+    "admin_name": "Haut-Lomami",
+    "lat": "-7.8333",
+    "lng": "27.0000",
+    "id": "1180171787"
+  },
+  {
+    "city": "Mweka",
+    "city_ascii": "Mweka",
+    "admin_name": "Kasaï",
+    "lat": "-4.8500",
+    "lng": "21.5667",
+    "id": "1180140663"
+  },
+  {
+    "city": "Kahemba",
+    "city_ascii": "Kahemba",
+    "admin_name": "Kwango",
+    "lat": "-7.2829",
+    "lng": "19.0000",
+    "id": "1180689417"
+  },
+  {
+    "city": "Kalima",
+    "city_ascii": "Kalima",
+    "admin_name": "Maniema",
+    "lat": "-2.5667",
+    "lng": "26.6167",
+    "id": "1180335450"
+  },
+  {
+    "city": "Basoko",
+    "city_ascii": "Basoko",
+    "admin_name": "Tshopo",
+    "lat": "1.2333",
+    "lng": "23.6000",
+    "id": "1180509801"
+  },
+  {
+    "city": "Kasumbalesa",
+    "city_ascii": "Kasumbalesa",
+    "admin_name": "Haut-Katanga",
+    "lat": "-12.2564",
+    "lng": "27.8028",
+    "id": "1180637799"
+  },
+  {
+    "city": "Manono",
+    "city_ascii": "Manono",
+    "admin_name": "Tanganyika",
+    "lat": "-7.2947",
+    "lng": "27.4545",
+    "id": "1180968800"
+  },
+  {
+    "city": "Inongo",
+    "city_ascii": "Inongo",
+    "admin_name": "Mai-Ndombe",
+    "lat": "-1.9500",
+    "lng": "18.2667",
+    "id": "1180194164"
+  },
+  {
+    "city": "Kenge",
+    "city_ascii": "Kenge",
+    "admin_name": "Kwango",
+    "lat": "-4.8056",
+    "lng": "17.0417",
+    "id": "1180158365"
+  },
+  {
+    "city": "Lubao",
+    "city_ascii": "Lubao",
+    "admin_name": "Lomami",
+    "lat": "-5.3850",
+    "lng": "25.7450",
+    "id": "1180891619"
+  },
+  {
+    "city": "Bukama",
+    "city_ascii": "Bukama",
+    "admin_name": "Haut-Lomami",
+    "lat": "-9.2000",
+    "lng": "25.8333",
+    "id": "1180047354"
+  },
+  {
+    "city": "Nyunzu",
+    "city_ascii": "Nyunzu",
+    "admin_name": "Tanganyika",
+    "lat": "-5.9500",
+    "lng": "28.0333",
+    "id": "1180921995"
+  },
+  {
+    "city": "Lusambo",
+    "city_ascii": "Lusambo",
+    "admin_name": "Sankuru",
+    "lat": "-4.9729",
+    "lng": "23.4368",
+    "id": "1180127290"
+  },
+  {
+    "city": "Luebo",
+    "city_ascii": "Luebo",
+    "admin_name": "Kasaï",
+    "lat": "-5.3500",
+    "lng": "21.4167",
+    "id": "1180012250"
+  },
+  {
+    "city": "Dibaya-Lubwe",
+    "city_ascii": "Dibaya-Lubwe",
+    "admin_name": "Kwilu",
+    "lat": "-4.1500",
+    "lng": "19.8667",
+    "id": "1180208280"
+  },
+  {
+    "city": "Tshela",
+    "city_ascii": "Tshela",
+    "admin_name": "Kongo Central",
+    "lat": "-4.9667",
+    "lng": "12.9333",
+    "id": "1180377922"
+  },
+  {
+    "city": "Aketi",
+    "city_ascii": "Aketi",
+    "admin_name": "Bas-Uélé",
+    "lat": "2.7333",
+    "lng": "23.7500",
+    "id": "1180273302"
+  },
+  {
+    "city": "Mangai",
+    "city_ascii": "Mangai",
+    "admin_name": "Kwilu",
+    "lat": "-4.0499",
+    "lng": "19.5333",
+    "id": "1180224936"
+  },
+  {
+    "city": "Kampene",
+    "city_ascii": "Kampene",
+    "admin_name": "Maniema",
+    "lat": "-3.5968",
+    "lng": "26.6658",
+    "id": "1180064621"
+  },
+  {
+    "city": "Kambove",
+    "city_ascii": "Kambove",
+    "admin_name": "Haut-Katanga",
+    "lat": "-10.8764",
+    "lng": "26.5969",
+    "id": "1180986023"
+  },
+  {
+    "city": "Kaniama",
+    "city_ascii": "Kaniama",
+    "admin_name": "Haut-Lomami",
+    "lat": "-7.5696",
+    "lng": "24.1700",
+    "id": "1180770775"
+  },
+  {
+    "city": "Boende",
+    "city_ascii": "Boende",
+    "admin_name": "Tshuapa",
+    "lat": "-0.2810",
+    "lng": "20.8760",
+    "id": "1180688906"
+  },
+  {
+    "city": "Yangambi",
+    "city_ascii": "Yangambi",
+    "admin_name": "Tshopo",
+    "lat": "0.7675",
+    "lng": "24.4414",
+    "id": "1180077706"
+  },
+  {
+    "city": "Fungurume",
+    "city_ascii": "Fungurume",
+    "admin_name": "Lualaba",
+    "lat": "-10.6167",
+    "lng": "26.3000",
+    "id": "1180430603"
+  },
+  {
+    "city": "Mushie",
+    "city_ascii": "Mushie",
+    "admin_name": "Mai-Ndombe",
+    "lat": "-3.0167",
+    "lng": "16.9167",
+    "id": "1180240809"
+  },
+  {
+    "city": "Businga",
+    "city_ascii": "Businga",
+    "admin_name": "Nord-Ubangi",
+    "lat": "3.3397",
+    "lng": "20.8700",
+    "id": "1180719970"
+  },
+  {
+    "city": "Masi-Manimba",
+    "city_ascii": "Masi-Manimba",
+    "admin_name": "Kwilu",
+    "lat": "-4.7790",
+    "lng": "17.9077",
+    "id": "1180044488"
+  },
+  {
+    "city": "Bolobo",
+    "city_ascii": "Bolobo",
+    "admin_name": "Mai-Ndombe",
+    "lat": "-2.1667",
+    "lng": "16.2333",
+    "id": "1180723089"
+  },
+  {
+    "city": "Kabalo",
+    "city_ascii": "Kabalo",
+    "admin_name": "Tanganyika",
+    "lat": "-6.0500",
+    "lng": "26.9167",
+    "id": "1180905835"
+  },
+  {
+    "city": "Djugu",
+    "city_ascii": "Djugu",
+    "admin_name": "Ituri",
+    "lat": "1.9184",
+    "lng": "30.5019",
+    "id": "1180240354"
+  },
+  {
+    "city": "Kasangulu",
+    "city_ascii": "Kasangulu",
+    "admin_name": "Kongo Central",
+    "lat": "-4.5911",
+    "lng": "15.1703",
+    "id": "1180582533"
+  },
+  {
+    "city": "Libenge",
+    "city_ascii": "Libenge",
+    "admin_name": "Sud-Ubangi",
+    "lat": "3.6508",
+    "lng": "18.6375",
+    "id": "1180325896"
+  },
+  {
+    "city": "Lukula",
+    "city_ascii": "Lukula",
+    "admin_name": "Kongo Central",
+    "lat": "-5.4000",
+    "lng": "12.9333",
+    "id": "1180668976"
+  },
+  {
+    "city": "Aru",
+    "city_ascii": "Aru",
+    "admin_name": "Ituri",
+    "lat": "2.8617",
+    "lng": "30.8333",
+    "id": "1180698715"
+  },
+  {
+    "city": "Demba",
+    "city_ascii": "Demba",
+    "admin_name": "Kasaï Central",
+    "lat": "-5.5000",
+    "lng": "22.2667",
+    "id": "1180021198"
+  },
+  {
+    "city": "Drodro",
+    "city_ascii": "Drodro",
+    "admin_name": "Ituri",
+    "lat": "1.7667",
+    "lng": "30.5333",
+    "id": "1180800758"
+  },
+  {
+    "city": "Pepa",
+    "city_ascii": "Pepa",
+    "admin_name": "Tanganyika",
+    "lat": "-7.7106",
+    "lng": "29.7760",
+    "id": "1180195737"
+  },
+  {
+    "city": "Pweto",
+    "city_ascii": "Pweto",
+    "admin_name": "Haut-Katanga",
+    "lat": "-8.4667",
+    "lng": "28.9000",
+    "id": "1180628499"
+  },
+  {
+    "city": "Watsa",
+    "city_ascii": "Watsa",
+    "admin_name": "Haut-Uélé",
+    "lat": "3.0372",
+    "lng": "29.5355",
+    "id": "1180367451"
+  },
+  {
+    "city": "Gungu",
+    "city_ascii": "Gungu",
+    "admin_name": "Kwilu",
+    "lat": "-5.7333",
+    "lng": "19.3167",
+    "id": "1180524206"
+  },
+  {
+    "city": "Kasongo-Lunda",
+    "city_ascii": "Kasongo-Lunda",
+    "admin_name": "Kwango",
+    "lat": "-6.4783",
+    "lng": "16.8166",
+    "id": "1180706751"
+  },
+  {
+    "city": "Basankusu",
+    "city_ascii": "Basankusu",
+    "admin_name": "Équateur",
+    "lat": "1.2222",
+    "lng": "19.8028",
+    "id": "1180515335"
+  },
+  {
+    "city": "Oshwe",
+    "city_ascii": "Oshwe",
+    "admin_name": "Mai-Ndombe",
+    "lat": "-3.4188",
+    "lng": "19.4334",
+    "id": "1180864578"
+  },
+  {
+    "city": "Bondo",
+    "city_ascii": "Bondo",
+    "admin_name": "Bas-Uélé",
+    "lat": "3.8167",
+    "lng": "23.6833",
+    "id": "1180786691"
+  },
+  {
+    "city": "Kinzau-Vuete",
+    "city_ascii": "Kinzau-Vuete",
+    "admin_name": "Kongo Central",
+    "lat": "-5.4967",
+    "lng": "13.2893",
+    "id": "1180000185"
+  },
+  {
+    "city": "Doruma",
+    "city_ascii": "Doruma",
+    "admin_name": "Haut-Uélé",
+    "lat": "4.7333",
+    "lng": "27.7000",
+    "id": "1180085699"
+  },
+  {
+    "city": "Sake",
+    "city_ascii": "Sake",
+    "admin_name": "Nord-Kivu",
+    "lat": "-1.5741",
+    "lng": "29.0413",
+    "id": "1180647480"
+  },
+  {
+    "city": "Bosobolo",
+    "city_ascii": "Bosobolo",
+    "admin_name": "Nord-Ubangi",
+    "lat": "4.1833",
+    "lng": "19.9000",
+    "id": "1180318544"
+  },
+  {
+    "city": "Kiri",
+    "city_ascii": "Kiri",
+    "admin_name": "Mai-Ndombe",
+    "lat": "-1.4955",
+    "lng": "18.9277",
+    "id": "1180133436"
+  },
+  {
+    "city": "Kamituga",
+    "city_ascii": "Kamituga",
+    "admin_name": "Sud-Kivu",
+    "lat": "-3.0600",
+    "lng": "28.1800",
+    "id": "1180593231"
+  },
+  {
+    "city": "Luozi",
+    "city_ascii": "Luozi",
+    "admin_name": "Kongo Central",
+    "lat": "-4.9480",
+    "lng": "14.1330",
+    "id": "1180949635"
+  },
+  {
+    "city": "Yakoma",
+    "city_ascii": "Yakoma",
+    "admin_name": "Nord-Ubangi",
+    "lat": "4.0982",
+    "lng": "22.4432",
+    "id": "1180632342"
+  },
+  {
+    "city": "Kasaji",
+    "city_ascii": "Kasaji",
+    "admin_name": "Lualaba",
+    "lat": "-10.3662",
+    "lng": "23.4500",
+    "id": "1180795640"
+  },
+  {
+    "city": "Poko",
+    "city_ascii": "Poko",
+    "admin_name": "Bas-Uélé",
+    "lat": "3.1500",
+    "lng": "26.8833",
+    "id": "1180049667"
+  },
+  {
+    "city": "Kimpese",
+    "city_ascii": "Kimpese",
+    "admin_name": "Kongo Central",
+    "lat": "-5.5631",
+    "lng": "14.4458",
+    "id": "1180273961"
+  },
+  {
+    "city": "Moba",
+    "city_ascii": "Moba",
+    "admin_name": "Tanganyika",
+    "lat": "-7.0398",
+    "lng": "29.7661",
+    "id": "1180776583"
+  },
+  {
+    "city": "Dilolo",
+    "city_ascii": "Dilolo",
+    "admin_name": "Lualaba",
+    "lat": "-10.4667",
+    "lng": "22.4667",
+    "id": "1180154207"
+  },
+  {
+    "city": "Bongandanga",
+    "city_ascii": "Bongandanga",
+    "admin_name": "Mongala",
+    "lat": "1.5100",
+    "lng": "21.0500",
+    "id": "1180746434"
+  },
+  {
+    "city": "Mangbwalu",
+    "city_ascii": "Mangbwalu",
+    "admin_name": "Ituri",
+    "lat": "1.9352",
+    "lng": "30.0462",
+    "id": "1180299514"
+  },
+  {
+    "city": "Mwenga",
+    "city_ascii": "Mwenga",
+    "admin_name": "Sud-Kivu",
+    "lat": "-3.0382",
+    "lng": "28.4325",
+    "id": "1180606289"
+  },
+  {
+    "city": "Lubutu",
+    "city_ascii": "Lubutu",
+    "admin_name": "Maniema",
+    "lat": "-0.7431",
+    "lng": "26.5833",
+    "id": "1180330836"
+  },
+  {
+    "city": "Buluko",
+    "city_ascii": "Buluko",
+    "admin_name": "Nord-Kivu",
+    "lat": "-0.7570",
+    "lng": "28.5280",
+    "id": "1180000569"
+  },
+  {
+    "city": "Luanza",
+    "city_ascii": "Luanza",
+    "admin_name": "Haut-Katanga",
+    "lat": "-8.6996",
+    "lng": "28.7000",
+    "id": "1180293709"
+  },
+  {
+    "city": "Dibaya",
+    "city_ascii": "Dibaya",
+    "admin_name": "Kasaï Central",
+    "lat": "-6.5095",
+    "lng": "22.8700",
+    "id": "1180985189"
+  },
+  {
+    "city": "Ikela",
+    "city_ascii": "Ikela",
+    "admin_name": "Tshuapa",
+    "lat": "-1.1833",
+    "lng": "23.2667",
+    "id": "1180365335"
+  },
+  {
+    "city": "Lusanga",
+    "city_ascii": "Lusanga",
+    "admin_name": "Kwango",
+    "lat": "-5.5808",
+    "lng": "16.5143",
+    "id": "1180423801"
+  },
+  {
+    "city": "Bafwasende",
+    "city_ascii": "Bafwasende",
+    "admin_name": "Tshopo",
+    "lat": "1.0103",
+    "lng": "27.1617",
+    "id": "1180841746"
+  }
+]

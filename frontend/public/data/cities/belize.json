@@ -1,0 +1,66 @@
+[
+  {
+    "city": "Belize City",
+    "city_ascii": "Belize City",
+    "admin_name": "Belize",
+    "lat": "17.4986",
+    "lng": "-88.1886",
+    "id": "1084150679"
+  },
+  {
+    "city": "San Ignacio",
+    "city_ascii": "San Ignacio",
+    "admin_name": "Cayo",
+    "lat": "17.1588",
+    "lng": "-89.0696",
+    "id": "1084924884"
+  },
+  {
+    "city": "Orange Walk",
+    "city_ascii": "Orange Walk",
+    "admin_name": "Orange Walk",
+    "lat": "18.0750",
+    "lng": "-88.5583",
+    "id": "1084547220"
+  },
+  {
+    "city": "Corozal",
+    "city_ascii": "Corozal",
+    "admin_name": "Corozal",
+    "lat": "18.4000",
+    "lng": "-88.4000",
+    "id": "1084938400"
+  },
+  {
+    "city": "San Pedro",
+    "city_ascii": "San Pedro",
+    "admin_name": "Belize",
+    "lat": "17.9214",
+    "lng": "-87.9611",
+    "id": "1084929106"
+  },
+  {
+    "city": "Dangriga",
+    "city_ascii": "Dangriga",
+    "admin_name": "Stann Creek",
+    "lat": "16.9667",
+    "lng": "-88.2167",
+    "id": "1084718311"
+  },
+  {
+    "city": "Punta Gorda",
+    "city_ascii": "Punta Gorda",
+    "admin_name": "Toledo",
+    "lat": "16.1000",
+    "lng": "-88.8000",
+    "id": "1084536442"
+  },
+  {
+    "city": "Belmopan",
+    "city_ascii": "Belmopan",
+    "admin_name": "Cayo",
+    "lat": "17.2522",
+    "lng": "-88.7639",
+    "id": "1084586375"
+  }
+]

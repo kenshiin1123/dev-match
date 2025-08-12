@@ -1,0 +1,490 @@
+[
+  {
+    "city": "Vilnius",
+    "city_ascii": "Vilnius",
+    "admin_name": "Vilniaus Miestas",
+    "lat": "54.6872",
+    "lng": "25.2800",
+    "id": "1440887149"
+  },
+  {
+    "city": "Kaunas",
+    "city_ascii": "Kaunas",
+    "admin_name": "Kauno Miestas",
+    "lat": "54.9000",
+    "lng": "23.9333",
+    "id": "1440302852"
+  },
+  {
+    "city": "Klaipėda",
+    "city_ascii": "Klaipeda",
+    "admin_name": "Klaipėdos Miestas",
+    "lat": "55.7125",
+    "lng": "21.1350",
+    "id": "1440897790"
+  },
+  {
+    "city": "Šiauliai",
+    "city_ascii": "Siauliai",
+    "admin_name": "Šiaulių Miestas",
+    "lat": "55.9281",
+    "lng": "23.3167",
+    "id": "1440593416"
+  },
+  {
+    "city": "Panevėžys",
+    "city_ascii": "Panevezys",
+    "admin_name": "Panevėžio Miestas",
+    "lat": "55.7250",
+    "lng": "24.3639",
+    "id": "1440120065"
+  },
+  {
+    "city": "Alytus",
+    "city_ascii": "Alytus",
+    "admin_name": "Alytaus Miestas",
+    "lat": "54.4000",
+    "lng": "24.0500",
+    "id": "1440273296"
+  },
+  {
+    "city": "Marijampolė",
+    "city_ascii": "Marijampole",
+    "admin_name": "Marijampolė",
+    "lat": "54.5567",
+    "lng": "23.3544",
+    "id": "1440180524"
+  },
+  {
+    "city": "Mažeikiai",
+    "city_ascii": "Mazeikiai",
+    "admin_name": "Mažeikiai",
+    "lat": "56.3167",
+    "lng": "22.3333",
+    "id": "1440746512"
+  },
+  {
+    "city": "Jonava",
+    "city_ascii": "Jonava",
+    "admin_name": "Jonava",
+    "lat": "55.0722",
+    "lng": "24.2806",
+    "id": "1440040612"
+  },
+  {
+    "city": "Utena",
+    "city_ascii": "Utena",
+    "admin_name": "Utena",
+    "lat": "55.5000",
+    "lng": "25.6000",
+    "id": "1440298742"
+  },
+  {
+    "city": "Kėdainiai",
+    "city_ascii": "Kedainiai",
+    "admin_name": "Kėdainiai",
+    "lat": "55.2833",
+    "lng": "23.9667",
+    "id": "1440351434"
+  },
+  {
+    "city": "Telšiai",
+    "city_ascii": "Telsiai",
+    "admin_name": "Telšiai",
+    "lat": "55.9833",
+    "lng": "22.2500",
+    "id": "1440908000"
+  },
+  {
+    "city": "Tauragė",
+    "city_ascii": "Taurage",
+    "admin_name": "Tauragė",
+    "lat": "55.2522",
+    "lng": "22.2897",
+    "id": "1440115384"
+  },
+  {
+    "city": "Ukmergė",
+    "city_ascii": "Ukmerge",
+    "admin_name": "Ukmergė",
+    "lat": "55.2500",
+    "lng": "24.7667",
+    "id": "1440784663"
+  },
+  {
+    "city": "Visaginas",
+    "city_ascii": "Visaginas",
+    "admin_name": "Visaginas",
+    "lat": "55.6000",
+    "lng": "26.4333",
+    "id": "1440984232"
+  },
+  {
+    "city": "Palanga",
+    "city_ascii": "Palanga",
+    "admin_name": "Palangos Miestas",
+    "lat": "55.9167",
+    "lng": "21.0667",
+    "id": "1440868798"
+  },
+  {
+    "city": "Plungė",
+    "city_ascii": "Plunge",
+    "admin_name": "Plungė",
+    "lat": "55.9167",
+    "lng": "21.8500",
+    "id": "1440542185"
+  },
+  {
+    "city": "Kretinga",
+    "city_ascii": "Kretinga",
+    "admin_name": "Kretinga",
+    "lat": "55.8900",
+    "lng": "21.2422",
+    "id": "1440720895"
+  },
+  {
+    "city": "Šilutė",
+    "city_ascii": "Silute",
+    "admin_name": "Šilutė",
+    "lat": "55.3500",
+    "lng": "21.4833",
+    "id": "1440568024"
+  },
+  {
+    "city": "Gargždai",
+    "city_ascii": "Gargzdai",
+    "admin_name": "Klaipėda",
+    "lat": "55.7128",
+    "lng": "21.4033",
+    "id": "1440368270"
+  },
+  {
+    "city": "Radviliškis",
+    "city_ascii": "Radviliskis",
+    "admin_name": "Radviliškis",
+    "lat": "55.8000",
+    "lng": "23.5500",
+    "id": "1440712589"
+  },
+  {
+    "city": "Druskininkai",
+    "city_ascii": "Druskininkai",
+    "admin_name": "Druskininkai",
+    "lat": "54.0206",
+    "lng": "23.9725",
+    "id": "1440489111"
+  },
+  {
+    "city": "Elektrėnai",
+    "city_ascii": "Elektrenai",
+    "admin_name": "Elektrénai",
+    "lat": "54.7886",
+    "lng": "24.6612",
+    "id": "1440272776"
+  },
+  {
+    "city": "Rokiškis",
+    "city_ascii": "Rokiskis",
+    "admin_name": "Rokiškis",
+    "lat": "55.9667",
+    "lng": "25.5833",
+    "id": "1440918695"
+  },
+  {
+    "city": "Aukštieji Paneriai",
+    "city_ascii": "Aukstieji Paneriai",
+    "admin_name": "Vilniaus Miestas",
+    "lat": "54.6262",
+    "lng": "25.1810",
+    "id": "1440349529"
+  },
+  {
+    "city": "Kuršėnai",
+    "city_ascii": "Kursenai",
+    "admin_name": "Šiauliai",
+    "lat": "56.0000",
+    "lng": "22.9333",
+    "id": "1440741018"
+  },
+  {
+    "city": "Jurbarkas",
+    "city_ascii": "Jurbarkas",
+    "admin_name": "Jurbarkas",
+    "lat": "55.0833",
+    "lng": "22.7667",
+    "id": "1440845969"
+  },
+  {
+    "city": "Likiškiai",
+    "city_ascii": "Likiskiai",
+    "admin_name": "Alytus",
+    "lat": "54.4000",
+    "lng": "23.9810",
+    "id": "1440824158"
+  },
+  {
+    "city": "Biržai",
+    "city_ascii": "Birzai",
+    "admin_name": "Biržai",
+    "lat": "56.2000",
+    "lng": "24.7500",
+    "id": "1440132489"
+  },
+  {
+    "city": "Vilkaviškis",
+    "city_ascii": "Vilkaviskis",
+    "admin_name": "Vilkaviškis",
+    "lat": "54.6667",
+    "lng": "23.0333",
+    "id": "1440557692"
+  },
+  {
+    "city": "Garliava",
+    "city_ascii": "Garliava",
+    "admin_name": "Kaunas",
+    "lat": "54.8167",
+    "lng": "23.8667",
+    "id": "1440296799"
+  },
+  {
+    "city": "Grigiškės",
+    "city_ascii": "Grigiskes",
+    "admin_name": "Vilniaus Miestas",
+    "lat": "54.6694",
+    "lng": "25.0917",
+    "id": "1440322258"
+  },
+  {
+    "city": "Raseiniai",
+    "city_ascii": "Raseiniai",
+    "admin_name": "Raseiniai",
+    "lat": "55.3797",
+    "lng": "23.1239",
+    "id": "1440481520"
+  },
+  {
+    "city": "Lentvaris",
+    "city_ascii": "Lentvaris",
+    "admin_name": "Trakai",
+    "lat": "54.6333",
+    "lng": "25.0500",
+    "id": "1440638790"
+  },
+  {
+    "city": "Prienai",
+    "city_ascii": "Prienai",
+    "admin_name": "Prienai",
+    "lat": "54.6333",
+    "lng": "23.9500",
+    "id": "1440412268"
+  },
+  {
+    "city": "Anykščiai",
+    "city_ascii": "Anyksciai",
+    "admin_name": "Anykščiai",
+    "lat": "55.5344",
+    "lng": "25.1072",
+    "id": "1440174702"
+  },
+  {
+    "city": "Joniškis",
+    "city_ascii": "Joniskis",
+    "admin_name": "Joniškis",
+    "lat": "56.2333",
+    "lng": "23.6167",
+    "id": "1440592411"
+  },
+  {
+    "city": "Kaišiadorys",
+    "city_ascii": "Kaisiadorys",
+    "admin_name": "Kaišiadorys",
+    "lat": "54.8653",
+    "lng": "24.4682",
+    "id": "1440257941"
+  },
+  {
+    "city": "Naujoji Akmenė",
+    "city_ascii": "Naujoji Akmene",
+    "admin_name": "Akmenė",
+    "lat": "56.3167",
+    "lng": "22.8833",
+    "id": "1440899932"
+  },
+  {
+    "city": "Varėna",
+    "city_ascii": "Varena",
+    "admin_name": "Varėna",
+    "lat": "54.2167",
+    "lng": "24.5667",
+    "id": "1440933251"
+  },
+  {
+    "city": "Kelmė",
+    "city_ascii": "Kelme",
+    "admin_name": "Kelmė",
+    "lat": "55.6333",
+    "lng": "22.9333",
+    "id": "1440476751"
+  },
+  {
+    "city": "Šalčininkai",
+    "city_ascii": "Salcininkai",
+    "admin_name": "Šalčininkai",
+    "lat": "54.3111",
+    "lng": "25.3806",
+    "id": "1440401402"
+  },
+  {
+    "city": "Pasvalys",
+    "city_ascii": "Pasvalys",
+    "admin_name": "Pasvalys",
+    "lat": "56.0611",
+    "lng": "24.4000",
+    "id": "1440957197"
+  },
+  {
+    "city": "Kupiškis",
+    "city_ascii": "Kupiskis",
+    "admin_name": "Kupiškis",
+    "lat": "55.8333",
+    "lng": "24.9667",
+    "id": "1440122297"
+  },
+  {
+    "city": "Zarasai",
+    "city_ascii": "Zarasai",
+    "admin_name": "Zarasai",
+    "lat": "55.7306",
+    "lng": "26.2472",
+    "id": "1440450872"
+  },
+  {
+    "city": "Trakai",
+    "city_ascii": "Trakai",
+    "admin_name": "Trakai",
+    "lat": "54.6333",
+    "lng": "24.9333",
+    "id": "1440324561"
+  },
+  {
+    "city": "Širvintos",
+    "city_ascii": "Sirvintos",
+    "admin_name": "Širvintos",
+    "lat": "55.0500",
+    "lng": "24.9500",
+    "id": "1440054141"
+  },
+  {
+    "city": "Molėtai",
+    "city_ascii": "Moletai",
+    "admin_name": "Molėtai",
+    "lat": "55.2333",
+    "lng": "25.4167",
+    "id": "1440110307"
+  },
+  {
+    "city": "Kazlų Rūda",
+    "city_ascii": "Kazlu Ruda",
+    "admin_name": "Kazlų Rūdos",
+    "lat": "54.7492",
+    "lng": "23.4865",
+    "id": "1440371651"
+  },
+  {
+    "city": "Šakiai",
+    "city_ascii": "Sakiai",
+    "admin_name": "Šakiai",
+    "lat": "54.9556",
+    "lng": "23.0444",
+    "id": "1440362808"
+  },
+  {
+    "city": "Skuodas",
+    "city_ascii": "Skuodas",
+    "admin_name": "Skuodas",
+    "lat": "56.2667",
+    "lng": "21.5333",
+    "id": "1440264405"
+  },
+  {
+    "city": "Ignalina",
+    "city_ascii": "Ignalina",
+    "admin_name": "Ignalina",
+    "lat": "55.3406",
+    "lng": "26.1605",
+    "id": "1440789779"
+  },
+  {
+    "city": "Šilalė",
+    "city_ascii": "Silale",
+    "admin_name": "Šilalė",
+    "lat": "55.4833",
+    "lng": "22.1833",
+    "id": "1440106904"
+  },
+  {
+    "city": "Pakruojis",
+    "city_ascii": "Pakruojis",
+    "admin_name": "Pakruojis",
+    "lat": "55.9833",
+    "lng": "23.8500",
+    "id": "1440570493"
+  },
+  {
+    "city": "Švenčionys",
+    "city_ascii": "Svencionys",
+    "admin_name": "Švenčionys",
+    "lat": "55.1333",
+    "lng": "26.1556",
+    "id": "1440170338"
+  },
+  {
+    "city": "Kalvarija",
+    "city_ascii": "Kalvarija",
+    "admin_name": "Kalvarija",
+    "lat": "54.4147",
+    "lng": "23.2281",
+    "id": "1440799248"
+  },
+  {
+    "city": "Lazdijai",
+    "city_ascii": "Lazdijai",
+    "admin_name": "Lazdijai",
+    "lat": "54.2347",
+    "lng": "23.5167",
+    "id": "1440584882"
+  },
+  {
+    "city": "Rietavas",
+    "city_ascii": "Rietavas",
+    "admin_name": "Rietavas",
+    "lat": "55.7167",
+    "lng": "21.9333",
+    "id": "1440780088"
+  },
+  {
+    "city": "Birštonas",
+    "city_ascii": "Birstonas",
+    "admin_name": "Birštonas",
+    "lat": "54.6000",
+    "lng": "24.0333",
+    "id": "1440134144"
+  },
+  {
+    "city": "Nida",
+    "city_ascii": "Nida",
+    "admin_name": "Neringa",
+    "lat": "55.3033",
+    "lng": "21.0056",
+    "id": "1440271703"
+  },
+  {
+    "city": "Pagėgiai",
+    "city_ascii": "Pagegiai",
+    "admin_name": "Pagégiai",
+    "lat": "55.1333",
+    "lng": "21.9167",
+    "id": "1440724133"
+  }
+]

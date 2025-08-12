@@ -1,0 +1,610 @@
+[
+  {
+    "city": "Zagreb",
+    "city_ascii": "Zagreb",
+    "admin_name": "Zagreb, Grad",
+    "lat": "45.8131",
+    "lng": "15.9772",
+    "id": "1191233290"
+  },
+  {
+    "city": "Split",
+    "city_ascii": "Split",
+    "admin_name": "Splitsko-Dalmatinska Županija",
+    "lat": "43.5100",
+    "lng": "16.4400",
+    "id": "1191440208"
+  },
+  {
+    "city": "Rijeka",
+    "city_ascii": "Rijeka",
+    "admin_name": "Primorsko-Goranska Županija",
+    "lat": "45.3333",
+    "lng": "14.4333",
+    "id": "1191949063"
+  },
+  {
+    "city": "Osijek",
+    "city_ascii": "Osijek",
+    "admin_name": "Osječko-Baranjska Županija",
+    "lat": "45.5603",
+    "lng": "18.6703",
+    "id": "1191917921"
+  },
+  {
+    "city": "Sesvete",
+    "city_ascii": "Sesvete",
+    "admin_name": "Zagreb, Grad",
+    "lat": "45.8311",
+    "lng": "16.1164",
+    "id": "1191537414"
+  },
+  {
+    "city": "Zadar",
+    "city_ascii": "Zadar",
+    "admin_name": "Zadarska Županija",
+    "lat": "44.1170",
+    "lng": "15.2355",
+    "id": "1191160875"
+  },
+  {
+    "city": "Velika Gorica",
+    "city_ascii": "Velika Gorica",
+    "admin_name": "Zagrebačka Županija",
+    "lat": "45.7000",
+    "lng": "16.0667",
+    "id": "1191113594"
+  },
+  {
+    "city": "Pula",
+    "city_ascii": "Pula",
+    "admin_name": "Istarska Županija",
+    "lat": "44.8703",
+    "lng": "13.8456",
+    "id": "1191143009"
+  },
+  {
+    "city": "Karlovac",
+    "city_ascii": "Karlovac",
+    "admin_name": "Karlovačka Županija",
+    "lat": "45.4931",
+    "lng": "15.5558",
+    "id": "1191000040"
+  },
+  {
+    "city": "Varaždin",
+    "city_ascii": "Varazdin",
+    "admin_name": "Varaždinska Županija",
+    "lat": "46.3081",
+    "lng": "16.3378",
+    "id": "1191291148"
+  },
+  {
+    "city": "Šibenik",
+    "city_ascii": "Sibenik",
+    "admin_name": "Šibensko-Kninska Županija",
+    "lat": "43.7339",
+    "lng": "15.8956",
+    "id": "1191444936"
+  },
+  {
+    "city": "Dubrovnik",
+    "city_ascii": "Dubrovnik",
+    "admin_name": "Dubrovačko-Neretvanska Županija",
+    "lat": "42.6403",
+    "lng": "18.1083",
+    "id": "1191004286"
+  },
+  {
+    "city": "Sisak",
+    "city_ascii": "Sisak",
+    "admin_name": "Sisačko-Moslavačka Županija",
+    "lat": "45.4872",
+    "lng": "16.3761",
+    "id": "1191526652"
+  },
+  {
+    "city": "Kaštel Stari",
+    "city_ascii": "Kastel Stari",
+    "admin_name": "Splitsko-Dalmatinska Županija",
+    "lat": "43.5500",
+    "lng": "16.3500",
+    "id": "1191355987"
+  },
+  {
+    "city": "Samobor",
+    "city_ascii": "Samobor",
+    "admin_name": "Zagrebačka Županija",
+    "lat": "45.8011",
+    "lng": "15.7110",
+    "id": "1191807327"
+  },
+  {
+    "city": "Bjelovar",
+    "city_ascii": "Bjelovar",
+    "admin_name": "Bjelovarsko-Bilogorska Županija",
+    "lat": "45.8989",
+    "lng": "16.8422",
+    "id": "1191340640"
+  },
+  {
+    "city": "Vinkovci",
+    "city_ascii": "Vinkovci",
+    "admin_name": "Vukovarsko-Srijemska Županija",
+    "lat": "45.2833",
+    "lng": "18.8000",
+    "id": "1191241036"
+  },
+  {
+    "city": "Koprivnica",
+    "city_ascii": "Koprivnica",
+    "admin_name": "Koprivničko-Križevačka Županija",
+    "lat": "46.1500",
+    "lng": "16.8167",
+    "id": "1191924250"
+  },
+  {
+    "city": "Čakovec",
+    "city_ascii": "Cakovec",
+    "admin_name": "Međimurska Županija",
+    "lat": "46.3833",
+    "lng": "16.4333",
+    "id": "1191424625"
+  },
+  {
+    "city": "Zaprešić",
+    "city_ascii": "Zapresic",
+    "admin_name": "Zagrebačka Županija",
+    "lat": "45.8500",
+    "lng": "15.8000",
+    "id": "1191023090"
+  },
+  {
+    "city": "Solin",
+    "city_ascii": "Solin",
+    "admin_name": "Splitsko-Dalmatinska Županija",
+    "lat": "43.5394",
+    "lng": "16.4831",
+    "id": "1191452143"
+  },
+  {
+    "city": "Ðakovo",
+    "city_ascii": "Dakovo",
+    "admin_name": "Osječko-Baranjska Županija",
+    "lat": "45.3083",
+    "lng": "18.4106",
+    "id": "1191845338"
+  },
+  {
+    "city": "Sinj",
+    "city_ascii": "Sinj",
+    "admin_name": "Splitsko-Dalmatinska Županija",
+    "lat": "43.7017",
+    "lng": "16.6369",
+    "id": "1191337250"
+  },
+  {
+    "city": "Vukovar",
+    "city_ascii": "Vukovar",
+    "admin_name": "Vukovarsko-Srijemska Županija",
+    "lat": "45.3500",
+    "lng": "19.0033",
+    "id": "1191345427"
+  },
+  {
+    "city": "Požega",
+    "city_ascii": "Pozega",
+    "admin_name": "Požeško-Slavonska Županija",
+    "lat": "45.3314",
+    "lng": "17.6744",
+    "id": "1191353181"
+  },
+  {
+    "city": "Petrinja",
+    "city_ascii": "Petrinja",
+    "admin_name": "Sisačko-Moslavačka Županija",
+    "lat": "45.4375",
+    "lng": "16.2900",
+    "id": "1191586902"
+  },
+  {
+    "city": "Kutina",
+    "city_ascii": "Kutina",
+    "admin_name": "Sisačko-Moslavačka Županija",
+    "lat": "45.4791",
+    "lng": "16.7768",
+    "id": "1191337296"
+  },
+  {
+    "city": "Virovitica",
+    "city_ascii": "Virovitica",
+    "admin_name": "Virovitičko-Podravska Županija",
+    "lat": "45.8333",
+    "lng": "17.3833",
+    "id": "1191128636"
+  },
+  {
+    "city": "Križevci",
+    "city_ascii": "Krizevci",
+    "admin_name": "Koprivničko-Križevačka Županija",
+    "lat": "46.0333",
+    "lng": "16.5333",
+    "id": "1191282973"
+  },
+  {
+    "city": "Sveta Nedjelja",
+    "city_ascii": "Sveta Nedjelja",
+    "admin_name": "Zagrebačka Županija",
+    "lat": "45.8000",
+    "lng": "15.7833",
+    "id": "1191318347"
+  },
+  {
+    "city": "Dugo Selo",
+    "city_ascii": "Dugo Selo",
+    "admin_name": "Zagrebačka Županija",
+    "lat": "45.8000",
+    "lng": "16.2333",
+    "id": "1191082189"
+  },
+  {
+    "city": "Slavonski Brod",
+    "city_ascii": "Slavonski Brod",
+    "admin_name": "Brodsko-Posavska Županija",
+    "lat": "45.1553",
+    "lng": "18.0144",
+    "id": "1191097030"
+  },
+  {
+    "city": "Poreč",
+    "city_ascii": "Porec",
+    "admin_name": "Istarska Županija",
+    "lat": "45.2272",
+    "lng": "13.5952",
+    "id": "1191152483"
+  },
+  {
+    "city": "Viškovo",
+    "city_ascii": "Viskovo",
+    "admin_name": "Primorsko-Goranska Županija",
+    "lat": "45.3759",
+    "lng": "14.3789",
+    "id": "1191502082"
+  },
+  {
+    "city": "Metković",
+    "city_ascii": "Metkovic",
+    "admin_name": "Dubrovačko-Neretvanska Županija",
+    "lat": "43.0500",
+    "lng": "17.6500",
+    "id": "1191697358"
+  },
+  {
+    "city": "Sveti Ivan Zelina",
+    "city_ascii": "Sveti Ivan Zelina",
+    "admin_name": "Zagrebačka Županija",
+    "lat": "45.9500",
+    "lng": "16.2333",
+    "id": "1191628730"
+  },
+  {
+    "city": "Jastrebarsko",
+    "city_ascii": "Jastrebarsko",
+    "admin_name": "Zagrebačka Županija",
+    "lat": "45.6667",
+    "lng": "15.6500",
+    "id": "1191489216"
+  },
+  {
+    "city": "Našice",
+    "city_ascii": "Nasice",
+    "admin_name": "Osječko-Baranjska Županija",
+    "lat": "45.4833",
+    "lng": "18.1000",
+    "id": "1191359646"
+  },
+  {
+    "city": "Omiš",
+    "city_ascii": "Omis",
+    "admin_name": "Splitsko-Dalmatinska Županija",
+    "lat": "43.4458",
+    "lng": "16.6883",
+    "id": "1191146852"
+  },
+  {
+    "city": "Makarska",
+    "city_ascii": "Makarska",
+    "admin_name": "Splitsko-Dalmatinska Županija",
+    "lat": "43.2931",
+    "lng": "17.0200",
+    "id": "1191012753"
+  },
+  {
+    "city": "Ivanić-Grad",
+    "city_ascii": "Ivanic-Grad",
+    "admin_name": "Zagrebačka Županija",
+    "lat": "45.7081",
+    "lng": "16.3947",
+    "id": "1191909415"
+  },
+  {
+    "city": "Vrbovec",
+    "city_ascii": "Vrbovec",
+    "admin_name": "Zagrebačka Županija",
+    "lat": "45.8833",
+    "lng": "16.4333",
+    "id": "1191484288"
+  },
+  {
+    "city": "Rovinj",
+    "city_ascii": "Rovinj",
+    "admin_name": "Istarska Županija",
+    "lat": "45.0833",
+    "lng": "13.6333",
+    "id": "1191599469"
+  },
+  {
+    "city": "Ivanec",
+    "city_ascii": "Ivanec",
+    "admin_name": "Varaždinska Županija",
+    "lat": "46.2167",
+    "lng": "16.1167",
+    "id": "1191135840"
+  },
+  {
+    "city": "Umag",
+    "city_ascii": "Umag",
+    "admin_name": "Istarska Županija",
+    "lat": "45.4336",
+    "lng": "13.5172",
+    "id": "1191619826"
+  },
+  {
+    "city": "Trogir",
+    "city_ascii": "Trogir",
+    "admin_name": "Splitsko-Dalmatinska Županija",
+    "lat": "43.5167",
+    "lng": "16.2500",
+    "id": "1191315860"
+  },
+  {
+    "city": "Ogulin",
+    "city_ascii": "Ogulin",
+    "admin_name": "Karlovačka Županija",
+    "lat": "45.2669",
+    "lng": "15.2248",
+    "id": "1191210263"
+  },
+  {
+    "city": "Novi Marof",
+    "city_ascii": "Novi Marof",
+    "admin_name": "Varaždinska Županija",
+    "lat": "46.1667",
+    "lng": "16.3333",
+    "id": "1191054242"
+  },
+  {
+    "city": "Nova Gradiška",
+    "city_ascii": "Nova Gradiska",
+    "admin_name": "Brodsko-Posavska Županija",
+    "lat": "45.2500",
+    "lng": "17.3833",
+    "id": "1191025176"
+  },
+  {
+    "city": "Knin",
+    "city_ascii": "Knin",
+    "admin_name": "Šibensko-Kninska Županija",
+    "lat": "44.0333",
+    "lng": "16.1833",
+    "id": "1191313799"
+  },
+  {
+    "city": "Krapina",
+    "city_ascii": "Krapina",
+    "admin_name": "Krapinsko-Zagorska Županija",
+    "lat": "46.1589",
+    "lng": "15.8744",
+    "id": "1191389404"
+  },
+  {
+    "city": "Slatina",
+    "city_ascii": "Slatina",
+    "admin_name": "Virovitičko-Podravska Županija",
+    "lat": "45.7000",
+    "lng": "17.7000",
+    "id": "1191732993"
+  },
+  {
+    "city": "Gospić",
+    "city_ascii": "Gospic",
+    "admin_name": "Ličko-Senjska Županija",
+    "lat": "44.5469",
+    "lng": "15.3744",
+    "id": "1191887616"
+  },
+  {
+    "city": "Novska",
+    "city_ascii": "Novska",
+    "admin_name": "Sisačko-Moslavačka Županija",
+    "lat": "45.3333",
+    "lng": "16.9833",
+    "id": "1191890693"
+  },
+  {
+    "city": "Nedelišće",
+    "city_ascii": "Nedelisce",
+    "admin_name": "Međimurska Županija",
+    "lat": "46.3800",
+    "lng": "16.3900",
+    "id": "1191055882"
+  },
+  {
+    "city": "Matulji",
+    "city_ascii": "Matulji",
+    "admin_name": "Primorsko-Goranska Županija",
+    "lat": "45.3667",
+    "lng": "14.3167",
+    "id": "1191059723"
+  },
+  {
+    "city": "Brdovec",
+    "city_ascii": "Brdovec",
+    "admin_name": "Zagrebačka Županija",
+    "lat": "45.8703",
+    "lng": "15.7644",
+    "id": "1191376654"
+  },
+  {
+    "city": "Opatija",
+    "city_ascii": "Opatija",
+    "admin_name": "Primorsko-Goranska Županija",
+    "lat": "45.3347",
+    "lng": "14.3069",
+    "id": "1191982660"
+  },
+  {
+    "city": "Labin",
+    "city_ascii": "Labin",
+    "admin_name": "Istarska Županija",
+    "lat": "45.0833",
+    "lng": "14.1167",
+    "id": "1191000718"
+  },
+  {
+    "city": "Podstrana",
+    "city_ascii": "Podstrana",
+    "admin_name": "Splitsko-Dalmatinska Županija",
+    "lat": "43.4800",
+    "lng": "16.5800",
+    "id": "1191181245"
+  },
+  {
+    "city": "Popovača",
+    "city_ascii": "Popovaca",
+    "admin_name": "Sisačko-Moslavačka Županija",
+    "lat": "45.5697",
+    "lng": "16.6250",
+    "id": "1191042353"
+  },
+  {
+    "city": "Duga Resa",
+    "city_ascii": "Duga Resa",
+    "admin_name": "Karlovačka Županija",
+    "lat": "45.4472",
+    "lng": "15.4958",
+    "id": "1191462805"
+  },
+  {
+    "city": "Kastav",
+    "city_ascii": "Kastav",
+    "admin_name": "Primorsko-Goranska Županija",
+    "lat": "45.3726",
+    "lng": "14.3490",
+    "id": "1191243923"
+  },
+  {
+    "city": "Daruvar",
+    "city_ascii": "Daruvar",
+    "admin_name": "Bjelovarsko-Bilogorska Županija",
+    "lat": "45.6000",
+    "lng": "17.2167",
+    "id": "1191459511"
+  },
+  {
+    "city": "Crikvenica",
+    "city_ascii": "Crikvenica",
+    "admin_name": "Primorsko-Goranska Županija",
+    "lat": "45.1737",
+    "lng": "14.6924",
+    "id": "1191344167"
+  },
+  {
+    "city": "Valpovo",
+    "city_ascii": "Valpovo",
+    "admin_name": "Osječko-Baranjska Županija",
+    "lat": "45.6500",
+    "lng": "18.4167",
+    "id": "1191247784"
+  },
+  {
+    "city": "Benkovac",
+    "city_ascii": "Benkovac",
+    "admin_name": "Zadarska Županija",
+    "lat": "44.0344",
+    "lng": "15.6128",
+    "id": "1191830836"
+  },
+  {
+    "city": "Čepin",
+    "city_ascii": "Cepin",
+    "admin_name": "Osječko-Baranjska Županija",
+    "lat": "45.5236",
+    "lng": "18.5633",
+    "id": "1191719855"
+  },
+  {
+    "city": "Županja",
+    "city_ascii": "Zupanja",
+    "admin_name": "Vukovarsko-Srijemska Županija",
+    "lat": "45.0667",
+    "lng": "18.7000",
+    "id": "1191054836"
+  },
+  {
+    "city": "Imotski",
+    "city_ascii": "Imotski",
+    "admin_name": "Splitsko-Dalmatinska Županija",
+    "lat": "43.4500",
+    "lng": "17.2167",
+    "id": "1191634308"
+  },
+  {
+    "city": "Pleternica",
+    "city_ascii": "Pleternica",
+    "admin_name": "Požeško-Slavonska Županija",
+    "lat": "45.2864",
+    "lng": "17.8019",
+    "id": "1191772677"
+  },
+  {
+    "city": "Belišće",
+    "city_ascii": "Belisce",
+    "admin_name": "Osječko-Baranjska Županija",
+    "lat": "45.6825",
+    "lng": "18.4069",
+    "id": "1191824256"
+  },
+  {
+    "city": "Zabok",
+    "city_ascii": "Zabok",
+    "admin_name": "Krapinsko-Zagorska Županija",
+    "lat": "46.0500",
+    "lng": "15.9667",
+    "id": "1191500303"
+  },
+  {
+    "city": "Vodice",
+    "city_ascii": "Vodice",
+    "admin_name": "Šibensko-Kninska Županija",
+    "lat": "43.7506",
+    "lng": "15.7789",
+    "id": "1191637879"
+  },
+  {
+    "city": "Garešnica",
+    "city_ascii": "Garesnica",
+    "admin_name": "Bjelovarsko-Bilogorska Županija",
+    "lat": "45.5742",
+    "lng": "16.9408",
+    "id": "1191726833"
+  },
+  {
+    "city": "Pazin",
+    "city_ascii": "Pazin",
+    "admin_name": "Istarska Županija",
+    "lat": "45.2392",
+    "lng": "13.9386",
+    "id": "1191654566"
+  }
+]

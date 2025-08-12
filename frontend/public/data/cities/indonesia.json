@@ -1,0 +1,2378 @@
+[
+  {
+    "city": "Jakarta",
+    "city_ascii": "Jakarta",
+    "admin_name": "Jakarta",
+    "lat": "-6.1750",
+    "lng": "106.8275",
+    "id": "1360771077"
+  },
+  {
+    "city": "Surabaya",
+    "city_ascii": "Surabaya",
+    "admin_name": "Jawa Timur",
+    "lat": "-7.2458",
+    "lng": "112.7378",
+    "id": "1360484663"
+  },
+  {
+    "city": "Medan",
+    "city_ascii": "Medan",
+    "admin_name": "Sumatera Utara",
+    "lat": "3.5894",
+    "lng": "98.6739",
+    "id": "1360543171"
+  },
+  {
+    "city": "Malang",
+    "city_ascii": "Malang",
+    "admin_name": "Jawa Timur",
+    "lat": "-7.9800",
+    "lng": "112.6200",
+    "id": "1360141408"
+  },
+  {
+    "city": "Bekasi",
+    "city_ascii": "Bekasi",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.2333",
+    "lng": "107.0000",
+    "id": "1360673840"
+  },
+  {
+    "city": "Depok",
+    "city_ascii": "Depok",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.3940",
+    "lng": "106.8225",
+    "id": "1360962899"
+  },
+  {
+    "city": "Tangerang",
+    "city_ascii": "Tangerang",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.1703",
+    "lng": "106.6403",
+    "id": "1360002844"
+  },
+  {
+    "city": "Semarang",
+    "city_ascii": "Semarang",
+    "admin_name": "Jawa Tengah",
+    "lat": "-6.9900",
+    "lng": "110.4225",
+    "id": "1360745537"
+  },
+  {
+    "city": "Palembang",
+    "city_ascii": "Palembang",
+    "admin_name": "Sumatera Selatan",
+    "lat": "-2.9861",
+    "lng": "104.7556",
+    "id": "1360902897"
+  },
+  {
+    "city": "Sangereng",
+    "city_ascii": "Sangereng",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.2889",
+    "lng": "106.7181",
+    "id": "1360029147"
+  },
+  {
+    "city": "Makassar",
+    "city_ascii": "Makassar",
+    "admin_name": "Sulawesi Selatan",
+    "lat": "-5.1331",
+    "lng": "119.4136",
+    "id": "1360051337"
+  },
+  {
+    "city": "Bagam",
+    "city_ascii": "Bagam",
+    "admin_name": "Kepulauan Riau",
+    "lat": "1.1300",
+    "lng": "104.0531",
+    "id": "1360405604"
+  },
+  {
+    "city": "Sumedang",
+    "city_ascii": "Sumedang",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.8400",
+    "lng": "107.9208",
+    "id": "1360564479"
+  },
+  {
+    "city": "Batam Centre",
+    "city_ascii": "Batam Centre",
+    "admin_name": "Kepulauan Riau",
+    "lat": "1.1272",
+    "lng": "104.0556",
+    "id": "1360024213"
+  },
+  {
+    "city": "Cilacap",
+    "city_ascii": "Cilacap",
+    "admin_name": "Jawa Tengah",
+    "lat": "-7.7167",
+    "lng": "109.0170",
+    "id": "1360503809"
+  },
+  {
+    "city": "Bandar Lampung",
+    "city_ascii": "Bandar Lampung",
+    "admin_name": "Lampung",
+    "lat": "-5.4500",
+    "lng": "105.2667",
+    "id": "1360243491"
+  },
+  {
+    "city": "Pekanbaru",
+    "city_ascii": "Pekanbaru",
+    "admin_name": "Riau",
+    "lat": "0.5092",
+    "lng": "101.4453",
+    "id": "1360422679"
+  },
+  {
+    "city": "Bogor",
+    "city_ascii": "Bogor",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.5966",
+    "lng": "106.7972",
+    "id": "1360771925"
+  },
+  {
+    "city": "Samarinda",
+    "city_ascii": "Samarinda",
+    "admin_name": "Kalimantan Timur",
+    "lat": "-0.5000",
+    "lng": "117.1378",
+    "id": "1360684979"
+  },
+  {
+    "city": "Pontianak",
+    "city_ascii": "Pontianak",
+    "admin_name": "Kalimantan Barat",
+    "lat": "-0.0206",
+    "lng": "109.3414",
+    "id": "1360992394"
+  },
+  {
+    "city": "Tasikmalaya",
+    "city_ascii": "Tasikmalaya",
+    "admin_name": "Jawa Barat",
+    "lat": "-7.3161",
+    "lng": "108.1975",
+    "id": "1360027771"
+  },
+  {
+    "city": "Denpasar",
+    "city_ascii": "Denpasar",
+    "admin_name": "Bali",
+    "lat": "-8.6717",
+    "lng": "115.2339",
+    "id": "1360848527"
+  },
+  {
+    "city": "Banjarmasin",
+    "city_ascii": "Banjarmasin",
+    "admin_name": "Kalimantan Selatan",
+    "lat": "-3.3200",
+    "lng": "114.5925",
+    "id": "1360685223"
+  },
+  {
+    "city": "Serang",
+    "city_ascii": "Serang",
+    "admin_name": "Banten",
+    "lat": "-6.1200",
+    "lng": "106.1503",
+    "id": "1360329102"
+  },
+  {
+    "city": "Jambi",
+    "city_ascii": "Jambi",
+    "admin_name": "Jambi",
+    "lat": "-1.5900",
+    "lng": "103.6100",
+    "id": "1360645580"
+  },
+  {
+    "city": "Balikpapan",
+    "city_ascii": "Balikpapan",
+    "admin_name": "Kalimantan Timur",
+    "lat": "-1.2768",
+    "lng": "116.8277",
+    "id": "1360500922"
+  },
+  {
+    "city": "Cimahi",
+    "city_ascii": "Cimahi",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.8712",
+    "lng": "107.5548",
+    "id": "1360181436"
+  },
+  {
+    "city": "Surakarta",
+    "city_ascii": "Surakarta",
+    "admin_name": "Jawa Tengah",
+    "lat": "-7.5667",
+    "lng": "110.8167",
+    "id": "1360853933"
+  },
+  {
+    "city": "Kupang",
+    "city_ascii": "Kupang",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-10.1702",
+    "lng": "123.6077",
+    "id": "1360696757"
+  },
+  {
+    "city": "Manado Light",
+    "city_ascii": "Manado Light",
+    "admin_name": "Sulawesi Utara",
+    "lat": "1.4858",
+    "lng": "124.8347",
+    "id": "1360843220"
+  },
+  {
+    "city": "Manado",
+    "city_ascii": "Manado",
+    "admin_name": "Sulawesi Utara",
+    "lat": "1.4931",
+    "lng": "124.8413",
+    "id": "1360771278"
+  },
+  {
+    "city": "Lembok",
+    "city_ascii": "Lembok",
+    "admin_name": "Nusa Tenggara Barat",
+    "lat": "-8.5650",
+    "lng": "116.3510",
+    "id": "1360013261"
+  },
+  {
+    "city": "Bandung",
+    "city_ascii": "Bandung",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.9120",
+    "lng": "107.6097",
+    "id": "1360313023"
+  },
+  {
+    "city": "Yogyakarta",
+    "city_ascii": "Yogyakarta",
+    "admin_name": "Yogyakarta",
+    "lat": "-7.8014",
+    "lng": "110.3644",
+    "id": "1360384833"
+  },
+  {
+    "city": "Jayapura",
+    "city_ascii": "Jayapura",
+    "admin_name": "Papua",
+    "lat": "-2.5330",
+    "lng": "140.7170",
+    "id": "1360517692"
+  },
+  {
+    "city": "Mataram",
+    "city_ascii": "Mataram",
+    "admin_name": "Nusa Tenggara Barat",
+    "lat": "-8.5833",
+    "lng": "116.1167",
+    "id": "1360021952"
+  },
+  {
+    "city": "Cilegon",
+    "city_ascii": "Cilegon",
+    "admin_name": "Banten",
+    "lat": "-6.0027",
+    "lng": "106.0112",
+    "id": "1360643410"
+  },
+  {
+    "city": "Ambon",
+    "city_ascii": "Ambon",
+    "admin_name": "Maluku",
+    "lat": "-3.6967",
+    "lng": "128.1783",
+    "id": "1360756802"
+  },
+  {
+    "city": "Cibinong",
+    "city_ascii": "Cibinong",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.4850",
+    "lng": "106.8420",
+    "id": "1360730847"
+  },
+  {
+    "city": "Bengkulu",
+    "city_ascii": "Bengkulu",
+    "admin_name": "Bengkulu",
+    "lat": "-3.7956",
+    "lng": "102.2592",
+    "id": "1360191448"
+  },
+  {
+    "city": "Palu",
+    "city_ascii": "Palu",
+    "admin_name": "Sulawesi Tengah",
+    "lat": "-0.8950",
+    "lng": "119.8594",
+    "id": "1360518272"
+  },
+  {
+    "city": "Kendari",
+    "city_ascii": "Kendari",
+    "admin_name": "Sulawesi Tenggara",
+    "lat": "-3.9907",
+    "lng": "122.5086",
+    "id": "1360992102"
+  },
+  {
+    "city": "Sukabumi",
+    "city_ascii": "Sukabumi",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.9181",
+    "lng": "106.9315",
+    "id": "1360447543"
+  },
+  {
+    "city": "Karawang",
+    "city_ascii": "Karawang",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.3125",
+    "lng": "107.2950",
+    "id": "1360007357"
+  },
+  {
+    "city": "Jember",
+    "city_ascii": "Jember",
+    "admin_name": "Jawa Timur",
+    "lat": "-8.1727",
+    "lng": "113.6873",
+    "id": "1360316553"
+  },
+  {
+    "city": "Pekalongan",
+    "city_ascii": "Pekalongan",
+    "admin_name": "Jawa Tengah",
+    "lat": "-6.8833",
+    "lng": "109.6667",
+    "id": "1360039434"
+  },
+  {
+    "city": "Cirebon",
+    "city_ascii": "Cirebon",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.7071",
+    "lng": "108.5574",
+    "id": "1360011375"
+  },
+  {
+    "city": "Pondokaren",
+    "city_ascii": "Pondokaren",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.2811",
+    "lng": "106.7019",
+    "id": "1360008284"
+  },
+  {
+    "city": "Sorong",
+    "city_ascii": "Sorong",
+    "admin_name": "Papua Barat",
+    "lat": "-0.8667",
+    "lng": "131.2500",
+    "id": "1360018780"
+  },
+  {
+    "city": "Mamuju",
+    "city_ascii": "Mamuju",
+    "admin_name": "Sulawesi Barat",
+    "lat": "-2.6833",
+    "lng": "118.9000",
+    "id": "1360687242"
+  },
+  {
+    "city": "Pematangsiantar",
+    "city_ascii": "Pematangsiantar",
+    "admin_name": "Sumatera Utara",
+    "lat": "2.9600",
+    "lng": "99.0600",
+    "id": "1360769496"
+  },
+  {
+    "city": "Tegal",
+    "city_ascii": "Tegal",
+    "admin_name": "Jawa Tengah",
+    "lat": "-6.8675",
+    "lng": "109.1375",
+    "id": "1360035814"
+  },
+  {
+    "city": "Majene",
+    "city_ascii": "Majene",
+    "admin_name": "Sulawesi Barat",
+    "lat": "-3.5403",
+    "lng": "118.9707",
+    "id": "1360498576"
+  },
+  {
+    "city": "Binjai",
+    "city_ascii": "Binjai",
+    "admin_name": "Sumatera Utara",
+    "lat": "3.5986",
+    "lng": "98.4803",
+    "id": "1360884608"
+  },
+  {
+    "city": "Dumai",
+    "city_ascii": "Dumai",
+    "admin_name": "Riau",
+    "lat": "1.6667",
+    "lng": "101.4500",
+    "id": "1360153292"
+  },
+  {
+    "city": "Pasarkemis",
+    "city_ascii": "Pasarkemis",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.1703",
+    "lng": "106.5300",
+    "id": "1360028667"
+  },
+  {
+    "city": "Cimanggis",
+    "city_ascii": "Cimanggis",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.3645",
+    "lng": "106.8591",
+    "id": "1360945721"
+  },
+  {
+    "city": "Kediri",
+    "city_ascii": "Kediri",
+    "admin_name": "Jawa Timur",
+    "lat": "-7.8111",
+    "lng": "112.0047",
+    "id": "1360498846"
+  },
+  {
+    "city": "Palangkaraya",
+    "city_ascii": "Palangkaraya",
+    "admin_name": "Kalimantan Tengah",
+    "lat": "-2.2100",
+    "lng": "113.9200",
+    "id": "1360268553"
+  },
+  {
+    "city": "Banda Aceh",
+    "city_ascii": "Banda Aceh",
+    "admin_name": "Aceh",
+    "lat": "5.5500",
+    "lng": "95.3175",
+    "id": "1360353144"
+  },
+  {
+    "city": "Purwokerto",
+    "city_ascii": "Purwokerto",
+    "admin_name": "Jawa Tengah",
+    "lat": "-7.4278",
+    "lng": "109.2417",
+    "id": "1360455408"
+  },
+  {
+    "city": "Singkawang",
+    "city_ascii": "Singkawang",
+    "admin_name": "Kalimantan Barat",
+    "lat": "0.9000",
+    "lng": "108.9833",
+    "id": "1360906363"
+  },
+  {
+    "city": "Padangsidempuan",
+    "city_ascii": "Padangsidempuan",
+    "admin_name": "Sumatera Utara",
+    "lat": "1.3786",
+    "lng": "99.2722",
+    "id": "1360506609"
+  },
+  {
+    "city": "Tanjung Morawa",
+    "city_ascii": "Tanjung Morawa",
+    "admin_name": "Sumatera Utara",
+    "lat": "3.5167",
+    "lng": "98.7833",
+    "id": "1360038308"
+  },
+  {
+    "city": "Probolinggo",
+    "city_ascii": "Probolinggo",
+    "admin_name": "Jawa Timur",
+    "lat": "-7.7500",
+    "lng": "113.2167",
+    "id": "1360138476"
+  },
+  {
+    "city": "Ciputat",
+    "city_ascii": "Ciputat",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.3111",
+    "lng": "106.7619",
+    "id": "1360204080"
+  },
+  {
+    "city": "Pangkalpinang",
+    "city_ascii": "Pangkalpinang",
+    "admin_name": "Kepulauan Bangka Belitung",
+    "lat": "-2.1333",
+    "lng": "106.1167",
+    "id": "1360901919"
+  },
+  {
+    "city": "Bitung",
+    "city_ascii": "Bitung",
+    "admin_name": "Sulawesi Utara",
+    "lat": "1.4472",
+    "lng": "125.1978",
+    "id": "1360695939"
+  },
+  {
+    "city": "Banjarbaru",
+    "city_ascii": "Banjarbaru",
+    "admin_name": "Kalimantan Selatan",
+    "lat": "-3.4425",
+    "lng": "114.8325",
+    "id": "1360085654"
+  },
+  {
+    "city": "Cikupa",
+    "city_ascii": "Cikupa",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.4947",
+    "lng": "106.6511",
+    "id": "1360462500"
+  },
+  {
+    "city": "Lubuklinggau",
+    "city_ascii": "Lubuklinggau",
+    "admin_name": "Sumatera Selatan",
+    "lat": "-3.2967",
+    "lng": "102.8617",
+    "id": "1360359449"
+  },
+  {
+    "city": "Ternate",
+    "city_ascii": "Ternate",
+    "admin_name": "Maluku Utara",
+    "lat": "0.7800",
+    "lng": "127.3819",
+    "id": "1360041663"
+  },
+  {
+    "city": "Banjar",
+    "city_ascii": "Banjar",
+    "admin_name": "Jawa Barat",
+    "lat": "-7.3695",
+    "lng": "108.5414",
+    "id": "1360289512"
+  },
+  {
+    "city": "Tanjungpinang",
+    "city_ascii": "Tanjungpinang",
+    "admin_name": "Kepulauan Riau",
+    "lat": "0.9188",
+    "lng": "104.4554",
+    "id": "1360990589"
+  },
+  {
+    "city": "Madiun",
+    "city_ascii": "Madiun",
+    "admin_name": "Jawa Timur",
+    "lat": "-7.6300",
+    "lng": "111.5231",
+    "id": "1360921516"
+  },
+  {
+    "city": "Tarakan",
+    "city_ascii": "Tarakan",
+    "admin_name": "Kalimantan Utara",
+    "lat": "3.3000",
+    "lng": "117.6333",
+    "id": "1360080072"
+  },
+  {
+    "city": "Martapura",
+    "city_ascii": "Martapura",
+    "admin_name": "Kalimantan Selatan",
+    "lat": "-3.4500",
+    "lng": "114.8333",
+    "id": "1360139854"
+  },
+  {
+    "city": "Sawangan",
+    "city_ascii": "Sawangan",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.4086",
+    "lng": "106.7647",
+    "id": "1360017411"
+  },
+  {
+    "city": "Gorontalo",
+    "city_ascii": "Gorontalo",
+    "admin_name": "Gorontalo",
+    "lat": "0.5422",
+    "lng": "123.0614",
+    "id": "1360408580"
+  },
+  {
+    "city": "Batu",
+    "city_ascii": "Batu",
+    "admin_name": "Jawa Timur",
+    "lat": "-7.8720",
+    "lng": "112.5250",
+    "id": "1360427259"
+  },
+  {
+    "city": "Prabumulih",
+    "city_ascii": "Prabumulih",
+    "admin_name": "Sumatera Selatan",
+    "lat": "-3.4328",
+    "lng": "104.2356",
+    "id": "1360148993"
+  },
+  {
+    "city": "Pasuruan",
+    "city_ascii": "Pasuruan",
+    "admin_name": "Jawa Timur",
+    "lat": "-7.6406",
+    "lng": "112.9065",
+    "id": "1360084806"
+  },
+  {
+    "city": "Padalarang",
+    "city_ascii": "Padalarang",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.8435",
+    "lng": "107.4779",
+    "id": "1360652847"
+  },
+  {
+    "city": "Singosari",
+    "city_ascii": "Singosari",
+    "admin_name": "Jawa Timur",
+    "lat": "-7.8925",
+    "lng": "112.6658",
+    "id": "1360458738"
+  },
+  {
+    "city": "Lhokseumawe",
+    "city_ascii": "Lhokseumawe",
+    "admin_name": "Aceh",
+    "lat": "5.1881",
+    "lng": "97.1403",
+    "id": "1360418625"
+  },
+  {
+    "city": "Palopo",
+    "city_ascii": "Palopo",
+    "admin_name": "Sulawesi Selatan",
+    "lat": "-3.0000",
+    "lng": "120.2000",
+    "id": "1360740288"
+  },
+  {
+    "city": "Petarukan",
+    "city_ascii": "Petarukan",
+    "admin_name": "Jawa Tengah",
+    "lat": "-6.8961",
+    "lng": "109.4514",
+    "id": "1360979518"
+  },
+  {
+    "city": "Purwakarta",
+    "city_ascii": "Purwakarta",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.5533",
+    "lng": "107.4472",
+    "id": "1360967092"
+  },
+  {
+    "city": "Langsa",
+    "city_ascii": "Langsa",
+    "admin_name": "Aceh",
+    "lat": "4.4800",
+    "lng": "97.9633",
+    "id": "1360337304"
+  },
+  {
+    "city": "Curug",
+    "city_ascii": "Curug",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.3711",
+    "lng": "106.8000",
+    "id": "1360625815"
+  },
+  {
+    "city": "Cianjur",
+    "city_ascii": "Cianjur",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.8200",
+    "lng": "107.1408",
+    "id": "1360633374"
+  },
+  {
+    "city": "Rantau Prapat",
+    "city_ascii": "Rantau Prapat",
+    "admin_name": "Sumatera Utara",
+    "lat": "2.3333",
+    "lng": "100.0500",
+    "id": "1360981676"
+  },
+  {
+    "city": "Salatiga",
+    "city_ascii": "Salatiga",
+    "admin_name": "Jawa Tengah",
+    "lat": "-7.3247",
+    "lng": "110.5444",
+    "id": "1360271289"
+  },
+  {
+    "city": "Beji",
+    "city_ascii": "Beji",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.3704",
+    "lng": "106.8176",
+    "id": "1360401131"
+  },
+  {
+    "city": "Tebingtinggi",
+    "city_ascii": "Tebingtinggi",
+    "admin_name": "Sumatera Utara",
+    "lat": "3.3194",
+    "lng": "99.1522",
+    "id": "1360386781"
+  },
+  {
+    "city": "Teluknaga",
+    "city_ascii": "Teluknaga",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.0989",
+    "lng": "106.6381",
+    "id": "1360011332"
+  },
+  {
+    "city": "Sampit",
+    "city_ascii": "Sampit",
+    "admin_name": "Kalimantan Tengah",
+    "lat": "-2.5333",
+    "lng": "112.9500",
+    "id": "1360020231"
+  },
+  {
+    "city": "Tanjungbalai",
+    "city_ascii": "Tanjungbalai",
+    "admin_name": "Sumatera Utara",
+    "lat": "2.9700",
+    "lng": "99.8000",
+    "id": "1360992709"
+  },
+  {
+    "city": "Ungaran",
+    "city_ascii": "Ungaran",
+    "admin_name": "Jawa Tengah",
+    "lat": "-7.1381",
+    "lng": "110.4050",
+    "id": "1360790134"
+  },
+  {
+    "city": "Tigaraksa",
+    "city_ascii": "Tigaraksa",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.2667",
+    "lng": "106.4667",
+    "id": "1360755390"
+  },
+  {
+    "city": "Metro",
+    "city_ascii": "Metro",
+    "admin_name": "Lampung",
+    "lat": "-5.1167",
+    "lng": "105.3000",
+    "id": "1360659228"
+  },
+  {
+    "city": "Bontang",
+    "city_ascii": "Bontang",
+    "admin_name": "Kalimantan Timur",
+    "lat": "0.1333",
+    "lng": "117.5000",
+    "id": "1360692406"
+  },
+  {
+    "city": "Singaraja",
+    "city_ascii": "Singaraja",
+    "admin_name": "Bali",
+    "lat": "-8.1167",
+    "lng": "115.0833",
+    "id": "1360426282"
+  },
+  {
+    "city": "Baubau",
+    "city_ascii": "Baubau",
+    "admin_name": "Sulawesi Tenggara",
+    "lat": "-5.4622",
+    "lng": "122.6058",
+    "id": "1360789994"
+  },
+  {
+    "city": "Saumlaki",
+    "city_ascii": "Saumlaki",
+    "admin_name": "Maluku",
+    "lat": "-7.9750",
+    "lng": "131.3075",
+    "id": "1360861988"
+  },
+  {
+    "city": "Kisaran",
+    "city_ascii": "Kisaran",
+    "admin_name": "Sumatera Utara",
+    "lat": "2.9833",
+    "lng": "99.6125",
+    "id": "1360782288"
+  },
+  {
+    "city": "Rangkasbitung",
+    "city_ascii": "Rangkasbitung",
+    "admin_name": "Banten",
+    "lat": "-6.3667",
+    "lng": "106.2500",
+    "id": "1360558850"
+  },
+  {
+    "city": "Tinipuka",
+    "city_ascii": "Tinipuka",
+    "admin_name": "Papua Tengah",
+    "lat": "-4.5500",
+    "lng": "136.8900",
+    "id": "1360525797"
+  },
+  {
+    "city": "Subang",
+    "city_ascii": "Subang",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.5714",
+    "lng": "107.7614",
+    "id": "1360943203"
+  },
+  {
+    "city": "Gunungsitoli",
+    "city_ascii": "Gunungsitoli",
+    "admin_name": "Sumatera Utara",
+    "lat": "1.2833",
+    "lng": "97.6167",
+    "id": "1360175198"
+  },
+  {
+    "city": "Bima",
+    "city_ascii": "Bima",
+    "admin_name": "Nusa Tenggara Barat",
+    "lat": "-8.4600",
+    "lng": "118.7267",
+    "id": "1360521866"
+  },
+  {
+    "city": "Pageralam",
+    "city_ascii": "Pageralam",
+    "admin_name": "Sumatera Selatan",
+    "lat": "-4.0167",
+    "lng": "103.2500",
+    "id": "1360027360"
+  },
+  {
+    "city": "Batang",
+    "city_ascii": "Batang",
+    "admin_name": "Jawa Tengah",
+    "lat": "-6.9081",
+    "lng": "109.7304",
+    "id": "1360024582"
+  },
+  {
+    "city": "Gubeng",
+    "city_ascii": "Gubeng",
+    "admin_name": "Jawa Timur",
+    "lat": "-7.2729",
+    "lng": "112.7493",
+    "id": "1360012184"
+  },
+  {
+    "city": "Adonara",
+    "city_ascii": "Adonara",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-8.2500",
+    "lng": "123.1500",
+    "id": "1360760882"
+  },
+  {
+    "city": "Blitar",
+    "city_ascii": "Blitar",
+    "admin_name": "Jawa Timur",
+    "lat": "-8.1000",
+    "lng": "112.1500",
+    "id": "1360011677"
+  },
+  {
+    "city": "Leuwiliang",
+    "city_ascii": "Leuwiliang",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.5742",
+    "lng": "106.6320",
+    "id": "1360771785"
+  },
+  {
+    "city": "Mojokerto",
+    "city_ascii": "Mojokerto",
+    "admin_name": "Jawa Timur",
+    "lat": "-7.4722",
+    "lng": "112.4336",
+    "id": "1360053101"
+  },
+  {
+    "city": "Parepare",
+    "city_ascii": "Parepare",
+    "admin_name": "Sulawesi Selatan",
+    "lat": "-4.0167",
+    "lng": "119.6236",
+    "id": "1360021476"
+  },
+  {
+    "city": "Garut",
+    "city_ascii": "Garut",
+    "admin_name": "Jawa Barat",
+    "lat": "-7.2167",
+    "lng": "107.9000",
+    "id": "1360030509"
+  },
+  {
+    "city": "Payakumbuh",
+    "city_ascii": "Payakumbuh",
+    "admin_name": "Sumatera Barat",
+    "lat": "-0.2333",
+    "lng": "100.6333",
+    "id": "1360091636"
+  },
+  {
+    "city": "Magelang",
+    "city_ascii": "Magelang",
+    "admin_name": "Jawa Tengah",
+    "lat": "-7.4667",
+    "lng": "110.2167",
+    "id": "1360065728"
+  },
+  {
+    "city": "Baleraja",
+    "city_ascii": "Baleraja",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.5167",
+    "lng": "107.9169",
+    "id": "1360384725"
+  },
+  {
+    "city": "Paleng",
+    "city_ascii": "Paleng",
+    "admin_name": "Sulawesi Tengah",
+    "lat": "-1.4000",
+    "lng": "123.1667",
+    "id": "1360144781"
+  },
+  {
+    "city": "Pati",
+    "city_ascii": "Pati",
+    "admin_name": "Jawa Tengah",
+    "lat": "-6.7415",
+    "lng": "111.0347",
+    "id": "1360407556"
+  },
+  {
+    "city": "Indramayu",
+    "city_ascii": "Indramayu",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.3528",
+    "lng": "108.3242",
+    "id": "1360004807"
+  },
+  {
+    "city": "Kotamobagu",
+    "city_ascii": "Kotamobagu",
+    "admin_name": "Sulawesi Utara",
+    "lat": "0.7333",
+    "lng": "124.3167",
+    "id": "1360015626"
+  },
+  {
+    "city": "Pelabuhanratu",
+    "city_ascii": "Pelabuhanratu",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.9878",
+    "lng": "106.5439",
+    "id": "1360747715"
+  },
+  {
+    "city": "Soasio",
+    "city_ascii": "Soasio",
+    "admin_name": "Maluku Utara",
+    "lat": "0.6833",
+    "lng": "127.4000",
+    "id": "1360827216"
+  },
+  {
+    "city": "Banyuwangi",
+    "city_ascii": "Banyuwangi",
+    "admin_name": "Jawa Timur",
+    "lat": "-8.2186",
+    "lng": "114.3669",
+    "id": "1360008480"
+  },
+  {
+    "city": "Soreang",
+    "city_ascii": "Soreang",
+    "admin_name": "Jawa Barat",
+    "lat": "-7.0372",
+    "lng": "107.5167",
+    "id": "1360684486"
+  },
+  {
+    "city": "Tarogong",
+    "city_ascii": "Tarogong",
+    "admin_name": "Jawa Barat",
+    "lat": "-7.2150",
+    "lng": "107.8856",
+    "id": "1360293005"
+  },
+  {
+    "city": "Rawajaya",
+    "city_ascii": "Rawajaya",
+    "admin_name": "Jawa Tengah",
+    "lat": "-7.5800",
+    "lng": "108.8828",
+    "id": "1360338385"
+  },
+  {
+    "city": "Tenggarong",
+    "city_ascii": "Tenggarong",
+    "admin_name": "Kalimantan Timur",
+    "lat": "-0.4000",
+    "lng": "116.9667",
+    "id": "1360391631"
+  },
+  {
+    "city": "Kuningan",
+    "city_ascii": "Kuningan",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.9764",
+    "lng": "108.4844",
+    "id": "1360454767"
+  },
+  {
+    "city": "Bukittinggi",
+    "city_ascii": "Bukittinggi",
+    "admin_name": "Sumatera Barat",
+    "lat": "-0.3056",
+    "lng": "100.3692",
+    "id": "1360552560"
+  },
+  {
+    "city": "Lawang",
+    "city_ascii": "Lawang",
+    "admin_name": "Jawa Timur",
+    "lat": "-7.8300",
+    "lng": "112.7000",
+    "id": "1360944516"
+  },
+  {
+    "city": "Sepatan",
+    "city_ascii": "Sepatan",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.1143",
+    "lng": "106.5784",
+    "id": "1360668571"
+  },
+  {
+    "city": "Manokwari",
+    "city_ascii": "Manokwari",
+    "admin_name": "Papua Barat",
+    "lat": "-0.8667",
+    "lng": "134.0833",
+    "id": "1360451991"
+  },
+  {
+    "city": "Raba",
+    "city_ascii": "Raba",
+    "admin_name": "Nusa Tenggara Barat",
+    "lat": "-8.4614",
+    "lng": "118.7469",
+    "id": "1360014952"
+  },
+  {
+    "city": "Pangkalan Bun",
+    "city_ascii": "Pangkalan Bun",
+    "admin_name": "Kalimantan Tengah",
+    "lat": "-2.6833",
+    "lng": "111.6167",
+    "id": "1360031431"
+  },
+  {
+    "city": "Biak",
+    "city_ascii": "Biak",
+    "admin_name": "Papua",
+    "lat": "-1.1800",
+    "lng": "136.0800",
+    "id": "1360911386"
+  },
+  {
+    "city": "Tanjungpandan",
+    "city_ascii": "Tanjungpandan",
+    "admin_name": "Kepulauan Bangka Belitung",
+    "lat": "-2.7500",
+    "lng": "107.7500",
+    "id": "1360732632"
+  },
+  {
+    "city": "Sumber",
+    "city_ascii": "Sumber",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.7544",
+    "lng": "108.4858",
+    "id": "1360755961"
+  },
+  {
+    "city": "Cinere",
+    "city_ascii": "Cinere",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.3333",
+    "lng": "106.7833",
+    "id": "1360008330"
+  },
+  {
+    "city": "Sungai Penuh",
+    "city_ascii": "Sungai Penuh",
+    "admin_name": "Jambi",
+    "lat": "-2.0589",
+    "lng": "101.3914",
+    "id": "1360337679"
+  },
+  {
+    "city": "Sungailiat",
+    "city_ascii": "Sungailiat",
+    "admin_name": "Kepulauan Bangka Belitung",
+    "lat": "-1.8561",
+    "lng": "106.1192",
+    "id": "1360351006"
+  },
+  {
+    "city": "Nabire",
+    "city_ascii": "Nabire",
+    "admin_name": "Papua Tengah",
+    "lat": "-3.3622",
+    "lng": "135.5028",
+    "id": "1360322221"
+  },
+  {
+    "city": "Ciamis",
+    "city_ascii": "Ciamis",
+    "admin_name": "Jawa Barat",
+    "lat": "-7.3281",
+    "lng": "108.3336",
+    "id": "1360022009"
+  },
+  {
+    "city": "Tomohon",
+    "city_ascii": "Tomohon",
+    "admin_name": "Sulawesi Utara",
+    "lat": "1.3250",
+    "lng": "124.8389",
+    "id": "1360014714"
+  },
+  {
+    "city": "Sibolga",
+    "city_ascii": "Sibolga",
+    "admin_name": "Sumatera Utara",
+    "lat": "1.7400",
+    "lng": "98.7800",
+    "id": "1360021193"
+  },
+  {
+    "city": "Simeulu",
+    "city_ascii": "Simeulu",
+    "admin_name": "Aceh",
+    "lat": "2.6300",
+    "lng": "96.0900",
+    "id": "1360154104"
+  },
+  {
+    "city": "Ketapang",
+    "city_ascii": "Ketapang",
+    "admin_name": "Kalimantan Barat",
+    "lat": "-1.8500",
+    "lng": "109.9833",
+    "id": "1360864937"
+  },
+  {
+    "city": "Tatakan",
+    "city_ascii": "Tatakan",
+    "admin_name": "Banten",
+    "lat": "-6.1116",
+    "lng": "106.1036",
+    "id": "1360853285"
+  },
+  {
+    "city": "Cisauk",
+    "city_ascii": "Cisauk",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.3333",
+    "lng": "106.6500",
+    "id": "1360929502"
+  },
+  {
+    "city": "Pamekasan",
+    "city_ascii": "Pamekasan",
+    "admin_name": "Jawa Timur",
+    "lat": "-7.1574",
+    "lng": "113.4718",
+    "id": "1360165118"
+  },
+  {
+    "city": "Bangkalan",
+    "city_ascii": "Bangkalan",
+    "admin_name": "Jawa Timur",
+    "lat": "-7.0253",
+    "lng": "112.7519",
+    "id": "1360714643"
+  },
+  {
+    "city": "Tuban",
+    "city_ascii": "Tuban",
+    "admin_name": "Jawa Timur",
+    "lat": "-6.9000",
+    "lng": "112.0500",
+    "id": "1360482232"
+  },
+  {
+    "city": "Ende",
+    "city_ascii": "Ende",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-8.8333",
+    "lng": "121.6500",
+    "id": "1360796329"
+  },
+  {
+    "city": "Karanganyar",
+    "city_ascii": "Karanganyar",
+    "admin_name": "Jawa Tengah",
+    "lat": "-7.6033",
+    "lng": "110.9778",
+    "id": "1360194209"
+  },
+  {
+    "city": "Pariaman",
+    "city_ascii": "Pariaman",
+    "admin_name": "Sumatera Barat",
+    "lat": "-0.6264",
+    "lng": "100.1178",
+    "id": "1360811086"
+  },
+  {
+    "city": "Sumenep",
+    "city_ascii": "Sumenep",
+    "admin_name": "Jawa Timur",
+    "lat": "-7.0049",
+    "lng": "113.8496",
+    "id": "1360439354"
+  },
+  {
+    "city": "Sentani",
+    "city_ascii": "Sentani",
+    "admin_name": "Papua",
+    "lat": "-2.5636",
+    "lng": "140.5146",
+    "id": "1360670830"
+  },
+  {
+    "city": "Bangil",
+    "city_ascii": "Bangil",
+    "admin_name": "Jawa Timur",
+    "lat": "-7.5978",
+    "lng": "112.7846",
+    "id": "1360140527"
+  },
+  {
+    "city": "Tual",
+    "city_ascii": "Tual",
+    "admin_name": "Maluku",
+    "lat": "-5.6368",
+    "lng": "132.7508",
+    "id": "1360221504"
+  },
+  {
+    "city": "Jepara",
+    "city_ascii": "Jepara",
+    "admin_name": "Jawa Tengah",
+    "lat": "-6.5333",
+    "lng": "110.6667",
+    "id": "1360703818"
+  },
+  {
+    "city": "Watampone",
+    "city_ascii": "Watampone",
+    "admin_name": "Sulawesi Selatan",
+    "lat": "-4.5386",
+    "lng": "120.3297",
+    "id": "1360956480"
+  },
+  {
+    "city": "Mandiraja Kulon",
+    "city_ascii": "Mandiraja Kulon",
+    "admin_name": "Jawa Tengah",
+    "lat": "-7.4722",
+    "lng": "109.5133",
+    "id": "1360018564"
+  },
+  {
+    "city": "Subulussalam",
+    "city_ascii": "Subulussalam",
+    "admin_name": "Aceh",
+    "lat": "2.6422",
+    "lng": "98.0042",
+    "id": "1360306114"
+  },
+  {
+    "city": "Maumere",
+    "city_ascii": "Maumere",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-8.6222",
+    "lng": "122.2122",
+    "id": "1360776014"
+  },
+  {
+    "city": "Atambua",
+    "city_ascii": "Atambua",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-9.1061",
+    "lng": "124.8925",
+    "id": "1360853693"
+  },
+  {
+    "city": "Ubud",
+    "city_ascii": "Ubud",
+    "admin_name": "Bali",
+    "lat": "-8.5069",
+    "lng": "115.2624",
+    "id": "1360332409"
+  },
+  {
+    "city": "Singaparna",
+    "city_ascii": "Singaparna",
+    "admin_name": "Jawa Barat",
+    "lat": "-7.3497",
+    "lng": "108.1106",
+    "id": "1360770818"
+  },
+  {
+    "city": "Majalengka",
+    "city_ascii": "Majalengka",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.8353",
+    "lng": "108.2278",
+    "id": "1360611152"
+  },
+  {
+    "city": "Bagan Si Api-api",
+    "city_ascii": "Bagan Si Api-api",
+    "admin_name": "Riau",
+    "lat": "2.1667",
+    "lng": "100.8167",
+    "id": "1360940689"
+  },
+  {
+    "city": "Kresek",
+    "city_ascii": "Kresek",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.1314",
+    "lng": "106.3800",
+    "id": "1360535530"
+  },
+  {
+    "city": "Waingapu",
+    "city_ascii": "Waingapu",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-9.6500",
+    "lng": "120.2667",
+    "id": "1360882365"
+  },
+  {
+    "city": "Raha Tiga",
+    "city_ascii": "Raha Tiga",
+    "admin_name": "Sulawesi Tenggara",
+    "lat": "-4.8311",
+    "lng": "122.7239",
+    "id": "1360037142"
+  },
+  {
+    "city": "Raha",
+    "city_ascii": "Raha",
+    "admin_name": "Sulawesi Tenggara",
+    "lat": "-4.8311",
+    "lng": "122.7239",
+    "id": "1360221477"
+  },
+  {
+    "city": "Solok",
+    "city_ascii": "Solok",
+    "admin_name": "Sumatera Barat",
+    "lat": "-0.7997",
+    "lng": "100.6661",
+    "id": "1360178406"
+  },
+  {
+    "city": "Kampung Tengah",
+    "city_ascii": "Kampung Tengah",
+    "admin_name": "Riau",
+    "lat": "1.4836",
+    "lng": "101.9561",
+    "id": "1360731304"
+  },
+  {
+    "city": "Bengkalis",
+    "city_ascii": "Bengkalis",
+    "admin_name": "Riau",
+    "lat": "1.4897",
+    "lng": "102.0797",
+    "id": "1360245964"
+  },
+  {
+    "city": "Wamena",
+    "city_ascii": "Wamena",
+    "admin_name": "Papua Pegunungan",
+    "lat": "-4.0975",
+    "lng": "138.9511",
+    "id": "1360024872"
+  },
+  {
+    "city": "Lahat",
+    "city_ascii": "Lahat",
+    "admin_name": "Sumatera Selatan",
+    "lat": "-3.8000",
+    "lng": "103.5333",
+    "id": "1360094721"
+  },
+  {
+    "city": "Ruteng",
+    "city_ascii": "Ruteng",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-8.6127",
+    "lng": "120.4630",
+    "id": "1360084520"
+  },
+  {
+    "city": "Kronjo",
+    "city_ascii": "Kronjo",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.0667",
+    "lng": "106.4167",
+    "id": "1360000841"
+  },
+  {
+    "city": "Toboali",
+    "city_ascii": "Toboali",
+    "admin_name": "Kepulauan Bangka Belitung",
+    "lat": "-2.9997",
+    "lng": "106.4656",
+    "id": "1360078937"
+  },
+  {
+    "city": "Meulaboh",
+    "city_ascii": "Meulaboh",
+    "admin_name": "Aceh",
+    "lat": "4.1333",
+    "lng": "96.1167",
+    "id": "1360010778"
+  },
+  {
+    "city": "Ambarawa",
+    "city_ascii": "Ambarawa",
+    "admin_name": "Jawa Tengah",
+    "lat": "-7.2667",
+    "lng": "110.4000",
+    "id": "1360693146"
+  },
+  {
+    "city": "Tanjung Selor",
+    "city_ascii": "Tanjung Selor",
+    "admin_name": "Kalimantan Utara",
+    "lat": "2.8500",
+    "lng": "117.3833",
+    "id": "1360029270"
+  },
+  {
+    "city": "Sumbawa Besar",
+    "city_ascii": "Sumbawa Besar",
+    "admin_name": "Nusa Tenggara Barat",
+    "lat": "-8.5000",
+    "lng": "117.4167",
+    "id": "1360601862"
+  },
+  {
+    "city": "Sawahlunto",
+    "city_ascii": "Sawahlunto",
+    "admin_name": "Sumatera Barat",
+    "lat": "-0.6667",
+    "lng": "100.7833",
+    "id": "1360188622"
+  },
+  {
+    "city": "Dompu",
+    "city_ascii": "Dompu",
+    "admin_name": "Nusa Tenggara Barat",
+    "lat": "-8.5364",
+    "lng": "118.4633",
+    "id": "1360208134"
+  },
+  {
+    "city": "Taliwang",
+    "city_ascii": "Taliwang",
+    "admin_name": "Nusa Tenggara Barat",
+    "lat": "-8.7336",
+    "lng": "116.8667",
+    "id": "1360014762"
+  },
+  {
+    "city": "Bebandem",
+    "city_ascii": "Bebandem",
+    "admin_name": "Bali",
+    "lat": "-8.4046",
+    "lng": "115.5395",
+    "id": "1360542849"
+  },
+  {
+    "city": "Barabai",
+    "city_ascii": "Barabai",
+    "admin_name": "Kalimantan Selatan",
+    "lat": "-2.5833",
+    "lng": "115.3833",
+    "id": "1360007824"
+  },
+  {
+    "city": "Jambe",
+    "city_ascii": "Jambe",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.3160",
+    "lng": "106.4853",
+    "id": "1360420986"
+  },
+  {
+    "city": "Kuala Kapuas",
+    "city_ascii": "Kuala Kapuas",
+    "admin_name": "Kalimantan Tengah",
+    "lat": "-3.0013",
+    "lng": "114.3916",
+    "id": "1360858401"
+  },
+  {
+    "city": "Karak",
+    "city_ascii": "Karak",
+    "admin_name": "Riau",
+    "lat": "-0.5298",
+    "lng": "101.5721",
+    "id": "1360126272"
+  },
+  {
+    "city": "Lubuk Sikaping",
+    "city_ascii": "Lubuk Sikaping",
+    "admin_name": "Sumatera Barat",
+    "lat": "0.1500",
+    "lng": "100.1667",
+    "id": "1360776561"
+  },
+  {
+    "city": "Padangpanjang",
+    "city_ascii": "Padangpanjang",
+    "admin_name": "Sumatera Barat",
+    "lat": "-0.4500",
+    "lng": "100.4167",
+    "id": "1360231049"
+  },
+  {
+    "city": "Menggala",
+    "city_ascii": "Menggala",
+    "admin_name": "Lampung",
+    "lat": "-4.4750",
+    "lng": "105.2414",
+    "id": "1360247711"
+  },
+  {
+    "city": "Amahai",
+    "city_ascii": "Amahai",
+    "admin_name": "Maluku",
+    "lat": "-3.3439",
+    "lng": "128.9322",
+    "id": "1360767250"
+  },
+  {
+    "city": "Gombong",
+    "city_ascii": "Gombong",
+    "admin_name": "Jawa Tengah",
+    "lat": "-7.6000",
+    "lng": "109.5167",
+    "id": "1360408971"
+  },
+  {
+    "city": "Kandangan",
+    "city_ascii": "Kandangan",
+    "admin_name": "Kalimantan Selatan",
+    "lat": "-2.7833",
+    "lng": "115.2667",
+    "id": "1360314802"
+  },
+  {
+    "city": "Tunglangan",
+    "city_ascii": "Tunglangan",
+    "admin_name": "Bali",
+    "lat": "-8.4167",
+    "lng": "115.3000",
+    "id": "1360405152"
+  },
+  {
+    "city": "Berastagi",
+    "city_ascii": "Berastagi",
+    "admin_name": "Sumatera Utara",
+    "lat": "3.1833",
+    "lng": "98.5167",
+    "id": "1360817903"
+  },
+  {
+    "city": "Luwuk",
+    "city_ascii": "Luwuk",
+    "admin_name": "Sulawesi Tengah",
+    "lat": "-0.9396",
+    "lng": "122.7900",
+    "id": "1360727028"
+  },
+  {
+    "city": "Kefamenanu",
+    "city_ascii": "Kefamenanu",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-9.4467",
+    "lng": "124.4781",
+    "id": "1360755918"
+  },
+  {
+    "city": "Poso",
+    "city_ascii": "Poso",
+    "admin_name": "Sulawesi Tengah",
+    "lat": "-1.4000",
+    "lng": "120.7500",
+    "id": "1360727615"
+  },
+  {
+    "city": "Muara Teweh",
+    "city_ascii": "Muara Teweh",
+    "admin_name": "Kalimantan Tengah",
+    "lat": "-0.9535",
+    "lng": "114.8981",
+    "id": "1360980558"
+  },
+  {
+    "city": "Parigi",
+    "city_ascii": "Parigi",
+    "admin_name": "Jawa Barat",
+    "lat": "-7.6914",
+    "lng": "108.5372",
+    "id": "1360904302"
+  },
+  {
+    "city": "Barru",
+    "city_ascii": "Barru",
+    "admin_name": "Sulawesi Selatan",
+    "lat": "-4.3587",
+    "lng": "119.6399",
+    "id": "1360568258"
+  },
+  {
+    "city": "Pemangkat",
+    "city_ascii": "Pemangkat",
+    "admin_name": "Kalimantan Barat",
+    "lat": "1.1768",
+    "lng": "108.9624",
+    "id": "1360279205"
+  },
+  {
+    "city": "Pemangkat",
+    "city_ascii": "Pemangkat",
+    "admin_name": "Kalimantan Barat",
+    "lat": "-1.1003",
+    "lng": "109.8902",
+    "id": "1360421520"
+  },
+  {
+    "city": "Tarutung",
+    "city_ascii": "Tarutung",
+    "admin_name": "Sumatera Utara",
+    "lat": "2.0167",
+    "lng": "98.9667",
+    "id": "1360333240"
+  },
+  {
+    "city": "Kaimana",
+    "city_ascii": "Kaimana",
+    "admin_name": "Papua Barat",
+    "lat": "-3.6444",
+    "lng": "133.6953",
+    "id": "1360777936"
+  },
+  {
+    "city": "Cimerak",
+    "city_ascii": "Cimerak",
+    "admin_name": "Jawa Barat",
+    "lat": "-7.7422",
+    "lng": "108.4244",
+    "id": "1360250961"
+  },
+  {
+    "city": "Rantepao",
+    "city_ascii": "Rantepao",
+    "admin_name": "Sulawesi Selatan",
+    "lat": "-2.9690",
+    "lng": "119.9000",
+    "id": "1360797389"
+  },
+  {
+    "city": "Betun",
+    "city_ascii": "Betun",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-9.4953",
+    "lng": "124.9603",
+    "id": "1360175629"
+  },
+  {
+    "city": "Kotabumi",
+    "city_ascii": "Kotabumi",
+    "admin_name": "Lampung",
+    "lat": "-4.8333",
+    "lng": "104.9000",
+    "id": "1360396080"
+  },
+  {
+    "city": "Larantuka",
+    "city_ascii": "Larantuka",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-8.3133",
+    "lng": "123.0042",
+    "id": "1360493926"
+  },
+  {
+    "city": "Soe",
+    "city_ascii": "Soe",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-9.8667",
+    "lng": "124.2833",
+    "id": "1360125783"
+  },
+  {
+    "city": "Amuntai",
+    "city_ascii": "Amuntai",
+    "admin_name": "Kalimantan Selatan",
+    "lat": "-2.4177",
+    "lng": "115.2494",
+    "id": "1360306329"
+  },
+  {
+    "city": "Kualaserba",
+    "city_ascii": "Kualaserba",
+    "admin_name": "Aceh",
+    "lat": "4.2333",
+    "lng": "97.8667",
+    "id": "1360306823"
+  },
+  {
+    "city": "Ampana",
+    "city_ascii": "Ampana",
+    "admin_name": "Sulawesi Tengah",
+    "lat": "-0.8667",
+    "lng": "121.5833",
+    "id": "1360217456"
+  },
+  {
+    "city": "Leramatang",
+    "city_ascii": "Leramatang",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-8.4000",
+    "lng": "123.5700",
+    "id": "1360546099"
+  },
+  {
+    "city": "Masamba",
+    "city_ascii": "Masamba",
+    "admin_name": "Sulawesi Selatan",
+    "lat": "-2.5531",
+    "lng": "120.3275",
+    "id": "1360929880"
+  },
+  {
+    "city": "Manggar",
+    "city_ascii": "Manggar",
+    "admin_name": "Kepulauan Bangka Belitung",
+    "lat": "-2.8900",
+    "lng": "108.2700",
+    "id": "1360793335"
+  },
+  {
+    "city": "Cakung",
+    "city_ascii": "Cakung",
+    "admin_name": "Jakarta",
+    "lat": "-6.2138",
+    "lng": "106.9473",
+    "id": "1360997891"
+  },
+  {
+    "city": "Sabang",
+    "city_ascii": "Sabang",
+    "admin_name": "Aceh",
+    "lat": "5.8942",
+    "lng": "95.3192",
+    "id": "1360742506"
+  },
+  {
+    "city": "Mantingan",
+    "city_ascii": "Mantingan",
+    "admin_name": "Jawa Timur",
+    "lat": "-7.3682",
+    "lng": "111.1644",
+    "id": "1360342191"
+  },
+  {
+    "city": "Namlea",
+    "city_ascii": "Namlea",
+    "admin_name": "Maluku",
+    "lat": "-3.2500",
+    "lng": "127.0833",
+    "id": "1360926873"
+  },
+  {
+    "city": "Bangkinang",
+    "city_ascii": "Bangkinang",
+    "admin_name": "Riau",
+    "lat": "0.3500",
+    "lng": "101.0333",
+    "id": "1360571456"
+  },
+  {
+    "city": "Bayur",
+    "city_ascii": "Bayur",
+    "admin_name": "Sumatera Barat",
+    "lat": "-0.2610",
+    "lng": "100.2220",
+    "id": "1360540790"
+  },
+  {
+    "city": "Pande",
+    "city_ascii": "Pande",
+    "admin_name": "Bali",
+    "lat": "-8.6840",
+    "lng": "115.2264",
+    "id": "1360521210"
+  },
+  {
+    "city": "Tambolaka",
+    "city_ascii": "Tambolaka",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-9.4333",
+    "lng": "119.2333",
+    "id": "1360753806"
+  },
+  {
+    "city": "Sungaiselam",
+    "city_ascii": "Sungaiselam",
+    "admin_name": "Kepulauan Bangka Belitung",
+    "lat": "-2.3839",
+    "lng": "105.9800",
+    "id": "1360317432"
+  },
+  {
+    "city": "Tahuna",
+    "city_ascii": "Tahuna",
+    "admin_name": "Sulawesi Utara",
+    "lat": "3.6119",
+    "lng": "125.5008",
+    "id": "1360805845"
+  },
+  {
+    "city": "Praya",
+    "city_ascii": "Praya",
+    "admin_name": "Nusa Tenggara Barat",
+    "lat": "-8.7223",
+    "lng": "116.2923",
+    "id": "1360664646"
+  },
+  {
+    "city": "Saparua",
+    "city_ascii": "Saparua",
+    "admin_name": "Maluku",
+    "lat": "-3.5749",
+    "lng": "128.6470",
+    "id": "1360081288"
+  },
+  {
+    "city": "Merauke",
+    "city_ascii": "Merauke",
+    "admin_name": "Papua Selatan",
+    "lat": "-8.4932",
+    "lng": "140.4018",
+    "id": "1360904439"
+  },
+  {
+    "city": "Pangururan",
+    "city_ascii": "Pangururan",
+    "admin_name": "Sumatera Utara",
+    "lat": "2.6075",
+    "lng": "98.6959",
+    "id": "1360440190"
+  },
+  {
+    "city": "Bintuni",
+    "city_ascii": "Bintuni",
+    "admin_name": "Papua Barat",
+    "lat": "-2.1167",
+    "lng": "133.5333",
+    "id": "1360482675"
+  },
+  {
+    "city": "Tobelo",
+    "city_ascii": "Tobelo",
+    "admin_name": "Maluku Utara",
+    "lat": "1.7319",
+    "lng": "128.0078",
+    "id": "1360613851"
+  },
+  {
+    "city": "Waikabubak",
+    "city_ascii": "Waikabubak",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-9.6358",
+    "lng": "119.4131",
+    "id": "1360399705"
+  },
+  {
+    "city": "Sanana",
+    "city_ascii": "Sanana",
+    "admin_name": "Maluku Utara",
+    "lat": "-2.0545",
+    "lng": "125.9754",
+    "id": "1360020915"
+  },
+  {
+    "city": "Sendawar",
+    "city_ascii": "Sendawar",
+    "admin_name": "Sumatera Utara",
+    "lat": "2.1833",
+    "lng": "98.3833",
+    "id": "1360006405"
+  },
+  {
+    "city": "Airmadidi",
+    "city_ascii": "Airmadidi",
+    "admin_name": "Sulawesi Utara",
+    "lat": "1.4333",
+    "lng": "124.9833",
+    "id": "1360792086"
+  },
+  {
+    "city": "Lewoleba",
+    "city_ascii": "Lewoleba",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-8.3833",
+    "lng": "123.4000",
+    "id": "1360652469"
+  },
+  {
+    "city": "Kulat",
+    "city_ascii": "Kulat",
+    "admin_name": "Bali",
+    "lat": "-8.8243",
+    "lng": "115.0983",
+    "id": "1360003468"
+  },
+  {
+    "city": "Rappang",
+    "city_ascii": "Rappang",
+    "admin_name": "Sulawesi Selatan",
+    "lat": "-3.8447",
+    "lng": "119.8205",
+    "id": "1360002024"
+  },
+  {
+    "city": "Bungku",
+    "city_ascii": "Bungku",
+    "admin_name": "Sulawesi Tengah",
+    "lat": "-2.5333",
+    "lng": "121.9667",
+    "id": "1360661164"
+  },
+  {
+    "city": "Tegalbuleud",
+    "city_ascii": "Tegalbuleud",
+    "admin_name": "Jawa Barat",
+    "lat": "-7.3578",
+    "lng": "106.6220",
+    "id": "1360719911"
+  },
+  {
+    "city": "Benua Baru",
+    "city_ascii": "Benua Baru",
+    "admin_name": "Kalimantan Timur",
+    "lat": "0.9878",
+    "lng": "117.9800",
+    "id": "1360503352"
+  },
+  {
+    "city": "Tembagapura",
+    "city_ascii": "Tembagapura",
+    "admin_name": "Papua Tengah",
+    "lat": "-4.1428",
+    "lng": "137.0906",
+    "id": "1360289992"
+  },
+  {
+    "city": "Blangmangat",
+    "city_ascii": "Blangmangat",
+    "admin_name": "Aceh",
+    "lat": "5.1881",
+    "lng": "97.1403",
+    "id": "1360562688"
+  },
+  {
+    "city": "Tapaktuan",
+    "city_ascii": "Tapaktuan",
+    "admin_name": "Aceh",
+    "lat": "3.2500",
+    "lng": "97.1667",
+    "id": "1360203588"
+  },
+  {
+    "city": "Puruk Cahu",
+    "city_ascii": "Puruk Cahu",
+    "admin_name": "Kalimantan Tengah",
+    "lat": "-0.6384",
+    "lng": "114.5677",
+    "id": "1360025620"
+  },
+  {
+    "city": "Kuala Pembuang",
+    "city_ascii": "Kuala Pembuang",
+    "admin_name": "Kalimantan Tengah",
+    "lat": "-3.3871",
+    "lng": "112.5434",
+    "id": "1360736097"
+  },
+  {
+    "city": "Teminabuan",
+    "city_ascii": "Teminabuan",
+    "admin_name": "Papua Barat",
+    "lat": "-1.4333",
+    "lng": "132.0167",
+    "id": "1360620056"
+  },
+  {
+    "city": "Kalabahi",
+    "city_ascii": "Kalabahi",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-8.2167",
+    "lng": "124.5167",
+    "id": "1360839467"
+  },
+  {
+    "city": "Fakfak",
+    "city_ascii": "Fakfak",
+    "admin_name": "Papua Barat",
+    "lat": "-2.9167",
+    "lng": "132.3000",
+    "id": "1360400295"
+  },
+  {
+    "city": "Kasongan",
+    "city_ascii": "Kasongan",
+    "admin_name": "Kalimantan Tengah",
+    "lat": "-1.8959",
+    "lng": "113.3878",
+    "id": "1360902352"
+  },
+  {
+    "city": "Kolonodale",
+    "city_ascii": "Kolonodale",
+    "admin_name": "Sulawesi Tengah",
+    "lat": "-1.9833",
+    "lng": "121.3333",
+    "id": "1360484541"
+  },
+  {
+    "city": "Buntok",
+    "city_ascii": "Buntok",
+    "admin_name": "Kalimantan Tengah",
+    "lat": "-1.7190",
+    "lng": "114.8448",
+    "id": "1360010323"
+  },
+  {
+    "city": "Piru",
+    "city_ascii": "Piru",
+    "admin_name": "Maluku",
+    "lat": "-3.0811",
+    "lng": "128.1411",
+    "id": "1360998768"
+  },
+  {
+    "city": "Ransiki",
+    "city_ascii": "Ransiki",
+    "admin_name": "Papua Barat",
+    "lat": "-1.5000",
+    "lng": "134.1667",
+    "id": "1360755420"
+  },
+  {
+    "city": "Melonguane",
+    "city_ascii": "Melonguane",
+    "admin_name": "Sulawesi Utara",
+    "lat": "4.0045",
+    "lng": "126.6827",
+    "id": "1360210043"
+  },
+  {
+    "city": "Cipanas",
+    "city_ascii": "Cipanas",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.7330",
+    "lng": "107.0410",
+    "id": "1360915257"
+  },
+  {
+    "city": "Painan",
+    "city_ascii": "Painan",
+    "admin_name": "Sumatera Barat",
+    "lat": "-1.3511",
+    "lng": "100.5756",
+    "id": "1360654433"
+  },
+  {
+    "city": "Sungai Guntung",
+    "city_ascii": "Sungai Guntung",
+    "admin_name": "Riau",
+    "lat": "0.2956",
+    "lng": "103.6114",
+    "id": "1360986029"
+  },
+  {
+    "city": "Serui",
+    "city_ascii": "Serui",
+    "admin_name": "Papua",
+    "lat": "-1.8780",
+    "lng": "136.2370",
+    "id": "1360061109"
+  },
+  {
+    "city": "Kuala Kurun",
+    "city_ascii": "Kuala Kurun",
+    "admin_name": "Kalimantan Tengah",
+    "lat": "-1.1016",
+    "lng": "113.8664",
+    "id": "1360003464"
+  },
+  {
+    "city": "Perigi Dua",
+    "city_ascii": "Perigi Dua",
+    "admin_name": "Jawa Barat",
+    "lat": "-6.2656",
+    "lng": "106.6969",
+    "id": "1360121501"
+  },
+  {
+    "city": "Maba",
+    "city_ascii": "Maba",
+    "admin_name": "Maluku Utara",
+    "lat": "0.7000",
+    "lng": "128.3000",
+    "id": "1360800707"
+  },
+  {
+    "city": "Pajo",
+    "city_ascii": "Pajo",
+    "admin_name": "Nusa Tenggara Timur",
+    "lat": "-8.5167",
+    "lng": "120.3333",
+    "id": "1360777434"
+  },
+  {
+    "city": "Putussibau",
+    "city_ascii": "Putussibau",
+    "admin_name": "Kalimantan Barat",
+    "lat": "0.8575",
+    "lng": "112.9250",
+    "id": "1360803364"
+  },
+  {
+    "city": "Padang",
+    "city_ascii": "Padang",
+    "admin_name": "Sumatera Barat",
+    "lat": "-0.9500",
+    "lng": "100.3531",
+    "id": "1360900986"
+  },
+  {
+    "city": "Ban",
+    "city_ascii": "Ban",
+    "admin_name": "Bali",
+    "lat": "-8.2333",
+    "lng": "115.4833",
+    "id": "1360520678"
+  },
+  {
+    "city": "Sonosari",
+    "city_ascii": "Sonosari",
+    "admin_name": "Yogyakarta",
+    "lat": "-7.8014",
+    "lng": "110.3644",
+    "id": "1360754867"
+  },
+  {
+    "city": "Kehen",
+    "city_ascii": "Kehen",
+    "admin_name": "Bali",
+    "lat": "-8.5589",
+    "lng": "115.2869",
+    "id": "1360573405"
+  },
+  {
+    "city": "Tentena",
+    "city_ascii": "Tentena",
+    "admin_name": "Sulawesi Tengah",
+    "lat": "-1.7822",
+    "lng": "120.6494",
+    "id": "1360336165"
+  },
+  {
+    "city": "Tibubeneng",
+    "city_ascii": "Tibubeneng",
+    "admin_name": "Bali",
+    "lat": "-8.6469",
+    "lng": "115.1503",
+    "id": "1360364927"
+  },
+  {
+    "city": "Tamiang Layang",
+    "city_ascii": "Tamiang Layang",
+    "admin_name": "Kalimantan Tengah",
+    "lat": "-2.1160",
+    "lng": "115.1691",
+    "id": "1360507252"
+  },
+  {
+    "city": "Kelandis",
+    "city_ascii": "Kelandis",
+    "admin_name": "Bali",
+    "lat": "-8.6595",
+    "lng": "115.2270",
+    "id": "1360695846"
+  },
+  {
+    "city": "Haria",
+    "city_ascii": "Haria",
+    "admin_name": "Maluku",
+    "lat": "-3.5833",
+    "lng": "128.6167",
+    "id": "1360043988"
+  },
+  {
+    "city": "Makale",
+    "city_ascii": "Makale",
+    "admin_name": "Sulawesi Selatan",
+    "lat": "-3.1000",
+    "lng": "119.8500",
+    "id": "1360576738"
+  },
+  {
+    "city": "Karimunjawa",
+    "city_ascii": "Karimunjawa",
+    "admin_name": "Jawa Tengah",
+    "lat": "-5.8192",
+    "lng": "110.4590",
+    "id": "1360892611"
+  },
+  {
+    "city": "Jantho",
+    "city_ascii": "Jantho",
+    "admin_name": "Aceh",
+    "lat": "5.3000",
+    "lng": "95.6333",
+    "id": "1360164924"
+  },
+  {
+    "city": "Tlagasana",
+    "city_ascii": "Tlagasana",
+    "admin_name": "Jawa Tengah",
+    "lat": "-7.1786",
+    "lng": "109.5057",
+    "id": "1360739732"
+  },
+  {
+    "city": "Galela",
+    "city_ascii": "Galela",
+    "admin_name": "Maluku Utara",
+    "lat": "1.8236",
+    "lng": "127.8431",
+    "id": "1360398495"
+  },
+  {
+    "city": "Ranai",
+    "city_ascii": "Ranai",
+    "admin_name": "Kepulauan Riau",
+    "lat": "3.9333",
+    "lng": "108.3833",
+    "id": "1360035725"
+  },
+  {
+    "city": "Slateng Dua",
+    "city_ascii": "Slateng Dua",
+    "admin_name": "Jawa Timur",
+    "lat": "-8.1324",
+    "lng": "113.9836",
+    "id": "1360733120"
+  },
+  {
+    "city": "Sofifi",
+    "city_ascii": "Sofifi",
+    "admin_name": "Maluku Utara",
+    "lat": "0.7244",
+    "lng": "127.5806",
+    "id": "1360431437"
+  },
+  {
+    "city": "Buton",
+    "city_ascii": "Buton",
+    "admin_name": "Kepulauan Riau",
+    "lat": "4.2170",
+    "lng": "108.2000",
+    "id": "1360984658"
+  },
+  {
+    "city": "Pinrang",
+    "city_ascii": "Pinrang",
+    "admin_name": "Sulawesi Selatan",
+    "lat": "-3.7857",
+    "lng": "119.6522",
+    "id": "1360941841"
+  }
+]

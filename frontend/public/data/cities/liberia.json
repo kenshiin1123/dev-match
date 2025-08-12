@@ -1,0 +1,186 @@
+[
+  {
+    "city": "Monrovia",
+    "city_ascii": "Monrovia",
+    "admin_name": "Montserrado",
+    "lat": "6.3133",
+    "lng": "-10.8014",
+    "id": "1430477826"
+  },
+  {
+    "city": "Yeebo Town",
+    "city_ascii": "Yeebo Town",
+    "admin_name": "River Gee",
+    "lat": "5.2500",
+    "lng": "-7.9167",
+    "id": "1430592314"
+  },
+  {
+    "city": "New Kru Town",
+    "city_ascii": "New Kru Town",
+    "admin_name": "Montserrado",
+    "lat": "6.3733",
+    "lng": "-10.7928",
+    "id": "1430152542"
+  },
+  {
+    "city": "Upper Buchanan",
+    "city_ascii": "Upper Buchanan",
+    "admin_name": "Grand Bassa",
+    "lat": "5.9161",
+    "lng": "-10.0525",
+    "id": "1430177860"
+  },
+  {
+    "city": "Ganta",
+    "city_ascii": "Ganta",
+    "admin_name": "Nimba",
+    "lat": "7.2375",
+    "lng": "-8.9814",
+    "id": "1430766691"
+  },
+  {
+    "city": "Buchanan",
+    "city_ascii": "Buchanan",
+    "admin_name": "Grand Bassa",
+    "lat": "5.8808",
+    "lng": "-10.0467",
+    "id": "1430478203"
+  },
+  {
+    "city": "Gbarnga",
+    "city_ascii": "Gbarnga",
+    "admin_name": "Bong",
+    "lat": "6.9980",
+    "lng": "-9.4730",
+    "id": "1430269323"
+  },
+  {
+    "city": "Kakata",
+    "city_ascii": "Kakata",
+    "admin_name": "Margibi",
+    "lat": "6.5300",
+    "lng": "-10.3517",
+    "id": "1430656307"
+  },
+  {
+    "city": "Voinjama",
+    "city_ascii": "Voinjama",
+    "admin_name": "Lofa",
+    "lat": "8.4167",
+    "lng": "-9.7500",
+    "id": "1430858471"
+  },
+  {
+    "city": "Harbel",
+    "city_ascii": "Harbel",
+    "admin_name": "Margibi",
+    "lat": "6.2833",
+    "lng": "-10.3500",
+    "id": "1430289576"
+  },
+  {
+    "city": "Zwedru",
+    "city_ascii": "Zwedru",
+    "admin_name": "Grand Gedeh",
+    "lat": "6.0667",
+    "lng": "-8.1333",
+    "id": "1430130578"
+  },
+  {
+    "city": "Foya Tangia",
+    "city_ascii": "Foya Tangia",
+    "admin_name": "Lofa",
+    "lat": "8.2713",
+    "lng": "-10.2283",
+    "id": "1430908591"
+  },
+  {
+    "city": "Harper",
+    "city_ascii": "Harper",
+    "admin_name": "Maryland",
+    "lat": "4.3667",
+    "lng": "-7.7167",
+    "id": "1430540258"
+  },
+  {
+    "city": "Greenville",
+    "city_ascii": "Greenville",
+    "admin_name": "Sinoe",
+    "lat": "5.0167",
+    "lng": "-9.0333",
+    "id": "1430362799"
+  },
+  {
+    "city": "Tubmanburg",
+    "city_ascii": "Tubmanburg",
+    "admin_name": "Bomi",
+    "lat": "6.8667",
+    "lng": "-10.8167",
+    "id": "1430503114"
+  },
+  {
+    "city": "Saclepea",
+    "city_ascii": "Saclepea",
+    "admin_name": "Nimba",
+    "lat": "7.1167",
+    "lng": "-8.8333",
+    "id": "1430824666"
+  },
+  {
+    "city": "Sanniquellie",
+    "city_ascii": "Sanniquellie",
+    "admin_name": "Nimba",
+    "lat": "7.3622",
+    "lng": "-8.7061",
+    "id": "1430949102"
+  },
+  {
+    "city": "Bensonville",
+    "city_ascii": "Bensonville",
+    "admin_name": "Montserrado",
+    "lat": "6.4456",
+    "lng": "-10.6097",
+    "id": "1430964557"
+  },
+  {
+    "city": "Robertsport",
+    "city_ascii": "Robertsport",
+    "admin_name": "Grand Cape Mount",
+    "lat": "6.7500",
+    "lng": "-11.3667",
+    "id": "1430885010"
+  },
+  {
+    "city": "Fish Town",
+    "city_ascii": "Fish Town",
+    "admin_name": "River Gee",
+    "lat": "5.1964",
+    "lng": "-7.8756",
+    "id": "1430204172"
+  },
+  {
+    "city": "Bopolu",
+    "city_ascii": "Bopolu",
+    "admin_name": "Gbarpolu",
+    "lat": "7.0667",
+    "lng": "-10.4875",
+    "id": "1430414456"
+  },
+  {
+    "city": "Barclayville",
+    "city_ascii": "Barclayville",
+    "admin_name": "Grand Kru",
+    "lat": "4.6797",
+    "lng": "-8.2339",
+    "id": "1430129873"
+  },
+  {
+    "city": "Cestos City",
+    "city_ascii": "Cestos City",
+    "admin_name": "River Cess",
+    "lat": "5.4667",
+    "lng": "-9.5833",
+    "id": "1430708587"
+  }
+]

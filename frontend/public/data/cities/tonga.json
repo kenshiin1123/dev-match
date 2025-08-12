@@ -1,0 +1,18 @@
+[
+  {
+    "city": "Nuku‘alofa",
+    "city_ascii": "Nuku`alofa",
+    "admin_name": "Tongatapu",
+    "lat": "-21.1333",
+    "lng": "-175.2000",
+    "id": "1776737461"
+  },
+  {
+    "city": "Neiafu",
+    "city_ascii": "Neiafu",
+    "admin_name": "Vava‘u",
+    "lat": "-18.6508",
+    "lng": "-173.9831",
+    "id": "1776829745"
+  }
+]

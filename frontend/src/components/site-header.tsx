@@ -13,13 +13,17 @@ export function SiteHeader() {
           orientation="vertical"
           className="mx-2 data-[orientation=vertical]:h-4"
         />
-        <h1 className="text-base font-medium">Home</h1>
+        <h1 className="text-base font-medium" id="header-text">
+          Home
+        </h1>
         <div className="ml-auto flex items-center gap-2">
           <ThemeSelector />
           <Link to={"/login"}>
             <Button variant={"outline"}>Login</Button>
           </Link>
-          <Button variant={"outline"}>Signup</Button>
+          <Link to={"/signup"}>
+            <Button variant={"outline"}>Signup</Button>
+          </Link>
         </div>
       </div>
     </header>

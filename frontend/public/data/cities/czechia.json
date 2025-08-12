@@ -1,0 +1,1298 @@
+[
+  {
+    "city": "Prague",
+    "city_ascii": "Prague",
+    "admin_name": "Praha",
+    "lat": "50.0875",
+    "lng": "14.4214",
+    "id": "1203744823"
+  },
+  {
+    "city": "Brno",
+    "city_ascii": "Brno",
+    "admin_name": "Jihomoravský Kraj",
+    "lat": "49.1925",
+    "lng": "16.6083",
+    "id": "1203676514"
+  },
+  {
+    "city": "Ostrava",
+    "city_ascii": "Ostrava",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.8356",
+    "lng": "18.2925",
+    "id": "1203687206"
+  },
+  {
+    "city": "Plzeň",
+    "city_ascii": "Plzen",
+    "admin_name": "Plzeňský Kraj",
+    "lat": "49.7475",
+    "lng": "13.3775",
+    "id": "1203402469"
+  },
+  {
+    "city": "Liberec",
+    "city_ascii": "Liberec",
+    "admin_name": "Liberecký Kraj",
+    "lat": "50.7667",
+    "lng": "15.0667",
+    "id": "1203577727"
+  },
+  {
+    "city": "Olomouc",
+    "city_ascii": "Olomouc",
+    "admin_name": "Olomoucký Kraj",
+    "lat": "49.5939",
+    "lng": "17.2508",
+    "id": "1203328061"
+  },
+  {
+    "city": "České Budějovice",
+    "city_ascii": "Ceske Budejovice",
+    "admin_name": "Jihočeský Kraj",
+    "lat": "48.9747",
+    "lng": "14.4747",
+    "id": "1203398046"
+  },
+  {
+    "city": "Hradec Králové",
+    "city_ascii": "Hradec Kralove",
+    "admin_name": "Královéhradecký Kraj",
+    "lat": "50.2092",
+    "lng": "15.8322",
+    "id": "1203430618"
+  },
+  {
+    "city": "Pardubice",
+    "city_ascii": "Pardubice",
+    "admin_name": "Pardubický Kraj",
+    "lat": "50.0386",
+    "lng": "15.7792",
+    "id": "1203857442"
+  },
+  {
+    "city": "Ústí nad Labem",
+    "city_ascii": "Usti nad Labem",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.6583",
+    "lng": "14.0417",
+    "id": "1203734193"
+  },
+  {
+    "city": "Zlín",
+    "city_ascii": "Zlin",
+    "admin_name": "Zlínský Kraj",
+    "lat": "49.2331",
+    "lng": "17.6669",
+    "id": "1203582141"
+  },
+  {
+    "city": "Havířov",
+    "city_ascii": "Havirov",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.7831",
+    "lng": "18.4228",
+    "id": "1203173875"
+  },
+  {
+    "city": "Kladno",
+    "city_ascii": "Kladno",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.1431",
+    "lng": "14.1053",
+    "id": "1203557079"
+  },
+  {
+    "city": "Most",
+    "city_ascii": "Most",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.5031",
+    "lng": "13.6367",
+    "id": "1203813984"
+  },
+  {
+    "city": "Opava",
+    "city_ascii": "Opava",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.9381",
+    "lng": "17.9044",
+    "id": "1203142483"
+  },
+  {
+    "city": "Jihlava",
+    "city_ascii": "Jihlava",
+    "admin_name": "Vysočina",
+    "lat": "49.4003",
+    "lng": "15.5906",
+    "id": "1203810604"
+  },
+  {
+    "city": "Frýdek-Místek",
+    "city_ascii": "Frydek-Mistek",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.6856",
+    "lng": "18.3506",
+    "id": "1203111584"
+  },
+  {
+    "city": "Teplice",
+    "city_ascii": "Teplice",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.6444",
+    "lng": "13.8319",
+    "id": "1203801370"
+  },
+  {
+    "city": "Karviná",
+    "city_ascii": "Karvina",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.8542",
+    "lng": "18.5428",
+    "id": "1203738904"
+  },
+  {
+    "city": "Karlovy Vary",
+    "city_ascii": "Karlovy Vary",
+    "admin_name": "Karlovarský Kraj",
+    "lat": "50.2306",
+    "lng": "12.8725",
+    "id": "1203518899"
+  },
+  {
+    "city": "Chomutov",
+    "city_ascii": "Chomutov",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.4611",
+    "lng": "13.4167",
+    "id": "1203523082"
+  },
+  {
+    "city": "Děčín",
+    "city_ascii": "Decin",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.7736",
+    "lng": "14.1961",
+    "id": "1203262893"
+  },
+  {
+    "city": "Mladá Boleslav",
+    "city_ascii": "Mlada Boleslav",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.4125",
+    "lng": "14.9044",
+    "id": "1203616853"
+  },
+  {
+    "city": "Jablonec nad Nisou",
+    "city_ascii": "Jablonec nad Nisou",
+    "admin_name": "Liberecký Kraj",
+    "lat": "50.7244",
+    "lng": "15.1681",
+    "id": "1203127047"
+  },
+  {
+    "city": "Prostějov",
+    "city_ascii": "Prostejov",
+    "admin_name": "Olomoucký Kraj",
+    "lat": "49.4722",
+    "lng": "17.1106",
+    "id": "1203172907"
+  },
+  {
+    "city": "Přerov",
+    "city_ascii": "Prerov",
+    "admin_name": "Olomoucký Kraj",
+    "lat": "49.4556",
+    "lng": "17.4511",
+    "id": "1203137734"
+  },
+  {
+    "city": "Česká Lípa",
+    "city_ascii": "Ceska Lipa",
+    "admin_name": "Liberecký Kraj",
+    "lat": "50.6886",
+    "lng": "14.5386",
+    "id": "1203109242"
+  },
+  {
+    "city": "Třebíč",
+    "city_ascii": "Trebic",
+    "admin_name": "Vysočina",
+    "lat": "49.2150",
+    "lng": "15.8817",
+    "id": "1203437113"
+  },
+  {
+    "city": "Tábor",
+    "city_ascii": "Tabor",
+    "admin_name": "Jihočeský Kraj",
+    "lat": "49.4144",
+    "lng": "14.6578",
+    "id": "1203712399"
+  },
+  {
+    "city": "Třinec",
+    "city_ascii": "Trinec",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.6778",
+    "lng": "18.6728",
+    "id": "1203430167"
+  },
+  {
+    "city": "Znojmo",
+    "city_ascii": "Znojmo",
+    "admin_name": "Jihomoravský Kraj",
+    "lat": "48.8556",
+    "lng": "16.0489",
+    "id": "1203362507"
+  },
+  {
+    "city": "Kolín",
+    "city_ascii": "Kolin",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.0281",
+    "lng": "15.2006",
+    "id": "1203413479"
+  },
+  {
+    "city": "Příbram",
+    "city_ascii": "Pribram",
+    "admin_name": "Středočeský Kraj",
+    "lat": "49.6883",
+    "lng": "14.0092",
+    "id": "1203262749"
+  },
+  {
+    "city": "Cheb",
+    "city_ascii": "Cheb",
+    "admin_name": "Karlovarský Kraj",
+    "lat": "50.0794",
+    "lng": "12.3706",
+    "id": "1203676556"
+  },
+  {
+    "city": "Písek",
+    "city_ascii": "Pisek",
+    "admin_name": "Jihočeský Kraj",
+    "lat": "49.3089",
+    "lng": "14.1475",
+    "id": "1203813820"
+  },
+  {
+    "city": "Trutnov",
+    "city_ascii": "Trutnov",
+    "admin_name": "Královéhradecký Kraj",
+    "lat": "50.5606",
+    "lng": "15.9131",
+    "id": "1203787150"
+  },
+  {
+    "city": "Kroměříž",
+    "city_ascii": "Kromeriz",
+    "admin_name": "Zlínský Kraj",
+    "lat": "49.2989",
+    "lng": "17.3931",
+    "id": "1203995171"
+  },
+  {
+    "city": "Orlová",
+    "city_ascii": "Orlova",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.8453",
+    "lng": "18.4303",
+    "id": "1203799110"
+  },
+  {
+    "city": "Líšeň",
+    "city_ascii": "Lisen",
+    "admin_name": "Jihomoravský Kraj",
+    "lat": "49.2075",
+    "lng": "16.6861",
+    "id": "1203926697"
+  },
+  {
+    "city": "Břevnov",
+    "city_ascii": "Brevnov",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.0844",
+    "lng": "14.3631",
+    "id": "1203462593"
+  },
+  {
+    "city": "Vsetín",
+    "city_ascii": "Vsetin",
+    "admin_name": "Zlínský Kraj",
+    "lat": "49.3386",
+    "lng": "17.9961",
+    "id": "1203549413"
+  },
+  {
+    "city": "Šumperk",
+    "city_ascii": "Sumperk",
+    "admin_name": "Olomoucký Kraj",
+    "lat": "49.9653",
+    "lng": "16.9706",
+    "id": "1203170809"
+  },
+  {
+    "city": "Uherské Hradiště",
+    "city_ascii": "Uherske Hradiste",
+    "admin_name": "Zlínský Kraj",
+    "lat": "49.0697",
+    "lng": "17.4597",
+    "id": "1203165664"
+  },
+  {
+    "city": "Břeclav",
+    "city_ascii": "Breclav",
+    "admin_name": "Jihomoravský Kraj",
+    "lat": "48.7589",
+    "lng": "16.8819",
+    "id": "1203778686"
+  },
+  {
+    "city": "Bystrc",
+    "city_ascii": "Bystrc",
+    "admin_name": "Jihomoravský Kraj",
+    "lat": "49.2247",
+    "lng": "16.5239",
+    "id": "1203641060"
+  },
+  {
+    "city": "Havlíčkŭv Brod",
+    "city_ascii": "Havlickuv Brod",
+    "admin_name": "Vysočina",
+    "lat": "49.6078",
+    "lng": "15.5808",
+    "id": "1203272361"
+  },
+  {
+    "city": "Hodonín",
+    "city_ascii": "Hodonin",
+    "admin_name": "Jihomoravský Kraj",
+    "lat": "48.8489",
+    "lng": "17.1325",
+    "id": "1203626632"
+  },
+  {
+    "city": "Chrudim",
+    "city_ascii": "Chrudim",
+    "admin_name": "Pardubický Kraj",
+    "lat": "49.9511",
+    "lng": "15.7956",
+    "id": "1203309920"
+  },
+  {
+    "city": "Český Těšín",
+    "city_ascii": "Cesky Tesin",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.7461",
+    "lng": "18.6261",
+    "id": "1203518530"
+  },
+  {
+    "city": "Nový Jičín",
+    "city_ascii": "Novy Jicin",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.5944",
+    "lng": "18.0103",
+    "id": "1203475212"
+  },
+  {
+    "city": "Litoměřice",
+    "city_ascii": "Litomerice",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.5342",
+    "lng": "14.1328",
+    "id": "1203149283"
+  },
+  {
+    "city": "Klatovy",
+    "city_ascii": "Klatovy",
+    "admin_name": "Plzeňský Kraj",
+    "lat": "49.3953",
+    "lng": "13.2950",
+    "id": "1203400126"
+  },
+  {
+    "city": "Valašské Meziříčí",
+    "city_ascii": "Valasske Mezirici",
+    "admin_name": "Zlínský Kraj",
+    "lat": "49.4717",
+    "lng": "17.9711",
+    "id": "1203786401"
+  },
+  {
+    "city": "Krnov",
+    "city_ascii": "Krnov",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "50.0906",
+    "lng": "17.6986",
+    "id": "1203745289"
+  },
+  {
+    "city": "Strakonice",
+    "city_ascii": "Strakonice",
+    "admin_name": "Jihočeský Kraj",
+    "lat": "49.2614",
+    "lng": "13.9025",
+    "id": "1203755418"
+  },
+  {
+    "city": "Litvínov",
+    "city_ascii": "Litvinov",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.6008",
+    "lng": "13.6111",
+    "id": "1203716170"
+  },
+  {
+    "city": "Sokolov",
+    "city_ascii": "Sokolov",
+    "admin_name": "Karlovarský Kraj",
+    "lat": "50.1814",
+    "lng": "12.6403",
+    "id": "1203662180"
+  },
+  {
+    "city": "Kopřivnice",
+    "city_ascii": "Koprivnice",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.5994",
+    "lng": "18.1447",
+    "id": "1203847096"
+  },
+  {
+    "city": "Kutná Hora",
+    "city_ascii": "Kutna Hora",
+    "admin_name": "Středočeský Kraj",
+    "lat": "49.9483",
+    "lng": "15.2683",
+    "id": "1203692740"
+  },
+  {
+    "city": "Beroun",
+    "city_ascii": "Beroun",
+    "admin_name": "Středočeský Kraj",
+    "lat": "49.9642",
+    "lng": "14.0739",
+    "id": "1203585066"
+  },
+  {
+    "city": "Jindřichŭv Hradec",
+    "city_ascii": "Jindrichuv Hradec",
+    "admin_name": "Jihočeský Kraj",
+    "lat": "49.1442",
+    "lng": "15.0031",
+    "id": "1203413811"
+  },
+  {
+    "city": "Žďár nad Sázavou",
+    "city_ascii": "Zd'ar nad Sazavou",
+    "admin_name": "Vysočina",
+    "lat": "49.5628",
+    "lng": "15.9392",
+    "id": "1203204559"
+  },
+  {
+    "city": "Bohumín",
+    "city_ascii": "Bohumin",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.9042",
+    "lng": "18.3575",
+    "id": "1203275330"
+  },
+  {
+    "city": "Vyškov",
+    "city_ascii": "Vyskov",
+    "admin_name": "Jihomoravský Kraj",
+    "lat": "49.2775",
+    "lng": "16.9989",
+    "id": "1203012353"
+  },
+  {
+    "city": "Mělník",
+    "city_ascii": "Melnik",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.3519",
+    "lng": "14.4750",
+    "id": "1203735988"
+  },
+  {
+    "city": "Blansko",
+    "city_ascii": "Blansko",
+    "admin_name": "Jihomoravský Kraj",
+    "lat": "49.3631",
+    "lng": "16.6431",
+    "id": "1203195651"
+  },
+  {
+    "city": "Brandýs nad Labem-Stará Boleslav",
+    "city_ascii": "Brandys nad Labem-Stara Boleslav",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.1894",
+    "lng": "14.6672",
+    "id": "1203785584"
+  },
+  {
+    "city": "Náchod",
+    "city_ascii": "Nachod",
+    "admin_name": "Královéhradecký Kraj",
+    "lat": "50.4169",
+    "lng": "16.1631",
+    "id": "1203181897"
+  },
+  {
+    "city": "Jirkov",
+    "city_ascii": "Jirkov",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.5003",
+    "lng": "13.4419",
+    "id": "1203484786"
+  },
+  {
+    "city": "Žatec",
+    "city_ascii": "Zatec",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.3300",
+    "lng": "13.5444",
+    "id": "1203368176"
+  },
+  {
+    "city": "Kralupy nad Vltavou",
+    "city_ascii": "Kralupy nad Vltavou",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.2408",
+    "lng": "14.3067",
+    "id": "1203317115"
+  },
+  {
+    "city": "Kadaň",
+    "city_ascii": "Kadan",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.3761",
+    "lng": "13.2714",
+    "id": "1203388944"
+  },
+  {
+    "city": "Louny",
+    "city_ascii": "Louny",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.3572",
+    "lng": "13.7969",
+    "id": "1203988380"
+  },
+  {
+    "city": "Hranice",
+    "city_ascii": "Hranice",
+    "admin_name": "Olomoucký Kraj",
+    "lat": "49.5525",
+    "lng": "17.7683",
+    "id": "1203110445"
+  },
+  {
+    "city": "Otrokovice",
+    "city_ascii": "Otrokovice",
+    "admin_name": "Zlínský Kraj",
+    "lat": "49.2100",
+    "lng": "17.5308",
+    "id": "1203087231"
+  },
+  {
+    "city": "Benešov",
+    "city_ascii": "Benesov",
+    "admin_name": "Středočeský Kraj",
+    "lat": "49.7828",
+    "lng": "14.6886",
+    "id": "1203042729"
+  },
+  {
+    "city": "Říčany",
+    "city_ascii": "Ricany",
+    "admin_name": "Středočeský Kraj",
+    "lat": "49.9919",
+    "lng": "14.6556",
+    "id": "1203639839"
+  },
+  {
+    "city": "Slaný",
+    "city_ascii": "Slany",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.2306",
+    "lng": "14.0869",
+    "id": "1203367412"
+  },
+  {
+    "city": "Uherský Brod",
+    "city_ascii": "Uhersky Brod",
+    "admin_name": "Zlínský Kraj",
+    "lat": "49.0250",
+    "lng": "17.6472",
+    "id": "1203839661"
+  },
+  {
+    "city": "Pelhřimov",
+    "city_ascii": "Pelhrimov",
+    "admin_name": "Vysočina",
+    "lat": "49.4314",
+    "lng": "15.2233",
+    "id": "1203256095"
+  },
+  {
+    "city": "Jičín",
+    "city_ascii": "Jicin",
+    "admin_name": "Královéhradecký Kraj",
+    "lat": "50.4367",
+    "lng": "15.3517",
+    "id": "1203562586"
+  },
+  {
+    "city": "Neratovice",
+    "city_ascii": "Neratovice",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.2594",
+    "lng": "14.5178",
+    "id": "1203620692"
+  },
+  {
+    "city": "Rožnov pod Radhoštěm",
+    "city_ascii": "Roznov pod Radhostem",
+    "admin_name": "Zlínský Kraj",
+    "lat": "49.4586",
+    "lng": "18.1431",
+    "id": "1203287923"
+  },
+  {
+    "city": "Svitavy",
+    "city_ascii": "Svitavy",
+    "admin_name": "Pardubický Kraj",
+    "lat": "49.7556",
+    "lng": "16.4694",
+    "id": "1203802204"
+  },
+  {
+    "city": "Ostrov",
+    "city_ascii": "Ostrov",
+    "admin_name": "Karlovarský Kraj",
+    "lat": "50.3083",
+    "lng": "12.9478",
+    "id": "1203022506"
+  },
+  {
+    "city": "Rakovník",
+    "city_ascii": "Rakovnik",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.1039",
+    "lng": "13.7333",
+    "id": "1203062806"
+  },
+  {
+    "city": "Šumbark",
+    "city_ascii": "Sumbark",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.7986",
+    "lng": "18.4147",
+    "id": "1203900773"
+  },
+  {
+    "city": "Nymburk",
+    "city_ascii": "Nymburk",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.1861",
+    "lng": "15.0417",
+    "id": "1203273272"
+  },
+  {
+    "city": "Dvůr Králové nad Labem",
+    "city_ascii": "Dvur Kralove nad Labem",
+    "admin_name": "Královéhradecký Kraj",
+    "lat": "50.4331",
+    "lng": "15.8122",
+    "id": "1203492959"
+  },
+  {
+    "city": "Bruntál",
+    "city_ascii": "Bruntal",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.9883",
+    "lng": "17.4647",
+    "id": "1203666435"
+  },
+  {
+    "city": "Poděbrady",
+    "city_ascii": "Podebrady",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.1425",
+    "lng": "15.1189",
+    "id": "1203251007"
+  },
+  {
+    "city": "Česká Třebová",
+    "city_ascii": "Ceska Trebova",
+    "admin_name": "Pardubický Kraj",
+    "lat": "49.9019",
+    "lng": "16.4472",
+    "id": "1203262802"
+  },
+  {
+    "city": "Varnsdorf",
+    "city_ascii": "Varnsdorf",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.9117",
+    "lng": "14.6183",
+    "id": "1203159316"
+  },
+  {
+    "city": "Bílina",
+    "city_ascii": "Bilina",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.5481",
+    "lng": "13.7761",
+    "id": "1203669701"
+  },
+  {
+    "city": "Turnov",
+    "city_ascii": "Turnov",
+    "admin_name": "Liberecký Kraj",
+    "lat": "50.5872",
+    "lng": "15.1569",
+    "id": "1203116739"
+  },
+  {
+    "city": "Tachov",
+    "city_ascii": "Tachov",
+    "admin_name": "Plzeňský Kraj",
+    "lat": "49.7953",
+    "lng": "12.6331",
+    "id": "1203227002"
+  },
+  {
+    "city": "Lyžbice",
+    "city_ascii": "Lyzbice",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.6669",
+    "lng": "18.6819",
+    "id": "1203000067"
+  },
+  {
+    "city": "Ráj",
+    "city_ascii": "Raj",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.8511",
+    "lng": "18.5639",
+    "id": "1203214898"
+  },
+  {
+    "city": "Rokycany",
+    "city_ascii": "Rokycany",
+    "admin_name": "Plzeňský Kraj",
+    "lat": "49.7425",
+    "lng": "13.5956",
+    "id": "1203614655"
+  },
+  {
+    "city": "Mariánské Lázně",
+    "city_ascii": "Marianske Lazne",
+    "admin_name": "Karlovarský Kraj",
+    "lat": "49.9647",
+    "lng": "12.7011",
+    "id": "1203682983"
+  },
+  {
+    "city": "Klášterec nad Ohří",
+    "city_ascii": "Klasterec nad Ohri",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.3903",
+    "lng": "13.1719",
+    "id": "1203315809"
+  },
+  {
+    "city": "Ústí nad Orlicí",
+    "city_ascii": "Usti nad Orlici",
+    "admin_name": "Pardubický Kraj",
+    "lat": "49.9739",
+    "lng": "16.3936",
+    "id": "1203823971"
+  },
+  {
+    "city": "Milovice",
+    "city_ascii": "Milovice",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.2289",
+    "lng": "14.8906",
+    "id": "1203709386"
+  },
+  {
+    "city": "Zábřeh",
+    "city_ascii": "Zabreh",
+    "admin_name": "Olomoucký Kraj",
+    "lat": "49.8825",
+    "lng": "16.8722",
+    "id": "1203721653"
+  },
+  {
+    "city": "Hlučín",
+    "city_ascii": "Hlucin",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.8967",
+    "lng": "18.1931",
+    "id": "1203528969"
+  },
+  {
+    "city": "Šternberk",
+    "city_ascii": "Sternberk",
+    "admin_name": "Olomoucký Kraj",
+    "lat": "49.7306",
+    "lng": "17.2989",
+    "id": "1203827138"
+  },
+  {
+    "city": "Český Krumlov",
+    "city_ascii": "Cesky Krumlov",
+    "admin_name": "Jihočeský Kraj",
+    "lat": "48.8111",
+    "lng": "14.3153",
+    "id": "1203973467"
+  },
+  {
+    "city": "Roudnice nad Labem",
+    "city_ascii": "Roudnice nad Labem",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.4236",
+    "lng": "14.2539",
+    "id": "1203268404"
+  },
+  {
+    "city": "Aš",
+    "city_ascii": "As",
+    "admin_name": "Karlovarský Kraj",
+    "lat": "50.2239",
+    "lng": "12.1950",
+    "id": "1203503000"
+  },
+  {
+    "city": "Krupka",
+    "city_ascii": "Krupka",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.6844",
+    "lng": "13.8583",
+    "id": "1203244914"
+  },
+  {
+    "city": "Chodov",
+    "city_ascii": "Chodov",
+    "admin_name": "Karlovarský Kraj",
+    "lat": "50.2414",
+    "lng": "12.7439",
+    "id": "1203758078"
+  },
+  {
+    "city": "Jaroměř",
+    "city_ascii": "Jaromer",
+    "admin_name": "Královéhradecký Kraj",
+    "lat": "50.3503",
+    "lng": "15.9183",
+    "id": "1203124128"
+  },
+  {
+    "city": "Čelákovice",
+    "city_ascii": "Celakovice",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.1606",
+    "lng": "14.7500",
+    "id": "1203396532"
+  },
+  {
+    "city": "Vysoké Mýto",
+    "city_ascii": "Vysoke Myto",
+    "admin_name": "Pardubický Kraj",
+    "lat": "49.9533",
+    "lng": "16.1617",
+    "id": "1203435938"
+  },
+  {
+    "city": "Boskovice",
+    "city_ascii": "Boskovice",
+    "admin_name": "Jihomoravský Kraj",
+    "lat": "49.4875",
+    "lng": "16.6600",
+    "id": "1203299524"
+  },
+  {
+    "city": "Vrchlabí",
+    "city_ascii": "Vrchlabi",
+    "admin_name": "Královéhradecký Kraj",
+    "lat": "50.6278",
+    "lng": "15.6103",
+    "id": "1203953730"
+  },
+  {
+    "city": "Velké Meziříčí",
+    "city_ascii": "Velke Mezirici",
+    "admin_name": "Vysočina",
+    "lat": "49.3553",
+    "lng": "16.0122",
+    "id": "1203943102"
+  },
+  {
+    "city": "Holešov",
+    "city_ascii": "Holesov",
+    "admin_name": "Zlínský Kraj",
+    "lat": "49.3333",
+    "lng": "17.5783",
+    "id": "1203380921"
+  },
+  {
+    "city": "Vlašim",
+    "city_ascii": "Vlasim",
+    "admin_name": "Středočeský Kraj",
+    "lat": "49.7064",
+    "lng": "14.8989",
+    "id": "1203658512"
+  },
+  {
+    "city": "Humpolec",
+    "city_ascii": "Humpolec",
+    "admin_name": "Vysočina",
+    "lat": "49.5417",
+    "lng": "15.3572",
+    "id": "1203780100"
+  },
+  {
+    "city": "Rychnov nad Kněžnou",
+    "city_ascii": "Rychnov nad Kneznou",
+    "admin_name": "Královéhradecký Kraj",
+    "lat": "50.1631",
+    "lng": "16.2744",
+    "id": "1203123765"
+  },
+  {
+    "city": "Nový Bor",
+    "city_ascii": "Novy Bor",
+    "admin_name": "Liberecký Kraj",
+    "lat": "50.7553",
+    "lng": "14.5536",
+    "id": "1203651923"
+  },
+  {
+    "city": "Kuřim",
+    "city_ascii": "Kurim",
+    "admin_name": "Jihomoravský Kraj",
+    "lat": "49.2986",
+    "lng": "16.5314",
+    "id": "1203206546"
+  },
+  {
+    "city": "Prachatice",
+    "city_ascii": "Prachatice",
+    "admin_name": "Jihočeský Kraj",
+    "lat": "49.0131",
+    "lng": "13.9975",
+    "id": "1203326615"
+  },
+  {
+    "city": "Domažlice",
+    "city_ascii": "Domazlice",
+    "admin_name": "Plzeňský Kraj",
+    "lat": "49.4406",
+    "lng": "12.9272",
+    "id": "1203358449"
+  },
+  {
+    "city": "Uničov",
+    "city_ascii": "Unicov",
+    "admin_name": "Olomoucký Kraj",
+    "lat": "49.7708",
+    "lng": "17.1214",
+    "id": "1203442454"
+  },
+  {
+    "city": "Rumburk",
+    "city_ascii": "Rumburk",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.9517",
+    "lng": "14.5572",
+    "id": "1203370008"
+  },
+  {
+    "city": "Kyjov",
+    "city_ascii": "Kyjov",
+    "admin_name": "Jihomoravský Kraj",
+    "lat": "49.0103",
+    "lng": "17.1225",
+    "id": "1203980144"
+  },
+  {
+    "city": "Sušice",
+    "city_ascii": "Susice",
+    "admin_name": "Plzeňský Kraj",
+    "lat": "49.2311",
+    "lng": "13.5203",
+    "id": "1203245330"
+  },
+  {
+    "city": "Frenštát pod Radhoštěm",
+    "city_ascii": "Frenstat pod Radhostem",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.5483",
+    "lng": "18.2108",
+    "id": "1203465419"
+  },
+  {
+    "city": "Veselí nad Moravou",
+    "city_ascii": "Veseli nad Moravou",
+    "admin_name": "Jihomoravský Kraj",
+    "lat": "48.9536",
+    "lng": "17.3764",
+    "id": "1203951522"
+  },
+  {
+    "city": "Jeseník",
+    "city_ascii": "Jesenik",
+    "admin_name": "Olomoucký Kraj",
+    "lat": "50.2297",
+    "lng": "17.2047",
+    "id": "1203267061"
+  },
+  {
+    "city": "Králŭv Dvŭr",
+    "city_ascii": "Kraluv Dvur",
+    "admin_name": "Středočeský Kraj",
+    "lat": "49.9467",
+    "lng": "14.0350",
+    "id": "1203703070"
+  },
+  {
+    "city": "Mizerov",
+    "city_ascii": "Mizerov",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.8603",
+    "lng": "18.5556",
+    "id": "1203500747"
+  },
+  {
+    "city": "Čáslav",
+    "city_ascii": "Caslav",
+    "admin_name": "Středočeský Kraj",
+    "lat": "49.9117",
+    "lng": "15.3950",
+    "id": "1203177244"
+  },
+  {
+    "city": "Litomyšl",
+    "city_ascii": "Litomysl",
+    "admin_name": "Pardubický Kraj",
+    "lat": "49.8719",
+    "lng": "16.3106",
+    "id": "1203430500"
+  },
+  {
+    "city": "Jesenice",
+    "city_ascii": "Jesenice",
+    "admin_name": "Středočeský Kraj",
+    "lat": "49.9683",
+    "lng": "14.5136",
+    "id": "1203216192"
+  },
+  {
+    "city": "Přelouč",
+    "city_ascii": "Prelouc",
+    "admin_name": "Pardubický Kraj",
+    "lat": "50.0400",
+    "lng": "15.5603",
+    "id": "1203203039"
+  },
+  {
+    "city": "Lysá nad Labem",
+    "city_ascii": "Lysa nad Labem",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.2014",
+    "lng": "14.8328",
+    "id": "1203091035"
+  },
+  {
+    "city": "Ivančice",
+    "city_ascii": "Ivancice",
+    "admin_name": "Jihomoravský Kraj",
+    "lat": "49.1014",
+    "lng": "16.3775",
+    "id": "1203249406"
+  },
+  {
+    "city": "Frýdlant nad Ostravicí",
+    "city_ascii": "Frydlant nad Ostravici",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.5928",
+    "lng": "18.3597",
+    "id": "1203314077"
+  },
+  {
+    "city": "Nové Město na Moravě",
+    "city_ascii": "Nove Mesto na Morave",
+    "admin_name": "Vysočina",
+    "lat": "49.5614",
+    "lng": "16.0742",
+    "id": "1203071196"
+  },
+  {
+    "city": "Lanškroun",
+    "city_ascii": "Lanskroun",
+    "admin_name": "Pardubický Kraj",
+    "lat": "49.9122",
+    "lng": "16.6122",
+    "id": "1203727130"
+  },
+  {
+    "city": "Moravská Třebová",
+    "city_ascii": "Moravska Trebova",
+    "admin_name": "Pardubický Kraj",
+    "lat": "49.7581",
+    "lng": "16.6642",
+    "id": "1203455488"
+  },
+  {
+    "city": "Litovel",
+    "city_ascii": "Litovel",
+    "admin_name": "Olomoucký Kraj",
+    "lat": "49.7011",
+    "lng": "17.0761",
+    "id": "1203150242"
+  },
+  {
+    "city": "Hlinsko",
+    "city_ascii": "Hlinsko",
+    "admin_name": "Pardubický Kraj",
+    "lat": "49.7622",
+    "lng": "15.9075",
+    "id": "1203108794"
+  },
+  {
+    "city": "Mohelnice",
+    "city_ascii": "Mohelnice",
+    "admin_name": "Olomoucký Kraj",
+    "lat": "49.7769",
+    "lng": "16.9194",
+    "id": "1203067373"
+  },
+  {
+    "city": "Studénka",
+    "city_ascii": "Studenka",
+    "admin_name": "Moravskoslezský Kraj",
+    "lat": "49.7233",
+    "lng": "18.0786",
+    "id": "1203000978"
+  },
+  {
+    "city": "Nové Město nad Metují",
+    "city_ascii": "Nove Mesto nad Metuji",
+    "admin_name": "Královéhradecký Kraj",
+    "lat": "50.3447",
+    "lng": "16.1517",
+    "id": "1203259477"
+  },
+  {
+    "city": "Tišnov",
+    "city_ascii": "Tisnov",
+    "admin_name": "Jihomoravský Kraj",
+    "lat": "49.3486",
+    "lng": "16.4244",
+    "id": "1203595572"
+  },
+  {
+    "city": "Hostivice",
+    "city_ascii": "Hostivice",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.0814",
+    "lng": "14.2525",
+    "id": "1203249506"
+  },
+  {
+    "city": "Chotěboř",
+    "city_ascii": "Chotebor",
+    "admin_name": "Vysočina",
+    "lat": "49.7208",
+    "lng": "15.6703",
+    "id": "1203957935"
+  },
+  {
+    "city": "Nová Paka",
+    "city_ascii": "Nova Paka",
+    "admin_name": "Liberecký Kraj",
+    "lat": "50.4897",
+    "lng": "15.5136",
+    "id": "1203255589"
+  },
+  {
+    "city": "Roztoky",
+    "city_ascii": "Roztoky",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.1614",
+    "lng": "14.3869",
+    "id": "1203472886"
+  },
+  {
+    "city": "Mnichovo Hradiště",
+    "city_ascii": "Mnichovo Hradiste",
+    "admin_name": "Středočeský Kraj",
+    "lat": "50.5214",
+    "lng": "14.9736",
+    "id": "1203949277"
+  },
+  {
+    "city": "Polička",
+    "city_ascii": "Policka",
+    "admin_name": "Pardubický Kraj",
+    "lat": "49.7150",
+    "lng": "16.2675",
+    "id": "1203964642"
+  },
+  {
+    "city": "Dobříš",
+    "city_ascii": "Dobris",
+    "admin_name": "Středočeský Kraj",
+    "lat": "49.7811",
+    "lng": "14.1672",
+    "id": "1203853361"
+  },
+  {
+    "city": "Lovosice",
+    "city_ascii": "Lovosice",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.5150",
+    "lng": "14.0511",
+    "id": "1203138826"
+  },
+  {
+    "city": "Duchcov",
+    "city_ascii": "Duchcov",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.6039",
+    "lng": "13.7464",
+    "id": "1203260902"
+  },
+  {
+    "city": "Choceň",
+    "city_ascii": "Chocen",
+    "admin_name": "Pardubický Kraj",
+    "lat": "50.0017",
+    "lng": "16.2231",
+    "id": "1203284714"
+  },
+  {
+    "city": "Štětí",
+    "city_ascii": "Steti",
+    "admin_name": "Ústecký Kraj",
+    "lat": "50.4531",
+    "lng": "14.3742",
+    "id": "1203443601"
+  },
+  {
+    "city": "Hořice",
+    "city_ascii": "Horice",
+    "admin_name": "Královéhradecký Kraj",
+    "lat": "50.3675",
+    "lng": "15.6314",
+    "id": "1203829404"
+  }
+]

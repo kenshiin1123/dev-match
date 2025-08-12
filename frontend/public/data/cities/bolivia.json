@@ -1,0 +1,842 @@
+[
+  {
+    "city": "Santa Cruz de la Sierra",
+    "city_ascii": "Santa Cruz de la Sierra",
+    "admin_name": "Santa Cruz",
+    "lat": "-17.7892",
+    "lng": "-63.1975",
+    "id": "1068005036"
+  },
+  {
+    "city": "El Alto",
+    "city_ascii": "El Alto",
+    "admin_name": "La Paz",
+    "lat": "-16.5047",
+    "lng": "-68.1633",
+    "id": "1068007058"
+  },
+  {
+    "city": "Cochabamba",
+    "city_ascii": "Cochabamba",
+    "admin_name": "Cochabamba",
+    "lat": "-17.3883",
+    "lng": "-66.1597",
+    "id": "1068793894"
+  },
+  {
+    "city": "Oruro",
+    "city_ascii": "Oruro",
+    "admin_name": "Oruro",
+    "lat": "-17.9667",
+    "lng": "-67.1167",
+    "id": "1068626742"
+  },
+  {
+    "city": "La Paz",
+    "city_ascii": "La Paz",
+    "admin_name": "La Paz",
+    "lat": "-16.4958",
+    "lng": "-68.1333",
+    "id": "1068000064"
+  },
+  {
+    "city": "Sucre",
+    "city_ascii": "Sucre",
+    "admin_name": "Chuquisaca",
+    "lat": "-19.0475",
+    "lng": "-65.2600",
+    "id": "1068823873"
+  },
+  {
+    "city": "Tarija",
+    "city_ascii": "Tarija",
+    "admin_name": "Tarija",
+    "lat": "-21.5333",
+    "lng": "-64.7333",
+    "id": "1068356085"
+  },
+  {
+    "city": "Potosí",
+    "city_ascii": "Potosi",
+    "admin_name": "Potosí",
+    "lat": "-19.5892",
+    "lng": "-65.7533",
+    "id": "1068933987"
+  },
+  {
+    "city": "Oruro",
+    "city_ascii": "Oruro",
+    "admin_name": "Oruro",
+    "lat": "-17.9799",
+    "lng": "-67.1300",
+    "id": "1068271533"
+  },
+  {
+    "city": "Warnes",
+    "city_ascii": "Warnes",
+    "admin_name": "Santa Cruz",
+    "lat": "-17.5167",
+    "lng": "-63.1667",
+    "id": "1068890339"
+  },
+  {
+    "city": "Sacaba",
+    "city_ascii": "Sacaba",
+    "admin_name": "Cochabamba",
+    "lat": "-17.4042",
+    "lng": "-66.0408",
+    "id": "1068288609"
+  },
+  {
+    "city": "Montero",
+    "city_ascii": "Montero",
+    "admin_name": "Santa Cruz",
+    "lat": "-17.3422",
+    "lng": "-63.2558",
+    "id": "1068836323"
+  },
+  {
+    "city": "Quillacollo",
+    "city_ascii": "Quillacollo",
+    "admin_name": "Cochabamba",
+    "lat": "-17.4000",
+    "lng": "-66.2833",
+    "id": "1068265899"
+  },
+  {
+    "city": "Trinidad",
+    "city_ascii": "Trinidad",
+    "admin_name": "El Beni",
+    "lat": "-14.8292",
+    "lng": "-64.9014",
+    "id": "1068929509"
+  },
+  {
+    "city": "Riberalta",
+    "city_ascii": "Riberalta",
+    "admin_name": "El Beni",
+    "lat": "-11.0128",
+    "lng": "-66.0572",
+    "id": "1068951603"
+  },
+  {
+    "city": "Yacuiba",
+    "city_ascii": "Yacuiba",
+    "admin_name": "Tarija",
+    "lat": "-22.0153",
+    "lng": "-63.6772",
+    "id": "1068671079"
+  },
+  {
+    "city": "Villa Tunari",
+    "city_ascii": "Villa Tunari",
+    "admin_name": "Cochabamba",
+    "lat": "-16.9747",
+    "lng": "-65.4203",
+    "id": "1068987267"
+  },
+  {
+    "city": "Colcapirhua",
+    "city_ascii": "Colcapirhua",
+    "admin_name": "Cochabamba",
+    "lat": "-17.4167",
+    "lng": "-66.2500",
+    "id": "1068759261"
+  },
+  {
+    "city": "Puerto Villarroel",
+    "city_ascii": "Puerto Villarroel",
+    "admin_name": "Cochabamba",
+    "lat": "-16.8667",
+    "lng": "-64.7831",
+    "id": "1068957347"
+  },
+  {
+    "city": "Cobija",
+    "city_ascii": "Cobija",
+    "admin_name": "Pando",
+    "lat": "-11.0333",
+    "lng": "-68.7333",
+    "id": "1068395023"
+  },
+  {
+    "city": "Sipe Sipe",
+    "city_ascii": "Sipe Sipe",
+    "admin_name": "Cochabamba",
+    "lat": "-17.4500",
+    "lng": "-66.3833",
+    "id": "1068181864"
+  },
+  {
+    "city": "Villamontes",
+    "city_ascii": "Villamontes",
+    "admin_name": "Tarija",
+    "lat": "-21.2608",
+    "lng": "-63.4761",
+    "id": "1068626988"
+  },
+  {
+    "city": "Guayaramerín",
+    "city_ascii": "Guayaramerin",
+    "admin_name": "El Beni",
+    "lat": "-10.8000",
+    "lng": "-65.3833",
+    "id": "1068744206"
+  },
+  {
+    "city": "Camiri",
+    "city_ascii": "Camiri",
+    "admin_name": "Santa Cruz",
+    "lat": "-20.1000",
+    "lng": "-63.5333",
+    "id": "1068205873"
+  },
+  {
+    "city": "Camiri",
+    "city_ascii": "Camiri",
+    "admin_name": "Santa Cruz",
+    "lat": "-20.0968",
+    "lng": "-63.5217",
+    "id": "1068637731"
+  },
+  {
+    "city": "Tiquipaya",
+    "city_ascii": "Tiquipaya",
+    "admin_name": "Cochabamba",
+    "lat": "-17.3333",
+    "lng": "-66.2167",
+    "id": "1068863881"
+  },
+  {
+    "city": "Viacha",
+    "city_ascii": "Viacha",
+    "admin_name": "La Paz",
+    "lat": "-16.6533",
+    "lng": "-68.3017",
+    "id": "1068833754"
+  },
+  {
+    "city": "Bermejo",
+    "city_ascii": "Bermejo",
+    "admin_name": "Tarija",
+    "lat": "-22.7322",
+    "lng": "-64.3425",
+    "id": "1068060614"
+  },
+  {
+    "city": "Ivirgarzama",
+    "city_ascii": "Ivirgarzama",
+    "admin_name": "Cochabamba",
+    "lat": "-17.0333",
+    "lng": "-64.8500",
+    "id": "1068002594"
+  },
+  {
+    "city": "Villazón",
+    "city_ascii": "Villazon",
+    "admin_name": "Potosí",
+    "lat": "-22.0911",
+    "lng": "-65.5961",
+    "id": "1068163517"
+  },
+  {
+    "city": "Uyuni",
+    "city_ascii": "Uyuni",
+    "admin_name": "Potosí",
+    "lat": "-20.4628",
+    "lng": "-66.8239",
+    "id": "1068695031"
+  },
+  {
+    "city": "Mizque",
+    "city_ascii": "Mizque",
+    "admin_name": "Cochabamba",
+    "lat": "-17.9333",
+    "lng": "-65.3167",
+    "id": "1068748757"
+  },
+  {
+    "city": "Cotoca",
+    "city_ascii": "Cotoca",
+    "admin_name": "Santa Cruz",
+    "lat": "-17.7536",
+    "lng": "-62.9967",
+    "id": "1068998348"
+  },
+  {
+    "city": "Yapacani",
+    "city_ascii": "Yapacani",
+    "admin_name": "Santa Cruz",
+    "lat": "-17.4017",
+    "lng": "-63.9098",
+    "id": "1068002876"
+  },
+  {
+    "city": "San Borja",
+    "city_ascii": "San Borja",
+    "admin_name": "El Beni",
+    "lat": "-14.8583",
+    "lng": "-66.7475",
+    "id": "1068118050"
+  },
+  {
+    "city": "Independencia",
+    "city_ascii": "Independencia",
+    "admin_name": "Cochabamba",
+    "lat": "-16.5000",
+    "lng": "-66.5833",
+    "id": "1068644397"
+  },
+  {
+    "city": "San Ignacio de Velasco",
+    "city_ascii": "San Ignacio de Velasco",
+    "admin_name": "Santa Cruz",
+    "lat": "-16.3667",
+    "lng": "-60.9500",
+    "id": "1068082737"
+  },
+  {
+    "city": "Tupiza",
+    "city_ascii": "Tupiza",
+    "admin_name": "Potosí",
+    "lat": "-21.4375",
+    "lng": "-65.7158",
+    "id": "1068328989"
+  },
+  {
+    "city": "Patacamaya",
+    "city_ascii": "Patacamaya",
+    "admin_name": "La Paz",
+    "lat": "-17.2333",
+    "lng": "-67.9167",
+    "id": "1068827645"
+  },
+  {
+    "city": "Caranavi",
+    "city_ascii": "Caranavi",
+    "admin_name": "La Paz",
+    "lat": "-15.8333",
+    "lng": "-67.5667",
+    "id": "1068233708"
+  },
+  {
+    "city": "Chimoré",
+    "city_ascii": "Chimore",
+    "admin_name": "Cochabamba",
+    "lat": "-16.9833",
+    "lng": "-65.1333",
+    "id": "1068769137"
+  },
+  {
+    "city": "San Julián",
+    "city_ascii": "San Julian",
+    "admin_name": "Santa Cruz",
+    "lat": "-16.9064",
+    "lng": "-62.6169",
+    "id": "1068794197"
+  },
+  {
+    "city": "Ravelo",
+    "city_ascii": "Ravelo",
+    "admin_name": "Potosí",
+    "lat": "-18.7833",
+    "lng": "-65.5500",
+    "id": "1068581754"
+  },
+  {
+    "city": "Huanuni",
+    "city_ascii": "Huanuni",
+    "admin_name": "Oruro",
+    "lat": "-18.2900",
+    "lng": "-66.8383",
+    "id": "1068902608"
+  },
+  {
+    "city": "Llallagua",
+    "city_ascii": "Llallagua",
+    "admin_name": "Potosí",
+    "lat": "-18.4167",
+    "lng": "-66.5833",
+    "id": "1068159509"
+  },
+  {
+    "city": "Capinota",
+    "city_ascii": "Capinota",
+    "admin_name": "Cochabamba",
+    "lat": "-17.7150",
+    "lng": "-66.2636",
+    "id": "1068429998"
+  },
+  {
+    "city": "Rurrenabaque",
+    "city_ascii": "Rurrenabaque",
+    "admin_name": "El Beni",
+    "lat": "-14.4422",
+    "lng": "-67.5283",
+    "id": "1068557134"
+  },
+  {
+    "city": "Ascención de Guarayos",
+    "city_ascii": "Ascencion de Guarayos",
+    "admin_name": "Santa Cruz",
+    "lat": "-15.8922",
+    "lng": "-63.1881",
+    "id": "1068006500"
+  },
+  {
+    "city": "Achocalla",
+    "city_ascii": "Achocalla",
+    "admin_name": "La Paz",
+    "lat": "-16.5833",
+    "lng": "-68.1667",
+    "id": "1068220398"
+  },
+  {
+    "city": "Mineros",
+    "city_ascii": "Mineros",
+    "admin_name": "Santa Cruz",
+    "lat": "-17.1178",
+    "lng": "-63.2331",
+    "id": "1068867021"
+  },
+  {
+    "city": "San José de Chiquitos",
+    "city_ascii": "San Jose de Chiquitos",
+    "admin_name": "Santa Cruz",
+    "lat": "-17.8500",
+    "lng": "-60.7500",
+    "id": "1068082794"
+  },
+  {
+    "city": "Vallegrande",
+    "city_ascii": "Vallegrande",
+    "admin_name": "Santa Cruz",
+    "lat": "-18.4833",
+    "lng": "-64.1000",
+    "id": "1068162149"
+  },
+  {
+    "city": "Mapiri",
+    "city_ascii": "Mapiri",
+    "admin_name": "La Paz",
+    "lat": "-15.3097",
+    "lng": "-68.2161",
+    "id": "1068007520"
+  },
+  {
+    "city": "Portachuelo",
+    "city_ascii": "Portachuelo",
+    "admin_name": "Santa Cruz",
+    "lat": "-17.3572",
+    "lng": "-63.3906",
+    "id": "1068477207"
+  },
+  {
+    "city": "Comarapa",
+    "city_ascii": "Comarapa",
+    "admin_name": "Santa Cruz",
+    "lat": "-17.9158",
+    "lng": "-64.5300",
+    "id": "1068701913"
+  },
+  {
+    "city": "Punata",
+    "city_ascii": "Punata",
+    "admin_name": "Cochabamba",
+    "lat": "-17.5500",
+    "lng": "-65.8333",
+    "id": "1068639665"
+  },
+  {
+    "city": "Villa Yapacaní",
+    "city_ascii": "Villa Yapacani",
+    "admin_name": "Santa Cruz",
+    "lat": "-17.4028",
+    "lng": "-63.8850",
+    "id": "1068932083"
+  },
+  {
+    "city": "Ascensión",
+    "city_ascii": "Ascension",
+    "admin_name": "Santa Cruz",
+    "lat": "-15.6996",
+    "lng": "-63.0800",
+    "id": "1068811738"
+  },
+  {
+    "city": "Vinto",
+    "city_ascii": "Vinto",
+    "admin_name": "Cochabamba",
+    "lat": "-17.3833",
+    "lng": "-66.3000",
+    "id": "1068969654"
+  },
+  {
+    "city": "San Benito",
+    "city_ascii": "San Benito",
+    "admin_name": "Cochabamba",
+    "lat": "-17.5167",
+    "lng": "-65.9167",
+    "id": "1068282356"
+  },
+  {
+    "city": "Chulumani",
+    "city_ascii": "Chulumani",
+    "admin_name": "La Paz",
+    "lat": "-16.6833",
+    "lng": "-67.8667",
+    "id": "1068146431"
+  },
+  {
+    "city": "Santa Ana de Yacuma",
+    "city_ascii": "Santa Ana de Yacuma",
+    "admin_name": "El Beni",
+    "lat": "-13.7444",
+    "lng": "-65.4269",
+    "id": "1068925682"
+  },
+  {
+    "city": "Challapata",
+    "city_ascii": "Challapata",
+    "admin_name": "Oruro",
+    "lat": "-18.9000",
+    "lng": "-66.7667",
+    "id": "1068352309"
+  },
+  {
+    "city": "Puerto Suárez",
+    "city_ascii": "Puerto Suarez",
+    "admin_name": "Santa Cruz",
+    "lat": "-18.9667",
+    "lng": "-57.7981",
+    "id": "1068099903"
+  },
+  {
+    "city": "Corocoro",
+    "city_ascii": "Corocoro",
+    "admin_name": "La Paz",
+    "lat": "-17.1667",
+    "lng": "-68.4500",
+    "id": "1068830457"
+  },
+  {
+    "city": "Torotoro",
+    "city_ascii": "Torotoro",
+    "admin_name": "Potosí",
+    "lat": "-18.1342",
+    "lng": "-65.7633",
+    "id": "1068711275"
+  },
+  {
+    "city": "Okinawa Número Uno",
+    "city_ascii": "Okinawa Numero Uno",
+    "admin_name": "Santa Cruz",
+    "lat": "-17.2189",
+    "lng": "-62.8953",
+    "id": "1068886475"
+  },
+  {
+    "city": "Puerto Quijarro",
+    "city_ascii": "Puerto Quijarro",
+    "admin_name": "Santa Cruz",
+    "lat": "-17.7796",
+    "lng": "-57.7700",
+    "id": "1068582123"
+  },
+  {
+    "city": "Roboré",
+    "city_ascii": "Robore",
+    "admin_name": "Santa Cruz",
+    "lat": "-18.3333",
+    "lng": "-59.7500",
+    "id": "1068498462"
+  },
+  {
+    "city": "San Ignacio de Moxo",
+    "city_ascii": "San Ignacio de Moxo",
+    "admin_name": "El Beni",
+    "lat": "-14.9961",
+    "lng": "-65.6400",
+    "id": "1068044782"
+  },
+  {
+    "city": "Puerto America",
+    "city_ascii": "Puerto America",
+    "admin_name": "Pando",
+    "lat": "-11.5500",
+    "lng": "-68.0667",
+    "id": "1068285171"
+  },
+  {
+    "city": "Pailón",
+    "city_ascii": "Pailon",
+    "admin_name": "Santa Cruz",
+    "lat": "-17.6594",
+    "lng": "-62.7197",
+    "id": "1068158658"
+  },
+  {
+    "city": "Achacachi",
+    "city_ascii": "Achacachi",
+    "admin_name": "La Paz",
+    "lat": "-16.0444",
+    "lng": "-68.6850",
+    "id": "1068370700"
+  },
+  {
+    "city": "Reyes",
+    "city_ascii": "Reyes",
+    "admin_name": "El Beni",
+    "lat": "-14.2958",
+    "lng": "-67.3353",
+    "id": "1068609630"
+  },
+  {
+    "city": "Aiquile",
+    "city_ascii": "Aiquile",
+    "admin_name": "Cochabamba",
+    "lat": "-18.1667",
+    "lng": "-65.1667",
+    "id": "1068121487"
+  },
+  {
+    "city": "Charagua",
+    "city_ascii": "Charagua",
+    "admin_name": "Santa Cruz",
+    "lat": "-19.7906",
+    "lng": "-63.1978",
+    "id": "1068232771"
+  },
+  {
+    "city": "Cliza",
+    "city_ascii": "Cliza",
+    "admin_name": "Cochabamba",
+    "lat": "-17.6000",
+    "lng": "-65.9333",
+    "id": "1068759245"
+  },
+  {
+    "city": "San Carlos",
+    "city_ascii": "San Carlos",
+    "admin_name": "Santa Cruz",
+    "lat": "-17.4044",
+    "lng": "-63.7325",
+    "id": "1068028866"
+  },
+  {
+    "city": "San Javier",
+    "city_ascii": "San Javier",
+    "admin_name": "Santa Cruz",
+    "lat": "-16.2748",
+    "lng": "-62.5072",
+    "id": "1068099078"
+  },
+  {
+    "city": "Uncia",
+    "city_ascii": "Uncia",
+    "admin_name": "Potosí",
+    "lat": "-18.4681",
+    "lng": "-66.5647",
+    "id": "1068104554"
+  },
+  {
+    "city": "San Ramón",
+    "city_ascii": "San Ramon",
+    "admin_name": "El Beni",
+    "lat": "-13.2672",
+    "lng": "-64.6172",
+    "id": "1068370064"
+  },
+  {
+    "city": "San Matías",
+    "city_ascii": "San Matias",
+    "admin_name": "Santa Cruz",
+    "lat": "-16.3611",
+    "lng": "-58.4053",
+    "id": "1068402765"
+  },
+  {
+    "city": "Betanzos",
+    "city_ascii": "Betanzos",
+    "admin_name": "Potosí",
+    "lat": "-19.5533",
+    "lng": "-65.4536",
+    "id": "1068258629"
+  },
+  {
+    "city": "Camargo",
+    "city_ascii": "Camargo",
+    "admin_name": "Chuquisaca",
+    "lat": "-20.6403",
+    "lng": "-65.2103",
+    "id": "1068344721"
+  },
+  {
+    "city": "Samaipata",
+    "city_ascii": "Samaipata",
+    "admin_name": "Santa Cruz",
+    "lat": "-18.1794",
+    "lng": "-63.8756",
+    "id": "1068681645"
+  },
+  {
+    "city": "Magdalena",
+    "city_ascii": "Magdalena",
+    "admin_name": "El Beni",
+    "lat": "-13.2606",
+    "lng": "-64.0528",
+    "id": "1068699781"
+  },
+  {
+    "city": "Sicasica",
+    "city_ascii": "Sicasica",
+    "admin_name": "La Paz",
+    "lat": "-17.3333",
+    "lng": "-67.7333",
+    "id": "1068066667"
+  },
+  {
+    "city": "Padilla",
+    "city_ascii": "Padilla",
+    "admin_name": "Chuquisaca",
+    "lat": "-19.3000",
+    "lng": "-64.3000",
+    "id": "1068422501"
+  },
+  {
+    "city": "San Lorenzo",
+    "city_ascii": "San Lorenzo",
+    "admin_name": "Tarija",
+    "lat": "-21.4167",
+    "lng": "-64.7494",
+    "id": "1068000024"
+  },
+  {
+    "city": "Entre Ríos",
+    "city_ascii": "Entre Rios",
+    "admin_name": "Tarija",
+    "lat": "-21.5264",
+    "lng": "-64.1733",
+    "id": "1068494403"
+  },
+  {
+    "city": "Tarabuco",
+    "city_ascii": "Tarabuco",
+    "admin_name": "Chuquisaca",
+    "lat": "-19.1667",
+    "lng": "-64.9167",
+    "id": "1068481915"
+  },
+  {
+    "city": "Quime",
+    "city_ascii": "Quime",
+    "admin_name": "La Paz",
+    "lat": "-16.9817",
+    "lng": "-67.2167",
+    "id": "1068690050"
+  },
+  {
+    "city": "Coroico",
+    "city_ascii": "Coroico",
+    "admin_name": "La Paz",
+    "lat": "-16.1833",
+    "lng": "-67.7333",
+    "id": "1068106383"
+  },
+  {
+    "city": "Sorata",
+    "city_ascii": "Sorata",
+    "admin_name": "La Paz",
+    "lat": "-15.7733",
+    "lng": "-68.6481",
+    "id": "1068157921"
+  },
+  {
+    "city": "Baures",
+    "city_ascii": "Baures",
+    "admin_name": "El Beni",
+    "lat": "-13.6556",
+    "lng": "-63.6958",
+    "id": "1068657733"
+  },
+  {
+    "city": "Apolo",
+    "city_ascii": "Apolo",
+    "admin_name": "La Paz",
+    "lat": "-14.7200",
+    "lng": "-68.5039",
+    "id": "1068238601"
+  },
+  {
+    "city": "Cuevo",
+    "city_ascii": "Cuevo",
+    "admin_name": "Santa Cruz",
+    "lat": "-20.4500",
+    "lng": "-63.5167",
+    "id": "1068137787"
+  },
+  {
+    "city": "Villa Martín Colchak",
+    "city_ascii": "Villa Martin Colchak",
+    "admin_name": "Potosí",
+    "lat": "-20.7406",
+    "lng": "-67.6606",
+    "id": "1068713966"
+  },
+  {
+    "city": "Puerto Acosta",
+    "city_ascii": "Puerto Acosta",
+    "admin_name": "La Paz",
+    "lat": "-15.5333",
+    "lng": "-69.2500",
+    "id": "1068206449"
+  },
+  {
+    "city": "Charaña",
+    "city_ascii": "Charana",
+    "admin_name": "La Paz",
+    "lat": "-17.5919",
+    "lng": "-69.4456",
+    "id": "1068774768"
+  },
+  {
+    "city": "Sabaya",
+    "city_ascii": "Sabaya",
+    "admin_name": "Oruro",
+    "lat": "-19.0147",
+    "lng": "-68.3708",
+    "id": "1068184161"
+  },
+  {
+    "city": "Llica",
+    "city_ascii": "Llica",
+    "admin_name": "Potosí",
+    "lat": "-19.8500",
+    "lng": "-68.2500",
+    "id": "1068053822"
+  },
+  {
+    "city": "Piso Firme",
+    "city_ascii": "Piso Firme",
+    "admin_name": "El Beni",
+    "lat": "-13.6830",
+    "lng": "-61.8666",
+    "id": "1068400874"
+  },
+  {
+    "city": "Puerto Heath",
+    "city_ascii": "Puerto Heath",
+    "admin_name": "La Paz",
+    "lat": "-12.5022",
+    "lng": "-68.6500",
+    "id": "1068996459"
+  },
+  {
+    "city": "San Rafael",
+    "city_ascii": "San Rafael",
+    "admin_name": "Santa Cruz",
+    "lat": "-16.7795",
+    "lng": "-60.6799",
+    "id": "1068007535"
+  }
+]

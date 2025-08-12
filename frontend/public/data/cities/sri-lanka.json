@@ -1,0 +1,482 @@
+[
+  {
+    "city": "Colombo",
+    "city_ascii": "Colombo",
+    "admin_name": "Western",
+    "lat": "6.9167",
+    "lng": "79.8333",
+    "id": "1144251314"
+  },
+  {
+    "city": "Mount Lavinia",
+    "city_ascii": "Mount Lavinia",
+    "admin_name": "Western",
+    "lat": "6.8339",
+    "lng": "79.8644",
+    "id": "1144684385"
+  },
+  {
+    "city": "Kesbewa",
+    "city_ascii": "Kesbewa",
+    "admin_name": "Western",
+    "lat": "6.7914",
+    "lng": "79.9378",
+    "id": "1144646065"
+  },
+  {
+    "city": "Maharagama",
+    "city_ascii": "Maharagama",
+    "admin_name": "Western",
+    "lat": "6.8480",
+    "lng": "79.9265",
+    "id": "1144551969"
+  },
+  {
+    "city": "Moratuwa",
+    "city_ascii": "Moratuwa",
+    "admin_name": "Western",
+    "lat": "6.7804",
+    "lng": "79.8800",
+    "id": "1144324309"
+  },
+  {
+    "city": "Ratnapura",
+    "city_ascii": "Ratnapura",
+    "admin_name": "Sabaragamuwa",
+    "lat": "6.6930",
+    "lng": "80.3860",
+    "id": "1144739208"
+  },
+  {
+    "city": "Negombo",
+    "city_ascii": "Negombo",
+    "admin_name": "Western",
+    "lat": "7.2111",
+    "lng": "79.8386",
+    "id": "1144271397"
+  },
+  {
+    "city": "Kandy",
+    "city_ascii": "Kandy",
+    "admin_name": "Central",
+    "lat": "7.2931",
+    "lng": "80.6350",
+    "id": "1144308408"
+  },
+  {
+    "city": "Sri Jayewardenepura Kotte",
+    "city_ascii": "Sri Jayewardenepura Kotte",
+    "admin_name": "Western",
+    "lat": "6.9000",
+    "lng": "79.9164",
+    "id": "1144239330"
+  },
+  {
+    "city": "Mawanella",
+    "city_ascii": "Mawanella",
+    "admin_name": "Sabaragamuwa",
+    "lat": "7.2519",
+    "lng": "80.4453",
+    "id": "1144039144"
+  },
+  {
+    "city": "Kotmale",
+    "city_ascii": "Kotmale",
+    "admin_name": "Central",
+    "lat": "7.0142",
+    "lng": "80.5897",
+    "id": "1144416345"
+  },
+  {
+    "city": "Kalmunai",
+    "city_ascii": "Kalmunai",
+    "admin_name": "Eastern",
+    "lat": "7.4090",
+    "lng": "81.8347",
+    "id": "1144059288"
+  },
+  {
+    "city": "Kilinochchi",
+    "city_ascii": "Kilinochchi",
+    "admin_name": "North Central",
+    "lat": "9.4004",
+    "lng": "80.3999",
+    "id": "1144468936"
+  },
+  {
+    "city": "Hikkaduwa",
+    "city_ascii": "Hikkaduwa",
+    "admin_name": "Southern",
+    "lat": "6.1407",
+    "lng": "80.1012",
+    "id": "1144660740"
+  },
+  {
+    "city": "Trincomalee",
+    "city_ascii": "Trincomalee",
+    "admin_name": "Eastern",
+    "lat": "8.5667",
+    "lng": "81.2333",
+    "id": "1144417074"
+  },
+  {
+    "city": "Galle",
+    "city_ascii": "Galle",
+    "admin_name": "Southern",
+    "lat": "6.0328",
+    "lng": "80.2156",
+    "id": "1144191486"
+  },
+  {
+    "city": "Jaffna",
+    "city_ascii": "Jaffna",
+    "admin_name": "North Central",
+    "lat": "9.6647",
+    "lng": "80.0167",
+    "id": "1144005506"
+  },
+  {
+    "city": "Kalpitiya",
+    "city_ascii": "Kalpitiya",
+    "admin_name": "North Western",
+    "lat": "8.2372",
+    "lng": "79.7628",
+    "id": "1144067438"
+  },
+  {
+    "city": "Batticaloa",
+    "city_ascii": "Batticaloa",
+    "admin_name": "Eastern",
+    "lat": "7.7170",
+    "lng": "81.7000",
+    "id": "1144464659"
+  },
+  {
+    "city": "Athurugiriya",
+    "city_ascii": "Athurugiriya",
+    "admin_name": "Western",
+    "lat": "6.8687",
+    "lng": "79.9998",
+    "id": "1144399714"
+  },
+  {
+    "city": "Tissamaharama",
+    "city_ascii": "Tissamaharama",
+    "admin_name": "Southern",
+    "lat": "6.2765",
+    "lng": "81.2865",
+    "id": "1144672530"
+  },
+  {
+    "city": "Mawatagama",
+    "city_ascii": "Mawatagama",
+    "admin_name": "North Western",
+    "lat": "7.4322",
+    "lng": "80.4479",
+    "id": "1144574156"
+  },
+  {
+    "city": "Weligama",
+    "city_ascii": "Weligama",
+    "admin_name": "Southern",
+    "lat": "5.9750",
+    "lng": "80.4297",
+    "id": "1144776498"
+  },
+  {
+    "city": "Tangalla",
+    "city_ascii": "Tangalla",
+    "admin_name": "Southern",
+    "lat": "6.0240",
+    "lng": "80.7911",
+    "id": "1144402312"
+  },
+  {
+    "city": "Dambulla",
+    "city_ascii": "Dambulla",
+    "admin_name": "Central",
+    "lat": "7.8600",
+    "lng": "80.6517",
+    "id": "1144340825"
+  },
+  {
+    "city": "Matara",
+    "city_ascii": "Matara",
+    "admin_name": "Southern",
+    "lat": "5.9500",
+    "lng": "80.5333",
+    "id": "1144127163"
+  },
+  {
+    "city": "Kolonnawa",
+    "city_ascii": "Kolonnawa",
+    "admin_name": "Western",
+    "lat": "6.9329",
+    "lng": "79.8848",
+    "id": "1144205591"
+  },
+  {
+    "city": "Akurana",
+    "city_ascii": "Akurana",
+    "admin_name": "Central",
+    "lat": "7.3667",
+    "lng": "80.6167",
+    "id": "1144063686"
+  },
+  {
+    "city": "Galgamuwa",
+    "city_ascii": "Galgamuwa",
+    "admin_name": "North Western",
+    "lat": "8.0000",
+    "lng": "80.2831",
+    "id": "1144102254"
+  },
+  {
+    "city": "Anuradhapura",
+    "city_ascii": "Anuradhapura",
+    "admin_name": "Northern",
+    "lat": "8.3350",
+    "lng": "80.4108",
+    "id": "1144764835"
+  },
+  {
+    "city": "Gampaha",
+    "city_ascii": "Gampaha",
+    "admin_name": "Western",
+    "lat": "7.0897",
+    "lng": "79.9925",
+    "id": "1144612731"
+  },
+  {
+    "city": "Narammala",
+    "city_ascii": "Narammala",
+    "admin_name": "North Western",
+    "lat": "7.4337",
+    "lng": "80.1971",
+    "id": "1144688397"
+  },
+  {
+    "city": "Dikwella South",
+    "city_ascii": "Dikwella South",
+    "admin_name": "Southern",
+    "lat": "5.9667",
+    "lng": "80.6833",
+    "id": "1144562731"
+  },
+  {
+    "city": "Kalawana",
+    "city_ascii": "Kalawana",
+    "admin_name": "Sabaragamuwa",
+    "lat": "6.5391",
+    "lng": "80.4039",
+    "id": "1144289812"
+  },
+  {
+    "city": "Nikaweratiya",
+    "city_ascii": "Nikaweratiya",
+    "admin_name": "North Western",
+    "lat": "7.7475",
+    "lng": "80.1156",
+    "id": "1144142030"
+  },
+  {
+    "city": "Puttalam",
+    "city_ascii": "Puttalam",
+    "admin_name": "North Western",
+    "lat": "8.0330",
+    "lng": "79.8260",
+    "id": "1144219740"
+  },
+  {
+    "city": "Bakamune",
+    "city_ascii": "Bakamune",
+    "admin_name": "Northern",
+    "lat": "7.7833",
+    "lng": "80.8167",
+    "id": "1144645119"
+  },
+  {
+    "city": "Badulla",
+    "city_ascii": "Badulla",
+    "admin_name": "Uva",
+    "lat": "6.9847",
+    "lng": "81.0564",
+    "id": "1144962750"
+  },
+  {
+    "city": "Sevanagala",
+    "city_ascii": "Sevanagala",
+    "admin_name": "Uva",
+    "lat": "6.3635",
+    "lng": "80.9197",
+    "id": "1144828840"
+  },
+  {
+    "city": "Vavuniya",
+    "city_ascii": "Vavuniya",
+    "admin_name": "North Central",
+    "lat": "8.7514",
+    "lng": "80.4971",
+    "id": "1144186197"
+  },
+  {
+    "city": "Gampola",
+    "city_ascii": "Gampola",
+    "admin_name": "Central",
+    "lat": "7.1643",
+    "lng": "80.5696",
+    "id": "1144422771"
+  },
+  {
+    "city": "Mullaittivu",
+    "city_ascii": "Mullaittivu",
+    "admin_name": "North Central",
+    "lat": "9.2833",
+    "lng": "80.8000",
+    "id": "1144339427"
+  },
+  {
+    "city": "Kalutara",
+    "city_ascii": "Kalutara",
+    "admin_name": "Western",
+    "lat": "6.5869",
+    "lng": "79.9603",
+    "id": "1144948559"
+  },
+  {
+    "city": "Bentota",
+    "city_ascii": "Bentota",
+    "admin_name": "Southern",
+    "lat": "6.4254",
+    "lng": "79.9948",
+    "id": "1144048882"
+  },
+  {
+    "city": "Matale",
+    "city_ascii": "Matale",
+    "admin_name": "Central",
+    "lat": "7.4667",
+    "lng": "80.6167",
+    "id": "1144554963"
+  },
+  {
+    "city": "Mannar",
+    "city_ascii": "Mannar",
+    "admin_name": "North Central",
+    "lat": "8.9667",
+    "lng": "79.8833",
+    "id": "1144238069"
+  },
+  {
+    "city": "Bandarawela",
+    "city_ascii": "Bandarawela",
+    "admin_name": "Uva",
+    "lat": "6.8333",
+    "lng": "80.9853",
+    "id": "1144549772"
+  },
+  {
+    "city": "Point Pedro",
+    "city_ascii": "Point Pedro",
+    "admin_name": "North Central",
+    "lat": "9.8167",
+    "lng": "80.2333",
+    "id": "1144518773"
+  },
+  {
+    "city": "Pothuhera",
+    "city_ascii": "Pothuhera",
+    "admin_name": "North Western",
+    "lat": "7.4214",
+    "lng": "80.3303",
+    "id": "1144415368"
+  },
+  {
+    "city": "Kurunegala",
+    "city_ascii": "Kurunegala",
+    "admin_name": "North Western",
+    "lat": "7.4833",
+    "lng": "80.3667",
+    "id": "1144602660"
+  },
+  {
+    "city": "Mabole",
+    "city_ascii": "Mabole",
+    "admin_name": "Western",
+    "lat": "7.0022",
+    "lng": "79.8980",
+    "id": "1144304678"
+  },
+  {
+    "city": "Hakmana",
+    "city_ascii": "Hakmana",
+    "admin_name": "Southern",
+    "lat": "6.0836",
+    "lng": "80.6445",
+    "id": "1144021831"
+  },
+  {
+    "city": "Nuwara Eliya",
+    "city_ascii": "Nuwara Eliya",
+    "admin_name": "Central",
+    "lat": "6.9667",
+    "lng": "80.7667",
+    "id": "1144687416"
+  },
+  {
+    "city": "Galhinna",
+    "city_ascii": "Galhinna",
+    "admin_name": "Central",
+    "lat": "7.4162",
+    "lng": "80.5639",
+    "id": "1144327642"
+  },
+  {
+    "city": "Kegalle",
+    "city_ascii": "Kegalle",
+    "admin_name": "Sabaragamuwa",
+    "lat": "7.2531",
+    "lng": "80.3453",
+    "id": "1144224835"
+  },
+  {
+    "city": "Hatton",
+    "city_ascii": "Hatton",
+    "admin_name": "Central",
+    "lat": "6.8897",
+    "lng": "80.5981",
+    "id": "1144603282"
+  },
+  {
+    "city": "Gandara West",
+    "city_ascii": "Gandara West",
+    "admin_name": "Southern",
+    "lat": "5.9333",
+    "lng": "80.6000",
+    "id": "1144177995"
+  },
+  {
+    "city": "Hambantota",
+    "city_ascii": "Hambantota",
+    "admin_name": "Southern",
+    "lat": "6.1244",
+    "lng": "81.1253",
+    "id": "1144358863"
+  },
+  {
+    "city": "Abasingammedda",
+    "city_ascii": "Abasingammedda",
+    "admin_name": "Central",
+    "lat": "7.3147",
+    "lng": "80.6660",
+    "id": "1144237899"
+  },
+  {
+    "city": "Monaragala",
+    "city_ascii": "Monaragala",
+    "admin_name": "Uva",
+    "lat": "6.8714",
+    "lng": "81.3487",
+    "id": "1144735194"
+  }
+]

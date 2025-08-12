@@ -1,0 +1,178 @@
+[
+  {
+    "city": "Vientiane",
+    "city_ascii": "Vientiane",
+    "admin_name": "Viangchan",
+    "lat": "17.9800",
+    "lng": "102.6300",
+    "id": "1418732714"
+  },
+  {
+    "city": "Xiangkhoang",
+    "city_ascii": "Xiangkhoang",
+    "admin_name": "Xiangkhouang",
+    "lat": "19.4167",
+    "lng": "103.5000",
+    "id": "1418829021"
+  },
+  {
+    "city": "Savannakhet",
+    "city_ascii": "Savannakhet",
+    "admin_name": "Savannakhét",
+    "lat": "16.5500",
+    "lng": "104.7500",
+    "id": "1418179232"
+  },
+  {
+    "city": "Salavan",
+    "city_ascii": "Salavan",
+    "admin_name": "Salavan",
+    "lat": "15.7167",
+    "lng": "106.4167",
+    "id": "1418448631"
+  },
+  {
+    "city": "Xai",
+    "city_ascii": "Xai",
+    "admin_name": "Oudômxai",
+    "lat": "20.6914",
+    "lng": "101.9861",
+    "id": "1418805827"
+  },
+  {
+    "city": "Pakxé",
+    "city_ascii": "Pakxe",
+    "admin_name": "Champasak",
+    "lat": "15.1167",
+    "lng": "105.7833",
+    "id": "1418863956"
+  },
+  {
+    "city": "Xaignabouli",
+    "city_ascii": "Xaignabouli",
+    "admin_name": "Xaignabouli",
+    "lat": "19.2500",
+    "lng": "101.7500",
+    "id": "1418760593"
+  },
+  {
+    "city": "Thakhèk",
+    "city_ascii": "Thakhek",
+    "admin_name": "Khammouan",
+    "lat": "17.4000",
+    "lng": "104.8000",
+    "id": "1418367677"
+  },
+  {
+    "city": "Champasak",
+    "city_ascii": "Champasak",
+    "admin_name": "Champasak",
+    "lat": "14.8400",
+    "lng": "105.7500",
+    "id": "1418902447"
+  },
+  {
+    "city": "Xam Nua",
+    "city_ascii": "Xam Nua",
+    "admin_name": "Houaphan",
+    "lat": "20.4150",
+    "lng": "104.0480",
+    "id": "1418975079"
+  },
+  {
+    "city": "Louang Namtha",
+    "city_ascii": "Louang Namtha",
+    "admin_name": "Louangnamtha",
+    "lat": "20.9500",
+    "lng": "101.4000",
+    "id": "1418920136"
+  },
+  {
+    "city": "Louangphabang",
+    "city_ascii": "Louangphabang",
+    "admin_name": "Louangphabang",
+    "lat": "19.8900",
+    "lng": "102.1347",
+    "id": "1418530759"
+  },
+  {
+    "city": "Pakxan",
+    "city_ascii": "Pakxan",
+    "admin_name": "Bolikhamxai",
+    "lat": "18.3964",
+    "lng": "103.6558",
+    "id": "1418088090"
+  },
+  {
+    "city": "Phônsavan",
+    "city_ascii": "Phonsavan",
+    "admin_name": "Xiangkhouang",
+    "lat": "19.4600",
+    "lng": "103.1800",
+    "id": "1418378289"
+  },
+  {
+    "city": "Vangviang",
+    "city_ascii": "Vangviang",
+    "admin_name": "Viangchan",
+    "lat": "18.9267",
+    "lng": "102.4494",
+    "id": "1418562192"
+  },
+  {
+    "city": "Muang Sing",
+    "city_ascii": "Muang Sing",
+    "admin_name": "Louangnamtha",
+    "lat": "21.2000",
+    "lng": "101.1500",
+    "id": "1418291138"
+  },
+  {
+    "city": "Attapu",
+    "city_ascii": "Attapu",
+    "admin_name": "Attapu",
+    "lat": "14.8000",
+    "lng": "106.8333",
+    "id": "1418894454"
+  },
+  {
+    "city": "Ban Houayxay",
+    "city_ascii": "Ban Houayxay",
+    "admin_name": "Bokèo",
+    "lat": "20.2631",
+    "lng": "100.4336",
+    "id": "1418944950"
+  },
+  {
+    "city": "Phôngsali",
+    "city_ascii": "Phongsali",
+    "admin_name": "Phôngsali",
+    "lat": "21.6833",
+    "lng": "102.1000",
+    "id": "1418524729"
+  },
+  {
+    "city": "Anouvông",
+    "city_ascii": "Anouvong",
+    "admin_name": "Xaisômboun",
+    "lat": "18.8989",
+    "lng": "103.0919",
+    "id": "1418294155"
+  },
+  {
+    "city": "Xékong",
+    "city_ascii": "Xekong",
+    "admin_name": "Xékong",
+    "lat": "15.3503",
+    "lng": "106.7286",
+    "id": "1418000082"
+  },
+  {
+    "city": "Phôn-Hông",
+    "city_ascii": "Phon-Hong",
+    "admin_name": "Viangchan",
+    "lat": "18.4953",
+    "lng": "102.4153",
+    "id": "1418592644"
+  }
+]

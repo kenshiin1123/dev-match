@@ -1,0 +1,1322 @@
+[
+  {
+    "city": "Havana",
+    "city_ascii": "Havana",
+    "admin_name": "La Habana",
+    "lat": "23.1367",
+    "lng": "-82.3589",
+    "id": "1192752771"
+  },
+  {
+    "city": "Santiago de Cuba",
+    "city_ascii": "Santiago de Cuba",
+    "admin_name": "Santiago de Cuba",
+    "lat": "20.0217",
+    "lng": "-75.8294",
+    "id": "1192766111"
+  },
+  {
+    "city": "Holguín",
+    "city_ascii": "Holguin",
+    "admin_name": "Holguín",
+    "lat": "20.8872",
+    "lng": "-76.2631",
+    "id": "1192920574"
+  },
+  {
+    "city": "Camagüey",
+    "city_ascii": "Camaguey",
+    "admin_name": "Camagüey",
+    "lat": "21.3786",
+    "lng": "-77.9186",
+    "id": "1192667983"
+  },
+  {
+    "city": "Santa Clara",
+    "city_ascii": "Santa Clara",
+    "admin_name": "Villa Clara",
+    "lat": "22.4067",
+    "lng": "-79.9531",
+    "id": "1192329773"
+  },
+  {
+    "city": "Bayamo",
+    "city_ascii": "Bayamo",
+    "admin_name": "Granma",
+    "lat": "20.3795",
+    "lng": "-76.6433",
+    "id": "1192297857"
+  },
+  {
+    "city": "Guantánamo",
+    "city_ascii": "Guantanamo",
+    "admin_name": "Guantánamo",
+    "lat": "20.1383",
+    "lng": "-75.2061",
+    "id": "1192866062"
+  },
+  {
+    "city": "Carlos Manuel de Céspedes",
+    "city_ascii": "Carlos Manuel de Cespedes",
+    "admin_name": "Camagüey",
+    "lat": "21.5767",
+    "lng": "-78.2775",
+    "id": "1192400731"
+  },
+  {
+    "city": "Arroyo Naranjo",
+    "city_ascii": "Arroyo Naranjo",
+    "admin_name": "La Habana",
+    "lat": "23.0436",
+    "lng": "-82.3328",
+    "id": "1192534571"
+  },
+  {
+    "city": "Las Tunas",
+    "city_ascii": "Las Tunas",
+    "admin_name": "Las Tunas",
+    "lat": "20.9667",
+    "lng": "-76.9500",
+    "id": "1192626319"
+  },
+  {
+    "city": "Pinar del Río",
+    "city_ascii": "Pinar del Rio",
+    "admin_name": "Pinar del Río",
+    "lat": "22.4122",
+    "lng": "-83.6719",
+    "id": "1192216820"
+  },
+  {
+    "city": "Cienfuegos",
+    "city_ascii": "Cienfuegos",
+    "admin_name": "Cienfuegos",
+    "lat": "22.1456",
+    "lng": "-80.4364",
+    "id": "1192020054"
+  },
+  {
+    "city": "San Miguel del Padrón",
+    "city_ascii": "San Miguel del Padron",
+    "admin_name": "La Habana",
+    "lat": "23.0964",
+    "lng": "-82.3267",
+    "id": "1192000810"
+  },
+  {
+    "city": "Matanzas",
+    "city_ascii": "Matanzas",
+    "admin_name": "Matanzas",
+    "lat": "23.0494",
+    "lng": "-81.5736",
+    "id": "1192888416"
+  },
+  {
+    "city": "Manzanillo",
+    "city_ascii": "Manzanillo",
+    "admin_name": "Granma",
+    "lat": "20.3397",
+    "lng": "-77.1086",
+    "id": "1192805452"
+  },
+  {
+    "city": "La Lisa",
+    "city_ascii": "La Lisa",
+    "admin_name": "La Habana",
+    "lat": "23.0247",
+    "lng": "-82.4631",
+    "id": "1192000809"
+  },
+  {
+    "city": "Ciego de Ávila",
+    "city_ascii": "Ciego de Avila",
+    "admin_name": "Ciego de Ávila",
+    "lat": "21.8481",
+    "lng": "-78.7631",
+    "id": "1192302618"
+  },
+  {
+    "city": "Sancti Spíritus",
+    "city_ascii": "Sancti Spiritus",
+    "admin_name": "Sancti Spíritus",
+    "lat": "21.9339",
+    "lng": "-79.4439",
+    "id": "1192600260"
+  },
+  {
+    "city": "Marianao",
+    "city_ascii": "Marianao",
+    "admin_name": "La Habana",
+    "lat": "23.0833",
+    "lng": "-82.4333",
+    "id": "1192000808"
+  },
+  {
+    "city": "Centro Habana",
+    "city_ascii": "Centro Habana",
+    "admin_name": "La Habana",
+    "lat": "23.1348",
+    "lng": "-82.3701",
+    "id": "1192000782"
+  },
+  {
+    "city": "Cerro",
+    "city_ascii": "Cerro",
+    "admin_name": "La Habana",
+    "lat": "23.0881",
+    "lng": "-82.3950",
+    "id": "1192000751"
+  },
+  {
+    "city": "Palma Soriano",
+    "city_ascii": "Palma Soriano",
+    "admin_name": "Santiago de Cuba",
+    "lat": "20.2139",
+    "lng": "-75.9919",
+    "id": "1192323011"
+  },
+  {
+    "city": "Guanabacoa",
+    "city_ascii": "Guanabacoa",
+    "admin_name": "La Habana",
+    "lat": "23.1252",
+    "lng": "-82.3007",
+    "id": "1192000780"
+  },
+  {
+    "city": "Contramaestre",
+    "city_ascii": "Contramaestre",
+    "admin_name": "Santiago de Cuba",
+    "lat": "20.3000",
+    "lng": "-76.2506",
+    "id": "1192844279"
+  },
+  {
+    "city": "Mayarí",
+    "city_ascii": "Mayari",
+    "admin_name": "Holguín",
+    "lat": "20.6592",
+    "lng": "-75.6781",
+    "id": "1192527369"
+  },
+  {
+    "city": "Puerto Padre",
+    "city_ascii": "Puerto Padre",
+    "admin_name": "Las Tunas",
+    "lat": "21.1950",
+    "lng": "-76.6017",
+    "id": "1192209935"
+  },
+  {
+    "city": "San Luis",
+    "city_ascii": "San Luis",
+    "admin_name": "Santiago de Cuba",
+    "lat": "20.1881",
+    "lng": "-75.8486",
+    "id": "1192042203"
+  },
+  {
+    "city": "Jagüey Grande",
+    "city_ascii": "Jaguey Grande",
+    "admin_name": "Matanzas",
+    "lat": "22.5292",
+    "lng": "-81.1325",
+    "id": "1192977963"
+  },
+  {
+    "city": "Consolación del Sur",
+    "city_ascii": "Consolacion del Sur",
+    "admin_name": "Pinar del Río",
+    "lat": "22.5083",
+    "lng": "-83.5172",
+    "id": "1192801393"
+  },
+  {
+    "city": "Cárdenas",
+    "city_ascii": "Cardenas",
+    "admin_name": "Matanzas",
+    "lat": "23.0428",
+    "lng": "-81.2036",
+    "id": "1192582521"
+  },
+  {
+    "city": "San José de las Lajas",
+    "city_ascii": "San Jose de las Lajas",
+    "admin_name": "Mayabeque",
+    "lat": "22.9614",
+    "lng": "-82.1511",
+    "id": "1192731332"
+  },
+  {
+    "city": "Baracoa",
+    "city_ascii": "Baracoa",
+    "admin_name": "Guantánamo",
+    "lat": "20.3444",
+    "lng": "-74.4956",
+    "id": "1192326052"
+  },
+  {
+    "city": "Trinidad",
+    "city_ascii": "Trinidad",
+    "admin_name": "Sancti Spíritus",
+    "lat": "21.8019",
+    "lng": "-79.9842",
+    "id": "1192442414"
+  },
+  {
+    "city": "Cotorro",
+    "city_ascii": "Cotorro",
+    "admin_name": "La Habana",
+    "lat": "23.0261",
+    "lng": "-82.2475",
+    "id": "1192456694"
+  },
+  {
+    "city": "Moa",
+    "city_ascii": "Moa",
+    "admin_name": "Holguín",
+    "lat": "20.6556",
+    "lng": "-74.9417",
+    "id": "1192288426"
+  },
+  {
+    "city": "Colón",
+    "city_ascii": "Colon",
+    "admin_name": "Matanzas",
+    "lat": "22.7225",
+    "lng": "-80.9067",
+    "id": "1192866771"
+  },
+  {
+    "city": "Florida",
+    "city_ascii": "Florida",
+    "admin_name": "Camagüey",
+    "lat": "21.5294",
+    "lng": "-78.2228",
+    "id": "1192766774"
+  },
+  {
+    "city": "Placetas",
+    "city_ascii": "Placetas",
+    "admin_name": "Villa Clara",
+    "lat": "22.3158",
+    "lng": "-79.6556",
+    "id": "1192546991"
+  },
+  {
+    "city": "Gibara",
+    "city_ascii": "Gibara",
+    "admin_name": "Holguín",
+    "lat": "21.1072",
+    "lng": "-76.1367",
+    "id": "1192391794"
+  },
+  {
+    "city": "Güines",
+    "city_ascii": "Guines",
+    "admin_name": "Mayabeque",
+    "lat": "22.8475",
+    "lng": "-82.0236",
+    "id": "1192190364"
+  },
+  {
+    "city": "Manicaragua",
+    "city_ascii": "Manicaragua",
+    "admin_name": "Villa Clara",
+    "lat": "22.1500",
+    "lng": "-79.9764",
+    "id": "1192831620"
+  },
+  {
+    "city": "Yara",
+    "city_ascii": "Yara",
+    "admin_name": "Granma",
+    "lat": "20.2767",
+    "lng": "-76.9469",
+    "id": "1192644994"
+  },
+  {
+    "city": "Morón",
+    "city_ascii": "Moron",
+    "admin_name": "Ciego de Ávila",
+    "lat": "22.1108",
+    "lng": "-78.6278",
+    "id": "1192161102"
+  },
+  {
+    "city": "Artemisa",
+    "city_ascii": "Artemisa",
+    "admin_name": "Artemisa",
+    "lat": "22.8136",
+    "lng": "-82.7633",
+    "id": "1192325408"
+  },
+  {
+    "city": "Jiguaní",
+    "city_ascii": "Jiguani",
+    "admin_name": "Granma",
+    "lat": "20.3731",
+    "lng": "-76.4222",
+    "id": "1192161578"
+  },
+  {
+    "city": "Jovellanos",
+    "city_ascii": "Jovellanos",
+    "admin_name": "Matanzas",
+    "lat": "22.8106",
+    "lng": "-81.1981",
+    "id": "1192643668"
+  },
+  {
+    "city": "Camajuaní",
+    "city_ascii": "Camajuani",
+    "admin_name": "Villa Clara",
+    "lat": "22.4678",
+    "lng": "-79.7239",
+    "id": "1192894106"
+  },
+  {
+    "city": "Bartolomé Masó",
+    "city_ascii": "Bartolome Maso",
+    "admin_name": "Granma",
+    "lat": "20.1686",
+    "lng": "-76.9428",
+    "id": "1192545918"
+  },
+  {
+    "city": "Santa Lucía",
+    "city_ascii": "Santa Lucia",
+    "admin_name": "Holguín",
+    "lat": "21.0281",
+    "lng": "-75.9964",
+    "id": "1192060859"
+  },
+  {
+    "city": "Yaguajay",
+    "city_ascii": "Yaguajay",
+    "admin_name": "Sancti Spíritus",
+    "lat": "22.3303",
+    "lng": "-79.2369",
+    "id": "1192971840"
+  },
+  {
+    "city": "Sagua la Grande",
+    "city_ascii": "Sagua la Grande",
+    "admin_name": "Villa Clara",
+    "lat": "22.8086",
+    "lng": "-80.0711",
+    "id": "1192446410"
+  },
+  {
+    "city": "Ranchuelo",
+    "city_ascii": "Ranchuelo",
+    "admin_name": "Villa Clara",
+    "lat": "22.3358",
+    "lng": "-80.1131",
+    "id": "1192410848"
+  },
+  {
+    "city": "Vertientes",
+    "city_ascii": "Vertientes",
+    "admin_name": "Camagüey",
+    "lat": "21.2569",
+    "lng": "-78.1492",
+    "id": "1192237047"
+  },
+  {
+    "city": "Báguanos",
+    "city_ascii": "Baguanos",
+    "admin_name": "Holguín",
+    "lat": "20.7631",
+    "lng": "-76.0297",
+    "id": "1192499938"
+  },
+  {
+    "city": "Jobabo",
+    "city_ascii": "Jobabo",
+    "admin_name": "Las Tunas",
+    "lat": "20.9075",
+    "lng": "-77.2819",
+    "id": "1192342239"
+  },
+  {
+    "city": "Cumanayagua",
+    "city_ascii": "Cumanayagua",
+    "admin_name": "Cienfuegos",
+    "lat": "22.1522",
+    "lng": "-80.2011",
+    "id": "1192631357"
+  },
+  {
+    "city": "Santo Domingo",
+    "city_ascii": "Santo Domingo",
+    "admin_name": "Villa Clara",
+    "lat": "22.5833",
+    "lng": "-80.2383",
+    "id": "1192553243"
+  },
+  {
+    "city": "Jesús Menéndez",
+    "city_ascii": "Jesus Menendez",
+    "admin_name": "Las Tunas",
+    "lat": "21.1633",
+    "lng": "-76.4775",
+    "id": "1192323043"
+  },
+  {
+    "city": "Salvador",
+    "city_ascii": "Salvador",
+    "admin_name": "Guantánamo",
+    "lat": "20.2094",
+    "lng": "-75.2231",
+    "id": "1192289644"
+  },
+  {
+    "city": "Remedios",
+    "city_ascii": "Remedios",
+    "admin_name": "Villa Clara",
+    "lat": "22.4922",
+    "lng": "-79.5458",
+    "id": "1192770696"
+  },
+  {
+    "city": "Nueva Gerona",
+    "city_ascii": "Nueva Gerona",
+    "admin_name": "Isla de la Juventud",
+    "lat": "21.8847",
+    "lng": "-82.8011",
+    "id": "1192344354"
+  },
+  {
+    "city": "Río Cauto",
+    "city_ascii": "Rio Cauto",
+    "admin_name": "Granma",
+    "lat": "20.5636",
+    "lng": "-76.9172",
+    "id": "1192490461"
+  },
+  {
+    "city": "Sagua de Tánamo",
+    "city_ascii": "Sagua de Tanamo",
+    "admin_name": "Holguín",
+    "lat": "20.5858",
+    "lng": "-75.2417",
+    "id": "1192754736"
+  },
+  {
+    "city": "Guisa",
+    "city_ascii": "Guisa",
+    "admin_name": "Granma",
+    "lat": "20.2608",
+    "lng": "-76.5381",
+    "id": "1192880798"
+  },
+  {
+    "city": "San Juan y Martínez",
+    "city_ascii": "San Juan y Martinez",
+    "admin_name": "Pinar del Río",
+    "lat": "22.2667",
+    "lng": "-83.8333",
+    "id": "1192697907"
+  },
+  {
+    "city": "Regla",
+    "city_ascii": "Regla",
+    "admin_name": "La Habana",
+    "lat": "23.1317",
+    "lng": "-82.3364",
+    "id": "1192000778"
+  },
+  {
+    "city": "Bahía Honda",
+    "city_ascii": "Bahia Honda",
+    "admin_name": "Artemisa",
+    "lat": "22.9064",
+    "lng": "-83.1639",
+    "id": "1192503832"
+  },
+  {
+    "city": "Jatibonico",
+    "city_ascii": "Jatibonico",
+    "admin_name": "Sancti Spíritus",
+    "lat": "21.9464",
+    "lng": "-79.1675",
+    "id": "1192610911"
+  },
+  {
+    "city": "Mariel",
+    "city_ascii": "Mariel",
+    "admin_name": "Artemisa",
+    "lat": "22.9936",
+    "lng": "-82.7539",
+    "id": "1192227631"
+  },
+  {
+    "city": "Campechuela",
+    "city_ascii": "Campechuela",
+    "admin_name": "Granma",
+    "lat": "20.2333",
+    "lng": "-77.2792",
+    "id": "1192313865"
+  },
+  {
+    "city": "Niquero",
+    "city_ascii": "Niquero",
+    "admin_name": "Granma",
+    "lat": "20.0472",
+    "lng": "-77.5781",
+    "id": "1192749445"
+  },
+  {
+    "city": "Chambas",
+    "city_ascii": "Chambas",
+    "admin_name": "Ciego de Ávila",
+    "lat": "22.1967",
+    "lng": "-78.9133",
+    "id": "1192803412"
+  },
+  {
+    "city": "Majibacoa",
+    "city_ascii": "Majibacoa",
+    "admin_name": "Las Tunas",
+    "lat": "20.9172",
+    "lng": "-76.8764",
+    "id": "1192359661"
+  },
+  {
+    "city": "Santa Cruz del Sur",
+    "city_ascii": "Santa Cruz del Sur",
+    "admin_name": "Camagüey",
+    "lat": "20.7118",
+    "lng": "-77.9986",
+    "id": "1192916040"
+  },
+  {
+    "city": "Cacocum",
+    "city_ascii": "Cacocum",
+    "admin_name": "Holguín",
+    "lat": "20.7439",
+    "lng": "-76.3242",
+    "id": "1192155018"
+  },
+  {
+    "city": "Nuevitas",
+    "city_ascii": "Nuevitas",
+    "admin_name": "Camagüey",
+    "lat": "21.5403",
+    "lng": "-77.2644",
+    "id": "1192448182"
+  },
+  {
+    "city": "Los Palacios",
+    "city_ascii": "Los Palacios",
+    "admin_name": "Pinar del Río",
+    "lat": "22.5822",
+    "lng": "-83.2489",
+    "id": "1192924706"
+  },
+  {
+    "city": "Caibarién",
+    "city_ascii": "Caibarien",
+    "admin_name": "Villa Clara",
+    "lat": "22.5158",
+    "lng": "-79.4722",
+    "id": "1192208164"
+  },
+  {
+    "city": "San Germán",
+    "city_ascii": "San German",
+    "admin_name": "Holguín",
+    "lat": "20.6011",
+    "lng": "-76.1325",
+    "id": "1192000020"
+  },
+  {
+    "city": "Güira de Melena",
+    "city_ascii": "Guira de Melena",
+    "admin_name": "Artemisa",
+    "lat": "22.8019",
+    "lng": "-82.5047",
+    "id": "1192663168"
+  },
+  {
+    "city": "Sandino",
+    "city_ascii": "Sandino",
+    "admin_name": "Pinar del Río",
+    "lat": "22.0815",
+    "lng": "-84.2040",
+    "id": "1192743176"
+  },
+  {
+    "city": "Caimito",
+    "city_ascii": "Caimito",
+    "admin_name": "Artemisa",
+    "lat": "22.9575",
+    "lng": "-82.5964",
+    "id": "1192437074"
+  },
+  {
+    "city": "Amancio",
+    "city_ascii": "Amancio",
+    "admin_name": "Las Tunas",
+    "lat": "20.8197",
+    "lng": "-77.5844",
+    "id": "1192932562"
+  },
+  {
+    "city": "Guáimaro",
+    "city_ascii": "Guaimaro",
+    "admin_name": "Camagüey",
+    "lat": "21.0589",
+    "lng": "-77.3478",
+    "id": "1192870584"
+  },
+  {
+    "city": "Minas",
+    "city_ascii": "Minas",
+    "admin_name": "Camagüey",
+    "lat": "21.4894",
+    "lng": "-77.6050",
+    "id": "1192839153"
+  },
+  {
+    "city": "Guane",
+    "city_ascii": "Guane",
+    "admin_name": "Pinar del Río",
+    "lat": "22.2006",
+    "lng": "-84.0839",
+    "id": "1192395151"
+  },
+  {
+    "city": "Guamá Abajo",
+    "city_ascii": "Guama Abajo",
+    "admin_name": "Santiago de Cuba",
+    "lat": "19.9758",
+    "lng": "-76.4100",
+    "id": "1192469384"
+  },
+  {
+    "city": "La Palma",
+    "city_ascii": "La Palma",
+    "admin_name": "Pinar del Río",
+    "lat": "22.7472",
+    "lng": "-83.5525",
+    "id": "1192218029"
+  },
+  {
+    "city": "Unión de Reyes",
+    "city_ascii": "Union de Reyes",
+    "admin_name": "Matanzas",
+    "lat": "22.8003",
+    "lng": "-81.5372",
+    "id": "1192297639"
+  },
+  {
+    "city": "Santa Cruz del Norte",
+    "city_ascii": "Santa Cruz del Norte",
+    "admin_name": "Mayabeque",
+    "lat": "23.1537",
+    "lng": "-81.9261",
+    "id": "1192541265"
+  },
+  {
+    "city": "Banes",
+    "city_ascii": "Banes",
+    "admin_name": "Holguín",
+    "lat": "20.9697",
+    "lng": "-75.7117",
+    "id": "1192981466"
+  },
+  {
+    "city": "San Antonio de los Baños",
+    "city_ascii": "San Antonio de los Banos",
+    "admin_name": "Artemisa",
+    "lat": "22.8889",
+    "lng": "-82.4989",
+    "id": "1192374010"
+  },
+  {
+    "city": "Mella",
+    "city_ascii": "Mella",
+    "admin_name": "Santiago de Cuba",
+    "lat": "20.3694",
+    "lng": "-75.9111",
+    "id": "1192880173"
+  },
+  {
+    "city": "San Luis",
+    "city_ascii": "San Luis",
+    "admin_name": "Pinar del Río",
+    "lat": "22.2828",
+    "lng": "-83.7681",
+    "id": "1192769650"
+  },
+  {
+    "city": "Taguasco",
+    "city_ascii": "Taguasco",
+    "admin_name": "Sancti Spíritus",
+    "lat": "22.0050",
+    "lng": "-79.2650",
+    "id": "1192783112"
+  },
+  {
+    "city": "Baraguá",
+    "city_ascii": "Baragua",
+    "admin_name": "Ciego de Ávila",
+    "lat": "21.6819",
+    "lng": "-78.6244",
+    "id": "1192061113"
+  },
+  {
+    "city": "Rodas",
+    "city_ascii": "Rodas",
+    "admin_name": "Cienfuegos",
+    "lat": "22.3428",
+    "lng": "-80.5553",
+    "id": "1192506240"
+  },
+  {
+    "city": "Cabaiguán",
+    "city_ascii": "Cabaiguan",
+    "admin_name": "Sancti Spíritus",
+    "lat": "22.0839",
+    "lng": "-79.4953",
+    "id": "1192068623"
+  },
+  {
+    "city": "Palmira",
+    "city_ascii": "Palmira",
+    "admin_name": "Cienfuegos",
+    "lat": "22.2444",
+    "lng": "-80.3944",
+    "id": "1192626448"
+  },
+  {
+    "city": "Media Luna",
+    "city_ascii": "Media Luna",
+    "admin_name": "Granma",
+    "lat": "20.1444",
+    "lng": "-77.4361",
+    "id": "1192264221"
+  },
+  {
+    "city": "Cueto",
+    "city_ascii": "Cueto",
+    "admin_name": "Holguín",
+    "lat": "20.6481",
+    "lng": "-75.9317",
+    "id": "1192622876"
+  },
+  {
+    "city": "Encrucijada",
+    "city_ascii": "Encrucijada",
+    "admin_name": "Villa Clara",
+    "lat": "22.6180",
+    "lng": "-79.8660",
+    "id": "1192495582"
+  },
+  {
+    "city": "Colombia",
+    "city_ascii": "Colombia",
+    "admin_name": "Las Tunas",
+    "lat": "20.9906",
+    "lng": "-77.4158",
+    "id": "1192555025"
+  },
+  {
+    "city": "Aguada de Pasajeros",
+    "city_ascii": "Aguada de Pasajeros",
+    "admin_name": "Cienfuegos",
+    "lat": "22.3847",
+    "lng": "-80.8461",
+    "id": "1192172785"
+  },
+  {
+    "city": "Fomento",
+    "city_ascii": "Fomento",
+    "admin_name": "Sancti Spíritus",
+    "lat": "22.1053",
+    "lng": "-79.7203",
+    "id": "1192397321"
+  },
+  {
+    "city": "Minas de Matahambre",
+    "city_ascii": "Minas de Matahambre",
+    "admin_name": "Pinar del Río",
+    "lat": "22.5822",
+    "lng": "-83.9492",
+    "id": "1192768054"
+  },
+  {
+    "city": "Buey Arriba",
+    "city_ascii": "Buey Arriba",
+    "admin_name": "Granma",
+    "lat": "20.1736",
+    "lng": "-76.7494",
+    "id": "1192773291"
+  },
+  {
+    "city": "Perico",
+    "city_ascii": "Perico",
+    "admin_name": "Matanzas",
+    "lat": "22.7753",
+    "lng": "-81.0153",
+    "id": "1192945175"
+  },
+  {
+    "city": "Alquízar",
+    "city_ascii": "Alquizar",
+    "admin_name": "Artemisa",
+    "lat": "22.8067",
+    "lng": "-82.5828",
+    "id": "1192960992"
+  },
+  {
+    "city": "Pedro Betancourt",
+    "city_ascii": "Pedro Betancourt",
+    "admin_name": "Matanzas",
+    "lat": "22.7303",
+    "lng": "-81.2908",
+    "id": "1192548090"
+  },
+  {
+    "city": "Quivicán",
+    "city_ascii": "Quivican",
+    "admin_name": "Mayabeque",
+    "lat": "22.8247",
+    "lng": "-82.3558",
+    "id": "1192492613"
+  },
+  {
+    "city": "Esmeralda",
+    "city_ascii": "Esmeralda",
+    "admin_name": "Camagüey",
+    "lat": "21.8561",
+    "lng": "-78.1114",
+    "id": "1192770557"
+  },
+  {
+    "city": "San Cristóbal",
+    "city_ascii": "San Cristobal",
+    "admin_name": "Artemisa",
+    "lat": "22.7169",
+    "lng": "-83.0511",
+    "id": "1192301736"
+  },
+  {
+    "city": "Primero de Enero",
+    "city_ascii": "Primero de Enero",
+    "admin_name": "Ciego de Ávila",
+    "lat": "21.9453",
+    "lng": "-78.4189",
+    "id": "1192846441"
+  },
+  {
+    "city": "Cruces",
+    "city_ascii": "Cruces",
+    "admin_name": "Cienfuegos",
+    "lat": "22.3419",
+    "lng": "-80.2761",
+    "id": "1192346254"
+  },
+  {
+    "city": "Sibanicú",
+    "city_ascii": "Sibanicu",
+    "admin_name": "Camagüey",
+    "lat": "21.2389",
+    "lng": "-77.5211",
+    "id": "1192253284"
+  },
+  {
+    "city": "Manatí",
+    "city_ascii": "Manati",
+    "admin_name": "Las Tunas",
+    "lat": "21.3144",
+    "lng": "-76.9378",
+    "id": "1192167066"
+  },
+  {
+    "city": "Pilón",
+    "city_ascii": "Pilon",
+    "admin_name": "Granma",
+    "lat": "19.9053",
+    "lng": "-77.3208",
+    "id": "1192113201"
+  },
+  {
+    "city": "Venezuela",
+    "city_ascii": "Venezuela",
+    "admin_name": "Ciego de Ávila",
+    "lat": "21.7375",
+    "lng": "-78.7934",
+    "id": "1192477567"
+  },
+  {
+    "city": "Ciro Redondo",
+    "city_ascii": "Ciro Redondo",
+    "admin_name": "Ciego de Ávila",
+    "lat": "22.0189",
+    "lng": "-78.7031",
+    "id": "1192204579"
+  },
+  {
+    "city": "Bejucal",
+    "city_ascii": "Bejucal",
+    "admin_name": "Mayabeque",
+    "lat": "22.9328",
+    "lng": "-82.3869",
+    "id": "1192816073"
+  },
+  {
+    "city": "Viñales",
+    "city_ascii": "Vinales",
+    "admin_name": "Pinar del Río",
+    "lat": "22.6153",
+    "lng": "-83.7158",
+    "id": "1192851636"
+  },
+  {
+    "city": "Calimete",
+    "city_ascii": "Calimete",
+    "admin_name": "Matanzas",
+    "lat": "22.5339",
+    "lng": "-80.9097",
+    "id": "1192157251"
+  },
+  {
+    "city": "Majagua",
+    "city_ascii": "Majagua",
+    "admin_name": "Ciego de Ávila",
+    "lat": "21.9244",
+    "lng": "-78.9906",
+    "id": "1192814385"
+  },
+  {
+    "city": "Madruga",
+    "city_ascii": "Madruga",
+    "admin_name": "Mayabeque",
+    "lat": "22.9114",
+    "lng": "-81.8561",
+    "id": "1192001508"
+  },
+  {
+    "city": "Cifuentes",
+    "city_ascii": "Cifuentes",
+    "admin_name": "Villa Clara",
+    "lat": "22.6208",
+    "lng": "-80.0661",
+    "id": "1192637464"
+  },
+  {
+    "city": "San Antonio del Sur",
+    "city_ascii": "San Antonio del Sur",
+    "admin_name": "Guantánamo",
+    "lat": "20.0569",
+    "lng": "-74.8078",
+    "id": "1192849948"
+  },
+  {
+    "city": "Batabanó",
+    "city_ascii": "Batabano",
+    "admin_name": "Mayabeque",
+    "lat": "22.7167",
+    "lng": "-82.2833",
+    "id": "1192995527"
+  },
+  {
+    "city": "Limonar",
+    "city_ascii": "Limonar",
+    "admin_name": "Matanzas",
+    "lat": "22.9561",
+    "lng": "-81.4086",
+    "id": "1192446751"
+  },
+  {
+    "city": "Corralillo",
+    "city_ascii": "Corralillo",
+    "admin_name": "Villa Clara",
+    "lat": "22.9856",
+    "lng": "-80.5831",
+    "id": "1192979534"
+  },
+  {
+    "city": "Nueva Paz",
+    "city_ascii": "Nueva Paz",
+    "admin_name": "Mayabeque",
+    "lat": "22.7667",
+    "lng": "-81.7500",
+    "id": "1192235992"
+  },
+  {
+    "city": "Jaruco",
+    "city_ascii": "Jaruco",
+    "admin_name": "Mayabeque",
+    "lat": "23.0428",
+    "lng": "-82.0094",
+    "id": "1192724464"
+  },
+  {
+    "city": "Bauta",
+    "city_ascii": "Bauta",
+    "admin_name": "Artemisa",
+    "lat": "22.9919",
+    "lng": "-82.5492",
+    "id": "1192335041"
+  },
+  {
+    "city": "Mantua",
+    "city_ascii": "Mantua",
+    "admin_name": "Pinar del Río",
+    "lat": "22.2908",
+    "lng": "-84.2875",
+    "id": "1192303406"
+  },
+  {
+    "city": "Abreus",
+    "city_ascii": "Abreus",
+    "admin_name": "Cienfuegos",
+    "lat": "22.2806",
+    "lng": "-80.5678",
+    "id": "1192567991"
+  },
+  {
+    "city": "Los Arabos",
+    "city_ascii": "Los Arabos",
+    "admin_name": "Matanzas",
+    "lat": "22.7400",
+    "lng": "-80.7161",
+    "id": "1192836274"
+  },
+  {
+    "city": "Guanajay",
+    "city_ascii": "Guanajay",
+    "admin_name": "Artemisa",
+    "lat": "22.9306",
+    "lng": "-82.6881",
+    "id": "1192568960"
+  },
+  {
+    "city": "Lajas",
+    "city_ascii": "Lajas",
+    "admin_name": "Cienfuegos",
+    "lat": "22.4164",
+    "lng": "-80.2906",
+    "id": "1192894974"
+  },
+  {
+    "city": "Cayo Mambí",
+    "city_ascii": "Cayo Mambi",
+    "admin_name": "Holguín",
+    "lat": "20.6647",
+    "lng": "-75.2814",
+    "id": "1192030394"
+  },
+  {
+    "city": "Martí",
+    "city_ascii": "Marti",
+    "admin_name": "Matanzas",
+    "lat": "22.9522",
+    "lng": "-80.9167",
+    "id": "1192518503"
+  },
+  {
+    "city": "San Nicolás",
+    "city_ascii": "San Nicolas",
+    "admin_name": "Mayabeque",
+    "lat": "22.7819",
+    "lng": "-81.9069",
+    "id": "1192849250"
+  },
+  {
+    "city": "Antilla",
+    "city_ascii": "Antilla",
+    "admin_name": "Holguín",
+    "lat": "20.8411",
+    "lng": "-75.7206",
+    "id": "1192885476"
+  },
+  {
+    "city": "Manuel Tames",
+    "city_ascii": "Manuel Tames",
+    "admin_name": "Guantánamo",
+    "lat": "20.1803",
+    "lng": "-75.0514",
+    "id": "1192473479"
+  },
+  {
+    "city": "Varadero",
+    "city_ascii": "Varadero",
+    "admin_name": "Matanzas",
+    "lat": "23.1394",
+    "lng": "-81.2861",
+    "id": "1192203270"
+  },
+  {
+    "city": "Florencia",
+    "city_ascii": "Florencia",
+    "admin_name": "Ciego de Ávila",
+    "lat": "22.1475",
+    "lng": "-78.9669",
+    "id": "1192281767"
+  },
+  {
+    "city": "Melena del Sur",
+    "city_ascii": "Melena del Sur",
+    "admin_name": "Mayabeque",
+    "lat": "22.7814",
+    "lng": "-82.1486",
+    "id": "1192175478"
+  },
+  {
+    "city": "Quemado de Güines",
+    "city_ascii": "Quemado de Guines",
+    "admin_name": "Villa Clara",
+    "lat": "22.7900",
+    "lng": "-80.2561",
+    "id": "1192892274"
+  },
+  {
+    "city": "Cauto Cristo",
+    "city_ascii": "Cauto Cristo",
+    "admin_name": "Granma",
+    "lat": "20.5571",
+    "lng": "-76.4727",
+    "id": "1192943802"
+  },
+  {
+    "city": "Jimaguayú",
+    "city_ascii": "Jimaguayu",
+    "admin_name": "Camagüey",
+    "lat": "21.2422",
+    "lng": "-77.8263",
+    "id": "1192264098"
+  },
+  {
+    "city": "Candelaria",
+    "city_ascii": "Candelaria",
+    "admin_name": "Artemisa",
+    "lat": "22.7439",
+    "lng": "-82.9581",
+    "id": "1192962484"
+  },
+  {
+    "city": "La Sierpe",
+    "city_ascii": "La Sierpe",
+    "admin_name": "Sancti Spíritus",
+    "lat": "21.7606",
+    "lng": "-79.2433",
+    "id": "1192088236"
+  },
+  {
+    "city": "Najasa",
+    "city_ascii": "Najasa",
+    "admin_name": "Camagüey",
+    "lat": "21.0836",
+    "lng": "-77.7472",
+    "id": "1192325619"
+  },
+  {
+    "city": "Bolivia",
+    "city_ascii": "Bolivia",
+    "admin_name": "Ciego de Ávila",
+    "lat": "22.0750",
+    "lng": "-78.3503",
+    "id": "1192406744"
+  },
+  {
+    "city": "Jamaica",
+    "city_ascii": "Jamaica",
+    "admin_name": "Mayabeque",
+    "lat": "22.9756",
+    "lng": "-82.1685",
+    "id": "1192343325"
+  },
+  {
+    "city": "Guayos",
+    "city_ascii": "Guayos",
+    "admin_name": "Sancti Spíritus",
+    "lat": "22.0496",
+    "lng": "-79.4611",
+    "id": "1192879612"
+  },
+  {
+    "city": "San Antonio de las Vueltas",
+    "city_ascii": "San Antonio de las Vueltas",
+    "admin_name": "Villa Clara",
+    "lat": "22.5162",
+    "lng": "-79.7013",
+    "id": "1192073576"
+  },
+  {
+    "city": "Vázquez",
+    "city_ascii": "Vazquez",
+    "admin_name": "Las Tunas",
+    "lat": "21.1403",
+    "lng": "-76.7297",
+    "id": "1192082487"
+  },
+  {
+    "city": "Esperanza",
+    "city_ascii": "Esperanza",
+    "admin_name": "Villa Clara",
+    "lat": "22.4468",
+    "lng": "-80.0971",
+    "id": "1192015755"
+  },
+  {
+    "city": "Caimanera",
+    "city_ascii": "Caimanera",
+    "admin_name": "Guantánamo",
+    "lat": "19.9908",
+    "lng": "-75.1520",
+    "id": "1192287141"
+  },
+  {
+    "city": "Agramonte",
+    "city_ascii": "Agramonte",
+    "admin_name": "Matanzas",
+    "lat": "22.6768",
+    "lng": "-81.1161",
+    "id": "1192726778"
+  },
+  {
+    "city": "Sola",
+    "city_ascii": "Sola",
+    "admin_name": "Camagüey",
+    "lat": "21.6744",
+    "lng": "-77.6806",
+    "id": "1192592733"
+  },
+  {
+    "city": "Mataguá",
+    "city_ascii": "Matagua",
+    "admin_name": "Villa Clara",
+    "lat": "22.2369",
+    "lng": "-79.9992",
+    "id": "1192170152"
+  },
+  {
+    "city": "Imías",
+    "city_ascii": "Imias",
+    "admin_name": "Guantánamo",
+    "lat": "20.0694",
+    "lng": "-74.6314",
+    "id": "1192551385"
+  },
+  {
+    "city": "Australia",
+    "city_ascii": "Australia",
+    "admin_name": "Matanzas",
+    "lat": "22.4989",
+    "lng": "-81.1349",
+    "id": "1192581424"
+  },
+  {
+    "city": "Falla",
+    "city_ascii": "Falla",
+    "admin_name": "Ciego de Ávila",
+    "lat": "22.1710",
+    "lng": "-78.7872",
+    "id": "1192599195"
+  }
+]

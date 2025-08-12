@@ -1,0 +1,66 @@
+[
+  {
+    "city": "Andorra la Vella",
+    "city_ascii": "Andorra la Vella",
+    "admin_name": "Andorra la Vella",
+    "lat": "42.5000",
+    "lng": "1.5000",
+    "id": "1020828846"
+  },
+  {
+    "city": "Sant Pere",
+    "city_ascii": "Sant Pere",
+    "admin_name": "Canillo",
+    "lat": "42.5000",
+    "lng": "1.5000",
+    "id": "1020982719"
+  },
+  {
+    "city": "Escaldes-Engordany",
+    "city_ascii": "Escaldes-Engordany",
+    "admin_name": "Escaldes-Engordany",
+    "lat": "42.5089",
+    "lng": "1.5408",
+    "id": "1020008674"
+  },
+  {
+    "city": "Encamp",
+    "city_ascii": "Encamp",
+    "admin_name": "Encamp",
+    "lat": "42.5361",
+    "lng": "1.5828",
+    "id": "1020417470"
+  },
+  {
+    "city": "La Massana",
+    "city_ascii": "La Massana",
+    "admin_name": "La Massana",
+    "lat": "42.5444",
+    "lng": "1.5144",
+    "id": "1020543453"
+  },
+  {
+    "city": "Sant Julià de Lòria",
+    "city_ascii": "Sant Julia de Loria",
+    "admin_name": "Sant Julià de Lòria",
+    "lat": "42.4650",
+    "lng": "1.4911",
+    "id": "1020885733"
+  },
+  {
+    "city": "Canillo",
+    "city_ascii": "Canillo",
+    "admin_name": "Canillo",
+    "lat": "42.5667",
+    "lng": "1.6000",
+    "id": "1020594179"
+  },
+  {
+    "city": "Ordino",
+    "city_ascii": "Ordino",
+    "admin_name": "Ordino",
+    "lat": "42.5550",
+    "lng": "1.5331",
+    "id": "1020655238"
+  }
+]

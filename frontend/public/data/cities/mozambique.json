@@ -1,0 +1,442 @@
+[
+  {
+    "city": "Maputo",
+    "city_ascii": "Maputo",
+    "admin_name": "Maputo",
+    "lat": "-25.9153",
+    "lng": "32.5764",
+    "id": "1508074843"
+  },
+  {
+    "city": "Matola",
+    "city_ascii": "Matola",
+    "admin_name": "Maputo",
+    "lat": "-25.9667",
+    "lng": "32.4667",
+    "id": "1508768577"
+  },
+  {
+    "city": "Nampula",
+    "city_ascii": "Nampula",
+    "admin_name": "Nampula",
+    "lat": "-15.1167",
+    "lng": "39.2667",
+    "id": "1508958445"
+  },
+  {
+    "city": "Beira",
+    "city_ascii": "Beira",
+    "admin_name": "Sofala",
+    "lat": "-19.8333",
+    "lng": "34.8500",
+    "id": "1508407369"
+  },
+  {
+    "city": "António Enes",
+    "city_ascii": "Antonio Enes",
+    "admin_name": "Nampula",
+    "lat": "-16.2308",
+    "lng": "39.9105",
+    "id": "1508591443"
+  },
+  {
+    "city": "Chimoio",
+    "city_ascii": "Chimoio",
+    "admin_name": "Manica",
+    "lat": "-19.1167",
+    "lng": "33.4500",
+    "id": "1508460246"
+  },
+  {
+    "city": "Cidade de Nacala",
+    "city_ascii": "Cidade de Nacala",
+    "admin_name": "Nampula",
+    "lat": "-14.5500",
+    "lng": "40.6833",
+    "id": "1508752825"
+  },
+  {
+    "city": "Malema",
+    "city_ascii": "Malema",
+    "admin_name": "Nampula",
+    "lat": "-14.9486",
+    "lng": "37.4144",
+    "id": "1508782895"
+  },
+  {
+    "city": "Quelimane",
+    "city_ascii": "Quelimane",
+    "admin_name": "Zambézia",
+    "lat": "-17.8764",
+    "lng": "36.8872",
+    "id": "1508396687"
+  },
+  {
+    "city": "Tete",
+    "city_ascii": "Tete",
+    "admin_name": "Tete",
+    "lat": "-16.1579",
+    "lng": "33.5898",
+    "id": "1508476900"
+  },
+  {
+    "city": "Vila Junqueiro",
+    "city_ascii": "Vila Junqueiro",
+    "admin_name": "Zambézia",
+    "lat": "-15.4669",
+    "lng": "36.9778",
+    "id": "1508271174"
+  },
+  {
+    "city": "Lichinga",
+    "city_ascii": "Lichinga",
+    "admin_name": "Niassa",
+    "lat": "-13.3000",
+    "lng": "35.2456",
+    "id": "1508041628"
+  },
+  {
+    "city": "Pemba",
+    "city_ascii": "Pemba",
+    "admin_name": "Cabo Delgado",
+    "lat": "-12.9667",
+    "lng": "40.5167",
+    "id": "1508872233"
+  },
+  {
+    "city": "Xai-Xai",
+    "city_ascii": "Xai-Xai",
+    "admin_name": "Gaza",
+    "lat": "-25.0500",
+    "lng": "33.6500",
+    "id": "1508689070"
+  },
+  {
+    "city": "Maxixe",
+    "city_ascii": "Maxixe",
+    "admin_name": "Inhambane",
+    "lat": "-23.8597",
+    "lng": "35.3472",
+    "id": "1508002342"
+  },
+  {
+    "city": "Cuamba",
+    "city_ascii": "Cuamba",
+    "admin_name": "Niassa",
+    "lat": "-14.8200",
+    "lng": "36.5486",
+    "id": "1508862081"
+  },
+  {
+    "city": "Montepuez",
+    "city_ascii": "Montepuez",
+    "admin_name": "Cabo Delgado",
+    "lat": "-13.1167",
+    "lng": "39.0000",
+    "id": "1508552201"
+  },
+  {
+    "city": "Dondo",
+    "city_ascii": "Dondo",
+    "admin_name": "Sofala",
+    "lat": "-19.6167",
+    "lng": "34.7500",
+    "id": "1508741848"
+  },
+  {
+    "city": "Mocuba",
+    "city_ascii": "Mocuba",
+    "admin_name": "Zambézia",
+    "lat": "-16.8391",
+    "lng": "36.9855",
+    "id": "1508922450"
+  },
+  {
+    "city": "Mocuba",
+    "city_ascii": "Mocuba",
+    "admin_name": "Zambézia",
+    "lat": "-16.8496",
+    "lng": "38.2600",
+    "id": "1508699932"
+  },
+  {
+    "city": "Inhambane",
+    "city_ascii": "Inhambane",
+    "admin_name": "Inhambane",
+    "lat": "-23.8650",
+    "lng": "35.3833",
+    "id": "1508945412"
+  },
+  {
+    "city": "Chokwé",
+    "city_ascii": "Chokwe",
+    "admin_name": "Gaza",
+    "lat": "-24.5253",
+    "lng": "33.0086",
+    "id": "1508737607"
+  },
+  {
+    "city": "Manhiça",
+    "city_ascii": "Manhica",
+    "admin_name": "Maputo",
+    "lat": "-25.4000",
+    "lng": "32.8000",
+    "id": "1508278730"
+  },
+  {
+    "city": "Pebane",
+    "city_ascii": "Pebane",
+    "admin_name": "Zambézia",
+    "lat": "-17.2642",
+    "lng": "38.1350",
+    "id": "1508524941"
+  },
+  {
+    "city": "Chibuto",
+    "city_ascii": "Chibuto",
+    "admin_name": "Gaza",
+    "lat": "-24.6867",
+    "lng": "33.5306",
+    "id": "1508468789"
+  },
+  {
+    "city": "Moatize",
+    "city_ascii": "Moatize",
+    "admin_name": "Tete",
+    "lat": "-16.1167",
+    "lng": "33.7500",
+    "id": "1508074512"
+  },
+  {
+    "city": "Songo",
+    "city_ascii": "Songo",
+    "admin_name": "Tete",
+    "lat": "-15.5958",
+    "lng": "32.7647",
+    "id": "1508318557"
+  },
+  {
+    "city": "Macomia",
+    "city_ascii": "Macomia",
+    "admin_name": "Cabo Delgado",
+    "lat": "-12.2467",
+    "lng": "40.1208",
+    "id": "1508378335"
+  },
+  {
+    "city": "Zumbo",
+    "city_ascii": "Zumbo",
+    "admin_name": "Tete",
+    "lat": "-15.6148",
+    "lng": "30.4440",
+    "id": "1508473445"
+  },
+  {
+    "city": "Mocímboa da Praia",
+    "city_ascii": "Mocimboa da Praia",
+    "admin_name": "Cabo Delgado",
+    "lat": "-11.3500",
+    "lng": "40.3333",
+    "id": "1508896362"
+  },
+  {
+    "city": "Namaacha",
+    "city_ascii": "Namaacha",
+    "admin_name": "Maputo",
+    "lat": "-25.9667",
+    "lng": "32.0333",
+    "id": "1508141495"
+  },
+  {
+    "city": "Catandica",
+    "city_ascii": "Catandica",
+    "admin_name": "Manica",
+    "lat": "-18.0564",
+    "lng": "33.1747",
+    "id": "1508992783"
+  },
+  {
+    "city": "Mocímboa",
+    "city_ascii": "Mocimboa",
+    "admin_name": "Cabo Delgado",
+    "lat": "-11.3196",
+    "lng": "40.3500",
+    "id": "1508815299"
+  },
+  {
+    "city": "Manjacaze",
+    "city_ascii": "Manjacaze",
+    "admin_name": "Gaza",
+    "lat": "-24.7117",
+    "lng": "33.8828",
+    "id": "1508000199"
+  },
+  {
+    "city": "Palma",
+    "city_ascii": "Palma",
+    "admin_name": "Cabo Delgado",
+    "lat": "-10.7833",
+    "lng": "40.4833",
+    "id": "1508033717"
+  },
+  {
+    "city": "Ulongué",
+    "city_ascii": "Ulongue",
+    "admin_name": "Tete",
+    "lat": "-14.7167",
+    "lng": "34.3667",
+    "id": "1508479155"
+  },
+  {
+    "city": "Catembe",
+    "city_ascii": "Catembe",
+    "admin_name": "Maputo",
+    "lat": "-26.0092",
+    "lng": "32.5667",
+    "id": "1508571099"
+  },
+  {
+    "city": "Vilankulo",
+    "city_ascii": "Vilankulo",
+    "admin_name": "Inhambane",
+    "lat": "-22.0000",
+    "lng": "35.3167",
+    "id": "1508379289"
+  },
+  {
+    "city": "Macia",
+    "city_ascii": "Macia",
+    "admin_name": "Gaza",
+    "lat": "-25.0333",
+    "lng": "33.1000",
+    "id": "1508558129"
+  },
+  {
+    "city": "Mapai",
+    "city_ascii": "Mapai",
+    "admin_name": "Gaza",
+    "lat": "-22.7306",
+    "lng": "32.0583",
+    "id": "1508081096"
+  },
+  {
+    "city": "Chinde",
+    "city_ascii": "Chinde",
+    "admin_name": "Zambézia",
+    "lat": "-18.5833",
+    "lng": "36.4667",
+    "id": "1508587868"
+  },
+  {
+    "city": "Ilha de Moçambique",
+    "city_ascii": "Ilha de Mocambique",
+    "admin_name": "Nampula",
+    "lat": "-15.0367",
+    "lng": "40.7328",
+    "id": "1508063712"
+  },
+  {
+    "city": "Ancuabe",
+    "city_ascii": "Ancuabe",
+    "admin_name": "Cabo Delgado",
+    "lat": "-12.9833",
+    "lng": "39.8500",
+    "id": "1508613485"
+  },
+  {
+    "city": "Inhassoro",
+    "city_ascii": "Inhassoro",
+    "admin_name": "Inhambane",
+    "lat": "-21.5347",
+    "lng": "35.2022",
+    "id": "1508276563"
+  },
+  {
+    "city": "Regedor Zavala",
+    "city_ascii": "Regedor Zavala",
+    "admin_name": "Inhambane",
+    "lat": "-24.6833",
+    "lng": "34.6667",
+    "id": "1508990643"
+  },
+  {
+    "city": "Závora",
+    "city_ascii": "Zavora",
+    "admin_name": "Inhambane",
+    "lat": "-24.5150",
+    "lng": "35.1997",
+    "id": "1508814998"
+  },
+  {
+    "city": "Marrupa",
+    "city_ascii": "Marrupa",
+    "admin_name": "Niassa",
+    "lat": "-13.1833",
+    "lng": "37.5000",
+    "id": "1508890063"
+  },
+  {
+    "city": "Nicoadala",
+    "city_ascii": "Nicoadala",
+    "admin_name": "Zambézia",
+    "lat": "-17.6077",
+    "lng": "36.8197",
+    "id": "1508484170"
+  },
+  {
+    "city": "Manica",
+    "city_ascii": "Manica",
+    "admin_name": "Manica",
+    "lat": "-18.9344",
+    "lng": "32.8756",
+    "id": "1508848017"
+  },
+  {
+    "city": "Ligonha",
+    "city_ascii": "Ligonha",
+    "admin_name": "Nampula",
+    "lat": "-15.1757",
+    "lng": "37.7400",
+    "id": "1508105140"
+  },
+  {
+    "city": "Regedor Quissico",
+    "city_ascii": "Regedor Quissico",
+    "admin_name": "Inhambane",
+    "lat": "-24.7257",
+    "lng": "34.7660",
+    "id": "1508214411"
+  },
+  {
+    "city": "Massangena",
+    "city_ascii": "Massangena",
+    "admin_name": "Gaza",
+    "lat": "-21.5373",
+    "lng": "32.9564",
+    "id": "1508224482"
+  },
+  {
+    "city": "Panda",
+    "city_ascii": "Panda",
+    "admin_name": "Inhambane",
+    "lat": "-24.0629",
+    "lng": "34.7303",
+    "id": "1508574997"
+  },
+  {
+    "city": "Chiramba",
+    "city_ascii": "Chiramba",
+    "admin_name": "Manica",
+    "lat": "-16.8921",
+    "lng": "34.6559",
+    "id": "1508392455"
+  },
+  {
+    "city": "Espungabera",
+    "city_ascii": "Espungabera",
+    "admin_name": "Manica",
+    "lat": "-20.4531",
+    "lng": "32.7725",
+    "id": "1508256538"
+  }
+]

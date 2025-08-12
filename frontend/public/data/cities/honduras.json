@@ -1,0 +1,522 @@
+[
+  {
+    "city": "Comayagüela",
+    "city_ascii": "Comayaguela",
+    "admin_name": "Francisco Morazán",
+    "lat": "14.0980",
+    "lng": "-87.2100",
+    "id": "1340762485"
+  },
+  {
+    "city": "Tegucigalpa",
+    "city_ascii": "Tegucigalpa",
+    "admin_name": "Francisco Morazán",
+    "lat": "14.1057",
+    "lng": "-87.2040",
+    "id": "1340344059"
+  },
+  {
+    "city": "San Pedro Sula",
+    "city_ascii": "San Pedro Sula",
+    "admin_name": "Cortés",
+    "lat": "15.5062",
+    "lng": "-88.0249",
+    "id": "1340568412"
+  },
+  {
+    "city": "Choloma",
+    "city_ascii": "Choloma",
+    "admin_name": "Cortés",
+    "lat": "15.6127",
+    "lng": "-87.9507",
+    "id": "1340125981"
+  },
+  {
+    "city": "La Ceiba",
+    "city_ascii": "La Ceiba",
+    "admin_name": "Atlántida",
+    "lat": "15.7833",
+    "lng": "-86.7918",
+    "id": "1340870189"
+  },
+  {
+    "city": "El Progreso",
+    "city_ascii": "El Progreso",
+    "admin_name": "Yoro",
+    "lat": "15.4009",
+    "lng": "-87.8120",
+    "id": "1340231948"
+  },
+  {
+    "city": "Ciudad Choluteca",
+    "city_ascii": "Ciudad Choluteca",
+    "admin_name": "Choluteca",
+    "lat": "13.3014",
+    "lng": "-87.1842",
+    "id": "1340256619"
+  },
+  {
+    "city": "Villanueva",
+    "city_ascii": "Villanueva",
+    "admin_name": "Cortés",
+    "lat": "15.3157",
+    "lng": "-87.9932",
+    "id": "1340079427"
+  },
+  {
+    "city": "Comayagua",
+    "city_ascii": "Comayagua",
+    "admin_name": "Comayagua",
+    "lat": "14.4528",
+    "lng": "-87.6379",
+    "id": "1340015594"
+  },
+  {
+    "city": "Juticalpa",
+    "city_ascii": "Juticalpa",
+    "admin_name": "Olancho",
+    "lat": "14.6672",
+    "lng": "-86.2196",
+    "id": "1340411203"
+  },
+  {
+    "city": "Puerto Cortés",
+    "city_ascii": "Puerto Cortes",
+    "admin_name": "Cortés",
+    "lat": "15.8833",
+    "lng": "-87.9500",
+    "id": "1340000062"
+  },
+  {
+    "city": "Catacamas",
+    "city_ascii": "Catacamas",
+    "admin_name": "Olancho",
+    "lat": "14.8484",
+    "lng": "-85.8936",
+    "id": "1340898308"
+  },
+  {
+    "city": "Olanchito",
+    "city_ascii": "Olanchito",
+    "admin_name": "Yoro",
+    "lat": "15.4836",
+    "lng": "-86.5725",
+    "id": "1340362964"
+  },
+  {
+    "city": "Tela",
+    "city_ascii": "Tela",
+    "admin_name": "Atlántida",
+    "lat": "15.7825",
+    "lng": "-87.4514",
+    "id": "1340789148"
+  },
+  {
+    "city": "Siguatepeque",
+    "city_ascii": "Siguatepeque",
+    "admin_name": "Comayagua",
+    "lat": "14.5978",
+    "lng": "-87.8353",
+    "id": "1340354793"
+  },
+  {
+    "city": "Danlí",
+    "city_ascii": "Danli",
+    "admin_name": "El Paraíso",
+    "lat": "14.0324",
+    "lng": "-86.5683",
+    "id": "1340108771"
+  },
+  {
+    "city": "Yoro",
+    "city_ascii": "Yoro",
+    "admin_name": "Yoro",
+    "lat": "15.1379",
+    "lng": "-87.1249",
+    "id": "1340638121"
+  },
+  {
+    "city": "Tocoa",
+    "city_ascii": "Tocoa",
+    "admin_name": "Colón",
+    "lat": "15.6576",
+    "lng": "-86.0050",
+    "id": "1340024758"
+  },
+  {
+    "city": "La Lima",
+    "city_ascii": "La Lima",
+    "admin_name": "Cortés",
+    "lat": "15.4402",
+    "lng": "-87.9278",
+    "id": "1340766612"
+  },
+  {
+    "city": "Santa Rosa de Copán",
+    "city_ascii": "Santa Rosa de Copan",
+    "admin_name": "Copán",
+    "lat": "14.7675",
+    "lng": "-88.7781",
+    "id": "1340050563"
+  },
+  {
+    "city": "Trujillo",
+    "city_ascii": "Trujillo",
+    "admin_name": "Colón",
+    "lat": "15.9179",
+    "lng": "-85.9530",
+    "id": "1340756106"
+  },
+  {
+    "city": "Nacaome",
+    "city_ascii": "Nacaome",
+    "admin_name": "Valle",
+    "lat": "13.5325",
+    "lng": "-87.4881",
+    "id": "1340964186"
+  },
+  {
+    "city": "Intibucá",
+    "city_ascii": "Intibuca",
+    "admin_name": "Intibucá",
+    "lat": "14.3121",
+    "lng": "-88.1781",
+    "id": "1340620843"
+  },
+  {
+    "city": "San Manuel",
+    "city_ascii": "San Manuel",
+    "admin_name": "Cortés",
+    "lat": "15.3318",
+    "lng": "-87.9194",
+    "id": "1340778630"
+  },
+  {
+    "city": "Gracias",
+    "city_ascii": "Gracias",
+    "admin_name": "Lempira",
+    "lat": "14.5890",
+    "lng": "-88.5814",
+    "id": "1340141391"
+  },
+  {
+    "city": "Puerto Lempira",
+    "city_ascii": "Puerto Lempira",
+    "admin_name": "Gracias a Dios",
+    "lat": "15.2664",
+    "lng": "-83.7725",
+    "id": "1340110055"
+  },
+  {
+    "city": "La Paz",
+    "city_ascii": "La Paz",
+    "admin_name": "La Paz",
+    "lat": "14.3234",
+    "lng": "-87.6832",
+    "id": "1340290947"
+  },
+  {
+    "city": "Sonaguera",
+    "city_ascii": "Sonaguera",
+    "admin_name": "Colón",
+    "lat": "15.6185",
+    "lng": "-86.2712",
+    "id": "1340592173"
+  },
+  {
+    "city": "Santa Bárbara",
+    "city_ascii": "Santa Barbara",
+    "admin_name": "Santa Bárbara",
+    "lat": "14.9216",
+    "lng": "-88.2364",
+    "id": "1340312026"
+  },
+  {
+    "city": "Copán",
+    "city_ascii": "Copan",
+    "admin_name": "Copán",
+    "lat": "14.8333",
+    "lng": "-89.1500",
+    "id": "1340766034"
+  },
+  {
+    "city": "San Lorenzo",
+    "city_ascii": "San Lorenzo",
+    "admin_name": "Valle",
+    "lat": "13.4213",
+    "lng": "-87.4487",
+    "id": "1340596273"
+  },
+  {
+    "city": "Talanga",
+    "city_ascii": "Talanga",
+    "admin_name": "Francisco Morazán",
+    "lat": "14.4043",
+    "lng": "-87.0811",
+    "id": "1340622146"
+  },
+  {
+    "city": "Santa Rita",
+    "city_ascii": "Santa Rita",
+    "admin_name": "Copán",
+    "lat": "14.8680",
+    "lng": "-89.0941",
+    "id": "1340516072"
+  },
+  {
+    "city": "Bonito Oriental",
+    "city_ascii": "Bonito Oriental",
+    "admin_name": "Colón",
+    "lat": "15.7476",
+    "lng": "-85.7314",
+    "id": "1340343332"
+  },
+  {
+    "city": "Guaimaca",
+    "city_ascii": "Guaimaca",
+    "admin_name": "Francisco Morazán",
+    "lat": "14.5488",
+    "lng": "-86.8277",
+    "id": "1340628932"
+  },
+  {
+    "city": "Potrerillos",
+    "city_ascii": "Potrerillos",
+    "admin_name": "Cortés",
+    "lat": "15.2333",
+    "lng": "-87.9667",
+    "id": "1340725749"
+  },
+  {
+    "city": "Azacualpa",
+    "city_ascii": "Azacualpa",
+    "admin_name": "Santa Bárbara",
+    "lat": "14.7167",
+    "lng": "-88.1000",
+    "id": "1340612681"
+  },
+  {
+    "city": "Cedros",
+    "city_ascii": "Cedros",
+    "admin_name": "Francisco Morazán",
+    "lat": "14.5956",
+    "lng": "-87.1186",
+    "id": "1340514859"
+  },
+  {
+    "city": "Iriona",
+    "city_ascii": "Iriona",
+    "admin_name": "Colón",
+    "lat": "15.9691",
+    "lng": "-85.0933",
+    "id": "1340981910"
+  },
+  {
+    "city": "Santa Rita",
+    "city_ascii": "Santa Rita",
+    "admin_name": "Yoro",
+    "lat": "15.2001",
+    "lng": "-87.8841",
+    "id": "1340894551"
+  },
+  {
+    "city": "Azacualpa",
+    "city_ascii": "Azacualpa",
+    "admin_name": "Santa Bárbara",
+    "lat": "15.3441",
+    "lng": "-88.5515",
+    "id": "1340499281"
+  },
+  {
+    "city": "San Marcos",
+    "city_ascii": "San Marcos",
+    "admin_name": "Ocotepeque",
+    "lat": "14.4093",
+    "lng": "-88.9545",
+    "id": "1340516781"
+  },
+  {
+    "city": "El Paraíso",
+    "city_ascii": "El Paraiso",
+    "admin_name": "Copán",
+    "lat": "15.0253",
+    "lng": "-88.9831",
+    "id": "1340000059"
+  },
+  {
+    "city": "Campamento",
+    "city_ascii": "Campamento",
+    "admin_name": "Olancho",
+    "lat": "14.5514",
+    "lng": "-86.6646",
+    "id": "1340615985"
+  },
+  {
+    "city": "Cofradía",
+    "city_ascii": "Cofradia",
+    "admin_name": "Cortés",
+    "lat": "15.4168",
+    "lng": "-88.1603",
+    "id": "1340899741"
+  },
+  {
+    "city": "Sulaco",
+    "city_ascii": "Sulaco",
+    "admin_name": "Yoro",
+    "lat": "14.9113",
+    "lng": "-87.2622",
+    "id": "1340801499"
+  },
+  {
+    "city": "Santa Ana",
+    "city_ascii": "Santa Ana",
+    "admin_name": "Francisco Morazán",
+    "lat": "13.9296",
+    "lng": "-87.2733",
+    "id": "1340709645"
+  },
+  {
+    "city": "Yorito",
+    "city_ascii": "Yorito",
+    "admin_name": "Yoro",
+    "lat": "15.0600",
+    "lng": "-87.2900",
+    "id": "1340550354"
+  },
+  {
+    "city": "Guajiquiro",
+    "city_ascii": "Guajiquiro",
+    "admin_name": "La Paz",
+    "lat": "14.1209",
+    "lng": "-87.8303",
+    "id": "1340570749"
+  },
+  {
+    "city": "San Francisco",
+    "city_ascii": "San Francisco",
+    "admin_name": "Atlántida",
+    "lat": "15.6715",
+    "lng": "-87.0394",
+    "id": "1340403835"
+  },
+  {
+    "city": "Yuscarán",
+    "city_ascii": "Yuscaran",
+    "admin_name": "El Paraíso",
+    "lat": "13.9444",
+    "lng": "-86.8526",
+    "id": "1340315181"
+  },
+  {
+    "city": "La Entrada",
+    "city_ascii": "La Entrada",
+    "admin_name": "Copán",
+    "lat": "15.0638",
+    "lng": "-88.7464",
+    "id": "1340911070"
+  },
+  {
+    "city": "San Rafael",
+    "city_ascii": "San Rafael",
+    "admin_name": "Lempira",
+    "lat": "14.7280",
+    "lng": "-88.4184",
+    "id": "1340725432"
+  },
+  {
+    "city": "San Juan",
+    "city_ascii": "San Juan",
+    "admin_name": "Intibucá",
+    "lat": "14.4067",
+    "lng": "-88.4234",
+    "id": "1340811694"
+  },
+  {
+    "city": "Brus Laguna",
+    "city_ascii": "Brus Laguna",
+    "admin_name": "Gracias a Dios",
+    "lat": "15.7711",
+    "lng": "-84.5395",
+    "id": "1340003428"
+  },
+  {
+    "city": "Santa Elena",
+    "city_ascii": "Santa Elena",
+    "admin_name": "La Paz",
+    "lat": "14.0942",
+    "lng": "-88.1096",
+    "id": "1340947975"
+  },
+  {
+    "city": "Santa Ana",
+    "city_ascii": "Santa Ana",
+    "admin_name": "La Paz",
+    "lat": "14.0643",
+    "lng": "-87.9534",
+    "id": "1340290490"
+  },
+  {
+    "city": "La Esperanza",
+    "city_ascii": "La Esperanza",
+    "admin_name": "Intibucá",
+    "lat": "14.3081",
+    "lng": "-88.1768",
+    "id": "1340614286"
+  },
+  {
+    "city": "Gualcince",
+    "city_ascii": "Gualcince",
+    "admin_name": "Lempira",
+    "lat": "14.1237",
+    "lng": "-88.5428",
+    "id": "1340233884"
+  },
+  {
+    "city": "La Jigua",
+    "city_ascii": "La Jigua",
+    "admin_name": "Copán",
+    "lat": "15.0427",
+    "lng": "-88.7974",
+    "id": "1340297828"
+  },
+  {
+    "city": "Marale",
+    "city_ascii": "Marale",
+    "admin_name": "Francisco Morazán",
+    "lat": "14.8833",
+    "lng": "-87.1500",
+    "id": "1340172200"
+  },
+  {
+    "city": "San Francisco",
+    "city_ascii": "San Francisco",
+    "admin_name": "Lempira",
+    "lat": "14.1156",
+    "lng": "-88.3707",
+    "id": "1340590673"
+  },
+  {
+    "city": "San Ignacio",
+    "city_ascii": "San Ignacio",
+    "admin_name": "Francisco Morazán",
+    "lat": "14.6574",
+    "lng": "-87.0367",
+    "id": "1340809113"
+  },
+  {
+    "city": "Nueva Ocotepeque",
+    "city_ascii": "Nueva Ocotepeque",
+    "admin_name": "Ocotepeque",
+    "lat": "14.4355",
+    "lng": "-89.1845",
+    "id": "1340380637"
+  },
+  {
+    "city": "Roatán",
+    "city_ascii": "Roatan",
+    "admin_name": "Islas de la Bahía",
+    "lat": "16.3300",
+    "lng": "-86.5190",
+    "id": "1340163370"
+  }
+]

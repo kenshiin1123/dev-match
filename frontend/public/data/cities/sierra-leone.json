@@ -1,0 +1,234 @@
+[
+  {
+    "city": "Freetown",
+    "city_ascii": "Freetown",
+    "admin_name": "Western Area",
+    "lat": "8.4833",
+    "lng": "-13.2331",
+    "id": "1694085071"
+  },
+  {
+    "city": "Bo",
+    "city_ascii": "Bo",
+    "admin_name": "Southern",
+    "lat": "7.9564",
+    "lng": "-11.7400",
+    "id": "1694651111"
+  },
+  {
+    "city": "Kenema",
+    "city_ascii": "Kenema",
+    "admin_name": "Eastern",
+    "lat": "7.8833",
+    "lng": "-11.1833",
+    "id": "1694780903"
+  },
+  {
+    "city": "Koidu",
+    "city_ascii": "Koidu",
+    "admin_name": "Eastern",
+    "lat": "8.6439",
+    "lng": "-10.9717",
+    "id": "1694710002"
+  },
+  {
+    "city": "Koidu-Bulma",
+    "city_ascii": "Koidu-Bulma",
+    "admin_name": "Eastern",
+    "lat": "8.4405",
+    "lng": "-10.8500",
+    "id": "1694104584"
+  },
+  {
+    "city": "Port Loko",
+    "city_ascii": "Port Loko",
+    "admin_name": "North Western",
+    "lat": "8.7667",
+    "lng": "-12.7833",
+    "id": "1694778676"
+  },
+  {
+    "city": "Tongoma",
+    "city_ascii": "Tongoma",
+    "admin_name": "Eastern",
+    "lat": "8.6598",
+    "lng": "-11.0588",
+    "id": "1694227218"
+  },
+  {
+    "city": "Magburaka",
+    "city_ascii": "Magburaka",
+    "admin_name": "Northern",
+    "lat": "8.7211",
+    "lng": "-11.9494",
+    "id": "1694067081"
+  },
+  {
+    "city": "Kambia",
+    "city_ascii": "Kambia",
+    "admin_name": "Northern",
+    "lat": "9.1239",
+    "lng": "-12.9181",
+    "id": "1694846063"
+  },
+  {
+    "city": "Kambia",
+    "city_ascii": "Kambia",
+    "admin_name": "Northern",
+    "lat": "9.1167",
+    "lng": "-12.9167",
+    "id": "1694801340"
+  },
+  {
+    "city": "Lunsar",
+    "city_ascii": "Lunsar",
+    "admin_name": "Northern",
+    "lat": "8.6844",
+    "lng": "-12.5350",
+    "id": "1694711563"
+  },
+  {
+    "city": "Newton",
+    "city_ascii": "Newton",
+    "admin_name": "Western Area",
+    "lat": "8.3388",
+    "lng": "-13.0048",
+    "id": "1694000067"
+  },
+  {
+    "city": "Motema",
+    "city_ascii": "Motema",
+    "admin_name": "Eastern",
+    "lat": "8.6884",
+    "lng": "-11.1805",
+    "id": "1694972469"
+  },
+  {
+    "city": "Kailahun",
+    "city_ascii": "Kailahun",
+    "admin_name": "Eastern",
+    "lat": "8.2794",
+    "lng": "-10.5733",
+    "id": "1694287163"
+  },
+  {
+    "city": "Benguema",
+    "city_ascii": "Benguema",
+    "admin_name": "Western Area",
+    "lat": "8.3215",
+    "lng": "-13.0724",
+    "id": "1694621543"
+  },
+  {
+    "city": "Pendembu",
+    "city_ascii": "Pendembu",
+    "admin_name": "Eastern",
+    "lat": "8.0981",
+    "lng": "-10.6943",
+    "id": "1694288658"
+  },
+  {
+    "city": "Pujehun",
+    "city_ascii": "Pujehun",
+    "admin_name": "Southern",
+    "lat": "7.3506",
+    "lng": "-11.7181",
+    "id": "1694026620"
+  },
+  {
+    "city": "Kabala",
+    "city_ascii": "Kabala",
+    "admin_name": "Northern",
+    "lat": "9.5878",
+    "lng": "-11.5517",
+    "id": "1694931423"
+  },
+  {
+    "city": "Leicester",
+    "city_ascii": "Leicester",
+    "admin_name": "Western Area",
+    "lat": "8.4604",
+    "lng": "-13.2192",
+    "id": "1694657802"
+  },
+  {
+    "city": "Segbwema",
+    "city_ascii": "Segbwema",
+    "admin_name": "Eastern",
+    "lat": "7.9947",
+    "lng": "-10.9502",
+    "id": "1694704842"
+  },
+  {
+    "city": "Bumpe",
+    "city_ascii": "Bumpe",
+    "admin_name": "Southern",
+    "lat": "7.8921",
+    "lng": "-11.9054",
+    "id": "1694169724"
+  },
+  {
+    "city": "Mongeri",
+    "city_ascii": "Mongeri",
+    "admin_name": "Southern",
+    "lat": "8.3207",
+    "lng": "-11.7343",
+    "id": "1694288062"
+  },
+  {
+    "city": "Binkolo",
+    "city_ascii": "Binkolo",
+    "admin_name": "Northern",
+    "lat": "8.9522",
+    "lng": "-11.9803",
+    "id": "1694588159"
+  },
+  {
+    "city": "Yengema",
+    "city_ascii": "Yengema",
+    "admin_name": "Eastern",
+    "lat": "8.7144",
+    "lng": "-11.1706",
+    "id": "1694224678"
+  },
+  {
+    "city": "Rokupr",
+    "city_ascii": "Rokupr",
+    "admin_name": "Northern",
+    "lat": "9.0109",
+    "lng": "-12.9489",
+    "id": "1694701972"
+  },
+  {
+    "city": "Makeni",
+    "city_ascii": "Makeni",
+    "admin_name": "Northern",
+    "lat": "8.8817",
+    "lng": "-12.0442",
+    "id": "1694028641"
+  },
+  {
+    "city": "Gandorhun",
+    "city_ascii": "Gandorhun",
+    "admin_name": "Southern",
+    "lat": "7.5550",
+    "lng": "-11.6926",
+    "id": "1694102369"
+  },
+  {
+    "city": "Moyamba",
+    "city_ascii": "Moyamba",
+    "admin_name": "Southern",
+    "lat": "8.1606",
+    "lng": "-12.4333",
+    "id": "1694534088"
+  },
+  {
+    "city": "Bonthe",
+    "city_ascii": "Bonthe",
+    "admin_name": "Southern",
+    "lat": "7.5264",
+    "lng": "-12.5050",
+    "id": "1694831211"
+  }
+]

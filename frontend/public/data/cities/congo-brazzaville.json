@@ -1,0 +1,274 @@
+[
+  {
+    "city": "Brazzaville",
+    "city_ascii": "Brazzaville",
+    "admin_name": "Brazzaville",
+    "lat": "-4.2667",
+    "lng": "15.2667",
+    "id": "1178340306"
+  },
+  {
+    "city": "Pointe-Noire",
+    "city_ascii": "Pointe-Noire",
+    "admin_name": "Pointe-Noire",
+    "lat": "-4.7975",
+    "lng": "11.8503",
+    "id": "1178411563"
+  },
+  {
+    "city": "Tchibota",
+    "city_ascii": "Tchibota",
+    "admin_name": "Kouilou",
+    "lat": "-4.1794",
+    "lng": "11.3731",
+    "id": "1178731596"
+  },
+  {
+    "city": "Dolisie",
+    "city_ascii": "Dolisie",
+    "admin_name": "Niari",
+    "lat": "-4.2006",
+    "lng": "12.6792",
+    "id": "1178045241"
+  },
+  {
+    "city": "Kayes",
+    "city_ascii": "Kayes",
+    "admin_name": "Bouenza",
+    "lat": "-4.1683",
+    "lng": "13.2933",
+    "id": "1178012015"
+  },
+  {
+    "city": "Oyo",
+    "city_ascii": "Oyo",
+    "admin_name": "Cuvette",
+    "lat": "-1.1603",
+    "lng": "15.9736",
+    "id": "1178349478"
+  },
+  {
+    "city": "Bétou",
+    "city_ascii": "Betou",
+    "admin_name": "Likouala",
+    "lat": "3.0594",
+    "lng": "18.5142",
+    "id": "1178119636"
+  },
+  {
+    "city": "Madingou",
+    "city_ascii": "Madingou",
+    "admin_name": "Bouenza",
+    "lat": "-4.1642",
+    "lng": "13.5517",
+    "id": "1178057279"
+  },
+  {
+    "city": "Impfondo",
+    "city_ascii": "Impfondo",
+    "admin_name": "Likouala",
+    "lat": "1.6186",
+    "lng": "18.0622",
+    "id": "1178021926"
+  },
+  {
+    "city": "Hinda",
+    "city_ascii": "Hinda",
+    "admin_name": "Kouilou",
+    "lat": "-4.6167",
+    "lng": "12.0406",
+    "id": "1178008443"
+  },
+  {
+    "city": "Sibiti",
+    "city_ascii": "Sibiti",
+    "admin_name": "Lékoumou",
+    "lat": "-3.6850",
+    "lng": "13.3511",
+    "id": "1178867178"
+  },
+  {
+    "city": "Mossaka",
+    "city_ascii": "Mossaka",
+    "admin_name": "Cuvette",
+    "lat": "-1.2258",
+    "lng": "16.7947",
+    "id": "1178417610"
+  },
+  {
+    "city": "Ouésso",
+    "city_ascii": "Ouesso",
+    "admin_name": "Sangha",
+    "lat": "1.6106",
+    "lng": "16.0514",
+    "id": "1178364266"
+  },
+  {
+    "city": "Bouansa",
+    "city_ascii": "Bouansa",
+    "admin_name": "Bouenza",
+    "lat": "-4.2178",
+    "lng": "13.7628",
+    "id": "1178437316"
+  },
+  {
+    "city": "Loutété",
+    "city_ascii": "Loutete",
+    "admin_name": "Bouenza",
+    "lat": "-4.2972",
+    "lng": "13.8556",
+    "id": "1178075371"
+  },
+  {
+    "city": "Gamboma",
+    "city_ascii": "Gamboma",
+    "admin_name": "Plateaux",
+    "lat": "-1.8711",
+    "lng": "15.8781",
+    "id": "1178991023"
+  },
+  {
+    "city": "Owando",
+    "city_ascii": "Owando",
+    "admin_name": "Cuvette",
+    "lat": "-0.4833",
+    "lng": "15.8975",
+    "id": "1178298042"
+  },
+  {
+    "city": "Djambala",
+    "city_ascii": "Djambala",
+    "admin_name": "Plateaux",
+    "lat": "-2.5400",
+    "lng": "14.7519",
+    "id": "1178834249"
+  },
+  {
+    "city": "Mouyondzi",
+    "city_ascii": "Mouyondzi",
+    "admin_name": "Bouenza",
+    "lat": "-3.9956",
+    "lng": "13.9219",
+    "id": "1178313353"
+  },
+  {
+    "city": "Mindouli",
+    "city_ascii": "Mindouli",
+    "admin_name": "Pool",
+    "lat": "-4.2747",
+    "lng": "14.3575",
+    "id": "1178845448"
+  },
+  {
+    "city": "Makoua",
+    "city_ascii": "Makoua",
+    "admin_name": "Cuvette",
+    "lat": "-0.0067",
+    "lng": "15.6181",
+    "id": "1178500492"
+  },
+  {
+    "city": "Loudima Poste",
+    "city_ascii": "Loudima Poste",
+    "admin_name": "Bouenza",
+    "lat": "-4.1122",
+    "lng": "13.0600",
+    "id": "1178518794"
+  },
+  {
+    "city": "Mossendjo",
+    "city_ascii": "Mossendjo",
+    "admin_name": "Niari",
+    "lat": "-2.9453",
+    "lng": "12.7156",
+    "id": "1178679314"
+  },
+  {
+    "city": "Enyellé",
+    "city_ascii": "Enyelle",
+    "admin_name": "Likouala",
+    "lat": "2.8119",
+    "lng": "18.0136",
+    "id": "1178204059"
+  },
+  {
+    "city": "Boloso",
+    "city_ascii": "Boloso",
+    "admin_name": "Sangha",
+    "lat": "2.0333",
+    "lng": "15.2000",
+    "id": "1178777874"
+  },
+  {
+    "city": "Kinkala",
+    "city_ascii": "Kinkala",
+    "admin_name": "Pool",
+    "lat": "-4.3567",
+    "lng": "14.7589",
+    "id": "1178867565"
+  },
+  {
+    "city": "Etoumbi",
+    "city_ascii": "Etoumbi",
+    "admin_name": "Cuvette",
+    "lat": "0.0208",
+    "lng": "14.8933",
+    "id": "1178299694"
+  },
+  {
+    "city": "Souanké",
+    "city_ascii": "Souanke",
+    "admin_name": "Sangha",
+    "lat": "2.0833",
+    "lng": "14.1333",
+    "id": "1178021228"
+  },
+  {
+    "city": "Boundji",
+    "city_ascii": "Boundji",
+    "admin_name": "Cuvette",
+    "lat": "-1.0264",
+    "lng": "15.3478",
+    "id": "1178804816"
+  },
+  {
+    "city": "Dongou",
+    "city_ascii": "Dongou",
+    "admin_name": "Likouala",
+    "lat": "2.0447",
+    "lng": "18.0525",
+    "id": "1178954827"
+  },
+  {
+    "city": "Ewo",
+    "city_ascii": "Ewo",
+    "admin_name": "Cuvette-Ouest",
+    "lat": "-0.8742",
+    "lng": "14.8167",
+    "id": "1178339407"
+  },
+  {
+    "city": "Kéllé",
+    "city_ascii": "Kelle",
+    "admin_name": "Cuvette-Ouest",
+    "lat": "-0.0608",
+    "lng": "14.4878",
+    "id": "1178838538"
+  },
+  {
+    "city": "Sémbé",
+    "city_ascii": "Sembe",
+    "admin_name": "Sangha",
+    "lat": "1.6553",
+    "lng": "14.5708",
+    "id": "1178118997"
+  },
+  {
+    "city": "Loango",
+    "city_ascii": "Loango",
+    "admin_name": "Kouilou",
+    "lat": "-4.6561",
+    "lng": "11.8114",
+    "id": "1178836764"
+  }
+]

@@ -1,0 +1,666 @@
+[
+  {
+    "city": "Bratislava",
+    "city_ascii": "Bratislava",
+    "admin_name": "Bratislava",
+    "lat": "48.1447",
+    "lng": "17.1128",
+    "id": "1703195001"
+  },
+  {
+    "city": "Košice",
+    "city_ascii": "Kosice",
+    "admin_name": "Košice",
+    "lat": "48.7167",
+    "lng": "21.2500",
+    "id": "1703452690"
+  },
+  {
+    "city": "Petržalka",
+    "city_ascii": "Petrzalka",
+    "admin_name": "Bratislava",
+    "lat": "48.1333",
+    "lng": "17.1167",
+    "id": "1703430611"
+  },
+  {
+    "city": "Prešov",
+    "city_ascii": "Presov",
+    "admin_name": "Prešov",
+    "lat": "49.0000",
+    "lng": "21.2333",
+    "id": "1703231427"
+  },
+  {
+    "city": "Žilina",
+    "city_ascii": "Zilina",
+    "admin_name": "Žilina",
+    "lat": "49.2167",
+    "lng": "18.7333",
+    "id": "1703289183"
+  },
+  {
+    "city": "Nitra",
+    "city_ascii": "Nitra",
+    "admin_name": "Nitra",
+    "lat": "48.3147",
+    "lng": "18.0875",
+    "id": "1703890031"
+  },
+  {
+    "city": "Banská Bystrica",
+    "city_ascii": "Banska Bystrica",
+    "admin_name": "Banská Bystrica",
+    "lat": "48.7353",
+    "lng": "19.1453",
+    "id": "1703015198"
+  },
+  {
+    "city": "Trnava",
+    "city_ascii": "Trnava",
+    "admin_name": "Trnava",
+    "lat": "48.3777",
+    "lng": "17.5862",
+    "id": "1703497997"
+  },
+  {
+    "city": "Trenčín",
+    "city_ascii": "Trencin",
+    "admin_name": "Trenčin",
+    "lat": "48.8919",
+    "lng": "18.0367",
+    "id": "1703029695"
+  },
+  {
+    "city": "Martin",
+    "city_ascii": "Martin",
+    "admin_name": "Žilina",
+    "lat": "49.0636",
+    "lng": "18.9214",
+    "id": "1703554366"
+  },
+  {
+    "city": "Poprad",
+    "city_ascii": "Poprad",
+    "admin_name": "Prešov",
+    "lat": "49.0500",
+    "lng": "20.3000",
+    "id": "1703451549"
+  },
+  {
+    "city": "Prievidza",
+    "city_ascii": "Prievidza",
+    "admin_name": "Nitra",
+    "lat": "48.7714",
+    "lng": "18.6242",
+    "id": "1703497240"
+  },
+  {
+    "city": "Zvolen",
+    "city_ascii": "Zvolen",
+    "admin_name": "Banská Bystrica",
+    "lat": "48.5744",
+    "lng": "19.1533",
+    "id": "1703102070"
+  },
+  {
+    "city": "Nové Zámky",
+    "city_ascii": "Nove Zamky",
+    "admin_name": "Nitra",
+    "lat": "47.9831",
+    "lng": "18.1728",
+    "id": "1703734556"
+  },
+  {
+    "city": "Považská Bystrica",
+    "city_ascii": "Povazska Bystrica",
+    "admin_name": "Nitra",
+    "lat": "49.1167",
+    "lng": "18.4500",
+    "id": "1703729563"
+  },
+  {
+    "city": "Michalovce",
+    "city_ascii": "Michalovce",
+    "admin_name": "Košice",
+    "lat": "48.7575",
+    "lng": "21.9183",
+    "id": "1703150232"
+  },
+  {
+    "city": "Spišská Nová Ves",
+    "city_ascii": "Spisska Nova Ves",
+    "admin_name": "Košice",
+    "lat": "48.9500",
+    "lng": "20.5667",
+    "id": "1703217196"
+  },
+  {
+    "city": "Komárno",
+    "city_ascii": "Komarno",
+    "admin_name": "Nitra",
+    "lat": "47.7633",
+    "lng": "18.1283",
+    "id": "1703927453"
+  },
+  {
+    "city": "Levice",
+    "city_ascii": "Levice",
+    "admin_name": "Nitra",
+    "lat": "48.2136",
+    "lng": "18.6069",
+    "id": "1703699284"
+  },
+  {
+    "city": "Humenné",
+    "city_ascii": "Humenne",
+    "admin_name": "Prešov",
+    "lat": "48.9306",
+    "lng": "21.9122",
+    "id": "1703492155"
+  },
+  {
+    "city": "Liptovský Mikuláš",
+    "city_ascii": "Liptovsky Mikulas",
+    "admin_name": "Žilina",
+    "lat": "49.0811",
+    "lng": "19.6181",
+    "id": "1703155005"
+  },
+  {
+    "city": "Bardejov",
+    "city_ascii": "Bardejov",
+    "admin_name": "Prešov",
+    "lat": "49.2950",
+    "lng": "21.2758",
+    "id": "1703663141"
+  },
+  {
+    "city": "Ružomberok",
+    "city_ascii": "Ruzomberok",
+    "admin_name": "Žilina",
+    "lat": "49.0786",
+    "lng": "19.3083",
+    "id": "1703510980"
+  },
+  {
+    "city": "Piešťany",
+    "city_ascii": "Piest'any",
+    "admin_name": "Trnava",
+    "lat": "48.5842",
+    "lng": "17.8336",
+    "id": "1703636029"
+  },
+  {
+    "city": "Lučenec",
+    "city_ascii": "Lucenec",
+    "admin_name": "Banská Bystrica",
+    "lat": "48.3314",
+    "lng": "19.6708",
+    "id": "1703222138"
+  },
+  {
+    "city": "Topoľčany",
+    "city_ascii": "Topol'cany",
+    "admin_name": "Nitra",
+    "lat": "48.5500",
+    "lng": "18.1833",
+    "id": "1703972339"
+  },
+  {
+    "city": "Pezinok",
+    "city_ascii": "Pezinok",
+    "admin_name": "Bratislava",
+    "lat": "48.2919",
+    "lng": "17.2661",
+    "id": "1703456673"
+  },
+  {
+    "city": "Dunajská Streda",
+    "city_ascii": "Dunajska Streda",
+    "admin_name": "Trnava",
+    "lat": "47.9961",
+    "lng": "17.6147",
+    "id": "1703872671"
+  },
+  {
+    "city": "Trebišov",
+    "city_ascii": "Trebisov",
+    "admin_name": "Košice",
+    "lat": "48.6333",
+    "lng": "21.7167",
+    "id": "1703917090"
+  },
+  {
+    "city": "Čadca",
+    "city_ascii": "Cadca",
+    "admin_name": "Žilina",
+    "lat": "49.4386",
+    "lng": "18.7883",
+    "id": "1703091898"
+  },
+  {
+    "city": "Rimavská Sobota",
+    "city_ascii": "Rimavska Sobota",
+    "admin_name": "Banská Bystrica",
+    "lat": "48.3814",
+    "lng": "20.0200",
+    "id": "1703980891"
+  },
+  {
+    "city": "Dubnica nad Váhom",
+    "city_ascii": "Dubnica nad Vahom",
+    "admin_name": "Nitra",
+    "lat": "48.9606",
+    "lng": "18.1739",
+    "id": "1703468923"
+  },
+  {
+    "city": "Partizánske",
+    "city_ascii": "Partizanske",
+    "admin_name": "Nitra",
+    "lat": "48.6333",
+    "lng": "18.3667",
+    "id": "1703749885"
+  },
+  {
+    "city": "Šaľa",
+    "city_ascii": "Sal'a",
+    "admin_name": "Nitra",
+    "lat": "48.1500",
+    "lng": "17.8833",
+    "id": "1703397102"
+  },
+  {
+    "city": "Vranov nad Topľou",
+    "city_ascii": "Vranov nad Topl'ou",
+    "admin_name": "Prešov",
+    "lat": "48.8806",
+    "lng": "21.6731",
+    "id": "1703513512"
+  },
+  {
+    "city": "Hlohovec",
+    "city_ascii": "Hlohovec",
+    "admin_name": "Trnava",
+    "lat": "48.4311",
+    "lng": "17.8031",
+    "id": "1703788561"
+  },
+  {
+    "city": "Senec",
+    "city_ascii": "Senec",
+    "admin_name": "Bratislava",
+    "lat": "48.2189",
+    "lng": "17.3997",
+    "id": "1703144516"
+  },
+  {
+    "city": "Brezno",
+    "city_ascii": "Brezno",
+    "admin_name": "Banská Bystrica",
+    "lat": "48.8036",
+    "lng": "19.6381",
+    "id": "1703148175"
+  },
+  {
+    "city": "Nové Mesto nad Váhom",
+    "city_ascii": "Nove Mesto nad Vahom",
+    "admin_name": "Nitra",
+    "lat": "48.7547",
+    "lng": "17.8308",
+    "id": "1703781613"
+  },
+  {
+    "city": "Senica",
+    "city_ascii": "Senica",
+    "admin_name": "Trnava",
+    "lat": "48.6806",
+    "lng": "17.3667",
+    "id": "1703713928"
+  },
+  {
+    "city": "Malacky",
+    "city_ascii": "Malacky",
+    "admin_name": "Bratislava",
+    "lat": "48.4381",
+    "lng": "17.0236",
+    "id": "1703320479"
+  },
+  {
+    "city": "Snina",
+    "city_ascii": "Snina",
+    "admin_name": "Prešov",
+    "lat": "48.9881",
+    "lng": "22.1567",
+    "id": "1703799818"
+  },
+  {
+    "city": "Dolný Kubín",
+    "city_ascii": "Dolny Kubin",
+    "admin_name": "Žilina",
+    "lat": "49.2117",
+    "lng": "19.2992",
+    "id": "1703836159"
+  },
+  {
+    "city": "Rožňava",
+    "city_ascii": "Roznava",
+    "admin_name": "Košice",
+    "lat": "48.6586",
+    "lng": "20.5314",
+    "id": "1703307007"
+  },
+  {
+    "city": "Púchov",
+    "city_ascii": "Puchov",
+    "admin_name": "Nitra",
+    "lat": "49.1200",
+    "lng": "18.3306",
+    "id": "1703321833"
+  },
+  {
+    "city": "Žiar nad Hronom",
+    "city_ascii": "Ziar nad Hronom",
+    "admin_name": "Banská Bystrica",
+    "lat": "48.5919",
+    "lng": "18.8533",
+    "id": "1703196559"
+  },
+  {
+    "city": "Bánovce nad Bebravou",
+    "city_ascii": "Banovce nad Bebravou",
+    "admin_name": "Nitra",
+    "lat": "48.7186",
+    "lng": "18.2581",
+    "id": "1703803804"
+  },
+  {
+    "city": "Handlová",
+    "city_ascii": "Handlova",
+    "admin_name": "Nitra",
+    "lat": "48.7272",
+    "lng": "18.7619",
+    "id": "1703292608"
+  },
+  {
+    "city": "Sered’",
+    "city_ascii": "Sered'",
+    "admin_name": "Trnava",
+    "lat": "48.2833",
+    "lng": "17.7333",
+    "id": "1703574353"
+  },
+  {
+    "city": "Stará Ľubovňa",
+    "city_ascii": "Stara L'ubovna",
+    "admin_name": "Prešov",
+    "lat": "49.3167",
+    "lng": "20.6833",
+    "id": "1703928081"
+  },
+  {
+    "city": "Skalica",
+    "city_ascii": "Skalica",
+    "admin_name": "Trnava",
+    "lat": "48.8422",
+    "lng": "17.2267",
+    "id": "1703467870"
+  },
+  {
+    "city": "Kežmarok",
+    "city_ascii": "Kezmarok",
+    "admin_name": "Prešov",
+    "lat": "49.1383",
+    "lng": "20.4292",
+    "id": "1703214180"
+  },
+  {
+    "city": "Galanta",
+    "city_ascii": "Galanta",
+    "admin_name": "Trnava",
+    "lat": "48.1914",
+    "lng": "17.7308",
+    "id": "1703120770"
+  },
+  {
+    "city": "Kysucké Nové Mesto",
+    "city_ascii": "Kysucke Nove Mesto",
+    "admin_name": "Žilina",
+    "lat": "49.3000",
+    "lng": "18.7833",
+    "id": "1703666551"
+  },
+  {
+    "city": "Levoča",
+    "city_ascii": "Levoca",
+    "admin_name": "Prešov",
+    "lat": "49.0228",
+    "lng": "20.5906",
+    "id": "1703381498"
+  },
+  {
+    "city": "Detva",
+    "city_ascii": "Detva",
+    "admin_name": "Banská Bystrica",
+    "lat": "48.5572",
+    "lng": "19.4208",
+    "id": "1703135182"
+  },
+  {
+    "city": "Šamorín",
+    "city_ascii": "Samorin",
+    "admin_name": "Trnava",
+    "lat": "48.0267",
+    "lng": "17.3117",
+    "id": "1703883370"
+  },
+  {
+    "city": "Stupava",
+    "city_ascii": "Stupava",
+    "admin_name": "Bratislava",
+    "lat": "48.2833",
+    "lng": "17.0333",
+    "id": "1703216738"
+  },
+  {
+    "city": "Sabinov",
+    "city_ascii": "Sabinov",
+    "admin_name": "Prešov",
+    "lat": "49.1000",
+    "lng": "21.1000",
+    "id": "1703204865"
+  },
+  {
+    "city": "Zlaté Moravce",
+    "city_ascii": "Zlate Moravce",
+    "admin_name": "Nitra",
+    "lat": "48.3781",
+    "lng": "18.3964",
+    "id": "1703464744"
+  },
+  {
+    "city": "Bytča",
+    "city_ascii": "Bytca",
+    "admin_name": "Žilina",
+    "lat": "49.2228",
+    "lng": "18.5581",
+    "id": "1703630221"
+  },
+  {
+    "city": "Revúca",
+    "city_ascii": "Revuca",
+    "admin_name": "Banská Bystrica",
+    "lat": "48.6833",
+    "lng": "20.1167",
+    "id": "1703490352"
+  },
+  {
+    "city": "Holíč",
+    "city_ascii": "Holic",
+    "admin_name": "Trnava",
+    "lat": "48.8122",
+    "lng": "17.1606",
+    "id": "1703056774"
+  },
+  {
+    "city": "Myjava",
+    "city_ascii": "Myjava",
+    "admin_name": "Nitra",
+    "lat": "48.7492",
+    "lng": "17.5644",
+    "id": "1703306179"
+  },
+  {
+    "city": "Veľký Krtíš",
+    "city_ascii": "Vel'ky Krtis",
+    "admin_name": "Banská Bystrica",
+    "lat": "48.2150",
+    "lng": "19.3381",
+    "id": "1703541479"
+  },
+  {
+    "city": "Kolárovo",
+    "city_ascii": "Kolarovo",
+    "admin_name": "Nitra",
+    "lat": "47.9153",
+    "lng": "17.9972",
+    "id": "1703541383"
+  },
+  {
+    "city": "Nová Dubnica",
+    "city_ascii": "Nova Dubnica",
+    "admin_name": "Nitra",
+    "lat": "48.9331",
+    "lng": "18.1439",
+    "id": "1703517526"
+  },
+  {
+    "city": "Moldava nad Bodvou",
+    "city_ascii": "Moldava nad Bodvou",
+    "admin_name": "Košice",
+    "lat": "48.6156",
+    "lng": "20.9992",
+    "id": "1703800646"
+  },
+  {
+    "city": "Svidník",
+    "city_ascii": "Svidnik",
+    "admin_name": "Prešov",
+    "lat": "49.3056",
+    "lng": "21.5678",
+    "id": "1703982053"
+  },
+  {
+    "city": "Stropkov",
+    "city_ascii": "Stropkov",
+    "admin_name": "Prešov",
+    "lat": "49.2050",
+    "lng": "21.6514",
+    "id": "1703240636"
+  },
+  {
+    "city": "Fiľakovo",
+    "city_ascii": "Fil'akovo",
+    "admin_name": "Banská Bystrica",
+    "lat": "48.2719",
+    "lng": "19.8286",
+    "id": "1703493042"
+  },
+  {
+    "city": "Štúrovo",
+    "city_ascii": "Sturovo",
+    "admin_name": "Nitra",
+    "lat": "47.7992",
+    "lng": "18.7181",
+    "id": "1703382552"
+  },
+  {
+    "city": "Banská Štiavnica",
+    "city_ascii": "Banska Stiavnica",
+    "admin_name": "Banská Bystrica",
+    "lat": "48.4586",
+    "lng": "18.8931",
+    "id": "1703575986"
+  },
+  {
+    "city": "Šurany",
+    "city_ascii": "Surany",
+    "admin_name": "Nitra",
+    "lat": "48.0833",
+    "lng": "18.1833",
+    "id": "1703675308"
+  },
+  {
+    "city": "Modra",
+    "city_ascii": "Modra",
+    "admin_name": "Bratislava",
+    "lat": "48.3331",
+    "lng": "17.3069",
+    "id": "1703770416"
+  },
+  {
+    "city": "Tvrdošín",
+    "city_ascii": "Tvrdosin",
+    "admin_name": "Žilina",
+    "lat": "49.3369",
+    "lng": "19.5503",
+    "id": "1703880169"
+  },
+  {
+    "city": "Smižany",
+    "city_ascii": "Smizany",
+    "admin_name": "Košice",
+    "lat": "48.9584",
+    "lng": "20.5177",
+    "id": "1703195495"
+  },
+  {
+    "city": "Bernolákovo",
+    "city_ascii": "Bernolakovo",
+    "admin_name": "Bratislava",
+    "lat": "48.1992",
+    "lng": "17.3003",
+    "id": "1703400453"
+  },
+  {
+    "city": "Veľké Kapušany",
+    "city_ascii": "Vel'ke Kapusany",
+    "admin_name": "Košice",
+    "lat": "48.5500",
+    "lng": "22.0833",
+    "id": "1703807609"
+  },
+  {
+    "city": "Krompachy",
+    "city_ascii": "Krompachy",
+    "admin_name": "Košice",
+    "lat": "48.9167",
+    "lng": "20.8744",
+    "id": "1703996106"
+  },
+  {
+    "city": "Stará Turá",
+    "city_ascii": "Stara Tura",
+    "admin_name": "Nitra",
+    "lat": "48.7767",
+    "lng": "17.6961",
+    "id": "1703420460"
+  },
+  {
+    "city": "Vráble",
+    "city_ascii": "Vrable",
+    "admin_name": "Nitra",
+    "lat": "48.2500",
+    "lng": "18.3167",
+    "id": "1703078244"
+  },
+  {
+    "city": "Sečovce",
+    "city_ascii": "Secovce",
+    "admin_name": "Košice",
+    "lat": "48.7000",
+    "lng": "21.6500",
+    "id": "1703206081"
+  }
+]

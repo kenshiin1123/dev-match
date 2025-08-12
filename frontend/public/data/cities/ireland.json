@@ -1,0 +1,602 @@
+[
+  {
+    "city": "Dublin",
+    "city_ascii": "Dublin",
+    "admin_name": "Dublin",
+    "lat": "53.3497",
+    "lng": "-6.2603",
+    "id": "1372595407"
+  },
+  {
+    "city": "Finglas",
+    "city_ascii": "Finglas",
+    "admin_name": "Dublin",
+    "lat": "53.3892",
+    "lng": "-6.2969",
+    "id": "1372023005"
+  },
+  {
+    "city": "Cork",
+    "city_ascii": "Cork",
+    "admin_name": "Cork",
+    "lat": "51.9000",
+    "lng": "-8.4731",
+    "id": "1372221853"
+  },
+  {
+    "city": "Galway",
+    "city_ascii": "Galway",
+    "admin_name": "Galway",
+    "lat": "53.2729",
+    "lng": "-9.0418",
+    "id": "1372499968"
+  },
+  {
+    "city": "Tallaght",
+    "city_ascii": "Tallaght",
+    "admin_name": "South Dublin",
+    "lat": "53.2878",
+    "lng": "-6.3411",
+    "id": "1372547040"
+  },
+  {
+    "city": "Limerick",
+    "city_ascii": "Limerick",
+    "admin_name": "Limerick",
+    "lat": "52.6653",
+    "lng": "-8.6238",
+    "id": "1372126011"
+  },
+  {
+    "city": "Lucan",
+    "city_ascii": "Lucan",
+    "admin_name": "South Dublin",
+    "lat": "53.3592",
+    "lng": "-6.4389",
+    "id": "1372345130"
+  },
+  {
+    "city": "Waterford",
+    "city_ascii": "Waterford",
+    "admin_name": "Waterford",
+    "lat": "52.2583",
+    "lng": "-7.1190",
+    "id": "1372267114"
+  },
+  {
+    "city": "Clondalkin",
+    "city_ascii": "Clondalkin",
+    "admin_name": "South Dublin",
+    "lat": "53.3187",
+    "lng": "-6.4092",
+    "id": "1372645698"
+  },
+  {
+    "city": "Drogheda",
+    "city_ascii": "Drogheda",
+    "admin_name": "Louth",
+    "lat": "53.7150",
+    "lng": "-6.3525",
+    "id": "1372750233"
+  },
+  {
+    "city": "Dún Dealgan",
+    "city_ascii": "Dun Dealgan",
+    "admin_name": "Louth",
+    "lat": "54.0044",
+    "lng": "-6.4003",
+    "id": "1372735852"
+  },
+  {
+    "city": "Swords",
+    "city_ascii": "Swords",
+    "admin_name": "Fingal",
+    "lat": "53.4597",
+    "lng": "-6.2181",
+    "id": "1372755688"
+  },
+  {
+    "city": "Navan",
+    "city_ascii": "Navan",
+    "admin_name": "Meath",
+    "lat": "53.6528",
+    "lng": "-6.6814",
+    "id": "1372720842"
+  },
+  {
+    "city": "Blackrock",
+    "city_ascii": "Blackrock",
+    "admin_name": "Dún Laoghaire-Rathdown",
+    "lat": "53.3015",
+    "lng": "-6.1778",
+    "id": "1372203613"
+  },
+  {
+    "city": "Douglas",
+    "city_ascii": "Douglas",
+    "admin_name": "Cork",
+    "lat": "51.8744",
+    "lng": "-8.4350",
+    "id": "1372287368"
+  },
+  {
+    "city": "Tralee",
+    "city_ascii": "Tralee",
+    "admin_name": "Kerry",
+    "lat": "52.2675",
+    "lng": "-9.6962",
+    "id": "1372403494"
+  },
+  {
+    "city": "Carlow",
+    "city_ascii": "Carlow",
+    "admin_name": "Carlow",
+    "lat": "52.8306",
+    "lng": "-6.9317",
+    "id": "1372096982"
+  },
+  {
+    "city": "Ennis",
+    "city_ascii": "Ennis",
+    "admin_name": "Clare",
+    "lat": "52.8463",
+    "lng": "-8.9807",
+    "id": "1372255646"
+  },
+  {
+    "city": "Dunleary",
+    "city_ascii": "Dunleary",
+    "admin_name": "Dún Laoghaire-Rathdown",
+    "lat": "53.3000",
+    "lng": "-6.1400",
+    "id": "1372038958"
+  },
+  {
+    "city": "Port Laoise",
+    "city_ascii": "Port Laoise",
+    "admin_name": "Laois",
+    "lat": "53.0309",
+    "lng": "-7.3008",
+    "id": "1372726111"
+  },
+  {
+    "city": "Rathfarnham",
+    "city_ascii": "Rathfarnham",
+    "admin_name": "South Dublin",
+    "lat": "53.3006",
+    "lng": "-6.2828",
+    "id": "1372740372"
+  },
+  {
+    "city": "Baile Átha Luain",
+    "city_ascii": "Baile Atha Luain",
+    "admin_name": "Westmeath",
+    "lat": "53.4236",
+    "lng": "-7.9425",
+    "id": "1372885521"
+  },
+  {
+    "city": "Ashtown",
+    "city_ascii": "Ashtown",
+    "admin_name": "Dublin",
+    "lat": "53.3753",
+    "lng": "-6.3306",
+    "id": "1372691515"
+  },
+  {
+    "city": "Mullingar",
+    "city_ascii": "Mullingar",
+    "admin_name": "Westmeath",
+    "lat": "53.5333",
+    "lng": "-7.3500",
+    "id": "1372969205"
+  },
+  {
+    "city": "Letterkenny",
+    "city_ascii": "Letterkenny",
+    "admin_name": "Donegal",
+    "lat": "54.9500",
+    "lng": "-7.7333",
+    "id": "1372452484"
+  },
+  {
+    "city": "Kilkenny",
+    "city_ascii": "Kilkenny",
+    "admin_name": "Kilkenny",
+    "lat": "52.6477",
+    "lng": "-7.2561",
+    "id": "1372926521"
+  },
+  {
+    "city": "Greystones",
+    "city_ascii": "Greystones",
+    "admin_name": "Wicklow",
+    "lat": "53.1408",
+    "lng": "-6.0631",
+    "id": "1372569009"
+  },
+  {
+    "city": "Naas",
+    "city_ascii": "Naas",
+    "admin_name": "Kildare",
+    "lat": "53.2158",
+    "lng": "-6.6669",
+    "id": "1372985945"
+  },
+  {
+    "city": "Celbridge",
+    "city_ascii": "Celbridge",
+    "admin_name": "Kildare",
+    "lat": "53.3416",
+    "lng": "-6.5442",
+    "id": "1372142356"
+  },
+  {
+    "city": "Wexford",
+    "city_ascii": "Wexford",
+    "admin_name": "Wexford",
+    "lat": "52.3383",
+    "lng": "-6.4617",
+    "id": "1372349451"
+  },
+  {
+    "city": "Ballyfermot",
+    "city_ascii": "Ballyfermot",
+    "admin_name": "Dublin",
+    "lat": "53.3428",
+    "lng": "-6.3548",
+    "id": "1372250707"
+  },
+  {
+    "city": "Sligo",
+    "city_ascii": "Sligo",
+    "admin_name": "Sligo",
+    "lat": "54.2667",
+    "lng": "-8.4833",
+    "id": "1372185807"
+  },
+  {
+    "city": "Ballincollig",
+    "city_ascii": "Ballincollig",
+    "admin_name": "Cork",
+    "lat": "51.8833",
+    "lng": "-8.5833",
+    "id": "1372262951"
+  },
+  {
+    "city": "Mullach Íde",
+    "city_ascii": "Mullach Ide",
+    "admin_name": "Fingal",
+    "lat": "53.4508",
+    "lng": "-6.1544",
+    "id": "1372249762"
+  },
+  {
+    "city": "Clonmel",
+    "city_ascii": "Clonmel",
+    "admin_name": "Tipperary",
+    "lat": "52.3550",
+    "lng": "-7.7039",
+    "id": "1372974181"
+  },
+  {
+    "city": "Carrigaline",
+    "city_ascii": "Carrigaline",
+    "admin_name": "Cork",
+    "lat": "51.8117",
+    "lng": "-8.3986",
+    "id": "1372623421"
+  },
+  {
+    "city": "Stillorgan",
+    "city_ascii": "Stillorgan",
+    "admin_name": "Dún Laoghaire-Rathdown",
+    "lat": "53.2888",
+    "lng": "-6.1958",
+    "id": "1372796974"
+  },
+  {
+    "city": "Terenure",
+    "city_ascii": "Terenure",
+    "admin_name": "South Dublin",
+    "lat": "53.3097",
+    "lng": "-6.2853",
+    "id": "1372407607"
+  },
+  {
+    "city": "Maigh Nuad",
+    "city_ascii": "Maigh Nuad",
+    "admin_name": "Kildare",
+    "lat": "53.3850",
+    "lng": "-6.5936",
+    "id": "1372438535"
+  },
+  {
+    "city": "Baile an Bhiataigh",
+    "city_ascii": "Baile an Bhiataigh",
+    "admin_name": "Meath",
+    "lat": "53.7014",
+    "lng": "-6.2461",
+    "id": "1372707268"
+  },
+  {
+    "city": "Donacarney",
+    "city_ascii": "Donacarney",
+    "admin_name": "Meath",
+    "lat": "53.7133",
+    "lng": "-6.2792",
+    "id": "1372898071"
+  },
+  {
+    "city": "Leixlip",
+    "city_ascii": "Leixlip",
+    "admin_name": "Kildare",
+    "lat": "53.3636",
+    "lng": "-6.4864",
+    "id": "1372553411"
+  },
+  {
+    "city": "Tullamore",
+    "city_ascii": "Tullamore",
+    "admin_name": "Offaly",
+    "lat": "53.2667",
+    "lng": "-7.5000",
+    "id": "1372035774"
+  },
+  {
+    "city": "Killarney",
+    "city_ascii": "Killarney",
+    "admin_name": "Kerry",
+    "lat": "52.0588",
+    "lng": "-9.5072",
+    "id": "1372916792"
+  },
+  {
+    "city": "Midleton",
+    "city_ascii": "Midleton",
+    "admin_name": "Cork",
+    "lat": "51.9094",
+    "lng": "-8.1736",
+    "id": "1372938716"
+  },
+  {
+    "city": "Arklow",
+    "city_ascii": "Arklow",
+    "admin_name": "Wicklow",
+    "lat": "52.7941",
+    "lng": "-6.1649",
+    "id": "1372998803"
+  },
+  {
+    "city": "Castlebar",
+    "city_ascii": "Castlebar",
+    "admin_name": "Mayo",
+    "lat": "53.8500",
+    "lng": "-9.3000",
+    "id": "1372066739"
+  },
+  {
+    "city": "Wicklow",
+    "city_ascii": "Wicklow",
+    "admin_name": "Wicklow",
+    "lat": "52.9779",
+    "lng": "-6.0330",
+    "id": "1372662642"
+  },
+  {
+    "city": "Cobh",
+    "city_ascii": "Cobh",
+    "admin_name": "Cork",
+    "lat": "51.8510",
+    "lng": "-8.2967",
+    "id": "1372119751"
+  },
+  {
+    "city": "Enniscorthy",
+    "city_ascii": "Enniscorthy",
+    "admin_name": "Wexford",
+    "lat": "52.5008",
+    "lng": "-6.5578",
+    "id": "1372938537"
+  },
+  {
+    "city": "An Cabhán",
+    "city_ascii": "An Cabhan",
+    "admin_name": "Cavan",
+    "lat": "53.9908",
+    "lng": "-7.3606",
+    "id": "1372007853"
+  },
+  {
+    "city": "Gorey",
+    "city_ascii": "Gorey",
+    "admin_name": "Wexford",
+    "lat": "52.6747",
+    "lng": "-6.2925",
+    "id": "1372751399"
+  },
+  {
+    "city": "Tramore",
+    "city_ascii": "Tramore",
+    "admin_name": "Waterford",
+    "lat": "52.1589",
+    "lng": "-7.1464",
+    "id": "1372317796"
+  },
+  {
+    "city": "Palmerston",
+    "city_ascii": "Palmerston",
+    "admin_name": "Fingal",
+    "lat": "53.3628",
+    "lng": "-6.3656",
+    "id": "1372809336"
+  },
+  {
+    "city": "Athy",
+    "city_ascii": "Athy",
+    "admin_name": "Kildare",
+    "lat": "52.9900",
+    "lng": "-6.9900",
+    "id": "1372942058"
+  },
+  {
+    "city": "Longford",
+    "city_ascii": "Longford",
+    "admin_name": "Longford",
+    "lat": "53.7270",
+    "lng": "-7.7998",
+    "id": "1372905339"
+  },
+  {
+    "city": "Rush",
+    "city_ascii": "Rush",
+    "admin_name": "Fingal",
+    "lat": "53.5218",
+    "lng": "-6.0891",
+    "id": "1372361445"
+  },
+  {
+    "city": "Na Sceirí",
+    "city_ascii": "Na Sceiri",
+    "admin_name": "Fingal",
+    "lat": "53.5828",
+    "lng": "-6.1083",
+    "id": "1372992347"
+  },
+  {
+    "city": "Killiney",
+    "city_ascii": "Killiney",
+    "admin_name": "Dún Laoghaire-Rathdown",
+    "lat": "53.2651",
+    "lng": "-6.1137",
+    "id": "1372843848"
+  },
+  {
+    "city": "Ráth Tó",
+    "city_ascii": "Rath To",
+    "admin_name": "Meath",
+    "lat": "53.5081",
+    "lng": "-6.4625",
+    "id": "1372907755"
+  },
+  {
+    "city": "Glanmire",
+    "city_ascii": "Glanmire",
+    "admin_name": "Cork",
+    "lat": "51.9158",
+    "lng": "-8.3997",
+    "id": "1372070147"
+  },
+  {
+    "city": "Nenagh",
+    "city_ascii": "Nenagh",
+    "admin_name": "Tipperary",
+    "lat": "52.8619",
+    "lng": "-8.1967",
+    "id": "1372867922"
+  },
+  {
+    "city": "Donabate",
+    "city_ascii": "Donabate",
+    "admin_name": "Fingal",
+    "lat": "53.4872",
+    "lng": "-6.1519",
+    "id": "1372605200"
+  },
+  {
+    "city": "Tuam",
+    "city_ascii": "Tuam",
+    "admin_name": "Galway",
+    "lat": "53.5167",
+    "lng": "-8.8500",
+    "id": "1372153412"
+  },
+  {
+    "city": "Shannon",
+    "city_ascii": "Shannon",
+    "admin_name": "Clare",
+    "lat": "52.7137",
+    "lng": "-8.8686",
+    "id": "1372328164"
+  },
+  {
+    "city": "Lusca",
+    "city_ascii": "Lusca",
+    "admin_name": "Fingal",
+    "lat": "53.5281",
+    "lng": "-6.1692",
+    "id": "1372313792"
+  },
+  {
+    "city": "Kilcock",
+    "city_ascii": "Kilcock",
+    "admin_name": "Kildare",
+    "lat": "53.4022",
+    "lng": "-6.6708",
+    "id": "1372153030"
+  },
+  {
+    "city": "New Ross",
+    "city_ascii": "New Ross",
+    "admin_name": "Wexford",
+    "lat": "52.3967",
+    "lng": "-6.9367",
+    "id": "1372019603"
+  },
+  {
+    "city": "Youghal",
+    "city_ascii": "Youghal",
+    "admin_name": "Cork",
+    "lat": "51.9517",
+    "lng": "-7.8456",
+    "id": "1372068050"
+  },
+  {
+    "city": "Monaghan",
+    "city_ascii": "Monaghan",
+    "admin_name": "Monaghan",
+    "lat": "54.2478",
+    "lng": "-6.9708",
+    "id": "1372399438"
+  },
+  {
+    "city": "Ros Comáin",
+    "city_ascii": "Ros Comain",
+    "admin_name": "Roscommon",
+    "lat": "53.6333",
+    "lng": "-8.1833",
+    "id": "1372870384"
+  },
+  {
+    "city": "Carrick on Shannon",
+    "city_ascii": "Carrick on Shannon",
+    "admin_name": "Leitrim",
+    "lat": "53.9469",
+    "lng": "-8.0900",
+    "id": "1372960774"
+  },
+  {
+    "city": "Donegal",
+    "city_ascii": "Donegal",
+    "admin_name": "Donegal",
+    "lat": "54.6500",
+    "lng": "-8.1170",
+    "id": "1372576120"
+  },
+  {
+    "city": "Lifford",
+    "city_ascii": "Lifford",
+    "admin_name": "Donegal",
+    "lat": "54.8356",
+    "lng": "-7.4779",
+    "id": "1372149317"
+  },
+  {
+    "city": "Trim",
+    "city_ascii": "Trim",
+    "admin_name": "Meath",
+    "lat": "53.5550",
+    "lng": "-6.7917",
+    "id": "1372676556"
+  }
+]

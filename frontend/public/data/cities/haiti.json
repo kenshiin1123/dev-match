@@ -1,0 +1,994 @@
+[
+  {
+    "city": "Port-au-Prince",
+    "city_ascii": "Port-au-Prince",
+    "admin_name": "Ouest",
+    "lat": "18.5425",
+    "lng": "-72.3386",
+    "id": "1332401940"
+  },
+  {
+    "city": "Carrefour",
+    "city_ascii": "Carrefour",
+    "admin_name": "Ouest",
+    "lat": "18.5333",
+    "lng": "-72.4000",
+    "id": "1332000098"
+  },
+  {
+    "city": "Pétion-Ville",
+    "city_ascii": "Petion-Ville",
+    "admin_name": "Ouest",
+    "lat": "18.5098",
+    "lng": "-72.2856",
+    "id": "1332051873"
+  },
+  {
+    "city": "Gonaïves",
+    "city_ascii": "Gonaives",
+    "admin_name": "Artibonite",
+    "lat": "19.4456",
+    "lng": "-72.6883",
+    "id": "1332384588"
+  },
+  {
+    "city": "Croix-des-Bouquets",
+    "city_ascii": "Croix-des-Bouquets",
+    "admin_name": "Ouest",
+    "lat": "18.5761",
+    "lng": "-72.2269",
+    "id": "1332000065"
+  },
+  {
+    "city": "Delmas",
+    "city_ascii": "Delmas",
+    "admin_name": "Ouest",
+    "lat": "18.5500",
+    "lng": "-72.3000",
+    "id": "1332257532"
+  },
+  {
+    "city": "Petite Rivière de l’Artibonite",
+    "city_ascii": "Petite Riviere de l'Artibonite",
+    "admin_name": "Artibonite",
+    "lat": "19.1240",
+    "lng": "-72.4817",
+    "id": "1332451568"
+  },
+  {
+    "city": "Saint-Marc",
+    "city_ascii": "Saint-Marc",
+    "admin_name": "Artibonite",
+    "lat": "19.1167",
+    "lng": "-72.7000",
+    "id": "1332084366"
+  },
+  {
+    "city": "Cap-Haïtien",
+    "city_ascii": "Cap-Haitien",
+    "admin_name": "Nord",
+    "lat": "19.7500",
+    "lng": "-72.2000",
+    "id": "1332333795"
+  },
+  {
+    "city": "Jean-Rabel",
+    "city_ascii": "Jean-Rabel",
+    "admin_name": "Nord-Ouest",
+    "lat": "19.8500",
+    "lng": "-73.2000",
+    "id": "1332096865"
+  },
+  {
+    "city": "Jacmel",
+    "city_ascii": "Jacmel",
+    "admin_name": "Sud-Est",
+    "lat": "18.2350",
+    "lng": "-72.5370",
+    "id": "1332314393"
+  },
+  {
+    "city": "Arcahaie",
+    "city_ascii": "Arcahaie",
+    "admin_name": "Ouest",
+    "lat": "18.7702",
+    "lng": "-72.5123",
+    "id": "1332347269"
+  },
+  {
+    "city": "Tabarre",
+    "city_ascii": "Tabarre",
+    "admin_name": "Ouest",
+    "lat": "18.5833",
+    "lng": "-72.2667",
+    "id": "1332354236"
+  },
+  {
+    "city": "Dessalines",
+    "city_ascii": "Dessalines",
+    "admin_name": "Artibonite",
+    "lat": "19.2618",
+    "lng": "-72.5161",
+    "id": "1332184774"
+  },
+  {
+    "city": "Port-de-Paix",
+    "city_ascii": "Port-de-Paix",
+    "admin_name": "Nord-Ouest",
+    "lat": "19.9500",
+    "lng": "-72.8333",
+    "id": "1332536650"
+  },
+  {
+    "city": "Aquin",
+    "city_ascii": "Aquin",
+    "admin_name": "Sud",
+    "lat": "18.2797",
+    "lng": "-73.3943",
+    "id": "1332922439"
+  },
+  {
+    "city": "Hinche",
+    "city_ascii": "Hinche",
+    "admin_name": "Centre",
+    "lat": "19.1430",
+    "lng": "-72.0040",
+    "id": "1332748356"
+  },
+  {
+    "city": "Saint-Michel de l’Atalaye",
+    "city_ascii": "Saint-Michel de l'Atalaye",
+    "admin_name": "Artibonite",
+    "lat": "19.3708",
+    "lng": "-72.3347",
+    "id": "1332572826"
+  },
+  {
+    "city": "Léogâne",
+    "city_ascii": "Leogane",
+    "admin_name": "Ouest",
+    "lat": "18.5108",
+    "lng": "-72.6339",
+    "id": "1332045113"
+  },
+  {
+    "city": "Les Cayes",
+    "city_ascii": "Les Cayes",
+    "admin_name": "Sud",
+    "lat": "18.2000",
+    "lng": "-73.7500",
+    "id": "1332587854"
+  },
+  {
+    "city": "Belladère",
+    "city_ascii": "Belladere",
+    "admin_name": "Centre",
+    "lat": "18.8500",
+    "lng": "-71.7833",
+    "id": "1332473025"
+  },
+  {
+    "city": "Ganthier",
+    "city_ascii": "Ganthier",
+    "admin_name": "Ouest",
+    "lat": "18.5316",
+    "lng": "-72.0633",
+    "id": "1332549888"
+  },
+  {
+    "city": "Saint-Louis du Nord",
+    "city_ascii": "Saint-Louis du Nord",
+    "admin_name": "Nord-Ouest",
+    "lat": "19.9340",
+    "lng": "-72.7214",
+    "id": "1332427646"
+  },
+  {
+    "city": "Limonade",
+    "city_ascii": "Limonade",
+    "admin_name": "Nord",
+    "lat": "19.6701",
+    "lng": "-72.1243",
+    "id": "1332450528"
+  },
+  {
+    "city": "Limbé",
+    "city_ascii": "Limbe",
+    "admin_name": "Nord",
+    "lat": "19.7060",
+    "lng": "-72.4034",
+    "id": "1332168406"
+  },
+  {
+    "city": "Torbeck",
+    "city_ascii": "Torbeck",
+    "admin_name": "Sud",
+    "lat": "18.1634",
+    "lng": "-73.8095",
+    "id": "1332470480"
+  },
+  {
+    "city": "Anse à Galets",
+    "city_ascii": "Anse a Galets",
+    "admin_name": "Ouest",
+    "lat": "18.8345",
+    "lng": "-72.8664",
+    "id": "1332098898"
+  },
+  {
+    "city": "Bainet",
+    "city_ascii": "Bainet",
+    "admin_name": "Sud-Est",
+    "lat": "18.1840",
+    "lng": "-72.7523",
+    "id": "1332091731"
+  },
+  {
+    "city": "Cabaret",
+    "city_ascii": "Cabaret",
+    "admin_name": "Ouest",
+    "lat": "18.7358",
+    "lng": "-72.4193",
+    "id": "1332584199"
+  },
+  {
+    "city": "Saint-Louis du Sud",
+    "city_ascii": "Saint-Louis du Sud",
+    "admin_name": "Sud",
+    "lat": "18.2624",
+    "lng": "-73.5460",
+    "id": "1332867263"
+  },
+  {
+    "city": "Miragoâne",
+    "city_ascii": "Miragoane",
+    "admin_name": "Nippes",
+    "lat": "18.4411",
+    "lng": "-73.0883",
+    "id": "1332665283"
+  },
+  {
+    "city": "Acul du Nord",
+    "city_ascii": "Acul du Nord",
+    "admin_name": "Nord",
+    "lat": "19.6807",
+    "lng": "-72.3198",
+    "id": "1332452359"
+  },
+  {
+    "city": "Cornillon",
+    "city_ascii": "Cornillon",
+    "admin_name": "Ouest",
+    "lat": "18.6755",
+    "lng": "-71.9527",
+    "id": "1332866584"
+  },
+  {
+    "city": "Thomazeau",
+    "city_ascii": "Thomazeau",
+    "admin_name": "Ouest",
+    "lat": "18.6530",
+    "lng": "-72.0939",
+    "id": "1332648470"
+  },
+  {
+    "city": "Belle-Anse",
+    "city_ascii": "Belle-Anse",
+    "admin_name": "Sud-Est",
+    "lat": "18.2377",
+    "lng": "-72.0664",
+    "id": "1332150277"
+  },
+  {
+    "city": "Cerca la Source",
+    "city_ascii": "Cerca la Source",
+    "admin_name": "Centre",
+    "lat": "19.1670",
+    "lng": "-71.7901",
+    "id": "1332542335"
+  },
+  {
+    "city": "Marigot",
+    "city_ascii": "Marigot",
+    "admin_name": "Sud-Est",
+    "lat": "18.2317",
+    "lng": "-72.3229",
+    "id": "1332275185"
+  },
+  {
+    "city": "Bas Limbé",
+    "city_ascii": "Bas Limbe",
+    "admin_name": "Nord",
+    "lat": "19.7684",
+    "lng": "-72.3847",
+    "id": "1332588396"
+  },
+  {
+    "city": "Plaisance",
+    "city_ascii": "Plaisance",
+    "admin_name": "Nord",
+    "lat": "19.5980",
+    "lng": "-72.4699",
+    "id": "1332601700"
+  },
+  {
+    "city": "Verrettes",
+    "city_ascii": "Verrettes",
+    "admin_name": "Artibonite",
+    "lat": "19.0505",
+    "lng": "-72.4658",
+    "id": "1332111444"
+  },
+  {
+    "city": "Boucan Carré",
+    "city_ascii": "Boucan Carre",
+    "admin_name": "Centre",
+    "lat": "18.9667",
+    "lng": "-72.2000",
+    "id": "1332163231"
+  },
+  {
+    "city": "Borgne",
+    "city_ascii": "Borgne",
+    "admin_name": "Nord",
+    "lat": "19.8451",
+    "lng": "-72.5235",
+    "id": "1332215529"
+  },
+  {
+    "city": "Cavaillon",
+    "city_ascii": "Cavaillon",
+    "admin_name": "Sud",
+    "lat": "18.2999",
+    "lng": "-73.6546",
+    "id": "1332637613"
+  },
+  {
+    "city": "Camp Perrin",
+    "city_ascii": "Camp Perrin",
+    "admin_name": "Sud",
+    "lat": "18.3265",
+    "lng": "-73.8673",
+    "id": "1332737224"
+  },
+  {
+    "city": "Casale",
+    "city_ascii": "Casale",
+    "admin_name": "Ouest",
+    "lat": "18.7999",
+    "lng": "-72.3828",
+    "id": "1332190060"
+  },
+  {
+    "city": "Anse Rouge",
+    "city_ascii": "Anse Rouge",
+    "admin_name": "Artibonite",
+    "lat": "19.6333",
+    "lng": "-73.0500",
+    "id": "1332665513"
+  },
+  {
+    "city": "Maïssade",
+    "city_ascii": "Maissade",
+    "admin_name": "Centre",
+    "lat": "19.1761",
+    "lng": "-72.1396",
+    "id": "1332767571"
+  },
+  {
+    "city": "Thomassique",
+    "city_ascii": "Thomassique",
+    "admin_name": "Centre",
+    "lat": "19.0821",
+    "lng": "-71.8385",
+    "id": "1332374782"
+  },
+  {
+    "city": "Pilate",
+    "city_ascii": "Pilate",
+    "admin_name": "Nord",
+    "lat": "19.6675",
+    "lng": "-72.5523",
+    "id": "1332272986"
+  },
+  {
+    "city": "Fonds Verrettes",
+    "city_ascii": "Fonds Verrettes",
+    "admin_name": "Ouest",
+    "lat": "18.3957",
+    "lng": "-71.8563",
+    "id": "1332183174"
+  },
+  {
+    "city": "L’Asile",
+    "city_ascii": "L'Asile",
+    "admin_name": "Nippes",
+    "lat": "18.3840",
+    "lng": "-73.4144",
+    "id": "1332348189"
+  },
+  {
+    "city": "Les Abricots",
+    "city_ascii": "Les Abricots",
+    "admin_name": "Grand’Anse",
+    "lat": "18.6490",
+    "lng": "-74.3079",
+    "id": "1332706374"
+  },
+  {
+    "city": "Trou du Nord",
+    "city_ascii": "Trou du Nord",
+    "admin_name": "Nord-Est",
+    "lat": "19.6167",
+    "lng": "-72.0244",
+    "id": "1332162005"
+  },
+  {
+    "city": "Port-Margot",
+    "city_ascii": "Port-Margot",
+    "admin_name": "Nord",
+    "lat": "19.7518",
+    "lng": "-72.4301",
+    "id": "1332999568"
+  },
+  {
+    "city": "Anse d’Hainault",
+    "city_ascii": "Anse d'Hainault",
+    "admin_name": "Grand’Anse",
+    "lat": "18.4853",
+    "lng": "-74.4514",
+    "id": "1332108128"
+  },
+  {
+    "city": "La Vallée de Jacmel",
+    "city_ascii": "La Vallee de Jacmel",
+    "admin_name": "Sud-Est",
+    "lat": "18.2694",
+    "lng": "-72.6670",
+    "id": "1332561469"
+  },
+  {
+    "city": "Petit-Trou de Nippes",
+    "city_ascii": "Petit-Trou de Nippes",
+    "admin_name": "Nippes",
+    "lat": "18.5269",
+    "lng": "-73.5088",
+    "id": "1332845900"
+  },
+  {
+    "city": "Pestel",
+    "city_ascii": "Pestel",
+    "admin_name": "Grand’Anse",
+    "lat": "18.5411",
+    "lng": "-73.7947",
+    "id": "1332521684"
+  },
+  {
+    "city": "Bombardopolis",
+    "city_ascii": "Bombardopolis",
+    "admin_name": "Nord-Ouest",
+    "lat": "19.7000",
+    "lng": "-73.3333",
+    "id": "1332445868"
+  },
+  {
+    "city": "Ville Bonheur",
+    "city_ascii": "Ville Bonheur",
+    "admin_name": "Centre",
+    "lat": "18.8160",
+    "lng": "-72.2019",
+    "id": "1332904368"
+  },
+  {
+    "city": "Anse-à-Veau",
+    "city_ascii": "Anse-a-Veau",
+    "admin_name": "Nippes",
+    "lat": "18.5037",
+    "lng": "-73.3440",
+    "id": "1332029379"
+  },
+  {
+    "city": "Fort Liberté",
+    "city_ascii": "Fort Liberte",
+    "admin_name": "Nord-Est",
+    "lat": "19.6656",
+    "lng": "-71.8448",
+    "id": "1332603160"
+  },
+  {
+    "city": "Bassin Bleu",
+    "city_ascii": "Bassin Bleu",
+    "admin_name": "Nord-Ouest",
+    "lat": "19.7833",
+    "lng": "-72.8000",
+    "id": "1332244969"
+  },
+  {
+    "city": "Côtes de Fer",
+    "city_ascii": "Cotes de Fer",
+    "admin_name": "Sud-Est",
+    "lat": "18.1887",
+    "lng": "-73.0029",
+    "id": "1332390901"
+  },
+  {
+    "city": "Saintard",
+    "city_ascii": "Saintard",
+    "admin_name": "Ouest",
+    "lat": "18.8253",
+    "lng": "-72.5496",
+    "id": "1332903429"
+  },
+  {
+    "city": "Milot",
+    "city_ascii": "Milot",
+    "admin_name": "Nord",
+    "lat": "19.6084",
+    "lng": "-72.2132",
+    "id": "1332342808"
+  },
+  {
+    "city": "Baradères",
+    "city_ascii": "Baraderes",
+    "admin_name": "Nippes",
+    "lat": "18.4826",
+    "lng": "-73.6388",
+    "id": "1332944244"
+  },
+  {
+    "city": "Ennery",
+    "city_ascii": "Ennery",
+    "admin_name": "Artibonite",
+    "lat": "19.4834",
+    "lng": "-72.4854",
+    "id": "1332338598"
+  },
+  {
+    "city": "Terre Neuve",
+    "city_ascii": "Terre Neuve",
+    "admin_name": "Artibonite",
+    "lat": "19.6000",
+    "lng": "-72.7833",
+    "id": "1332504723"
+  },
+  {
+    "city": "Chantal",
+    "city_ascii": "Chantal",
+    "admin_name": "Sud",
+    "lat": "18.2017",
+    "lng": "-73.8896",
+    "id": "1332205204"
+  },
+  {
+    "city": "Jérémie",
+    "city_ascii": "Jeremie",
+    "admin_name": "Grand’Anse",
+    "lat": "18.6339",
+    "lng": "-74.1184",
+    "id": "1332612037"
+  },
+  {
+    "city": "Anse-à-Foleur",
+    "city_ascii": "Anse-a-Foleur",
+    "admin_name": "Nord-Ouest",
+    "lat": "19.8926",
+    "lng": "-72.6201",
+    "id": "1332252871"
+  },
+  {
+    "city": "Anse à Pitre",
+    "city_ascii": "Anse a Pitre",
+    "admin_name": "Sud-Est",
+    "lat": "18.0431",
+    "lng": "-71.7583",
+    "id": "1332458305"
+  },
+  {
+    "city": "Les Palmes",
+    "city_ascii": "Les Palmes",
+    "admin_name": "Sud-Est",
+    "lat": "18.3333",
+    "lng": "-72.8500",
+    "id": "1332456322"
+  },
+  {
+    "city": "Petite Rivière de Nippes",
+    "city_ascii": "Petite Riviere de Nippes",
+    "admin_name": "Nippes",
+    "lat": "18.4764",
+    "lng": "-73.2413",
+    "id": "1332459442"
+  },
+  {
+    "city": "Savanette",
+    "city_ascii": "Savanette",
+    "admin_name": "Ouest",
+    "lat": "18.6833",
+    "lng": "-72.0500",
+    "id": "1332721450"
+  },
+  {
+    "city": "Pignon",
+    "city_ascii": "Pignon",
+    "admin_name": "Nord",
+    "lat": "19.3370",
+    "lng": "-72.1171",
+    "id": "1332052953"
+  },
+  {
+    "city": "Arniquet",
+    "city_ascii": "Arniquet",
+    "admin_name": "Sud",
+    "lat": "18.1463",
+    "lng": "-73.8750",
+    "id": "1332082768"
+  },
+  {
+    "city": "La Source",
+    "city_ascii": "La Source",
+    "admin_name": "Sud",
+    "lat": "18.0714",
+    "lng": "-73.9006",
+    "id": "1332280307"
+  },
+  {
+    "city": "Roseaux",
+    "city_ascii": "Roseaux",
+    "admin_name": "Grand’Anse",
+    "lat": "18.6006",
+    "lng": "-74.0195",
+    "id": "1332874884"
+  },
+  {
+    "city": "Plaine du Nord",
+    "city_ascii": "Plaine du Nord",
+    "admin_name": "Nord",
+    "lat": "19.6771",
+    "lng": "-72.2697",
+    "id": "1332818460"
+  },
+  {
+    "city": "Les Anglais",
+    "city_ascii": "Les Anglais",
+    "admin_name": "Sud",
+    "lat": "18.3058",
+    "lng": "-74.2192",
+    "id": "1332210562"
+  },
+  {
+    "city": "Dame-Marie",
+    "city_ascii": "Dame-Marie",
+    "admin_name": "Grand’Anse",
+    "lat": "18.5615",
+    "lng": "-74.4205",
+    "id": "1332046251"
+  },
+  {
+    "city": "Gressier",
+    "city_ascii": "Gressier",
+    "admin_name": "Ouest",
+    "lat": "18.5409",
+    "lng": "-72.5268",
+    "id": "1332282683"
+  },
+  {
+    "city": "Dondon",
+    "city_ascii": "Dondon",
+    "admin_name": "Nord",
+    "lat": "19.5273",
+    "lng": "-72.2434",
+    "id": "1332640840"
+  },
+  {
+    "city": "Chardonnières",
+    "city_ascii": "Chardonnieres",
+    "admin_name": "Sud",
+    "lat": "18.2742",
+    "lng": "-74.1659",
+    "id": "1332544802"
+  },
+  {
+    "city": "Mombin Crochu",
+    "city_ascii": "Mombin Crochu",
+    "admin_name": "Nord-Est",
+    "lat": "19.3688",
+    "lng": "-71.9824",
+    "id": "1332692300"
+  },
+  {
+    "city": "Moron",
+    "city_ascii": "Moron",
+    "admin_name": "Grand’Anse",
+    "lat": "18.5604",
+    "lng": "-74.2578",
+    "id": "1332216244"
+  },
+  {
+    "city": "Les Irois",
+    "city_ascii": "Les Irois",
+    "admin_name": "Grand’Anse",
+    "lat": "18.4049",
+    "lng": "-74.4528",
+    "id": "1332919321"
+  },
+  {
+    "city": "Grande Saline",
+    "city_ascii": "Grande Saline",
+    "admin_name": "Artibonite",
+    "lat": "19.2500",
+    "lng": "-72.7833",
+    "id": "1332897755"
+  },
+  {
+    "city": "Thiotte",
+    "city_ascii": "Thiotte",
+    "admin_name": "Sud-Est",
+    "lat": "18.2438",
+    "lng": "-71.8416",
+    "id": "1332831508"
+  },
+  {
+    "city": "Pointe à Raquettes",
+    "city_ascii": "Pointe a Raquettes",
+    "admin_name": "Ouest",
+    "lat": "18.7847",
+    "lng": "-73.0617",
+    "id": "1332151637"
+  },
+  {
+    "city": "Corail",
+    "city_ascii": "Corail",
+    "admin_name": "Grand’Anse",
+    "lat": "18.5677",
+    "lng": "-73.8894",
+    "id": "1332320384"
+  },
+  {
+    "city": "Maniche",
+    "city_ascii": "Maniche",
+    "admin_name": "Sud",
+    "lat": "18.3450",
+    "lng": "-73.7772",
+    "id": "1332014296"
+  },
+  {
+    "city": "Sainte-Suzanne",
+    "city_ascii": "Sainte-Suzanne",
+    "admin_name": "Nord-Est",
+    "lat": "19.5834",
+    "lng": "-72.0889",
+    "id": "1332623138"
+  },
+  {
+    "city": "Terrier Rouge",
+    "city_ascii": "Terrier Rouge",
+    "admin_name": "Nord-Est",
+    "lat": "19.6363",
+    "lng": "-71.9548",
+    "id": "1332922844"
+  },
+  {
+    "city": "Tiburon",
+    "city_ascii": "Tiburon",
+    "admin_name": "Sud",
+    "lat": "18.3266",
+    "lng": "-74.3953",
+    "id": "1332432700"
+  },
+  {
+    "city": "Arnaud",
+    "city_ascii": "Arnaud",
+    "admin_name": "Nippes",
+    "lat": "18.4481",
+    "lng": "-73.3870",
+    "id": "1332859176"
+  },
+  {
+    "city": "Les Côteaux",
+    "city_ascii": "Les Coteaux",
+    "admin_name": "Sud",
+    "lat": "18.2060",
+    "lng": "-74.0401",
+    "id": "1332769679"
+  },
+  {
+    "city": "Quartier Morin",
+    "city_ascii": "Quartier Morin",
+    "admin_name": "Nord",
+    "lat": "19.6970",
+    "lng": "-72.1571",
+    "id": "1332258724"
+  },
+  {
+    "city": "Fond des Blancs",
+    "city_ascii": "Fond des Blancs",
+    "admin_name": "Sud",
+    "lat": "18.2778",
+    "lng": "-73.1273",
+    "id": "1332189993"
+  },
+  {
+    "city": "Liancourt",
+    "city_ascii": "Liancourt",
+    "admin_name": "Artibonite",
+    "lat": "19.1247",
+    "lng": "-72.5371",
+    "id": "1332300804"
+  },
+  {
+    "city": "Montrouis",
+    "city_ascii": "Montrouis",
+    "admin_name": "Ouest",
+    "lat": "18.9511",
+    "lng": "-72.7057",
+    "id": "1332947082"
+  },
+  {
+    "city": "Ranquitte",
+    "city_ascii": "Ranquitte",
+    "admin_name": "Nord",
+    "lat": "19.4133",
+    "lng": "-72.0808",
+    "id": "1332218380"
+  },
+  {
+    "city": "Chapelle",
+    "city_ascii": "Chapelle",
+    "admin_name": "Artibonite",
+    "lat": "19.4167",
+    "lng": "-72.5500",
+    "id": "1332599769"
+  },
+  {
+    "city": "Cerca Carvajal",
+    "city_ascii": "Cerca Carvajal",
+    "admin_name": "Centre",
+    "lat": "19.2696",
+    "lng": "-71.9386",
+    "id": "1332505200"
+  },
+  {
+    "city": "Vallières",
+    "city_ascii": "Vallieres",
+    "admin_name": "Nord-Est",
+    "lat": "19.4355",
+    "lng": "-71.9209",
+    "id": "1332923713"
+  },
+  {
+    "city": "Bahon",
+    "city_ascii": "Bahon",
+    "admin_name": "Nord",
+    "lat": "19.4696",
+    "lng": "-72.1147",
+    "id": "1332943637"
+  },
+  {
+    "city": "Baie de Henne",
+    "city_ascii": "Baie de Henne",
+    "admin_name": "Nord-Ouest",
+    "lat": "19.6667",
+    "lng": "-73.2000",
+    "id": "1332831627"
+  },
+  {
+    "city": "Port-à-Piment",
+    "city_ascii": "Port-a-Piment",
+    "admin_name": "Sud",
+    "lat": "18.2498",
+    "lng": "-74.0972",
+    "id": "1332528731"
+  },
+  {
+    "city": "Mont-Organisé",
+    "city_ascii": "Mont-Organise",
+    "admin_name": "Nord-Est",
+    "lat": "19.4082",
+    "lng": "-71.7813",
+    "id": "1332250944"
+  },
+  {
+    "city": "Chambellan",
+    "city_ascii": "Chambellan",
+    "admin_name": "Grand’Anse",
+    "lat": "18.5504",
+    "lng": "-74.3132",
+    "id": "1332814208"
+  },
+  {
+    "city": "Laferrière",
+    "city_ascii": "Laferriere",
+    "admin_name": "Grand’Anse",
+    "lat": "18.5712",
+    "lng": "-74.3309",
+    "id": "1332767477"
+  },
+  {
+    "city": "Roche-à-Bateau",
+    "city_ascii": "Roche-a-Bateau",
+    "admin_name": "Sud",
+    "lat": "18.1818",
+    "lng": "-74.0034",
+    "id": "1332821683"
+  },
+  {
+    "city": "Capotille",
+    "city_ascii": "Capotille",
+    "admin_name": "Nord-Est",
+    "lat": "19.4480",
+    "lng": "-71.6929",
+    "id": "1332991129"
+  },
+  {
+    "city": "Ferrier",
+    "city_ascii": "Ferrier",
+    "admin_name": "Nord-Est",
+    "lat": "19.6155",
+    "lng": "-71.7779",
+    "id": "1332033044"
+  },
+  {
+    "city": "Beaumont",
+    "city_ascii": "Beaumont",
+    "admin_name": "Grand’Anse",
+    "lat": "18.4787",
+    "lng": "-73.9564",
+    "id": "1332335707"
+  },
+  {
+    "city": "Petit-Goâve",
+    "city_ascii": "Petit-Goave",
+    "admin_name": "Ouest",
+    "lat": "18.4314",
+    "lng": "-72.8669",
+    "id": "1332487207"
+  },
+  {
+    "city": "Perches",
+    "city_ascii": "Perches",
+    "admin_name": "Nord-Est",
+    "lat": "19.5220",
+    "lng": "-71.9232",
+    "id": "1332584583"
+  },
+  {
+    "city": "Grand Gosier",
+    "city_ascii": "Grand Gosier",
+    "admin_name": "Sud-Est",
+    "lat": "18.1854",
+    "lng": "-71.9182",
+    "id": "1332068080"
+  },
+  {
+    "city": "Carice",
+    "city_ascii": "Carice",
+    "admin_name": "Nord-Est",
+    "lat": "19.3779",
+    "lng": "-71.8303",
+    "id": "1332044879"
+  },
+  {
+    "city": "Pont Sondé",
+    "city_ascii": "Pont Sonde",
+    "admin_name": "Artibonite",
+    "lat": "19.1484",
+    "lng": "-72.6144",
+    "id": "1332034051"
+  },
+  {
+    "city": "La Pointe",
+    "city_ascii": "La Pointe",
+    "admin_name": "Nord-Ouest",
+    "lat": "19.9500",
+    "lng": "-72.7833",
+    "id": "1332411349"
+  },
+  {
+    "city": "Chansolme",
+    "city_ascii": "Chansolme",
+    "admin_name": "Nord-Ouest",
+    "lat": "19.8833",
+    "lng": "-72.8333",
+    "id": "1332378565"
+  }
+]

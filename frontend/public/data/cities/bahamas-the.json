@@ -1,0 +1,34 @@
+[
+  {
+    "city": "Nassau",
+    "city_ascii": "Nassau",
+    "admin_name": "",
+    "lat": "25.0442",
+    "lng": "-77.3503",
+    "id": "1044318561"
+  },
+  {
+    "city": "Lucaya",
+    "city_ascii": "Lucaya",
+    "admin_name": "City of Freeport",
+    "lat": "26.5117",
+    "lng": "-78.6431",
+    "id": "1044739503"
+  },
+  {
+    "city": "Freeport City",
+    "city_ascii": "Freeport City",
+    "admin_name": "City of Freeport",
+    "lat": "26.5286",
+    "lng": "-78.6967",
+    "id": "1044291614"
+  },
+  {
+    "city": "West End",
+    "city_ascii": "West End",
+    "admin_name": "West Grand Bahama",
+    "lat": "26.6867",
+    "lng": "-78.9750",
+    "id": "1044539481"
+  }
+]

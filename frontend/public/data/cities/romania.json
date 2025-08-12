@@ -1,0 +1,1826 @@
+[
+  {
+    "city": "Bucharest",
+    "city_ascii": "Bucharest",
+    "admin_name": "Bucureşti",
+    "lat": "44.4325",
+    "lng": "26.1039",
+    "id": "1642414442"
+  },
+  {
+    "city": "Cluj-Napoca",
+    "city_ascii": "Cluj-Napoca",
+    "admin_name": "Cluj",
+    "lat": "46.7667",
+    "lng": "23.5833",
+    "id": "1642503974"
+  },
+  {
+    "city": "Iaşi",
+    "city_ascii": "Iasi",
+    "admin_name": "Iaşi",
+    "lat": "47.1622",
+    "lng": "27.5889",
+    "id": "1642367695"
+  },
+  {
+    "city": "Constanţa",
+    "city_ascii": "Constanta",
+    "admin_name": "Constanţa",
+    "lat": "44.1667",
+    "lng": "28.6333",
+    "id": "1642851858"
+  },
+  {
+    "city": "Timişoara",
+    "city_ascii": "Timisoara",
+    "admin_name": "Timiş",
+    "lat": "45.7597",
+    "lng": "21.2300",
+    "id": "1642603121"
+  },
+  {
+    "city": "Braşov",
+    "city_ascii": "Brasov",
+    "admin_name": "Braşov",
+    "lat": "45.6667",
+    "lng": "25.6167",
+    "id": "1642328429"
+  },
+  {
+    "city": "Craiova",
+    "city_ascii": "Craiova",
+    "admin_name": "Dolj",
+    "lat": "44.3333",
+    "lng": "23.8167",
+    "id": "1642859458"
+  },
+  {
+    "city": "Galaţi",
+    "city_ascii": "Galati",
+    "admin_name": "Galaţi",
+    "lat": "45.4233",
+    "lng": "28.0425",
+    "id": "1642571620"
+  },
+  {
+    "city": "Oradea",
+    "city_ascii": "Oradea",
+    "admin_name": "Bihor",
+    "lat": "47.0722",
+    "lng": "21.9211",
+    "id": "1642066626"
+  },
+  {
+    "city": "Ploieşti",
+    "city_ascii": "Ploiesti",
+    "admin_name": "Prahova",
+    "lat": "44.9411",
+    "lng": "26.0225",
+    "id": "1642169731"
+  },
+  {
+    "city": "Brăila",
+    "city_ascii": "Braila",
+    "admin_name": "Brăila",
+    "lat": "45.2692",
+    "lng": "27.9575",
+    "id": "1642286806"
+  },
+  {
+    "city": "Arad",
+    "city_ascii": "Arad",
+    "admin_name": "Arad",
+    "lat": "46.1750",
+    "lng": "21.3125",
+    "id": "1642996909"
+  },
+  {
+    "city": "Piteşti",
+    "city_ascii": "Pitesti",
+    "admin_name": "Argeş",
+    "lat": "44.8606",
+    "lng": "24.8678",
+    "id": "1642781938"
+  },
+  {
+    "city": "Bacău",
+    "city_ascii": "Bacau",
+    "admin_name": "Bacău",
+    "lat": "46.5833",
+    "lng": "26.9167",
+    "id": "1642838304"
+  },
+  {
+    "city": "Sibiu",
+    "city_ascii": "Sibiu",
+    "admin_name": "Sibiu",
+    "lat": "45.7928",
+    "lng": "24.1519",
+    "id": "1642393086"
+  },
+  {
+    "city": "Suceava",
+    "city_ascii": "Suceava",
+    "admin_name": "Suceava",
+    "lat": "47.6514",
+    "lng": "26.2556",
+    "id": "1642721443"
+  },
+  {
+    "city": "Târgu-Mureş",
+    "city_ascii": "Targu-Mures",
+    "admin_name": "Mureş",
+    "lat": "46.5456",
+    "lng": "24.5625",
+    "id": "1642875714"
+  },
+  {
+    "city": "Baia Mare",
+    "city_ascii": "Baia Mare",
+    "admin_name": "Maramureş",
+    "lat": "47.6567",
+    "lng": "23.5719",
+    "id": "1642459769"
+  },
+  {
+    "city": "Buzău",
+    "city_ascii": "Buzau",
+    "admin_name": "Buzău",
+    "lat": "45.1531",
+    "lng": "26.8208",
+    "id": "1642794918"
+  },
+  {
+    "city": "Râmnicu Vâlcea",
+    "city_ascii": "Ramnicu Valcea",
+    "admin_name": "Vâlcea",
+    "lat": "45.1047",
+    "lng": "24.3756",
+    "id": "1642348361"
+  },
+  {
+    "city": "Satu Mare",
+    "city_ascii": "Satu Mare",
+    "admin_name": "Satu Mare",
+    "lat": "47.7900",
+    "lng": "22.8900",
+    "id": "1642046798"
+  },
+  {
+    "city": "Botoşani",
+    "city_ascii": "Botosani",
+    "admin_name": "Botoşani",
+    "lat": "47.7486",
+    "lng": "26.6694",
+    "id": "1642183791"
+  },
+  {
+    "city": "Reşiţa",
+    "city_ascii": "Resita",
+    "admin_name": "Caraş-Severin",
+    "lat": "45.3008",
+    "lng": "21.8892",
+    "id": "1642047399"
+  },
+  {
+    "city": "Drobeta-Turnu Severin",
+    "city_ascii": "Drobeta-Turnu Severin",
+    "admin_name": "Mehedinţi",
+    "lat": "44.6333",
+    "lng": "22.6500",
+    "id": "1642729144"
+  },
+  {
+    "city": "Piatra Neamţ",
+    "city_ascii": "Piatra Neamt",
+    "admin_name": "Neamţ",
+    "lat": "46.9275",
+    "lng": "26.3708",
+    "id": "1642444635"
+  },
+  {
+    "city": "Bistriţa",
+    "city_ascii": "Bistrita",
+    "admin_name": "Bistriţa-Năsăud",
+    "lat": "47.1333",
+    "lng": "24.5000",
+    "id": "1642633889"
+  },
+  {
+    "city": "Târgu Jiu",
+    "city_ascii": "Targu Jiu",
+    "admin_name": "Gorj",
+    "lat": "45.0342",
+    "lng": "23.2747",
+    "id": "1642174891"
+  },
+  {
+    "city": "Târgovişte",
+    "city_ascii": "Targoviste",
+    "admin_name": "Dâmboviţa",
+    "lat": "44.9244",
+    "lng": "25.4572",
+    "id": "1642534646"
+  },
+  {
+    "city": "Focşani",
+    "city_ascii": "Focsani",
+    "admin_name": "Vrancea",
+    "lat": "45.7000",
+    "lng": "27.1797",
+    "id": "1642736232"
+  },
+  {
+    "city": "Tulcea",
+    "city_ascii": "Tulcea",
+    "admin_name": "Tulcea",
+    "lat": "45.1775",
+    "lng": "28.8036",
+    "id": "1642854000"
+  },
+  {
+    "city": "Alba Iulia",
+    "city_ascii": "Alba Iulia",
+    "admin_name": "Alba",
+    "lat": "46.0669",
+    "lng": "23.5700",
+    "id": "1642449522"
+  },
+  {
+    "city": "Slatina",
+    "city_ascii": "Slatina",
+    "admin_name": "Olt",
+    "lat": "44.4297",
+    "lng": "24.3642",
+    "id": "1642577360"
+  },
+  {
+    "city": "Vaslui",
+    "city_ascii": "Vaslui",
+    "admin_name": "Vaslui",
+    "lat": "46.6383",
+    "lng": "27.7292",
+    "id": "1642644428"
+  },
+  {
+    "city": "Călăraşi",
+    "city_ascii": "Calarasi",
+    "admin_name": "Călăraşi",
+    "lat": "44.2000",
+    "lng": "27.3333",
+    "id": "1642445982"
+  },
+  {
+    "city": "Giurgiu",
+    "city_ascii": "Giurgiu",
+    "admin_name": "Giurgiu",
+    "lat": "43.9008",
+    "lng": "25.9739",
+    "id": "1642984994"
+  },
+  {
+    "city": "Popeşti-Leordeni",
+    "city_ascii": "Popesti-Leordeni",
+    "admin_name": "Ilfov",
+    "lat": "44.3800",
+    "lng": "26.1700",
+    "id": "1642953954"
+  },
+  {
+    "city": "Deva",
+    "city_ascii": "Deva",
+    "admin_name": "Hunedoara",
+    "lat": "45.8781",
+    "lng": "22.9144",
+    "id": "1642728479"
+  },
+  {
+    "city": "Bârlad",
+    "city_ascii": "Barlad",
+    "admin_name": "Vaslui",
+    "lat": "46.2167",
+    "lng": "27.6667",
+    "id": "1642043593"
+  },
+  {
+    "city": "Zalău",
+    "city_ascii": "Zalau",
+    "admin_name": "Sălaj",
+    "lat": "47.1911",
+    "lng": "23.0572",
+    "id": "1642791988"
+  },
+  {
+    "city": "Hunedoara",
+    "city_ascii": "Hunedoara",
+    "admin_name": "Hunedoara",
+    "lat": "45.7697",
+    "lng": "22.9203",
+    "id": "1642078107"
+  },
+  {
+    "city": "Floreşti",
+    "city_ascii": "Floresti",
+    "admin_name": "Cluj",
+    "lat": "46.7475",
+    "lng": "23.4908",
+    "id": "1642926208"
+  },
+  {
+    "city": "Sfântu-Gheorghe",
+    "city_ascii": "Sfantu-Gheorghe",
+    "admin_name": "Covasna",
+    "lat": "45.8636",
+    "lng": "25.7875",
+    "id": "1642189178"
+  },
+  {
+    "city": "Roman",
+    "city_ascii": "Roman",
+    "admin_name": "Neamţ",
+    "lat": "46.9300",
+    "lng": "26.9300",
+    "id": "1642959315"
+  },
+  {
+    "city": "Voluntari",
+    "city_ascii": "Voluntari",
+    "admin_name": "Bucureşti",
+    "lat": "44.4925",
+    "lng": "26.1914",
+    "id": "1642832091"
+  },
+  {
+    "city": "Turda",
+    "city_ascii": "Turda",
+    "admin_name": "Cluj",
+    "lat": "46.5667",
+    "lng": "23.7833",
+    "id": "1642714419"
+  },
+  {
+    "city": "Miercurea-Ciuc",
+    "city_ascii": "Miercurea-Ciuc",
+    "admin_name": "Harghita",
+    "lat": "46.3594",
+    "lng": "25.8017",
+    "id": "1642603145"
+  },
+  {
+    "city": "Slobozia",
+    "city_ascii": "Slobozia",
+    "admin_name": "Ialomiţa",
+    "lat": "44.5639",
+    "lng": "27.3661",
+    "id": "1642971618"
+  },
+  {
+    "city": "Alexandria",
+    "city_ascii": "Alexandria",
+    "admin_name": "Teleorman",
+    "lat": "43.9686",
+    "lng": "25.3333",
+    "id": "1642953190"
+  },
+  {
+    "city": "Bragadiru",
+    "city_ascii": "Bragadiru",
+    "admin_name": "Ilfov",
+    "lat": "44.3708",
+    "lng": "25.9750",
+    "id": "1642514395"
+  },
+  {
+    "city": "Media",
+    "city_ascii": "Media",
+    "admin_name": "Sibiu",
+    "lat": "46.1500",
+    "lng": "24.3500",
+    "id": "1642532287"
+  },
+  {
+    "city": "Lugoj",
+    "city_ascii": "Lugoj",
+    "admin_name": "Timiş",
+    "lat": "45.7056",
+    "lng": "21.9258",
+    "id": "1642742635"
+  },
+  {
+    "city": "Medgidia",
+    "city_ascii": "Medgidia",
+    "admin_name": "Constanţa",
+    "lat": "44.2503",
+    "lng": "28.2614",
+    "id": "1642156284"
+  },
+  {
+    "city": "Năvodari",
+    "city_ascii": "Navodari",
+    "admin_name": "Constanţa",
+    "lat": "44.3211",
+    "lng": "28.6133",
+    "id": "1642234655"
+  },
+  {
+    "city": "Oneşti",
+    "city_ascii": "Onesti",
+    "admin_name": "Bacău",
+    "lat": "46.2586",
+    "lng": "26.7692",
+    "id": "1642860854"
+  },
+  {
+    "city": "Pantelimon",
+    "city_ascii": "Pantelimon",
+    "admin_name": "Ilfov",
+    "lat": "44.4500",
+    "lng": "26.2000",
+    "id": "1642982115"
+  },
+  {
+    "city": "Tecuci",
+    "city_ascii": "Tecuci",
+    "admin_name": "Galaţi",
+    "lat": "45.8467",
+    "lng": "27.4278",
+    "id": "1642402101"
+  },
+  {
+    "city": "Sighetu Marmaţiei",
+    "city_ascii": "Sighetu Marmatiei",
+    "admin_name": "Maramureş",
+    "lat": "47.9286",
+    "lng": "23.8925",
+    "id": "1642377306"
+  },
+  {
+    "city": "Mangalia",
+    "city_ascii": "Mangalia",
+    "admin_name": "Constanţa",
+    "lat": "43.8172",
+    "lng": "28.5828",
+    "id": "1642499663"
+  },
+  {
+    "city": "Dej",
+    "city_ascii": "Dej",
+    "admin_name": "Cluj",
+    "lat": "47.0872",
+    "lng": "23.8053",
+    "id": "1642916857"
+  },
+  {
+    "city": "Odorheiu Secuiesc",
+    "city_ascii": "Odorheiu Secuiesc",
+    "admin_name": "Harghita",
+    "lat": "46.3139",
+    "lng": "25.3017",
+    "id": "1642134385"
+  },
+  {
+    "city": "Petroşani",
+    "city_ascii": "Petrosani",
+    "admin_name": "Hunedoara",
+    "lat": "45.4122",
+    "lng": "23.3733",
+    "id": "1642231547"
+  },
+  {
+    "city": "Săcele",
+    "city_ascii": "Sacele",
+    "admin_name": "Braşov",
+    "lat": "45.6200",
+    "lng": "25.7097",
+    "id": "1642349987"
+  },
+  {
+    "city": "Paşcani",
+    "city_ascii": "Pascani",
+    "admin_name": "Iaşi",
+    "lat": "47.2494",
+    "lng": "26.7272",
+    "id": "1642197726"
+  },
+  {
+    "city": "Râmnicu Sărat",
+    "city_ascii": "Ramnicu Sarat",
+    "admin_name": "Buzău",
+    "lat": "45.3800",
+    "lng": "27.0600",
+    "id": "1642484794"
+  },
+  {
+    "city": "Reghin",
+    "city_ascii": "Reghin",
+    "admin_name": "Mureş",
+    "lat": "46.7758",
+    "lng": "24.7083",
+    "id": "1642173105"
+  },
+  {
+    "city": "Mioveni",
+    "city_ascii": "Mioveni",
+    "admin_name": "Argeş",
+    "lat": "44.9569",
+    "lng": "24.9406",
+    "id": "1642961342"
+  },
+  {
+    "city": "Câmpina",
+    "city_ascii": "Campina",
+    "admin_name": "Prahova",
+    "lat": "45.1300",
+    "lng": "25.7400",
+    "id": "1642518120"
+  },
+  {
+    "city": "Borşa",
+    "city_ascii": "Borsa",
+    "admin_name": "Maramureş",
+    "lat": "47.6553",
+    "lng": "24.6631",
+    "id": "1642172332"
+  },
+  {
+    "city": "Câmpulung",
+    "city_ascii": "Campulung",
+    "admin_name": "Argeş",
+    "lat": "45.2678",
+    "lng": "25.0464",
+    "id": "1642199669"
+  },
+  {
+    "city": "Feteşti",
+    "city_ascii": "Fetesti",
+    "admin_name": "Ialomiţa",
+    "lat": "44.4150",
+    "lng": "27.8236",
+    "id": "1642433547"
+  },
+  {
+    "city": "Caracal",
+    "city_ascii": "Caracal",
+    "admin_name": "Olt",
+    "lat": "44.1125",
+    "lng": "24.3472",
+    "id": "1642726745"
+  },
+  {
+    "city": "Sebeş",
+    "city_ascii": "Sebes",
+    "admin_name": "Alba",
+    "lat": "45.9600",
+    "lng": "23.5700",
+    "id": "1642475227"
+  },
+  {
+    "city": "Făgăraş",
+    "city_ascii": "Fagaras",
+    "admin_name": "Braşov",
+    "lat": "45.8447",
+    "lng": "24.9742",
+    "id": "1642873074"
+  },
+  {
+    "city": "Curtea de Argeş",
+    "city_ascii": "Curtea de Arges",
+    "admin_name": "Argeş",
+    "lat": "45.1392",
+    "lng": "24.6792",
+    "id": "1642859797"
+  },
+  {
+    "city": "Huşi",
+    "city_ascii": "Husi",
+    "admin_name": "Vaslui",
+    "lat": "46.6742",
+    "lng": "28.0597",
+    "id": "1642292684"
+  },
+  {
+    "city": "Rădăuţi",
+    "city_ascii": "Radauti",
+    "admin_name": "Suceava",
+    "lat": "47.8425",
+    "lng": "25.9192",
+    "id": "1642696175"
+  },
+  {
+    "city": "Sighişoara",
+    "city_ascii": "Sighisoara",
+    "admin_name": "Mureş",
+    "lat": "46.2169",
+    "lng": "24.7911",
+    "id": "1642947204"
+  },
+  {
+    "city": "Fălticeni",
+    "city_ascii": "Falticeni",
+    "admin_name": "Suceava",
+    "lat": "47.4597",
+    "lng": "26.3000",
+    "id": "1642953328"
+  },
+  {
+    "city": "Dorohoi",
+    "city_ascii": "Dorohoi",
+    "admin_name": "Botoşani",
+    "lat": "47.9597",
+    "lng": "26.3997",
+    "id": "1642539172"
+  },
+  {
+    "city": "Olteniţa",
+    "city_ascii": "Oltenita",
+    "admin_name": "Călăraşi",
+    "lat": "44.0867",
+    "lng": "26.6367",
+    "id": "1642326202"
+  },
+  {
+    "city": "Roşiori de Vede",
+    "city_ascii": "Rosiori de Vede",
+    "admin_name": "Teleorman",
+    "lat": "44.1114",
+    "lng": "24.9942",
+    "id": "1642825706"
+  },
+  {
+    "city": "Cisnădie",
+    "city_ascii": "Cisnadie",
+    "admin_name": "Sibiu",
+    "lat": "45.7128",
+    "lng": "24.1508",
+    "id": "1642003986"
+  },
+  {
+    "city": "Otopeni",
+    "city_ascii": "Otopeni",
+    "admin_name": "Ilfov",
+    "lat": "44.5500",
+    "lng": "26.0700",
+    "id": "1642216985"
+  },
+  {
+    "city": "Caransebeş",
+    "city_ascii": "Caransebes",
+    "admin_name": "Caraş-Severin",
+    "lat": "45.4214",
+    "lng": "22.2219",
+    "id": "1642355893"
+  },
+  {
+    "city": "Zărneşti",
+    "city_ascii": "Zarnesti",
+    "admin_name": "Braşov",
+    "lat": "45.5667",
+    "lng": "25.3333",
+    "id": "1642971107"
+  },
+  {
+    "city": "Aiud",
+    "city_ascii": "Aiud",
+    "admin_name": "Alba",
+    "lat": "46.3122",
+    "lng": "23.7292",
+    "id": "1642981181"
+  },
+  {
+    "city": "Târnăveni",
+    "city_ascii": "Tarnaveni",
+    "admin_name": "Mureş",
+    "lat": "46.3297",
+    "lng": "24.2700",
+    "id": "1642275183"
+  },
+  {
+    "city": "Câmpia Turzii",
+    "city_ascii": "Campia Turzii",
+    "admin_name": "Cluj",
+    "lat": "46.5486",
+    "lng": "23.8800",
+    "id": "1642507537"
+  },
+  {
+    "city": "Buftea",
+    "city_ascii": "Buftea",
+    "admin_name": "Ilfov",
+    "lat": "44.5700",
+    "lng": "25.9500",
+    "id": "1642134624"
+  },
+  {
+    "city": "Codlea",
+    "city_ascii": "Codlea",
+    "admin_name": "Braşov",
+    "lat": "45.6969",
+    "lng": "25.4439",
+    "id": "1642573857"
+  },
+  {
+    "city": "Dumbrăviţa",
+    "city_ascii": "Dumbravita",
+    "admin_name": "Timiş",
+    "lat": "45.8000",
+    "lng": "21.2500",
+    "id": "1642484521"
+  },
+  {
+    "city": "Comăneşti",
+    "city_ascii": "Comanesti",
+    "admin_name": "Bacău",
+    "lat": "46.4297",
+    "lng": "26.4500",
+    "id": "1642511009"
+  },
+  {
+    "city": "Gherla",
+    "city_ascii": "Gherla",
+    "admin_name": "Cluj",
+    "lat": "47.0200",
+    "lng": "23.9000",
+    "id": "1642597159"
+  },
+  {
+    "city": "Vulcan",
+    "city_ascii": "Vulcan",
+    "admin_name": "Hunedoara",
+    "lat": "45.3811",
+    "lng": "23.2914",
+    "id": "1642844493"
+  },
+  {
+    "city": "Moineşti",
+    "city_ascii": "Moinesti",
+    "admin_name": "Bacău",
+    "lat": "46.4333",
+    "lng": "26.4833",
+    "id": "1642141405"
+  },
+  {
+    "city": "Petrila",
+    "city_ascii": "Petrila",
+    "admin_name": "Hunedoara",
+    "lat": "45.4500",
+    "lng": "23.4200",
+    "id": "1642937566"
+  },
+  {
+    "city": "Turnu Măgurele",
+    "city_ascii": "Turnu Magurele",
+    "admin_name": "Teleorman",
+    "lat": "43.7517",
+    "lng": "24.8708",
+    "id": "1642918101"
+  },
+  {
+    "city": "Cugir",
+    "city_ascii": "Cugir",
+    "admin_name": "Alba",
+    "lat": "45.8436",
+    "lng": "23.3636",
+    "id": "1642368746"
+  },
+  {
+    "city": "Dudu",
+    "city_ascii": "Dudu",
+    "admin_name": "Ilfov",
+    "lat": "44.4563",
+    "lng": "25.9906",
+    "id": "1642057645"
+  },
+  {
+    "city": "Carei",
+    "city_ascii": "Carei",
+    "admin_name": "Satu Mare",
+    "lat": "47.6839",
+    "lng": "22.4669",
+    "id": "1642934242"
+  },
+  {
+    "city": "Lupeni",
+    "city_ascii": "Lupeni",
+    "admin_name": "Hunedoara",
+    "lat": "45.3603",
+    "lng": "23.2383",
+    "id": "1642534540"
+  },
+  {
+    "city": "Târgu Neamţ",
+    "city_ascii": "Targu Neamt",
+    "admin_name": "Neamţ",
+    "lat": "47.2025",
+    "lng": "26.3586",
+    "id": "1642788528"
+  },
+  {
+    "city": "Giroc",
+    "city_ascii": "Giroc",
+    "admin_name": "Timiş",
+    "lat": "45.7000",
+    "lng": "21.2333",
+    "id": "1642756364"
+  },
+  {
+    "city": "Blaj",
+    "city_ascii": "Blaj",
+    "admin_name": "Alba",
+    "lat": "46.1753",
+    "lng": "23.9144",
+    "id": "1642308950"
+  },
+  {
+    "city": "Orăştie",
+    "city_ascii": "Orastie",
+    "admin_name": "Hunedoara",
+    "lat": "45.8500",
+    "lng": "23.2000",
+    "id": "1642031164"
+  },
+  {
+    "city": "Băicoi",
+    "city_ascii": "Baicoi",
+    "admin_name": "Prahova",
+    "lat": "45.0453",
+    "lng": "25.8658",
+    "id": "1642646801"
+  },
+  {
+    "city": "Valu lui Traian",
+    "city_ascii": "Valu lui Traian",
+    "admin_name": "Constanţa",
+    "lat": "44.1650",
+    "lng": "28.4550",
+    "id": "1642008112"
+  },
+  {
+    "city": "Târgu Secuiesc",
+    "city_ascii": "Targu Secuiesc",
+    "admin_name": "Covasna",
+    "lat": "45.9969",
+    "lng": "26.1406",
+    "id": "1642834541"
+  },
+  {
+    "city": "Roşu",
+    "city_ascii": "Rosu",
+    "admin_name": "Bucureşti",
+    "lat": "44.4509",
+    "lng": "26.0083",
+    "id": "1642287299"
+  },
+  {
+    "city": "Balş",
+    "city_ascii": "Bals",
+    "admin_name": "Olt",
+    "lat": "44.3500",
+    "lng": "24.0994",
+    "id": "1642139572"
+  },
+  {
+    "city": "Motru",
+    "city_ascii": "Motru",
+    "admin_name": "Gorj",
+    "lat": "44.8036",
+    "lng": "22.9708",
+    "id": "1642442019"
+  },
+  {
+    "city": "Băileşti",
+    "city_ascii": "Bailesti",
+    "admin_name": "Dolj",
+    "lat": "44.0308",
+    "lng": "23.3525",
+    "id": "1642673128"
+  },
+  {
+    "city": "Râşnov",
+    "city_ascii": "Rasnov",
+    "admin_name": "Braşov",
+    "lat": "45.5933",
+    "lng": "25.4603",
+    "id": "1642579613"
+  },
+  {
+    "city": "Gheorgheni",
+    "city_ascii": "Gheorgheni",
+    "admin_name": "Harghita",
+    "lat": "46.7200",
+    "lng": "25.5900",
+    "id": "1642450160"
+  },
+  {
+    "city": "Salonta",
+    "city_ascii": "Salonta",
+    "admin_name": "Bihor",
+    "lat": "46.8000",
+    "lng": "21.6500",
+    "id": "1642519468"
+  },
+  {
+    "city": "Câmpulung Moldovenesc",
+    "city_ascii": "Campulung Moldovenesc",
+    "admin_name": "Suceava",
+    "lat": "47.5308",
+    "lng": "25.5514",
+    "id": "1642825057"
+  },
+  {
+    "city": "Drăgăşani",
+    "city_ascii": "Dragasani",
+    "admin_name": "Vâlcea",
+    "lat": "44.6611",
+    "lng": "24.2606",
+    "id": "1642790753"
+  },
+  {
+    "city": "Moreni",
+    "city_ascii": "Moreni",
+    "admin_name": "Dâmboviţa",
+    "lat": "44.9803",
+    "lng": "25.6444",
+    "id": "1642694377"
+  },
+  {
+    "city": "Vişeu de Sus",
+    "city_ascii": "Viseu de Sus",
+    "admin_name": "Maramureş",
+    "lat": "47.7092",
+    "lng": "24.4239",
+    "id": "1642452297"
+  },
+  {
+    "city": "Adjud",
+    "city_ascii": "Adjud",
+    "admin_name": "Vrancea",
+    "lat": "46.1000",
+    "lng": "27.1797",
+    "id": "1642892790"
+  },
+  {
+    "city": "Vicovu de Sus",
+    "city_ascii": "Vicovu de Sus",
+    "admin_name": "Suceava",
+    "lat": "47.9258",
+    "lng": "25.6800",
+    "id": "1642275762"
+  },
+  {
+    "city": "Cernavodă",
+    "city_ascii": "Cernavoda",
+    "admin_name": "Constanţa",
+    "lat": "44.3381",
+    "lng": "28.0336",
+    "id": "1642042708"
+  },
+  {
+    "city": "Filiaşi",
+    "city_ascii": "Filiasi",
+    "admin_name": "Dolj",
+    "lat": "44.4000",
+    "lng": "23.5200",
+    "id": "1642083363"
+  },
+  {
+    "city": "Breaza",
+    "city_ascii": "Breaza",
+    "admin_name": "Prahova",
+    "lat": "45.1872",
+    "lng": "25.6622",
+    "id": "1642547235"
+  },
+  {
+    "city": "Chitila",
+    "city_ascii": "Chitila",
+    "admin_name": "Ilfov",
+    "lat": "44.5083",
+    "lng": "25.9819",
+    "id": "1642960997"
+  },
+  {
+    "city": "Luduş",
+    "city_ascii": "Ludus",
+    "admin_name": "Mureş",
+    "lat": "46.4778",
+    "lng": "24.0961",
+    "id": "1642649798"
+  },
+  {
+    "city": "Cumpăna",
+    "city_ascii": "Cumpana",
+    "admin_name": "Constanţa",
+    "lat": "44.1128",
+    "lng": "28.5558",
+    "id": "1642472472"
+  },
+  {
+    "city": "Negreşti-Oaş",
+    "city_ascii": "Negresti-Oas",
+    "admin_name": "Satu Mare",
+    "lat": "47.8694",
+    "lng": "23.4242",
+    "id": "1642109083"
+  },
+  {
+    "city": "Valea Lupului",
+    "city_ascii": "Valea Lupului",
+    "admin_name": "Iaşi",
+    "lat": "47.1833",
+    "lng": "27.5000",
+    "id": "1642436495"
+  },
+  {
+    "city": "Măgurele",
+    "city_ascii": "Magurele",
+    "admin_name": "Ilfov",
+    "lat": "44.3494",
+    "lng": "26.0297",
+    "id": "1642420938"
+  },
+  {
+    "city": "Baia-Sprie",
+    "city_ascii": "Baia-Sprie",
+    "admin_name": "Maramureş",
+    "lat": "47.6592",
+    "lng": "23.7042",
+    "id": "1642427641"
+  },
+  {
+    "city": "Buhuşi",
+    "city_ascii": "Buhusi",
+    "admin_name": "Bacău",
+    "lat": "46.7150",
+    "lng": "26.7042",
+    "id": "1642879325"
+  },
+  {
+    "city": "Ovidiu",
+    "city_ascii": "Ovidiu",
+    "admin_name": "Constanţa",
+    "lat": "44.2700",
+    "lng": "28.5600",
+    "id": "1642244371"
+  },
+  {
+    "city": "Calafat",
+    "city_ascii": "Calafat",
+    "admin_name": "Dolj",
+    "lat": "43.9858",
+    "lng": "22.9575",
+    "id": "1642467713"
+  },
+  {
+    "city": "Berceni",
+    "city_ascii": "Berceni",
+    "admin_name": "Ilfov",
+    "lat": "44.3167",
+    "lng": "26.1833",
+    "id": "1642442996"
+  },
+  {
+    "city": "Marghita",
+    "city_ascii": "Marghita",
+    "admin_name": "Bihor",
+    "lat": "47.3500",
+    "lng": "22.3333",
+    "id": "1642848546"
+  },
+  {
+    "city": "Corabia",
+    "city_ascii": "Corabia",
+    "admin_name": "Olt",
+    "lat": "43.7736",
+    "lng": "24.5033",
+    "id": "1642203673"
+  },
+  {
+    "city": "Urziceni",
+    "city_ascii": "Urziceni",
+    "admin_name": "Ialomiţa",
+    "lat": "44.7181",
+    "lng": "26.6453",
+    "id": "1642027184"
+  },
+  {
+    "city": "Gura Humorului",
+    "city_ascii": "Gura Humorului",
+    "admin_name": "Suceava",
+    "lat": "47.5539",
+    "lng": "25.8892",
+    "id": "1642117970"
+  },
+  {
+    "city": "Dărmăneşti",
+    "city_ascii": "Darmanesti",
+    "admin_name": "Bacău",
+    "lat": "46.3700",
+    "lng": "26.4797",
+    "id": "1642492566"
+  },
+  {
+    "city": "Mizil",
+    "city_ascii": "Mizil",
+    "admin_name": "Prahova",
+    "lat": "45.0000",
+    "lng": "26.4406",
+    "id": "1642044399"
+  },
+  {
+    "city": "Pucioasa",
+    "city_ascii": "Pucioasa",
+    "admin_name": "Dâmboviţa",
+    "lat": "45.0742",
+    "lng": "25.4342",
+    "id": "1642731261"
+  },
+  {
+    "city": "Bocşa",
+    "city_ascii": "Bocsa",
+    "admin_name": "Caraş-Severin",
+    "lat": "45.3747",
+    "lng": "21.7106",
+    "id": "1642424364"
+  },
+  {
+    "city": "Bolintin Vale",
+    "city_ascii": "Bolintin Vale",
+    "admin_name": "Giurgiu",
+    "lat": "44.4472",
+    "lng": "25.7572",
+    "id": "1642230164"
+  },
+  {
+    "city": "Brad",
+    "city_ascii": "Brad",
+    "admin_name": "Hunedoara",
+    "lat": "46.1294",
+    "lng": "22.7900",
+    "id": "1642122253"
+  },
+  {
+    "city": "Topliţa",
+    "city_ascii": "Toplita",
+    "admin_name": "Harghita",
+    "lat": "46.9236",
+    "lng": "25.3458",
+    "id": "1642037502"
+  },
+  {
+    "city": "Zimnicea",
+    "city_ascii": "Zimnicea",
+    "admin_name": "Teleorman",
+    "lat": "43.6522",
+    "lng": "25.3681",
+    "id": "1642900319"
+  },
+  {
+    "city": "Găeşti",
+    "city_ascii": "Gaesti",
+    "admin_name": "Dâmboviţa",
+    "lat": "44.7194",
+    "lng": "25.3197",
+    "id": "1642744335"
+  },
+  {
+    "city": "Vatra Dornei",
+    "city_ascii": "Vatra Dornei",
+    "admin_name": "Suceava",
+    "lat": "47.3461",
+    "lng": "25.3594",
+    "id": "1642626415"
+  },
+  {
+    "city": "Avrig",
+    "city_ascii": "Avrig",
+    "admin_name": "Sibiu",
+    "lat": "45.7081",
+    "lng": "24.3747",
+    "id": "1642698711"
+  },
+  {
+    "city": "Ocna Mureş",
+    "city_ascii": "Ocna Mures",
+    "admin_name": "Alba",
+    "lat": "46.3900",
+    "lng": "23.8600",
+    "id": "1642234121"
+  },
+  {
+    "city": "Sântana",
+    "city_ascii": "Santana",
+    "admin_name": "Arad",
+    "lat": "46.3500",
+    "lng": "21.5000",
+    "id": "1642162746"
+  },
+  {
+    "city": "Vălenii de Munte",
+    "city_ascii": "Valenii de Munte",
+    "admin_name": "Prahova",
+    "lat": "45.1856",
+    "lng": "26.0397",
+    "id": "1642303389"
+  },
+  {
+    "city": "Pecica",
+    "city_ascii": "Pecica",
+    "admin_name": "Arad",
+    "lat": "46.1700",
+    "lng": "21.0700",
+    "id": "1642561590"
+  },
+  {
+    "city": "Darabani",
+    "city_ascii": "Darabani",
+    "admin_name": "Botoşani",
+    "lat": "48.1864",
+    "lng": "26.5892",
+    "id": "1642289705"
+  },
+  {
+    "city": "Sânpetru",
+    "city_ascii": "Sanpetru",
+    "admin_name": "Braşov",
+    "lat": "45.7167",
+    "lng": "25.6333",
+    "id": "1642959563"
+  },
+  {
+    "city": "Matca",
+    "city_ascii": "Matca",
+    "admin_name": "Galaţi",
+    "lat": "45.8500",
+    "lng": "27.5333",
+    "id": "1642744486"
+  },
+  {
+    "city": "Valea Adâncă",
+    "city_ascii": "Valea Adanca",
+    "admin_name": "Iaşi",
+    "lat": "47.1256",
+    "lng": "27.5565",
+    "id": "1642073036"
+  },
+  {
+    "city": "Domneşti",
+    "city_ascii": "Domnesti",
+    "admin_name": "Ilfov",
+    "lat": "44.4000",
+    "lng": "25.9167",
+    "id": "1642623340"
+  },
+  {
+    "city": "Mărăşeşti",
+    "city_ascii": "Marasesti",
+    "admin_name": "Vrancea",
+    "lat": "45.8800",
+    "lng": "27.2300",
+    "id": "1642459723"
+  },
+  {
+    "city": "Simeria",
+    "city_ascii": "Simeria",
+    "admin_name": "Hunedoara",
+    "lat": "45.8500",
+    "lng": "23.0100",
+    "id": "1642409253"
+  },
+  {
+    "city": "Beclean",
+    "city_ascii": "Beclean",
+    "admin_name": "Bistriţa-Năsăud",
+    "lat": "47.1797",
+    "lng": "24.1797",
+    "id": "1642699805"
+  },
+  {
+    "city": "Marginea",
+    "city_ascii": "Marginea",
+    "admin_name": "Suceava",
+    "lat": "47.8167",
+    "lng": "25.8333",
+    "id": "1642632251"
+  },
+  {
+    "city": "Târgu Lăpuş",
+    "city_ascii": "Targu Lapus",
+    "admin_name": "Maramureş",
+    "lat": "47.4525",
+    "lng": "23.8631",
+    "id": "1642400561"
+  },
+  {
+    "city": "Comarnic",
+    "city_ascii": "Comarnic",
+    "admin_name": "Prahova",
+    "lat": "45.2511",
+    "lng": "25.6353",
+    "id": "1642476433"
+  },
+  {
+    "city": "Dolhasca",
+    "city_ascii": "Dolhasca",
+    "admin_name": "Suceava",
+    "lat": "47.4303",
+    "lng": "26.6094",
+    "id": "1642508577"
+  },
+  {
+    "city": "Sângeorz-Băi",
+    "city_ascii": "Sangeorz-Bai",
+    "admin_name": "Bistriţa-Năsăud",
+    "lat": "47.3700",
+    "lng": "24.6800",
+    "id": "1642207424"
+  },
+  {
+    "city": "Scorniceşti",
+    "city_ascii": "Scornicesti",
+    "admin_name": "Olt",
+    "lat": "44.5950",
+    "lng": "24.5469",
+    "id": "1642000053"
+  },
+  {
+    "city": "Săcueni",
+    "city_ascii": "Sacueni",
+    "admin_name": "Bihor",
+    "lat": "47.3525",
+    "lng": "22.0914",
+    "id": "1642478221"
+  },
+  {
+    "city": "Sânnicolau Mare",
+    "city_ascii": "Sannicolau Mare",
+    "admin_name": "Timiş",
+    "lat": "46.0636",
+    "lng": "20.6125",
+    "id": "1642288572"
+  },
+  {
+    "city": "Jilava",
+    "city_ascii": "Jilava",
+    "admin_name": "Ilfov",
+    "lat": "44.3328",
+    "lng": "26.0781",
+    "id": "1642206727"
+  },
+  {
+    "city": "Lunca Cetăţuii",
+    "city_ascii": "Lunca Cetatuii",
+    "admin_name": "Iaşi",
+    "lat": "47.0931",
+    "lng": "27.5662",
+    "id": "1642797649"
+  },
+  {
+    "city": "Flămânzi",
+    "city_ascii": "Flamanzi",
+    "admin_name": "Botoşani",
+    "lat": "47.5500",
+    "lng": "26.8667",
+    "id": "1642974440"
+  },
+  {
+    "city": "Târgu Ocna",
+    "city_ascii": "Targu Ocna",
+    "admin_name": "Bacău",
+    "lat": "46.2800",
+    "lng": "26.6200",
+    "id": "1642346375"
+  },
+  {
+    "city": "Hârlău",
+    "city_ascii": "Harlau",
+    "admin_name": "Iaşi",
+    "lat": "47.4278",
+    "lng": "26.9114",
+    "id": "1642634665"
+  },
+  {
+    "city": "Dăbuleni",
+    "city_ascii": "Dabuleni",
+    "admin_name": "Dolj",
+    "lat": "43.8011",
+    "lng": "24.0919",
+    "id": "1642780769"
+  },
+  {
+    "city": "Boldeşti-Scăeni",
+    "city_ascii": "Boldesti-Scaeni",
+    "admin_name": "Prahova",
+    "lat": "45.0300",
+    "lng": "26.0300",
+    "id": "1642726960"
+  },
+  {
+    "city": "Rovinari",
+    "city_ascii": "Rovinari",
+    "admin_name": "Gorj",
+    "lat": "44.9125",
+    "lng": "23.1622",
+    "id": "1642920797"
+  },
+  {
+    "city": "Năsăud",
+    "city_ascii": "Nasaud",
+    "admin_name": "Bistriţa-Năsăud",
+    "lat": "47.2833",
+    "lng": "24.4067",
+    "id": "1642277064"
+  },
+  {
+    "city": "Pechea",
+    "city_ascii": "Pechea",
+    "admin_name": "Galaţi",
+    "lat": "45.6333",
+    "lng": "27.8000",
+    "id": "1642407304"
+  },
+  {
+    "city": "Jimbolia",
+    "city_ascii": "Jimbolia",
+    "admin_name": "Timiş",
+    "lat": "45.7931",
+    "lng": "20.7375",
+    "id": "1642376521"
+  },
+  {
+    "city": "Urlaţi",
+    "city_ascii": "Urlati",
+    "admin_name": "Prahova",
+    "lat": "44.9911",
+    "lng": "26.2306",
+    "id": "1642991505"
+  },
+  {
+    "city": "Videle",
+    "city_ascii": "Videle",
+    "admin_name": "Teleorman",
+    "lat": "44.2833",
+    "lng": "25.5333",
+    "id": "1642959308"
+  },
+  {
+    "city": "Călan",
+    "city_ascii": "Calan",
+    "admin_name": "Hunedoara",
+    "lat": "45.7319",
+    "lng": "23.0247",
+    "id": "1642642024"
+  },
+  {
+    "city": "Lipova",
+    "city_ascii": "Lipova",
+    "admin_name": "Arad",
+    "lat": "46.0917",
+    "lng": "21.6917",
+    "id": "1642895162"
+  },
+  {
+    "city": "Fundeni",
+    "city_ascii": "Fundeni",
+    "admin_name": "Bucureşti",
+    "lat": "44.4595",
+    "lng": "26.1668",
+    "id": "1642263506"
+  },
+  {
+    "city": "Mogoşoaia",
+    "city_ascii": "Mogosoaia",
+    "admin_name": "Ilfov",
+    "lat": "44.5333",
+    "lng": "26.0000",
+    "id": "1642827284"
+  },
+  {
+    "city": "Beiuş",
+    "city_ascii": "Beius",
+    "admin_name": "Bihor",
+    "lat": "46.6500",
+    "lng": "22.3500",
+    "id": "1642734530"
+  },
+  {
+    "city": "Drăgăneşti-Olt",
+    "city_ascii": "Draganesti-Olt",
+    "admin_name": "Olt",
+    "lat": "44.1697",
+    "lng": "24.5300",
+    "id": "1642857216"
+  },
+  {
+    "city": "Sovata",
+    "city_ascii": "Sovata",
+    "admin_name": "Mureş",
+    "lat": "46.5961",
+    "lng": "25.0744",
+    "id": "1642965657"
+  },
+  {
+    "city": "Jibou",
+    "city_ascii": "Jibou",
+    "admin_name": "Sălaj",
+    "lat": "47.2667",
+    "lng": "23.2500",
+    "id": "1642643434"
+  },
+  {
+    "city": "Aleşd",
+    "city_ascii": "Alesd",
+    "admin_name": "Bihor",
+    "lat": "47.0572",
+    "lng": "22.3969",
+    "id": "1642008624"
+  },
+  {
+    "city": "Lumina",
+    "city_ascii": "Lumina",
+    "admin_name": "Constanţa",
+    "lat": "44.2833",
+    "lng": "28.5667",
+    "id": "1642823425"
+  },
+  {
+    "city": "Târgu Frumos",
+    "city_ascii": "Targu Frumos",
+    "admin_name": "Iaşi",
+    "lat": "47.2097",
+    "lng": "27.0131",
+    "id": "1642141035"
+  },
+  {
+    "city": "Salcea",
+    "city_ascii": "Salcea",
+    "admin_name": "Suceava",
+    "lat": "47.6500",
+    "lng": "26.3700",
+    "id": "1642120043"
+  },
+  {
+    "city": "Săbăoani",
+    "city_ascii": "Sabaoani",
+    "admin_name": "Neamţ",
+    "lat": "47.0167",
+    "lng": "26.8500",
+    "id": "1642853233"
+  },
+  {
+    "city": "Nehoiu",
+    "city_ascii": "Nehoiu",
+    "admin_name": "Buzău",
+    "lat": "45.3531",
+    "lng": "26.3050",
+    "id": "1642541496"
+  },
+  {
+    "city": "Costeşti",
+    "city_ascii": "Costesti",
+    "admin_name": "Argeş",
+    "lat": "44.6697",
+    "lng": "24.8800",
+    "id": "1642679241"
+  },
+  {
+    "city": "Odobeşti",
+    "city_ascii": "Odobesti",
+    "admin_name": "Vrancea",
+    "lat": "45.7667",
+    "lng": "27.0667",
+    "id": "1642659916"
+  },
+  {
+    "city": "Topoloveni",
+    "city_ascii": "Topoloveni",
+    "admin_name": "Argeş",
+    "lat": "44.8069",
+    "lng": "25.0839",
+    "id": "1642642782"
+  },
+  {
+    "city": "Oraviţa",
+    "city_ascii": "Oravita",
+    "admin_name": "Caraş-Severin",
+    "lat": "45.0403",
+    "lng": "21.6853",
+    "id": "1642696824"
+  },
+  {
+    "city": "Moisei",
+    "city_ascii": "Moisei",
+    "admin_name": "Maramureş",
+    "lat": "47.6561",
+    "lng": "24.5381",
+    "id": "1642386226"
+  },
+  {
+    "city": "Titu",
+    "city_ascii": "Titu",
+    "admin_name": "Dâmboviţa",
+    "lat": "44.6622",
+    "lng": "25.5736",
+    "id": "1642607155"
+  },
+  {
+    "city": "Poienile de sub Munte",
+    "city_ascii": "Poienile de sub Munte",
+    "admin_name": "Maramureş",
+    "lat": "47.8167",
+    "lng": "24.4333",
+    "id": "1642843793"
+  },
+  {
+    "city": "Moldova Nouă",
+    "city_ascii": "Moldova Noua",
+    "admin_name": "Caraş-Severin",
+    "lat": "44.7178",
+    "lng": "21.6639",
+    "id": "1642091214"
+  },
+  {
+    "city": "Babadag",
+    "city_ascii": "Babadag",
+    "admin_name": "Tulcea",
+    "lat": "44.8981",
+    "lng": "28.7419",
+    "id": "1642622503"
+  },
+  {
+    "city": "Covasna",
+    "city_ascii": "Covasna",
+    "admin_name": "Covasna",
+    "lat": "45.8492",
+    "lng": "26.1853",
+    "id": "1642162134"
+  },
+  {
+    "city": "Murfatlar",
+    "city_ascii": "Murfatlar",
+    "admin_name": "Constanţa",
+    "lat": "44.1736",
+    "lng": "28.4083",
+    "id": "1642326198"
+  },
+  {
+    "city": "Sângeorgiu de Mureş",
+    "city_ascii": "Sangeorgiu de Mures",
+    "admin_name": "Mureş",
+    "lat": "46.5500",
+    "lng": "24.4667",
+    "id": "1642991936"
+  },
+  {
+    "city": "Cajvana",
+    "city_ascii": "Cajvana",
+    "admin_name": "Suceava",
+    "lat": "47.7044",
+    "lng": "25.9694",
+    "id": "1642941621"
+  },
+  {
+    "city": "Tunari",
+    "city_ascii": "Tunari",
+    "admin_name": "Ilfov",
+    "lat": "44.5500",
+    "lng": "26.1333",
+    "id": "1642097539"
+  },
+  {
+    "city": "Sinaia",
+    "city_ascii": "Sinaia",
+    "admin_name": "Prahova",
+    "lat": "45.3500",
+    "lng": "25.5514",
+    "id": "1642021189"
+  },
+  {
+    "city": "Strehaia",
+    "city_ascii": "Strehaia",
+    "admin_name": "Mehedinţi",
+    "lat": "44.6222",
+    "lng": "23.1972",
+    "id": "1642350779"
+  },
+  {
+    "city": "Poiana Mare",
+    "city_ascii": "Poiana Mare",
+    "admin_name": "Dolj",
+    "lat": "43.9333",
+    "lng": "23.0833",
+    "id": "1642956128"
+  },
+  {
+    "city": "Podu Iloaiei",
+    "city_ascii": "Podu Iloaiei",
+    "admin_name": "Iaşi",
+    "lat": "47.2167",
+    "lng": "27.2667",
+    "id": "1642361317"
+  },
+  {
+    "city": "Apahida",
+    "city_ascii": "Apahida",
+    "admin_name": "Cluj",
+    "lat": "46.8078",
+    "lng": "23.7400",
+    "id": "1642782471"
+  },
+  {
+    "city": "Valea lui Mihai",
+    "city_ascii": "Valea lui Mihai",
+    "admin_name": "Bihor",
+    "lat": "47.5200",
+    "lng": "22.1300",
+    "id": "1642733254"
+  },
+  {
+    "city": "Ianca",
+    "city_ascii": "Ianca",
+    "admin_name": "Brăila",
+    "lat": "45.1350",
+    "lng": "27.4747",
+    "id": "1642741254"
+  },
+  {
+    "city": "Liteni",
+    "city_ascii": "Liteni",
+    "admin_name": "Suceava",
+    "lat": "47.5200",
+    "lng": "26.5319",
+    "id": "1642459185"
+  },
+  {
+    "city": "Baciu",
+    "city_ascii": "Baciu",
+    "admin_name": "Cluj",
+    "lat": "46.7928",
+    "lng": "23.5250",
+    "id": "1642672484"
+  },
+  {
+    "city": "Ineu",
+    "city_ascii": "Ineu",
+    "admin_name": "Arad",
+    "lat": "46.4258",
+    "lng": "21.8369",
+    "id": "1642186469"
+  },
+  {
+    "city": "Cristuru Secuiesc",
+    "city_ascii": "Cristuru Secuiesc",
+    "admin_name": "Harghita",
+    "lat": "46.2917",
+    "lng": "25.0353",
+    "id": "1642875734"
+  },
+  {
+    "city": "Haţeg",
+    "city_ascii": "Hateg",
+    "admin_name": "Hunedoara",
+    "lat": "45.6075",
+    "lng": "22.9500",
+    "id": "1642953184"
+  },
+  {
+    "city": "Afumaţi",
+    "city_ascii": "Afumati",
+    "admin_name": "Ilfov",
+    "lat": "44.5250",
+    "lng": "26.2522",
+    "id": "1642945778"
+  },
+  {
+    "city": "Hârşova",
+    "city_ascii": "Harsova",
+    "admin_name": "Constanţa",
+    "lat": "44.6833",
+    "lng": "27.9519",
+    "id": "1642407029"
+  },
+  {
+    "city": "Tomeşti",
+    "city_ascii": "Tomesti",
+    "admin_name": "Iaşi",
+    "lat": "47.1333",
+    "lng": "27.7000",
+    "id": "1642448742"
+  },
+  {
+    "city": "Orşova",
+    "city_ascii": "Orsova",
+    "admin_name": "Mehedinţi",
+    "lat": "44.7253",
+    "lng": "22.3961",
+    "id": "1642923767"
+  },
+  {
+    "city": "Lieşti",
+    "city_ascii": "Liesti",
+    "admin_name": "Galaţi",
+    "lat": "45.6193",
+    "lng": "27.5416",
+    "id": "1642207668"
+  }
+]

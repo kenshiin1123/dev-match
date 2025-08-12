@@ -1,0 +1,170 @@
+[
+  {
+    "city": "Libreville",
+    "city_ascii": "Libreville",
+    "admin_name": "Estuaire",
+    "lat": "0.3901",
+    "lng": "9.4544",
+    "id": "1266952885"
+  },
+  {
+    "city": "Port-Gentil",
+    "city_ascii": "Port-Gentil",
+    "admin_name": "Ogooué-Maritime",
+    "lat": "-0.7167",
+    "lng": "8.7833",
+    "id": "1266383028"
+  },
+  {
+    "city": "Franceville",
+    "city_ascii": "Franceville",
+    "admin_name": "Haut-Ogooué",
+    "lat": "-1.6333",
+    "lng": "13.5833",
+    "id": "1266537692"
+  },
+  {
+    "city": "Owendo",
+    "city_ascii": "Owendo",
+    "admin_name": "Estuaire",
+    "lat": "0.2912",
+    "lng": "9.5047",
+    "id": "1266006431"
+  },
+  {
+    "city": "Oyem",
+    "city_ascii": "Oyem",
+    "admin_name": "Woleu-Ntem",
+    "lat": "1.6000",
+    "lng": "11.5736",
+    "id": "1266867613"
+  },
+  {
+    "city": "Ntoum",
+    "city_ascii": "Ntoum",
+    "admin_name": "Estuaire",
+    "lat": "0.3905",
+    "lng": "9.7610",
+    "id": "1266045882"
+  },
+  {
+    "city": "Moanda",
+    "city_ascii": "Moanda",
+    "admin_name": "Haut-Ogooué",
+    "lat": "-1.5655",
+    "lng": "13.2000",
+    "id": "1266295581"
+  },
+  {
+    "city": "Lambaréné",
+    "city_ascii": "Lambarene",
+    "admin_name": "Moyen-Ogooué",
+    "lat": "-0.6883",
+    "lng": "10.2319",
+    "id": "1266875472"
+  },
+  {
+    "city": "Mouila",
+    "city_ascii": "Mouila",
+    "admin_name": "Ngounié",
+    "lat": "-1.8667",
+    "lng": "11.0550",
+    "id": "1266074474"
+  },
+  {
+    "city": "Tchibanga",
+    "city_ascii": "Tchibanga",
+    "admin_name": "Nyanga",
+    "lat": "-2.9331",
+    "lng": "10.9831",
+    "id": "1266060335"
+  },
+  {
+    "city": "Bitam",
+    "city_ascii": "Bitam",
+    "admin_name": "Woleu-Ntem",
+    "lat": "2.0833",
+    "lng": "11.4833",
+    "id": "1266921836"
+  },
+  {
+    "city": "Koulamoutou",
+    "city_ascii": "Koulamoutou",
+    "admin_name": "Ogooué-Lolo",
+    "lat": "-1.1333",
+    "lng": "12.4833",
+    "id": "1266049565"
+  },
+  {
+    "city": "Makokou",
+    "city_ascii": "Makokou",
+    "admin_name": "Ogooué-Ivindo",
+    "lat": "0.5667",
+    "lng": "12.8667",
+    "id": "1266939354"
+  },
+  {
+    "city": "Okondja",
+    "city_ascii": "Okondja",
+    "admin_name": "Haut-Ogooué",
+    "lat": "-0.6829",
+    "lng": "13.7833",
+    "id": "1266588926"
+  },
+  {
+    "city": "Ndendé",
+    "city_ascii": "Ndende",
+    "admin_name": "Ngounié",
+    "lat": "-2.3829",
+    "lng": "11.3833",
+    "id": "1266578957"
+  },
+  {
+    "city": "Mayumba",
+    "city_ascii": "Mayumba",
+    "admin_name": "Nyanga",
+    "lat": "-3.4167",
+    "lng": "10.6500",
+    "id": "1266317571"
+  },
+  {
+    "city": "Mitzic",
+    "city_ascii": "Mitzic",
+    "admin_name": "Woleu-Ntem",
+    "lat": "0.7833",
+    "lng": "11.5667",
+    "id": "1266866714"
+  },
+  {
+    "city": "Mékambo",
+    "city_ascii": "Mekambo",
+    "admin_name": "Ogooué-Ivindo",
+    "lat": "1.0171",
+    "lng": "13.9333",
+    "id": "1266553682"
+  },
+  {
+    "city": "Omboué",
+    "city_ascii": "Omboue",
+    "admin_name": "Ogooué-Maritime",
+    "lat": "-1.5662",
+    "lng": "9.2500",
+    "id": "1266708175"
+  },
+  {
+    "city": "Bifoun",
+    "city_ascii": "Bifoun",
+    "admin_name": "Moyen-Ogooué",
+    "lat": "-0.3329",
+    "lng": "10.3832",
+    "id": "1266655418"
+  },
+  {
+    "city": "Gamba",
+    "city_ascii": "Gamba",
+    "admin_name": "Ogooué-Maritime",
+    "lat": "-2.6500",
+    "lng": "10.0000",
+    "id": "1266236988"
+  }
+]

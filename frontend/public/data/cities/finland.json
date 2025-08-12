@@ -1,0 +1,1058 @@
+[
+  {
+    "city": "Helsinki",
+    "city_ascii": "Helsinki",
+    "admin_name": "Uusimaa",
+    "lat": "60.1708",
+    "lng": "24.9375",
+    "id": "1246177997"
+  },
+  {
+    "city": "Tampere",
+    "city_ascii": "Tampere",
+    "admin_name": "Pirkanmaa",
+    "lat": "61.4981",
+    "lng": "23.7600",
+    "id": "1246964318"
+  },
+  {
+    "city": "Espoo",
+    "city_ascii": "Espoo",
+    "admin_name": "Uusimaa",
+    "lat": "60.2056",
+    "lng": "24.6556",
+    "id": "1246357316"
+  },
+  {
+    "city": "Vantaa",
+    "city_ascii": "Vantaa",
+    "admin_name": "Uusimaa",
+    "lat": "60.2944",
+    "lng": "25.0403",
+    "id": "1246957545"
+  },
+  {
+    "city": "Oulu",
+    "city_ascii": "Oulu",
+    "admin_name": "Pohjois-Pohjanmaa",
+    "lat": "65.0142",
+    "lng": "25.4719",
+    "id": "1246093273"
+  },
+  {
+    "city": "Turku",
+    "city_ascii": "Turku",
+    "admin_name": "Varsinais-Suomi",
+    "lat": "60.4517",
+    "lng": "22.2669",
+    "id": "1246456609"
+  },
+  {
+    "city": "Jyväskylä",
+    "city_ascii": "Jyvaskyla",
+    "admin_name": "Keski-Suomi",
+    "lat": "62.2417",
+    "lng": "25.7417",
+    "id": "1246938345"
+  },
+  {
+    "city": "Kuopio",
+    "city_ascii": "Kuopio",
+    "admin_name": "Pohjois-Savo",
+    "lat": "62.8925",
+    "lng": "27.6783",
+    "id": "1246334067"
+  },
+  {
+    "city": "Lahti",
+    "city_ascii": "Lahti",
+    "admin_name": "Päijät-Häme",
+    "lat": "60.9833",
+    "lng": "25.6500",
+    "id": "1246538847"
+  },
+  {
+    "city": "Pori",
+    "city_ascii": "Pori",
+    "admin_name": "Satakunta",
+    "lat": "61.4833",
+    "lng": "21.8000",
+    "id": "1246259412"
+  },
+  {
+    "city": "Kouvola",
+    "city_ascii": "Kouvola",
+    "admin_name": "Kymenlaakso",
+    "lat": "60.8681",
+    "lng": "26.7042",
+    "id": "1246167296"
+  },
+  {
+    "city": "Joensuu",
+    "city_ascii": "Joensuu",
+    "admin_name": "Pohjois-Karjala",
+    "lat": "62.6000",
+    "lng": "29.7500",
+    "id": "1246489056"
+  },
+  {
+    "city": "Lappeenranta",
+    "city_ascii": "Lappeenranta",
+    "admin_name": "Etelä-Karjala",
+    "lat": "61.0667",
+    "lng": "28.1833",
+    "id": "1246492910"
+  },
+  {
+    "city": "Vaasa",
+    "city_ascii": "Vaasa",
+    "admin_name": "Pohjanmaa",
+    "lat": "63.1000",
+    "lng": "21.6167",
+    "id": "1246734710"
+  },
+  {
+    "city": "Hämeenlinna",
+    "city_ascii": "Hameenlinna",
+    "admin_name": "Kanta-Häme",
+    "lat": "60.9944",
+    "lng": "24.4667",
+    "id": "1246026891"
+  },
+  {
+    "city": "Seinäjoki",
+    "city_ascii": "Seinajoki",
+    "admin_name": "Etelä-Pohjanmaa",
+    "lat": "62.7917",
+    "lng": "22.8417",
+    "id": "1246118146"
+  },
+  {
+    "city": "Rovaniemi",
+    "city_ascii": "Rovaniemi",
+    "admin_name": "Lappi",
+    "lat": "66.5000",
+    "lng": "25.7333",
+    "id": "1246718173"
+  },
+  {
+    "city": "Mikkeli",
+    "city_ascii": "Mikkeli",
+    "admin_name": "Etelä-Savo",
+    "lat": "61.6890",
+    "lng": "27.2720",
+    "id": "1246875185"
+  },
+  {
+    "city": "Porvoo",
+    "city_ascii": "Porvoo",
+    "admin_name": "Uusimaa",
+    "lat": "60.3944",
+    "lng": "25.6639",
+    "id": "1246277728"
+  },
+  {
+    "city": "Salo",
+    "city_ascii": "Salo",
+    "admin_name": "Varsinais-Suomi",
+    "lat": "60.3861",
+    "lng": "23.1250",
+    "id": "1246750581"
+  },
+  {
+    "city": "Kotka",
+    "city_ascii": "Kotka",
+    "admin_name": "Kymenlaakso",
+    "lat": "60.4667",
+    "lng": "26.9417",
+    "id": "1246200320"
+  },
+  {
+    "city": "Kokkola",
+    "city_ascii": "Kokkola",
+    "admin_name": "Keski-Pohjanmaa",
+    "lat": "63.8367",
+    "lng": "23.1333",
+    "id": "1246041998"
+  },
+  {
+    "city": "Hyvinkää",
+    "city_ascii": "Hyvinkaa",
+    "admin_name": "Uusimaa",
+    "lat": "60.6333",
+    "lng": "24.8500",
+    "id": "1246789945"
+  },
+  {
+    "city": "Järvenpää",
+    "city_ascii": "Jarvenpaa",
+    "admin_name": "Uusimaa",
+    "lat": "60.4750",
+    "lng": "25.0917",
+    "id": "1246825863"
+  },
+  {
+    "city": "Lohja",
+    "city_ascii": "Lohja",
+    "admin_name": "Uusimaa",
+    "lat": "60.2500",
+    "lng": "24.0667",
+    "id": "1246687472"
+  },
+  {
+    "city": "Nurmijärvi",
+    "city_ascii": "Nurmijarvi",
+    "admin_name": "Uusimaa",
+    "lat": "60.4667",
+    "lng": "24.8083",
+    "id": "1246678771"
+  },
+  {
+    "city": "Tuusula",
+    "city_ascii": "Tuusula",
+    "admin_name": "Uusimaa",
+    "lat": "60.4333",
+    "lng": "25.0500",
+    "id": "1246218223"
+  },
+  {
+    "city": "Kirkkonummi",
+    "city_ascii": "Kirkkonummi",
+    "admin_name": "Uusimaa",
+    "lat": "60.1167",
+    "lng": "24.4333",
+    "id": "1246425379"
+  },
+  {
+    "city": "Rauma",
+    "city_ascii": "Rauma",
+    "admin_name": "Satakunta",
+    "lat": "61.1333",
+    "lng": "21.5000",
+    "id": "1246262958"
+  },
+  {
+    "city": "Kerava",
+    "city_ascii": "Kerava",
+    "admin_name": "Uusimaa",
+    "lat": "60.4000",
+    "lng": "25.1000",
+    "id": "1246221274"
+  },
+  {
+    "city": "Kajaani",
+    "city_ascii": "Kajaani",
+    "admin_name": "Kainuu",
+    "lat": "64.2311",
+    "lng": "27.7194",
+    "id": "1246377765"
+  },
+  {
+    "city": "Kaarina",
+    "city_ascii": "Kaarina",
+    "admin_name": "Varsinais-Suomi",
+    "lat": "60.4000",
+    "lng": "22.3667",
+    "id": "1246381646"
+  },
+  {
+    "city": "Nokia",
+    "city_ascii": "Nokia",
+    "admin_name": "Pirkanmaa",
+    "lat": "61.4767",
+    "lng": "23.5053",
+    "id": "1246560498"
+  },
+  {
+    "city": "Ylöjärvi",
+    "city_ascii": "Ylojarvi",
+    "admin_name": "Pirkanmaa",
+    "lat": "61.5500",
+    "lng": "23.5833",
+    "id": "1246651024"
+  },
+  {
+    "city": "Kangasala",
+    "city_ascii": "Kangasala",
+    "admin_name": "Pirkanmaa",
+    "lat": "61.4667",
+    "lng": "24.0667",
+    "id": "1246606231"
+  },
+  {
+    "city": "Jyväskylän Maalaiskunta",
+    "city_ascii": "Jyvaskylan Maalaiskunta",
+    "admin_name": "Keski-Suomi",
+    "lat": "62.2889",
+    "lng": "25.7417",
+    "id": "1246861694"
+  },
+  {
+    "city": "Savonlinna",
+    "city_ascii": "Savonlinna",
+    "admin_name": "Etelä-Savo",
+    "lat": "61.8681",
+    "lng": "28.8861",
+    "id": "1246948647"
+  },
+  {
+    "city": "Vihti",
+    "city_ascii": "Vihti",
+    "admin_name": "Uusimaa",
+    "lat": "60.4167",
+    "lng": "24.3167",
+    "id": "1246687261"
+  },
+  {
+    "city": "Riihimäki",
+    "city_ascii": "Riihimaki",
+    "admin_name": "Kanta-Häme",
+    "lat": "60.7333",
+    "lng": "24.7667",
+    "id": "1246263977"
+  },
+  {
+    "city": "Raseborg",
+    "city_ascii": "Raseborg",
+    "admin_name": "Uusimaa",
+    "lat": "59.9750",
+    "lng": "23.4333",
+    "id": "1246414831"
+  },
+  {
+    "city": "Raisio",
+    "city_ascii": "Raisio",
+    "admin_name": "Varsinais-Suomi",
+    "lat": "60.4858",
+    "lng": "22.1692",
+    "id": "1246206941"
+  },
+  {
+    "city": "Imatra",
+    "city_ascii": "Imatra",
+    "admin_name": "Etelä-Karjala",
+    "lat": "61.1833",
+    "lng": "28.7667",
+    "id": "1246114111"
+  },
+  {
+    "city": "Lempäälä",
+    "city_ascii": "Lempaala",
+    "admin_name": "Pirkanmaa",
+    "lat": "61.3167",
+    "lng": "23.7500",
+    "id": "1246708138"
+  },
+  {
+    "city": "Raahe",
+    "city_ascii": "Raahe",
+    "admin_name": "Pohjois-Pohjanmaa",
+    "lat": "64.6833",
+    "lng": "24.4667",
+    "id": "1246712185"
+  },
+  {
+    "city": "Sastamala",
+    "city_ascii": "Sastamala",
+    "admin_name": "Pirkanmaa",
+    "lat": "61.3417",
+    "lng": "22.9083",
+    "id": "1246526086"
+  },
+  {
+    "city": "Hollola",
+    "city_ascii": "Hollola",
+    "admin_name": "Päijät-Häme",
+    "lat": "60.9867",
+    "lng": "25.5167",
+    "id": "1246266596"
+  },
+  {
+    "city": "Sipoo",
+    "city_ascii": "Sipoo",
+    "admin_name": "Uusimaa",
+    "lat": "60.3750",
+    "lng": "25.2667",
+    "id": "1246836049"
+  },
+  {
+    "city": "Siilinjärvi",
+    "city_ascii": "Siilinjarvi",
+    "admin_name": "Pohjois-Savo",
+    "lat": "63.0750",
+    "lng": "27.6600",
+    "id": "1246336548"
+  },
+  {
+    "city": "Klaukkala",
+    "city_ascii": "Klaukkala",
+    "admin_name": "Uusimaa",
+    "lat": "60.3820",
+    "lng": "24.7492",
+    "id": "1246435222"
+  },
+  {
+    "city": "Tornio",
+    "city_ascii": "Tornio",
+    "admin_name": "Lappi",
+    "lat": "65.8500",
+    "lng": "24.1500",
+    "id": "1246209112"
+  },
+  {
+    "city": "Mäntsälä",
+    "city_ascii": "Mantsala",
+    "admin_name": "Uusimaa",
+    "lat": "60.6361",
+    "lng": "25.3194",
+    "id": "1246340286"
+  },
+  {
+    "city": "Pirkkala",
+    "city_ascii": "Pirkkala",
+    "admin_name": "Pirkanmaa",
+    "lat": "61.4667",
+    "lng": "23.6500",
+    "id": "1246586300"
+  },
+  {
+    "city": "Valkeakoski",
+    "city_ascii": "Valkeakoski",
+    "admin_name": "Pirkanmaa",
+    "lat": "61.2667",
+    "lng": "24.0333",
+    "id": "1246028934"
+  },
+  {
+    "city": "Lieto",
+    "city_ascii": "Lieto",
+    "admin_name": "Varsinais-Suomi",
+    "lat": "60.5050",
+    "lng": "22.4583",
+    "id": "1246293271"
+  },
+  {
+    "city": "Iisalmi",
+    "city_ascii": "Iisalmi",
+    "admin_name": "Pohjois-Savo",
+    "lat": "63.5567",
+    "lng": "27.1883",
+    "id": "1246230947"
+  },
+  {
+    "city": "Naantali",
+    "city_ascii": "Naantali",
+    "admin_name": "Varsinais-Suomi",
+    "lat": "60.4667",
+    "lng": "22.0333",
+    "id": "1246881232"
+  },
+  {
+    "city": "Kuusankoski",
+    "city_ascii": "Kuusankoski",
+    "admin_name": "Kymenlaakso",
+    "lat": "60.9083",
+    "lng": "26.6236",
+    "id": "1246302102"
+  },
+  {
+    "city": "Korsholm",
+    "city_ascii": "Korsholm",
+    "admin_name": "Pohjanmaa",
+    "lat": "63.1125",
+    "lng": "21.6778",
+    "id": "1246225569"
+  },
+  {
+    "city": "Kurikka",
+    "city_ascii": "Kurikka",
+    "admin_name": "Etelä-Pohjanmaa",
+    "lat": "62.6167",
+    "lng": "22.4000",
+    "id": "1246688374"
+  },
+  {
+    "city": "Varkaus",
+    "city_ascii": "Varkaus",
+    "admin_name": "Pohjois-Savo",
+    "lat": "62.3167",
+    "lng": "27.8917",
+    "id": "1246449573"
+  },
+  {
+    "city": "Hamina",
+    "city_ascii": "Hamina",
+    "admin_name": "Kymenlaakso",
+    "lat": "60.5667",
+    "lng": "27.2000",
+    "id": "1246729258"
+  },
+  {
+    "city": "Kempele",
+    "city_ascii": "Kempele",
+    "admin_name": "Pohjois-Pohjanmaa",
+    "lat": "64.9125",
+    "lng": "25.5083",
+    "id": "1246739287"
+  },
+  {
+    "city": "Jakobstad",
+    "city_ascii": "Jakobstad",
+    "admin_name": "Pohjanmaa",
+    "lat": "63.6667",
+    "lng": "22.7000",
+    "id": "1246775062"
+  },
+  {
+    "city": "Kemi",
+    "city_ascii": "Kemi",
+    "admin_name": "Lappi",
+    "lat": "65.7361",
+    "lng": "24.5636",
+    "id": "1246411843"
+  },
+  {
+    "city": "Jämsä",
+    "city_ascii": "Jamsa",
+    "admin_name": "Keski-Suomi",
+    "lat": "61.8667",
+    "lng": "25.1833",
+    "id": "1246902464"
+  },
+  {
+    "city": "Haukipudas",
+    "city_ascii": "Haukipudas",
+    "admin_name": "Pohjois-Pohjanmaa",
+    "lat": "65.1833",
+    "lng": "25.3500",
+    "id": "1246294051"
+  },
+  {
+    "city": "Laukaa",
+    "city_ascii": "Laukaa",
+    "admin_name": "Keski-Suomi",
+    "lat": "62.4167",
+    "lng": "25.9500",
+    "id": "1246056174"
+  },
+  {
+    "city": "Äänekoski",
+    "city_ascii": "Aanekoski",
+    "admin_name": "Keski-Suomi",
+    "lat": "62.6000",
+    "lng": "25.7250",
+    "id": "1246710490"
+  },
+  {
+    "city": "Heinola",
+    "city_ascii": "Heinola",
+    "admin_name": "Päijät-Häme",
+    "lat": "61.2000",
+    "lng": "26.0333",
+    "id": "1246846423"
+  },
+  {
+    "city": "Pieksämäki",
+    "city_ascii": "Pieksamaki",
+    "admin_name": "Etelä-Savo",
+    "lat": "62.3003",
+    "lng": "27.1642",
+    "id": "1246171745"
+  },
+  {
+    "city": "Vammala",
+    "city_ascii": "Vammala",
+    "admin_name": "Pirkanmaa",
+    "lat": "61.3417",
+    "lng": "22.9083",
+    "id": "1246493883"
+  },
+  {
+    "city": "Forssa",
+    "city_ascii": "Forssa",
+    "admin_name": "Kanta-Häme",
+    "lat": "60.8167",
+    "lng": "23.6250",
+    "id": "1246156595"
+  },
+  {
+    "city": "Pielisjärvi",
+    "city_ascii": "Pielisjarvi",
+    "admin_name": "Pohjois-Karjala",
+    "lat": "63.3000",
+    "lng": "30.0500",
+    "id": "1246863535"
+  },
+  {
+    "city": "Janakkala",
+    "city_ascii": "Janakkala",
+    "admin_name": "Kanta-Häme",
+    "lat": "60.9167",
+    "lng": "24.6500",
+    "id": "1246767263"
+  },
+  {
+    "city": "Orimattila",
+    "city_ascii": "Orimattila",
+    "admin_name": "Päijät-Häme",
+    "lat": "60.8042",
+    "lng": "25.7333",
+    "id": "1246385500"
+  },
+  {
+    "city": "Loimaa",
+    "city_ascii": "Loimaa",
+    "admin_name": "Varsinais-Suomi",
+    "lat": "60.8500",
+    "lng": "23.0583",
+    "id": "1246923432"
+  },
+  {
+    "city": "Ylivieska",
+    "city_ascii": "Ylivieska",
+    "admin_name": "Pohjois-Pohjanmaa",
+    "lat": "64.0750",
+    "lng": "24.5333",
+    "id": "1246367983"
+  },
+  {
+    "city": "Sippola",
+    "city_ascii": "Sippola",
+    "admin_name": "Kymenlaakso",
+    "lat": "60.7392",
+    "lng": "27.0003",
+    "id": "1246444349"
+  },
+  {
+    "city": "Kauhava",
+    "city_ascii": "Kauhava",
+    "admin_name": "Etelä-Pohjanmaa",
+    "lat": "63.1000",
+    "lng": "23.0667",
+    "id": "1246180633"
+  },
+  {
+    "city": "Kontiolahti",
+    "city_ascii": "Kontiolahti",
+    "admin_name": "Pohjois-Karjala",
+    "lat": "62.7667",
+    "lng": "29.8500",
+    "id": "1246150764"
+  },
+  {
+    "city": "Kuusamo",
+    "city_ascii": "Kuusamo",
+    "admin_name": "Pohjois-Pohjanmaa",
+    "lat": "65.9667",
+    "lng": "29.1833",
+    "id": "1246292850"
+  },
+  {
+    "city": "Uusikaupunki",
+    "city_ascii": "Uusikaupunki",
+    "admin_name": "Varsinais-Suomi",
+    "lat": "60.8000",
+    "lng": "21.4167",
+    "id": "1246110587"
+  },
+  {
+    "city": "Nastola",
+    "city_ascii": "Nastola",
+    "admin_name": "Päijät-Häme",
+    "lat": "60.9500",
+    "lng": "25.9333",
+    "id": "1246731228"
+  },
+  {
+    "city": "Loviisa",
+    "city_ascii": "Loviisa",
+    "admin_name": "Uusimaa",
+    "lat": "60.4583",
+    "lng": "26.2333",
+    "id": "1246944790"
+  },
+  {
+    "city": "Lapua",
+    "city_ascii": "Lapua",
+    "admin_name": "Etelä-Pohjanmaa",
+    "lat": "62.9700",
+    "lng": "23.0083",
+    "id": "1246396654"
+  },
+  {
+    "city": "Kiiminki",
+    "city_ascii": "Kiiminki",
+    "admin_name": "Pohjois-Pohjanmaa",
+    "lat": "65.1333",
+    "lng": "25.7750",
+    "id": "1246609687"
+  },
+  {
+    "city": "Kauhajoki",
+    "city_ascii": "Kauhajoki",
+    "admin_name": "Etelä-Pohjanmaa",
+    "lat": "62.4319",
+    "lng": "22.1794",
+    "id": "1246101648"
+  },
+  {
+    "city": "Ulvila",
+    "city_ascii": "Ulvila",
+    "admin_name": "Satakunta",
+    "lat": "61.4325",
+    "lng": "21.8825",
+    "id": "1246357042"
+  },
+  {
+    "city": "Kankaanpää",
+    "city_ascii": "Kankaanpaa",
+    "admin_name": "Satakunta",
+    "lat": "61.8000",
+    "lng": "22.4000",
+    "id": "1246054276"
+  },
+  {
+    "city": "Kalajoki",
+    "city_ascii": "Kalajoki",
+    "admin_name": "Pohjois-Pohjanmaa",
+    "lat": "64.2667",
+    "lng": "23.9500",
+    "id": "1246746115"
+  },
+  {
+    "city": "Ilmajoki",
+    "city_ascii": "Ilmajoki",
+    "admin_name": "Etelä-Pohjanmaa",
+    "lat": "62.7333",
+    "lng": "22.5833",
+    "id": "1246721686"
+  },
+  {
+    "city": "Pargas",
+    "city_ascii": "Pargas",
+    "admin_name": "Varsinais-Suomi",
+    "lat": "60.3000",
+    "lng": "22.3000",
+    "id": "1246990890"
+  },
+  {
+    "city": "Mikkelin Maalaiskunta",
+    "city_ascii": "Mikkelin Maalaiskunta",
+    "admin_name": "Etelä-Savo",
+    "lat": "61.6776",
+    "lng": "27.2021",
+    "id": "1246254997"
+  },
+  {
+    "city": "Liperi",
+    "city_ascii": "Liperi",
+    "admin_name": "Pohjois-Karjala",
+    "lat": "62.5333",
+    "lng": "29.3833",
+    "id": "1246184654"
+  },
+  {
+    "city": "Vehkalahti",
+    "city_ascii": "Vehkalahti",
+    "admin_name": "Kymenlaakso",
+    "lat": "60.5756",
+    "lng": "27.1439",
+    "id": "1246542463"
+  },
+  {
+    "city": "Mariehamn",
+    "city_ascii": "Mariehamn",
+    "admin_name": "Åland",
+    "lat": "60.1000",
+    "lng": "19.9333",
+    "id": "1246614476"
+  },
+  {
+    "city": "Sääminki",
+    "city_ascii": "Saaminki",
+    "admin_name": "Etelä-Savo",
+    "lat": "61.8675",
+    "lng": "28.8786",
+    "id": "1246566624"
+  },
+  {
+    "city": "Paimio",
+    "city_ascii": "Paimio",
+    "admin_name": "Varsinais-Suomi",
+    "lat": "60.4500",
+    "lng": "22.7000",
+    "id": "1246967951"
+  },
+  {
+    "city": "Pedersöre",
+    "city_ascii": "Pedersore",
+    "admin_name": "Pohjanmaa",
+    "lat": "63.6642",
+    "lng": "22.7006",
+    "id": "1246231936"
+  },
+  {
+    "city": "Valkeala",
+    "city_ascii": "Valkeala",
+    "admin_name": "Kymenlaakso",
+    "lat": "60.9389",
+    "lng": "26.7972",
+    "id": "1246894132"
+  },
+  {
+    "city": "Eura",
+    "city_ascii": "Eura",
+    "admin_name": "Satakunta",
+    "lat": "61.1333",
+    "lng": "22.1333",
+    "id": "1246784292"
+  },
+  {
+    "city": "Alavus",
+    "city_ascii": "Alavus",
+    "admin_name": "Etelä-Pohjanmaa",
+    "lat": "62.5917",
+    "lng": "23.6167",
+    "id": "1246444159"
+  },
+  {
+    "city": "Nurmo",
+    "city_ascii": "Nurmo",
+    "admin_name": "Etelä-Pohjanmaa",
+    "lat": "62.8278",
+    "lng": "22.9083",
+    "id": "1246405413"
+  },
+  {
+    "city": "Kivistö",
+    "city_ascii": "Kivisto",
+    "admin_name": "Uusimaa",
+    "lat": "60.3236",
+    "lng": "24.8453",
+    "id": "1246650293"
+  },
+  {
+    "city": "Joutseno",
+    "city_ascii": "Joutseno",
+    "admin_name": "Etelä-Karjala",
+    "lat": "61.1230",
+    "lng": "28.5015",
+    "id": "1246814717"
+  },
+  {
+    "city": "Muurame",
+    "city_ascii": "Muurame",
+    "admin_name": "Keski-Suomi",
+    "lat": "62.1333",
+    "lng": "25.6750",
+    "id": "1246611594"
+  },
+  {
+    "city": "Nivala",
+    "city_ascii": "Nivala",
+    "admin_name": "Pohjois-Pohjanmaa",
+    "lat": "63.9250",
+    "lng": "24.9750",
+    "id": "1246609695"
+  },
+  {
+    "city": "Hämeenkyrö",
+    "city_ascii": "Hameenkyro",
+    "admin_name": "Pirkanmaa",
+    "lat": "61.6333",
+    "lng": "23.2000",
+    "id": "1246915870"
+  },
+  {
+    "city": "Sotkamo",
+    "city_ascii": "Sotkamo",
+    "admin_name": "Kainuu",
+    "lat": "64.1333",
+    "lng": "28.3833",
+    "id": "1246600504"
+  },
+  {
+    "city": "Kauniainen",
+    "city_ascii": "Kauniainen",
+    "admin_name": "Uusimaa",
+    "lat": "60.2167",
+    "lng": "24.7333",
+    "id": "1246749773"
+  },
+  {
+    "city": "Liminka",
+    "city_ascii": "Liminka",
+    "admin_name": "Pohjois-Pohjanmaa",
+    "lat": "64.8083",
+    "lng": "25.4167",
+    "id": "1246654014"
+  },
+  {
+    "city": "Lieksa",
+    "city_ascii": "Lieksa",
+    "admin_name": "Pohjois-Karjala",
+    "lat": "63.3167",
+    "lng": "30.0167",
+    "id": "1246128959"
+  },
+  {
+    "city": "Oulunsalo",
+    "city_ascii": "Oulunsalo",
+    "admin_name": "Pohjois-Pohjanmaa",
+    "lat": "64.9333",
+    "lng": "25.4167",
+    "id": "1246091710"
+  },
+  {
+    "city": "Ii",
+    "city_ascii": "Ii",
+    "admin_name": "Pohjois-Pohjanmaa",
+    "lat": "65.3167",
+    "lng": "25.3667",
+    "id": "1246489328"
+  },
+  {
+    "city": "Kitee",
+    "city_ascii": "Kitee",
+    "admin_name": "Pohjois-Karjala",
+    "lat": "62.1000",
+    "lng": "30.1333",
+    "id": "1246458844"
+  },
+  {
+    "city": "Huittinen",
+    "city_ascii": "Huittinen",
+    "admin_name": "Satakunta",
+    "lat": "61.1750",
+    "lng": "22.7000",
+    "id": "1246269907"
+  },
+  {
+    "city": "Närpes",
+    "city_ascii": "Narpes",
+    "admin_name": "Pohjanmaa",
+    "lat": "62.4667",
+    "lng": "21.3333",
+    "id": "1246805566"
+  },
+  {
+    "city": "Masku",
+    "city_ascii": "Masku",
+    "admin_name": "Varsinais-Suomi",
+    "lat": "60.5667",
+    "lng": "22.1000",
+    "id": "1246315542"
+  },
+  {
+    "city": "Keuruu",
+    "city_ascii": "Keuruu",
+    "admin_name": "Keski-Suomi",
+    "lat": "62.2583",
+    "lng": "24.7083",
+    "id": "1246102142"
+  },
+  {
+    "city": "Karis",
+    "city_ascii": "Karis",
+    "admin_name": "Uusimaa",
+    "lat": "60.0708",
+    "lng": "23.6625",
+    "id": "1246155619"
+  },
+  {
+    "city": "Eurajoki",
+    "city_ascii": "Eurajoki",
+    "admin_name": "Satakunta",
+    "lat": "61.2000",
+    "lng": "21.7333",
+    "id": "1246054353"
+  },
+  {
+    "city": "Nurmes",
+    "city_ascii": "Nurmes",
+    "admin_name": "Pohjois-Karjala",
+    "lat": "63.5450",
+    "lng": "29.1333",
+    "id": "1246620108"
+  },
+  {
+    "city": "Alajärvi",
+    "city_ascii": "Alajarvi",
+    "admin_name": "Etelä-Pohjanmaa",
+    "lat": "63.0000",
+    "lng": "23.8167",
+    "id": "1246799974"
+  },
+  {
+    "city": "Leppävirta",
+    "city_ascii": "Leppavirta",
+    "admin_name": "Pohjois-Savo",
+    "lat": "62.5000",
+    "lng": "27.7833",
+    "id": "1246237547"
+  },
+  {
+    "city": "Lapinlahti",
+    "city_ascii": "Lapinlahti",
+    "admin_name": "Pohjois-Savo",
+    "lat": "63.3667",
+    "lng": "27.3833",
+    "id": "1246095473"
+  },
+  {
+    "city": "Halikko",
+    "city_ascii": "Halikko",
+    "admin_name": "Varsinais-Suomi",
+    "lat": "60.3972",
+    "lng": "23.0778",
+    "id": "1246263188"
+  },
+  {
+    "city": "Saarijärvi",
+    "city_ascii": "Saarijarvi",
+    "admin_name": "Keski-Suomi",
+    "lat": "62.7050",
+    "lng": "25.2583",
+    "id": "1246361506"
+  },
+  {
+    "city": "Orivesi",
+    "city_ascii": "Orivesi",
+    "admin_name": "Pirkanmaa",
+    "lat": "61.6750",
+    "lng": "24.3583",
+    "id": "1246191762"
+  },
+  {
+    "city": "Muhos",
+    "city_ascii": "Muhos",
+    "admin_name": "Pohjois-Pohjanmaa",
+    "lat": "64.8000",
+    "lng": "26.0000",
+    "id": "1246245450"
+  },
+  {
+    "city": "Karkkila",
+    "city_ascii": "Karkkila",
+    "admin_name": "Uusimaa",
+    "lat": "60.5333",
+    "lng": "24.2167",
+    "id": "1246261386"
+  },
+  {
+    "city": "Sodankylä",
+    "city_ascii": "Sodankyla",
+    "admin_name": "Lappi",
+    "lat": "67.4167",
+    "lng": "26.5833",
+    "id": "1246413171"
+  },
+  {
+    "city": "Kemijärvi",
+    "city_ascii": "Kemijarvi",
+    "admin_name": "Lappi",
+    "lat": "66.7167",
+    "lng": "27.4333",
+    "id": "1246358285"
+  }
+]

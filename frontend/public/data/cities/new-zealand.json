@@ -1,0 +1,466 @@
+[
+  {
+    "city": "Auckland",
+    "city_ascii": "Auckland",
+    "admin_name": "Auckland",
+    "lat": "-36.8492",
+    "lng": "174.7653",
+    "id": "1554435911"
+  },
+  {
+    "city": "Christchurch",
+    "city_ascii": "Christchurch",
+    "admin_name": "Canterbury",
+    "lat": "-43.5311",
+    "lng": "172.6361",
+    "id": "1554377228"
+  },
+  {
+    "city": "Wellington",
+    "city_ascii": "Wellington",
+    "admin_name": "Wellington",
+    "lat": "-41.2889",
+    "lng": "174.7772",
+    "id": "1554772152"
+  },
+  {
+    "city": "Northcote",
+    "city_ascii": "Northcote",
+    "admin_name": "Auckland",
+    "lat": "-36.8019",
+    "lng": "174.7494",
+    "id": "1554717659"
+  },
+  {
+    "city": "Hamilton",
+    "city_ascii": "Hamilton",
+    "admin_name": "Waikato",
+    "lat": "-37.7833",
+    "lng": "175.2833",
+    "id": "1554873040"
+  },
+  {
+    "city": "Tauranga",
+    "city_ascii": "Tauranga",
+    "admin_name": "Bay of Plenty",
+    "lat": "-37.6858",
+    "lng": "176.1667",
+    "id": "1554759867"
+  },
+  {
+    "city": "Lower Hutt",
+    "city_ascii": "Lower Hutt",
+    "admin_name": "Wellington",
+    "lat": "-41.2167",
+    "lng": "174.9167",
+    "id": "1554623632"
+  },
+  {
+    "city": "Palmerston North",
+    "city_ascii": "Palmerston North",
+    "admin_name": "Manawatu-Wanganui",
+    "lat": "-40.3549",
+    "lng": "175.6095",
+    "id": "1554138183"
+  },
+  {
+    "city": "Napier",
+    "city_ascii": "Napier",
+    "admin_name": "Hawke’s Bay",
+    "lat": "-39.4903",
+    "lng": "176.9178",
+    "id": "1554064936"
+  },
+  {
+    "city": "New Plymouth",
+    "city_ascii": "New Plymouth",
+    "admin_name": "Taranaki",
+    "lat": "-39.0578",
+    "lng": "174.0742",
+    "id": "1554939405"
+  },
+  {
+    "city": "Porirua",
+    "city_ascii": "Porirua",
+    "admin_name": "Wellington",
+    "lat": "-41.1333",
+    "lng": "174.8500",
+    "id": "1554561880"
+  },
+  {
+    "city": "Rotorua",
+    "city_ascii": "Rotorua",
+    "admin_name": "Bay of Plenty",
+    "lat": "-38.1378",
+    "lng": "176.2514",
+    "id": "1554000379"
+  },
+  {
+    "city": "Whangarei",
+    "city_ascii": "Whangarei",
+    "admin_name": "Northland",
+    "lat": "-35.7250",
+    "lng": "174.3236",
+    "id": "1554000636"
+  },
+  {
+    "city": "Invercargill",
+    "city_ascii": "Invercargill",
+    "admin_name": "Southland",
+    "lat": "-46.4290",
+    "lng": "168.3620",
+    "id": "1554148942"
+  },
+  {
+    "city": "Nelson",
+    "city_ascii": "Nelson",
+    "admin_name": "Nelson",
+    "lat": "-41.2931",
+    "lng": "173.2381",
+    "id": "1554017097"
+  },
+  {
+    "city": "Upper Hutt",
+    "city_ascii": "Upper Hutt",
+    "admin_name": "Wellington",
+    "lat": "-41.1333",
+    "lng": "175.0500",
+    "id": "1554000042"
+  },
+  {
+    "city": "Whanganui",
+    "city_ascii": "Whanganui",
+    "admin_name": "Manawatu-Wanganui",
+    "lat": "-39.9325",
+    "lng": "175.0519",
+    "id": "1554827998"
+  },
+  {
+    "city": "Dunedin",
+    "city_ascii": "Dunedin",
+    "admin_name": "Otago",
+    "lat": "-45.8742",
+    "lng": "170.5036",
+    "id": "1554475997"
+  },
+  {
+    "city": "Gisborne",
+    "city_ascii": "Gisborne",
+    "admin_name": "Gisborne",
+    "lat": "-38.6625",
+    "lng": "178.0178",
+    "id": "1554359840"
+  },
+  {
+    "city": "Paraparaumu",
+    "city_ascii": "Paraparaumu",
+    "admin_name": "Wellington",
+    "lat": "-40.9144",
+    "lng": "175.0056",
+    "id": "1554166459"
+  },
+  {
+    "city": "Timaru",
+    "city_ascii": "Timaru",
+    "admin_name": "Canterbury",
+    "lat": "-44.3931",
+    "lng": "171.2508",
+    "id": "1554243304"
+  },
+  {
+    "city": "Blenheim",
+    "city_ascii": "Blenheim",
+    "admin_name": "Marlborough",
+    "lat": "-41.5167",
+    "lng": "173.9500",
+    "id": "1554001426"
+  },
+  {
+    "city": "Taupo",
+    "city_ascii": "Taupo",
+    "admin_name": "Waikato",
+    "lat": "-38.6900",
+    "lng": "176.0800",
+    "id": "1554654784"
+  },
+  {
+    "city": "Masterton",
+    "city_ascii": "Masterton",
+    "admin_name": "Wellington",
+    "lat": "-40.9667",
+    "lng": "175.6500",
+    "id": "1554641049"
+  },
+  {
+    "city": "Cambridge",
+    "city_ascii": "Cambridge",
+    "admin_name": "Waikato",
+    "lat": "-37.8833",
+    "lng": "175.4667",
+    "id": "1554000848"
+  },
+  {
+    "city": "Feilding",
+    "city_ascii": "Feilding",
+    "admin_name": "Manawatu-Wanganui",
+    "lat": "-40.2250",
+    "lng": "175.5650",
+    "id": "1554000257"
+  },
+  {
+    "city": "Ashton",
+    "city_ascii": "Ashton",
+    "admin_name": "Canterbury",
+    "lat": "-44.0330",
+    "lng": "171.7720",
+    "id": "1554784264"
+  },
+  {
+    "city": "Levin",
+    "city_ascii": "Levin",
+    "admin_name": "Manawatu-Wanganui",
+    "lat": "-40.6333",
+    "lng": "175.2750",
+    "id": "1554983635"
+  },
+  {
+    "city": "Whakatane",
+    "city_ascii": "Whakatane",
+    "admin_name": "Bay of Plenty",
+    "lat": "-37.9640",
+    "lng": "176.9840",
+    "id": "1554253729"
+  },
+  {
+    "city": "Macetown",
+    "city_ascii": "Macetown",
+    "admin_name": "Otago",
+    "lat": "-44.8650",
+    "lng": "168.8190",
+    "id": "1554582165"
+  },
+  {
+    "city": "Rolleston",
+    "city_ascii": "Rolleston",
+    "admin_name": "Canterbury",
+    "lat": "-43.5960",
+    "lng": "172.3830",
+    "id": "1554176166"
+  },
+  {
+    "city": "Richmond",
+    "city_ascii": "Richmond",
+    "admin_name": "Tasman",
+    "lat": "-41.3333",
+    "lng": "173.1833",
+    "id": "1554001427"
+  },
+  {
+    "city": "Havelock North",
+    "city_ascii": "Havelock North",
+    "admin_name": "Hawke’s Bay",
+    "lat": "-39.6667",
+    "lng": "176.8833",
+    "id": "1554193593"
+  },
+  {
+    "city": "Tokoroa",
+    "city_ascii": "Tokoroa",
+    "admin_name": "Waikato",
+    "lat": "-38.2200",
+    "lng": "175.8720",
+    "id": "1554951529"
+  },
+  {
+    "city": "Mosgiel",
+    "city_ascii": "Mosgiel",
+    "admin_name": "Otago",
+    "lat": "-45.8750",
+    "lng": "170.3480",
+    "id": "1554341062"
+  },
+  {
+    "city": "Te Awamutu",
+    "city_ascii": "Te Awamutu",
+    "admin_name": "Waikato",
+    "lat": "-38.0083",
+    "lng": "175.3250",
+    "id": "1554001222"
+  },
+  {
+    "city": "Waikanae",
+    "city_ascii": "Waikanae",
+    "admin_name": "Wellington",
+    "lat": "-40.8760",
+    "lng": "175.0640",
+    "id": "1554624715"
+  },
+  {
+    "city": "Hawera",
+    "city_ascii": "Hawera",
+    "admin_name": "Taranaki",
+    "lat": "-39.5890",
+    "lng": "174.2820",
+    "id": "1554872573"
+  },
+  {
+    "city": "Glencoe",
+    "city_ascii": "Glencoe",
+    "admin_name": "Southland",
+    "lat": "-46.1920",
+    "lng": "168.6460",
+    "id": "1554979133"
+  },
+  {
+    "city": "Waiuku",
+    "city_ascii": "Waiuku",
+    "admin_name": "Auckland",
+    "lat": "-37.2500",
+    "lng": "174.7333",
+    "id": "1554334008"
+  },
+  {
+    "city": "Paraparaumu Beach",
+    "city_ascii": "Paraparaumu Beach",
+    "admin_name": "Wellington",
+    "lat": "-40.8880",
+    "lng": "174.9830",
+    "id": "1554306968"
+  },
+  {
+    "city": "Wanaka",
+    "city_ascii": "Wanaka",
+    "admin_name": "Otago",
+    "lat": "-44.7081",
+    "lng": "169.1239",
+    "id": "1554152950"
+  },
+  {
+    "city": "Greymouth",
+    "city_ascii": "Greymouth",
+    "admin_name": "West Coast",
+    "lat": "-42.4500",
+    "lng": "171.2075",
+    "id": "1554984303"
+  },
+  {
+    "city": "Thames",
+    "city_ascii": "Thames",
+    "admin_name": "Waikato",
+    "lat": "-37.1384",
+    "lng": "175.5405",
+    "id": "1554802053"
+  },
+  {
+    "city": "Kerikeri",
+    "city_ascii": "Kerikeri",
+    "admin_name": "Northland",
+    "lat": "-35.2244",
+    "lng": "173.9514",
+    "id": "1554530676"
+  },
+  {
+    "city": "Kaitaia",
+    "city_ascii": "Kaitaia",
+    "admin_name": "Northland",
+    "lat": "-35.1125",
+    "lng": "173.2628",
+    "id": "1554000934"
+  },
+  {
+    "city": "Stratford",
+    "city_ascii": "Stratford",
+    "admin_name": "Taranaki",
+    "lat": "-39.3410",
+    "lng": "174.2840",
+    "id": "1554001293"
+  },
+  {
+    "city": "Westport",
+    "city_ascii": "Westport",
+    "admin_name": "West Coast",
+    "lat": "-41.7550",
+    "lng": "171.5990",
+    "id": "1554650685"
+  },
+  {
+    "city": "Turangi",
+    "city_ascii": "Turangi",
+    "admin_name": "Waikato",
+    "lat": "-38.9890",
+    "lng": "175.8100",
+    "id": "1554981086"
+  },
+  {
+    "city": "Hokitika",
+    "city_ascii": "Hokitika",
+    "admin_name": "West Coast",
+    "lat": "-42.7167",
+    "lng": "170.9667",
+    "id": "1554205461"
+  },
+  {
+    "city": "Te Anau",
+    "city_ascii": "Te Anau",
+    "admin_name": "Southland",
+    "lat": "-45.4150",
+    "lng": "167.7160",
+    "id": "1554603580"
+  },
+  {
+    "city": "Kaikoura",
+    "city_ascii": "Kaikoura",
+    "admin_name": "Canterbury",
+    "lat": "-42.4000",
+    "lng": "173.6814",
+    "id": "1554578431"
+  },
+  {
+    "city": "Pukekohe East",
+    "city_ascii": "Pukekohe East",
+    "admin_name": "Auckland",
+    "lat": "-37.1950",
+    "lng": "174.9481",
+    "id": "1554599644"
+  },
+  {
+    "city": "Waitakere",
+    "city_ascii": "Waitakere",
+    "admin_name": "Auckland",
+    "lat": "-36.8490",
+    "lng": "174.5430",
+    "id": "1554034359"
+  },
+  {
+    "city": "Halfmoon Bay",
+    "city_ascii": "Halfmoon Bay",
+    "admin_name": "Southland",
+    "lat": "-46.8990",
+    "lng": "168.1270",
+    "id": "1554077152"
+  },
+  {
+    "city": "Kairaki",
+    "city_ascii": "Kairaki",
+    "admin_name": "Canterbury",
+    "lat": "-43.3850",
+    "lng": "172.7030",
+    "id": "1554001309"
+  },
+  {
+    "city": "Waitangi",
+    "city_ascii": "Waitangi",
+    "admin_name": "Chatham Islands",
+    "lat": "-43.9514",
+    "lng": "-176.5611",
+    "id": "1554847194"
+  },
+  {
+    "city": "Manukau City",
+    "city_ascii": "Manukau City",
+    "admin_name": "Auckland",
+    "lat": "-37.0000",
+    "lng": "174.8850",
+    "id": "1554797148"
+  }
+]

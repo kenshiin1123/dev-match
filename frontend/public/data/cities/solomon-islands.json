@@ -1,0 +1,74 @@
+[
+  {
+    "city": "Honiara",
+    "city_ascii": "Honiara",
+    "admin_name": "Honiara",
+    "lat": "-9.4333",
+    "lng": "159.9500",
+    "id": "1090737486"
+  },
+  {
+    "city": "Auki",
+    "city_ascii": "Auki",
+    "admin_name": "Malaita",
+    "lat": "-8.7678",
+    "lng": "160.6978",
+    "id": "1090993143"
+  },
+  {
+    "city": "Gizo",
+    "city_ascii": "Gizo",
+    "admin_name": "Western",
+    "lat": "-8.1056",
+    "lng": "156.8389",
+    "id": "1090427067"
+  },
+  {
+    "city": "Kirakira",
+    "city_ascii": "Kirakira",
+    "admin_name": "Makira and Ulawa",
+    "lat": "-10.4544",
+    "lng": "161.9205",
+    "id": "1090349580"
+  },
+  {
+    "city": "Buala",
+    "city_ascii": "Buala",
+    "admin_name": "Isabel",
+    "lat": "-8.1448",
+    "lng": "159.5905",
+    "id": "1090726690"
+  },
+  {
+    "city": "Tulagi",
+    "city_ascii": "Tulagi",
+    "admin_name": "Central",
+    "lat": "-9.1031",
+    "lng": "160.1506",
+    "id": "1090844311"
+  },
+  {
+    "city": "Tigoa",
+    "city_ascii": "Tigoa",
+    "admin_name": "Rennell and Bellona",
+    "lat": "-11.5531",
+    "lng": "160.0647",
+    "id": "1090423471"
+  },
+  {
+    "city": "Lata",
+    "city_ascii": "Lata",
+    "admin_name": "Temotu",
+    "lat": "-10.7380",
+    "lng": "165.8567",
+    "id": "1090442496"
+  },
+  {
+    "city": "Taro",
+    "city_ascii": "Taro",
+    "admin_name": "Choiseul",
+    "lat": "-6.7111",
+    "lng": "156.3972",
+    "id": "1090931394"
+  }
+]

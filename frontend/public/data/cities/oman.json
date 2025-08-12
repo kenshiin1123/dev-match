@@ -1,0 +1,242 @@
+[
+  {
+    "city": "Masqaţ",
+    "city_ascii": "Masqat",
+    "admin_name": "Masqaţ",
+    "lat": "23.6140",
+    "lng": "58.5911",
+    "id": "1512001294"
+  },
+  {
+    "city": "Muscat",
+    "city_ascii": "Muscat",
+    "admin_name": "Masqaţ",
+    "lat": "23.6139",
+    "lng": "58.5922",
+    "id": "1512035506"
+  },
+  {
+    "city": "Bawshar",
+    "city_ascii": "Bawshar",
+    "admin_name": "Masqaţ",
+    "lat": "23.5777",
+    "lng": "58.3998",
+    "id": "1512506161"
+  },
+  {
+    "city": "Şalālah",
+    "city_ascii": "Salalah",
+    "admin_name": "Z̧ufār",
+    "lat": "17.0197",
+    "lng": "54.0897",
+    "id": "1512995148"
+  },
+  {
+    "city": "Maţraḩ",
+    "city_ascii": "Matrah",
+    "admin_name": "Masqaţ",
+    "lat": "23.6167",
+    "lng": "58.5667",
+    "id": "1512325823"
+  },
+  {
+    "city": "As Suwayq",
+    "city_ascii": "As Suwayq",
+    "admin_name": "Shamāl al Bāţinah",
+    "lat": "23.8494",
+    "lng": "57.4386",
+    "id": "1512745539"
+  },
+  {
+    "city": "Ar Rustāq",
+    "city_ascii": "Ar Rustaq",
+    "admin_name": "Janūb al Bāţinah",
+    "lat": "23.3908",
+    "lng": "57.4244",
+    "id": "1512376854"
+  },
+  {
+    "city": "Al Muḑaybī",
+    "city_ascii": "Al Mudaybi",
+    "admin_name": "Shamāl ash Sharqīyah",
+    "lat": "22.5703",
+    "lng": "58.1211",
+    "id": "1512883829"
+  },
+  {
+    "city": "Bahlā’",
+    "city_ascii": "Bahla'",
+    "admin_name": "Ad Dākhilīyah",
+    "lat": "22.9789",
+    "lng": "57.3047",
+    "id": "1512321924"
+  },
+  {
+    "city": "Nizwá",
+    "city_ascii": "Nizwa",
+    "admin_name": "Ad Dākhilīyah",
+    "lat": "22.9333",
+    "lng": "57.5333",
+    "id": "1512180300"
+  },
+  {
+    "city": "Samā’il",
+    "city_ascii": "Sama'il",
+    "admin_name": "Ad Dākhilīyah",
+    "lat": "23.2984",
+    "lng": "57.9531",
+    "id": "1512936108"
+  },
+  {
+    "city": "Al ‘Āmirāt",
+    "city_ascii": "Al `Amirat",
+    "admin_name": "Masqaţ",
+    "lat": "23.5224",
+    "lng": "58.4987",
+    "id": "1512675854"
+  },
+  {
+    "city": "Al Buraymī",
+    "city_ascii": "Al Buraymi",
+    "admin_name": "Al Buraymī",
+    "lat": "24.2558",
+    "lng": "55.8025",
+    "id": "1512959921"
+  },
+  {
+    "city": "Qurayyāt",
+    "city_ascii": "Qurayyat",
+    "admin_name": "Masqaţ",
+    "lat": "23.2652",
+    "lng": "58.9034",
+    "id": "1512111751"
+  },
+  {
+    "city": "Al Madrah Samā’il",
+    "city_ascii": "Al Madrah Sama'il",
+    "admin_name": "Ad Dākhilīyah",
+    "lat": "23.3103",
+    "lng": "57.9455",
+    "id": "1512000205"
+  },
+  {
+    "city": "Shināş",
+    "city_ascii": "Shinas",
+    "admin_name": "Shamāl al Bāţinah",
+    "lat": "24.7426",
+    "lng": "56.4670",
+    "id": "1512941410"
+  },
+  {
+    "city": "Izkī",
+    "city_ascii": "Izki",
+    "admin_name": "Ad Dākhilīyah",
+    "lat": "22.9339",
+    "lng": "57.7750",
+    "id": "1512293504"
+  },
+  {
+    "city": "Ibrā’",
+    "city_ascii": "Ibra'",
+    "admin_name": "Shamāl ash Sharqīyah",
+    "lat": "22.6906",
+    "lng": "58.5334",
+    "id": "1512341564"
+  },
+  {
+    "city": "Nakhal",
+    "city_ascii": "Nakhal",
+    "admin_name": "Janūb al Bāţinah",
+    "lat": "23.3985",
+    "lng": "57.8218",
+    "id": "1512392286"
+  },
+  {
+    "city": "Ḑank",
+    "city_ascii": "Dank",
+    "admin_name": "Az̧ Z̧āhirah",
+    "lat": "23.5505",
+    "lng": "56.2573",
+    "id": "1512330290"
+  },
+  {
+    "city": "Ţāqah",
+    "city_ascii": "Taqah",
+    "admin_name": "Z̧ufār",
+    "lat": "17.0483",
+    "lng": "54.3906",
+    "id": "1512705781"
+  },
+  {
+    "city": "Khaşab",
+    "city_ascii": "Khasab",
+    "admin_name": "Musandam",
+    "lat": "26.1833",
+    "lng": "56.2500",
+    "id": "1512236141"
+  },
+  {
+    "city": "Fanjā’",
+    "city_ascii": "Fanja'",
+    "admin_name": "Ad Dākhilīyah",
+    "lat": "23.4579",
+    "lng": "58.0986",
+    "id": "1512768698"
+  },
+  {
+    "city": "Al Mazyūnah",
+    "city_ascii": "Al Mazyunah",
+    "admin_name": "Z̧ufār",
+    "lat": "17.8486",
+    "lng": "52.6200",
+    "id": "1512004977"
+  },
+  {
+    "city": "Mirbāţ",
+    "city_ascii": "Mirbat",
+    "admin_name": "Z̧ufār",
+    "lat": "16.9924",
+    "lng": "54.6918",
+    "id": "1512455360"
+  },
+  {
+    "city": "Şūr",
+    "city_ascii": "Sur",
+    "admin_name": "Janūb ash Sharqīyah",
+    "lat": "22.5667",
+    "lng": "59.5289",
+    "id": "1512350600"
+  },
+  {
+    "city": "Haymā’",
+    "city_ascii": "Hayma'",
+    "admin_name": "Al Wusţá",
+    "lat": "19.9333",
+    "lng": "56.3167",
+    "id": "1512927824"
+  },
+  {
+    "city": "Şuḩār",
+    "city_ascii": "Suhar",
+    "admin_name": "Shamāl al Bāţinah",
+    "lat": "24.3420",
+    "lng": "56.7299",
+    "id": "1512602960"
+  },
+  {
+    "city": "‘Ibrī",
+    "city_ascii": "`Ibri",
+    "admin_name": "Az̧ Z̧āhirah",
+    "lat": "23.2325",
+    "lng": "56.4973",
+    "id": "1512077267"
+  },
+  {
+    "city": "Aş Şuwayḩirah as Sāḩil",
+    "city_ascii": "As Suwayhirah as Sahil",
+    "admin_name": "Shamāl al Bāţinah",
+    "lat": "24.3620",
+    "lng": "56.7344",
+    "id": "1512145575"
+  }
+]

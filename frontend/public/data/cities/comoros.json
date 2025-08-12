@@ -1,0 +1,74 @@
+[
+  {
+    "city": "Mutsamudu",
+    "city_ascii": "Mutsamudu",
+    "admin_name": "Anjouan",
+    "lat": "-12.1675",
+    "lng": "44.3939",
+    "id": "1174036583"
+  },
+  {
+    "city": "Ouani",
+    "city_ascii": "Ouani",
+    "admin_name": "Anjouan",
+    "lat": "-12.1350",
+    "lng": "44.4275",
+    "id": "1174574251"
+  },
+  {
+    "city": "Mandza",
+    "city_ascii": "Mandza",
+    "admin_name": "Grande Comore",
+    "lat": "-11.4167",
+    "lng": "43.3000",
+    "id": "1174892176"
+  },
+  {
+    "city": "Fomboni",
+    "city_ascii": "Fomboni",
+    "admin_name": "Mohéli",
+    "lat": "-12.2800",
+    "lng": "43.7425",
+    "id": "1174539766"
+  },
+  {
+    "city": "Moroni",
+    "city_ascii": "Moroni",
+    "admin_name": "Grande Comore",
+    "lat": "-11.6990",
+    "lng": "43.2560",
+    "id": "1174793581"
+  },
+  {
+    "city": "Domoni",
+    "city_ascii": "Domoni",
+    "admin_name": "Anjouan",
+    "lat": "-12.2586",
+    "lng": "44.5303",
+    "id": "1174938041"
+  },
+  {
+    "city": "Adda-Douéni",
+    "city_ascii": "Adda-Doueni",
+    "admin_name": "Anjouan",
+    "lat": "-12.3000",
+    "lng": "44.5000",
+    "id": "1174212129"
+  },
+  {
+    "city": "Kourani",
+    "city_ascii": "Kourani",
+    "admin_name": "Grande Comore",
+    "lat": "-11.8511",
+    "lng": "43.4261",
+    "id": "1174935601"
+  },
+  {
+    "city": "Bazimini",
+    "city_ascii": "Bazimini",
+    "admin_name": "Anjouan",
+    "lat": "-12.1833",
+    "lng": "44.4500",
+    "id": "1174603336"
+  }
+]

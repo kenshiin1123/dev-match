@@ -1,0 +1,898 @@
+[
+  {
+    "city": "Dushanbe",
+    "city_ascii": "Dushanbe",
+    "admin_name": "Dushanbe",
+    "lat": "38.5367",
+    "lng": "68.7800",
+    "id": "1762930616"
+  },
+  {
+    "city": "Khŭjand",
+    "city_ascii": "Khujand",
+    "admin_name": "Sughd",
+    "lat": "40.2833",
+    "lng": "69.6333",
+    "id": "1762372787"
+  },
+  {
+    "city": "Vahdat",
+    "city_ascii": "Vahdat",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.5531",
+    "lng": "69.0206",
+    "id": "1762043986"
+  },
+  {
+    "city": "Hisor",
+    "city_ascii": "Hisor",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.5264",
+    "lng": "68.5381",
+    "id": "1762136882"
+  },
+  {
+    "city": "Panjakent",
+    "city_ascii": "Panjakent",
+    "admin_name": "Sughd",
+    "lat": "39.5000",
+    "lng": "67.6167",
+    "id": "1762088946"
+  },
+  {
+    "city": "Tursunzoda",
+    "city_ascii": "Tursunzoda",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.5108",
+    "lng": "68.2303",
+    "id": "1762277771"
+  },
+  {
+    "city": "Isfara",
+    "city_ascii": "Isfara",
+    "admin_name": "Sughd",
+    "lat": "40.1167",
+    "lng": "70.6333",
+    "id": "1762121684"
+  },
+  {
+    "city": "Istaravshan",
+    "city_ascii": "Istaravshan",
+    "admin_name": "Sughd",
+    "lat": "39.9108",
+    "lng": "69.0064",
+    "id": "1762380072"
+  },
+  {
+    "city": "Konibodom",
+    "city_ascii": "Konibodom",
+    "admin_name": "Sughd",
+    "lat": "40.2833",
+    "lng": "70.4167",
+    "id": "1762140294"
+  },
+  {
+    "city": "Kŭlob",
+    "city_ascii": "Kulob",
+    "admin_name": "Khatlon",
+    "lat": "37.9092",
+    "lng": "69.7819",
+    "id": "1762798596"
+  },
+  {
+    "city": "Bokhtar",
+    "city_ascii": "Bokhtar",
+    "admin_name": "Khatlon",
+    "lat": "37.8364",
+    "lng": "68.7803",
+    "id": "1762998971"
+  },
+  {
+    "city": "Norak",
+    "city_ascii": "Norak",
+    "admin_name": "Khatlon",
+    "lat": "38.3833",
+    "lng": "69.3167",
+    "id": "1762774503"
+  },
+  {
+    "city": "Ghŭlakandoz",
+    "city_ascii": "Ghulakandoz",
+    "admin_name": "Sughd",
+    "lat": "40.1617",
+    "lng": "69.4678",
+    "id": "1762073547"
+  },
+  {
+    "city": "Zargar",
+    "city_ascii": "Zargar",
+    "admin_name": "Khatlon",
+    "lat": "37.8000",
+    "lng": "68.6500",
+    "id": "1762322356"
+  },
+  {
+    "city": "Levakant",
+    "city_ascii": "Levakant",
+    "admin_name": "Khatlon",
+    "lat": "37.8667",
+    "lng": "68.9167",
+    "id": "1762807871"
+  },
+  {
+    "city": "Chimteppa",
+    "city_ascii": "Chimteppa",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.4667",
+    "lng": "68.7333",
+    "id": "1762819593"
+  },
+  {
+    "city": "Roghun",
+    "city_ascii": "Roghun",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.6978",
+    "lng": "69.7522",
+    "id": "1762926748"
+  },
+  {
+    "city": "Isfisor",
+    "city_ascii": "Isfisor",
+    "admin_name": "Sughd",
+    "lat": "40.2433",
+    "lng": "69.7447",
+    "id": "1762426322"
+  },
+  {
+    "city": "Sarikishty",
+    "city_ascii": "Sarikishty",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.4667",
+    "lng": "68.7000",
+    "id": "1762415528"
+  },
+  {
+    "city": "Navgilem",
+    "city_ascii": "Navgilem",
+    "admin_name": "Sughd",
+    "lat": "40.1333",
+    "lng": "70.6500",
+    "id": "1762623109"
+  },
+  {
+    "city": "Qaratog",
+    "city_ascii": "Qaratog",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.5500",
+    "lng": "68.2833",
+    "id": "1762906542"
+  },
+  {
+    "city": "Obburdon",
+    "city_ascii": "Obburdon",
+    "admin_name": "Sughd",
+    "lat": "40.4278",
+    "lng": "69.3047",
+    "id": "1762458368"
+  },
+  {
+    "city": "Chorkŭh",
+    "city_ascii": "Chorkuh",
+    "admin_name": "Sughd",
+    "lat": "39.9739",
+    "lng": "70.5822",
+    "id": "1762755950"
+  },
+  {
+    "city": "Yovon",
+    "city_ascii": "Yovon",
+    "admin_name": "Khatlon",
+    "lat": "38.3167",
+    "lng": "69.0500",
+    "id": "1762920268"
+  },
+  {
+    "city": "Simiganj",
+    "city_ascii": "Simiganj",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.6525",
+    "lng": "69.0064",
+    "id": "1762393981"
+  },
+  {
+    "city": "Rokhaty",
+    "city_ascii": "Rokhaty",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.6000",
+    "lng": "68.9333",
+    "id": "1762898038"
+  },
+  {
+    "city": "Chorbog",
+    "city_ascii": "Chorbog",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.6667",
+    "lng": "68.7667",
+    "id": "1762123039"
+  },
+  {
+    "city": "Danghara",
+    "city_ascii": "Danghara",
+    "admin_name": "Khatlon",
+    "lat": "38.0983",
+    "lng": "69.3467",
+    "id": "1762192372"
+  },
+  {
+    "city": "Khorugh",
+    "city_ascii": "Khorugh",
+    "admin_name": "Kŭhistoni Badakhshon",
+    "lat": "37.4833",
+    "lng": "71.5500",
+    "id": "1762114045"
+  },
+  {
+    "city": "Dahana",
+    "city_ascii": "Dahana",
+    "admin_name": "Khatlon",
+    "lat": "38.0583",
+    "lng": "69.8667",
+    "id": "1762626270"
+  },
+  {
+    "city": "Pongoz",
+    "city_ascii": "Pongoz",
+    "admin_name": "Sughd",
+    "lat": "40.7500",
+    "lng": "70.2500",
+    "id": "1762429014"
+  },
+  {
+    "city": "Bakhor",
+    "city_ascii": "Bakhor",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.5500",
+    "lng": "68.9833",
+    "id": "1762767243"
+  },
+  {
+    "city": "Muchun",
+    "city_ascii": "Muchun",
+    "admin_name": "Sughd",
+    "lat": "39.8833",
+    "lng": "69.1833",
+    "id": "1762037289"
+  },
+  {
+    "city": "Navabad",
+    "city_ascii": "Navabad",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.5667",
+    "lng": "68.5167",
+    "id": "1762368316"
+  },
+  {
+    "city": "Jilikŭl",
+    "city_ascii": "Jilikul",
+    "admin_name": "Khatlon",
+    "lat": "37.4928",
+    "lng": "68.5286",
+    "id": "1762222147"
+  },
+  {
+    "city": "Farkhor",
+    "city_ascii": "Farkhor",
+    "admin_name": "Khatlon",
+    "lat": "37.5000",
+    "lng": "69.4000",
+    "id": "1762773904"
+  },
+  {
+    "city": "Somoniyon",
+    "city_ascii": "Somoniyon",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.4422",
+    "lng": "68.7769",
+    "id": "1762902089"
+  },
+  {
+    "city": "Hulbuk",
+    "city_ascii": "Hulbuk",
+    "admin_name": "Khatlon",
+    "lat": "37.8050",
+    "lng": "69.6464",
+    "id": "1762158333"
+  },
+  {
+    "city": "Firuzoba",
+    "city_ascii": "Firuzoba",
+    "admin_name": "Sughd",
+    "lat": "40.3000",
+    "lng": "70.4000",
+    "id": "1762567325"
+  },
+  {
+    "city": "Dalyoni Bolo",
+    "city_ascii": "Dalyoni Bolo",
+    "admin_name": "Sughd",
+    "lat": "39.7422",
+    "lng": "68.9944",
+    "id": "1762004498"
+  },
+  {
+    "city": "Moskva",
+    "city_ascii": "Moskva",
+    "admin_name": "Khatlon",
+    "lat": "37.6567",
+    "lng": "69.6292",
+    "id": "1762027698"
+  },
+  {
+    "city": "Shahriston",
+    "city_ascii": "Shahriston",
+    "admin_name": "Sughd",
+    "lat": "39.7667",
+    "lng": "68.8167",
+    "id": "1762671207"
+  },
+  {
+    "city": "Kulkent",
+    "city_ascii": "Kulkent",
+    "admin_name": "Sughd",
+    "lat": "40.1500",
+    "lng": "70.7000",
+    "id": "1762615413"
+  },
+  {
+    "city": "Mehnatobod",
+    "city_ascii": "Mehnatobod",
+    "admin_name": "Khatlon",
+    "lat": "37.7167",
+    "lng": "69.5500",
+    "id": "1762901629"
+  },
+  {
+    "city": "Lohutí",
+    "city_ascii": "Lohuti",
+    "admin_name": "Sughd",
+    "lat": "40.2500",
+    "lng": "70.1333",
+    "id": "1762012091"
+  },
+  {
+    "city": "Qal’acha",
+    "city_ascii": "Qal'acha",
+    "admin_name": "Sughd",
+    "lat": "40.1333",
+    "lng": "69.6833",
+    "id": "1762339363"
+  },
+  {
+    "city": "Naryn",
+    "city_ascii": "Naryn",
+    "admin_name": "Khatlon",
+    "lat": "38.2000",
+    "lng": "68.9000",
+    "id": "1762541760"
+  },
+  {
+    "city": "Almasi",
+    "city_ascii": "Almasi",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.6833",
+    "lng": "68.6000",
+    "id": "1762773329"
+  },
+  {
+    "city": "Oshoba",
+    "city_ascii": "Oshoba",
+    "admin_name": "Sughd",
+    "lat": "40.7347",
+    "lng": "70.4417",
+    "id": "1762699211"
+  },
+  {
+    "city": "Paldorak",
+    "city_ascii": "Paldorak",
+    "admin_name": "Sughd",
+    "lat": "40.4833",
+    "lng": "69.3000",
+    "id": "1762537276"
+  },
+  {
+    "city": "Ghafurov",
+    "city_ascii": "Ghafurov",
+    "admin_name": "Sughd",
+    "lat": "40.2200",
+    "lng": "69.7300",
+    "id": "1762485684"
+  },
+  {
+    "city": "Ėsanboy",
+    "city_ascii": "Esanboy",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.0833",
+    "lng": "68.3833",
+    "id": "1762743298"
+  },
+  {
+    "city": "Durbat",
+    "city_ascii": "Durbat",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.5333",
+    "lng": "68.6333",
+    "id": "1762805459"
+  },
+  {
+    "city": "Lohur",
+    "city_ascii": "Lohur",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.3833",
+    "lng": "68.7000",
+    "id": "1762289718"
+  },
+  {
+    "city": "Poshkent",
+    "city_ascii": "Poshkent",
+    "admin_name": "Sughd",
+    "lat": "39.8833",
+    "lng": "69.0333",
+    "id": "1762717942"
+  },
+  {
+    "city": "Mogiyon",
+    "city_ascii": "Mogiyon",
+    "admin_name": "Sughd",
+    "lat": "39.2500",
+    "lng": "67.6500",
+    "id": "1762342219"
+  },
+  {
+    "city": "Dashtigulho",
+    "city_ascii": "Dashtigulho",
+    "admin_name": "Khatlon",
+    "lat": "37.7000",
+    "lng": "69.5000",
+    "id": "1762339993"
+  },
+  {
+    "city": "Kosatarosh",
+    "city_ascii": "Kosatarosh",
+    "admin_name": "Sughd",
+    "lat": "39.4000",
+    "lng": "67.7500",
+    "id": "1762504857"
+  },
+  {
+    "city": "Abdurahmoni Jomí",
+    "city_ascii": "Abdurahmoni Jomi",
+    "admin_name": "Khatlon",
+    "lat": "37.9458",
+    "lng": "68.8117",
+    "id": "1762589864"
+  },
+  {
+    "city": "Dŭstí",
+    "city_ascii": "Dusti",
+    "admin_name": "Khatlon",
+    "lat": "37.3486",
+    "lng": "68.6733",
+    "id": "1762895050"
+  },
+  {
+    "city": "Chubek",
+    "city_ascii": "Chubek",
+    "admin_name": "Khatlon",
+    "lat": "37.6167",
+    "lng": "69.7000",
+    "id": "1762738611"
+  },
+  {
+    "city": "Navraftor",
+    "city_ascii": "Navraftor",
+    "admin_name": "Khatlon",
+    "lat": "37.7333",
+    "lng": "68.7667",
+    "id": "1762606160"
+  },
+  {
+    "city": "Patar",
+    "city_ascii": "Patar",
+    "admin_name": "Sughd",
+    "lat": "40.3333",
+    "lng": "70.4500",
+    "id": "1762922189"
+  },
+  {
+    "city": "Gazantarak",
+    "city_ascii": "Gazantarak",
+    "admin_name": "Sughd",
+    "lat": "39.9667",
+    "lng": "69.1333",
+    "id": "1762795587"
+  },
+  {
+    "city": "Mujikharf",
+    "city_ascii": "Mujikharf",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.8500",
+    "lng": "69.8833",
+    "id": "1762947574"
+  },
+  {
+    "city": "Shahritus",
+    "city_ascii": "Shahritus",
+    "admin_name": "Khatlon",
+    "lat": "37.2667",
+    "lng": "68.1333",
+    "id": "1762631675"
+  },
+  {
+    "city": "Ghonchí",
+    "city_ascii": "Ghonchi",
+    "admin_name": "Sughd",
+    "lat": "39.9589",
+    "lng": "69.1369",
+    "id": "1762461184"
+  },
+  {
+    "city": "Sujina",
+    "city_ascii": "Sujina",
+    "admin_name": "Sughd",
+    "lat": "39.4833",
+    "lng": "67.7167",
+    "id": "1762130928"
+  },
+  {
+    "city": "Chorbogh",
+    "city_ascii": "Chorbogh",
+    "admin_name": "Sughd",
+    "lat": "39.8667",
+    "lng": "69.0833",
+    "id": "1762188162"
+  },
+  {
+    "city": "Mastchoh",
+    "city_ascii": "Mastchoh",
+    "admin_name": "Sughd",
+    "lat": "40.3667",
+    "lng": "69.3333",
+    "id": "1762426354"
+  },
+  {
+    "city": "Sultonobod",
+    "city_ascii": "Sultonobod",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.4500",
+    "lng": "68.9500",
+    "id": "1762709548"
+  },
+  {
+    "city": "Chilgazí",
+    "city_ascii": "Chilgazi",
+    "admin_name": "Sughd",
+    "lat": "40.1500",
+    "lng": "70.7333",
+    "id": "1762908199"
+  },
+  {
+    "city": "Adrasmon",
+    "city_ascii": "Adrasmon",
+    "admin_name": "Sughd",
+    "lat": "40.6486",
+    "lng": "69.9856",
+    "id": "1762711403"
+  },
+  {
+    "city": "Bŭston",
+    "city_ascii": "Buston",
+    "admin_name": "Sughd",
+    "lat": "40.5217",
+    "lng": "69.3308",
+    "id": "1762646765"
+  },
+  {
+    "city": "Romit",
+    "city_ascii": "Romit",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.7167",
+    "lng": "69.3167",
+    "id": "1762333880"
+  },
+  {
+    "city": "Seshambe",
+    "city_ascii": "Seshambe",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.5333",
+    "lng": "68.2500",
+    "id": "1762108075"
+  },
+  {
+    "city": "Vakhsh",
+    "city_ascii": "Vakhsh",
+    "admin_name": "Khatlon",
+    "lat": "37.7108",
+    "lng": "68.8311",
+    "id": "1762695931"
+  },
+  {
+    "city": "Ayní",
+    "city_ascii": "Ayni",
+    "admin_name": "Sughd",
+    "lat": "39.3975",
+    "lng": "68.5406",
+    "id": "1762304788"
+  },
+  {
+    "city": "Dehmoí",
+    "city_ascii": "Dehmoi",
+    "admin_name": "Sughd",
+    "lat": "40.2167",
+    "lng": "69.5167",
+    "id": "1762633756"
+  },
+  {
+    "city": "Mŭ’minobod",
+    "city_ascii": "Mu'minobod",
+    "admin_name": "Khatlon",
+    "lat": "38.1083",
+    "lng": "70.0292",
+    "id": "1762625291"
+  },
+  {
+    "city": "Ayni",
+    "city_ascii": "Ayni",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.6667",
+    "lng": "68.8167",
+    "id": "1762288360"
+  },
+  {
+    "city": "Qiblaí",
+    "city_ascii": "Qiblai",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.6167",
+    "lng": "68.8333",
+    "id": "1762560534"
+  },
+  {
+    "city": "Amondara",
+    "city_ascii": "Amondara",
+    "admin_name": "Sughd",
+    "lat": "39.5178",
+    "lng": "67.8131",
+    "id": "1762761916"
+  },
+  {
+    "city": "Pushing",
+    "city_ascii": "Pushing",
+    "admin_name": "Khatlon",
+    "lat": "38.1833",
+    "lng": "69.4333",
+    "id": "1762385172"
+  },
+  {
+    "city": "Rabot",
+    "city_ascii": "Rabot",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.6167",
+    "lng": "68.1833",
+    "id": "1762294560"
+  },
+  {
+    "city": "Sebiston",
+    "city_ascii": "Sebiston",
+    "admin_name": "Khatlon",
+    "lat": "38.2500",
+    "lng": "69.2833",
+    "id": "1762892686"
+  },
+  {
+    "city": "Sangtŭda",
+    "city_ascii": "Sangtuda",
+    "admin_name": "Khatlon",
+    "lat": "38.0333",
+    "lng": "69.0833",
+    "id": "1762543236"
+  },
+  {
+    "city": "Panj",
+    "city_ascii": "Panj",
+    "admin_name": "Khatlon",
+    "lat": "37.2353",
+    "lng": "69.0972",
+    "id": "1762607780"
+  },
+  {
+    "city": "Gulshan",
+    "city_ascii": "Gulshan",
+    "admin_name": "Khatlon",
+    "lat": "37.5833",
+    "lng": "69.4333",
+    "id": "1762579835"
+  },
+  {
+    "city": "Mehnatobod",
+    "city_ascii": "Mehnatobod",
+    "admin_name": "Sughd",
+    "lat": "40.2000",
+    "lng": "68.9500",
+    "id": "1762955778"
+  },
+  {
+    "city": "Dehqonobod",
+    "city_ascii": "Dehqonobod",
+    "admin_name": "Khatlon",
+    "lat": "37.6333",
+    "lng": "69.4500",
+    "id": "1762454979"
+  },
+  {
+    "city": "Obikiik",
+    "city_ascii": "Obikiik",
+    "admin_name": "Khatlon",
+    "lat": "38.1586",
+    "lng": "68.6722",
+    "id": "1762953751"
+  },
+  {
+    "city": "Khonobod",
+    "city_ascii": "Khonobod",
+    "admin_name": "Sughd",
+    "lat": "40.2000",
+    "lng": "70.6000",
+    "id": "1762540080"
+  },
+  {
+    "city": "Kalaidasht",
+    "city_ascii": "Kalaidasht",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.6333",
+    "lng": "69.5000",
+    "id": "1762520076"
+  },
+  {
+    "city": "Varzobkala",
+    "city_ascii": "Varzobkala",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.7667",
+    "lng": "68.8167",
+    "id": "1762216505"
+  },
+  {
+    "city": "Vanj",
+    "city_ascii": "Vanj",
+    "admin_name": "Kŭhistoni Badakhshon",
+    "lat": "38.3731",
+    "lng": "71.4553",
+    "id": "1762019950"
+  },
+  {
+    "city": "Shahrinav",
+    "city_ascii": "Shahrinav",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.5667",
+    "lng": "68.3333",
+    "id": "1762284925"
+  },
+  {
+    "city": "Shing",
+    "city_ascii": "Shing",
+    "admin_name": "Sughd",
+    "lat": "39.2833",
+    "lng": "67.8000",
+    "id": "1762585768"
+  },
+  {
+    "city": "Shŭrobod",
+    "city_ascii": "Shurobod",
+    "admin_name": "Khatlon",
+    "lat": "37.8403",
+    "lng": "70.0419",
+    "id": "1762032087"
+  },
+  {
+    "city": "Khovaling",
+    "city_ascii": "Khovaling",
+    "admin_name": "Khatlon",
+    "lat": "38.3386",
+    "lng": "69.9728",
+    "id": "1762402281"
+  },
+  {
+    "city": "Khurmi",
+    "city_ascii": "Khurmi",
+    "admin_name": "Sughd",
+    "lat": "39.5167",
+    "lng": "67.5833",
+    "id": "1762313500"
+  },
+  {
+    "city": "Kalanak",
+    "city_ascii": "Kalanak",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "39.0833",
+    "lng": "70.5000",
+    "id": "1762067649"
+  },
+  {
+    "city": "Fayzobod",
+    "city_ascii": "Fayzobod",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.5500",
+    "lng": "69.3167",
+    "id": "1762452678"
+  },
+  {
+    "city": "Nijoní",
+    "city_ascii": "Nijoni",
+    "admin_name": "Sughd",
+    "lat": "39.9667",
+    "lng": "68.9167",
+    "id": "1762549983"
+  },
+  {
+    "city": "Navabad",
+    "city_ascii": "Navabad",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.5278",
+    "lng": "68.6750",
+    "id": "1762138739"
+  },
+  {
+    "city": "Chavkandak",
+    "city_ascii": "Chavkandak",
+    "admin_name": "Sughd",
+    "lat": "39.9000",
+    "lng": "68.9333",
+    "id": "1762806975"
+  },
+  {
+    "city": "Rasht",
+    "city_ascii": "Rasht",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "39.0167",
+    "lng": "70.3833",
+    "id": "1762486281"
+  },
+  {
+    "city": "Pakhtaobod",
+    "city_ascii": "Pakhtaobod",
+    "admin_name": "Nohiyahoi Tobei Jumhurí",
+    "lat": "38.4667",
+    "lng": "68.1333",
+    "id": "1762687670"
+  },
+  {
+    "city": "Langar",
+    "city_ascii": "Langar",
+    "admin_name": "Sughd",
+    "lat": "39.4500",
+    "lng": "69.5500",
+    "id": "1762492920"
+  },
+  {
+    "city": "Rarz",
+    "city_ascii": "Rarz",
+    "admin_name": "Sughd",
+    "lat": "39.3803",
+    "lng": "68.7442",
+    "id": "1762620381"
+  },
+  {
+    "city": "Buved",
+    "city_ascii": "Buved",
+    "admin_name": "Kŭhistoni Badakhshon",
+    "lat": "37.5833",
+    "lng": "71.5167",
+    "id": "1762903124"
+  },
+  {
+    "city": "Farob",
+    "city_ascii": "Farob",
+    "admin_name": "Sughd",
+    "lat": "39.2408",
+    "lng": "67.4700",
+    "id": "1762563698"
+  }
+]

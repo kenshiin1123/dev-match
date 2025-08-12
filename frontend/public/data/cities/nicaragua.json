@@ -1,0 +1,962 @@
+[
+  {
+    "city": "Managua",
+    "city_ascii": "Managua",
+    "admin_name": "Managua",
+    "lat": "12.1364",
+    "lng": "-86.2514",
+    "id": "1558296252"
+  },
+  {
+    "city": "León",
+    "city_ascii": "Leon",
+    "admin_name": "León",
+    "lat": "12.4333",
+    "lng": "-86.8867",
+    "id": "1558654236"
+  },
+  {
+    "city": "Tipitapa",
+    "city_ascii": "Tipitapa",
+    "admin_name": "Managua",
+    "lat": "12.2000",
+    "lng": "-86.1000",
+    "id": "1558753915"
+  },
+  {
+    "city": "Masaya",
+    "city_ascii": "Masaya",
+    "admin_name": "Masaya",
+    "lat": "11.9667",
+    "lng": "-86.1000",
+    "id": "1558765329"
+  },
+  {
+    "city": "Matagalpa",
+    "city_ascii": "Matagalpa",
+    "admin_name": "Matagalpa",
+    "lat": "12.9167",
+    "lng": "-85.9167",
+    "id": "1558728443"
+  },
+  {
+    "city": "Ciudad Sandino",
+    "city_ascii": "Ciudad Sandino",
+    "admin_name": "Managua",
+    "lat": "12.1655",
+    "lng": "-86.3579",
+    "id": "1558641363"
+  },
+  {
+    "city": "Chinandega",
+    "city_ascii": "Chinandega",
+    "admin_name": "Chinandega",
+    "lat": "12.6167",
+    "lng": "-87.1500",
+    "id": "1558172276"
+  },
+  {
+    "city": "Estelí",
+    "city_ascii": "Esteli",
+    "admin_name": "Estelí",
+    "lat": "13.0833",
+    "lng": "-86.3500",
+    "id": "1558801854"
+  },
+  {
+    "city": "Granada",
+    "city_ascii": "Granada",
+    "admin_name": "Granada",
+    "lat": "11.9333",
+    "lng": "-85.9500",
+    "id": "1558101678"
+  },
+  {
+    "city": "Jinotega",
+    "city_ascii": "Jinotega",
+    "admin_name": "Jinotega",
+    "lat": "13.0884",
+    "lng": "-85.9994",
+    "id": "1558697688"
+  },
+  {
+    "city": "Bilwi",
+    "city_ascii": "Bilwi",
+    "admin_name": "Costa Caribe Norte",
+    "lat": "14.0281",
+    "lng": "-83.3808",
+    "id": "1558656214"
+  },
+  {
+    "city": "El Viejo",
+    "city_ascii": "El Viejo",
+    "admin_name": "Chinandega",
+    "lat": "12.6667",
+    "lng": "-87.1667",
+    "id": "1558770292"
+  },
+  {
+    "city": "Nueva Guinea",
+    "city_ascii": "Nueva Guinea",
+    "admin_name": "Costa Caribe Sur",
+    "lat": "11.6833",
+    "lng": "-84.4500",
+    "id": "1558868719"
+  },
+  {
+    "city": "Siuna",
+    "city_ascii": "Siuna",
+    "admin_name": "Costa Caribe Norte",
+    "lat": "13.7333",
+    "lng": "-84.7667",
+    "id": "1558482501"
+  },
+  {
+    "city": "Mateare",
+    "city_ascii": "Mateare",
+    "admin_name": "Managua",
+    "lat": "12.2333",
+    "lng": "-86.4333",
+    "id": "1558569665"
+  },
+  {
+    "city": "Diriamba",
+    "city_ascii": "Diriamba",
+    "admin_name": "Carazo",
+    "lat": "11.8500",
+    "lng": "-86.2333",
+    "id": "1558411169"
+  },
+  {
+    "city": "Wiwilí de Jinotega",
+    "city_ascii": "Wiwili de Jinotega",
+    "admin_name": "Jinotega",
+    "lat": "13.6200",
+    "lng": "-85.8182",
+    "id": "1558000011"
+  },
+  {
+    "city": "Wiwilí",
+    "city_ascii": "Wiwili",
+    "admin_name": "Nueva Segovia",
+    "lat": "13.6167",
+    "lng": "-85.8333",
+    "id": "1558766877"
+  },
+  {
+    "city": "Bluefields",
+    "city_ascii": "Bluefields",
+    "admin_name": "Costa Caribe Sur",
+    "lat": "12.0000",
+    "lng": "-83.7500",
+    "id": "1558301368"
+  },
+  {
+    "city": "Jalapa",
+    "city_ascii": "Jalapa",
+    "admin_name": "Nueva Segovia",
+    "lat": "13.9167",
+    "lng": "-86.1333",
+    "id": "1558183579"
+  },
+  {
+    "city": "Juigalpa",
+    "city_ascii": "Juigalpa",
+    "admin_name": "Chontales",
+    "lat": "12.1000",
+    "lng": "-85.3667",
+    "id": "1558986603"
+  },
+  {
+    "city": "El Rama",
+    "city_ascii": "El Rama",
+    "admin_name": "Costa Caribe Sur",
+    "lat": "12.3333",
+    "lng": "-84.6667",
+    "id": "1558512996"
+  },
+  {
+    "city": "Boaco",
+    "city_ascii": "Boaco",
+    "admin_name": "Boaco",
+    "lat": "12.4667",
+    "lng": "-85.6667",
+    "id": "1558023610"
+  },
+  {
+    "city": "Mulukukú",
+    "city_ascii": "Mulukuku",
+    "admin_name": "Costa Caribe Norte",
+    "lat": "13.1503",
+    "lng": "-84.9700",
+    "id": "1558000015"
+  },
+  {
+    "city": "Ocotal",
+    "city_ascii": "Ocotal",
+    "admin_name": "Nueva Segovia",
+    "lat": "13.6333",
+    "lng": "-86.4833",
+    "id": "1558006000"
+  },
+  {
+    "city": "Waspán",
+    "city_ascii": "Waspan",
+    "admin_name": "Costa Caribe Norte",
+    "lat": "14.7333",
+    "lng": "-83.9667",
+    "id": "1558840115"
+  },
+  {
+    "city": "Prinzapolka",
+    "city_ascii": "Prinzapolka",
+    "admin_name": "Costa Caribe Norte",
+    "lat": "13.4000",
+    "lng": "-83.5667",
+    "id": "1558643619"
+  },
+  {
+    "city": "Chichigalpa",
+    "city_ascii": "Chichigalpa",
+    "admin_name": "Chinandega",
+    "lat": "12.5667",
+    "lng": "-87.0333",
+    "id": "1558921284"
+  },
+  {
+    "city": "El Cuá",
+    "city_ascii": "El Cua",
+    "admin_name": "Jinotega",
+    "lat": "13.3675",
+    "lng": "-85.6733",
+    "id": "1558463653"
+  },
+  {
+    "city": "San Rafael del Sur",
+    "city_ascii": "San Rafael del Sur",
+    "admin_name": "Managua",
+    "lat": "11.8500",
+    "lng": "-86.4500",
+    "id": "1558570848"
+  },
+  {
+    "city": "Jinotepe",
+    "city_ascii": "Jinotepe",
+    "admin_name": "Carazo",
+    "lat": "11.8500",
+    "lng": "-86.2000",
+    "id": "1558246417"
+  },
+  {
+    "city": "San José de Bocay",
+    "city_ascii": "San Jose de Bocay",
+    "admin_name": "Jinotega",
+    "lat": "13.5333",
+    "lng": "-85.5333",
+    "id": "1558566609"
+  },
+  {
+    "city": "Matiguás",
+    "city_ascii": "Matiguas",
+    "admin_name": "Matagalpa",
+    "lat": "12.8333",
+    "lng": "-85.4667",
+    "id": "1558837403"
+  },
+  {
+    "city": "Rivas",
+    "city_ascii": "Rivas",
+    "admin_name": "Rivas",
+    "lat": "11.4393",
+    "lng": "-85.8270",
+    "id": "1558146594"
+  },
+  {
+    "city": "Ciudad Darío",
+    "city_ascii": "Ciudad Dario",
+    "admin_name": "Matagalpa",
+    "lat": "12.7167",
+    "lng": "-86.1167",
+    "id": "1558651455"
+  },
+  {
+    "city": "Nindirí",
+    "city_ascii": "Nindiri",
+    "admin_name": "Masaya",
+    "lat": "12.0047",
+    "lng": "-86.1194",
+    "id": "1558216045"
+  },
+  {
+    "city": "San Carlos",
+    "city_ascii": "San Carlos",
+    "admin_name": "Río San Juan",
+    "lat": "11.1333",
+    "lng": "-84.7833",
+    "id": "1558170572"
+  },
+  {
+    "city": "Camoapa",
+    "city_ascii": "Camoapa",
+    "admin_name": "Boaco",
+    "lat": "12.3833",
+    "lng": "-85.5167",
+    "id": "1558644621"
+  },
+  {
+    "city": "Nandaime",
+    "city_ascii": "Nandaime",
+    "admin_name": "Granada",
+    "lat": "11.7500",
+    "lng": "-86.0500",
+    "id": "1558998589"
+  },
+  {
+    "city": "Somoto",
+    "city_ascii": "Somoto",
+    "admin_name": "Madriz",
+    "lat": "13.4833",
+    "lng": "-86.5833",
+    "id": "1558605178"
+  },
+  {
+    "city": "Nagarote",
+    "city_ascii": "Nagarote",
+    "admin_name": "León",
+    "lat": "12.2667",
+    "lng": "-86.5667",
+    "id": "1558005234"
+  },
+  {
+    "city": "Sébaco",
+    "city_ascii": "Sebaco",
+    "admin_name": "Matagalpa",
+    "lat": "12.8500",
+    "lng": "-86.1000",
+    "id": "1558662201"
+  },
+  {
+    "city": "La Concepción",
+    "city_ascii": "La Concepcion",
+    "admin_name": "Masaya",
+    "lat": "11.9333",
+    "lng": "-86.1833",
+    "id": "1558215738"
+  },
+  {
+    "city": "Bocana de Paiwas",
+    "city_ascii": "Bocana de Paiwas",
+    "admin_name": "Costa Caribe Sur",
+    "lat": "12.7861",
+    "lng": "-85.1231",
+    "id": "1558901000"
+  },
+  {
+    "city": "Masatepe",
+    "city_ascii": "Masatepe",
+    "admin_name": "Masaya",
+    "lat": "11.9167",
+    "lng": "-86.1500",
+    "id": "1558293076"
+  },
+  {
+    "city": "Río Blanco",
+    "city_ascii": "Rio Blanco",
+    "admin_name": "Matagalpa",
+    "lat": "12.9333",
+    "lng": "-85.2167",
+    "id": "1558593583"
+  },
+  {
+    "city": "San Ramón",
+    "city_ascii": "San Ramon",
+    "admin_name": "Matagalpa",
+    "lat": "12.9167",
+    "lng": "-85.8333",
+    "id": "1558617224"
+  },
+  {
+    "city": "Waslala",
+    "city_ascii": "Waslala",
+    "admin_name": "Costa Caribe Norte",
+    "lat": "13.2333",
+    "lng": "-85.3833",
+    "id": "1558730387"
+  },
+  {
+    "city": "Somotillo",
+    "city_ascii": "Somotillo",
+    "admin_name": "Chinandega",
+    "lat": "13.0333",
+    "lng": "-86.9167",
+    "id": "1558936840"
+  },
+  {
+    "city": "San Marcos",
+    "city_ascii": "San Marcos",
+    "admin_name": "Carazo",
+    "lat": "11.9167",
+    "lng": "-86.2000",
+    "id": "1558544498"
+  },
+  {
+    "city": "Condega",
+    "city_ascii": "Condega",
+    "admin_name": "Estelí",
+    "lat": "13.3500",
+    "lng": "-86.4000",
+    "id": "1558543389"
+  },
+  {
+    "city": "La Paz Centro",
+    "city_ascii": "La Paz Centro",
+    "admin_name": "León",
+    "lat": "12.3400",
+    "lng": "-86.6753",
+    "id": "1558538095"
+  },
+  {
+    "city": "El Sauce",
+    "city_ascii": "El Sauce",
+    "admin_name": "León",
+    "lat": "12.8833",
+    "lng": "-86.5333",
+    "id": "1558542535"
+  },
+  {
+    "city": "Larreynaga",
+    "city_ascii": "Larreynaga",
+    "admin_name": "León",
+    "lat": "12.6744",
+    "lng": "-86.5708",
+    "id": "1558602365"
+  },
+  {
+    "city": "Villa El Carmen",
+    "city_ascii": "Villa El Carmen",
+    "admin_name": "Managua",
+    "lat": "11.9833",
+    "lng": "-86.5167",
+    "id": "1558217117"
+  },
+  {
+    "city": "Ticuantepe",
+    "city_ascii": "Ticuantepe",
+    "admin_name": "Managua",
+    "lat": "12.0167",
+    "lng": "-86.2000",
+    "id": "1558748108"
+  },
+  {
+    "city": "San Sebastián de Yalí",
+    "city_ascii": "San Sebastian de Yali",
+    "admin_name": "Jinotega",
+    "lat": "13.3000",
+    "lng": "-86.1833",
+    "id": "1558797659"
+  },
+  {
+    "city": "Quilalí",
+    "city_ascii": "Quilali",
+    "admin_name": "Nueva Segovia",
+    "lat": "13.5667",
+    "lng": "-86.0333",
+    "id": "1558890150"
+  },
+  {
+    "city": "Teustepe",
+    "city_ascii": "Teustepe",
+    "admin_name": "Boaco",
+    "lat": "12.4167",
+    "lng": "-85.8000",
+    "id": "1558471999"
+  },
+  {
+    "city": "Rancho Grande",
+    "city_ascii": "Rancho Grande",
+    "admin_name": "Matagalpa",
+    "lat": "13.2536",
+    "lng": "-85.5528",
+    "id": "1558000014"
+  },
+  {
+    "city": "El Jícaro",
+    "city_ascii": "El Jicaro",
+    "admin_name": "Nueva Segovia",
+    "lat": "13.7167",
+    "lng": "-86.1333",
+    "id": "1558370447"
+  },
+  {
+    "city": "Villanueva",
+    "city_ascii": "Villanueva",
+    "admin_name": "Chinandega",
+    "lat": "12.9636",
+    "lng": "-86.8147",
+    "id": "1558614186"
+  },
+  {
+    "city": "San Lorenzo",
+    "city_ascii": "San Lorenzo",
+    "admin_name": "Boaco",
+    "lat": "12.3667",
+    "lng": "-85.6667",
+    "id": "1558007382"
+  },
+  {
+    "city": "La Cruz de Río Grande",
+    "city_ascii": "La Cruz de Rio Grande",
+    "admin_name": "Costa Caribe Sur",
+    "lat": "13.1167",
+    "lng": "-84.1833",
+    "id": "1558703104"
+  },
+  {
+    "city": "Telica",
+    "city_ascii": "Telica",
+    "admin_name": "León",
+    "lat": "12.5167",
+    "lng": "-86.8667",
+    "id": "1558515596"
+  },
+  {
+    "city": "Rosita",
+    "city_ascii": "Rosita",
+    "admin_name": "Costa Caribe Norte",
+    "lat": "13.8833",
+    "lng": "-84.4000",
+    "id": "1558197649"
+  },
+  {
+    "city": "La Trinidad",
+    "city_ascii": "La Trinidad",
+    "admin_name": "Managua",
+    "lat": "12.5578",
+    "lng": "-86.1835",
+    "id": "1558209065"
+  },
+  {
+    "city": "Diriomo",
+    "city_ascii": "Diriomo",
+    "admin_name": "Granada",
+    "lat": "11.8667",
+    "lng": "-86.0500",
+    "id": "1558287966"
+  },
+  {
+    "city": "El Tortuguero",
+    "city_ascii": "El Tortuguero",
+    "admin_name": "Costa Caribe Sur",
+    "lat": "12.8167",
+    "lng": "-84.2000",
+    "id": "1558390224"
+  },
+  {
+    "city": "Muelle de los Bueyes",
+    "city_ascii": "Muelle de los Bueyes",
+    "admin_name": "Costa Caribe Sur",
+    "lat": "12.0667",
+    "lng": "-84.5333",
+    "id": "1558837878"
+  },
+  {
+    "city": "Tola",
+    "city_ascii": "Tola",
+    "admin_name": "Rivas",
+    "lat": "11.4333",
+    "lng": "-85.9333",
+    "id": "1558491249"
+  },
+  {
+    "city": "San Juan de Río Coco",
+    "city_ascii": "San Juan de Rio Coco",
+    "admin_name": "Madriz",
+    "lat": "13.5500",
+    "lng": "-86.1667",
+    "id": "1558017262"
+  },
+  {
+    "city": "Pueblo Nuevo",
+    "city_ascii": "Pueblo Nuevo",
+    "admin_name": "Estelí",
+    "lat": "13.3833",
+    "lng": "-86.4833",
+    "id": "1558373095"
+  },
+  {
+    "city": "La Trinidad",
+    "city_ascii": "La Trinidad",
+    "admin_name": "Estelí",
+    "lat": "12.5578",
+    "lng": "-86.1835",
+    "id": "1558560145"
+  },
+  {
+    "city": "Altagracia",
+    "city_ascii": "Altagracia",
+    "admin_name": "Rivas",
+    "lat": "11.5667",
+    "lng": "-85.5833",
+    "id": "1558219497"
+  },
+  {
+    "city": "El Castillo de La Concepción",
+    "city_ascii": "El Castillo de La Concepcion",
+    "admin_name": "Río San Juan",
+    "lat": "11.0333",
+    "lng": "-84.4667",
+    "id": "1558240788"
+  },
+  {
+    "city": "Telpaneca",
+    "city_ascii": "Telpaneca",
+    "admin_name": "Madriz",
+    "lat": "13.5333",
+    "lng": "-86.2833",
+    "id": "1558890724"
+  },
+  {
+    "city": "Bonanza",
+    "city_ascii": "Bonanza",
+    "admin_name": "Costa Caribe Norte",
+    "lat": "14.0167",
+    "lng": "-84.5833",
+    "id": "1558074379"
+  },
+  {
+    "city": "Corinto",
+    "city_ascii": "Corinto",
+    "admin_name": "Chinandega",
+    "lat": "12.4833",
+    "lng": "-87.1833",
+    "id": "1558830378"
+  },
+  {
+    "city": "San Rafael del Norte",
+    "city_ascii": "San Rafael del Norte",
+    "admin_name": "Jinotega",
+    "lat": "13.2167",
+    "lng": "-86.1167",
+    "id": "1558286153"
+  },
+  {
+    "city": "San Isidro",
+    "city_ascii": "San Isidro",
+    "admin_name": "Matagalpa",
+    "lat": "12.9319",
+    "lng": "-86.1953",
+    "id": "1558059313"
+  },
+  {
+    "city": "San Miguelito",
+    "city_ascii": "San Miguelito",
+    "admin_name": "Río San Juan",
+    "lat": "11.4000",
+    "lng": "-84.9000",
+    "id": "1558918781"
+  },
+  {
+    "city": "Acoyapa",
+    "city_ascii": "Acoyapa",
+    "admin_name": "Chontales",
+    "lat": "11.9667",
+    "lng": "-85.1667",
+    "id": "1558571997"
+  },
+  {
+    "city": "Santa Teresa",
+    "city_ascii": "Santa Teresa",
+    "admin_name": "Carazo",
+    "lat": "11.7333",
+    "lng": "-86.2167",
+    "id": "1558632681"
+  },
+  {
+    "city": "Posoltega",
+    "city_ascii": "Posoltega",
+    "admin_name": "Chinandega",
+    "lat": "12.5500",
+    "lng": "-86.9833",
+    "id": "1558561951"
+  },
+  {
+    "city": "Belén",
+    "city_ascii": "Belen",
+    "admin_name": "Rivas",
+    "lat": "11.5000",
+    "lng": "-85.8833",
+    "id": "1558470755"
+  },
+  {
+    "city": "San Dionisio",
+    "city_ascii": "San Dionisio",
+    "admin_name": "Matagalpa",
+    "lat": "12.7500",
+    "lng": "-85.8500",
+    "id": "1558895835"
+  },
+  {
+    "city": "Esquipulas",
+    "city_ascii": "Esquipulas",
+    "admin_name": "Matagalpa",
+    "lat": "12.6667",
+    "lng": "-85.7833",
+    "id": "1558602400"
+  },
+  {
+    "city": "Niquinohomo",
+    "city_ascii": "Niquinohomo",
+    "admin_name": "Masaya",
+    "lat": "11.9000",
+    "lng": "-86.1000",
+    "id": "1558281722"
+  },
+  {
+    "city": "San Juan del Sur",
+    "city_ascii": "San Juan del Sur",
+    "admin_name": "Rivas",
+    "lat": "11.2500",
+    "lng": "-85.8667",
+    "id": "1558967577"
+  },
+  {
+    "city": "Muy Muy",
+    "city_ascii": "Muy Muy",
+    "admin_name": "Matagalpa",
+    "lat": "12.7667",
+    "lng": "-85.6333",
+    "id": "1558387669"
+  },
+  {
+    "city": "Murra",
+    "city_ascii": "Murra",
+    "admin_name": "Nueva Segovia",
+    "lat": "13.7667",
+    "lng": "-86.0167",
+    "id": "1558838779"
+  },
+  {
+    "city": "Achuapa",
+    "city_ascii": "Achuapa",
+    "admin_name": "León",
+    "lat": "13.0500",
+    "lng": "-86.5833",
+    "id": "1558765003"
+  },
+  {
+    "city": "El Crucero",
+    "city_ascii": "El Crucero",
+    "admin_name": "Managua",
+    "lat": "11.9833",
+    "lng": "-86.3167",
+    "id": "1558750409"
+  },
+  {
+    "city": "San Juan de Limay",
+    "city_ascii": "San Juan de Limay",
+    "admin_name": "Estelí",
+    "lat": "13.1667",
+    "lng": "-86.6167",
+    "id": "1558155206"
+  },
+  {
+    "city": "El Almendro",
+    "city_ascii": "El Almendro",
+    "admin_name": "Río San Juan",
+    "lat": "11.6833",
+    "lng": "-84.7000",
+    "id": "1558104640"
+  },
+  {
+    "city": "Puerto Morazán",
+    "city_ascii": "Puerto Morazan",
+    "admin_name": "Chinandega",
+    "lat": "12.8500",
+    "lng": "-87.1833",
+    "id": "1558742913"
+  },
+  {
+    "city": "Villa Sandino",
+    "city_ascii": "Villa Sandino",
+    "admin_name": "Chontales",
+    "lat": "12.0500",
+    "lng": "-84.9833",
+    "id": "1558762382"
+  },
+  {
+    "city": "San Lucas",
+    "city_ascii": "San Lucas",
+    "admin_name": "Madriz",
+    "lat": "13.4167",
+    "lng": "-86.6000",
+    "id": "1558795437"
+  },
+  {
+    "city": "Palacagüina",
+    "city_ascii": "Palacaguina",
+    "admin_name": "Madriz",
+    "lat": "13.4500",
+    "lng": "-86.4000",
+    "id": "1558692932"
+  },
+  {
+    "city": "Terrabona",
+    "city_ascii": "Terrabona",
+    "admin_name": "Matagalpa",
+    "lat": "12.7333",
+    "lng": "-85.9667",
+    "id": "1558844965"
+  },
+  {
+    "city": "El Ayote",
+    "city_ascii": "El Ayote",
+    "admin_name": "Chontales",
+    "lat": "12.1905",
+    "lng": "-85.2874",
+    "id": "1558565622"
+  },
+  {
+    "city": "El Ayote",
+    "city_ascii": "El Ayote",
+    "admin_name": "Costa Caribe Sur",
+    "lat": "12.5000",
+    "lng": "-84.8167",
+    "id": "1558000010"
+  },
+  {
+    "city": "Santo Domingo",
+    "city_ascii": "Santo Domingo",
+    "admin_name": "Chontales",
+    "lat": "12.2500",
+    "lng": "-85.0667",
+    "id": "1558352804"
+  },
+  {
+    "city": "Totogalpa",
+    "city_ascii": "Totogalpa",
+    "admin_name": "Madriz",
+    "lat": "13.5667",
+    "lng": "-86.5000",
+    "id": "1558378832"
+  },
+  {
+    "city": "Comalapa",
+    "city_ascii": "Comalapa",
+    "admin_name": "Chontales",
+    "lat": "12.2833",
+    "lng": "-85.5000",
+    "id": "1558074780"
+  },
+  {
+    "city": "La Libertad",
+    "city_ascii": "La Libertad",
+    "admin_name": "Chontales",
+    "lat": "12.2167",
+    "lng": "-85.1667",
+    "id": "1558065930"
+  },
+  {
+    "city": "Potosí",
+    "city_ascii": "Potosi",
+    "admin_name": "Rivas",
+    "lat": "11.5000",
+    "lng": "-85.8833",
+    "id": "1558256706"
+  },
+  {
+    "city": "Nandasmo",
+    "city_ascii": "Nandasmo",
+    "admin_name": "Masaya",
+    "lat": "11.9333",
+    "lng": "-86.1167",
+    "id": "1558448256"
+  },
+  {
+    "city": "Tisma",
+    "city_ascii": "Tisma",
+    "admin_name": "Masaya",
+    "lat": "12.0826",
+    "lng": "-86.0178",
+    "id": "1558010790"
+  },
+  {
+    "city": "El Jicaral",
+    "city_ascii": "El Jicaral",
+    "admin_name": "León",
+    "lat": "12.7333",
+    "lng": "-86.3833",
+    "id": "1558715100"
+  },
+  {
+    "city": "Moyogalpa",
+    "city_ascii": "Moyogalpa",
+    "admin_name": "Rivas",
+    "lat": "11.5333",
+    "lng": "-85.7000",
+    "id": "1558198586"
+  },
+  {
+    "city": "Yalagüina",
+    "city_ascii": "Yalaguina",
+    "admin_name": "Madriz",
+    "lat": "13.4833",
+    "lng": "-86.4833",
+    "id": "1558031609"
+  },
+  {
+    "city": "Santa Rosa del Peñón",
+    "city_ascii": "Santa Rosa del Penon",
+    "admin_name": "León",
+    "lat": "12.8000",
+    "lng": "-86.3667",
+    "id": "1558392157"
+  },
+  {
+    "city": "San Francisco Libre",
+    "city_ascii": "San Francisco Libre",
+    "admin_name": "Managua",
+    "lat": "12.5000",
+    "lng": "-86.3000",
+    "id": "1558719164"
+  },
+  {
+    "city": "El Realejo",
+    "city_ascii": "El Realejo",
+    "admin_name": "Chinandega",
+    "lat": "12.5333",
+    "lng": "-87.1667",
+    "id": "1558231692"
+  },
+  {
+    "city": "Kukrahill",
+    "city_ascii": "Kukrahill",
+    "admin_name": "Costa Caribe Sur",
+    "lat": "12.2500",
+    "lng": "-83.7500",
+    "id": "1558733102"
+  },
+  {
+    "city": "Quezalguaque",
+    "city_ascii": "Quezalguaque",
+    "admin_name": "León",
+    "lat": "12.5061",
+    "lng": "-86.9033",
+    "id": "1558204970"
+  },
+  {
+    "city": "San Fernando",
+    "city_ascii": "San Fernando",
+    "admin_name": "Nueva Segovia",
+    "lat": "13.6833",
+    "lng": "-86.3167",
+    "id": "1558217254"
+  },
+  {
+    "city": "Greytown",
+    "city_ascii": "Greytown",
+    "admin_name": "Río San Juan",
+    "lat": "10.9167",
+    "lng": "-83.7000",
+    "id": "1558125707"
+  }
+]

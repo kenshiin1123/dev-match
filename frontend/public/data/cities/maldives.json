@@ -1,0 +1,170 @@
+[
+  {
+    "city": "Male",
+    "city_ascii": "Male",
+    "admin_name": "Maale",
+    "lat": "4.1753",
+    "lng": "73.5089",
+    "id": "1462441685"
+  },
+  {
+    "city": "Hithadhoo",
+    "city_ascii": "Hithadhoo",
+    "admin_name": "Addu",
+    "lat": "-0.6094",
+    "lng": "73.0899",
+    "id": "1462406280"
+  },
+  {
+    "city": "Kulhudhuffushi",
+    "city_ascii": "Kulhudhuffushi",
+    "admin_name": "Thiladhunmathee Dhekunuburi",
+    "lat": "6.6225",
+    "lng": "73.0703",
+    "id": "1462969197"
+  },
+  {
+    "city": "Foammulah",
+    "city_ascii": "Foammulah",
+    "admin_name": "Fuvammulah",
+    "lat": "-0.2932",
+    "lng": "73.4236",
+    "id": "1462000002"
+  },
+  {
+    "city": "Viligili",
+    "city_ascii": "Viligili",
+    "admin_name": "Huvadhuatholhu Uthuruburi",
+    "lat": "0.7569",
+    "lng": "73.4361",
+    "id": "1462034411"
+  },
+  {
+    "city": "Thinadhoo",
+    "city_ascii": "Thinadhoo",
+    "admin_name": "Huvadhuatholhu Dhekunuburi",
+    "lat": "0.5302",
+    "lng": "72.9965",
+    "id": "1462781201"
+  },
+  {
+    "city": "Naifaru",
+    "city_ascii": "Naifaru",
+    "admin_name": "Faadhippolhu",
+    "lat": "5.4444",
+    "lng": "73.3657",
+    "id": "1462186620"
+  },
+  {
+    "city": "Kudahuvadhoo",
+    "city_ascii": "Kudahuvadhoo",
+    "admin_name": "Nilandheatholhu Dhekunuburi",
+    "lat": "2.6711",
+    "lng": "72.8935",
+    "id": "1462282241"
+  },
+  {
+    "city": "Mahibadhoo",
+    "city_ascii": "Mahibadhoo",
+    "admin_name": "Ariatholhu Dhekunuburi",
+    "lat": "3.7575",
+    "lng": "72.9686",
+    "id": "1462235059"
+  },
+  {
+    "city": "Eydhafushi",
+    "city_ascii": "Eydhafushi",
+    "admin_name": "Maalhosmadulu Dhekunuburi",
+    "lat": "5.1038",
+    "lng": "73.0704",
+    "id": "1462623341"
+  },
+  {
+    "city": "Funadhoo",
+    "city_ascii": "Funadhoo",
+    "admin_name": "Miladhunmadulu Uthuruburi",
+    "lat": "6.1482",
+    "lng": "73.2900",
+    "id": "1462657112"
+  },
+  {
+    "city": "Manadhoo",
+    "city_ascii": "Manadhoo",
+    "admin_name": "Miladhunmadulu Dhekunuburi",
+    "lat": "5.7628",
+    "lng": "73.4106",
+    "id": "1462220750"
+  },
+  {
+    "city": "Ungoofaaru",
+    "city_ascii": "Ungoofaaru",
+    "admin_name": "Maalhosmadulu Uthuruburi",
+    "lat": "5.6681",
+    "lng": "73.0306",
+    "id": "1462941721"
+  },
+  {
+    "city": "Veymandoo",
+    "city_ascii": "Veymandoo",
+    "admin_name": "Kolhumadulu",
+    "lat": "2.1881",
+    "lng": "73.0947",
+    "id": "1462464790"
+  },
+  {
+    "city": "Felidhoo",
+    "city_ascii": "Felidhoo",
+    "admin_name": "Felidheatholhu",
+    "lat": "3.4717",
+    "lng": "73.5472",
+    "id": "1462456773"
+  },
+  {
+    "city": "Rasdhoo",
+    "city_ascii": "Rasdhoo",
+    "admin_name": "Ariatholhu Uthuruburi",
+    "lat": "4.2631",
+    "lng": "72.9919",
+    "id": "1462000003"
+  },
+  {
+    "city": "Dhihdhoo",
+    "city_ascii": "Dhihdhoo",
+    "admin_name": "Thiladhunmathee Uthuruburi",
+    "lat": "6.8874",
+    "lng": "73.1140",
+    "id": "1462109783"
+  },
+  {
+    "city": "Muli",
+    "city_ascii": "Muli",
+    "admin_name": "Mulakatholhu",
+    "lat": "2.9217",
+    "lng": "73.5811",
+    "id": "1462436531"
+  },
+  {
+    "city": "Fonadhoo",
+    "city_ascii": "Fonadhoo",
+    "admin_name": "Hahdhunmathi",
+    "lat": "1.8342",
+    "lng": "73.5031",
+    "id": "1462000001"
+  },
+  {
+    "city": "Nilandhoo",
+    "city_ascii": "Nilandhoo",
+    "admin_name": "Nilandheatholhu Uthuruburi",
+    "lat": "3.0567",
+    "lng": "72.8900",
+    "id": "1462000005"
+  },
+  {
+    "city": "Thulusdhoo",
+    "city_ascii": "Thulusdhoo",
+    "admin_name": "Maaleatholhu",
+    "lat": "4.3742",
+    "lng": "73.6517",
+    "id": "1462000004"
+  }
+]

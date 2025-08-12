@@ -1,0 +1,1274 @@
+[
+  {
+    "city": "Budapest",
+    "city_ascii": "Budapest",
+    "admin_name": "Budapest",
+    "lat": "47.4983",
+    "lng": "19.0408",
+    "id": "1348611435"
+  },
+  {
+    "city": "Győr",
+    "city_ascii": "Gyor",
+    "admin_name": "Győr-Moson-Sopron",
+    "lat": "47.6842",
+    "lng": "17.6344",
+    "id": "1348507878"
+  },
+  {
+    "city": "Debrecen",
+    "city_ascii": "Debrecen",
+    "admin_name": "Hajdú-Bihar",
+    "lat": "47.5300",
+    "lng": "21.6392",
+    "id": "1348460698"
+  },
+  {
+    "city": "Szeged",
+    "city_ascii": "Szeged",
+    "admin_name": "Csongrád-Csanád",
+    "lat": "46.2500",
+    "lng": "20.1667",
+    "id": "1348655615"
+  },
+  {
+    "city": "Szombathely",
+    "city_ascii": "Szombathely",
+    "admin_name": "Vas",
+    "lat": "47.2351",
+    "lng": "16.6219",
+    "id": "1348565183"
+  },
+  {
+    "city": "Miskolc",
+    "city_ascii": "Miskolc",
+    "admin_name": "Borsod-Abaúj-Zemplén",
+    "lat": "48.1000",
+    "lng": "20.7833",
+    "id": "1348668815"
+  },
+  {
+    "city": "Pécs",
+    "city_ascii": "Pecs",
+    "admin_name": "Baranya",
+    "lat": "46.0708",
+    "lng": "18.2331",
+    "id": "1348611992"
+  },
+  {
+    "city": "Nyíregyháza",
+    "city_ascii": "Nyiregyhaza",
+    "admin_name": "Szabolcs-Szatmár-Bereg",
+    "lat": "47.9558",
+    "lng": "21.7168",
+    "id": "1348653343"
+  },
+  {
+    "city": "Kecskemét",
+    "city_ascii": "Kecskemet",
+    "admin_name": "Bács-Kiskun",
+    "lat": "46.9075",
+    "lng": "19.6917",
+    "id": "1348900171"
+  },
+  {
+    "city": "Sopron",
+    "city_ascii": "Sopron",
+    "admin_name": "Sopron",
+    "lat": "47.6849",
+    "lng": "16.5831",
+    "id": "1348988570"
+  },
+  {
+    "city": "Székesfehérvár",
+    "city_ascii": "Szekesfehervar",
+    "admin_name": "Fejér",
+    "lat": "47.1910",
+    "lng": "18.4108",
+    "id": "1348968301"
+  },
+  {
+    "city": "Érd",
+    "city_ascii": "Erd",
+    "admin_name": "Pest",
+    "lat": "47.3833",
+    "lng": "18.9167",
+    "id": "1348575496"
+  },
+  {
+    "city": "Szolnok",
+    "city_ascii": "Szolnok",
+    "admin_name": "Jász-Nagykun-Szolnok",
+    "lat": "47.1747",
+    "lng": "20.1764",
+    "id": "1348287339"
+  },
+  {
+    "city": "Tatabánya",
+    "city_ascii": "Tatabanya",
+    "admin_name": "Komárom-Esztergom",
+    "lat": "47.5862",
+    "lng": "18.3949",
+    "id": "1348450358"
+  },
+  {
+    "city": "Kaposvár",
+    "city_ascii": "Kaposvar",
+    "admin_name": "Somogy",
+    "lat": "46.3667",
+    "lng": "17.7833",
+    "id": "1348114190"
+  },
+  {
+    "city": "Veszprém",
+    "city_ascii": "Veszprem",
+    "admin_name": "Veszprém",
+    "lat": "47.1000",
+    "lng": "17.9167",
+    "id": "1348279762"
+  },
+  {
+    "city": "Zalaegerszeg",
+    "city_ascii": "Zalaegerszeg",
+    "admin_name": "Zala",
+    "lat": "46.8392",
+    "lng": "16.8511",
+    "id": "1348293073"
+  },
+  {
+    "city": "Békéscsaba",
+    "city_ascii": "Bekescsaba",
+    "admin_name": "Békés",
+    "lat": "46.6833",
+    "lng": "21.0833",
+    "id": "1348329493"
+  },
+  {
+    "city": "Eger",
+    "city_ascii": "Eger",
+    "admin_name": "Heves",
+    "lat": "47.8989",
+    "lng": "20.3747",
+    "id": "1348559499"
+  },
+  {
+    "city": "Dunakeszi",
+    "city_ascii": "Dunakeszi",
+    "admin_name": "Pest",
+    "lat": "47.6297",
+    "lng": "19.1381",
+    "id": "1348178190"
+  },
+  {
+    "city": "Nagykanizsa",
+    "city_ascii": "Nagykanizsa",
+    "admin_name": "Nagykanizsa",
+    "lat": "46.4558",
+    "lng": "16.9975",
+    "id": "1348509592"
+  },
+  {
+    "city": "Hódmezővásárhely",
+    "city_ascii": "Hodmezovasarhely",
+    "admin_name": "Hódmezővásárhely",
+    "lat": "46.4303",
+    "lng": "20.3189",
+    "id": "1348676241"
+  },
+  {
+    "city": "Dunaújváros",
+    "city_ascii": "Dunaujvaros",
+    "admin_name": "Dunaújváros",
+    "lat": "46.9833",
+    "lng": "18.9167",
+    "id": "1348928583"
+  },
+  {
+    "city": "Szigetszentmiklós",
+    "city_ascii": "Szigetszentmiklos",
+    "admin_name": "Pest",
+    "lat": "47.3453",
+    "lng": "19.0483",
+    "id": "1348768623"
+  },
+  {
+    "city": "Cegléd",
+    "city_ascii": "Cegled",
+    "admin_name": "Pest",
+    "lat": "47.1772",
+    "lng": "19.7981",
+    "id": "1348930347"
+  },
+  {
+    "city": "Mosonmagyaróvár",
+    "city_ascii": "Mosonmagyarovar",
+    "admin_name": "Győr-Moson-Sopron",
+    "lat": "47.8737",
+    "lng": "17.2687",
+    "id": "1348666755"
+  },
+  {
+    "city": "Vác",
+    "city_ascii": "Vac",
+    "admin_name": "Pest",
+    "lat": "47.7753",
+    "lng": "19.1311",
+    "id": "1348810997"
+  },
+  {
+    "city": "Baja",
+    "city_ascii": "Baja",
+    "admin_name": "Bács-Kiskun",
+    "lat": "46.1833",
+    "lng": "18.9536",
+    "id": "1348727226"
+  },
+  {
+    "city": "Gödöllő",
+    "city_ascii": "Godollo",
+    "admin_name": "Pest",
+    "lat": "47.6000",
+    "lng": "19.3667",
+    "id": "1348039473"
+  },
+  {
+    "city": "Salgótarján",
+    "city_ascii": "Salgotarjan",
+    "admin_name": "Nógrád",
+    "lat": "48.0853",
+    "lng": "19.7867",
+    "id": "1348290189"
+  },
+  {
+    "city": "Ózd",
+    "city_ascii": "Ozd",
+    "admin_name": "Borsod-Abaúj-Zemplén",
+    "lat": "48.2192",
+    "lng": "20.2869",
+    "id": "1348082095"
+  },
+  {
+    "city": "Szekszárd",
+    "city_ascii": "Szekszard",
+    "admin_name": "Tolna",
+    "lat": "46.3558",
+    "lng": "18.7039",
+    "id": "1348026284"
+  },
+  {
+    "city": "Budaörs",
+    "city_ascii": "Budaors",
+    "admin_name": "Pest",
+    "lat": "47.4606",
+    "lng": "18.9578",
+    "id": "1348705618"
+  },
+  {
+    "city": "Hajdúböszörmény",
+    "city_ascii": "Hajduboszormeny",
+    "admin_name": "Hajdú-Bihar",
+    "lat": "47.6667",
+    "lng": "21.5167",
+    "id": "1348357188"
+  },
+  {
+    "city": "Esztergom",
+    "city_ascii": "Esztergom",
+    "admin_name": "Komárom-Esztergom",
+    "lat": "47.7856",
+    "lng": "18.7403",
+    "id": "1348527410"
+  },
+  {
+    "city": "Kiskunfélegyháza",
+    "city_ascii": "Kiskunfelegyhaza",
+    "admin_name": "Bács-Kiskun",
+    "lat": "46.7050",
+    "lng": "19.8500",
+    "id": "1348638728"
+  },
+  {
+    "city": "Pápa",
+    "city_ascii": "Papa",
+    "admin_name": "Veszprém",
+    "lat": "47.3237",
+    "lng": "17.4680",
+    "id": "1348169908"
+  },
+  {
+    "city": "Szentendre",
+    "city_ascii": "Szentendre",
+    "admin_name": "Pest",
+    "lat": "47.6733",
+    "lng": "19.0725",
+    "id": "1348281649"
+  },
+  {
+    "city": "Gyula",
+    "city_ascii": "Gyula",
+    "admin_name": "Békés",
+    "lat": "46.6500",
+    "lng": "21.2828",
+    "id": "1348624339"
+  },
+  {
+    "city": "Gyöngyös",
+    "city_ascii": "Gyongyos",
+    "admin_name": "Heves",
+    "lat": "47.7833",
+    "lng": "19.9333",
+    "id": "1348619810"
+  },
+  {
+    "city": "Ajka",
+    "city_ascii": "Ajka",
+    "admin_name": "Veszprém",
+    "lat": "47.1006",
+    "lng": "17.5522",
+    "id": "1348671384"
+  },
+  {
+    "city": "Kiskunhalas",
+    "city_ascii": "Kiskunhalas",
+    "admin_name": "Bács-Kiskun",
+    "lat": "46.4319",
+    "lng": "19.4883",
+    "id": "1348184980"
+  },
+  {
+    "city": "Jászberény",
+    "city_ascii": "Jaszbereny",
+    "admin_name": "Jász-Nagykun-Szolnok",
+    "lat": "47.5000",
+    "lng": "19.9167",
+    "id": "1348347095"
+  },
+  {
+    "city": "Orosháza",
+    "city_ascii": "Oroshaza",
+    "admin_name": "Békés",
+    "lat": "46.5678",
+    "lng": "20.6428",
+    "id": "1348070535"
+  },
+  {
+    "city": "Szentes",
+    "city_ascii": "Szentes",
+    "admin_name": "Csongrád-Csanád",
+    "lat": "46.6519",
+    "lng": "20.2572",
+    "id": "1348319560"
+  },
+  {
+    "city": "Gyál",
+    "city_ascii": "Gyal",
+    "admin_name": "Pest",
+    "lat": "47.3822",
+    "lng": "19.2136",
+    "id": "1348670361"
+  },
+  {
+    "city": "Siófok",
+    "city_ascii": "Siofok",
+    "admin_name": "Somogy",
+    "lat": "46.9000",
+    "lng": "18.0500",
+    "id": "1348589938"
+  },
+  {
+    "city": "Kazincbarcika",
+    "city_ascii": "Kazincbarcika",
+    "admin_name": "Borsod-Abaúj-Zemplén",
+    "lat": "48.2531",
+    "lng": "20.6456",
+    "id": "1348628122"
+  },
+  {
+    "city": "Hajdúszoboszló",
+    "city_ascii": "Hajduszoboszlo",
+    "admin_name": "Hajdú-Bihar",
+    "lat": "47.4500",
+    "lng": "21.3833",
+    "id": "1348837635"
+  },
+  {
+    "city": "Dunaharaszti",
+    "city_ascii": "Dunaharaszti",
+    "admin_name": "Pest",
+    "lat": "47.3553",
+    "lng": "19.0844",
+    "id": "1348702931"
+  },
+  {
+    "city": "Tata",
+    "city_ascii": "Tata",
+    "admin_name": "Komárom-Esztergom",
+    "lat": "47.6500",
+    "lng": "18.3167",
+    "id": "1348967161"
+  },
+  {
+    "city": "Nagykőrös",
+    "city_ascii": "Nagykoros",
+    "admin_name": "Pest",
+    "lat": "47.0331",
+    "lng": "19.7839",
+    "id": "1348967171"
+  },
+  {
+    "city": "Göd",
+    "city_ascii": "God",
+    "admin_name": "Pest",
+    "lat": "47.6906",
+    "lng": "19.1344",
+    "id": "1348600580"
+  },
+  {
+    "city": "Makó",
+    "city_ascii": "Mako",
+    "admin_name": "Csongrád-Csanád",
+    "lat": "46.2200",
+    "lng": "20.4789",
+    "id": "1348716786"
+  },
+  {
+    "city": "Vecsés",
+    "city_ascii": "Vecses",
+    "admin_name": "Pest",
+    "lat": "47.4108",
+    "lng": "19.2722",
+    "id": "1348714695"
+  },
+  {
+    "city": "Veresegyház",
+    "city_ascii": "Veresegyhaz",
+    "admin_name": "Pest",
+    "lat": "47.6569",
+    "lng": "19.2847",
+    "id": "1348362703"
+  },
+  {
+    "city": "Fót",
+    "city_ascii": "Fot",
+    "admin_name": "Pest",
+    "lat": "47.6092",
+    "lng": "19.1928",
+    "id": "1348547694"
+  },
+  {
+    "city": "Komárom",
+    "city_ascii": "Komarom",
+    "admin_name": "Komárom-Esztergom",
+    "lat": "47.7400",
+    "lng": "18.1217",
+    "id": "1348857421"
+  },
+  {
+    "city": "Gyömrő",
+    "city_ascii": "Gyomro",
+    "admin_name": "Pest",
+    "lat": "47.4353",
+    "lng": "19.3986",
+    "id": "1348769818"
+  },
+  {
+    "city": "Hatvan",
+    "city_ascii": "Hatvan",
+    "admin_name": "Heves",
+    "lat": "47.6681",
+    "lng": "19.6697",
+    "id": "1348933364"
+  },
+  {
+    "city": "Monor",
+    "city_ascii": "Monor",
+    "admin_name": "Pest",
+    "lat": "47.3475",
+    "lng": "19.4489",
+    "id": "1348049694"
+  },
+  {
+    "city": "Komló",
+    "city_ascii": "Komlo",
+    "admin_name": "Baranya",
+    "lat": "46.1911",
+    "lng": "18.2611",
+    "id": "1348836400"
+  },
+  {
+    "city": "Várpalota",
+    "city_ascii": "Varpalota",
+    "admin_name": "Veszprém",
+    "lat": "47.1972",
+    "lng": "18.1394",
+    "id": "1348052599"
+  },
+  {
+    "city": "Törökszentmiklós",
+    "city_ascii": "Torokszentmiklos",
+    "admin_name": "Jász-Nagykun-Szolnok",
+    "lat": "47.1833",
+    "lng": "20.4167",
+    "id": "1348803732"
+  },
+  {
+    "city": "Pomáz",
+    "city_ascii": "Pomaz",
+    "admin_name": "Pest",
+    "lat": "47.6472",
+    "lng": "19.0269",
+    "id": "1348490155"
+  },
+  {
+    "city": "Szigethalom",
+    "city_ascii": "Szigethalom",
+    "admin_name": "Pest",
+    "lat": "47.3228",
+    "lng": "19.0128",
+    "id": "1348568337"
+  },
+  {
+    "city": "Karcag",
+    "city_ascii": "Karcag",
+    "admin_name": "Jász-Nagykun-Szolnok",
+    "lat": "47.3167",
+    "lng": "20.9333",
+    "id": "1348514059"
+  },
+  {
+    "city": "Százhalombatta",
+    "city_ascii": "Szazhalombatta",
+    "admin_name": "Pest",
+    "lat": "47.3167",
+    "lng": "18.9114",
+    "id": "1348329361"
+  },
+  {
+    "city": "Paks",
+    "city_ascii": "Paks",
+    "admin_name": "Tolna",
+    "lat": "46.6219",
+    "lng": "18.8558",
+    "id": "1348932688"
+  },
+  {
+    "city": "Oroszlány",
+    "city_ascii": "Oroszlany",
+    "admin_name": "Komárom-Esztergom",
+    "lat": "47.4892",
+    "lng": "18.3164",
+    "id": "1348109196"
+  },
+  {
+    "city": "Keszthely",
+    "city_ascii": "Keszthely",
+    "admin_name": "Zala",
+    "lat": "46.7675",
+    "lng": "17.2463",
+    "id": "1348430852"
+  },
+  {
+    "city": "Dabas",
+    "city_ascii": "Dabas",
+    "admin_name": "Pest",
+    "lat": "47.1833",
+    "lng": "19.3167",
+    "id": "1348671815"
+  },
+  {
+    "city": "Békés",
+    "city_ascii": "Bekes",
+    "admin_name": "Békés",
+    "lat": "46.7769",
+    "lng": "21.1250",
+    "id": "1348964497"
+  },
+  {
+    "city": "Pécel",
+    "city_ascii": "Pecel",
+    "admin_name": "Pest",
+    "lat": "47.4911",
+    "lng": "19.3419",
+    "id": "1348260007"
+  },
+  {
+    "city": "Mohács",
+    "city_ascii": "Mohacs",
+    "admin_name": "Baranya",
+    "lat": "45.9958",
+    "lng": "18.6797",
+    "id": "1348907014"
+  },
+  {
+    "city": "Dombóvár",
+    "city_ascii": "Dombovar",
+    "admin_name": "Tolna",
+    "lat": "46.3769",
+    "lng": "18.1310",
+    "id": "1348286136"
+  },
+  {
+    "city": "Balmazújváros",
+    "city_ascii": "Balmazujvaros",
+    "admin_name": "Hajdú-Bihar",
+    "lat": "47.6167",
+    "lng": "21.3500",
+    "id": "1348090687"
+  },
+  {
+    "city": "Hajdúnánás",
+    "city_ascii": "Hajdunanas",
+    "admin_name": "Hajdú-Bihar",
+    "lat": "47.8500",
+    "lng": "21.4333",
+    "id": "1348235609"
+  },
+  {
+    "city": "Budakeszi",
+    "city_ascii": "Budakeszi",
+    "admin_name": "Pest",
+    "lat": "47.5111",
+    "lng": "18.9300",
+    "id": "1348195369"
+  },
+  {
+    "city": "Mezőkövesd",
+    "city_ascii": "Mezokovesd",
+    "admin_name": "Borsod-Abaúj-Zemplén",
+    "lat": "47.8067",
+    "lng": "20.5647",
+    "id": "1348265393"
+  },
+  {
+    "city": "Mezőtúr",
+    "city_ascii": "Mezotur",
+    "admin_name": "Jász-Nagykun-Szolnok",
+    "lat": "47.0042",
+    "lng": "20.6181",
+    "id": "1348445088"
+  },
+  {
+    "city": "Csongrád",
+    "city_ascii": "Csongrad",
+    "admin_name": "Csongrád-Csanád",
+    "lat": "46.7111",
+    "lng": "20.1403",
+    "id": "1348885069"
+  },
+  {
+    "city": "Biatorbágy",
+    "city_ascii": "Biatorbagy",
+    "admin_name": "Pest",
+    "lat": "47.4742",
+    "lng": "18.8236",
+    "id": "1348104935"
+  },
+  {
+    "city": "Mátészalka",
+    "city_ascii": "Mateszalka",
+    "admin_name": "Szabolcs-Szatmár-Bereg",
+    "lat": "47.9431",
+    "lng": "22.3167",
+    "id": "1348758097"
+  },
+  {
+    "city": "Kisvárda",
+    "city_ascii": "Kisvarda",
+    "admin_name": "Szabolcs-Szatmár-Bereg",
+    "lat": "48.2264",
+    "lng": "22.0844",
+    "id": "1348590811"
+  },
+  {
+    "city": "Tiszaújváros",
+    "city_ascii": "Tiszaujvaros",
+    "admin_name": "Borsod-Abaúj-Zemplén",
+    "lat": "47.9228",
+    "lng": "21.0519",
+    "id": "1348143264"
+  },
+  {
+    "city": "Abony",
+    "city_ascii": "Abony",
+    "admin_name": "Pest",
+    "lat": "47.1892",
+    "lng": "20.0053",
+    "id": "1348748527"
+  },
+  {
+    "city": "Törökbálint",
+    "city_ascii": "Torokbalint",
+    "admin_name": "Pest",
+    "lat": "47.4356",
+    "lng": "18.9156",
+    "id": "1348719921"
+  },
+  {
+    "city": "Pilisvörösvár",
+    "city_ascii": "Pilisvorosvar",
+    "admin_name": "Pest",
+    "lat": "47.6211",
+    "lng": "18.9108",
+    "id": "1348911831"
+  },
+  {
+    "city": "Szarvas",
+    "city_ascii": "Szarvas",
+    "admin_name": "Békés",
+    "lat": "46.8500",
+    "lng": "20.6000",
+    "id": "1348371438"
+  },
+  {
+    "city": "Kalocsa",
+    "city_ascii": "Kalocsa",
+    "admin_name": "Bács-Kiskun",
+    "lat": "46.5333",
+    "lng": "18.9856",
+    "id": "1348222203"
+  },
+  {
+    "city": "Sárvár",
+    "city_ascii": "Sarvar",
+    "admin_name": "Vas",
+    "lat": "47.2500",
+    "lng": "16.9333",
+    "id": "1348516359"
+  },
+  {
+    "city": "Hajdúsámson",
+    "city_ascii": "Hajdusamson",
+    "admin_name": "Hajdú-Bihar",
+    "lat": "47.6000",
+    "lng": "21.7667",
+    "id": "1348454380"
+  },
+  {
+    "city": "Tapolca",
+    "city_ascii": "Tapolca",
+    "admin_name": "Veszprém",
+    "lat": "46.8828",
+    "lng": "17.4411",
+    "id": "1348079279"
+  },
+  {
+    "city": "Berettyóújfalu",
+    "city_ascii": "Berettyoujfalu",
+    "admin_name": "Hajdú-Bihar",
+    "lat": "47.2167",
+    "lng": "21.5500",
+    "id": "1348328817"
+  },
+  {
+    "city": "Balassagyarmat",
+    "city_ascii": "Balassagyarmat",
+    "admin_name": "Nógrád",
+    "lat": "48.0712",
+    "lng": "19.2937",
+    "id": "1348612236"
+  },
+  {
+    "city": "Gárdony",
+    "city_ascii": "Gardony",
+    "admin_name": "Fejér",
+    "lat": "47.1973",
+    "lng": "18.6091",
+    "id": "1348505408"
+  },
+  {
+    "city": "Albertirsa",
+    "city_ascii": "Albertirsa",
+    "admin_name": "Pest",
+    "lat": "47.2400",
+    "lng": "19.6067",
+    "id": "1348408587"
+  },
+  {
+    "city": "Kerepestarcsa",
+    "city_ascii": "Kerepestarcsa",
+    "admin_name": "Pest",
+    "lat": "47.5478",
+    "lng": "19.2633",
+    "id": "1348751669"
+  },
+  {
+    "city": "Mór",
+    "city_ascii": "Mor",
+    "admin_name": "Fejér",
+    "lat": "47.3717",
+    "lng": "18.2086",
+    "id": "1348505276"
+  },
+  {
+    "city": "Kiskőrös",
+    "city_ascii": "Kiskoros",
+    "admin_name": "Bács-Kiskun",
+    "lat": "46.6203",
+    "lng": "19.2836",
+    "id": "1348641106"
+  },
+  {
+    "city": "Püspökladány",
+    "city_ascii": "Puspokladany",
+    "admin_name": "Hajdú-Bihar",
+    "lat": "47.3197",
+    "lng": "21.1139",
+    "id": "1348038932"
+  },
+  {
+    "city": "Hajdúhadház",
+    "city_ascii": "Hajduhadhaz",
+    "admin_name": "Hajdú-Bihar",
+    "lat": "47.6833",
+    "lng": "21.6667",
+    "id": "1348644629"
+  },
+  {
+    "city": "Sátoraljaújhely",
+    "city_ascii": "Satoraljaujhely",
+    "admin_name": "Borsod-Abaúj-Zemplén",
+    "lat": "48.3941",
+    "lng": "21.6561",
+    "id": "1348874769"
+  },
+  {
+    "city": "Balatonfüred",
+    "city_ascii": "Balatonfured",
+    "admin_name": "Veszprém",
+    "lat": "46.9500",
+    "lng": "17.8833",
+    "id": "1348517997"
+  },
+  {
+    "city": "Üllő",
+    "city_ascii": "Ullo",
+    "admin_name": "Pest",
+    "lat": "47.3842",
+    "lng": "19.3444",
+    "id": "1348501834"
+  },
+  {
+    "city": "Maglód",
+    "city_ascii": "Maglod",
+    "admin_name": "Pest",
+    "lat": "47.4439",
+    "lng": "19.3525",
+    "id": "1348383412"
+  },
+  {
+    "city": "Tiszavasvári",
+    "city_ascii": "Tiszavasvari",
+    "admin_name": "Szabolcs-Szatmár-Bereg",
+    "lat": "47.9511",
+    "lng": "21.3689",
+    "id": "1348419818"
+  },
+  {
+    "city": "Újfehértó",
+    "city_ascii": "Ujfeherto",
+    "admin_name": "Szabolcs-Szatmár-Bereg",
+    "lat": "47.8000",
+    "lng": "21.6833",
+    "id": "1348703777"
+  },
+  {
+    "city": "Halásztelek",
+    "city_ascii": "Halasztelek",
+    "admin_name": "Pest",
+    "lat": "47.3608",
+    "lng": "18.9878",
+    "id": "1348284345"
+  },
+  {
+    "city": "Budakalász",
+    "city_ascii": "Budakalasz",
+    "admin_name": "Pest",
+    "lat": "47.6215",
+    "lng": "19.0460",
+    "id": "1348378695"
+  },
+  {
+    "city": "Bonyhád",
+    "city_ascii": "Bonyhad",
+    "admin_name": "Tolna",
+    "lat": "46.3000",
+    "lng": "18.5300",
+    "id": "1348576105"
+  },
+  {
+    "city": "Gyomaendrőd",
+    "city_ascii": "Gyomaendrod",
+    "admin_name": "Békés",
+    "lat": "46.9361",
+    "lng": "20.8233",
+    "id": "1348198279"
+  },
+  {
+    "city": "Nagykáta",
+    "city_ascii": "Nagykata",
+    "admin_name": "Pest",
+    "lat": "47.4178",
+    "lng": "19.7414",
+    "id": "1348906968"
+  },
+  {
+    "city": "Pilis",
+    "city_ascii": "Pilis",
+    "admin_name": "Pest",
+    "lat": "47.2858",
+    "lng": "19.5469",
+    "id": "1348981551"
+  },
+  {
+    "city": "Kőszeg",
+    "city_ascii": "Koszeg",
+    "admin_name": "Vas",
+    "lat": "47.3819",
+    "lng": "16.5522",
+    "id": "1348854812"
+  },
+  {
+    "city": "Tiszakécske",
+    "city_ascii": "Tiszakecske",
+    "admin_name": "Bács-Kiskun",
+    "lat": "46.9311",
+    "lng": "20.0950",
+    "id": "1348645870"
+  },
+  {
+    "city": "Lajosmizse",
+    "city_ascii": "Lajosmizse",
+    "admin_name": "Bács-Kiskun",
+    "lat": "47.0264",
+    "lng": "19.5575",
+    "id": "1348320390"
+  },
+  {
+    "city": "Isaszeg",
+    "city_ascii": "Isaszeg",
+    "admin_name": "Pest",
+    "lat": "47.5333",
+    "lng": "19.4000",
+    "id": "1348502220"
+  },
+  {
+    "city": "Diósd",
+    "city_ascii": "Diosd",
+    "admin_name": "Pest",
+    "lat": "47.4042",
+    "lng": "18.9458",
+    "id": "1348180472"
+  },
+  {
+    "city": "Sárbogárd",
+    "city_ascii": "Sarbogard",
+    "admin_name": "Fejér",
+    "lat": "46.8878",
+    "lng": "18.6193",
+    "id": "1348805330"
+  },
+  {
+    "city": "Dorog",
+    "city_ascii": "Dorog",
+    "admin_name": "Komárom-Esztergom",
+    "lat": "47.7194",
+    "lng": "18.7292",
+    "id": "1348677837"
+  },
+  {
+    "city": "Tököl",
+    "city_ascii": "Tokol",
+    "admin_name": "Pest",
+    "lat": "47.3219",
+    "lng": "18.9619",
+    "id": "1348214866"
+  },
+  {
+    "city": "Sajószentpéter",
+    "city_ascii": "Sajoszentpeter",
+    "admin_name": "Borsod-Abaúj-Zemplén",
+    "lat": "48.2169",
+    "lng": "20.7183",
+    "id": "1348595790"
+  },
+  {
+    "city": "Bicske",
+    "city_ascii": "Bicske",
+    "admin_name": "Fejér",
+    "lat": "47.4907",
+    "lng": "18.6363",
+    "id": "1348286686"
+  },
+  {
+    "city": "Nyírbátor",
+    "city_ascii": "Nyirbator",
+    "admin_name": "Szabolcs-Szatmár-Bereg",
+    "lat": "47.8353",
+    "lng": "22.1300",
+    "id": "1348699897"
+  },
+  {
+    "city": "Kiskunmajsa",
+    "city_ascii": "Kiskunmajsa",
+    "admin_name": "Bács-Kiskun",
+    "lat": "46.4922",
+    "lng": "19.7367",
+    "id": "1348210119"
+  },
+  {
+    "city": "Bátonyterenye",
+    "city_ascii": "Batonyterenye",
+    "admin_name": "Nógrád",
+    "lat": "47.9892",
+    "lng": "19.8286",
+    "id": "1348134134"
+  },
+  {
+    "city": "Ráckeve",
+    "city_ascii": "Rackeve",
+    "admin_name": "Pest",
+    "lat": "47.1608",
+    "lng": "18.9456",
+    "id": "1348331289"
+  },
+  {
+    "city": "Solymár",
+    "city_ascii": "Solymar",
+    "admin_name": "Pest",
+    "lat": "47.5910",
+    "lng": "18.9290",
+    "id": "1348009573"
+  },
+  {
+    "city": "Tiszafüred",
+    "city_ascii": "Tiszafured",
+    "admin_name": "Jász-Nagykun-Szolnok",
+    "lat": "47.6190",
+    "lng": "20.7600",
+    "id": "1348745006"
+  },
+  {
+    "city": "Tolna",
+    "city_ascii": "Tolna",
+    "admin_name": "Tolna",
+    "lat": "46.4250",
+    "lng": "18.7750",
+    "id": "1348510202"
+  },
+  {
+    "city": "Sárospatak",
+    "city_ascii": "Sarospatak",
+    "admin_name": "Borsod-Abaúj-Zemplén",
+    "lat": "48.3189",
+    "lng": "21.5661",
+    "id": "1348369624"
+  },
+  {
+    "city": "Marcali",
+    "city_ascii": "Marcali",
+    "admin_name": "Somogy",
+    "lat": "46.5831",
+    "lng": "17.4064",
+    "id": "1348924700"
+  },
+  {
+    "city": "Tárnok",
+    "city_ascii": "Tarnok",
+    "admin_name": "Pest",
+    "lat": "47.3597",
+    "lng": "18.8586",
+    "id": "1348320388"
+  },
+  {
+    "city": "Csömör",
+    "city_ascii": "Csomor",
+    "admin_name": "Pest",
+    "lat": "47.5467",
+    "lng": "19.2244",
+    "id": "1348004899"
+  },
+  {
+    "city": "Körmend",
+    "city_ascii": "Kormend",
+    "admin_name": "Vas",
+    "lat": "47.0110",
+    "lng": "16.6060",
+    "id": "1348688701"
+  },
+  {
+    "city": "Kapuvár",
+    "city_ascii": "Kapuvar",
+    "admin_name": "Győr-Moson-Sopron",
+    "lat": "47.6000",
+    "lng": "17.0333",
+    "id": "1348249118"
+  },
+  {
+    "city": "Balatonalmádi",
+    "city_ascii": "Balatonalmadi",
+    "admin_name": "Veszprém",
+    "lat": "47.0292",
+    "lng": "18.0219",
+    "id": "1348907128"
+  },
+  {
+    "city": "Ócsa",
+    "city_ascii": "Ocsa",
+    "admin_name": "Pest",
+    "lat": "47.2933",
+    "lng": "19.2258",
+    "id": "1348733489"
+  },
+  {
+    "city": "Tiszaföldvár",
+    "city_ascii": "Tiszafoldvar",
+    "admin_name": "Jász-Nagykun-Szolnok",
+    "lat": "46.9833",
+    "lng": "20.2500",
+    "id": "1348506959"
+  },
+  {
+    "city": "Kisújszállás",
+    "city_ascii": "Kisujszallas",
+    "admin_name": "Jász-Nagykun-Szolnok",
+    "lat": "47.2167",
+    "lng": "20.7667",
+    "id": "1348563920"
+  },
+  {
+    "city": "Heves",
+    "city_ascii": "Heves",
+    "admin_name": "Heves",
+    "lat": "47.6000",
+    "lng": "20.2833",
+    "id": "1348843058"
+  },
+  {
+    "city": "Erdőkertes",
+    "city_ascii": "Erdokertes",
+    "admin_name": "Pest",
+    "lat": "47.6749",
+    "lng": "19.3158",
+    "id": "1348236024"
+  },
+  {
+    "city": "Celldömölk",
+    "city_ascii": "Celldomolk",
+    "admin_name": "Vas",
+    "lat": "47.2557",
+    "lng": "17.1491",
+    "id": "1348592916"
+  },
+  {
+    "city": "Barcs",
+    "city_ascii": "Barcs",
+    "admin_name": "Somogy",
+    "lat": "45.9600",
+    "lng": "17.4600",
+    "id": "1348676786"
+  },
+  {
+    "city": "Csorna",
+    "city_ascii": "Csorna",
+    "admin_name": "Győr-Moson-Sopron",
+    "lat": "47.6167",
+    "lng": "17.2500",
+    "id": "1348687588"
+  },
+  {
+    "city": "Szigetvár",
+    "city_ascii": "Szigetvar",
+    "admin_name": "Baranya",
+    "lat": "46.0475",
+    "lng": "17.7994",
+    "id": "1348527343"
+  },
+  {
+    "city": "Mezőberény",
+    "city_ascii": "Mezobereny",
+    "admin_name": "Békés",
+    "lat": "46.8256",
+    "lng": "21.0289",
+    "id": "1348124079"
+  },
+  {
+    "city": "Nagyatád",
+    "city_ascii": "Nagyatad",
+    "admin_name": "Somogy",
+    "lat": "46.2294",
+    "lng": "17.3575",
+    "id": "1348804654"
+  },
+  {
+    "city": "Kiskunlacháza",
+    "city_ascii": "Kiskunlachaza",
+    "admin_name": "Pest",
+    "lat": "47.2000",
+    "lng": "19.0167",
+    "id": "1348557191"
+  },
+  {
+    "city": "Edelény",
+    "city_ascii": "Edeleny",
+    "admin_name": "Borsod-Abaúj-Zemplén",
+    "lat": "48.2967",
+    "lng": "20.7442",
+    "id": "1348035547"
+  },
+  {
+    "city": "Sarkad",
+    "city_ascii": "Sarkad",
+    "admin_name": "Békés",
+    "lat": "46.7400",
+    "lng": "21.3778",
+    "id": "1348531339"
+  },
+  {
+    "city": "Nagykálló",
+    "city_ascii": "Nagykallo",
+    "admin_name": "Szabolcs-Szatmár-Bereg",
+    "lat": "47.8831",
+    "lng": "21.8500",
+    "id": "1348262569"
+  },
+  {
+    "city": "Dunavarsány",
+    "city_ascii": "Dunavarsany",
+    "admin_name": "Pest",
+    "lat": "47.2828",
+    "lng": "19.0661",
+    "id": "1348821728"
+  },
+  {
+    "city": "Nagykovácsi",
+    "city_ascii": "Nagykovacsi",
+    "admin_name": "Pest",
+    "lat": "47.5800",
+    "lng": "18.8800",
+    "id": "1348566007"
+  },
+  {
+    "city": "Siklós",
+    "city_ascii": "Siklos",
+    "admin_name": "Baranya",
+    "lat": "45.8519",
+    "lng": "18.2986",
+    "id": "1348986521"
+  },
+  {
+    "city": "Páty",
+    "city_ascii": "Paty",
+    "admin_name": "Pest",
+    "lat": "47.5167",
+    "lng": "18.8333",
+    "id": "1348964125"
+  },
+  {
+    "city": "Piliscsaba",
+    "city_ascii": "Piliscsaba",
+    "admin_name": "Pest",
+    "lat": "47.6336",
+    "lng": "18.8269",
+    "id": "1348996792"
+  }
+]

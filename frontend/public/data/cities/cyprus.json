@@ -1,0 +1,130 @@
+[
+  {
+    "city": "Nicosia",
+    "city_ascii": "Nicosia",
+    "admin_name": "Lefkosía",
+    "lat": "35.1725",
+    "lng": "33.3650",
+    "id": "1196944155"
+  },
+  {
+    "city": "Limassol",
+    "city_ascii": "Limassol",
+    "admin_name": "Lemesós",
+    "lat": "34.6747",
+    "lng": "33.0442",
+    "id": "1196136222"
+  },
+  {
+    "city": "Larnaca",
+    "city_ascii": "Larnaca",
+    "admin_name": "Lárnaka",
+    "lat": "34.9167",
+    "lng": "33.6333",
+    "id": "1196804795"
+  },
+  {
+    "city": "Paphos",
+    "city_ascii": "Paphos",
+    "admin_name": "Páfos",
+    "lat": "34.7667",
+    "lng": "32.4167",
+    "id": "1196607408"
+  },
+  {
+    "city": "Famagusta",
+    "city_ascii": "Famagusta",
+    "admin_name": "Ammóchostos",
+    "lat": "35.1250",
+    "lng": "33.9417",
+    "id": "1196128852"
+  },
+  {
+    "city": "Kyrenia",
+    "city_ascii": "Kyrenia",
+    "admin_name": "Kerýneia",
+    "lat": "35.3403",
+    "lng": "33.3192",
+    "id": "1196334499"
+  },
+  {
+    "city": "Mórfou",
+    "city_ascii": "Morfou",
+    "admin_name": "Lefkosía",
+    "lat": "35.1981",
+    "lng": "32.9939",
+    "id": "1196086957"
+  },
+  {
+    "city": "Káto Polemídia",
+    "city_ascii": "Kato Polemidia",
+    "admin_name": "Lemesós",
+    "lat": "34.6931",
+    "lng": "32.9992",
+    "id": "1196458883"
+  },
+  {
+    "city": "Aradíppou",
+    "city_ascii": "Aradippou",
+    "admin_name": "Lárnaka",
+    "lat": "34.9528",
+    "lng": "33.5900",
+    "id": "1196144891"
+  },
+  {
+    "city": "Latsia",
+    "city_ascii": "Latsia",
+    "admin_name": "Lefkosía",
+    "lat": "35.1000",
+    "lng": "33.3667",
+    "id": "1196538391"
+  },
+  {
+    "city": "Paralímni",
+    "city_ascii": "Paralimni",
+    "admin_name": "Ammóchostos",
+    "lat": "35.0333",
+    "lng": "33.9833",
+    "id": "1196452575"
+  },
+  {
+    "city": "Ágios Athanásios",
+    "city_ascii": "Agios Athanasios",
+    "admin_name": "Lemesós",
+    "lat": "34.7086",
+    "lng": "33.0503",
+    "id": "1196729508"
+  },
+  {
+    "city": "Mésa Geitoniá",
+    "city_ascii": "Mesa Geitonia",
+    "admin_name": "Lemesós",
+    "lat": "34.7022",
+    "lng": "33.0453",
+    "id": "1196704525"
+  },
+  {
+    "city": "Germasógeia",
+    "city_ascii": "Germasogeia",
+    "admin_name": "Lemesós",
+    "lat": "34.7181",
+    "lng": "33.0856",
+    "id": "1196232379"
+  },
+  {
+    "city": "Ýpsonas",
+    "city_ascii": "Ypsonas",
+    "admin_name": "Lemesós",
+    "lat": "34.6894",
+    "lng": "32.9614",
+    "id": "1196341763"
+  },
+  {
+    "city": "Dáli",
+    "city_ascii": "Dali",
+    "admin_name": "Lefkosía",
+    "lat": "35.0211",
+    "lng": "33.4200",
+    "id": "1196765328"
+  }
+]

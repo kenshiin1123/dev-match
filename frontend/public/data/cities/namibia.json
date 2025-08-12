@@ -1,0 +1,266 @@
+[
+  {
+    "city": "Windhoek",
+    "city_ascii": "Windhoek",
+    "admin_name": "Khomas",
+    "lat": "-22.5700",
+    "lng": "17.0836",
+    "id": "1516802003"
+  },
+  {
+    "city": "Rundu",
+    "city_ascii": "Rundu",
+    "admin_name": "Kavango East",
+    "lat": "-17.9167",
+    "lng": "19.7667",
+    "id": "1516885937"
+  },
+  {
+    "city": "Walvisbaai",
+    "city_ascii": "Walvisbaai",
+    "admin_name": "Erongo",
+    "lat": "-22.9494",
+    "lng": "14.5069",
+    "id": "1516267898"
+  },
+  {
+    "city": "Oshakati",
+    "city_ascii": "Oshakati",
+    "admin_name": "Oshana",
+    "lat": "-17.7833",
+    "lng": "15.6995",
+    "id": "1516866759"
+  },
+  {
+    "city": "Tsumeb",
+    "city_ascii": "Tsumeb",
+    "admin_name": "Oshikoto",
+    "lat": "-19.2500",
+    "lng": "17.7000",
+    "id": "1516619412"
+  },
+  {
+    "city": "Swakopmund",
+    "city_ascii": "Swakopmund",
+    "admin_name": "Erongo",
+    "lat": "-22.6667",
+    "lng": "14.5333",
+    "id": "1516214290"
+  },
+  {
+    "city": "Ondangwa",
+    "city_ascii": "Ondangwa",
+    "admin_name": "Oshana",
+    "lat": "-17.9167",
+    "lng": "15.9500",
+    "id": "1516484668"
+  },
+  {
+    "city": "Rehoboth",
+    "city_ascii": "Rehoboth",
+    "admin_name": "Hardap",
+    "lat": "-23.3167",
+    "lng": "17.0833",
+    "id": "1516928100"
+  },
+  {
+    "city": "Katima Mulilo",
+    "city_ascii": "Katima Mulilo",
+    "admin_name": "Zambezi",
+    "lat": "-17.5000",
+    "lng": "24.2667",
+    "id": "1516068788"
+  },
+  {
+    "city": "Grootfontein",
+    "city_ascii": "Grootfontein",
+    "admin_name": "Otjozondjupa",
+    "lat": "-19.5658",
+    "lng": "18.1036",
+    "id": "1516286878"
+  },
+  {
+    "city": "Okahandja",
+    "city_ascii": "Okahandja",
+    "admin_name": "Otjozondjupa",
+    "lat": "-21.9796",
+    "lng": "16.9100",
+    "id": "1516123978"
+  },
+  {
+    "city": "Otjiwarongo",
+    "city_ascii": "Otjiwarongo",
+    "admin_name": "Otjozondjupa",
+    "lat": "-20.4642",
+    "lng": "16.6528",
+    "id": "1516719545"
+  },
+  {
+    "city": "Gobabis",
+    "city_ascii": "Gobabis",
+    "admin_name": "Omaheke",
+    "lat": "-22.4500",
+    "lng": "18.9667",
+    "id": "1516128715"
+  },
+  {
+    "city": "Keetmanshoop",
+    "city_ascii": "Keetmanshoop",
+    "admin_name": "ǁKaras",
+    "lat": "-26.5833",
+    "lng": "18.1333",
+    "id": "1516607376"
+  },
+  {
+    "city": "Eenhana",
+    "city_ascii": "Eenhana",
+    "admin_name": "Ohangwena",
+    "lat": "-17.4658",
+    "lng": "16.3369",
+    "id": "1516685856"
+  },
+  {
+    "city": "Lüderitz",
+    "city_ascii": "Luderitz",
+    "admin_name": "ǁKaras",
+    "lat": "-26.6478",
+    "lng": "15.1578",
+    "id": "1516141896"
+  },
+  {
+    "city": "Mariental",
+    "city_ascii": "Mariental",
+    "admin_name": "Hardap",
+    "lat": "-24.6333",
+    "lng": "17.9667",
+    "id": "1516582394"
+  },
+  {
+    "city": "Oshikango",
+    "city_ascii": "Oshikango",
+    "admin_name": "Ohangwena",
+    "lat": "-17.4000",
+    "lng": "15.8833",
+    "id": "1516819374"
+  },
+  {
+    "city": "Opuwo",
+    "city_ascii": "Opuwo",
+    "admin_name": "Kunene",
+    "lat": "-18.0556",
+    "lng": "13.8406",
+    "id": "1516958242"
+  },
+  {
+    "city": "Omatjete",
+    "city_ascii": "Omatjete",
+    "admin_name": "Erongo",
+    "lat": "-21.0500",
+    "lng": "15.5000",
+    "id": "1516880666"
+  },
+  {
+    "city": "Ongwediva",
+    "city_ascii": "Ongwediva",
+    "admin_name": "Oshana",
+    "lat": "-17.7833",
+    "lng": "15.7667",
+    "id": "1516962966"
+  },
+  {
+    "city": "Otavi",
+    "city_ascii": "Otavi",
+    "admin_name": "Otjozondjupa",
+    "lat": "-19.6500",
+    "lng": "17.3333",
+    "id": "1516874756"
+  },
+  {
+    "city": "Nkurenkuru",
+    "city_ascii": "Nkurenkuru",
+    "admin_name": "Kavango West",
+    "lat": "-17.6167",
+    "lng": "18.6000",
+    "id": "1516271813"
+  },
+  {
+    "city": "Oranjemund",
+    "city_ascii": "Oranjemund",
+    "admin_name": "ǁKaras",
+    "lat": "-28.5500",
+    "lng": "16.4333",
+    "id": "1516991599"
+  },
+  {
+    "city": "Omuthiya",
+    "city_ascii": "Omuthiya",
+    "admin_name": "Oshikoto",
+    "lat": "-18.3606",
+    "lng": "16.5812",
+    "id": "1516000004"
+  },
+  {
+    "city": "Omaruru",
+    "city_ascii": "Omaruru",
+    "admin_name": "Erongo",
+    "lat": "-21.4183",
+    "lng": "15.9539",
+    "id": "1516735467"
+  },
+  {
+    "city": "Outjo",
+    "city_ascii": "Outjo",
+    "admin_name": "Kunene",
+    "lat": "-20.1069",
+    "lng": "16.1503",
+    "id": "1516062528"
+  },
+  {
+    "city": "Maltahöhe",
+    "city_ascii": "Maltahohe",
+    "admin_name": "Hardap",
+    "lat": "-24.8500",
+    "lng": "16.9833",
+    "id": "1516195038"
+  },
+  {
+    "city": "Karibib",
+    "city_ascii": "Karibib",
+    "admin_name": "Erongo",
+    "lat": "-21.9390",
+    "lng": "15.8530",
+    "id": "1516472073"
+  },
+  {
+    "city": "Outapi",
+    "city_ascii": "Outapi",
+    "admin_name": "Omusati",
+    "lat": "-17.5044",
+    "lng": "14.9847",
+    "id": "1516820698"
+  },
+  {
+    "city": "Karasburg",
+    "city_ascii": "Karasburg",
+    "admin_name": "ǁKaras",
+    "lat": "-28.0172",
+    "lng": "18.7478",
+    "id": "1516005938"
+  },
+  {
+    "city": "Bethanie",
+    "city_ascii": "Bethanie",
+    "admin_name": "ǁKaras",
+    "lat": "-26.5006",
+    "lng": "17.1600",
+    "id": "1516358571"
+  },
+  {
+    "city": "Usakos",
+    "city_ascii": "Usakos",
+    "admin_name": "Erongo",
+    "lat": "-22.0000",
+    "lng": "15.6000",
+    "id": "1516430978"
+  }
+]

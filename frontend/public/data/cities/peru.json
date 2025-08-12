@@ -1,0 +1,1146 @@
+[
+  {
+    "city": "Lima",
+    "city_ascii": "Lima",
+    "admin_name": "Lima",
+    "lat": "-12.0600",
+    "lng": "-77.0375",
+    "id": "1604728603"
+  },
+  {
+    "city": "Arequipa",
+    "city_ascii": "Arequipa",
+    "admin_name": "Arequipa",
+    "lat": "-16.3989",
+    "lng": "-71.5369",
+    "id": "1604723954"
+  },
+  {
+    "city": "Trujillo",
+    "city_ascii": "Trujillo",
+    "admin_name": "La Libertad",
+    "lat": "-8.1120",
+    "lng": "-79.0288",
+    "id": "1604613706"
+  },
+  {
+    "city": "Chiclayo",
+    "city_ascii": "Chiclayo",
+    "admin_name": "Lambayeque",
+    "lat": "-6.7630",
+    "lng": "-79.8366",
+    "id": "1604799615"
+  },
+  {
+    "city": "Piura",
+    "city_ascii": "Piura",
+    "admin_name": "Piura",
+    "lat": "-5.2000",
+    "lng": "-80.6333",
+    "id": "1604331641"
+  },
+  {
+    "city": "Cusco",
+    "city_ascii": "Cusco",
+    "admin_name": "Cusco",
+    "lat": "-13.5250",
+    "lng": "-71.9722",
+    "id": "1604162901"
+  },
+  {
+    "city": "Callao",
+    "city_ascii": "Callao",
+    "admin_name": "Callao",
+    "lat": "-12.0522",
+    "lng": "-77.1392",
+    "id": "1604422141"
+  },
+  {
+    "city": "Huancayo",
+    "city_ascii": "Huancayo",
+    "admin_name": "Junín",
+    "lat": "-12.0667",
+    "lng": "-75.2167",
+    "id": "1604249985"
+  },
+  {
+    "city": "Iquitos",
+    "city_ascii": "Iquitos",
+    "admin_name": "Loreto",
+    "lat": "-3.7500",
+    "lng": "-73.2500",
+    "id": "1604493809"
+  },
+  {
+    "city": "Pucallpa",
+    "city_ascii": "Pucallpa",
+    "admin_name": "Ucayali",
+    "lat": "-8.3833",
+    "lng": "-74.5500",
+    "id": "1604478712"
+  },
+  {
+    "city": "Chimbote",
+    "city_ascii": "Chimbote",
+    "admin_name": "Ancash",
+    "lat": "-9.0745",
+    "lng": "-78.5936",
+    "id": "1604199858"
+  },
+  {
+    "city": "Tacna",
+    "city_ascii": "Tacna",
+    "admin_name": "Tacna",
+    "lat": "-18.0147",
+    "lng": "-70.2489",
+    "id": "1604388134"
+  },
+  {
+    "city": "Ica",
+    "city_ascii": "Ica",
+    "admin_name": "Ica",
+    "lat": "-14.0667",
+    "lng": "-75.7333",
+    "id": "1604607907"
+  },
+  {
+    "city": "Juliaca",
+    "city_ascii": "Juliaca",
+    "admin_name": "Puno",
+    "lat": "-15.4833",
+    "lng": "-70.1333",
+    "id": "1604174464"
+  },
+  {
+    "city": "Tarapoto",
+    "city_ascii": "Tarapoto",
+    "admin_name": "San Martín",
+    "lat": "-6.4833",
+    "lng": "-76.3667",
+    "id": "1604622202"
+  },
+  {
+    "city": "Ayacucho",
+    "city_ascii": "Ayacucho",
+    "admin_name": "Ayacucho",
+    "lat": "-13.1631",
+    "lng": "-74.2244",
+    "id": "1604300430"
+  },
+  {
+    "city": "Cajamarca",
+    "city_ascii": "Cajamarca",
+    "admin_name": "Cajamarca",
+    "lat": "-7.1575",
+    "lng": "-78.5175",
+    "id": "1604091119"
+  },
+  {
+    "city": "Huacho",
+    "city_ascii": "Huacho",
+    "admin_name": "Lima",
+    "lat": "-11.1067",
+    "lng": "-77.6050",
+    "id": "1604316784"
+  },
+  {
+    "city": "Huánuco",
+    "city_ascii": "Huanuco",
+    "admin_name": "Huánuco",
+    "lat": "-9.9295",
+    "lng": "-76.2397",
+    "id": "1604589102"
+  },
+  {
+    "city": "Sullana",
+    "city_ascii": "Sullana",
+    "admin_name": "Piura",
+    "lat": "-4.9000",
+    "lng": "-80.6833",
+    "id": "1604666111"
+  },
+  {
+    "city": "Huaycan",
+    "city_ascii": "Huaycan",
+    "admin_name": "Lima",
+    "lat": "-12.0181",
+    "lng": "-76.8139",
+    "id": "1604578883"
+  },
+  {
+    "city": "Puno",
+    "city_ascii": "Puno",
+    "admin_name": "Puno",
+    "lat": "-15.8433",
+    "lng": "-70.0236",
+    "id": "1604227042"
+  },
+  {
+    "city": "San Ignacio",
+    "city_ascii": "San Ignacio",
+    "admin_name": "Cajamarca",
+    "lat": "-5.1456",
+    "lng": "-79.0017",
+    "id": "1604203555"
+  },
+  {
+    "city": "Huaraz",
+    "city_ascii": "Huaraz",
+    "admin_name": "Ancash",
+    "lat": "-9.5333",
+    "lng": "-77.5333",
+    "id": "1604026500"
+  },
+  {
+    "city": "Pisco",
+    "city_ascii": "Pisco",
+    "admin_name": "Ica",
+    "lat": "-13.7167",
+    "lng": "-76.2000",
+    "id": "1604438126"
+  },
+  {
+    "city": "Talara",
+    "city_ascii": "Talara",
+    "admin_name": "Piura",
+    "lat": "-4.5799",
+    "lng": "-81.2719",
+    "id": "1604790735"
+  },
+  {
+    "city": "Tumbes",
+    "city_ascii": "Tumbes",
+    "admin_name": "Tumbes",
+    "lat": "-3.5708",
+    "lng": "-80.4597",
+    "id": "1604505281"
+  },
+  {
+    "city": "Chosica",
+    "city_ascii": "Chosica",
+    "admin_name": "Lima",
+    "lat": "-11.9361",
+    "lng": "-76.6972",
+    "id": "1604040866"
+  },
+  {
+    "city": "Puerto Maldonado",
+    "city_ascii": "Puerto Maldonado",
+    "admin_name": "Madre de Dios",
+    "lat": "-12.6000",
+    "lng": "-69.1833",
+    "id": "1604871130"
+  },
+  {
+    "city": "Chulucanas",
+    "city_ascii": "Chulucanas",
+    "admin_name": "Piura",
+    "lat": "-5.0961",
+    "lng": "-80.1647",
+    "id": "1604692561"
+  },
+  {
+    "city": "Jaén",
+    "city_ascii": "Jaen",
+    "admin_name": "Cajamarca",
+    "lat": "-5.7083",
+    "lng": "-78.8083",
+    "id": "1604707495"
+  },
+  {
+    "city": "Andahuaylas",
+    "city_ascii": "Andahuaylas",
+    "admin_name": "Apurímac",
+    "lat": "-13.6575",
+    "lng": "-73.3833",
+    "id": "1604615351"
+  },
+  {
+    "city": "Huaral",
+    "city_ascii": "Huaral",
+    "admin_name": "Lima",
+    "lat": "-11.5000",
+    "lng": "-77.2000",
+    "id": "1604962520"
+  },
+  {
+    "city": "Catacaos",
+    "city_ascii": "Catacaos",
+    "admin_name": "Piura",
+    "lat": "-5.2653",
+    "lng": "-80.6750",
+    "id": "1604229128"
+  },
+  {
+    "city": "Abancay",
+    "city_ascii": "Abancay",
+    "admin_name": "Apurímac",
+    "lat": "-13.6333",
+    "lng": "-72.8833",
+    "id": "1604782074"
+  },
+  {
+    "city": "Huanchaco",
+    "city_ascii": "Huanchaco",
+    "admin_name": "La Libertad",
+    "lat": "-7.7000",
+    "lng": "-79.4333",
+    "id": "1604242904"
+  },
+  {
+    "city": "Moquegua",
+    "city_ascii": "Moquegua",
+    "admin_name": "Moquegua",
+    "lat": "-17.2000",
+    "lng": "-70.9333",
+    "id": "1604230427"
+  },
+  {
+    "city": "Víctor Larco Herrera",
+    "city_ascii": "Victor Larco Herrera",
+    "admin_name": "La Libertad",
+    "lat": "-8.1333",
+    "lng": "-79.0500",
+    "id": "1604289089"
+  },
+  {
+    "city": "Ilo",
+    "city_ascii": "Ilo",
+    "admin_name": "Moquegua",
+    "lat": "-17.6459",
+    "lng": "-71.3453",
+    "id": "1604886582"
+  },
+  {
+    "city": "Chincha Alta",
+    "city_ascii": "Chincha Alta",
+    "admin_name": "Ica",
+    "lat": "-13.4500",
+    "lng": "-76.1333",
+    "id": "1604035626"
+  },
+  {
+    "city": "Yurimaguas",
+    "city_ascii": "Yurimaguas",
+    "admin_name": "Loreto",
+    "lat": "-5.9000",
+    "lng": "-76.0833",
+    "id": "1604248295"
+  },
+  {
+    "city": "Cerro de Pasco",
+    "city_ascii": "Cerro de Pasco",
+    "admin_name": "Pasco",
+    "lat": "-10.6864",
+    "lng": "-76.2625",
+    "id": "1604446908"
+  },
+  {
+    "city": "Barranca",
+    "city_ascii": "Barranca",
+    "admin_name": "Lima",
+    "lat": "-10.7541",
+    "lng": "-77.7610",
+    "id": "1604547675"
+  },
+  {
+    "city": "Lambayeque",
+    "city_ascii": "Lambayeque",
+    "admin_name": "Lambayeque",
+    "lat": "-6.7000",
+    "lng": "-79.9000",
+    "id": "1604253597"
+  },
+  {
+    "city": "Sicuani",
+    "city_ascii": "Sicuani",
+    "admin_name": "Cusco",
+    "lat": "-14.2720",
+    "lng": "-71.2290",
+    "id": "1604929096"
+  },
+  {
+    "city": "Moyobamba",
+    "city_ascii": "Moyobamba",
+    "admin_name": "San Martín",
+    "lat": "-6.0333",
+    "lng": "-76.9667",
+    "id": "1604635600"
+  },
+  {
+    "city": "Chota",
+    "city_ascii": "Chota",
+    "admin_name": "Cajamarca",
+    "lat": "-6.5614",
+    "lng": "-78.6486",
+    "id": "1604928947"
+  },
+  {
+    "city": "Tarma",
+    "city_ascii": "Tarma",
+    "admin_name": "Junín",
+    "lat": "-11.4186",
+    "lng": "-75.6908",
+    "id": "1604810508"
+  },
+  {
+    "city": "Juanjuí",
+    "city_ascii": "Juanjui",
+    "admin_name": "San Martín",
+    "lat": "-7.1802",
+    "lng": "-76.7265",
+    "id": "1604229756"
+  },
+  {
+    "city": "Cutervo",
+    "city_ascii": "Cutervo",
+    "admin_name": "Cajamarca",
+    "lat": "-6.3778",
+    "lng": "-78.8167",
+    "id": "1604253488"
+  },
+  {
+    "city": "Sechura",
+    "city_ascii": "Sechura",
+    "admin_name": "Piura",
+    "lat": "-5.5576",
+    "lng": "-80.8223",
+    "id": "1604728914"
+  },
+  {
+    "city": "Huancavelica",
+    "city_ascii": "Huancavelica",
+    "admin_name": "Huancavelica",
+    "lat": "-12.7864",
+    "lng": "-74.9756",
+    "id": "1604876709"
+  },
+  {
+    "city": "Pativilca",
+    "city_ascii": "Pativilca",
+    "admin_name": "Lima",
+    "lat": "-10.6958",
+    "lng": "-77.7742",
+    "id": "1604804321"
+  },
+  {
+    "city": "Tingo María",
+    "city_ascii": "Tingo Maria",
+    "admin_name": "Huánuco",
+    "lat": "-9.2953",
+    "lng": "-75.9975",
+    "id": "1604736000"
+  },
+  {
+    "city": "Chepén",
+    "city_ascii": "Chepen",
+    "admin_name": "La Libertad",
+    "lat": "-7.2271",
+    "lng": "-79.4298",
+    "id": "1604657195"
+  },
+  {
+    "city": "Huaura",
+    "city_ascii": "Huaura",
+    "admin_name": "Lima",
+    "lat": "-11.0701",
+    "lng": "-77.5993",
+    "id": "1604503366"
+  },
+  {
+    "city": "Huamachuco",
+    "city_ascii": "Huamachuco",
+    "admin_name": "La Libertad",
+    "lat": "-7.8120",
+    "lng": "-78.0487",
+    "id": "1604864093"
+  },
+  {
+    "city": "Bagua Grande",
+    "city_ascii": "Bagua Grande",
+    "admin_name": "Amazonas",
+    "lat": "-5.7572",
+    "lng": "-78.4453",
+    "id": "1604518174"
+  },
+  {
+    "city": "Virú",
+    "city_ascii": "Viru",
+    "admin_name": "La Libertad",
+    "lat": "-8.4143",
+    "lng": "-78.7524",
+    "id": "1604901046"
+  },
+  {
+    "city": "Forbe Oroya",
+    "city_ascii": "Forbe Oroya",
+    "admin_name": "Junín",
+    "lat": "-11.5220",
+    "lng": "-75.9100",
+    "id": "1604666304"
+  },
+  {
+    "city": "Chancay",
+    "city_ascii": "Chancay",
+    "admin_name": "Lima",
+    "lat": "-11.5653",
+    "lng": "-77.2714",
+    "id": "1604882367"
+  },
+  {
+    "city": "Chachapoyas",
+    "city_ascii": "Chachapoyas",
+    "admin_name": "Amazonas",
+    "lat": "-6.2167",
+    "lng": "-77.8500",
+    "id": "1604650674"
+  },
+  {
+    "city": "Ferreñafe",
+    "city_ascii": "Ferrenafe",
+    "admin_name": "Lambayeque",
+    "lat": "-6.7183",
+    "lng": "-79.7703",
+    "id": "1604452796"
+  },
+  {
+    "city": "Moche",
+    "city_ascii": "Moche",
+    "admin_name": "La Libertad",
+    "lat": "-8.1706",
+    "lng": "-79.0094",
+    "id": "1604819600"
+  },
+  {
+    "city": "Quillabamba",
+    "city_ascii": "Quillabamba",
+    "admin_name": "Cusco",
+    "lat": "-12.8681",
+    "lng": "-72.6931",
+    "id": "1604109792"
+  },
+  {
+    "city": "Huanta",
+    "city_ascii": "Huanta",
+    "admin_name": "Ayacucho",
+    "lat": "-12.9397",
+    "lng": "-74.2475",
+    "id": "1604179024"
+  },
+  {
+    "city": "La Rinconada",
+    "city_ascii": "La Rinconada",
+    "admin_name": "Puno",
+    "lat": "-14.6325",
+    "lng": "-69.4458",
+    "id": "1604001824"
+  },
+  {
+    "city": "Casma",
+    "city_ascii": "Casma",
+    "admin_name": "Ancash",
+    "lat": "-9.4742",
+    "lng": "-78.3106",
+    "id": "1604136455"
+  },
+  {
+    "city": "Tocache Nuevo",
+    "city_ascii": "Tocache Nuevo",
+    "admin_name": "San Martín",
+    "lat": "-8.1889",
+    "lng": "-76.5139",
+    "id": "1604060187"
+  },
+  {
+    "city": "Azángaro",
+    "city_ascii": "Azangaro",
+    "admin_name": "Puno",
+    "lat": "-14.9099",
+    "lng": "-70.1974",
+    "id": "1604000053"
+  },
+  {
+    "city": "Ilave",
+    "city_ascii": "Ilave",
+    "admin_name": "Puno",
+    "lat": "-16.0836",
+    "lng": "-69.6383",
+    "id": "1604815838"
+  },
+  {
+    "city": "Mollendo",
+    "city_ascii": "Mollendo",
+    "admin_name": "Arequipa",
+    "lat": "-17.0231",
+    "lng": "-72.0147",
+    "id": "1604134214"
+  },
+  {
+    "city": "Supe",
+    "city_ascii": "Supe",
+    "admin_name": "Lima",
+    "lat": "-10.8017",
+    "lng": "-77.7436",
+    "id": "1604000372"
+  },
+  {
+    "city": "Chalhuanca",
+    "city_ascii": "Chalhuanca",
+    "admin_name": "Apurímac",
+    "lat": "-14.2950",
+    "lng": "-73.2444",
+    "id": "1604068252"
+  },
+  {
+    "city": "Jauja",
+    "city_ascii": "Jauja",
+    "admin_name": "Junín",
+    "lat": "-11.7750",
+    "lng": "-75.5000",
+    "id": "1604948232"
+  },
+  {
+    "city": "Celendín",
+    "city_ascii": "Celendin",
+    "admin_name": "Cajamarca",
+    "lat": "-6.8667",
+    "lng": "-78.1500",
+    "id": "1604315050"
+  },
+  {
+    "city": "Pacasmayo",
+    "city_ascii": "Pacasmayo",
+    "admin_name": "La Libertad",
+    "lat": "-7.4003",
+    "lng": "-79.5700",
+    "id": "1604459740"
+  },
+  {
+    "city": "San Vicente de Cañete",
+    "city_ascii": "San Vicente de Canete",
+    "admin_name": "Lima",
+    "lat": "-13.0833",
+    "lng": "-76.4000",
+    "id": "1604901496"
+  },
+  {
+    "city": "Requena",
+    "city_ascii": "Requena",
+    "admin_name": "Loreto",
+    "lat": "-5.0569",
+    "lng": "-73.8515",
+    "id": "1604712979"
+  },
+  {
+    "city": "Otuzco",
+    "city_ascii": "Otuzco",
+    "admin_name": "La Libertad",
+    "lat": "-7.9000",
+    "lng": "-78.5833",
+    "id": "1604161129"
+  },
+  {
+    "city": "Santo Tomás",
+    "city_ascii": "Santo Tomas",
+    "admin_name": "Cusco",
+    "lat": "-14.4510",
+    "lng": "-72.0820",
+    "id": "1604893836"
+  },
+  {
+    "city": "Santiago de Chuco",
+    "city_ascii": "Santiago de Chuco",
+    "admin_name": "La Libertad",
+    "lat": "-8.1502",
+    "lng": "-78.1783",
+    "id": "1604882492"
+  },
+  {
+    "city": "Caballococha",
+    "city_ascii": "Caballococha",
+    "admin_name": "Loreto",
+    "lat": "-3.9058",
+    "lng": "-70.5164",
+    "id": "1604340559"
+  },
+  {
+    "city": "El Milagro",
+    "city_ascii": "El Milagro",
+    "admin_name": "La Libertad",
+    "lat": "-8.0284",
+    "lng": "-79.0672",
+    "id": "1604842741"
+  },
+  {
+    "city": "Carás",
+    "city_ascii": "Caras",
+    "admin_name": "Ancash",
+    "lat": "-9.0472",
+    "lng": "-77.7433",
+    "id": "1604139629"
+  },
+  {
+    "city": "Monsefú",
+    "city_ascii": "Monsefu",
+    "admin_name": "Lambayeque",
+    "lat": "-6.8778",
+    "lng": "-79.8719",
+    "id": "1604406976"
+  },
+  {
+    "city": "Nazca",
+    "city_ascii": "Nazca",
+    "admin_name": "Ica",
+    "lat": "-14.8289",
+    "lng": "-74.9436",
+    "id": "1604291738"
+  },
+  {
+    "city": "Cajabamba",
+    "city_ascii": "Cajabamba",
+    "admin_name": "Cajamarca",
+    "lat": "-7.6237",
+    "lng": "-78.0460",
+    "id": "1604780784"
+  },
+  {
+    "city": "Rioja",
+    "city_ascii": "Rioja",
+    "admin_name": "San Martín",
+    "lat": "-6.0500",
+    "lng": "-77.1417",
+    "id": "1604043795"
+  },
+  {
+    "city": "Bellavista",
+    "city_ascii": "Bellavista",
+    "admin_name": "San Martín",
+    "lat": "-7.0668",
+    "lng": "-76.5847",
+    "id": "1604125292"
+  },
+  {
+    "city": "Chilca",
+    "city_ascii": "Chilca",
+    "admin_name": "Lima",
+    "lat": "-12.5208",
+    "lng": "-76.7369",
+    "id": "1604361895"
+  },
+  {
+    "city": "Juli",
+    "city_ascii": "Juli",
+    "admin_name": "Puno",
+    "lat": "-16.2125",
+    "lng": "-69.4603",
+    "id": "1604693505"
+  },
+  {
+    "city": "Paramonga",
+    "city_ascii": "Paramonga",
+    "admin_name": "Lima",
+    "lat": "-10.6744",
+    "lng": "-77.8186",
+    "id": "1604981726"
+  },
+  {
+    "city": "Ayaviri",
+    "city_ascii": "Ayaviri",
+    "admin_name": "Puno",
+    "lat": "-14.8818",
+    "lng": "-70.5901",
+    "id": "1604922172"
+  },
+  {
+    "city": "Cartavio",
+    "city_ascii": "Cartavio",
+    "admin_name": "La Libertad",
+    "lat": "-7.8833",
+    "lng": "-79.2167",
+    "id": "1604754726"
+  },
+  {
+    "city": "La Unión",
+    "city_ascii": "La Union",
+    "admin_name": "Piura",
+    "lat": "-5.4022",
+    "lng": "-80.7422",
+    "id": "1604186490"
+  },
+  {
+    "city": "Puquio",
+    "city_ascii": "Puquio",
+    "admin_name": "Ayacucho",
+    "lat": "-14.6939",
+    "lng": "-74.1241",
+    "id": "1604629997"
+  },
+  {
+    "city": "Zarumilla",
+    "city_ascii": "Zarumilla",
+    "admin_name": "Tumbes",
+    "lat": "-3.5014",
+    "lng": "-80.2722",
+    "id": "1604793858"
+  },
+  {
+    "city": "Lamas",
+    "city_ascii": "Lamas",
+    "admin_name": "San Martín",
+    "lat": "-6.4167",
+    "lng": "-76.5333",
+    "id": "1604035883"
+  },
+  {
+    "city": "San Pedro de Lloc",
+    "city_ascii": "San Pedro de Lloc",
+    "admin_name": "La Libertad",
+    "lat": "-7.4167",
+    "lng": "-79.5000",
+    "id": "1604981283"
+  },
+  {
+    "city": "Huarmey",
+    "city_ascii": "Huarmey",
+    "admin_name": "Ancash",
+    "lat": "-10.0686",
+    "lng": "-78.1603",
+    "id": "1604582499"
+  },
+  {
+    "city": "Puerto Pimentel",
+    "city_ascii": "Puerto Pimentel",
+    "admin_name": "Lambayeque",
+    "lat": "-6.8367",
+    "lng": "-79.9342",
+    "id": "1604924541"
+  },
+  {
+    "city": "Concepción",
+    "city_ascii": "Concepcion",
+    "admin_name": "Junín",
+    "lat": "-11.9185",
+    "lng": "-75.3129",
+    "id": "1604755051"
+  },
+  {
+    "city": "Contamana",
+    "city_ascii": "Contamana",
+    "admin_name": "Loreto",
+    "lat": "-7.3333",
+    "lng": "-75.0167",
+    "id": "1604465551"
+  },
+  {
+    "city": "Lampa",
+    "city_ascii": "Lampa",
+    "admin_name": "Puno",
+    "lat": "-15.3636",
+    "lng": "-70.3656",
+    "id": "1604742918"
+  },
+  {
+    "city": "San Ramón",
+    "city_ascii": "San Ramon",
+    "admin_name": "Junín",
+    "lat": "-11.1247",
+    "lng": "-75.3569",
+    "id": "1604957373"
+  },
+  {
+    "city": "Sisa",
+    "city_ascii": "Sisa",
+    "admin_name": "San Martín",
+    "lat": "-6.6142",
+    "lng": "-76.6936",
+    "id": "1604313737"
+  },
+  {
+    "city": "Salaverry",
+    "city_ascii": "Salaverry",
+    "admin_name": "La Libertad",
+    "lat": "-8.2214",
+    "lng": "-78.9764",
+    "id": "1604741233"
+  },
+  {
+    "city": "Motupe",
+    "city_ascii": "Motupe",
+    "admin_name": "Lambayeque",
+    "lat": "-6.1519",
+    "lng": "-79.7142",
+    "id": "1604380129"
+  },
+  {
+    "city": "Camaná",
+    "city_ascii": "Camana",
+    "admin_name": "Arequipa",
+    "lat": "-16.6167",
+    "lng": "-72.7167",
+    "id": "1604379091"
+  },
+  {
+    "city": "Saposoa",
+    "city_ascii": "Saposoa",
+    "admin_name": "San Martín",
+    "lat": "-6.9364",
+    "lng": "-76.7718",
+    "id": "1604843122"
+  },
+  {
+    "city": "Oxapampa",
+    "city_ascii": "Oxapampa",
+    "admin_name": "Pasco",
+    "lat": "-10.5740",
+    "lng": "-75.4050",
+    "id": "1604643521"
+  },
+  {
+    "city": "Oyón",
+    "city_ascii": "Oyon",
+    "admin_name": "Lima",
+    "lat": "-10.6692",
+    "lng": "-76.7728",
+    "id": "1604018001"
+  },
+  {
+    "city": "Macusani",
+    "city_ascii": "Macusani",
+    "admin_name": "Puno",
+    "lat": "-14.0692",
+    "lng": "-70.4311",
+    "id": "1604921772"
+  },
+  {
+    "city": "Pampas",
+    "city_ascii": "Pampas",
+    "admin_name": "Huancavelica",
+    "lat": "-12.3989",
+    "lng": "-74.8667",
+    "id": "1604111840"
+  },
+  {
+    "city": "Yanahuanca",
+    "city_ascii": "Yanahuanca",
+    "admin_name": "Pasco",
+    "lat": "-10.4914",
+    "lng": "-76.5136",
+    "id": "1604618204"
+  },
+  {
+    "city": "Junín",
+    "city_ascii": "Junin",
+    "admin_name": "Junín",
+    "lat": "-11.1500",
+    "lng": "-75.9833",
+    "id": "1604997443"
+  },
+  {
+    "city": "Urcos",
+    "city_ascii": "Urcos",
+    "admin_name": "Cusco",
+    "lat": "-13.6861",
+    "lng": "-71.6228",
+    "id": "1604757460"
+  },
+  {
+    "city": "Ascope",
+    "city_ascii": "Ascope",
+    "admin_name": "La Libertad",
+    "lat": "-7.7138",
+    "lng": "-79.1077",
+    "id": "1604239326"
+  },
+  {
+    "city": "Máncora",
+    "city_ascii": "Mancora",
+    "admin_name": "Piura",
+    "lat": "-4.1056",
+    "lng": "-81.0472",
+    "id": "1604011559"
+  },
+  {
+    "city": "Santiago",
+    "city_ascii": "Santiago",
+    "admin_name": "Ica",
+    "lat": "-14.1892",
+    "lng": "-75.7126",
+    "id": "1604889626"
+  },
+  {
+    "city": "Satipo",
+    "city_ascii": "Satipo",
+    "admin_name": "Junín",
+    "lat": "-11.2533",
+    "lng": "-74.6370",
+    "id": "1604355080"
+  },
+  {
+    "city": "Chupaca",
+    "city_ascii": "Chupaca",
+    "admin_name": "Junín",
+    "lat": "-12.0620",
+    "lng": "-75.2872",
+    "id": "1604005892"
+  },
+  {
+    "city": "Olmos",
+    "city_ascii": "Olmos",
+    "admin_name": "Lambayeque",
+    "lat": "-5.9847",
+    "lng": "-79.7453",
+    "id": "1604825576"
+  },
+  {
+    "city": "Pisac",
+    "city_ascii": "Pisac",
+    "admin_name": "Cusco",
+    "lat": "-13.4242",
+    "lng": "-71.8578",
+    "id": "1604788392"
+  },
+  {
+    "city": "Calca",
+    "city_ascii": "Calca",
+    "admin_name": "Cusco",
+    "lat": "-13.3230",
+    "lng": "-71.9560",
+    "id": "1604144884"
+  },
+  {
+    "city": "Huari",
+    "city_ascii": "Huari",
+    "admin_name": "Ancash",
+    "lat": "-9.3689",
+    "lng": "-77.2369",
+    "id": "1604048812"
+  },
+  {
+    "city": "Chala",
+    "city_ascii": "Chala",
+    "admin_name": "Arequipa",
+    "lat": "-15.8519",
+    "lng": "-74.2500",
+    "id": "1604729325"
+  },
+  {
+    "city": "Aplao",
+    "city_ascii": "Aplao",
+    "admin_name": "Arequipa",
+    "lat": "-16.0713",
+    "lng": "-72.4882",
+    "id": "1604894529"
+  },
+  {
+    "city": "Acobamba",
+    "city_ascii": "Acobamba",
+    "admin_name": "Huancavelica",
+    "lat": "-12.8431",
+    "lng": "-74.5694",
+    "id": "1604419379"
+  },
+  {
+    "city": "Morropón",
+    "city_ascii": "Morropon",
+    "admin_name": "Piura",
+    "lat": "-5.1867",
+    "lng": "-79.9708",
+    "id": "1604494737"
+  },
+  {
+    "city": "Putina",
+    "city_ascii": "Putina",
+    "admin_name": "Puno",
+    "lat": "-15.4700",
+    "lng": "-69.4300",
+    "id": "1604856559"
+  },
+  {
+    "city": "Coracora",
+    "city_ascii": "Coracora",
+    "admin_name": "Ayacucho",
+    "lat": "-15.0170",
+    "lng": "-73.7804",
+    "id": "1604800656"
+  },
+  {
+    "city": "Paita",
+    "city_ascii": "Paita",
+    "admin_name": "Piura",
+    "lat": "-5.0911",
+    "lng": "-81.1064",
+    "id": "1604588759"
+  },
+  {
+    "city": "Urubamba",
+    "city_ascii": "Urubamba",
+    "admin_name": "Cusco",
+    "lat": "-13.3042",
+    "lng": "-72.1167",
+    "id": "1604753575"
+  },
+  {
+    "city": "Nauta",
+    "city_ascii": "Nauta",
+    "admin_name": "Loreto",
+    "lat": "-4.5083",
+    "lng": "-73.5833",
+    "id": "1604159322"
+  },
+  {
+    "city": "Desaguadero",
+    "city_ascii": "Desaguadero",
+    "admin_name": "Puno",
+    "lat": "-16.5667",
+    "lng": "-69.0333",
+    "id": "1604523021"
+  },
+  {
+    "city": "Tournavista",
+    "city_ascii": "Tournavista",
+    "admin_name": "Huánuco",
+    "lat": "-8.9322",
+    "lng": "-74.7052",
+    "id": "1604006133"
+  },
+  {
+    "city": "Rocafuerte",
+    "city_ascii": "Rocafuerte",
+    "admin_name": "Loreto",
+    "lat": "-0.9329",
+    "lng": "-75.4000",
+    "id": "1604951110"
+  },
+  {
+    "city": "Andoas",
+    "city_ascii": "Andoas",
+    "admin_name": "Loreto",
+    "lat": "-2.9042",
+    "lng": "-76.4028",
+    "id": "1604038416"
+  },
+  {
+    "city": "Puca Urco",
+    "city_ascii": "Puca Urco",
+    "admin_name": "Loreto",
+    "lat": "-2.3328",
+    "lng": "-71.9167",
+    "id": "1604085670"
+  },
+  {
+    "city": "Soldado Bartra",
+    "city_ascii": "Soldado Bartra",
+    "admin_name": "Loreto",
+    "lat": "-2.5161",
+    "lng": "-75.7666",
+    "id": "1604302193"
+  },
+  {
+    "city": "Güeppí",
+    "city_ascii": "Gueppi",
+    "admin_name": "Loreto",
+    "lat": "-0.1166",
+    "lng": "-75.2300",
+    "id": "1604411859"
+  }
+]

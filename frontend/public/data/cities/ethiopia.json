@@ -1,0 +1,1138 @@
+[
+  {
+    "city": "Addis Ababa",
+    "city_ascii": "Addis Ababa",
+    "admin_name": "Ādīs Ābeba",
+    "lat": "9.0300",
+    "lng": "38.7400",
+    "id": "1231824991"
+  },
+  {
+    "city": "K’ebrī Beyah",
+    "city_ascii": "K'ebri Beyah",
+    "admin_name": "Sumalē",
+    "lat": "9.0833",
+    "lng": "43.0833",
+    "id": "1231877186"
+  },
+  {
+    "city": "K’ebrī Dehar",
+    "city_ascii": "K'ebri Dehar",
+    "admin_name": "Sumalē",
+    "lat": "6.7333",
+    "lng": "44.2667",
+    "id": "1231393469"
+  },
+  {
+    "city": "Warder",
+    "city_ascii": "Warder",
+    "admin_name": "Sumalē",
+    "lat": "6.9667",
+    "lng": "45.3500",
+    "id": "1231158948"
+  },
+  {
+    "city": "Shashemenē",
+    "city_ascii": "Shashemene",
+    "admin_name": "Oromīya",
+    "lat": "7.2000",
+    "lng": "38.6000",
+    "id": "1231110370"
+  },
+  {
+    "city": "Godē",
+    "city_ascii": "Gode",
+    "admin_name": "Sumalē",
+    "lat": "5.9527",
+    "lng": "43.5516",
+    "id": "1231128743"
+  },
+  {
+    "city": "Nazrēt",
+    "city_ascii": "Nazret",
+    "admin_name": "Oromīya",
+    "lat": "8.5414",
+    "lng": "39.2689",
+    "id": "1231826873"
+  },
+  {
+    "city": "Mekele",
+    "city_ascii": "Mekele",
+    "admin_name": "Tigray",
+    "lat": "13.4969",
+    "lng": "39.4769",
+    "id": "1231468531"
+  },
+  {
+    "city": "Āwasa",
+    "city_ascii": "Awasa",
+    "admin_name": "Sīdama",
+    "lat": "7.0500",
+    "lng": "38.4667",
+    "id": "1231663122"
+  },
+  {
+    "city": "Dire Dawa",
+    "city_ascii": "Dire Dawa",
+    "admin_name": "Dirē Dawa",
+    "lat": "9.6000",
+    "lng": "41.8667",
+    "id": "1231089714"
+  },
+  {
+    "city": "Sodo",
+    "city_ascii": "Sodo",
+    "admin_name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "lat": "6.8550",
+    "lng": "37.7808",
+    "id": "1231130720"
+  },
+  {
+    "city": "Bahir Dar",
+    "city_ascii": "Bahir Dar",
+    "admin_name": "Āmara",
+    "lat": "11.6000",
+    "lng": "37.3833",
+    "id": "1231784118"
+  },
+  {
+    "city": "Gelemso",
+    "city_ascii": "Gelemso",
+    "admin_name": "Oromīya",
+    "lat": "8.8167",
+    "lng": "40.5167",
+    "id": "1231438273"
+  },
+  {
+    "city": "Desē",
+    "city_ascii": "Dese",
+    "admin_name": "Āmara",
+    "lat": "11.1333",
+    "lng": "39.6333",
+    "id": "1231359719"
+  },
+  {
+    "city": "Āwarē",
+    "city_ascii": "Aware",
+    "admin_name": "Sumalē",
+    "lat": "8.2667",
+    "lng": "44.1500",
+    "id": "1231934049"
+  },
+  {
+    "city": "Harar",
+    "city_ascii": "Harar",
+    "admin_name": "Hārerī Hizb",
+    "lat": "9.3111",
+    "lng": "42.1278",
+    "id": "1231785978"
+  },
+  {
+    "city": "Jijiga",
+    "city_ascii": "Jijiga",
+    "admin_name": "Sumalē",
+    "lat": "9.3500",
+    "lng": "42.8000",
+    "id": "1231737909"
+  },
+  {
+    "city": "Jīma",
+    "city_ascii": "Jima",
+    "admin_name": "Oromīya",
+    "lat": "7.6667",
+    "lng": "36.8333",
+    "id": "1231214366"
+  },
+  {
+    "city": "Harshin",
+    "city_ascii": "Harshin",
+    "admin_name": "Sumalē",
+    "lat": "9.2167",
+    "lng": "43.5878",
+    "id": "1231946994"
+  },
+  {
+    "city": "Āfdem",
+    "city_ascii": "Afdem",
+    "admin_name": "Sumalē",
+    "lat": "9.4667",
+    "lng": "41.0000",
+    "id": "1231882057"
+  },
+  {
+    "city": "Mersa",
+    "city_ascii": "Mersa",
+    "admin_name": "Āmara",
+    "lat": "11.6667",
+    "lng": "39.6583",
+    "id": "1231844606"
+  },
+  {
+    "city": "Babīlē",
+    "city_ascii": "Babile",
+    "admin_name": "Oromīya",
+    "lat": "9.2167",
+    "lng": "42.3333",
+    "id": "1231924903"
+  },
+  {
+    "city": "Debre Zeyit",
+    "city_ascii": "Debre Zeyit",
+    "admin_name": "Oromīya",
+    "lat": "8.7500",
+    "lng": "38.9833",
+    "id": "1231675489"
+  },
+  {
+    "city": "Gambēla",
+    "city_ascii": "Gambela",
+    "admin_name": "Gambēla Hizboch",
+    "lat": "8.2500",
+    "lng": "34.5833",
+    "id": "1231698892"
+  },
+  {
+    "city": "Shirē",
+    "city_ascii": "Shire",
+    "admin_name": "Tigray",
+    "lat": "14.1000",
+    "lng": "38.2833",
+    "id": "1231526396"
+  },
+  {
+    "city": "Mīzan Teferī",
+    "city_ascii": "Mizan Teferi",
+    "admin_name": "YeDebub M‘irab Ītyop’iya Hizboch",
+    "lat": "7.0000",
+    "lng": "35.5833",
+    "id": "1231330466"
+  },
+  {
+    "city": "Denan",
+    "city_ascii": "Denan",
+    "admin_name": "Sumalē",
+    "lat": "6.5000",
+    "lng": "43.5000",
+    "id": "1231663674"
+  },
+  {
+    "city": "Yabēlo",
+    "city_ascii": "Yabelo",
+    "admin_name": "Oromīya",
+    "lat": "4.8833",
+    "lng": "38.0833",
+    "id": "1231019846"
+  },
+  {
+    "city": "Kombolcha",
+    "city_ascii": "Kombolcha",
+    "admin_name": "Āmara",
+    "lat": "11.0867",
+    "lng": "39.7367",
+    "id": "1231476399"
+  },
+  {
+    "city": "Gonder",
+    "city_ascii": "Gonder",
+    "admin_name": "Āmara",
+    "lat": "12.6075",
+    "lng": "37.4592",
+    "id": "1231234833"
+  },
+  {
+    "city": "Ādīgala",
+    "city_ascii": "Adigala",
+    "admin_name": "Sumalē",
+    "lat": "10.4236",
+    "lng": "42.2333",
+    "id": "1231021572"
+  },
+  {
+    "city": "Nek’emtē",
+    "city_ascii": "Nek'emte",
+    "admin_name": "Oromīya",
+    "lat": "9.0833",
+    "lng": "36.5500",
+    "id": "1231437227"
+  },
+  {
+    "city": "Ārba Minch’",
+    "city_ascii": "Arba Minch'",
+    "admin_name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "lat": "6.0333",
+    "lng": "37.5500",
+    "id": "1231302134"
+  },
+  {
+    "city": "Togoch’alē",
+    "city_ascii": "Togoch'ale",
+    "admin_name": "Sumalē",
+    "lat": "9.6014",
+    "lng": "43.3361",
+    "id": "1231990748"
+  },
+  {
+    "city": "Hosa’ina",
+    "city_ascii": "Hosa'ina",
+    "admin_name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "lat": "7.5500",
+    "lng": "37.8500",
+    "id": "1231400775"
+  },
+  {
+    "city": "Bodītī",
+    "city_ascii": "Boditi",
+    "admin_name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "lat": "6.8667",
+    "lng": "37.8667",
+    "id": "1231974220"
+  },
+  {
+    "city": "Āsela",
+    "city_ascii": "Asela",
+    "admin_name": "Oromīya",
+    "lat": "7.9500",
+    "lng": "39.1167",
+    "id": "1231347519"
+  },
+  {
+    "city": "Āksum",
+    "city_ascii": "Aksum",
+    "admin_name": "Tigray",
+    "lat": "14.1208",
+    "lng": "38.7278",
+    "id": "1231573651"
+  },
+  {
+    "city": "Debre Birhan",
+    "city_ascii": "Debre Birhan",
+    "admin_name": "Āmara",
+    "lat": "9.6833",
+    "lng": "39.5333",
+    "id": "1231777741"
+  },
+  {
+    "city": "Debre Mark’os",
+    "city_ascii": "Debre Mark'os",
+    "admin_name": "Āmara",
+    "lat": "10.3333",
+    "lng": "37.7167",
+    "id": "1231943444"
+  },
+  {
+    "city": "Dīla",
+    "city_ascii": "Dila",
+    "admin_name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "lat": "6.4083",
+    "lng": "38.3083",
+    "id": "1231393325"
+  },
+  {
+    "city": "Ādīgrat",
+    "city_ascii": "Adigrat",
+    "admin_name": "Tigray",
+    "lat": "14.2667",
+    "lng": "39.4500",
+    "id": "1231492773"
+  },
+  {
+    "city": "Debre Tabor",
+    "city_ascii": "Debre Tabor",
+    "admin_name": "Āmara",
+    "lat": "11.8500",
+    "lng": "38.0167",
+    "id": "1231557860"
+  },
+  {
+    "city": "Semera",
+    "city_ascii": "Semera",
+    "admin_name": "Āfar",
+    "lat": "11.7922",
+    "lng": "41.0086",
+    "id": "1231617820"
+  },
+  {
+    "city": "Mojo",
+    "city_ascii": "Mojo",
+    "admin_name": "Oromīya",
+    "lat": "8.6500",
+    "lng": "39.0833",
+    "id": "1231772257"
+  },
+  {
+    "city": "Sebeta",
+    "city_ascii": "Sebeta",
+    "admin_name": "Oromīya",
+    "lat": "8.9111",
+    "lng": "38.6214",
+    "id": "1231560096"
+  },
+  {
+    "city": "Goba",
+    "city_ascii": "Goba",
+    "admin_name": "Oromīya",
+    "lat": "7.0000",
+    "lng": "39.9833",
+    "id": "1231837780"
+  },
+  {
+    "city": "Hāgere Hiywet",
+    "city_ascii": "Hagere Hiywet",
+    "admin_name": "Oromīya",
+    "lat": "8.9833",
+    "lng": "37.8500",
+    "id": "1231809487"
+  },
+  {
+    "city": "Weldiya",
+    "city_ascii": "Weldiya",
+    "admin_name": "Āmara",
+    "lat": "11.8306",
+    "lng": "39.6000",
+    "id": "1231023092"
+  },
+  {
+    "city": "Robē",
+    "city_ascii": "Robe",
+    "admin_name": "Oromīya",
+    "lat": "7.1167",
+    "lng": "40.0000",
+    "id": "1231266151"
+  },
+  {
+    "city": "Yirga ‘Alem",
+    "city_ascii": "Yirga `Alem",
+    "admin_name": "Sīdama",
+    "lat": "6.7500",
+    "lng": "38.4167",
+    "id": "1231817240"
+  },
+  {
+    "city": "Ādwa",
+    "city_ascii": "Adwa",
+    "admin_name": "Tigray",
+    "lat": "14.1667",
+    "lng": "38.9000",
+    "id": "1231086312"
+  },
+  {
+    "city": "Giyon",
+    "city_ascii": "Giyon",
+    "admin_name": "Oromīya",
+    "lat": "8.5333",
+    "lng": "37.9667",
+    "id": "1231961383"
+  },
+  {
+    "city": "Mek’ī",
+    "city_ascii": "Mek'i",
+    "admin_name": "Oromīya",
+    "lat": "8.1500",
+    "lng": "38.8167",
+    "id": "1231135266"
+  },
+  {
+    "city": "Bedēsa",
+    "city_ascii": "Bedesa",
+    "admin_name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "lat": "6.8830",
+    "lng": "37.9329",
+    "id": "1231807796"
+  },
+  {
+    "city": "Āzezo",
+    "city_ascii": "Azezo",
+    "admin_name": "Āmara",
+    "lat": "12.5586",
+    "lng": "37.4308",
+    "id": "1231317573"
+  },
+  {
+    "city": "Butajīra",
+    "city_ascii": "Butajira",
+    "admin_name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "lat": "8.1208",
+    "lng": "38.3792",
+    "id": "1231050211"
+  },
+  {
+    "city": "Ālamat’ā",
+    "city_ascii": "Alamat'a",
+    "admin_name": "Tigray",
+    "lat": "12.4167",
+    "lng": "39.5500",
+    "id": "1231954520"
+  },
+  {
+    "city": "Āreka",
+    "city_ascii": "Areka",
+    "admin_name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "lat": "7.0710",
+    "lng": "37.7076",
+    "id": "1231646056"
+  },
+  {
+    "city": "Gīmbī",
+    "city_ascii": "Gimbi",
+    "admin_name": "Oromīya",
+    "lat": "9.1667",
+    "lng": "35.8333",
+    "id": "1231550284"
+  },
+  {
+    "city": "Chagne",
+    "city_ascii": "Chagne",
+    "admin_name": "Āmara",
+    "lat": "10.9500",
+    "lng": "36.5000",
+    "id": "1231473183"
+  },
+  {
+    "city": "Jinka",
+    "city_ascii": "Jinka",
+    "admin_name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "lat": "5.7833",
+    "lng": "36.5667",
+    "id": "1231671120"
+  },
+  {
+    "city": "Wik’ro",
+    "city_ascii": "Wik'ro",
+    "admin_name": "Tigray",
+    "lat": "13.7833",
+    "lng": "39.6000",
+    "id": "1231223279"
+  },
+  {
+    "city": "Degeh Bur",
+    "city_ascii": "Degeh Bur",
+    "admin_name": "Sumalē",
+    "lat": "8.2167",
+    "lng": "43.5667",
+    "id": "1231855349"
+  },
+  {
+    "city": "Dembī Dolo",
+    "city_ascii": "Dembi Dolo",
+    "admin_name": "Oromīya",
+    "lat": "8.5353",
+    "lng": "34.8003",
+    "id": "1231620291"
+  },
+  {
+    "city": "Welk’īt’ē",
+    "city_ascii": "Welk'it'e",
+    "admin_name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "lat": "8.2833",
+    "lng": "37.7833",
+    "id": "1231083511"
+  },
+  {
+    "city": "Metu",
+    "city_ascii": "Metu",
+    "admin_name": "Oromīya",
+    "lat": "8.3000",
+    "lng": "35.5833",
+    "id": "1231361169"
+  },
+  {
+    "city": "Shakīso",
+    "city_ascii": "Shakiso",
+    "admin_name": "Oromīya",
+    "lat": "5.7500",
+    "lng": "38.9167",
+    "id": "1231345308"
+  },
+  {
+    "city": "Hāra Gebeya",
+    "city_ascii": "Hara Gebeya",
+    "admin_name": "Āmara",
+    "lat": "11.8333",
+    "lng": "39.7333",
+    "id": "1231769886"
+  },
+  {
+    "city": "Fichē",
+    "city_ascii": "Fiche",
+    "admin_name": "Oromīya",
+    "lat": "9.8000",
+    "lng": "38.7333",
+    "id": "1231384026"
+  },
+  {
+    "city": "K’olīto",
+    "city_ascii": "K'olito",
+    "admin_name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "lat": "7.3122",
+    "lng": "38.0892",
+    "id": "1231294595"
+  },
+  {
+    "city": "Dolo Odo",
+    "city_ascii": "Dolo Odo",
+    "admin_name": "Sumalē",
+    "lat": "4.1667",
+    "lng": "42.0667",
+    "id": "1231046394"
+  },
+  {
+    "city": "Werota",
+    "city_ascii": "Werota",
+    "admin_name": "Āmara",
+    "lat": "11.9167",
+    "lng": "37.7000",
+    "id": "1231170165"
+  },
+  {
+    "city": "Mota",
+    "city_ascii": "Mota",
+    "admin_name": "Āmara",
+    "lat": "11.0833",
+    "lng": "37.8667",
+    "id": "1231135838"
+  },
+  {
+    "city": "Finote Selam",
+    "city_ascii": "Finote Selam",
+    "admin_name": "Āmara",
+    "lat": "10.7000",
+    "lng": "37.2667",
+    "id": "1231472850"
+  },
+  {
+    "city": "Genet",
+    "city_ascii": "Genet",
+    "admin_name": "Oromīya",
+    "lat": "9.0500",
+    "lng": "38.5000",
+    "id": "1231301779"
+  },
+  {
+    "city": "Āgaro",
+    "city_ascii": "Agaro",
+    "admin_name": "Oromīya",
+    "lat": "7.8558",
+    "lng": "36.5858",
+    "id": "1231182793"
+  },
+  {
+    "city": "Burē",
+    "city_ascii": "Bure",
+    "admin_name": "Āmara",
+    "lat": "10.7000",
+    "lng": "37.0667",
+    "id": "1231106866"
+  },
+  {
+    "city": "Moyalē",
+    "city_ascii": "Moyale",
+    "admin_name": "Oromīya",
+    "lat": "3.5270",
+    "lng": "39.0560",
+    "id": "1231227722"
+  },
+  {
+    "city": "Kobo",
+    "city_ascii": "Kobo",
+    "admin_name": "Āmara",
+    "lat": "12.1500",
+    "lng": "39.6333",
+    "id": "1231442396"
+  },
+  {
+    "city": "Ādīs Zemen",
+    "city_ascii": "Adis Zemen",
+    "admin_name": "Āmara",
+    "lat": "12.1167",
+    "lng": "37.7833",
+    "id": "1231619970"
+  },
+  {
+    "city": "Dangila",
+    "city_ascii": "Dangila",
+    "admin_name": "Āmara",
+    "lat": "11.2667",
+    "lng": "36.8333",
+    "id": "1231000015"
+  },
+  {
+    "city": "Dodola",
+    "city_ascii": "Dodola",
+    "admin_name": "Oromīya",
+    "lat": "6.9833",
+    "lng": "39.1833",
+    "id": "1231390840"
+  },
+  {
+    "city": "Maychew",
+    "city_ascii": "Maychew",
+    "admin_name": "Tigray",
+    "lat": "12.7833",
+    "lng": "39.5333",
+    "id": "1231612323"
+  },
+  {
+    "city": "Asaita",
+    "city_ascii": "Asaita",
+    "admin_name": "Āfar",
+    "lat": "11.5667",
+    "lng": "41.4333",
+    "id": "1231171609"
+  },
+  {
+    "city": "Sek’ot’a",
+    "city_ascii": "Sek'ot'a",
+    "admin_name": "Āmara",
+    "lat": "12.6253",
+    "lng": "39.0350",
+    "id": "1231550759"
+  },
+  {
+    "city": "Himora",
+    "city_ascii": "Himora",
+    "admin_name": "Tigray",
+    "lat": "14.2861",
+    "lng": "36.6097",
+    "id": "1231449720"
+  },
+  {
+    "city": "Mī’ēso",
+    "city_ascii": "Mi'eso",
+    "admin_name": "Oromīya",
+    "lat": "9.2333",
+    "lng": "40.7500",
+    "id": "1231730193"
+  },
+  {
+    "city": "Metahāra",
+    "city_ascii": "Metahara",
+    "admin_name": "Oromīya",
+    "lat": "8.9000",
+    "lng": "39.9167",
+    "id": "1231766002"
+  },
+  {
+    "city": "Ādēt",
+    "city_ascii": "Adet",
+    "admin_name": "Āmara",
+    "lat": "11.2667",
+    "lng": "37.4833",
+    "id": "1231929103"
+  },
+  {
+    "city": "Injibara",
+    "city_ascii": "Injibara",
+    "admin_name": "Āmara",
+    "lat": "10.9500",
+    "lng": "36.9333",
+    "id": "1231853157"
+  },
+  {
+    "city": "Welench’ītī",
+    "city_ascii": "Welench'iti",
+    "admin_name": "Oromīya",
+    "lat": "8.6667",
+    "lng": "39.4333",
+    "id": "1231349696"
+  },
+  {
+    "city": "Bonga",
+    "city_ascii": "Bonga",
+    "admin_name": "YeDebub M‘irab Ītyop’iya Hizboch",
+    "lat": "7.2667",
+    "lng": "36.2333",
+    "id": "1231409607"
+  },
+  {
+    "city": "Debark’",
+    "city_ascii": "Debark'",
+    "admin_name": "Āmara",
+    "lat": "13.1333",
+    "lng": "37.9000",
+    "id": "1231894156"
+  },
+  {
+    "city": "Batī",
+    "city_ascii": "Bati",
+    "admin_name": "Āmara",
+    "lat": "11.1833",
+    "lng": "40.0167",
+    "id": "1231243570"
+  },
+  {
+    "city": "Āsosa",
+    "city_ascii": "Asosa",
+    "admin_name": "Bīnshangul Gumuz",
+    "lat": "10.0667",
+    "lng": "34.5167",
+    "id": "1231491184"
+  },
+  {
+    "city": "Bichena",
+    "city_ascii": "Bichena",
+    "admin_name": "Āmara",
+    "lat": "10.4500",
+    "lng": "38.2000",
+    "id": "1231640166"
+  },
+  {
+    "city": "Nejo",
+    "city_ascii": "Nejo",
+    "admin_name": "Oromīya",
+    "lat": "9.5000",
+    "lng": "35.5000",
+    "id": "1231617295"
+  },
+  {
+    "city": "Gebre Guracha",
+    "city_ascii": "Gebre Guracha",
+    "admin_name": "Oromīya",
+    "lat": "9.8000",
+    "lng": "38.4000",
+    "id": "1231514161"
+  },
+  {
+    "city": "Aysha",
+    "city_ascii": "Aysha",
+    "admin_name": "Sumalē",
+    "lat": "10.7500",
+    "lng": "42.5667",
+    "id": "1231232970"
+  },
+  {
+    "city": "Bedelē",
+    "city_ascii": "Bedele",
+    "admin_name": "Oromīya",
+    "lat": "8.4500",
+    "lng": "36.3500",
+    "id": "1231583728"
+  },
+  {
+    "city": "Āsasa",
+    "city_ascii": "Asasa",
+    "admin_name": "Oromīya",
+    "lat": "7.1000",
+    "lng": "39.1944",
+    "id": "1231640244"
+  },
+  {
+    "city": "Kemisē",
+    "city_ascii": "Kemise",
+    "admin_name": "Āmara",
+    "lat": "10.7167",
+    "lng": "39.8667",
+    "id": "1231665461"
+  },
+  {
+    "city": "Ābomsa",
+    "city_ascii": "Abomsa",
+    "admin_name": "Oromīya",
+    "lat": "8.5833",
+    "lng": "39.8500",
+    "id": "1231331780"
+  },
+  {
+    "city": "Nefas Mewch’a",
+    "city_ascii": "Nefas Mewch'a",
+    "admin_name": "Āmara",
+    "lat": "11.7333",
+    "lng": "38.4667",
+    "id": "1231652571"
+  },
+  {
+    "city": "Bedēsa",
+    "city_ascii": "Bedesa",
+    "admin_name": "Oromīya",
+    "lat": "8.9000",
+    "lng": "40.7833",
+    "id": "1231037182"
+  },
+  {
+    "city": "Lalībela",
+    "city_ascii": "Lalibela",
+    "admin_name": "Āmara",
+    "lat": "12.0317",
+    "lng": "39.0411",
+    "id": "1231020267"
+  },
+  {
+    "city": "Gīnīr",
+    "city_ascii": "Ginir",
+    "admin_name": "Oromīya",
+    "lat": "7.1333",
+    "lng": "40.7000",
+    "id": "1231167016"
+  },
+  {
+    "city": "Cheraro",
+    "city_ascii": "Cheraro",
+    "admin_name": "Tigray",
+    "lat": "14.3958",
+    "lng": "37.7731",
+    "id": "1231449470"
+  },
+  {
+    "city": "Huruta",
+    "city_ascii": "Huruta",
+    "admin_name": "Oromīya",
+    "lat": "8.1500",
+    "lng": "39.3500",
+    "id": "1231839518"
+  },
+  {
+    "city": "Korem",
+    "city_ascii": "Korem",
+    "admin_name": "Tigray",
+    "lat": "12.5000",
+    "lng": "39.5167",
+    "id": "1231332352"
+  },
+  {
+    "city": "Dēra",
+    "city_ascii": "Dera",
+    "admin_name": "Oromīya",
+    "lat": "8.3333",
+    "lng": "39.3167",
+    "id": "1231378383"
+  },
+  {
+    "city": "Bek’ojī",
+    "city_ascii": "Bek'oji",
+    "admin_name": "Oromīya",
+    "lat": "7.5833",
+    "lng": "39.3333",
+    "id": "1231921614"
+  },
+  {
+    "city": "Hīrna",
+    "city_ascii": "Hirna",
+    "admin_name": "Oromīya",
+    "lat": "9.2167",
+    "lng": "41.1000",
+    "id": "1231773847"
+  },
+  {
+    "city": "Ābīy Ādī",
+    "city_ascii": "Abiy Adi",
+    "admin_name": "Tigray",
+    "lat": "13.6231",
+    "lng": "39.0017",
+    "id": "1231200318"
+  },
+  {
+    "city": "Dejen",
+    "city_ascii": "Dejen",
+    "admin_name": "Āmara",
+    "lat": "10.1667",
+    "lng": "38.1333",
+    "id": "1231136097"
+  },
+  {
+    "city": "Funyan Bīra",
+    "city_ascii": "Funyan Bira",
+    "admin_name": "Oromīya",
+    "lat": "9.3500",
+    "lng": "42.4000",
+    "id": "1231640828"
+  },
+  {
+    "city": "Dembecha",
+    "city_ascii": "Dembecha",
+    "admin_name": "Āmara",
+    "lat": "10.5500",
+    "lng": "37.4833",
+    "id": "1231138306"
+  },
+  {
+    "city": "Shambu",
+    "city_ascii": "Shambu",
+    "admin_name": "Oromīya",
+    "lat": "9.5667",
+    "lng": "37.1000",
+    "id": "1231819871"
+  },
+  {
+    "city": "Kelafo",
+    "city_ascii": "Kelafo",
+    "admin_name": "Sumalē",
+    "lat": "5.5889",
+    "lng": "44.2056",
+    "id": "1231044866"
+  },
+  {
+    "city": "Gesuba",
+    "city_ascii": "Gesuba",
+    "admin_name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "lat": "6.7242",
+    "lng": "37.5567",
+    "id": "1231778594"
+  },
+  {
+    "city": "Debre Werk’",
+    "city_ascii": "Debre Werk'",
+    "admin_name": "Āmara",
+    "lat": "10.6667",
+    "lng": "38.1667",
+    "id": "1231572143"
+  },
+  {
+    "city": "‘Alem T’ēna",
+    "city_ascii": "`Alem T'ena",
+    "admin_name": "Oromīya",
+    "lat": "8.3000",
+    "lng": "38.9500",
+    "id": "1231008148"
+  },
+  {
+    "city": "Ādīs ‘Alem",
+    "city_ascii": "Adis `Alem",
+    "admin_name": "Oromīya",
+    "lat": "9.0333",
+    "lng": "38.4000",
+    "id": "1231598304"
+  },
+  {
+    "city": "Shīnīlē",
+    "city_ascii": "Shinile",
+    "admin_name": "Sumalē",
+    "lat": "9.6667",
+    "lng": "41.8333",
+    "id": "1231940232"
+  },
+  {
+    "city": "Kofelē",
+    "city_ascii": "Kofele",
+    "admin_name": "Oromīya",
+    "lat": "7.0000",
+    "lng": "38.7500",
+    "id": "1231392237"
+  },
+  {
+    "city": "Dabat",
+    "city_ascii": "Dabat",
+    "admin_name": "Āmara",
+    "lat": "12.9842",
+    "lng": "37.7650",
+    "id": "1231841967"
+  },
+  {
+    "city": "Kwīhā",
+    "city_ascii": "Kwiha",
+    "admin_name": "Tigray",
+    "lat": "13.4769",
+    "lng": "39.5450",
+    "id": "1231541994"
+  },
+  {
+    "city": "Sendafa",
+    "city_ascii": "Sendafa",
+    "admin_name": "Oromīya",
+    "lat": "9.1500",
+    "lng": "39.0333",
+    "id": "1231004037"
+  },
+  {
+    "city": "Dolo Bay",
+    "city_ascii": "Dolo Bay",
+    "admin_name": "Sumalē",
+    "lat": "4.1833",
+    "lng": "42.0833",
+    "id": "1231539120"
+  },
+  {
+    "city": "Negēlē",
+    "city_ascii": "Negele",
+    "admin_name": "Oromīya",
+    "lat": "5.3167",
+    "lng": "39.5833",
+    "id": "1231215294"
+  },
+  {
+    "city": "Fīnch’a’ā",
+    "city_ascii": "Finch'a'a",
+    "admin_name": "Oromīya",
+    "lat": "9.9000",
+    "lng": "37.4500",
+    "id": "1231348007"
+  },
+  {
+    "city": "Āwash",
+    "city_ascii": "Awash",
+    "admin_name": "Āfar",
+    "lat": "8.9944",
+    "lng": "40.1667",
+    "id": "1231768288"
+  },
+  {
+    "city": "Chencha",
+    "city_ascii": "Chencha",
+    "admin_name": "YeDebub Bihēroch Bihēreseboch na Hizboch",
+    "lat": "6.2500",
+    "lng": "37.5667",
+    "id": "1231948389"
+  },
+  {
+    "city": "Kele",
+    "city_ascii": "Kele",
+    "admin_name": "Oromīya",
+    "lat": "6.0833",
+    "lng": "38.0333",
+    "id": "1231687475"
+  },
+  {
+    "city": "Were Īlu",
+    "city_ascii": "Were Ilu",
+    "admin_name": "Āmara",
+    "lat": "10.6000",
+    "lng": "39.4333",
+    "id": "1231595190"
+  },
+  {
+    "city": "Sagurē",
+    "city_ascii": "Sagure",
+    "admin_name": "Oromīya",
+    "lat": "7.7500",
+    "lng": "39.1500",
+    "id": "1231246746"
+  },
+  {
+    "city": "Mēga",
+    "city_ascii": "Mega",
+    "admin_name": "Oromīya",
+    "lat": "4.0167",
+    "lng": "38.2500",
+    "id": "1231972849"
+  },
+  {
+    "city": "Gorē",
+    "city_ascii": "Gore",
+    "admin_name": "Oromīya",
+    "lat": "8.1490",
+    "lng": "35.5370",
+    "id": "1231481918"
+  },
+  {
+    "city": "Shendē",
+    "city_ascii": "Shende",
+    "admin_name": "Āmara",
+    "lat": "10.6333",
+    "lng": "36.9333",
+    "id": "1231251281"
+  },
+  {
+    "city": "Intich’o",
+    "city_ascii": "Intich'o",
+    "admin_name": "Tigray",
+    "lat": "14.2667",
+    "lng": "39.1500",
+    "id": "1231591819"
+  },
+  {
+    "city": "Ādamī Tulu",
+    "city_ascii": "Adami Tulu",
+    "admin_name": "Oromīya",
+    "lat": "7.8667",
+    "lng": "38.7000",
+    "id": "1231102446"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "city": "Cayenne",
+    "city_ascii": "Cayenne",
+    "admin_name": "",
+    "lat": "4.9330",
+    "lng": "-52.3300",
+    "id": "1254304969"
+  },
+  {
+    "city": "Saint-Laurent-du-Maroni",
+    "city_ascii": "Saint-Laurent-du-Maroni",
+    "admin_name": "",
+    "lat": "5.4976",
+    "lng": "-54.0325",
+    "id": "1254543638"
+  },
+  {
+    "city": "Kourou",
+    "city_ascii": "Kourou",
+    "admin_name": "",
+    "lat": "5.1600",
+    "lng": "-52.6499",
+    "id": "1254317561"
+  },
+  {
+    "city": "Sinnamary",
+    "city_ascii": "Sinnamary",
+    "admin_name": "",
+    "lat": "5.3800",
+    "lng": "-52.9600",
+    "id": "1254385870"
+  },
+  {
+    "city": "Saint-Georges",
+    "city_ascii": "Saint-Georges",
+    "admin_name": "",
+    "lat": "3.9105",
+    "lng": "-51.8100",
+    "id": "1254726319"
+  },
+  {
+    "city": "Roura",
+    "city_ascii": "Roura",
+    "admin_name": "",
+    "lat": "4.7300",
+    "lng": "-52.3300",
+    "id": "1254511393"
+  },
+  {
+    "city": "Iracoubo",
+    "city_ascii": "Iracoubo",
+    "admin_name": "",
+    "lat": "5.4804",
+    "lng": "-53.2200",
+    "id": "1254480447"
+  }
+]

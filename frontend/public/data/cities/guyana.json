@@ -1,0 +1,98 @@
+[
+  {
+    "city": "Georgetown",
+    "city_ascii": "Georgetown",
+    "admin_name": "Demerara-Mahaica",
+    "lat": "6.8011",
+    "lng": "-58.1550",
+    "id": "1328160906"
+  },
+  {
+    "city": "Linden",
+    "city_ascii": "Linden",
+    "admin_name": "Upper Demerara-Berbice",
+    "lat": "6.0000",
+    "lng": "-58.3000",
+    "id": "1328531190"
+  },
+  {
+    "city": "New Amsterdam",
+    "city_ascii": "New Amsterdam",
+    "admin_name": "East Berbice-Corentyne",
+    "lat": "6.2500",
+    "lng": "-57.5167",
+    "id": "1328195392"
+  },
+  {
+    "city": "Anna Regina",
+    "city_ascii": "Anna Regina",
+    "admin_name": "Pomeroon-Supenaam",
+    "lat": "7.2633",
+    "lng": "-58.4806",
+    "id": "1328787362"
+  },
+  {
+    "city": "Princetown",
+    "city_ascii": "Princetown",
+    "admin_name": "East Berbice-Corentyne",
+    "lat": "5.9049",
+    "lng": "-57.1391",
+    "id": "1328276701"
+  },
+  {
+    "city": "Bartica",
+    "city_ascii": "Bartica",
+    "admin_name": "Cuyuni-Mazaruni",
+    "lat": "6.4000",
+    "lng": "-58.6167",
+    "id": "1328806426"
+  },
+  {
+    "city": "Lethem",
+    "city_ascii": "Lethem",
+    "admin_name": "Upper Takutu-Upper Essequibo",
+    "lat": "3.3833",
+    "lng": "-59.8000",
+    "id": "1328749920"
+  },
+  {
+    "city": "Mahdia",
+    "city_ascii": "Mahdia",
+    "admin_name": "Potaro-Siparuni",
+    "lat": "5.2825",
+    "lng": "-59.1500",
+    "id": "1328358422"
+  },
+  {
+    "city": "Mabaruma",
+    "city_ascii": "Mabaruma",
+    "admin_name": "Barima-Waini",
+    "lat": "8.2000",
+    "lng": "-59.7833",
+    "id": "1328079873"
+  },
+  {
+    "city": "Ituni",
+    "city_ascii": "Ituni",
+    "admin_name": "Upper Demerara-Berbice",
+    "lat": "5.5333",
+    "lng": "-58.2500",
+    "id": "1328501744"
+  },
+  {
+    "city": "Vreed-en-Hoop",
+    "city_ascii": "Vreed-en-Hoop",
+    "admin_name": "Essequibo Islands-West Demerara",
+    "lat": "6.8076",
+    "lng": "-58.1815",
+    "id": "1328178268"
+  },
+  {
+    "city": "Fort Wellington",
+    "city_ascii": "Fort Wellington",
+    "admin_name": "Mahaica-Berbice",
+    "lat": "6.4000",
+    "lng": "-57.6167",
+    "id": "1328483798"
+  }
+]

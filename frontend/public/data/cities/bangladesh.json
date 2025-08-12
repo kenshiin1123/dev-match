@@ -1,0 +1,834 @@
+[
+  {
+    "city": "Dhaka",
+    "city_ascii": "Dhaka",
+    "admin_name": "Dhaka",
+    "lat": "23.7289",
+    "lng": "90.3944",
+    "id": "1050529279"
+  },
+  {
+    "city": "Gāzipura",
+    "city_ascii": "Gazipura",
+    "admin_name": "Dhaka",
+    "lat": "23.9234",
+    "lng": "90.3959",
+    "id": "1050449249"
+  },
+  {
+    "city": "Chattogram",
+    "city_ascii": "Chattogram",
+    "admin_name": "Chattogram",
+    "lat": "22.3350",
+    "lng": "91.8325",
+    "id": "1050830722"
+  },
+  {
+    "city": "Rangapukur",
+    "city_ascii": "Rangapukur",
+    "admin_name": "Rangpur",
+    "lat": "25.5206",
+    "lng": "89.2147",
+    "id": "1050032005"
+  },
+  {
+    "city": "Nārāyanganj",
+    "city_ascii": "Narayanganj",
+    "admin_name": "Dhaka",
+    "lat": "23.6167",
+    "lng": "90.5000",
+    "id": "1050424421"
+  },
+  {
+    "city": "Khulna",
+    "city_ascii": "Khulna",
+    "admin_name": "Khulna",
+    "lat": "22.8167",
+    "lng": "89.5500",
+    "id": "1050667339"
+  },
+  {
+    "city": "Mymensingh",
+    "city_ascii": "Mymensingh",
+    "admin_name": "Mymensingh",
+    "lat": "24.7504",
+    "lng": "90.3800",
+    "id": "1050399881"
+  },
+  {
+    "city": "Sylhet",
+    "city_ascii": "Sylhet",
+    "admin_name": "Sylhet",
+    "lat": "24.9000",
+    "lng": "91.8667",
+    "id": "1050646703"
+  },
+  {
+    "city": "Sirājganj",
+    "city_ascii": "Sirajganj",
+    "admin_name": "Rājshāhi",
+    "lat": "24.4500",
+    "lng": "89.7167",
+    "id": "1050687094"
+  },
+  {
+    "city": "Rājshāhi",
+    "city_ascii": "Rajshahi",
+    "admin_name": "Rājshāhi",
+    "lat": "24.3667",
+    "lng": "88.6000",
+    "id": "1050547831"
+  },
+  {
+    "city": "Chauddagram",
+    "city_ascii": "Chauddagram",
+    "admin_name": "Chattogram",
+    "lat": "23.2244",
+    "lng": "91.3731",
+    "id": "1050749168"
+  },
+  {
+    "city": "Kushtia",
+    "city_ascii": "Kushtia",
+    "admin_name": "Khulna",
+    "lat": "23.9000",
+    "lng": "89.1200",
+    "id": "1050000610"
+  },
+  {
+    "city": "Barura",
+    "city_ascii": "Barura",
+    "admin_name": "Chattogram",
+    "lat": "23.3683",
+    "lng": "91.0484",
+    "id": "1050831924"
+  },
+  {
+    "city": "Bogra",
+    "city_ascii": "Bogra",
+    "admin_name": "Rājshāhi",
+    "lat": "24.8510",
+    "lng": "89.3711",
+    "id": "1050833664"
+  },
+  {
+    "city": "Tāngāil",
+    "city_ascii": "Tangail",
+    "admin_name": "Dhaka",
+    "lat": "24.2500",
+    "lng": "89.9200",
+    "id": "1050628940"
+  },
+  {
+    "city": "Savar",
+    "city_ascii": "Savar",
+    "admin_name": "Dhaka",
+    "lat": "23.8482",
+    "lng": "90.2577",
+    "id": "1050038410"
+  },
+  {
+    "city": "Tungi",
+    "city_ascii": "Tungi",
+    "admin_name": "Dhaka",
+    "lat": "23.8915",
+    "lng": "90.4023",
+    "id": "1050143008"
+  },
+  {
+    "city": "Comilla",
+    "city_ascii": "Comilla",
+    "admin_name": "Chattogram",
+    "lat": "23.4500",
+    "lng": "91.2000",
+    "id": "1050609330"
+  },
+  {
+    "city": "Rangpur",
+    "city_ascii": "Rangpur",
+    "admin_name": "Rangpur",
+    "lat": "25.7500",
+    "lng": "89.2444",
+    "id": "1050667437"
+  },
+  {
+    "city": "Brāhmanbāria",
+    "city_ascii": "Brahmanbaria",
+    "admin_name": "Chattogram",
+    "lat": "23.9723",
+    "lng": "91.1099",
+    "id": "1050193121"
+  },
+  {
+    "city": "Feni",
+    "city_ascii": "Feni",
+    "admin_name": "Chattogram",
+    "lat": "23.0150",
+    "lng": "91.3967",
+    "id": "1050761871"
+  },
+  {
+    "city": "Siddhirganj",
+    "city_ascii": "Siddhirganj",
+    "admin_name": "Dhaka",
+    "lat": "23.6913",
+    "lng": "90.5149",
+    "id": "1050651716"
+  },
+  {
+    "city": "Jhenida",
+    "city_ascii": "Jhenida",
+    "admin_name": "Khulna",
+    "lat": "23.5425",
+    "lng": "89.1749",
+    "id": "1050491250"
+  },
+  {
+    "city": "Companiganj",
+    "city_ascii": "Companiganj",
+    "admin_name": "Chattogram",
+    "lat": "22.8730",
+    "lng": "91.2782",
+    "id": "1050000075"
+  },
+  {
+    "city": "Jessore",
+    "city_ascii": "Jessore",
+    "admin_name": "Khulna",
+    "lat": "23.1704",
+    "lng": "89.2000",
+    "id": "1050244487"
+  },
+  {
+    "city": "Bānchpār",
+    "city_ascii": "Banchpar",
+    "admin_name": "Chattogram",
+    "lat": "23.2081",
+    "lng": "90.7979",
+    "id": "1050224894"
+  },
+  {
+    "city": "Nazipur",
+    "city_ascii": "Nazipur",
+    "admin_name": "Rājshāhi",
+    "lat": "25.0455",
+    "lng": "88.7609",
+    "id": "1050310011"
+  },
+  {
+    "city": "Barishal",
+    "city_ascii": "Barishal",
+    "admin_name": "Barishal",
+    "lat": "22.7000",
+    "lng": "90.3667",
+    "id": "1050297281"
+  },
+  {
+    "city": "Chuādānga",
+    "city_ascii": "Chuadanga",
+    "admin_name": "Khulna",
+    "lat": "23.6418",
+    "lng": "88.8577",
+    "id": "1050405233"
+  },
+  {
+    "city": "Cox’s Bāzār",
+    "city_ascii": "Cox's Bazar",
+    "admin_name": "Chattogram",
+    "lat": "21.4539",
+    "lng": "91.9677",
+    "id": "1050836471"
+  },
+  {
+    "city": "Dinājpur",
+    "city_ascii": "Dinajpur",
+    "admin_name": "Rangpur",
+    "lat": "25.6300",
+    "lng": "88.6500",
+    "id": "1050817445"
+  },
+  {
+    "city": "Brahmanpara",
+    "city_ascii": "Brahmanpara",
+    "admin_name": "Chattogram",
+    "lat": "23.6165",
+    "lng": "91.0679",
+    "id": "1050744970"
+  },
+  {
+    "city": "Pābna",
+    "city_ascii": "Pabna",
+    "admin_name": "Rājshāhi",
+    "lat": "24.0004",
+    "lng": "89.2500",
+    "id": "1050424286"
+  },
+  {
+    "city": "Narsingdi",
+    "city_ascii": "Narsingdi",
+    "admin_name": "Dhaka",
+    "lat": "23.9000",
+    "lng": "90.7167",
+    "id": "1050904616"
+  },
+  {
+    "city": "Jamālpur",
+    "city_ascii": "Jamalpur",
+    "admin_name": "Mymensingh",
+    "lat": "24.9004",
+    "lng": "89.9500",
+    "id": "1050233680"
+  },
+  {
+    "city": "Naogaon",
+    "city_ascii": "Naogaon",
+    "admin_name": "Rājshāhi",
+    "lat": "24.8118",
+    "lng": "88.9470",
+    "id": "1050668499"
+  },
+  {
+    "city": "Bhāndāria",
+    "city_ascii": "Bhandaria",
+    "admin_name": "Barishal",
+    "lat": "22.4890",
+    "lng": "90.0627",
+    "id": "1050979013"
+  },
+  {
+    "city": "Nawābganj",
+    "city_ascii": "Nawabganj",
+    "admin_name": "Rājshāhi",
+    "lat": "24.6000",
+    "lng": "88.2667",
+    "id": "1050253103"
+  },
+  {
+    "city": "Srīpur",
+    "city_ascii": "Sripur",
+    "admin_name": "Dhaka",
+    "lat": "24.2000",
+    "lng": "90.4731",
+    "id": "1050643433"
+  },
+  {
+    "city": "Maijdi",
+    "city_ascii": "Maijdi",
+    "admin_name": "Chattogram",
+    "lat": "22.8667",
+    "lng": "91.1000",
+    "id": "1050060514"
+  },
+  {
+    "city": "Saidpur",
+    "city_ascii": "Saidpur",
+    "admin_name": "Rangpur",
+    "lat": "25.7833",
+    "lng": "88.9000",
+    "id": "1050464696"
+  },
+  {
+    "city": "Farīdpur",
+    "city_ascii": "Faridpur",
+    "admin_name": "Dhaka",
+    "lat": "23.5986",
+    "lng": "89.8353",
+    "id": "1050187264"
+  },
+  {
+    "city": "Fulgāzi",
+    "city_ascii": "Fulgazi",
+    "admin_name": "Chattogram",
+    "lat": "23.1461",
+    "lng": "91.4409",
+    "id": "1050136232"
+  },
+  {
+    "city": "Sātkhira",
+    "city_ascii": "Satkhira",
+    "admin_name": "Khulna",
+    "lat": "22.7082",
+    "lng": "89.0718",
+    "id": "1050784467"
+  },
+  {
+    "city": "Netrakona",
+    "city_ascii": "Netrakona",
+    "admin_name": "Mymensingh",
+    "lat": "24.8835",
+    "lng": "90.7290",
+    "id": "1050803025"
+  },
+  {
+    "city": "Goalundo Ghāt",
+    "city_ascii": "Goalundo Ghat",
+    "admin_name": "Dhaka",
+    "lat": "23.7241",
+    "lng": "89.7650",
+    "id": "1050260023"
+  },
+  {
+    "city": "Bhola",
+    "city_ascii": "Bhola",
+    "admin_name": "Barishal",
+    "lat": "22.6833",
+    "lng": "90.6500",
+    "id": "1050857393"
+  },
+  {
+    "city": "Habiganj",
+    "city_ascii": "Habiganj",
+    "admin_name": "Sylhet",
+    "lat": "24.3804",
+    "lng": "91.4130",
+    "id": "1050880972"
+  },
+  {
+    "city": "Lakshmīpur",
+    "city_ascii": "Lakshmipur",
+    "admin_name": "Chattogram",
+    "lat": "22.9443",
+    "lng": "90.8301",
+    "id": "1050632014"
+  },
+  {
+    "city": "Mānikganj",
+    "city_ascii": "Manikganj",
+    "admin_name": "Dhaka",
+    "lat": "23.8614",
+    "lng": "90.0003",
+    "id": "1050452657"
+  },
+  {
+    "city": "Kaukhāli",
+    "city_ascii": "Kaukhali",
+    "admin_name": "Barishal",
+    "lat": "22.6333",
+    "lng": "90.0667",
+    "id": "1050299194"
+  },
+  {
+    "city": "Patuakhāli",
+    "city_ascii": "Patuakhali",
+    "admin_name": "Khulna",
+    "lat": "22.2591",
+    "lng": "90.3184",
+    "id": "1050608887"
+  },
+  {
+    "city": "Panchari Bazar",
+    "city_ascii": "Panchari Bazar",
+    "admin_name": "Chattogram",
+    "lat": "23.2867",
+    "lng": "91.9027",
+    "id": "1050934898"
+  },
+  {
+    "city": "Nakhyaungcharīpāra",
+    "city_ascii": "Nakhyaungcharipara",
+    "admin_name": "Chattogram",
+    "lat": "21.4281",
+    "lng": "92.1779",
+    "id": "1050252175"
+  },
+  {
+    "city": "Lalmanirhat",
+    "city_ascii": "Lalmanirhat",
+    "admin_name": "Rangpur",
+    "lat": "25.9172",
+    "lng": "89.4459",
+    "id": "1050802394"
+  },
+  {
+    "city": "Pirojpur",
+    "city_ascii": "Pirojpur",
+    "admin_name": "Barishal",
+    "lat": "22.5796",
+    "lng": "89.9752",
+    "id": "1050919505"
+  },
+  {
+    "city": "Arankhola",
+    "city_ascii": "Arankhola",
+    "admin_name": "Dhaka",
+    "lat": "24.6928",
+    "lng": "90.0806",
+    "id": "1050000837"
+  },
+  {
+    "city": "Gaibandha",
+    "city_ascii": "Gaibandha",
+    "admin_name": "Rangpur",
+    "lat": "25.3290",
+    "lng": "89.5415",
+    "id": "1050299100"
+  },
+  {
+    "city": "Raharpur",
+    "city_ascii": "Raharpur",
+    "admin_name": "Rājshāhi",
+    "lat": "24.8194",
+    "lng": "88.3250",
+    "id": "1050222103"
+  },
+  {
+    "city": "Elenga",
+    "city_ascii": "Elenga",
+    "admin_name": "Dhaka",
+    "lat": "24.3386",
+    "lng": "89.9219",
+    "id": "1050181953"
+  },
+  {
+    "city": "Jālākāti",
+    "city_ascii": "Jalakati",
+    "admin_name": "Khulna",
+    "lat": "22.6409",
+    "lng": "90.1988",
+    "id": "1050710024"
+  },
+  {
+    "city": "Sherpur",
+    "city_ascii": "Sherpur",
+    "admin_name": "Rājshāhi",
+    "lat": "24.6765",
+    "lng": "89.4159",
+    "id": "1050871216"
+  },
+  {
+    "city": "Gopālganj",
+    "city_ascii": "Gopalganj",
+    "admin_name": "Dhaka",
+    "lat": "23.0000",
+    "lng": "89.8167",
+    "id": "1050452906"
+  },
+  {
+    "city": "Sunāmganj",
+    "city_ascii": "Sunamganj",
+    "admin_name": "Sylhet",
+    "lat": "25.0667",
+    "lng": "91.4000",
+    "id": "1050577147"
+  },
+  {
+    "city": "Gopālpur",
+    "city_ascii": "Gopalpur",
+    "admin_name": "Dhaka",
+    "lat": "24.5601",
+    "lng": "89.9218",
+    "id": "1050090584"
+  },
+  {
+    "city": "Muktāgācha",
+    "city_ascii": "Muktagacha",
+    "admin_name": "Mymensingh",
+    "lat": "24.7668",
+    "lng": "90.2573",
+    "id": "1050147298"
+  },
+  {
+    "city": "Chhāgalnāiya",
+    "city_ascii": "Chhagalnaiya",
+    "admin_name": "Chattogram",
+    "lat": "23.0248",
+    "lng": "91.5109",
+    "id": "1050234698"
+  },
+  {
+    "city": "Bhārella",
+    "city_ascii": "Bharella",
+    "admin_name": "Chattogram",
+    "lat": "23.5653",
+    "lng": "91.0889",
+    "id": "1050643387"
+  },
+  {
+    "city": "Char Fasson",
+    "city_ascii": "Char Fasson",
+    "admin_name": "Khulna",
+    "lat": "22.1865",
+    "lng": "90.7610",
+    "id": "1050997444"
+  },
+  {
+    "city": "Maulavi Bāzār",
+    "city_ascii": "Maulavi Bazar",
+    "admin_name": "Sylhet",
+    "lat": "24.4889",
+    "lng": "91.7708",
+    "id": "1050743879"
+  },
+  {
+    "city": "Dohazāri",
+    "city_ascii": "Dohazari",
+    "admin_name": "Chattogram",
+    "lat": "22.1639",
+    "lng": "92.0733",
+    "id": "1050014013"
+  },
+  {
+    "city": "Kālihāti",
+    "city_ascii": "Kalihati",
+    "admin_name": "Rājshāhi",
+    "lat": "24.3833",
+    "lng": "89.9833",
+    "id": "1050684659"
+  },
+  {
+    "city": "Sītākund",
+    "city_ascii": "Sitakund",
+    "admin_name": "Chattogram",
+    "lat": "22.6216",
+    "lng": "91.6594",
+    "id": "1050226556"
+  },
+  {
+    "city": "Benāpol",
+    "city_ascii": "Benapol",
+    "admin_name": "Khulna",
+    "lat": "23.0419",
+    "lng": "88.8956",
+    "id": "1050467047"
+  },
+  {
+    "city": "Kishmat Dhanbāri",
+    "city_ascii": "Kishmat Dhanbari",
+    "admin_name": "Dhaka",
+    "lat": "24.6167",
+    "lng": "90.0250",
+    "id": "1050355548"
+  },
+  {
+    "city": "Chandanais",
+    "city_ascii": "Chandanais",
+    "admin_name": "Chattogram",
+    "lat": "22.2113",
+    "lng": "92.0111",
+    "id": "1050506316"
+  },
+  {
+    "city": "Hatibanda",
+    "city_ascii": "Hatibanda",
+    "admin_name": "Dhaka",
+    "lat": "24.2155",
+    "lng": "90.1600",
+    "id": "1050959978"
+  },
+  {
+    "city": "Dāganbhuiya",
+    "city_ascii": "Daganbhuiya",
+    "admin_name": "Chattogram",
+    "lat": "22.9366",
+    "lng": "91.3036",
+    "id": "1050791657"
+  },
+  {
+    "city": "Barguna",
+    "city_ascii": "Barguna",
+    "admin_name": "Barishal",
+    "lat": "22.1567",
+    "lng": "90.1176",
+    "id": "1050705630"
+  },
+  {
+    "city": "Nagdha Simla",
+    "city_ascii": "Nagdha Simla",
+    "admin_name": "Dhaka",
+    "lat": "24.6071",
+    "lng": "89.9151",
+    "id": "1050208700"
+  },
+  {
+    "city": "Lohāgāra",
+    "city_ascii": "Lohagara",
+    "admin_name": "Chattogram",
+    "lat": "22.0112",
+    "lng": "92.1009",
+    "id": "1050428352"
+  },
+  {
+    "city": "Nālchiti",
+    "city_ascii": "Nalchiti",
+    "admin_name": "Barishal",
+    "lat": "22.6370",
+    "lng": "90.2719",
+    "id": "1050419528"
+  },
+  {
+    "city": "Majidpur",
+    "city_ascii": "Majidpur",
+    "admin_name": "Chattogram",
+    "lat": "23.5797",
+    "lng": "90.7684",
+    "id": "1050816935"
+  },
+  {
+    "city": "Parsuram",
+    "city_ascii": "Parsuram",
+    "admin_name": "Chattogram",
+    "lat": "23.2114",
+    "lng": "91.4686",
+    "id": "1050185603"
+  },
+  {
+    "city": "Mathba",
+    "city_ascii": "Mathba",
+    "admin_name": "Barishal",
+    "lat": "22.2862",
+    "lng": "89.9588",
+    "id": "1050564750"
+  },
+  {
+    "city": "Mirzāpur",
+    "city_ascii": "Mirzapur",
+    "admin_name": "Dhaka",
+    "lat": "24.1029",
+    "lng": "90.0984",
+    "id": "1050315197"
+  },
+  {
+    "city": "Daulatkhān",
+    "city_ascii": "Daulatkhan",
+    "admin_name": "Barishal",
+    "lat": "22.5998",
+    "lng": "90.7414",
+    "id": "1050010402"
+  },
+  {
+    "city": "Duptiair",
+    "city_ascii": "Duptiair",
+    "admin_name": "Dhaka",
+    "lat": "23.9925",
+    "lng": "89.7973",
+    "id": "1050168412"
+  },
+  {
+    "city": "Lakshmīcharīpāra",
+    "city_ascii": "Lakshmicharipara",
+    "admin_name": "Chattogram",
+    "lat": "22.7937",
+    "lng": "91.9160",
+    "id": "1050022288"
+  },
+  {
+    "city": "Phulpur",
+    "city_ascii": "Phulpur",
+    "admin_name": "Mymensingh",
+    "lat": "24.9487",
+    "lng": "90.2495",
+    "id": "1050550788"
+  },
+  {
+    "city": "Sakhipur",
+    "city_ascii": "Sakhipur",
+    "admin_name": "Dhaka",
+    "lat": "24.3199",
+    "lng": "90.1694",
+    "id": "1050079670"
+  },
+  {
+    "city": "Mundamāla",
+    "city_ascii": "Mundamala",
+    "admin_name": "Rājshāhi",
+    "lat": "24.6081",
+    "lng": "88.4728",
+    "id": "1050162124"
+  },
+  {
+    "city": "Amtali",
+    "city_ascii": "Amtali",
+    "admin_name": "Barishal",
+    "lat": "22.1189",
+    "lng": "90.2210",
+    "id": "1050553814"
+  },
+  {
+    "city": "Shāhbāzpur",
+    "city_ascii": "Shahbazpur",
+    "admin_name": "Chattogram",
+    "lat": "24.0517",
+    "lng": "91.1733",
+    "id": "1050688770"
+  },
+  {
+    "city": "Sonāgāzi",
+    "city_ascii": "Sonagazi",
+    "admin_name": "Chattogram",
+    "lat": "22.8518",
+    "lng": "91.3916",
+    "id": "1050889149"
+  },
+  {
+    "city": "Jagatpur",
+    "city_ascii": "Jagatpur",
+    "admin_name": "Chattogram",
+    "lat": "23.6075",
+    "lng": "90.7660",
+    "id": "1050544125"
+  },
+  {
+    "city": "Harinākunda",
+    "city_ascii": "Harinakunda",
+    "admin_name": "Khulna",
+    "lat": "23.6500",
+    "lng": "89.0333",
+    "id": "1050173632"
+  },
+  {
+    "city": "Latifpur",
+    "city_ascii": "Latifpur",
+    "admin_name": "Dhaka",
+    "lat": "24.1283",
+    "lng": "90.1398",
+    "id": "1050431969"
+  },
+  {
+    "city": "Bāisāri",
+    "city_ascii": "Baisari",
+    "admin_name": "Barishal",
+    "lat": "22.7959",
+    "lng": "90.1259",
+    "id": "1050065179"
+  },
+  {
+    "city": "Dhubaria",
+    "city_ascii": "Dhubaria",
+    "admin_name": "Dhaka",
+    "lat": "24.0104",
+    "lng": "89.8404",
+    "id": "1050353483"
+  },
+  {
+    "city": "Faradābād",
+    "city_ascii": "Faradabad",
+    "admin_name": "Chattogram",
+    "lat": "23.7445",
+    "lng": "90.8772",
+    "id": "1050280343"
+  },
+  {
+    "city": "Fatikchari",
+    "city_ascii": "Fatikchari",
+    "admin_name": "Chattogram",
+    "lat": "22.6877",
+    "lng": "91.7812",
+    "id": "1050662697"
+  },
+  {
+    "city": "Latifpur",
+    "city_ascii": "Latifpur",
+    "admin_name": "Chattogram",
+    "lat": "22.4067",
+    "lng": "91.7464",
+    "id": "1050917791"
+  },
+  {
+    "city": "Saidpur",
+    "city_ascii": "Saidpur",
+    "admin_name": "Rangpur",
+    "lat": "25.8004",
+    "lng": "89.0000",
+    "id": "1050512022"
+  }
+]

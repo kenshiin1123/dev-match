@@ -1,0 +1,626 @@
+[
+  {
+    "city": "Jerusalem",
+    "city_ascii": "Jerusalem",
+    "admin_name": "Jerusalem",
+    "lat": "31.7789",
+    "lng": "35.2256",
+    "id": "1376261644"
+  },
+  {
+    "city": "Haifa",
+    "city_ascii": "Haifa",
+    "admin_name": "Haifa",
+    "lat": "32.8192",
+    "lng": "34.9992",
+    "id": "1376133727"
+  },
+  {
+    "city": "Tel Aviv-Yafo",
+    "city_ascii": "Tel Aviv-Yafo",
+    "admin_name": "Tel Aviv",
+    "lat": "32.0800",
+    "lng": "34.7800",
+    "id": "1376401542"
+  },
+  {
+    "city": "Rishon LeẔiyyon",
+    "city_ascii": "Rishon LeZiyyon",
+    "admin_name": "Central",
+    "lat": "31.9500",
+    "lng": "34.8000",
+    "id": "1376642268"
+  },
+  {
+    "city": "Petaẖ Tiqwa",
+    "city_ascii": "Petah Tiqwa",
+    "admin_name": "Central",
+    "lat": "32.0833",
+    "lng": "34.8833",
+    "id": "1376362310"
+  },
+  {
+    "city": "Ashdod",
+    "city_ascii": "Ashdod",
+    "admin_name": "Southern",
+    "lat": "31.7978",
+    "lng": "34.6503",
+    "id": "1376458766"
+  },
+  {
+    "city": "Netanya",
+    "city_ascii": "Netanya",
+    "admin_name": "Central",
+    "lat": "32.3286",
+    "lng": "34.8567",
+    "id": "1376203187"
+  },
+  {
+    "city": "Beersheba",
+    "city_ascii": "Beersheba",
+    "admin_name": "Southern",
+    "lat": "31.2522",
+    "lng": "34.7867",
+    "id": "1376023307"
+  },
+  {
+    "city": "Holon",
+    "city_ascii": "Holon",
+    "admin_name": "Tel Aviv",
+    "lat": "32.0167",
+    "lng": "34.7667",
+    "id": "1376222772"
+  },
+  {
+    "city": "Bené Beraq",
+    "city_ascii": "Bene Beraq",
+    "admin_name": "Tel Aviv",
+    "lat": "32.0807",
+    "lng": "34.8338",
+    "id": "1376944837"
+  },
+  {
+    "city": "Ramat Gan",
+    "city_ascii": "Ramat Gan",
+    "admin_name": "Tel Aviv",
+    "lat": "32.0700",
+    "lng": "34.8235",
+    "id": "1376357911"
+  },
+  {
+    "city": "Ashqelon",
+    "city_ascii": "Ashqelon",
+    "admin_name": "Southern",
+    "lat": "31.6658",
+    "lng": "34.5664",
+    "id": "1376324059"
+  },
+  {
+    "city": "Reẖovot",
+    "city_ascii": "Rehovot",
+    "admin_name": "Central",
+    "lat": "31.8914",
+    "lng": "34.8078",
+    "id": "1376684821"
+  },
+  {
+    "city": "Bat Yam",
+    "city_ascii": "Bat Yam",
+    "admin_name": "Tel Aviv",
+    "lat": "32.0231",
+    "lng": "34.7503",
+    "id": "1376837517"
+  },
+  {
+    "city": "Bet Shemesh",
+    "city_ascii": "Bet Shemesh",
+    "admin_name": "Jerusalem",
+    "lat": "31.7514",
+    "lng": "34.9886",
+    "id": "1376846832"
+  },
+  {
+    "city": "Kefar Sava",
+    "city_ascii": "Kefar Sava",
+    "admin_name": "Central",
+    "lat": "32.1858",
+    "lng": "34.9077",
+    "id": "1376008883"
+  },
+  {
+    "city": "Modi‘in Makkabbim Re‘ut",
+    "city_ascii": "Modi`in Makkabbim Re`ut",
+    "admin_name": "Central",
+    "lat": "31.9339",
+    "lng": "34.9856",
+    "id": "1376334230"
+  },
+  {
+    "city": "Hadera",
+    "city_ascii": "Hadera",
+    "admin_name": "Haifa",
+    "lat": "32.4500",
+    "lng": "34.9167",
+    "id": "1376761209"
+  },
+  {
+    "city": "Herẕliyya",
+    "city_ascii": "Herzliyya",
+    "admin_name": "Tel Aviv",
+    "lat": "32.1556",
+    "lng": "34.8422",
+    "id": "1376303805"
+  },
+  {
+    "city": "Nazareth",
+    "city_ascii": "Nazareth",
+    "admin_name": "Northern",
+    "lat": "32.7019",
+    "lng": "35.3033",
+    "id": "1376505625"
+  },
+  {
+    "city": "Lod",
+    "city_ascii": "Lod",
+    "admin_name": "Central",
+    "lat": "31.9500",
+    "lng": "34.9000",
+    "id": "1376929543"
+  },
+  {
+    "city": "Ramla",
+    "city_ascii": "Ramla",
+    "admin_name": "Central",
+    "lat": "31.9275",
+    "lng": "34.8625",
+    "id": "1376321361"
+  },
+  {
+    "city": "Ra‘ananna",
+    "city_ascii": "Ra`ananna",
+    "admin_name": "Central",
+    "lat": "32.1833",
+    "lng": "34.8667",
+    "id": "1376791991"
+  },
+  {
+    "city": "Qiryat Gat",
+    "city_ascii": "Qiryat Gat",
+    "admin_name": "Southern",
+    "lat": "31.6100",
+    "lng": "34.7642",
+    "id": "1376511466"
+  },
+  {
+    "city": "Rahat",
+    "city_ascii": "Rahat",
+    "admin_name": "Southern",
+    "lat": "31.3925",
+    "lng": "34.7544",
+    "id": "1376207828"
+  },
+  {
+    "city": "Afula",
+    "city_ascii": "Afula",
+    "admin_name": "Northern",
+    "lat": "32.6064",
+    "lng": "35.2881",
+    "id": "1376077681"
+  },
+  {
+    "city": "Nahariyya",
+    "city_ascii": "Nahariyya",
+    "admin_name": "Northern",
+    "lat": "33.0058",
+    "lng": "35.0989",
+    "id": "1376378013"
+  },
+  {
+    "city": "Givatayim",
+    "city_ascii": "Givatayim",
+    "admin_name": "Tel Aviv",
+    "lat": "32.0697",
+    "lng": "34.8117",
+    "id": "1376739486"
+  },
+  {
+    "city": "Hod HaSharon",
+    "city_ascii": "Hod HaSharon",
+    "admin_name": "Central",
+    "lat": "32.1500",
+    "lng": "34.8833",
+    "id": "1376159880"
+  },
+  {
+    "city": "Rosh Ha‘Ayin",
+    "city_ascii": "Rosh Ha`Ayin",
+    "admin_name": "Central",
+    "lat": "32.0833",
+    "lng": "34.9500",
+    "id": "1376619380"
+  },
+  {
+    "city": "Qiryat Ata",
+    "city_ascii": "Qiryat Ata",
+    "admin_name": "Haifa",
+    "lat": "32.8000",
+    "lng": "35.1000",
+    "id": "1376676929"
+  },
+  {
+    "city": "Umm el Faḥm",
+    "city_ascii": "Umm el Fahm",
+    "admin_name": "Haifa",
+    "lat": "32.5194",
+    "lng": "35.1536",
+    "id": "1376814378"
+  },
+  {
+    "city": "Eilat",
+    "city_ascii": "Eilat",
+    "admin_name": "Southern",
+    "lat": "29.5500",
+    "lng": "34.9500",
+    "id": "1376831370"
+  },
+  {
+    "city": "Nes Ẕiyyona",
+    "city_ascii": "Nes Ziyyona",
+    "admin_name": "Central",
+    "lat": "31.9333",
+    "lng": "34.8000",
+    "id": "1376745785"
+  },
+  {
+    "city": "‘Akko",
+    "city_ascii": "`Akko",
+    "admin_name": "Northern",
+    "lat": "32.9278",
+    "lng": "35.0817",
+    "id": "1376781950"
+  },
+  {
+    "city": "El‘ad",
+    "city_ascii": "El`ad",
+    "admin_name": "Central",
+    "lat": "32.0523",
+    "lng": "34.9512",
+    "id": "1376486332"
+  },
+  {
+    "city": "Ramat HaSharon",
+    "city_ascii": "Ramat HaSharon",
+    "admin_name": "Tel Aviv",
+    "lat": "32.1461",
+    "lng": "34.8394",
+    "id": "1376215427"
+  },
+  {
+    "city": "Karmiel",
+    "city_ascii": "Karmiel",
+    "admin_name": "Northern",
+    "lat": "32.9136",
+    "lng": "35.2961",
+    "id": "1376615005"
+  },
+  {
+    "city": "Tiberias",
+    "city_ascii": "Tiberias",
+    "admin_name": "Northern",
+    "lat": "32.7944",
+    "lng": "35.5333",
+    "id": "1376017086"
+  },
+  {
+    "city": "Eṭ Ṭaiyiba",
+    "city_ascii": "Et Taiyiba",
+    "admin_name": "Central",
+    "lat": "32.2667",
+    "lng": "35.0000",
+    "id": "1376597784"
+  },
+  {
+    "city": "Ben Zakkay",
+    "city_ascii": "Ben Zakkay",
+    "admin_name": "Central",
+    "lat": "31.8833",
+    "lng": "34.7333",
+    "id": "1376946236"
+  },
+  {
+    "city": "Pardés H̱anna Karkur",
+    "city_ascii": "Pardes Hanna Karkur",
+    "admin_name": "Haifa",
+    "lat": "32.4711",
+    "lng": "34.9675",
+    "id": "1376163698"
+  },
+  {
+    "city": "Qiryat Moẕqin",
+    "city_ascii": "Qiryat Mozqin",
+    "admin_name": "Haifa",
+    "lat": "32.8333",
+    "lng": "35.0833",
+    "id": "1376435231"
+  },
+  {
+    "city": "Qiryat Ono",
+    "city_ascii": "Qiryat Ono",
+    "admin_name": "Tel Aviv",
+    "lat": "32.0636",
+    "lng": "34.8553",
+    "id": "1376929399"
+  },
+  {
+    "city": "Shefar‘am",
+    "city_ascii": "Shefar`am",
+    "admin_name": "Northern",
+    "lat": "32.8056",
+    "lng": "35.1694",
+    "id": "1376191471"
+  },
+  {
+    "city": "Qiryat Bialik",
+    "city_ascii": "Qiryat Bialik",
+    "admin_name": "Haifa",
+    "lat": "32.8333",
+    "lng": "35.0833",
+    "id": "1376833983"
+  },
+  {
+    "city": "Qiryat Yam",
+    "city_ascii": "Qiryat Yam",
+    "admin_name": "Haifa",
+    "lat": "32.8333",
+    "lng": "35.0667",
+    "id": "1376460777"
+  },
+  {
+    "city": "Or Yehuda",
+    "city_ascii": "Or Yehuda",
+    "admin_name": "Tel Aviv",
+    "lat": "32.0333",
+    "lng": "34.8500",
+    "id": "1376356429"
+  },
+  {
+    "city": "Ẕefat",
+    "city_ascii": "Zefat",
+    "admin_name": "Northern",
+    "lat": "32.9658",
+    "lng": "35.4983",
+    "id": "1376611460"
+  },
+  {
+    "city": "Dimona",
+    "city_ascii": "Dimona",
+    "admin_name": "Southern",
+    "lat": "31.0700",
+    "lng": "35.0300",
+    "id": "1376956540"
+  },
+  {
+    "city": "Tamra",
+    "city_ascii": "Tamra",
+    "admin_name": "Northern",
+    "lat": "32.8536",
+    "lng": "35.1978",
+    "id": "1376012882"
+  },
+  {
+    "city": "Netivot",
+    "city_ascii": "Netivot",
+    "admin_name": "Southern",
+    "lat": "31.4167",
+    "lng": "34.5833",
+    "id": "1376200656"
+  },
+  {
+    "city": "Sakhnīn",
+    "city_ascii": "Sakhnin",
+    "admin_name": "Northern",
+    "lat": "32.8667",
+    "lng": "35.3000",
+    "id": "1376646130"
+  },
+  {
+    "city": "Be’er Ya‘aqov",
+    "city_ascii": "Be'er Ya`aqov",
+    "admin_name": "Central",
+    "lat": "31.9436",
+    "lng": "34.8392",
+    "id": "1376941719"
+  },
+  {
+    "city": "Yehud",
+    "city_ascii": "Yehud",
+    "admin_name": "Central",
+    "lat": "32.0333",
+    "lng": "34.8833",
+    "id": "1376760246"
+  },
+  {
+    "city": "Ofaqim",
+    "city_ascii": "Ofaqim",
+    "admin_name": "Southern",
+    "lat": "31.2833",
+    "lng": "34.6167",
+    "id": "1376992458"
+  },
+  {
+    "city": "Kefar Yona",
+    "city_ascii": "Kefar Yona",
+    "admin_name": "Central",
+    "lat": "32.3171",
+    "lng": "34.9358",
+    "id": "1376924544"
+  },
+  {
+    "city": "Rama",
+    "city_ascii": "Rama",
+    "admin_name": "Northern",
+    "lat": "32.8511",
+    "lng": "35.3386",
+    "id": "1376009580"
+  },
+  {
+    "city": "Gedera",
+    "city_ascii": "Gedera",
+    "admin_name": "Central",
+    "lat": "31.8139",
+    "lng": "34.7783",
+    "id": "1376689197"
+  },
+  {
+    "city": "Eṭ Ṭīra",
+    "city_ascii": "Et Tira",
+    "admin_name": "Central",
+    "lat": "32.2328",
+    "lng": "34.9503",
+    "id": "1376315793"
+  },
+  {
+    "city": "Migdal Ha‘Emeq",
+    "city_ascii": "Migdal Ha`Emeq",
+    "admin_name": "Northern",
+    "lat": "32.6714",
+    "lng": "35.2406",
+    "id": "1376279434"
+  },
+  {
+    "city": "Giv‘at Shemu’él",
+    "city_ascii": "Giv`at Shemu'el",
+    "admin_name": "Central",
+    "lat": "32.0781",
+    "lng": "34.8489",
+    "id": "1376429803"
+  },
+  {
+    "city": "Arad",
+    "city_ascii": "Arad",
+    "admin_name": "Southern",
+    "lat": "31.2603",
+    "lng": "35.2147",
+    "id": "1376674296"
+  },
+  {
+    "city": "Yoqne‘am ‘Illit",
+    "city_ascii": "Yoqne`am `Illit",
+    "admin_name": "Northern",
+    "lat": "32.6594",
+    "lng": "35.1100",
+    "id": "1376262404"
+  },
+  {
+    "city": "Nesher",
+    "city_ascii": "Nesher",
+    "admin_name": "Haifa",
+    "lat": "32.7711",
+    "lng": "35.0394",
+    "id": "1376735055"
+  },
+  {
+    "city": "Ma‘alot Tarshīḥā",
+    "city_ascii": "Ma`alot Tarshiha",
+    "admin_name": "Northern",
+    "lat": "33.0167",
+    "lng": "35.2708",
+    "id": "1376992708"
+  },
+  {
+    "city": "Qiryat Mal’akhi",
+    "city_ascii": "Qiryat Mal'akhi",
+    "admin_name": "Southern",
+    "lat": "31.7333",
+    "lng": "34.7500",
+    "id": "1376662881"
+  },
+  {
+    "city": "Sederot",
+    "city_ascii": "Sederot",
+    "admin_name": "Southern",
+    "lat": "31.5250",
+    "lng": "34.5969",
+    "id": "1376365217"
+  },
+  {
+    "city": "Qiryat Shemona",
+    "city_ascii": "Qiryat Shemona",
+    "admin_name": "Northern",
+    "lat": "33.2075",
+    "lng": "35.5697",
+    "id": "1376248603"
+  },
+  {
+    "city": "Gan Yavne",
+    "city_ascii": "Gan Yavne",
+    "admin_name": "Central",
+    "lat": "31.7886",
+    "lng": "34.7053",
+    "id": "1376546526"
+  },
+  {
+    "city": "Tirat Karmel",
+    "city_ascii": "Tirat Karmel",
+    "admin_name": "Haifa",
+    "lat": "32.7667",
+    "lng": "34.9667",
+    "id": "1376894717"
+  },
+  {
+    "city": "Kafr Qāsim",
+    "city_ascii": "Kafr Qasim",
+    "admin_name": "Central",
+    "lat": "32.1142",
+    "lng": "34.9772",
+    "id": "1376925215"
+  },
+  {
+    "city": "Qalansuwa",
+    "city_ascii": "Qalansuwa",
+    "admin_name": "Central",
+    "lat": "32.2850",
+    "lng": "34.9811",
+    "id": "1376958417"
+  },
+  {
+    "city": "Bet She’an",
+    "city_ascii": "Bet She'an",
+    "admin_name": "Northern",
+    "lat": "32.5000",
+    "lng": "35.5000",
+    "id": "1376100451"
+  },
+  {
+    "city": "Or ‘Aqiva",
+    "city_ascii": "Or `Aqiva",
+    "admin_name": "Haifa",
+    "lat": "32.5000",
+    "lng": "34.9167",
+    "id": "1376081727"
+  },
+  {
+    "city": "Jisr ez Zarqā",
+    "city_ascii": "Jisr ez Zarqa",
+    "admin_name": "Haifa",
+    "lat": "32.5381",
+    "lng": "34.9122",
+    "id": "1376963985"
+  },
+  {
+    "city": "Majdal Shams",
+    "city_ascii": "Majdal Shams",
+    "admin_name": "Northern",
+    "lat": "33.2667",
+    "lng": "35.7667",
+    "id": "1376000007"
+  },
+  {
+    "city": "Atlit",
+    "city_ascii": "Atlit",
+    "admin_name": "Haifa",
+    "lat": "32.6872",
+    "lng": "34.9383",
+    "id": "1376755634"
+  }
+]

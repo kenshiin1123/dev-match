@@ -1,0 +1,178 @@
+[
+  {
+    "city": "Nuuk",
+    "city_ascii": "Nuuk",
+    "admin_name": "Sermersooq",
+    "lat": "64.1767",
+    "lng": "-51.7361",
+    "id": "1304028354"
+  },
+  {
+    "city": "Sisimiut",
+    "city_ascii": "Sisimiut",
+    "admin_name": "Qeqqata",
+    "lat": "66.9389",
+    "lng": "-53.6722",
+    "id": "1304160154"
+  },
+  {
+    "city": "Ilulissat",
+    "city_ascii": "Ilulissat",
+    "admin_name": "Avannaata",
+    "lat": "69.2167",
+    "lng": "-51.1000",
+    "id": "1304656747"
+  },
+  {
+    "city": "Aasiaat",
+    "city_ascii": "Aasiaat",
+    "admin_name": "Qeqertalik",
+    "lat": "68.7097",
+    "lng": "-52.8694",
+    "id": "1304194714"
+  },
+  {
+    "city": "Qaqortoq",
+    "city_ascii": "Qaqortoq",
+    "admin_name": "Kujalleq",
+    "lat": "60.7222",
+    "lng": "-46.0403",
+    "id": "1304746917"
+  },
+  {
+    "city": "Tasiilaq",
+    "city_ascii": "Tasiilaq",
+    "admin_name": "Sermersooq",
+    "lat": "65.6136",
+    "lng": "-37.6311",
+    "id": "1304230512"
+  },
+  {
+    "city": "Uummannaq",
+    "city_ascii": "Uummannaq",
+    "admin_name": "Avannaata",
+    "lat": "70.6747",
+    "lng": "-52.1264",
+    "id": "1304056798"
+  },
+  {
+    "city": "Paamiut",
+    "city_ascii": "Paamiut",
+    "admin_name": "Sermersooq",
+    "lat": "61.9944",
+    "lng": "-49.6667",
+    "id": "1304323922"
+  },
+  {
+    "city": "Upernavik",
+    "city_ascii": "Upernavik",
+    "admin_name": "Avannaata",
+    "lat": "72.7869",
+    "lng": "-56.1472",
+    "id": "1304750851"
+  },
+  {
+    "city": "Qasigiannguit",
+    "city_ascii": "Qasigiannguit",
+    "admin_name": "Qeqertalik",
+    "lat": "68.8201",
+    "lng": "-51.1932",
+    "id": "1304001772"
+  },
+  {
+    "city": "Godhavn",
+    "city_ascii": "Godhavn",
+    "admin_name": "Qeqertalik",
+    "lat": "69.2472",
+    "lng": "-53.5333",
+    "id": "1304388071"
+  },
+  {
+    "city": "Qaanaaq",
+    "city_ascii": "Qaanaaq",
+    "admin_name": "Avannaata",
+    "lat": "77.4667",
+    "lng": "-69.2306",
+    "id": "1304094556"
+  },
+  {
+    "city": "Kullorsuaq",
+    "city_ascii": "Kullorsuaq",
+    "admin_name": "Avannaata",
+    "lat": "74.5792",
+    "lng": "-57.2181",
+    "id": "1304004889"
+  },
+  {
+    "city": "Scoresbysund",
+    "city_ascii": "Scoresbysund",
+    "admin_name": "Sermersooq",
+    "lat": "70.4853",
+    "lng": "-21.9667",
+    "id": "1304036812"
+  },
+  {
+    "city": "Tasiusaq",
+    "city_ascii": "Tasiusaq",
+    "admin_name": "Avannaata",
+    "lat": "73.3689",
+    "lng": "-56.0556",
+    "id": "1304103267"
+  },
+  {
+    "city": "Kulusuk",
+    "city_ascii": "Kulusuk",
+    "admin_name": "Sermersooq",
+    "lat": "65.5753",
+    "lng": "-37.1833",
+    "id": "1304671891"
+  },
+  {
+    "city": "Kraulshavn",
+    "city_ascii": "Kraulshavn",
+    "admin_name": "Avannaata",
+    "lat": "74.1111",
+    "lng": "-57.0611",
+    "id": "1304966853"
+  },
+  {
+    "city": "Kangersuatsiaq",
+    "city_ascii": "Kangersuatsiaq",
+    "admin_name": "Avannaata",
+    "lat": "72.3797",
+    "lng": "-55.5500",
+    "id": "1304939198"
+  },
+  {
+    "city": "Narsarsuaq",
+    "city_ascii": "Narsarsuaq",
+    "admin_name": "Kujalleq",
+    "lat": "61.1458",
+    "lng": "-45.4347",
+    "id": "1304138343"
+  },
+  {
+    "city": "Savissivik",
+    "city_ascii": "Savissivik",
+    "admin_name": "Avannaata",
+    "lat": "76.0194",
+    "lng": "-65.1139",
+    "id": "1304246272"
+  },
+  {
+    "city": "Nord",
+    "city_ascii": "Nord",
+    "admin_name": "",
+    "lat": "81.7166",
+    "lng": "-17.8000",
+    "id": "1304217709"
+  },
+  {
+    "city": "Timmiarmiut",
+    "city_ascii": "Timmiarmiut",
+    "admin_name": "Kujalleq",
+    "lat": "62.5333",
+    "lng": "-42.2167",
+    "id": "1304206491"
+  }
+]

@@ -1,0 +1,1258 @@
+[
+  {
+    "city": "Caracas",
+    "city_ascii": "Caracas",
+    "admin_name": "Distrito Capital",
+    "lat": "10.4806",
+    "lng": "-66.9036",
+    "id": "1862748204"
+  },
+  {
+    "city": "Maracaibo",
+    "city_ascii": "Maracaibo",
+    "admin_name": "Zulia",
+    "lat": "10.6333",
+    "lng": "-71.6333",
+    "id": "1862072711"
+  },
+  {
+    "city": "Valencia",
+    "city_ascii": "Valencia",
+    "admin_name": "Carabobo",
+    "lat": "10.1833",
+    "lng": "-68.0000",
+    "id": "1862309871"
+  },
+  {
+    "city": "Maracay",
+    "city_ascii": "Maracay",
+    "admin_name": "Aragua",
+    "lat": "10.2469",
+    "lng": "-67.5961",
+    "id": "1862284350"
+  },
+  {
+    "city": "Barquisimeto",
+    "city_ascii": "Barquisimeto",
+    "admin_name": "Lara",
+    "lat": "10.0636",
+    "lng": "-69.3347",
+    "id": "1862860739"
+  },
+  {
+    "city": "Ciudad Guayana",
+    "city_ascii": "Ciudad Guayana",
+    "admin_name": "Bolívar",
+    "lat": "8.3667",
+    "lng": "-62.6500",
+    "id": "1862889027"
+  },
+  {
+    "city": "Barcelona",
+    "city_ascii": "Barcelona",
+    "admin_name": "Anzoátegui",
+    "lat": "10.1403",
+    "lng": "-64.6833",
+    "id": "1862418619"
+  },
+  {
+    "city": "Catia La Mar",
+    "city_ascii": "Catia La Mar",
+    "admin_name": "La Guaira",
+    "lat": "10.6000",
+    "lng": "-67.0333",
+    "id": "1862657837"
+  },
+  {
+    "city": "Maturín",
+    "city_ascii": "Maturin",
+    "admin_name": "Monagas",
+    "lat": "9.7500",
+    "lng": "-63.1830",
+    "id": "1862546949"
+  },
+  {
+    "city": "Puerto La Cruz",
+    "city_ascii": "Puerto La Cruz",
+    "admin_name": "Anzoátegui",
+    "lat": "10.2000",
+    "lng": "-64.6333",
+    "id": "1862856141"
+  },
+  {
+    "city": "Ciudad Bolívar",
+    "city_ascii": "Ciudad Bolivar",
+    "admin_name": "Bolívar",
+    "lat": "8.1219",
+    "lng": "-63.5500",
+    "id": "1862318264"
+  },
+  {
+    "city": "Cumaná",
+    "city_ascii": "Cumana",
+    "admin_name": "Sucre",
+    "lat": "10.4564",
+    "lng": "-64.1675",
+    "id": "1862583279"
+  },
+  {
+    "city": "Barinas",
+    "city_ascii": "Barinas",
+    "admin_name": "Barinas",
+    "lat": "8.6333",
+    "lng": "-70.2000",
+    "id": "1862647790"
+  },
+  {
+    "city": "Petare",
+    "city_ascii": "Petare",
+    "admin_name": "Miranda",
+    "lat": "10.4833",
+    "lng": "-66.8167",
+    "id": "1862595613"
+  },
+  {
+    "city": "Cabimas",
+    "city_ascii": "Cabimas",
+    "admin_name": "Zulia",
+    "lat": "10.4000",
+    "lng": "-71.4500",
+    "id": "1862398719"
+  },
+  {
+    "city": "San Cristóbal",
+    "city_ascii": "San Cristobal",
+    "admin_name": "Táchira",
+    "lat": "7.7667",
+    "lng": "-72.2333",
+    "id": "1862252264"
+  },
+  {
+    "city": "Santa Teresa del Tuy",
+    "city_ascii": "Santa Teresa del Tuy",
+    "admin_name": "Miranda",
+    "lat": "10.2333",
+    "lng": "-66.6639",
+    "id": "1862528581"
+  },
+  {
+    "city": "Los Teques",
+    "city_ascii": "Los Teques",
+    "admin_name": "Miranda",
+    "lat": "10.3333",
+    "lng": "-67.0417",
+    "id": "1862066931"
+  },
+  {
+    "city": "Baruta",
+    "city_ascii": "Baruta",
+    "admin_name": "Miranda",
+    "lat": "10.4322",
+    "lng": "-66.8739",
+    "id": "1862630716"
+  },
+  {
+    "city": "San Felipe",
+    "city_ascii": "San Felipe",
+    "admin_name": "Yaracuy",
+    "lat": "10.3406",
+    "lng": "-68.7369",
+    "id": "1862716082"
+  },
+  {
+    "city": "El Tigre",
+    "city_ascii": "El Tigre",
+    "admin_name": "Anzoátegui",
+    "lat": "8.8861",
+    "lng": "-64.2611",
+    "id": "1862428934"
+  },
+  {
+    "city": "Puerto Cabello",
+    "city_ascii": "Puerto Cabello",
+    "admin_name": "Carabobo",
+    "lat": "10.4667",
+    "lng": "-68.0167",
+    "id": "1862031193"
+  },
+  {
+    "city": "La Guaira",
+    "city_ascii": "La Guaira",
+    "admin_name": "La Guaira",
+    "lat": "10.6000",
+    "lng": "-66.9331",
+    "id": "1862282663"
+  },
+  {
+    "city": "Acarigua",
+    "city_ascii": "Acarigua",
+    "admin_name": "Portuguesa",
+    "lat": "9.5597",
+    "lng": "-69.2019",
+    "id": "1862134462"
+  },
+  {
+    "city": "Guatire",
+    "city_ascii": "Guatire",
+    "admin_name": "Miranda",
+    "lat": "10.4717",
+    "lng": "-66.5406",
+    "id": "1862199442"
+  },
+  {
+    "city": "Guarenas",
+    "city_ascii": "Guarenas",
+    "admin_name": "Miranda",
+    "lat": "10.4667",
+    "lng": "-66.6167",
+    "id": "1862083525"
+  },
+  {
+    "city": "Mérida",
+    "city_ascii": "Merida",
+    "admin_name": "Mérida",
+    "lat": "8.4800",
+    "lng": "-71.1900",
+    "id": "1862668122"
+  },
+  {
+    "city": "Coro",
+    "city_ascii": "Coro",
+    "admin_name": "Falcón",
+    "lat": "11.4170",
+    "lng": "-69.6700",
+    "id": "1862429150"
+  },
+  {
+    "city": "Valera",
+    "city_ascii": "Valera",
+    "admin_name": "Trujillo",
+    "lat": "9.3200",
+    "lng": "-70.6200",
+    "id": "1862735261"
+  },
+  {
+    "city": "San Diego",
+    "city_ascii": "San Diego",
+    "admin_name": "Carabobo",
+    "lat": "10.2540",
+    "lng": "-68.0109",
+    "id": "1862530883"
+  },
+  {
+    "city": "Guacara",
+    "city_ascii": "Guacara",
+    "admin_name": "Carabobo",
+    "lat": "10.2536",
+    "lng": "-67.9000",
+    "id": "1862573240"
+  },
+  {
+    "city": "Carúpano",
+    "city_ascii": "Carupano",
+    "admin_name": "Sucre",
+    "lat": "10.6722",
+    "lng": "-63.2403",
+    "id": "1862777685"
+  },
+  {
+    "city": "Tocuyito",
+    "city_ascii": "Tocuyito",
+    "admin_name": "Carabobo",
+    "lat": "10.1144",
+    "lng": "-68.0656",
+    "id": "1862659974"
+  },
+  {
+    "city": "Calabozo",
+    "city_ascii": "Calabozo",
+    "admin_name": "Guárico",
+    "lat": "8.9333",
+    "lng": "-67.4333",
+    "id": "1862623441"
+  },
+  {
+    "city": "Ocumare del Tuy",
+    "city_ascii": "Ocumare del Tuy",
+    "admin_name": "Miranda",
+    "lat": "10.1136",
+    "lng": "-66.7814",
+    "id": "1862015576"
+  },
+  {
+    "city": "San Fernando",
+    "city_ascii": "San Fernando",
+    "admin_name": "Apure",
+    "lat": "7.8940",
+    "lng": "-67.4730",
+    "id": "1862404343"
+  },
+  {
+    "city": "Palo Negro",
+    "city_ascii": "Palo Negro",
+    "admin_name": "Aragua",
+    "lat": "10.1739",
+    "lng": "-67.5419",
+    "id": "1862061949"
+  },
+  {
+    "city": "Porlamar",
+    "city_ascii": "Porlamar",
+    "admin_name": "Nueva Esparta",
+    "lat": "10.9500",
+    "lng": "-63.8500",
+    "id": "1862693736"
+  },
+  {
+    "city": "La Victoria",
+    "city_ascii": "La Victoria",
+    "admin_name": "Aragua",
+    "lat": "10.2278",
+    "lng": "-67.3336",
+    "id": "1862054455"
+  },
+  {
+    "city": "Yaritagua",
+    "city_ascii": "Yaritagua",
+    "admin_name": "Yaracuy",
+    "lat": "10.0753",
+    "lng": "-69.1283",
+    "id": "1862905123"
+  },
+  {
+    "city": "Santa Rita",
+    "city_ascii": "Santa Rita",
+    "admin_name": "Aragua",
+    "lat": "10.2003",
+    "lng": "-67.5514",
+    "id": "1862408122"
+  },
+  {
+    "city": "Punto Fijo",
+    "city_ascii": "Punto Fijo",
+    "admin_name": "Falcón",
+    "lat": "11.7167",
+    "lng": "-70.1833",
+    "id": "1862535644"
+  },
+  {
+    "city": "Los Guayos",
+    "city_ascii": "Los Guayos",
+    "admin_name": "Carabobo",
+    "lat": "10.1833",
+    "lng": "-67.9333",
+    "id": "1862264170"
+  },
+  {
+    "city": "Charallave",
+    "city_ascii": "Charallave",
+    "admin_name": "Miranda",
+    "lat": "10.2431",
+    "lng": "-66.8622",
+    "id": "1862753487"
+  },
+  {
+    "city": "Ciudad Ojeda",
+    "city_ascii": "Ciudad Ojeda",
+    "admin_name": "Zulia",
+    "lat": "10.2000",
+    "lng": "-71.3000",
+    "id": "1862967909"
+  },
+  {
+    "city": "Táriba",
+    "city_ascii": "Tariba",
+    "admin_name": "Táchira",
+    "lat": "7.8167",
+    "lng": "-72.2167",
+    "id": "1862780259"
+  },
+  {
+    "city": "Cúa",
+    "city_ascii": "Cua",
+    "admin_name": "Miranda",
+    "lat": "10.1667",
+    "lng": "-66.8833",
+    "id": "1862770169"
+  },
+  {
+    "city": "Carora",
+    "city_ascii": "Carora",
+    "admin_name": "Lara",
+    "lat": "10.1711",
+    "lng": "-70.0797",
+    "id": "1862485109"
+  },
+  {
+    "city": "Santa Lucía",
+    "city_ascii": "Santa Lucia",
+    "admin_name": "Miranda",
+    "lat": "10.2606",
+    "lng": "-66.6639",
+    "id": "1862614387"
+  },
+  {
+    "city": "Guanare",
+    "city_ascii": "Guanare",
+    "admin_name": "Portuguesa",
+    "lat": "9.0436",
+    "lng": "-69.7489",
+    "id": "1862645590"
+  },
+  {
+    "city": "Trujillo",
+    "city_ascii": "Trujillo",
+    "admin_name": "Trujillo",
+    "lat": "9.4170",
+    "lng": "-70.5000",
+    "id": "1862212549"
+  },
+  {
+    "city": "Socopó",
+    "city_ascii": "Socopo",
+    "admin_name": "Barinas",
+    "lat": "8.2306",
+    "lng": "-70.8220",
+    "id": "1862619610"
+  },
+  {
+    "city": "Tinaquillo",
+    "city_ascii": "Tinaquillo",
+    "admin_name": "Cojedes",
+    "lat": "9.9167",
+    "lng": "-68.3000",
+    "id": "1862118872"
+  },
+  {
+    "city": "Cagua",
+    "city_ascii": "Cagua",
+    "admin_name": "Aragua",
+    "lat": "10.1875",
+    "lng": "-67.4611",
+    "id": "1862805374"
+  },
+  {
+    "city": "El Limón",
+    "city_ascii": "El Limon",
+    "admin_name": "Aragua",
+    "lat": "10.3003",
+    "lng": "-67.6336",
+    "id": "1862210475"
+  },
+  {
+    "city": "Anaco",
+    "city_ascii": "Anaco",
+    "admin_name": "Anzoátegui",
+    "lat": "9.4819",
+    "lng": "-64.4917",
+    "id": "1862074247"
+  },
+  {
+    "city": "Valle de La Pascua",
+    "city_ascii": "Valle de La Pascua",
+    "admin_name": "Guárico",
+    "lat": "9.2033",
+    "lng": "-66.0103",
+    "id": "1862904072"
+  },
+  {
+    "city": "Guasdualito",
+    "city_ascii": "Guasdualito",
+    "admin_name": "Apure",
+    "lat": "7.2467",
+    "lng": "-70.7292",
+    "id": "1862834503"
+  },
+  {
+    "city": "Boconó",
+    "city_ascii": "Bocono",
+    "admin_name": "Trujillo",
+    "lat": "9.2461",
+    "lng": "-70.2617",
+    "id": "1862012511"
+  },
+  {
+    "city": "Ejido",
+    "city_ascii": "Ejido",
+    "admin_name": "Mérida",
+    "lat": "8.3333",
+    "lng": "-71.4000",
+    "id": "1862153927"
+  },
+  {
+    "city": "La Grita",
+    "city_ascii": "La Grita",
+    "admin_name": "Táchira",
+    "lat": "8.1333",
+    "lng": "-71.9833",
+    "id": "1862682610"
+  },
+  {
+    "city": "Villa de Cura",
+    "city_ascii": "Villa de Cura",
+    "admin_name": "Aragua",
+    "lat": "10.0383",
+    "lng": "-67.4892",
+    "id": "1862979204"
+  },
+  {
+    "city": "Maiquetía",
+    "city_ascii": "Maiquetia",
+    "admin_name": "La Guaira",
+    "lat": "10.5958",
+    "lng": "-66.9772",
+    "id": "1862822831"
+  },
+  {
+    "city": "San Juan de los Morros",
+    "city_ascii": "San Juan de los Morros",
+    "admin_name": "Guárico",
+    "lat": "9.9010",
+    "lng": "-67.3540",
+    "id": "1862865294"
+  },
+  {
+    "city": "Rubio",
+    "city_ascii": "Rubio",
+    "admin_name": "Táchira",
+    "lat": "7.7000",
+    "lng": "-72.3500",
+    "id": "1862078206"
+  },
+  {
+    "city": "Tucupita",
+    "city_ascii": "Tucupita",
+    "admin_name": "Delta Amacuro",
+    "lat": "9.0592",
+    "lng": "-62.0681",
+    "id": "1862849758"
+  },
+  {
+    "city": "San Carlos",
+    "city_ascii": "San Carlos",
+    "admin_name": "Cojedes",
+    "lat": "9.6500",
+    "lng": "-68.5833",
+    "id": "1862109303"
+  },
+  {
+    "city": "Puerto Ayacucho",
+    "city_ascii": "Puerto Ayacucho",
+    "admin_name": "Amazonas",
+    "lat": "5.6631",
+    "lng": "-67.6264",
+    "id": "1862027409"
+  },
+  {
+    "city": "San Antonio de Los Altos",
+    "city_ascii": "San Antonio de Los Altos",
+    "admin_name": "Miranda",
+    "lat": "10.3744",
+    "lng": "-66.9669",
+    "id": "1862497585"
+  },
+  {
+    "city": "Cabudare",
+    "city_ascii": "Cabudare",
+    "admin_name": "Lara",
+    "lat": "10.0331",
+    "lng": "-69.2633",
+    "id": "1862114226"
+  },
+  {
+    "city": "Quíbor",
+    "city_ascii": "Quibor",
+    "admin_name": "Lara",
+    "lat": "9.9311",
+    "lng": "-69.6247",
+    "id": "1862178539"
+  },
+  {
+    "city": "Cedeño",
+    "city_ascii": "Cedeno",
+    "admin_name": "Bolívar",
+    "lat": "7.6492",
+    "lng": "-66.1759",
+    "id": "1862036246"
+  },
+  {
+    "city": "Caripito",
+    "city_ascii": "Caripito",
+    "admin_name": "Monagas",
+    "lat": "10.1167",
+    "lng": "-63.1000",
+    "id": "1862107520"
+  },
+  {
+    "city": "Machiques",
+    "city_ascii": "Machiques",
+    "admin_name": "Zulia",
+    "lat": "10.0667",
+    "lng": "-72.5667",
+    "id": "1862003182"
+  },
+  {
+    "city": "San Antonio del Táchira",
+    "city_ascii": "San Antonio del Tachira",
+    "admin_name": "Táchira",
+    "lat": "7.8167",
+    "lng": "-72.4500",
+    "id": "1862415614"
+  },
+  {
+    "city": "Güigüe",
+    "city_ascii": "Guigue",
+    "admin_name": "Carabobo",
+    "lat": "10.0833",
+    "lng": "-67.7833",
+    "id": "1862131807"
+  },
+  {
+    "city": "Chivacoa",
+    "city_ascii": "Chivacoa",
+    "admin_name": "Yaracuy",
+    "lat": "10.1600",
+    "lng": "-68.9097",
+    "id": "1862762950"
+  },
+  {
+    "city": "Nirgua",
+    "city_ascii": "Nirgua",
+    "admin_name": "Yaracuy",
+    "lat": "10.0833",
+    "lng": "-68.6667",
+    "id": "1862583509"
+  },
+  {
+    "city": "Carvajal",
+    "city_ascii": "Carvajal",
+    "admin_name": "Trujillo",
+    "lat": "9.3300",
+    "lng": "-70.5767",
+    "id": "1862311729"
+  },
+  {
+    "city": "Zaraza",
+    "city_ascii": "Zaraza",
+    "admin_name": "Guárico",
+    "lat": "9.3394",
+    "lng": "-65.3167",
+    "id": "1862643668"
+  },
+  {
+    "city": "San Carlos del Zulia",
+    "city_ascii": "San Carlos del Zulia",
+    "admin_name": "Zulia",
+    "lat": "9.0000",
+    "lng": "-71.9333",
+    "id": "1862219492"
+  },
+  {
+    "city": "Upata",
+    "city_ascii": "Upata",
+    "admin_name": "Bolívar",
+    "lat": "8.0204",
+    "lng": "-62.4100",
+    "id": "1862794619"
+  },
+  {
+    "city": "Turmero",
+    "city_ascii": "Turmero",
+    "admin_name": "Aragua",
+    "lat": "10.2283",
+    "lng": "-67.4725",
+    "id": "1862335549"
+  },
+  {
+    "city": "Sanare",
+    "city_ascii": "Sanare",
+    "admin_name": "Lara",
+    "lat": "9.7822",
+    "lng": "-69.7931",
+    "id": "1862592324"
+  },
+  {
+    "city": "Caraballeda",
+    "city_ascii": "Caraballeda",
+    "admin_name": "La Guaira",
+    "lat": "10.6131",
+    "lng": "-66.8506",
+    "id": "1862680237"
+  },
+  {
+    "city": "Pampán",
+    "city_ascii": "Pampan",
+    "admin_name": "Trujillo",
+    "lat": "9.4511",
+    "lng": "-70.4758",
+    "id": "1862220653"
+  },
+  {
+    "city": "El Valle del Espíritu Santo",
+    "city_ascii": "El Valle del Espiritu Santo",
+    "admin_name": "Nueva Esparta",
+    "lat": "10.9833",
+    "lng": "-63.8833",
+    "id": "1862517439"
+  },
+  {
+    "city": "Cantaura",
+    "city_ascii": "Cantaura",
+    "admin_name": "Anzoátegui",
+    "lat": "9.3111",
+    "lng": "-64.3594",
+    "id": "1862715472"
+  },
+  {
+    "city": "El Consejo",
+    "city_ascii": "El Consejo",
+    "admin_name": "Aragua",
+    "lat": "10.2442",
+    "lng": "-67.2450",
+    "id": "1862343550"
+  },
+  {
+    "city": "Santa Cruz de Los Taques",
+    "city_ascii": "Santa Cruz de Los Taques",
+    "admin_name": "Falcón",
+    "lat": "11.8240",
+    "lng": "-70.2509",
+    "id": "1862415425"
+  },
+  {
+    "city": "El Tocuyo",
+    "city_ascii": "El Tocuyo",
+    "admin_name": "Lara",
+    "lat": "9.7822",
+    "lng": "-69.7931",
+    "id": "1862715800"
+  },
+  {
+    "city": "Ciudad Piar",
+    "city_ascii": "Ciudad Piar",
+    "admin_name": "Bolívar",
+    "lat": "7.4522",
+    "lng": "-63.3200",
+    "id": "1862507661"
+  },
+  {
+    "city": "Altagracia de Orituco",
+    "city_ascii": "Altagracia de Orituco",
+    "admin_name": "Guárico",
+    "lat": "9.8504",
+    "lng": "-66.3800",
+    "id": "1862533029"
+  },
+  {
+    "city": "Cocorote",
+    "city_ascii": "Cocorote",
+    "admin_name": "Yaracuy",
+    "lat": "10.3217",
+    "lng": "-68.7825",
+    "id": "1862939403"
+  },
+  {
+    "city": "Ospino",
+    "city_ascii": "Ospino",
+    "admin_name": "Portuguesa",
+    "lat": "9.3000",
+    "lng": "-69.4500",
+    "id": "1862899775"
+  },
+  {
+    "city": "Achaguas",
+    "city_ascii": "Achaguas",
+    "admin_name": "Apure",
+    "lat": "7.7667",
+    "lng": "-68.2333",
+    "id": "1862439541"
+  },
+  {
+    "city": "San Mateo",
+    "city_ascii": "San Mateo",
+    "admin_name": "Aragua",
+    "lat": "10.2133",
+    "lng": "-67.4225",
+    "id": "1862519727"
+  },
+  {
+    "city": "Ureña",
+    "city_ascii": "Urena",
+    "admin_name": "Táchira",
+    "lat": "7.9183",
+    "lng": "-72.4467",
+    "id": "1862549187"
+  },
+  {
+    "city": "Colón",
+    "city_ascii": "Colon",
+    "admin_name": "Táchira",
+    "lat": "8.0378",
+    "lng": "-72.2519",
+    "id": "1862928589"
+  },
+  {
+    "city": "Santa Ana",
+    "city_ascii": "Santa Ana",
+    "admin_name": "Táchira",
+    "lat": "7.6453",
+    "lng": "-72.2758",
+    "id": "1862776224"
+  },
+  {
+    "city": "Lecherías",
+    "city_ascii": "Lecherias",
+    "admin_name": "Anzoátegui",
+    "lat": "10.1917",
+    "lng": "-64.6921",
+    "id": "1862961933"
+  },
+  {
+    "city": "Pampatar",
+    "city_ascii": "Pampatar",
+    "admin_name": "Nueva Esparta",
+    "lat": "10.9994",
+    "lng": "-63.7944",
+    "id": "1862166008"
+  },
+  {
+    "city": "Caucagua",
+    "city_ascii": "Caucagua",
+    "admin_name": "Miranda",
+    "lat": "10.2822",
+    "lng": "-66.3772",
+    "id": "1862601608"
+  },
+  {
+    "city": "Guanta",
+    "city_ascii": "Guanta",
+    "admin_name": "Anzoátegui",
+    "lat": "10.2383",
+    "lng": "-64.5917",
+    "id": "1862441134"
+  },
+  {
+    "city": "Macuro",
+    "city_ascii": "Macuro",
+    "admin_name": "Sucre",
+    "lat": "10.6500",
+    "lng": "-61.9333",
+    "id": "1862222020"
+  },
+  {
+    "city": "Santa Ana",
+    "city_ascii": "Santa Ana",
+    "admin_name": "Nueva Esparta",
+    "lat": "11.0680",
+    "lng": "-63.9221",
+    "id": "1862533518"
+  },
+  {
+    "city": "Puerto Cumarebo",
+    "city_ascii": "Puerto Cumarebo",
+    "admin_name": "Falcón",
+    "lat": "11.4861",
+    "lng": "-69.3503",
+    "id": "1862046151"
+  },
+  {
+    "city": "Las Mercedes",
+    "city_ascii": "Las Mercedes",
+    "admin_name": "Guárico",
+    "lat": "9.1104",
+    "lng": "-66.3961",
+    "id": "1862558629"
+  },
+  {
+    "city": "Escuque",
+    "city_ascii": "Escuque",
+    "admin_name": "Trujillo",
+    "lat": "9.2500",
+    "lng": "-70.7500",
+    "id": "1862041046"
+  },
+  {
+    "city": "Carache",
+    "city_ascii": "Carache",
+    "admin_name": "Trujillo",
+    "lat": "9.7072",
+    "lng": "-70.1933",
+    "id": "1862533951"
+  },
+  {
+    "city": "Pampanito",
+    "city_ascii": "Pampanito",
+    "admin_name": "Trujillo",
+    "lat": "9.4114",
+    "lng": "-70.4958",
+    "id": "1862710532"
+  },
+  {
+    "city": "Santa Rita",
+    "city_ascii": "Santa Rita",
+    "admin_name": "Zulia",
+    "lat": "10.5318",
+    "lng": "-71.5039",
+    "id": "1862676200"
+  },
+  {
+    "city": "Santa Elena de Uairén",
+    "city_ascii": "Santa Elena de Uairen",
+    "admin_name": "Bolívar",
+    "lat": "4.0000",
+    "lng": "36.0000",
+    "id": "1862763389"
+  },
+  {
+    "city": "Santa Cruz",
+    "city_ascii": "Santa Cruz",
+    "admin_name": "Aragua",
+    "lat": "10.1819",
+    "lng": "-67.5025",
+    "id": "1862293225"
+  },
+  {
+    "city": "La Asunción",
+    "city_ascii": "La Asuncion",
+    "admin_name": "Nueva Esparta",
+    "lat": "11.0333",
+    "lng": "-63.8628",
+    "id": "1862490314"
+  },
+  {
+    "city": "Juangriego",
+    "city_ascii": "Juangriego",
+    "admin_name": "Nueva Esparta",
+    "lat": "11.0833",
+    "lng": "-63.9667",
+    "id": "1862634251"
+  },
+  {
+    "city": "Punceres",
+    "city_ascii": "Punceres",
+    "admin_name": "Monagas",
+    "lat": "9.9898",
+    "lng": "-63.3366",
+    "id": "1862883655"
+  },
+  {
+    "city": "Aragua de Barcelona",
+    "city_ascii": "Aragua de Barcelona",
+    "admin_name": "Anzoátegui",
+    "lat": "9.4575",
+    "lng": "-64.8261",
+    "id": "1862505778"
+  },
+  {
+    "city": "La Ceiba",
+    "city_ascii": "La Ceiba",
+    "admin_name": "Trujillo",
+    "lat": "9.4764",
+    "lng": "-71.0556",
+    "id": "1862258170"
+  },
+  {
+    "city": "Araira",
+    "city_ascii": "Araira",
+    "admin_name": "Miranda",
+    "lat": "10.4525",
+    "lng": "-66.4850",
+    "id": "1862607333"
+  },
+  {
+    "city": "Higuerote",
+    "city_ascii": "Higuerote",
+    "admin_name": "Miranda",
+    "lat": "10.4833",
+    "lng": "-66.1000",
+    "id": "1862357369"
+  },
+  {
+    "city": "Montalbán",
+    "city_ascii": "Montalban",
+    "admin_name": "Carabobo",
+    "lat": "10.2522",
+    "lng": "-68.3019",
+    "id": "1862131171"
+  },
+  {
+    "city": "Píritu",
+    "city_ascii": "Piritu",
+    "admin_name": "Anzoátegui",
+    "lat": "10.0395",
+    "lng": "-65.0304",
+    "id": "1862835516"
+  },
+  {
+    "city": "El Callao",
+    "city_ascii": "El Callao",
+    "admin_name": "Bolívar",
+    "lat": "7.3463",
+    "lng": "-61.8271",
+    "id": "1862703627"
+  },
+  {
+    "city": "Guasipati",
+    "city_ascii": "Guasipati",
+    "admin_name": "Bolívar",
+    "lat": "7.4667",
+    "lng": "-61.4667",
+    "id": "1862880474"
+  },
+  {
+    "city": "La Colonia Tovar",
+    "city_ascii": "La Colonia Tovar",
+    "admin_name": "Aragua",
+    "lat": "10.4056",
+    "lng": "-67.2894",
+    "id": "1862004978"
+  },
+  {
+    "city": "Motatán",
+    "city_ascii": "Motatan",
+    "admin_name": "Trujillo",
+    "lat": "9.3931",
+    "lng": "-70.5933",
+    "id": "1862138277"
+  },
+  {
+    "city": "La Esmeralda",
+    "city_ascii": "La Esmeralda",
+    "admin_name": "Amazonas",
+    "lat": "3.1739",
+    "lng": "-65.5467",
+    "id": "1862255876"
+  },
+  {
+    "city": "Chichiriviche",
+    "city_ascii": "Chichiriviche",
+    "admin_name": "Falcón",
+    "lat": "10.9343",
+    "lng": "-68.2771",
+    "id": "1862197989"
+  },
+  {
+    "city": "San Antonio del Golfo",
+    "city_ascii": "San Antonio del Golfo",
+    "admin_name": "Sucre",
+    "lat": "10.4333",
+    "lng": "-63.7833",
+    "id": "1862871883"
+  },
+  {
+    "city": "Barbacoas",
+    "city_ascii": "Barbacoas",
+    "admin_name": "Aragua",
+    "lat": "9.4833",
+    "lng": "-66.9761",
+    "id": "1862577336"
+  },
+  {
+    "city": "Monte Carmelo",
+    "city_ascii": "Monte Carmelo",
+    "admin_name": "Trujillo",
+    "lat": "9.1875",
+    "lng": "-70.8131",
+    "id": "1862790453"
+  },
+  {
+    "city": "El Palmar",
+    "city_ascii": "El Palmar",
+    "admin_name": "Bolívar",
+    "lat": "8.0244",
+    "lng": "-61.8819",
+    "id": "1862731321"
+  },
+  {
+    "city": "Yaguaraparo",
+    "city_ascii": "Yaguaraparo",
+    "admin_name": "Sucre",
+    "lat": "10.5667",
+    "lng": "-62.8333",
+    "id": "1862014685"
+  },
+  {
+    "city": "Chaguaramas",
+    "city_ascii": "Chaguaramas",
+    "admin_name": "Guárico",
+    "lat": "9.3333",
+    "lng": "-66.2667",
+    "id": "1862406127"
+  },
+  {
+    "city": "Clarines",
+    "city_ascii": "Clarines",
+    "admin_name": "Anzoátegui",
+    "lat": "9.9433",
+    "lng": "-65.1661",
+    "id": "1862292462"
+  },
+  {
+    "city": "El Socorro",
+    "city_ascii": "El Socorro",
+    "admin_name": "Guárico",
+    "lat": "8.9936",
+    "lng": "-65.7456",
+    "id": "1862016030"
+  },
+  {
+    "city": "Cojedes",
+    "city_ascii": "Cojedes",
+    "admin_name": "Cojedes",
+    "lat": "9.6167",
+    "lng": "-68.9167",
+    "id": "1862336998"
+  },
+  {
+    "city": "Tucacas",
+    "city_ascii": "Tucacas",
+    "admin_name": "Falcón",
+    "lat": "10.7978",
+    "lng": "-68.3175",
+    "id": "1862663213"
+  },
+  {
+    "city": "Río Caribe",
+    "city_ascii": "Rio Caribe",
+    "admin_name": "Sucre",
+    "lat": "10.7008",
+    "lng": "-63.1086",
+    "id": "1862329516"
+  },
+  {
+    "city": "Santa María de Ipire",
+    "city_ascii": "Santa Maria de Ipire",
+    "admin_name": "Guárico",
+    "lat": "8.8156",
+    "lng": "-65.3225",
+    "id": "1862961193"
+  },
+  {
+    "city": "Capaya",
+    "city_ascii": "Capaya",
+    "admin_name": "Miranda",
+    "lat": "10.4286",
+    "lng": "-66.2717",
+    "id": "1862251461"
+  },
+  {
+    "city": "San Mateo",
+    "city_ascii": "San Mateo",
+    "admin_name": "Anzoátegui",
+    "lat": "9.7400",
+    "lng": "-64.5531",
+    "id": "1862621121"
+  },
+  {
+    "city": "Isla Ratón",
+    "city_ascii": "Isla Raton",
+    "admin_name": "Amazonas",
+    "lat": "5.1311",
+    "lng": "-67.8106",
+    "id": "1862486831"
+  },
+  {
+    "city": "Sarare",
+    "city_ascii": "Sarare",
+    "admin_name": "Lara",
+    "lat": "9.7839",
+    "lng": "-69.1611",
+    "id": "1862461339"
+  },
+  {
+    "city": "Onoto",
+    "city_ascii": "Onoto",
+    "admin_name": "Anzoátegui",
+    "lat": "9.5958",
+    "lng": "-65.1897",
+    "id": "1862162566"
+  },
+  {
+    "city": "Araure",
+    "city_ascii": "Araure",
+    "admin_name": "Portuguesa",
+    "lat": "9.5667",
+    "lng": "-69.2167",
+    "id": "1862226710"
+  },
+  {
+    "city": "Aguasay",
+    "city_ascii": "Aguasay",
+    "admin_name": "Monagas",
+    "lat": "9.4249",
+    "lng": "-63.7308",
+    "id": "1862003602"
+  },
+  {
+    "city": "San José de Guaribe",
+    "city_ascii": "San Jose de Guaribe",
+    "admin_name": "Guárico",
+    "lat": "9.8602",
+    "lng": "-65.8131",
+    "id": "1862268251"
+  },
+  {
+    "city": "San José de Aerocuar",
+    "city_ascii": "San Jose de Aerocuar",
+    "admin_name": "Sucre",
+    "lat": "10.6027",
+    "lng": "-63.3273",
+    "id": "1862054804"
+  },
+  {
+    "city": "Puerto Píritu",
+    "city_ascii": "Puerto Piritu",
+    "admin_name": "Anzoátegui",
+    "lat": "10.0667",
+    "lng": "-65.0500",
+    "id": "1862843143"
+  },
+  {
+    "city": "Santa Bárbara",
+    "city_ascii": "Santa Barbara",
+    "admin_name": "Monagas",
+    "lat": "9.6000",
+    "lng": "-63.6000",
+    "id": "1862125040"
+  },
+  {
+    "city": "Santa Ana",
+    "city_ascii": "Santa Ana",
+    "admin_name": "Anzoátegui",
+    "lat": "9.3056",
+    "lng": "-64.6548",
+    "id": "1862862698"
+  },
+  {
+    "city": "Uracoa",
+    "city_ascii": "Uracoa",
+    "admin_name": "Monagas",
+    "lat": "8.9943",
+    "lng": "-62.3520",
+    "id": "1862113376"
+  },
+  {
+    "city": "San Pedro de Coche",
+    "city_ascii": "San Pedro de Coche",
+    "admin_name": "Nueva Esparta",
+    "lat": "10.7772",
+    "lng": "-63.9311",
+    "id": "1862822910"
+  },
+  {
+    "city": "El Dorado",
+    "city_ascii": "El Dorado",
+    "admin_name": "Bolívar",
+    "lat": "6.7167",
+    "lng": "-61.6167",
+    "id": "1862242782"
+  },
+  {
+    "city": "El Manteco",
+    "city_ascii": "El Manteco",
+    "admin_name": "Bolívar",
+    "lat": "7.3504",
+    "lng": "-62.5333",
+    "id": "1862113510"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "city": "Bujumbura",
+    "city_ascii": "Bujumbura",
+    "admin_name": "Bujumbura Mairie",
+    "lat": "-3.3833",
+    "lng": "29.3667",
+    "id": "1108101689"
+  },
+  {
+    "city": "Gitega",
+    "city_ascii": "Gitega",
+    "admin_name": "Gitega",
+    "lat": "-3.4283",
+    "lng": "29.9250",
+    "id": "1108778000"
+  },
+  {
+    "city": "Ruyigi",
+    "city_ascii": "Ruyigi",
+    "admin_name": "Karuzi",
+    "lat": "-3.4833",
+    "lng": "30.2500",
+    "id": "1108521496"
+  },
+  {
+    "city": "Ngozi",
+    "city_ascii": "Ngozi",
+    "admin_name": "Ngozi",
+    "lat": "-2.9083",
+    "lng": "29.8269",
+    "id": "1108753930"
+  },
+  {
+    "city": "Rumonge",
+    "city_ascii": "Rumonge",
+    "admin_name": "Rumonge",
+    "lat": "-3.9736",
+    "lng": "29.4386",
+    "id": "1108641885"
+  },
+  {
+    "city": "Zanandore",
+    "city_ascii": "Zanandore",
+    "admin_name": "Karuzi",
+    "lat": "-3.2500",
+    "lng": "30.1167",
+    "id": "1108745202"
+  },
+  {
+    "city": "Cibitoke",
+    "city_ascii": "Cibitoke",
+    "admin_name": "Cibitoke",
+    "lat": "-2.8886",
+    "lng": "29.1200",
+    "id": "1108176356"
+  },
+  {
+    "city": "Gitega",
+    "city_ascii": "Gitega",
+    "admin_name": "Mwaro",
+    "lat": "-3.4260",
+    "lng": "29.8436",
+    "id": "1108962433"
+  },
+  {
+    "city": "Kayanza",
+    "city_ascii": "Kayanza",
+    "admin_name": "Kayanza",
+    "lat": "-2.9167",
+    "lng": "29.6167",
+    "id": "1108413426"
+  },
+  {
+    "city": "Bubanza",
+    "city_ascii": "Bubanza",
+    "admin_name": "Bubanza",
+    "lat": "-3.0833",
+    "lng": "29.4000",
+    "id": "1108018348"
+  },
+  {
+    "city": "Gatumba",
+    "city_ascii": "Gatumba",
+    "admin_name": "Bujumbura Rural",
+    "lat": "-3.3333",
+    "lng": "29.2500",
+    "id": "1108258446"
+  },
+  {
+    "city": "Karuzi",
+    "city_ascii": "Karuzi",
+    "admin_name": "Karuzi",
+    "lat": "-3.1000",
+    "lng": "30.1667",
+    "id": "1108619045"
+  },
+  {
+    "city": "Kirundo",
+    "city_ascii": "Kirundo",
+    "admin_name": "Kirundo",
+    "lat": "-2.5900",
+    "lng": "30.0900",
+    "id": "1108527579"
+  },
+  {
+    "city": "Muyinga",
+    "city_ascii": "Muyinga",
+    "admin_name": "Muyinga",
+    "lat": "-2.8500",
+    "lng": "30.3333",
+    "id": "1108466781"
+  },
+  {
+    "city": "Makamba",
+    "city_ascii": "Makamba",
+    "admin_name": "Makamba",
+    "lat": "-4.1333",
+    "lng": "29.8000",
+    "id": "1108520771"
+  },
+  {
+    "city": "Ruyigi",
+    "city_ascii": "Ruyigi",
+    "admin_name": "Ruyigi",
+    "lat": "-3.4667",
+    "lng": "30.2500",
+    "id": "1108406902"
+  },
+  {
+    "city": "Rutana",
+    "city_ascii": "Rutana",
+    "admin_name": "Rutana",
+    "lat": "-3.9236",
+    "lng": "30.0061",
+    "id": "1108441253"
+  },
+  {
+    "city": "Muramvya",
+    "city_ascii": "Muramvya",
+    "admin_name": "Muramvya",
+    "lat": "-3.2500",
+    "lng": "29.6000",
+    "id": "1108007544"
+  },
+  {
+    "city": "Bururi",
+    "city_ascii": "Bururi",
+    "admin_name": "Bururi",
+    "lat": "-3.9333",
+    "lng": "29.6167",
+    "id": "1108963889"
+  },
+  {
+    "city": "Cankuzo",
+    "city_ascii": "Cankuzo",
+    "admin_name": "Cankuzo",
+    "lat": "-3.2194",
+    "lng": "30.5528",
+    "id": "1108631099"
+  },
+  {
+    "city": "Isale",
+    "city_ascii": "Isale",
+    "admin_name": "Bujumbura Rural",
+    "lat": "-3.3444",
+    "lng": "29.4833",
+    "id": "1108407022"
+  }
+]

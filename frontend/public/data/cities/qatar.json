@@ -1,0 +1,98 @@
+[
+  {
+    "city": "Doha",
+    "city_ascii": "Doha",
+    "admin_name": "Ad Dawḩah",
+    "lat": "25.2867",
+    "lng": "51.5333",
+    "id": "1634459660"
+  },
+  {
+    "city": "Ar Rayyān",
+    "city_ascii": "Ar Rayyan",
+    "admin_name": "Ar Rayyān",
+    "lat": "25.2500",
+    "lng": "51.4000",
+    "id": "1634097551"
+  },
+  {
+    "city": "Laqţah",
+    "city_ascii": "Laqtah",
+    "admin_name": "Ash Shīḩānīyah",
+    "lat": "25.4175",
+    "lng": "51.5075",
+    "id": "1634292106"
+  },
+  {
+    "city": "Ash Shīḩānīyah",
+    "city_ascii": "Ash Shihaniyah",
+    "admin_name": "Ash Shīḩānīyah",
+    "lat": "25.3722",
+    "lng": "51.2047",
+    "id": "1634539520"
+  },
+  {
+    "city": "Al Wakrah",
+    "city_ascii": "Al Wakrah",
+    "admin_name": "Al Wakrah",
+    "lat": "25.1800",
+    "lng": "51.6100",
+    "id": "1634261569"
+  },
+  {
+    "city": "Al Khawr",
+    "city_ascii": "Al Khawr",
+    "admin_name": "Al Khawr wa adh Dhakhīrah",
+    "lat": "25.6900",
+    "lng": "51.5100",
+    "id": "1634786937"
+  },
+  {
+    "city": "Umm Qurūn",
+    "city_ascii": "Umm Qurun",
+    "admin_name": "Ar Rayyān",
+    "lat": "25.2500",
+    "lng": "51.3732",
+    "id": "1634017384"
+  },
+  {
+    "city": "Nu‘ayjah",
+    "city_ascii": "Nu`ayjah",
+    "admin_name": "Ad Dawḩah",
+    "lat": "25.2525",
+    "lng": "51.5592",
+    "id": "1634400511"
+  },
+  {
+    "city": "Al Jumaylīyah",
+    "city_ascii": "Al Jumayliyah",
+    "admin_name": "Ash Shīḩānīyah",
+    "lat": "25.6208",
+    "lng": "51.0819",
+    "id": "1634232373"
+  },
+  {
+    "city": "Az̧ Z̧a‘āyin",
+    "city_ascii": "Az Za`ayin",
+    "admin_name": "Az̧ Z̧a‘āyin",
+    "lat": "25.5669",
+    "lng": "51.4847",
+    "id": "1634890537"
+  },
+  {
+    "city": "Umm Şalāl ‘Alī",
+    "city_ascii": "Umm Salal `Ali",
+    "admin_name": "Umm Şalāl",
+    "lat": "25.4697",
+    "lng": "51.3975",
+    "id": "1634646507"
+  },
+  {
+    "city": "Madīnat ash Shamāl",
+    "city_ascii": "Madinat ash Shamal",
+    "admin_name": "Ash Shamāl",
+    "lat": "26.1167",
+    "lng": "51.2167",
+    "id": "1634762661"
+  }
+]

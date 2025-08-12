@@ -1,0 +1,402 @@
+[
+  {
+    "city": "Beirut",
+    "city_ascii": "Beirut",
+    "admin_name": "Beyrouth",
+    "lat": "33.8981",
+    "lng": "35.5058",
+    "id": "1422847713"
+  },
+  {
+    "city": "Tripoli",
+    "city_ascii": "Tripoli",
+    "admin_name": "Liban-Nord",
+    "lat": "34.4367",
+    "lng": "35.8344",
+    "id": "1422886065"
+  },
+  {
+    "city": "Sidon",
+    "city_ascii": "Sidon",
+    "admin_name": "Liban-Sud",
+    "lat": "33.5606",
+    "lng": "35.3758",
+    "id": "1422897920"
+  },
+  {
+    "city": "El Minié",
+    "city_ascii": "El Minie",
+    "admin_name": "Liban-Nord",
+    "lat": "34.4470",
+    "lng": "35.8178",
+    "id": "1422845769"
+  },
+  {
+    "city": "Borj Hammoud",
+    "city_ascii": "Borj Hammoud",
+    "admin_name": "Mont-Liban",
+    "lat": "33.8936",
+    "lng": "35.5403",
+    "id": "1422255275"
+  },
+  {
+    "city": "Joünié",
+    "city_ascii": "Jounie",
+    "admin_name": "Mont-Liban",
+    "lat": "33.9697",
+    "lng": "35.6156",
+    "id": "1422032780"
+  },
+  {
+    "city": "Zahlé",
+    "city_ascii": "Zahle",
+    "admin_name": "Béqaa",
+    "lat": "33.8333",
+    "lng": "35.9167",
+    "id": "1422031285"
+  },
+  {
+    "city": "Baabda",
+    "city_ascii": "Baabda",
+    "admin_name": "Mont-Liban",
+    "lat": "33.8333",
+    "lng": "35.5333",
+    "id": "1422639397"
+  },
+  {
+    "city": "Baalbek",
+    "city_ascii": "Baalbek",
+    "admin_name": "Baalbek-Hermel",
+    "lat": "34.0063",
+    "lng": "36.2073",
+    "id": "1422694451"
+  },
+  {
+    "city": "Nabatîyé",
+    "city_ascii": "Nabatiye",
+    "admin_name": "Nabatîyé",
+    "lat": "33.3833",
+    "lng": "35.4500",
+    "id": "1422269278"
+  },
+  {
+    "city": "Borj el Qoblé",
+    "city_ascii": "Borj el Qoble",
+    "admin_name": "Liban-Sud",
+    "lat": "33.2631",
+    "lng": "35.2389",
+    "id": "1422937881"
+  },
+  {
+    "city": "Tyre",
+    "city_ascii": "Tyre",
+    "admin_name": "Liban-Sud",
+    "lat": "33.2708",
+    "lng": "35.1961",
+    "id": "1422316734"
+  },
+  {
+    "city": "Qabb Eliâs",
+    "city_ascii": "Qabb Elias",
+    "admin_name": "Béqaa",
+    "lat": "33.7986",
+    "lng": "35.8250",
+    "id": "1422087652"
+  },
+  {
+    "city": "El Ghâzîyé",
+    "city_ascii": "El Ghaziye",
+    "admin_name": "Liban-Sud",
+    "lat": "33.5186",
+    "lng": "35.3661",
+    "id": "1422216263"
+  },
+  {
+    "city": "Aarsâl",
+    "city_ascii": "Aarsal",
+    "admin_name": "Baalbek-Hermel",
+    "lat": "34.1794",
+    "lng": "36.4208",
+    "id": "1422612862"
+  },
+  {
+    "city": "Batroûn",
+    "city_ascii": "Batroun",
+    "admin_name": "Liban-Nord",
+    "lat": "34.2500",
+    "lng": "35.6500",
+    "id": "1422217431"
+  },
+  {
+    "city": "Jbaïl",
+    "city_ascii": "Jbail",
+    "admin_name": "Mont-Liban",
+    "lat": "34.1236",
+    "lng": "35.6519",
+    "id": "1422678909"
+  },
+  {
+    "city": "Barr Eliâs",
+    "city_ascii": "Barr Elias",
+    "admin_name": "Béqaa",
+    "lat": "33.7750",
+    "lng": "35.9000",
+    "id": "1422386644"
+  },
+  {
+    "city": "Aaley",
+    "city_ascii": "Aaley",
+    "admin_name": "Mont-Liban",
+    "lat": "33.8000",
+    "lng": "35.6000",
+    "id": "1422055581"
+  },
+  {
+    "city": "Chmistâr",
+    "city_ascii": "Chmistar",
+    "admin_name": "Baalbek-Hermel",
+    "lat": "33.9667",
+    "lng": "36.0167",
+    "id": "1422851411"
+  },
+  {
+    "city": "El Fanar",
+    "city_ascii": "El Fanar",
+    "admin_name": "Mont-Liban",
+    "lat": "33.8667",
+    "lng": "35.5667",
+    "id": "1422818939"
+  },
+  {
+    "city": "Bent Jbaïl",
+    "city_ascii": "Bent Jbail",
+    "admin_name": "Nabatîyé",
+    "lat": "33.1208",
+    "lng": "35.4336",
+    "id": "1422323141"
+  },
+  {
+    "city": "Zghartā",
+    "city_ascii": "Zgharta",
+    "admin_name": "Liban-Nord",
+    "lat": "34.4000",
+    "lng": "35.9000",
+    "id": "1422751344"
+  },
+  {
+    "city": "El Khiyam",
+    "city_ascii": "El Khiyam",
+    "admin_name": "Nabatîyé",
+    "lat": "33.3272",
+    "lng": "35.6111",
+    "id": "1422307255"
+  },
+  {
+    "city": "Qornet Chahouâne",
+    "city_ascii": "Qornet Chahouane",
+    "admin_name": "Mont-Liban",
+    "lat": "33.9200",
+    "lng": "35.6700",
+    "id": "1422333947"
+  },
+  {
+    "city": "Ehden",
+    "city_ascii": "Ehden",
+    "admin_name": "Liban-Nord",
+    "lat": "34.2919",
+    "lng": "35.9546",
+    "id": "1422592801"
+  },
+  {
+    "city": "Bcharré",
+    "city_ascii": "Bcharre",
+    "admin_name": "Liban-Nord",
+    "lat": "34.2511",
+    "lng": "36.0111",
+    "id": "1422518205"
+  },
+  {
+    "city": "Majdel Aanjar",
+    "city_ascii": "Majdel Aanjar",
+    "admin_name": "Béqaa",
+    "lat": "33.7075",
+    "lng": "35.9039",
+    "id": "1422228495"
+  },
+  {
+    "city": "El Hermel",
+    "city_ascii": "El Hermel",
+    "admin_name": "Baalbek-Hermel",
+    "lat": "34.3914",
+    "lng": "36.3958",
+    "id": "1422119929"
+  },
+  {
+    "city": "Kfar Kiddé",
+    "city_ascii": "Kfar Kidde",
+    "admin_name": "Mont-Liban",
+    "lat": "34.2028",
+    "lng": "35.6544",
+    "id": "1422121365"
+  },
+  {
+    "city": "El Bâzoûrîyé",
+    "city_ascii": "El Bazouriye",
+    "admin_name": "Liban-Sud",
+    "lat": "33.2539",
+    "lng": "35.2717",
+    "id": "1422000794"
+  },
+  {
+    "city": "Dbaïyé",
+    "city_ascii": "Dbaiye",
+    "admin_name": "Mont-Liban",
+    "lat": "33.9353",
+    "lng": "35.5897",
+    "id": "1422722338"
+  },
+  {
+    "city": "Baaqlîne",
+    "city_ascii": "Baaqline",
+    "admin_name": "Mont-Liban",
+    "lat": "33.6797",
+    "lng": "35.5583",
+    "id": "1422382914"
+  },
+  {
+    "city": "Joubb Jannîne",
+    "city_ascii": "Joubb Jannine",
+    "admin_name": "Béqaa",
+    "lat": "33.6333",
+    "lng": "35.7833",
+    "id": "1422617067"
+  },
+  {
+    "city": "Kahhalé",
+    "city_ascii": "Kahhale",
+    "admin_name": "Mont-Liban",
+    "lat": "33.8219",
+    "lng": "35.5875",
+    "id": "1422675912"
+  },
+  {
+    "city": "Barja",
+    "city_ascii": "Barja",
+    "admin_name": "Mont-Liban",
+    "lat": "33.6497",
+    "lng": "35.4433",
+    "id": "1422958830"
+  },
+  {
+    "city": "Hasroûn",
+    "city_ascii": "Hasroun",
+    "admin_name": "Liban-Nord",
+    "lat": "34.2419",
+    "lng": "35.9794",
+    "id": "1422559333"
+  },
+  {
+    "city": "El Qâa",
+    "city_ascii": "El Qaa",
+    "admin_name": "Baalbek-Hermel",
+    "lat": "34.3436",
+    "lng": "36.4756",
+    "id": "1422667021"
+  },
+  {
+    "city": "Chaqra",
+    "city_ascii": "Chaqra",
+    "admin_name": "Nabatîyé",
+    "lat": "33.1917",
+    "lng": "35.4628",
+    "id": "1422232460"
+  },
+  {
+    "city": "Bteghrîne",
+    "city_ascii": "Bteghrine",
+    "admin_name": "Mont-Liban",
+    "lat": "33.9300",
+    "lng": "35.7450",
+    "id": "1422572821"
+  },
+  {
+    "city": "Qoubaiyat",
+    "city_ascii": "Qoubaiyat",
+    "admin_name": "Aakkâr",
+    "lat": "34.5683",
+    "lng": "36.2764",
+    "id": "1422198461"
+  },
+  {
+    "city": "Sarafand",
+    "city_ascii": "Sarafand",
+    "admin_name": "Liban-Sud",
+    "lat": "33.4517",
+    "lng": "35.2908",
+    "id": "1422620086"
+  },
+  {
+    "city": "Srîfa",
+    "city_ascii": "Srifa",
+    "admin_name": "Liban-Sud",
+    "lat": "33.2814",
+    "lng": "35.3964",
+    "id": "1422782357"
+  },
+  {
+    "city": "Chartoûn",
+    "city_ascii": "Chartoun",
+    "admin_name": "Mont-Liban",
+    "lat": "33.7711",
+    "lng": "35.6858",
+    "id": "1422935329"
+  },
+  {
+    "city": "Qâna",
+    "city_ascii": "Qana",
+    "admin_name": "Liban-Sud",
+    "lat": "33.2092",
+    "lng": "35.2992",
+    "id": "1422539070"
+  },
+  {
+    "city": "Amioûn",
+    "city_ascii": "Amioun",
+    "admin_name": "Liban-Nord",
+    "lat": "34.3000",
+    "lng": "35.8000",
+    "id": "1422143071"
+  },
+  {
+    "city": "Râs el Metn",
+    "city_ascii": "Ras el Metn",
+    "admin_name": "Mont-Liban",
+    "lat": "33.8500",
+    "lng": "35.6667",
+    "id": "1422014908"
+  },
+  {
+    "city": "Ed Dâmoûr",
+    "city_ascii": "Ed Damour",
+    "admin_name": "Mont-Liban",
+    "lat": "33.7333",
+    "lng": "35.4500",
+    "id": "1422987773"
+  },
+  {
+    "city": "Kfar Aabîda",
+    "city_ascii": "Kfar Aabida",
+    "admin_name": "Liban-Nord",
+    "lat": "34.2264",
+    "lng": "35.6600",
+    "id": "1422225745"
+  },
+  {
+    "city": "Halba",
+    "city_ascii": "Halba",
+    "admin_name": "Aakkâr",
+    "lat": "34.5506",
+    "lng": "36.0781",
+    "id": "1422962727"
+  }
+]

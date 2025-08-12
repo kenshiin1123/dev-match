@@ -1,0 +1,3130 @@
+[
+  {
+    "city": "Bangkok",
+    "city_ascii": "Bangkok",
+    "admin_name": "Krung Thep Maha Nakhon",
+    "lat": "13.7525",
+    "lng": "100.4942",
+    "id": "1764068610"
+  },
+  {
+    "city": "Chiang Mai",
+    "city_ascii": "Chiang Mai",
+    "admin_name": "Chiang Mai",
+    "lat": "18.7953",
+    "lng": "98.9986",
+    "id": "1764662886"
+  },
+  {
+    "city": "Nakhon Ratchasima",
+    "city_ascii": "Nakhon Ratchasima",
+    "admin_name": "Nakhon Ratchasima",
+    "lat": "14.9806",
+    "lng": "102.1000",
+    "id": "1764752197"
+  },
+  {
+    "city": "Khon Kaen",
+    "city_ascii": "Khon Kaen",
+    "admin_name": "Khon Kaen",
+    "lat": "16.4333",
+    "lng": "102.8333",
+    "id": "1764003406"
+  },
+  {
+    "city": "Hat Yai",
+    "city_ascii": "Hat Yai",
+    "admin_name": "Songkhla",
+    "lat": "7.0167",
+    "lng": "100.4667",
+    "id": "1764161022"
+  },
+  {
+    "city": "Chon Buri",
+    "city_ascii": "Chon Buri",
+    "admin_name": "Chon Buri",
+    "lat": "13.3611",
+    "lng": "100.9850",
+    "id": "1764202077"
+  },
+  {
+    "city": "Phatthaya",
+    "city_ascii": "Phatthaya",
+    "admin_name": "Chon Buri",
+    "lat": "12.9357",
+    "lng": "100.8890",
+    "id": "1764492695"
+  },
+  {
+    "city": "Si Racha",
+    "city_ascii": "Si Racha",
+    "admin_name": "Chon Buri",
+    "lat": "13.1740",
+    "lng": "100.9300",
+    "id": "1764003327"
+  },
+  {
+    "city": "Phitsanulok",
+    "city_ascii": "Phitsanulok",
+    "admin_name": "Phitsanulok",
+    "lat": "16.8158",
+    "lng": "100.2636",
+    "id": "1764140981"
+  },
+  {
+    "city": "Pak Kret",
+    "city_ascii": "Pak Kret",
+    "admin_name": "Nonthaburi",
+    "lat": "13.9125",
+    "lng": "100.4978",
+    "id": "1764165203"
+  },
+  {
+    "city": "Mukdahan",
+    "city_ascii": "Mukdahan",
+    "admin_name": "Mukdahan",
+    "lat": "16.5431",
+    "lng": "104.7228",
+    "id": "1764994534"
+  },
+  {
+    "city": "Surat Thani",
+    "city_ascii": "Surat Thani",
+    "admin_name": "Surat Thani",
+    "lat": "9.1397",
+    "lng": "99.3306",
+    "id": "1764338230"
+  },
+  {
+    "city": "Udon Thani",
+    "city_ascii": "Udon Thani",
+    "admin_name": "Udon Thani",
+    "lat": "17.4167",
+    "lng": "102.7500",
+    "id": "1764676047"
+  },
+  {
+    "city": "Nakhon Pathom",
+    "city_ascii": "Nakhon Pathom",
+    "admin_name": "Nakhon Pathom",
+    "lat": "13.8206",
+    "lng": "100.0625",
+    "id": "1764251992"
+  },
+  {
+    "city": "Ban Bang Pu Mai",
+    "city_ascii": "Ban Bang Pu Mai",
+    "admin_name": "Samut Prakan",
+    "lat": "13.5204",
+    "lng": "100.6660",
+    "id": "1764009212"
+  },
+  {
+    "city": "Ban Mangkon",
+    "city_ascii": "Ban Mangkon",
+    "admin_name": "Samut Prakan",
+    "lat": "13.6090",
+    "lng": "100.6638",
+    "id": "1764800579"
+  },
+  {
+    "city": "Nakhon Si Thammarat",
+    "city_ascii": "Nakhon Si Thammarat",
+    "admin_name": "Nakhon Si Thammarat",
+    "lat": "8.4364",
+    "lng": "99.9631",
+    "id": "1764409111"
+  },
+  {
+    "city": "Ban Laem Chabang",
+    "city_ascii": "Ban Laem Chabang",
+    "admin_name": "Chon Buri",
+    "lat": "13.0833",
+    "lng": "100.8833",
+    "id": "1764108164"
+  },
+  {
+    "city": "Nakhon Sawan",
+    "city_ascii": "Nakhon Sawan",
+    "admin_name": "Nakhon Sawan",
+    "lat": "15.7133",
+    "lng": "100.1353",
+    "id": "1764821078"
+  },
+  {
+    "city": "Ban Map Ta Phut",
+    "city_ascii": "Ban Map Ta Phut",
+    "admin_name": "Rayong",
+    "lat": "12.7258",
+    "lng": "101.1722",
+    "id": "1764852224"
+  },
+  {
+    "city": "Ban Talat Rangsit",
+    "city_ascii": "Ban Talat Rangsit",
+    "admin_name": "Pathum Thani",
+    "lat": "13.9833",
+    "lng": "100.6167",
+    "id": "1764039814"
+  },
+  {
+    "city": "Phuket",
+    "city_ascii": "Phuket",
+    "admin_name": "Phuket",
+    "lat": "7.8881",
+    "lng": "98.3975",
+    "id": "1764327831"
+  },
+  {
+    "city": "Ban Nong Prue",
+    "city_ascii": "Ban Nong Prue",
+    "admin_name": "Chon Buri",
+    "lat": "12.9228",
+    "lng": "100.9375",
+    "id": "1764743967"
+  },
+  {
+    "city": "Ban Tha Khlong",
+    "city_ascii": "Ban Tha Khlong",
+    "admin_name": "Pathum Thani",
+    "lat": "14.0894",
+    "lng": "100.6236",
+    "id": "1764699235"
+  },
+  {
+    "city": "Sakon Nakhon",
+    "city_ascii": "Sakon Nakhon",
+    "admin_name": "Sakon Nakhon",
+    "lat": "17.1564",
+    "lng": "104.1456",
+    "id": "1764476362"
+  },
+  {
+    "city": "Ban Plai Bua Phatthana",
+    "city_ascii": "Ban Plai Bua Phatthana",
+    "admin_name": "Pathum Thani",
+    "lat": "13.9032",
+    "lng": "100.3989",
+    "id": "1764928382"
+  },
+  {
+    "city": "Ko Samui",
+    "city_ascii": "Ko Samui",
+    "admin_name": "Surat Thani",
+    "lat": "9.5000",
+    "lng": "100.0000",
+    "id": "1764771934"
+  },
+  {
+    "city": "Chiang Rai",
+    "city_ascii": "Chiang Rai",
+    "admin_name": "Chiang Rai",
+    "lat": "19.9094",
+    "lng": "99.8275",
+    "id": "1764748484"
+  },
+  {
+    "city": "Ubon Ratchathani",
+    "city_ascii": "Ubon Ratchathani",
+    "admin_name": "Ubon Ratchathani",
+    "lat": "15.2281",
+    "lng": "104.8594",
+    "id": "1764611048"
+  },
+  {
+    "city": "Ban Suan",
+    "city_ascii": "Ban Suan",
+    "admin_name": "Chon Buri",
+    "lat": "13.3516",
+    "lng": "101.0082",
+    "id": "1764305340"
+  },
+  {
+    "city": "Hua Hin",
+    "city_ascii": "Hua Hin",
+    "admin_name": "Prachuap Khiri Khan",
+    "lat": "12.5686",
+    "lng": "99.9578",
+    "id": "1764352388"
+  },
+  {
+    "city": "Rayong",
+    "city_ascii": "Rayong",
+    "admin_name": "Rayong",
+    "lat": "12.6742",
+    "lng": "101.2789",
+    "id": "1764920057"
+  },
+  {
+    "city": "Ban Lam Sam Kaeo",
+    "city_ascii": "Ban Lam Sam Kaeo",
+    "admin_name": "Pathum Thani",
+    "lat": "13.9728",
+    "lng": "100.6511",
+    "id": "1764012428"
+  },
+  {
+    "city": "Songkhla",
+    "city_ascii": "Songkhla",
+    "admin_name": "Songkhla",
+    "lat": "7.2061",
+    "lng": "100.5967",
+    "id": "1764543650"
+  },
+  {
+    "city": "Chachoengsao",
+    "city_ascii": "Chachoengsao",
+    "admin_name": "Chachoengsao",
+    "lat": "13.6903",
+    "lng": "101.0703",
+    "id": "1764632382"
+  },
+  {
+    "city": "Saraburi",
+    "city_ascii": "Saraburi",
+    "admin_name": "Saraburi",
+    "lat": "14.5286",
+    "lng": "100.9114",
+    "id": "1764111243"
+  },
+  {
+    "city": "Yala",
+    "city_ascii": "Yala",
+    "admin_name": "Yala",
+    "lat": "6.5425",
+    "lng": "101.2831",
+    "id": "1764430323"
+  },
+  {
+    "city": "Samut Sakhon",
+    "city_ascii": "Samut Sakhon",
+    "admin_name": "Samut Sakhon",
+    "lat": "13.5486",
+    "lng": "100.2775",
+    "id": "1764502057"
+  },
+  {
+    "city": "Trang",
+    "city_ascii": "Trang",
+    "admin_name": "Trang",
+    "lat": "7.5575",
+    "lng": "99.6103",
+    "id": "1764343817"
+  },
+  {
+    "city": "Ban Bang Kaeo",
+    "city_ascii": "Ban Bang Kaeo",
+    "admin_name": "Samut Prakan",
+    "lat": "13.0000",
+    "lng": "38.0000",
+    "id": "1764813354"
+  },
+  {
+    "city": "Ban Rangsit",
+    "city_ascii": "Ban Rangsit",
+    "admin_name": "Pathum Thani",
+    "lat": "14.0167",
+    "lng": "100.7500",
+    "id": "1764251181"
+  },
+  {
+    "city": "Chaiyaphum",
+    "city_ascii": "Chaiyaphum",
+    "admin_name": "Chaiyaphum",
+    "lat": "15.8056",
+    "lng": "102.0311",
+    "id": "1764784757"
+  },
+  {
+    "city": "Lampang",
+    "city_ascii": "Lampang",
+    "admin_name": "Lampang",
+    "lat": "18.3000",
+    "lng": "99.5000",
+    "id": "1764081847"
+  },
+  {
+    "city": "Lop Buri",
+    "city_ascii": "Lop Buri",
+    "admin_name": "Lop Buri",
+    "lat": "14.8000",
+    "lng": "100.6269",
+    "id": "1764574750"
+  },
+  {
+    "city": "Khlong Luang",
+    "city_ascii": "Khlong Luang",
+    "admin_name": "Pathum Thani",
+    "lat": "14.0647",
+    "lng": "100.6458",
+    "id": "1764560763"
+  },
+  {
+    "city": "Ban Om Noi",
+    "city_ascii": "Ban Om Noi",
+    "admin_name": "Samut Sakhon",
+    "lat": "13.7001",
+    "lng": "100.3241",
+    "id": "1764298817"
+  },
+  {
+    "city": "Mae Sot",
+    "city_ascii": "Mae Sot",
+    "admin_name": "Tak",
+    "lat": "16.7131",
+    "lng": "98.5747",
+    "id": "1764198529"
+  },
+  {
+    "city": "Muban Saeng Bua Thong",
+    "city_ascii": "Muban Saeng Bua Thong",
+    "admin_name": "Nonthaburi",
+    "lat": "13.9650",
+    "lng": "100.3924",
+    "id": "1764003021"
+  },
+  {
+    "city": "Phra Nakhon Si Ayutthaya",
+    "city_ascii": "Phra Nakhon Si Ayutthaya",
+    "admin_name": "Phra Nakhon Si Ayutthaya",
+    "lat": "14.3478",
+    "lng": "100.5606",
+    "id": "1764002329"
+  },
+  {
+    "city": "Bang Bua Thong",
+    "city_ascii": "Bang Bua Thong",
+    "admin_name": "Nonthaburi",
+    "lat": "13.9102",
+    "lng": "100.4258",
+    "id": "1764694888"
+  },
+  {
+    "city": "Chong Nonsi",
+    "city_ascii": "Chong Nonsi",
+    "admin_name": "Krung Thep Maha Nakhon",
+    "lat": "13.6965",
+    "lng": "100.5427",
+    "id": "1764522683"
+  },
+  {
+    "city": "Nong Khai",
+    "city_ascii": "Nong Khai",
+    "admin_name": "Nong Khai",
+    "lat": "17.8681",
+    "lng": "102.7444",
+    "id": "1764279113"
+  },
+  {
+    "city": "Ban Bang Mae Nang",
+    "city_ascii": "Ban Bang Mae Nang",
+    "admin_name": "Nonthaburi",
+    "lat": "13.8521",
+    "lng": "100.3889",
+    "id": "1764607798"
+  },
+  {
+    "city": "Pattani",
+    "city_ascii": "Pattani",
+    "admin_name": "Pattani",
+    "lat": "6.8664",
+    "lng": "101.2508",
+    "id": "1764277891"
+  },
+  {
+    "city": "Ban Pet",
+    "city_ascii": "Ban Pet",
+    "admin_name": "Khon Kaen",
+    "lat": "16.4262",
+    "lng": "102.7609",
+    "id": "1764339108"
+  },
+  {
+    "city": "Singhanakhon",
+    "city_ascii": "Singhanakhon",
+    "admin_name": "Songkhla",
+    "lat": "7.2390",
+    "lng": "100.5527",
+    "id": "1764839884"
+  },
+  {
+    "city": "Bang Kruai",
+    "city_ascii": "Bang Kruai",
+    "admin_name": "Nonthaburi",
+    "lat": "13.8050",
+    "lng": "100.4728",
+    "id": "1764357378"
+  },
+  {
+    "city": "Ban Wat Lak Hok",
+    "city_ascii": "Ban Wat Lak Hok",
+    "admin_name": "Ratchaburi",
+    "lat": "13.5520",
+    "lng": "99.9898",
+    "id": "1764000965"
+  },
+  {
+    "city": "Narathiwat",
+    "city_ascii": "Narathiwat",
+    "admin_name": "Narathiwat",
+    "lat": "6.4167",
+    "lng": "101.8167",
+    "id": "1764748532"
+  },
+  {
+    "city": "Maha Sarakham",
+    "city_ascii": "Maha Sarakham",
+    "admin_name": "Maha Sarakham",
+    "lat": "16.1772",
+    "lng": "103.3008",
+    "id": "1764568961"
+  },
+  {
+    "city": "Si Sa Ket",
+    "city_ascii": "Si Sa Ket",
+    "admin_name": "Si Sa Ket",
+    "lat": "15.1069",
+    "lng": "104.3294",
+    "id": "1764002764"
+  },
+  {
+    "city": "Surin",
+    "city_ascii": "Surin",
+    "admin_name": "Surin",
+    "lat": "14.0000",
+    "lng": "53.0000",
+    "id": "1764813179"
+  },
+  {
+    "city": "Ban Bang Khu Lat",
+    "city_ascii": "Ban Bang Khu Lat",
+    "admin_name": "Nonthaburi",
+    "lat": "13.8770",
+    "lng": "100.3687",
+    "id": "1764924013"
+  },
+  {
+    "city": "Su-ngai Kolok",
+    "city_ascii": "Su-ngai Kolok",
+    "admin_name": "Narathiwat",
+    "lat": "6.0333",
+    "lng": "101.9667",
+    "id": "1764527716"
+  },
+  {
+    "city": "Phatthalung",
+    "city_ascii": "Phatthalung",
+    "admin_name": "Phatthalung",
+    "lat": "7.5000",
+    "lng": "100.0000",
+    "id": "1764240863"
+  },
+  {
+    "city": "Ban Na Pa",
+    "city_ascii": "Ban Na Pa",
+    "admin_name": "Chon Buri",
+    "lat": "13.3986",
+    "lng": "101.0077",
+    "id": "1764865021"
+  },
+  {
+    "city": "Ban Doi Suthep",
+    "city_ascii": "Ban Doi Suthep",
+    "admin_name": "Chiang Mai",
+    "lat": "18.7944",
+    "lng": "98.9142",
+    "id": "1764508260"
+  },
+  {
+    "city": "Ratchaburi",
+    "city_ascii": "Ratchaburi",
+    "admin_name": "Ratchaburi",
+    "lat": "13.5356",
+    "lng": "99.8133",
+    "id": "1764773366"
+  },
+  {
+    "city": "Ban Mueang Na Tai",
+    "city_ascii": "Ban Mueang Na Tai",
+    "admin_name": "Chiang Mai",
+    "lat": "19.7308",
+    "lng": "98.9017",
+    "id": "1764800951"
+  },
+  {
+    "city": "Pak Chong",
+    "city_ascii": "Pak Chong",
+    "admin_name": "Nakhon Ratchasima",
+    "lat": "14.7080",
+    "lng": "101.4161",
+    "id": "1764898547"
+  },
+  {
+    "city": "Sukhothai",
+    "city_ascii": "Sukhothai",
+    "admin_name": "Sukhothai",
+    "lat": "17.0167",
+    "lng": "99.7000",
+    "id": "1764175777"
+  },
+  {
+    "city": "Cha-am",
+    "city_ascii": "Cha-am",
+    "admin_name": "Phetchaburi",
+    "lat": "12.8000",
+    "lng": "99.9667",
+    "id": "1764087780"
+  },
+  {
+    "city": "Kalasin",
+    "city_ascii": "Kalasin",
+    "admin_name": "Kalasin",
+    "lat": "16.4342",
+    "lng": "103.5092",
+    "id": "1764060973"
+  },
+  {
+    "city": "Phra Phutthabat",
+    "city_ascii": "Phra Phutthabat",
+    "admin_name": "Saraburi",
+    "lat": "14.7253",
+    "lng": "100.7954",
+    "id": "1764815202"
+  },
+  {
+    "city": "Roi Et",
+    "city_ascii": "Roi Et",
+    "admin_name": "Roi Et",
+    "lat": "16.0531",
+    "lng": "103.6511",
+    "id": "1764216668"
+  },
+  {
+    "city": "Chumphon",
+    "city_ascii": "Chumphon",
+    "admin_name": "Chumphon",
+    "lat": "10.4939",
+    "lng": "99.1800",
+    "id": "1764012939"
+  },
+  {
+    "city": "Ban Pak Phun",
+    "city_ascii": "Ban Pak Phun",
+    "admin_name": "Nakhon Si Thammarat",
+    "lat": "8.5298",
+    "lng": "99.9722",
+    "id": "1764808518"
+  },
+  {
+    "city": "Uttaradit",
+    "city_ascii": "Uttaradit",
+    "admin_name": "Uttaradit",
+    "lat": "17.6231",
+    "lng": "100.0958",
+    "id": "1764146253"
+  },
+  {
+    "city": "Krabi",
+    "city_ascii": "Krabi",
+    "admin_name": "Krabi",
+    "lat": "8.0592",
+    "lng": "98.9189",
+    "id": "1764587855"
+  },
+  {
+    "city": "Ban Bang Krang",
+    "city_ascii": "Ban Bang Krang",
+    "admin_name": "Nonthaburi",
+    "lat": "13.8422",
+    "lng": "100.4539",
+    "id": "1764797592"
+  },
+  {
+    "city": "Samut Prakan",
+    "city_ascii": "Samut Prakan",
+    "admin_name": "Samut Prakan",
+    "lat": "13.5897",
+    "lng": "100.6386",
+    "id": "1764159228"
+  },
+  {
+    "city": "Chum Phae",
+    "city_ascii": "Chum Phae",
+    "admin_name": "Khon Kaen",
+    "lat": "16.5443",
+    "lng": "102.0992",
+    "id": "1764511790"
+  },
+  {
+    "city": "Ban Chang",
+    "city_ascii": "Ban Chang",
+    "admin_name": "Rayong",
+    "lat": "12.7208",
+    "lng": "101.0669",
+    "id": "1764733644"
+  },
+  {
+    "city": "Ban Ang Sila",
+    "city_ascii": "Ban Ang Sila",
+    "admin_name": "Chon Buri",
+    "lat": "13.3364",
+    "lng": "100.9278",
+    "id": "1764931523"
+  },
+  {
+    "city": "Ban Sai Ma Tai",
+    "city_ascii": "Ban Sai Ma Tai",
+    "admin_name": "Nonthaburi",
+    "lat": "13.8642",
+    "lng": "100.4741",
+    "id": "1764698508"
+  },
+  {
+    "city": "Thung Song",
+    "city_ascii": "Thung Song",
+    "admin_name": "Nakhon Si Thammarat",
+    "lat": "8.1540",
+    "lng": "99.7286",
+    "id": "1764422992"
+  },
+  {
+    "city": "Samrong",
+    "city_ascii": "Samrong",
+    "admin_name": "Samut Prakan",
+    "lat": "13.6516",
+    "lng": "100.5922",
+    "id": "1764003521"
+  },
+  {
+    "city": "Fang",
+    "city_ascii": "Fang",
+    "admin_name": "Chiang Mai",
+    "lat": "19.9189",
+    "lng": "99.2136",
+    "id": "1764804984"
+  },
+  {
+    "city": "Ban Bang Khu Wat",
+    "city_ascii": "Ban Bang Khu Wat",
+    "admin_name": "Pathum Thani",
+    "lat": "13.9576",
+    "lng": "100.4903",
+    "id": "1764948515"
+  },
+  {
+    "city": "Ban Phai",
+    "city_ascii": "Ban Phai",
+    "admin_name": "Khon Kaen",
+    "lat": "16.0600",
+    "lng": "102.7310",
+    "id": "1764026556"
+  },
+  {
+    "city": "Kamphaeng Phet",
+    "city_ascii": "Kamphaeng Phet",
+    "admin_name": "Kamphaeng Phet",
+    "lat": "16.4811",
+    "lng": "99.5222",
+    "id": "1764367755"
+  },
+  {
+    "city": "Bang Phongphang",
+    "city_ascii": "Bang Phongphang",
+    "admin_name": "Samut Prakan",
+    "lat": "13.6791",
+    "lng": "100.5291",
+    "id": "1764502075"
+  },
+  {
+    "city": "Tha Yang",
+    "city_ascii": "Tha Yang",
+    "admin_name": "Phetchaburi",
+    "lat": "12.9723",
+    "lng": "99.8827",
+    "id": "1764170056"
+  },
+  {
+    "city": "Warin Chamrap",
+    "city_ascii": "Warin Chamrap",
+    "admin_name": "Ubon Ratchathani",
+    "lat": "15.1932",
+    "lng": "104.8628",
+    "id": "1764105770"
+  },
+  {
+    "city": "Nakhon Phanom",
+    "city_ascii": "Nakhon Phanom",
+    "admin_name": "Nakhon Phanom",
+    "lat": "17.4069",
+    "lng": "104.7808",
+    "id": "1764103547"
+  },
+  {
+    "city": "Prachuap Khiri Khan",
+    "city_ascii": "Prachuap Khiri Khan",
+    "admin_name": "Prachuap Khiri Khan",
+    "lat": "11.8167",
+    "lng": "99.8000",
+    "id": "1764877766"
+  },
+  {
+    "city": "Ban Phonla Krang",
+    "city_ascii": "Ban Phonla Krang",
+    "admin_name": "Nakhon Ratchasima",
+    "lat": "15.0199",
+    "lng": "102.0123",
+    "id": "1764032168"
+  },
+  {
+    "city": "Suphan Buri",
+    "city_ascii": "Suphan Buri",
+    "admin_name": "Suphan Buri",
+    "lat": "14.4675",
+    "lng": "100.1169",
+    "id": "1764759549"
+  },
+  {
+    "city": "Ban Wang Kalang",
+    "city_ascii": "Ban Wang Kalang",
+    "admin_name": "Kanchanaburi",
+    "lat": "15.1505",
+    "lng": "98.4525",
+    "id": "1764955396"
+  },
+  {
+    "city": "Phetchaburi",
+    "city_ascii": "Phetchaburi",
+    "admin_name": "Phetchaburi",
+    "lat": "13.1119",
+    "lng": "99.9458",
+    "id": "1764000534"
+  },
+  {
+    "city": "Amnat Charoen",
+    "city_ascii": "Amnat Charoen",
+    "admin_name": "Amnat Charoen",
+    "lat": "15.8500",
+    "lng": "104.6333",
+    "id": "1764038011"
+  },
+  {
+    "city": "Kathu",
+    "city_ascii": "Kathu",
+    "admin_name": "Phuket",
+    "lat": "7.9090",
+    "lng": "98.3332",
+    "id": "1764733770"
+  },
+  {
+    "city": "Ban Pa Sak",
+    "city_ascii": "Ban Pa Sak",
+    "admin_name": "Phitsanulok",
+    "lat": "16.8477",
+    "lng": "100.2563",
+    "id": "1764248083"
+  },
+  {
+    "city": "Ban Piang Luang",
+    "city_ascii": "Ban Piang Luang",
+    "admin_name": "Chiang Mai",
+    "lat": "19.6826",
+    "lng": "98.6260",
+    "id": "1764002589"
+  },
+  {
+    "city": "Kanchanaburi",
+    "city_ascii": "Kanchanaburi",
+    "admin_name": "Kanchanaburi",
+    "lat": "14.0194",
+    "lng": "99.5311",
+    "id": "1764455558"
+  },
+  {
+    "city": "Samut Songkhram",
+    "city_ascii": "Samut Songkhram",
+    "admin_name": "Samut Songkhram",
+    "lat": "13.4097",
+    "lng": "100.0017",
+    "id": "1764305010"
+  },
+  {
+    "city": "Prachin Buri",
+    "city_ascii": "Prachin Buri",
+    "admin_name": "Prachin Buri",
+    "lat": "14.0567",
+    "lng": "101.3739",
+    "id": "1764262472"
+  },
+  {
+    "city": "Ban Khamen",
+    "city_ascii": "Ban Khamen",
+    "admin_name": "Nonthaburi",
+    "lat": "13.8823",
+    "lng": "100.2879",
+    "id": "1764794976"
+  },
+  {
+    "city": "Betong",
+    "city_ascii": "Betong",
+    "admin_name": "Yala",
+    "lat": "5.7731",
+    "lng": "101.0725",
+    "id": "1764484131"
+  },
+  {
+    "city": "Ban Bang Phun",
+    "city_ascii": "Ban Bang Phun",
+    "admin_name": "Pathum Thani",
+    "lat": "13.9851",
+    "lng": "100.5701",
+    "id": "1764792338"
+  },
+  {
+    "city": "Takhli",
+    "city_ascii": "Takhli",
+    "admin_name": "Nakhon Sawan",
+    "lat": "15.2667",
+    "lng": "100.3500",
+    "id": "1764978785"
+  },
+  {
+    "city": "Phetchabun",
+    "city_ascii": "Phetchabun",
+    "admin_name": "Phetchabun",
+    "lat": "16.4169",
+    "lng": "101.1533",
+    "id": "1764518331"
+  },
+  {
+    "city": "Bang Sao Thong",
+    "city_ascii": "Bang Sao Thong",
+    "admin_name": "Samut Prakan",
+    "lat": "13.5950",
+    "lng": "100.8304",
+    "id": "1764260674"
+  },
+  {
+    "city": "Ban Phru",
+    "city_ascii": "Ban Phru",
+    "admin_name": "Songkhla",
+    "lat": "6.9514",
+    "lng": "100.4723",
+    "id": "1764608441"
+  },
+  {
+    "city": "Sattahip",
+    "city_ascii": "Sattahip",
+    "admin_name": "Chon Buri",
+    "lat": "12.6664",
+    "lng": "100.9007",
+    "id": "1764518101"
+  },
+  {
+    "city": "Ban Thoet Thai",
+    "city_ascii": "Ban Thoet Thai",
+    "admin_name": "Chiang Rai",
+    "lat": "20.3084",
+    "lng": "99.6445",
+    "id": "1764807861"
+  },
+  {
+    "city": "Buri Ram",
+    "city_ascii": "Buri Ram",
+    "admin_name": "Buri Ram",
+    "lat": "14.9942",
+    "lng": "103.1022",
+    "id": "1764141031"
+  },
+  {
+    "city": "Sai Mai",
+    "city_ascii": "Sai Mai",
+    "admin_name": "Krung Thep Maha Nakhon",
+    "lat": "13.9207",
+    "lng": "100.6455",
+    "id": "1764423311"
+  },
+  {
+    "city": "Chanthaburi",
+    "city_ascii": "Chanthaburi",
+    "admin_name": "Chanthaburi",
+    "lat": "12.6086",
+    "lng": "102.1039",
+    "id": "1764151688"
+  },
+  {
+    "city": "Wichian Buri",
+    "city_ascii": "Wichian Buri",
+    "admin_name": "Phetchabun",
+    "lat": "15.6578",
+    "lng": "101.1060",
+    "id": "1764906431"
+  },
+  {
+    "city": "Ban Pa Tueng",
+    "city_ascii": "Ban Pa Tueng",
+    "admin_name": "Chiang Rai",
+    "lat": "20.1339",
+    "lng": "99.8325",
+    "id": "1764197530"
+  },
+  {
+    "city": "Krathum Baen",
+    "city_ascii": "Krathum Baen",
+    "admin_name": "Samut Sakhon",
+    "lat": "13.6631",
+    "lng": "100.2572",
+    "id": "1764425264"
+  },
+  {
+    "city": "Satun",
+    "city_ascii": "Satun",
+    "admin_name": "Satun",
+    "lat": "6.6147",
+    "lng": "100.0681",
+    "id": "1764836023"
+  },
+  {
+    "city": "Wang Nam Yen",
+    "city_ascii": "Wang Nam Yen",
+    "admin_name": "Sa Kaeo",
+    "lat": "13.5033",
+    "lng": "102.1812",
+    "id": "1764123627"
+  },
+  {
+    "city": "Nang Rong",
+    "city_ascii": "Nang Rong",
+    "admin_name": "Buri Ram",
+    "lat": "14.6283",
+    "lng": "102.7933",
+    "id": "1764430858"
+  },
+  {
+    "city": "Yasothon",
+    "city_ascii": "Yasothon",
+    "admin_name": "Yasothon",
+    "lat": "15.7972",
+    "lng": "104.1431",
+    "id": "1764520637"
+  },
+  {
+    "city": "Sadao",
+    "city_ascii": "Sadao",
+    "admin_name": "Songkhla",
+    "lat": "6.6388",
+    "lng": "100.4234",
+    "id": "1764417199"
+  },
+  {
+    "city": "Nong Bua Lamphu",
+    "city_ascii": "Nong Bua Lamphu",
+    "admin_name": "Nong Bua Lamphu",
+    "lat": "17.2042",
+    "lng": "102.4444",
+    "id": "1764333285"
+  },
+  {
+    "city": "Loei",
+    "city_ascii": "Loei",
+    "admin_name": "Loei",
+    "lat": "17.4853",
+    "lng": "101.7303",
+    "id": "1764996883"
+  },
+  {
+    "city": "Na Klang",
+    "city_ascii": "Na Klang",
+    "admin_name": "Nong Bua Lamphu",
+    "lat": "17.3072",
+    "lng": "102.1889",
+    "id": "1764000026"
+  },
+  {
+    "city": "Pak Phanang",
+    "city_ascii": "Pak Phanang",
+    "admin_name": "Nakhon Si Thammarat",
+    "lat": "8.3511",
+    "lng": "100.2020",
+    "id": "1764714642"
+  },
+  {
+    "city": "Phichit",
+    "city_ascii": "Phichit",
+    "admin_name": "Phichit",
+    "lat": "16.4431",
+    "lng": "100.3467",
+    "id": "1764024236"
+  },
+  {
+    "city": "Tak",
+    "city_ascii": "Tak",
+    "admin_name": "Tak",
+    "lat": "16.8711",
+    "lng": "99.1250",
+    "id": "1764055292"
+  },
+  {
+    "city": "Ban Wiang Phan",
+    "city_ascii": "Ban Wiang Phan",
+    "admin_name": "Chiang Rai",
+    "lat": "20.4128",
+    "lng": "99.8853",
+    "id": "1764466562"
+  },
+  {
+    "city": "Ban Tha Pha",
+    "city_ascii": "Ban Tha Pha",
+    "admin_name": "Ratchaburi",
+    "lat": "13.8454",
+    "lng": "99.8652",
+    "id": "1764900404"
+  },
+  {
+    "city": "Ban Klang",
+    "city_ascii": "Ban Klang",
+    "admin_name": "Phitsanulok",
+    "lat": "16.9760",
+    "lng": "100.5600",
+    "id": "1764339376"
+  },
+  {
+    "city": "Bueng Kan",
+    "city_ascii": "Bueng Kan",
+    "admin_name": "Bueng Kan",
+    "lat": "18.3254",
+    "lng": "103.6704",
+    "id": "1764944006"
+  },
+  {
+    "city": "Ban Wat Sala Daeng",
+    "city_ascii": "Ban Wat Sala Daeng",
+    "admin_name": "Krung Thep Maha Nakhon",
+    "lat": "13.8097",
+    "lng": "100.3589",
+    "id": "1764831787"
+  },
+  {
+    "city": "Nan",
+    "city_ascii": "Nan",
+    "admin_name": "Nan",
+    "lat": "18.7833",
+    "lng": "100.7833",
+    "id": "1764061223"
+  },
+  {
+    "city": "Ban Tha Ton",
+    "city_ascii": "Ban Tha Ton",
+    "admin_name": "Chiang Mai",
+    "lat": "20.0608",
+    "lng": "99.3622",
+    "id": "1764205588"
+  },
+  {
+    "city": "Ban Na San",
+    "city_ascii": "Ban Na San",
+    "admin_name": "Surat Thani",
+    "lat": "8.8004",
+    "lng": "99.3637",
+    "id": "1764021256"
+  },
+  {
+    "city": "Ban Thap Kwang",
+    "city_ascii": "Ban Thap Kwang",
+    "admin_name": "Saraburi",
+    "lat": "14.6103",
+    "lng": "101.0753",
+    "id": "1764264191"
+  },
+  {
+    "city": "Kantharalak",
+    "city_ascii": "Kantharalak",
+    "admin_name": "Si Sa Ket",
+    "lat": "14.6406",
+    "lng": "104.6499",
+    "id": "1764009547"
+  },
+  {
+    "city": "Ban Bueng",
+    "city_ascii": "Ban Bueng",
+    "admin_name": "Chon Buri",
+    "lat": "13.3142",
+    "lng": "101.1114",
+    "id": "1764134032"
+  },
+  {
+    "city": "Ban Patong",
+    "city_ascii": "Ban Patong",
+    "admin_name": "Phuket",
+    "lat": "7.8931",
+    "lng": "98.2983",
+    "id": "1764195169"
+  },
+  {
+    "city": "Ban Fang Tuen",
+    "city_ascii": "Ban Fang Tuen",
+    "admin_name": "Chiang Rai",
+    "lat": "19.5497",
+    "lng": "99.7566",
+    "id": "1764355524"
+  },
+  {
+    "city": "Ban Mon Pin",
+    "city_ascii": "Ban Mon Pin",
+    "admin_name": "Chiang Mai",
+    "lat": "19.9168",
+    "lng": "99.1583",
+    "id": "1764739974"
+  },
+  {
+    "city": "Phayao",
+    "city_ascii": "Phayao",
+    "admin_name": "Phayao",
+    "lat": "19.1653",
+    "lng": "99.9036",
+    "id": "1764291128"
+  },
+  {
+    "city": "Ban Bueng Phra",
+    "city_ascii": "Ban Bueng Phra",
+    "admin_name": "Phitsanulok",
+    "lat": "16.7460",
+    "lng": "100.2750",
+    "id": "1764002068"
+  },
+  {
+    "city": "Ban Na Yang",
+    "city_ascii": "Ban Na Yang",
+    "admin_name": "Phetchaburi",
+    "lat": "12.8849",
+    "lng": "99.9475",
+    "id": "1764003401"
+  },
+  {
+    "city": "Ban Bang Rin",
+    "city_ascii": "Ban Bang Rin",
+    "admin_name": "Ranong",
+    "lat": "9.9531",
+    "lng": "98.6342",
+    "id": "1764108342"
+  },
+  {
+    "city": "Ban Bo Haeo",
+    "city_ascii": "Ban Bo Haeo",
+    "admin_name": "Lampang",
+    "lat": "18.3048",
+    "lng": "99.4657",
+    "id": "1764536818"
+  },
+  {
+    "city": "Ban Mae Kha Tai",
+    "city_ascii": "Ban Mae Kha Tai",
+    "admin_name": "Chiang Mai",
+    "lat": "18.7352",
+    "lng": "98.9678",
+    "id": "1764637838"
+  },
+  {
+    "city": "Ban Mae Hia Nai",
+    "city_ascii": "Ban Mae Hia Nai",
+    "admin_name": "Chiang Mai",
+    "lat": "18.7433",
+    "lng": "98.9640",
+    "id": "1764930475"
+  },
+  {
+    "city": "Pathum Thani",
+    "city_ascii": "Pathum Thani",
+    "admin_name": "Pathum Thani",
+    "lat": "14.0500",
+    "lng": "100.4833",
+    "id": "1764434288"
+  },
+  {
+    "city": "Tha Bo",
+    "city_ascii": "Tha Bo",
+    "admin_name": "Nong Khai",
+    "lat": "17.8500",
+    "lng": "102.5814",
+    "id": "1764956322"
+  },
+  {
+    "city": "Ban Mai",
+    "city_ascii": "Ban Mai",
+    "admin_name": "Nakhon Ratchasima",
+    "lat": "14.9658",
+    "lng": "102.0205",
+    "id": "1764316736"
+  },
+  {
+    "city": "Sikhio",
+    "city_ascii": "Sikhio",
+    "admin_name": "Nakhon Ratchasima",
+    "lat": "14.9000",
+    "lng": "101.7167",
+    "id": "1764681503"
+  },
+  {
+    "city": "Ban Tha Kham",
+    "city_ascii": "Ban Tha Kham",
+    "admin_name": "Surat Thani",
+    "lat": "9.1059",
+    "lng": "99.2326",
+    "id": "1764400647"
+  },
+  {
+    "city": "San Kamphaeng",
+    "city_ascii": "San Kamphaeng",
+    "admin_name": "Chiang Mai",
+    "lat": "18.7449",
+    "lng": "99.1195",
+    "id": "1764805486"
+  },
+  {
+    "city": "Sing Buri",
+    "city_ascii": "Sing Buri",
+    "admin_name": "Sing Buri",
+    "lat": "14.8911",
+    "lng": "100.4031",
+    "id": "1764482111"
+  },
+  {
+    "city": "Klaeng",
+    "city_ascii": "Klaeng",
+    "admin_name": "Rayong",
+    "lat": "12.7797",
+    "lng": "101.6483",
+    "id": "1764855012"
+  },
+  {
+    "city": "Ban Mae Ngon Khilek",
+    "city_ascii": "Ban Mae Ngon Khilek",
+    "admin_name": "Chiang Mai",
+    "lat": "19.8021",
+    "lng": "99.1614",
+    "id": "1764180148"
+  },
+  {
+    "city": "Ban Mae Ka Hua Thung",
+    "city_ascii": "Ban Mae Ka Hua Thung",
+    "admin_name": "Phayao",
+    "lat": "19.0942",
+    "lng": "99.9136",
+    "id": "1764621599"
+  },
+  {
+    "city": "Sam Phran",
+    "city_ascii": "Sam Phran",
+    "admin_name": "Nakhon Pathom",
+    "lat": "13.7270",
+    "lng": "100.2153",
+    "id": "1764639144"
+  },
+  {
+    "city": "Ban Thum",
+    "city_ascii": "Ban Thum",
+    "admin_name": "Khon Kaen",
+    "lat": "16.4515",
+    "lng": "102.7198",
+    "id": "1764043980"
+  },
+  {
+    "city": "Ban Song",
+    "city_ascii": "Ban Song",
+    "admin_name": "Surat Thani",
+    "lat": "8.6355",
+    "lng": "99.3716",
+    "id": "1764610829"
+  },
+  {
+    "city": "Tak Bai",
+    "city_ascii": "Tak Bai",
+    "admin_name": "Narathiwat",
+    "lat": "6.2592",
+    "lng": "102.0531",
+    "id": "1764842940"
+  },
+  {
+    "city": "Ban Pong",
+    "city_ascii": "Ban Pong",
+    "admin_name": "Ratchaburi",
+    "lat": "13.8163",
+    "lng": "99.8774",
+    "id": "1764963515"
+  },
+  {
+    "city": "Rattaphum",
+    "city_ascii": "Rattaphum",
+    "admin_name": "Songkhla",
+    "lat": "7.1348",
+    "lng": "100.2565",
+    "id": "1764151351"
+  },
+  {
+    "city": "Sawankhalok",
+    "city_ascii": "Sawankhalok",
+    "admin_name": "Sukhothai",
+    "lat": "17.3160",
+    "lng": "99.8319",
+    "id": "1764710205"
+  },
+  {
+    "city": "Ban Phe",
+    "city_ascii": "Ban Phe",
+    "admin_name": "Rayong",
+    "lat": "12.6282",
+    "lng": "101.4376",
+    "id": "1764896078"
+  },
+  {
+    "city": "Ban Rawai",
+    "city_ascii": "Ban Rawai",
+    "admin_name": "Phuket",
+    "lat": "7.7851",
+    "lng": "98.3316",
+    "id": "1764734104"
+  },
+  {
+    "city": "Aranyaprathet",
+    "city_ascii": "Aranyaprathet",
+    "admin_name": "Sa Kaeo",
+    "lat": "13.6928",
+    "lng": "102.5017",
+    "id": "1764167237"
+  },
+  {
+    "city": "Ban Tha Mai I",
+    "city_ascii": "Ban Tha Mai I",
+    "admin_name": "Chiang Mai",
+    "lat": "18.7461",
+    "lng": "98.9819",
+    "id": "1764002973"
+  },
+  {
+    "city": "Pran Buri",
+    "city_ascii": "Pran Buri",
+    "admin_name": "Prachuap Khiri Khan",
+    "lat": "12.3849",
+    "lng": "99.9016",
+    "id": "1764353337"
+  },
+  {
+    "city": "Ban Na Sai",
+    "city_ascii": "Ban Na Sai",
+    "admin_name": "Lamphun",
+    "lat": "17.7334",
+    "lng": "98.9513",
+    "id": "1764024755"
+  },
+  {
+    "city": "Sa Kaeo",
+    "city_ascii": "Sa Kaeo",
+    "admin_name": "Sa Kaeo",
+    "lat": "13.8206",
+    "lng": "102.0589",
+    "id": "1764207048"
+  },
+  {
+    "city": "Ban Cho Ho",
+    "city_ascii": "Ban Cho Ho",
+    "admin_name": "Nakhon Ratchasima",
+    "lat": "15.0279",
+    "lng": "102.1395",
+    "id": "1764003189"
+  },
+  {
+    "city": "Ban Lam Narai",
+    "city_ascii": "Ban Lam Narai",
+    "admin_name": "Lop Buri",
+    "lat": "15.2039",
+    "lng": "101.1308",
+    "id": "1764729465"
+  },
+  {
+    "city": "Ban Nong Han",
+    "city_ascii": "Ban Nong Han",
+    "admin_name": "Chiang Mai",
+    "lat": "18.9000",
+    "lng": "99.0000",
+    "id": "1764321776"
+  },
+  {
+    "city": "Ban Thung Tam Sao",
+    "city_ascii": "Ban Thung Tam Sao",
+    "admin_name": "Songkhla",
+    "lat": "6.9476",
+    "lng": "100.3675",
+    "id": "1764139945"
+  },
+  {
+    "city": "Ban Wang Nok Aen",
+    "city_ascii": "Ban Wang Nok Aen",
+    "admin_name": "Phitsanulok",
+    "lat": "16.8300",
+    "lng": "100.4800",
+    "id": "1764425126"
+  },
+  {
+    "city": "Ranong",
+    "city_ascii": "Ranong",
+    "admin_name": "Ranong",
+    "lat": "9.9619",
+    "lng": "98.6389",
+    "id": "1764623795"
+  },
+  {
+    "city": "Ban Kao",
+    "city_ascii": "Ban Kao",
+    "admin_name": "Kanchanaburi",
+    "lat": "13.8667",
+    "lng": "99.1500",
+    "id": "1764249203"
+  },
+  {
+    "city": "Bang Phae",
+    "city_ascii": "Bang Phae",
+    "admin_name": "Ratchaburi",
+    "lat": "13.6916",
+    "lng": "99.9298",
+    "id": "1764337429"
+  },
+  {
+    "city": "Chai Prakan",
+    "city_ascii": "Chai Prakan",
+    "admin_name": "Chiang Mai",
+    "lat": "19.7322",
+    "lng": "99.1403",
+    "id": "1764347576"
+  },
+  {
+    "city": "Lam Luk Ka",
+    "city_ascii": "Lam Luk Ka",
+    "admin_name": "Pathum Thani",
+    "lat": "13.9323",
+    "lng": "100.7494",
+    "id": "1764490226"
+  },
+  {
+    "city": "Ban Dung",
+    "city_ascii": "Ban Dung",
+    "admin_name": "Udon Thani",
+    "lat": "17.6986",
+    "lng": "103.2611",
+    "id": "1764905558"
+  },
+  {
+    "city": "Ban Samo Khae",
+    "city_ascii": "Ban Samo Khae",
+    "admin_name": "Phitsanulok",
+    "lat": "16.8408",
+    "lng": "100.3415",
+    "id": "1764002915"
+  },
+  {
+    "city": "Si Satchanalai",
+    "city_ascii": "Si Satchanalai",
+    "admin_name": "Sukhothai",
+    "lat": "17.5203",
+    "lng": "99.7640",
+    "id": "1764174789"
+  },
+  {
+    "city": "Ban Tha Pho",
+    "city_ascii": "Ban Tha Pho",
+    "admin_name": "Phitsanulok",
+    "lat": "16.8582",
+    "lng": "100.2291",
+    "id": "1764936471"
+  },
+  {
+    "city": "Chom Thong",
+    "city_ascii": "Chom Thong",
+    "admin_name": "Chiang Mai",
+    "lat": "18.4901",
+    "lng": "98.6747",
+    "id": "1764003802"
+  },
+  {
+    "city": "Nakhon Nayok",
+    "city_ascii": "Nakhon Nayok",
+    "admin_name": "Nakhon Nayok",
+    "lat": "14.2069",
+    "lng": "101.2142",
+    "id": "1764068248"
+  },
+  {
+    "city": "Ban Pang Mu",
+    "city_ascii": "Ban Pang Mu",
+    "admin_name": "Mae Hong Son",
+    "lat": "19.3336",
+    "lng": "97.9656",
+    "id": "1764504430"
+  },
+  {
+    "city": "Ban Nong Kathao",
+    "city_ascii": "Ban Nong Kathao",
+    "admin_name": "Phitsanulok",
+    "lat": "16.9833",
+    "lng": "100.7833",
+    "id": "1764811554"
+  },
+  {
+    "city": "Ban Duea",
+    "city_ascii": "Ban Duea",
+    "admin_name": "Chaiyaphum",
+    "lat": "16.1264",
+    "lng": "101.9010",
+    "id": "1764693756"
+  },
+  {
+    "city": "Uthai Thani",
+    "city_ascii": "Uthai Thani",
+    "admin_name": "Uthai Thani",
+    "lat": "15.3800",
+    "lng": "100.0250",
+    "id": "1764844835"
+  },
+  {
+    "city": "Khao Yoi",
+    "city_ascii": "Khao Yoi",
+    "admin_name": "Phetchaburi",
+    "lat": "13.2402",
+    "lng": "99.8243",
+    "id": "1764047925"
+  },
+  {
+    "city": "Ban Khek Noi",
+    "city_ascii": "Ban Khek Noi",
+    "admin_name": "Phetchabun",
+    "lat": "16.8118",
+    "lng": "100.9671",
+    "id": "1764751835"
+  },
+  {
+    "city": "Thoen",
+    "city_ascii": "Thoen",
+    "admin_name": "Lampang",
+    "lat": "17.6129",
+    "lng": "99.2161",
+    "id": "1764582305"
+  },
+  {
+    "city": "Phrae",
+    "city_ascii": "Phrae",
+    "admin_name": "Phrae",
+    "lat": "18.1453",
+    "lng": "100.1419",
+    "id": "1764209592"
+  },
+  {
+    "city": "Ban Na Kham",
+    "city_ascii": "Ban Na Kham",
+    "admin_name": "Prachin Buri",
+    "lat": "14.0048",
+    "lng": "101.8409",
+    "id": "1764834379"
+  },
+  {
+    "city": "Ban Ton Thong Chai",
+    "city_ascii": "Ban Ton Thong Chai",
+    "admin_name": "Lampang",
+    "lat": "18.3375",
+    "lng": "99.5334",
+    "id": "1764171016"
+  },
+  {
+    "city": "Ban Ho Mae Salong",
+    "city_ascii": "Ban Ho Mae Salong",
+    "admin_name": "Chiang Rai",
+    "lat": "20.1631",
+    "lng": "99.6225",
+    "id": "1764427138"
+  },
+  {
+    "city": "Ban Mae Sun Luang",
+    "city_ascii": "Ban Mae Sun Luang",
+    "admin_name": "Chiang Mai",
+    "lat": "19.8305",
+    "lng": "99.1706",
+    "id": "1764535667"
+  },
+  {
+    "city": "Ban San Phak Wan Luang",
+    "city_ascii": "Ban San Phak Wan Luang",
+    "admin_name": "Chiang Mai",
+    "lat": "18.7049",
+    "lng": "98.9661",
+    "id": "1764106797"
+  },
+  {
+    "city": "Ban Du",
+    "city_ascii": "Ban Du",
+    "admin_name": "Chiang Rai",
+    "lat": "19.9691",
+    "lng": "99.8589",
+    "id": "1764009256"
+  },
+  {
+    "city": "Ban Kaeng",
+    "city_ascii": "Ban Kaeng",
+    "admin_name": "Chaiyaphum",
+    "lat": "16.3940",
+    "lng": "102.0586",
+    "id": "1764204808"
+  },
+  {
+    "city": "Chai Nat",
+    "city_ascii": "Chai Nat",
+    "admin_name": "Chai Nat",
+    "lat": "15.1872",
+    "lng": "100.1283",
+    "id": "1764848732"
+  },
+  {
+    "city": "Ban Ao Nang",
+    "city_ascii": "Ban Ao Nang",
+    "admin_name": "Krabi",
+    "lat": "8.0314",
+    "lng": "98.8225",
+    "id": "1764704232"
+  },
+  {
+    "city": "Ban Don Kaeo",
+    "city_ascii": "Ban Don Kaeo",
+    "admin_name": "Chiang Mai",
+    "lat": "18.8567",
+    "lng": "98.9689",
+    "id": "1764651646"
+  },
+  {
+    "city": "Ban Nong Kula",
+    "city_ascii": "Ban Nong Kula",
+    "admin_name": "Phitsanulok",
+    "lat": "16.6500",
+    "lng": "99.9500",
+    "id": "1764676544"
+  },
+  {
+    "city": "Pak Thong Chai",
+    "city_ascii": "Pak Thong Chai",
+    "admin_name": "Nakhon Ratchasima",
+    "lat": "14.7167",
+    "lng": "102.0167",
+    "id": "1764718877"
+  },
+  {
+    "city": "Ban Tha Thong",
+    "city_ascii": "Ban Tha Thong",
+    "admin_name": "Phitsanulok",
+    "lat": "16.8582",
+    "lng": "100.2291",
+    "id": "1764306656"
+  },
+  {
+    "city": "Det Udom",
+    "city_ascii": "Det Udom",
+    "admin_name": "Ubon Ratchathani",
+    "lat": "14.9060",
+    "lng": "105.0784",
+    "id": "1764920064"
+  },
+  {
+    "city": "Bua Yai",
+    "city_ascii": "Bua Yai",
+    "admin_name": "Nakhon Ratchasima",
+    "lat": "15.5840",
+    "lng": "102.4186",
+    "id": "1764992879"
+  },
+  {
+    "city": "Thong Pha Phum",
+    "city_ascii": "Thong Pha Phum",
+    "admin_name": "Kanchanaburi",
+    "lat": "14.7382",
+    "lng": "98.6320",
+    "id": "1764883114"
+  },
+  {
+    "city": "Sai Buri",
+    "city_ascii": "Sai Buri",
+    "admin_name": "Pattani",
+    "lat": "6.7013",
+    "lng": "101.6167",
+    "id": "1764406670"
+  },
+  {
+    "city": "Ban Mueang Nga",
+    "city_ascii": "Ban Mueang Nga",
+    "admin_name": "Lamphun",
+    "lat": "18.5997",
+    "lng": "99.0181",
+    "id": "1764686544"
+  },
+  {
+    "city": "Bang Racham",
+    "city_ascii": "Bang Racham",
+    "admin_name": "Sing Buri",
+    "lat": "14.9000",
+    "lng": "100.3167",
+    "id": "1764338966"
+  },
+  {
+    "city": "Taphan Hin",
+    "city_ascii": "Taphan Hin",
+    "admin_name": "Phichit",
+    "lat": "16.2209",
+    "lng": "100.4198",
+    "id": "1764640959"
+  },
+  {
+    "city": "Ban Bang Muang",
+    "city_ascii": "Ban Bang Muang",
+    "admin_name": "Nonthaburi",
+    "lat": "13.8474",
+    "lng": "100.4167",
+    "id": "1764508090"
+  },
+  {
+    "city": "Ban Tha Luang Lang",
+    "city_ascii": "Ban Tha Luang Lang",
+    "admin_name": "Chanthaburi",
+    "lat": "12.6816",
+    "lng": "102.1690",
+    "id": "1764285638"
+  },
+  {
+    "city": "Ang Thong",
+    "city_ascii": "Ang Thong",
+    "admin_name": "Ang Thong",
+    "lat": "14.5925",
+    "lng": "100.4572",
+    "id": "1764529940"
+  },
+  {
+    "city": "Ban Bung Kha",
+    "city_ascii": "Ban Bung Kha",
+    "admin_name": "Yasothon",
+    "lat": "16.1462",
+    "lng": "104.6507",
+    "id": "1764502861"
+  },
+  {
+    "city": "Ban Mae Kaluang",
+    "city_ascii": "Ban Mae Kaluang",
+    "admin_name": "Phayao",
+    "lat": "19.0565",
+    "lng": "99.9402",
+    "id": "1764438481"
+  },
+  {
+    "city": "Dok Kham Tai",
+    "city_ascii": "Dok Kham Tai",
+    "admin_name": "Phayao",
+    "lat": "19.1624",
+    "lng": "99.9934",
+    "id": "1764998774"
+  },
+  {
+    "city": "Ban Don Thong",
+    "city_ascii": "Ban Don Thong",
+    "admin_name": "Phitsanulok",
+    "lat": "16.9040",
+    "lng": "100.3563",
+    "id": "1764925902"
+  },
+  {
+    "city": "Ban Na Chom Thian",
+    "city_ascii": "Ban Na Chom Thian",
+    "admin_name": "Chon Buri",
+    "lat": "12.8356",
+    "lng": "100.9264",
+    "id": "1764606820"
+  },
+  {
+    "city": "Ban Chomphu Nuea",
+    "city_ascii": "Ban Chomphu Nuea",
+    "admin_name": "Phitsanulok",
+    "lat": "16.6833",
+    "lng": "100.6667",
+    "id": "1764044071"
+  },
+  {
+    "city": "Ban Khlong",
+    "city_ascii": "Ban Khlong",
+    "admin_name": "Phitsanulok",
+    "lat": "16.8353",
+    "lng": "100.2320",
+    "id": "1764509673"
+  },
+  {
+    "city": "Ban Chorakhe Samphan",
+    "city_ascii": "Ban Chorakhe Samphan",
+    "admin_name": "Suphan Buri",
+    "lat": "14.3278",
+    "lng": "99.8554",
+    "id": "1764660410"
+  },
+  {
+    "city": "Ban Nong Hoi",
+    "city_ascii": "Ban Nong Hoi",
+    "admin_name": "Chiang Mai",
+    "lat": "18.7500",
+    "lng": "99.0167",
+    "id": "1764993744"
+  },
+  {
+    "city": "Phra Samut Chedi",
+    "city_ascii": "Phra Samut Chedi",
+    "admin_name": "Samut Prakan",
+    "lat": "13.6022",
+    "lng": "100.5721",
+    "id": "1764769560"
+  },
+  {
+    "city": "Song Phi Nong",
+    "city_ascii": "Song Phi Nong",
+    "admin_name": "Suphan Buri",
+    "lat": "14.2241",
+    "lng": "100.0209",
+    "id": "1764684967"
+  },
+  {
+    "city": "Ban Krang",
+    "city_ascii": "Ban Krang",
+    "admin_name": "Phitsanulok",
+    "lat": "16.7460",
+    "lng": "100.2750",
+    "id": "1764045308"
+  },
+  {
+    "city": "Ban Tat",
+    "city_ascii": "Ban Tat",
+    "admin_name": "Udon Thani",
+    "lat": "17.3081",
+    "lng": "102.7844",
+    "id": "1764551392"
+  },
+  {
+    "city": "Kaeng Khoi",
+    "city_ascii": "Kaeng Khoi",
+    "admin_name": "Saraburi",
+    "lat": "14.5862",
+    "lng": "100.9976",
+    "id": "1764167813"
+  },
+  {
+    "city": "Ban Sop Tia",
+    "city_ascii": "Ban Sop Tia",
+    "admin_name": "Chiang Mai",
+    "lat": "18.3895",
+    "lng": "98.6780",
+    "id": "1764003065"
+  },
+  {
+    "city": "Chaiyo",
+    "city_ascii": "Chaiyo",
+    "admin_name": "Ang Thong",
+    "lat": "14.6488",
+    "lng": "100.4788",
+    "id": "1764400832"
+  },
+  {
+    "city": "Lamphun",
+    "city_ascii": "Lamphun",
+    "admin_name": "Lamphun",
+    "lat": "18.5864",
+    "lng": "99.0119",
+    "id": "1764104264"
+  },
+  {
+    "city": "Ban Tom Klang",
+    "city_ascii": "Ban Tom Klang",
+    "admin_name": "Phayao",
+    "lat": "19.1990",
+    "lng": "99.8352",
+    "id": "1764492879"
+  },
+  {
+    "city": "Rong Kwang",
+    "city_ascii": "Rong Kwang",
+    "admin_name": "Phrae",
+    "lat": "18.3390",
+    "lng": "100.3174",
+    "id": "1764929562"
+  },
+  {
+    "city": "Ban Laem",
+    "city_ascii": "Ban Laem",
+    "admin_name": "Phetchaburi",
+    "lat": "13.2047",
+    "lng": "99.9796",
+    "id": "1764878982"
+  },
+  {
+    "city": "Kantang",
+    "city_ascii": "Kantang",
+    "admin_name": "Trang",
+    "lat": "7.4054",
+    "lng": "99.5156",
+    "id": "1764372106"
+  },
+  {
+    "city": "Bang Phlat",
+    "city_ascii": "Bang Phlat",
+    "admin_name": "Krung Thep Maha Nakhon",
+    "lat": "13.8247",
+    "lng": "100.4908",
+    "id": "1764119231"
+  },
+  {
+    "city": "Ban Bang Non",
+    "city_ascii": "Ban Bang Non",
+    "admin_name": "Ranong",
+    "lat": "10.0178",
+    "lng": "98.6560",
+    "id": "1764844910"
+  },
+  {
+    "city": "Huai Yot",
+    "city_ascii": "Huai Yot",
+    "admin_name": "Trang",
+    "lat": "7.7894",
+    "lng": "99.6347",
+    "id": "1764009966"
+  },
+  {
+    "city": "Nong Khae",
+    "city_ascii": "Nong Khae",
+    "admin_name": "Saraburi",
+    "lat": "14.3406",
+    "lng": "100.8673",
+    "id": "1764836619"
+  },
+  {
+    "city": "Doi Lo",
+    "city_ascii": "Doi Lo",
+    "admin_name": "Chiang Mai",
+    "lat": "18.4667",
+    "lng": "98.7833",
+    "id": "1764750189"
+  },
+  {
+    "city": "Ban Tap Tao",
+    "city_ascii": "Ban Tap Tao",
+    "admin_name": "Chiang Rai",
+    "lat": "19.7154",
+    "lng": "100.2906",
+    "id": "1764322223"
+  },
+  {
+    "city": "Ban Huai So Nuea",
+    "city_ascii": "Ban Huai So Nuea",
+    "admin_name": "Chiang Rai",
+    "lat": "20.0536",
+    "lng": "100.2828",
+    "id": "1764115664"
+  },
+  {
+    "city": "Na Wa",
+    "city_ascii": "Na Wa",
+    "admin_name": "Nakhon Phanom",
+    "lat": "17.4897",
+    "lng": "104.1006",
+    "id": "1764746729"
+  },
+  {
+    "city": "Ban Bo Luang",
+    "city_ascii": "Ban Bo Luang",
+    "admin_name": "Chiang Mai",
+    "lat": "18.1505",
+    "lng": "98.3508",
+    "id": "1764468755"
+  },
+  {
+    "city": "Ban Bang Sai",
+    "city_ascii": "Ban Bang Sai",
+    "admin_name": "Chon Buri",
+    "lat": "13.4005",
+    "lng": "100.9994",
+    "id": "1764574957"
+  },
+  {
+    "city": "Ban Noen Phoem",
+    "city_ascii": "Ban Noen Phoem",
+    "admin_name": "Phitsanulok",
+    "lat": "17.1167",
+    "lng": "100.8667",
+    "id": "1764544563"
+  },
+  {
+    "city": "Ban Muang Ngam",
+    "city_ascii": "Ban Muang Ngam",
+    "admin_name": "Songkhla",
+    "lat": "7.3508",
+    "lng": "100.4885",
+    "id": "1764397075"
+  },
+  {
+    "city": "Ban Pae",
+    "city_ascii": "Ban Pae",
+    "admin_name": "Chiang Mai",
+    "lat": "18.2108",
+    "lng": "98.6164",
+    "id": "1764427283"
+  },
+  {
+    "city": "Wang Saphung",
+    "city_ascii": "Wang Saphung",
+    "admin_name": "Loei",
+    "lat": "17.3010",
+    "lng": "101.7685",
+    "id": "1764106072"
+  },
+  {
+    "city": "Nong Bua",
+    "city_ascii": "Nong Bua",
+    "admin_name": "Nakhon Sawan",
+    "lat": "15.8646",
+    "lng": "100.5858",
+    "id": "1764078338"
+  },
+  {
+    "city": "Don Sak",
+    "city_ascii": "Don Sak",
+    "admin_name": "Surat Thani",
+    "lat": "9.3168",
+    "lng": "99.6918",
+    "id": "1764466914"
+  },
+  {
+    "city": "Ban Nong Kop",
+    "city_ascii": "Ban Nong Kop",
+    "admin_name": "Ratchaburi",
+    "lat": "13.8178",
+    "lng": "99.9353",
+    "id": "1764673162"
+  },
+  {
+    "city": "Kuchinarai",
+    "city_ascii": "Kuchinarai",
+    "admin_name": "Kalasin",
+    "lat": "16.5410",
+    "lng": "104.0500",
+    "id": "1764821226"
+  },
+  {
+    "city": "Ban Phan Don",
+    "city_ascii": "Ban Phan Don",
+    "admin_name": "Udon Thani",
+    "lat": "17.1427",
+    "lng": "102.9726",
+    "id": "1764073724"
+  },
+  {
+    "city": "Lom Sak",
+    "city_ascii": "Lom Sak",
+    "admin_name": "Phetchabun",
+    "lat": "16.7798",
+    "lng": "101.2422",
+    "id": "1764798281"
+  },
+  {
+    "city": "Ban Mae Tuen",
+    "city_ascii": "Ban Mae Tuen",
+    "admin_name": "Lamphun",
+    "lat": "18.0100",
+    "lng": "98.8809",
+    "id": "1764530285"
+  },
+  {
+    "city": "Phon",
+    "city_ascii": "Phon",
+    "admin_name": "Khon Kaen",
+    "lat": "15.8160",
+    "lng": "102.5998",
+    "id": "1764718749"
+  },
+  {
+    "city": "Ban Mae Kham Lang Wat",
+    "city_ascii": "Ban Mae Kham Lang Wat",
+    "admin_name": "Chiang Rai",
+    "lat": "20.2225",
+    "lng": "99.8561",
+    "id": "1764260824"
+  },
+  {
+    "city": "Den Chai",
+    "city_ascii": "Den Chai",
+    "admin_name": "Phrae",
+    "lat": "17.9837",
+    "lng": "100.0522",
+    "id": "1764349674"
+  },
+  {
+    "city": "Ban Saeo",
+    "city_ascii": "Ban Saeo",
+    "admin_name": "Chiang Rai",
+    "lat": "20.2158",
+    "lng": "100.2250",
+    "id": "1764365143"
+  },
+  {
+    "city": "Satuek",
+    "city_ascii": "Satuek",
+    "admin_name": "Buri Ram",
+    "lat": "15.2970",
+    "lng": "103.2919",
+    "id": "1764714909"
+  },
+  {
+    "city": "Ban Bang Lamung",
+    "city_ascii": "Ban Bang Lamung",
+    "admin_name": "Chon Buri",
+    "lat": "13.0470",
+    "lng": "100.9289",
+    "id": "1764268034"
+  },
+  {
+    "city": "Ban Yang Hom",
+    "city_ascii": "Ban Yang Hom",
+    "admin_name": "Chiang Rai",
+    "lat": "19.9222",
+    "lng": "100.3056",
+    "id": "1764266179"
+  },
+  {
+    "city": "Ban Kat",
+    "city_ascii": "Ban Kat",
+    "admin_name": "Mae Hong Son",
+    "lat": "18.1764",
+    "lng": "97.9339",
+    "id": "1764182671"
+  },
+  {
+    "city": "Lang Suan",
+    "city_ascii": "Lang Suan",
+    "admin_name": "Chumphon",
+    "lat": "9.9500",
+    "lng": "99.0667",
+    "id": "1764676997"
+  },
+  {
+    "city": "Kaset Wisai",
+    "city_ascii": "Kaset Wisai",
+    "admin_name": "Roi Et",
+    "lat": "15.6556",
+    "lng": "103.5836",
+    "id": "1764985093"
+  },
+  {
+    "city": "Salaya",
+    "city_ascii": "Salaya",
+    "admin_name": "Nakhon Pathom",
+    "lat": "13.8020",
+    "lng": "100.3211",
+    "id": "1764189749"
+  },
+  {
+    "city": "Tha Chang",
+    "city_ascii": "Tha Chang",
+    "admin_name": "Surat Thani",
+    "lat": "9.2642",
+    "lng": "99.1922",
+    "id": "1764489461"
+  },
+  {
+    "city": "Bang Ban",
+    "city_ascii": "Bang Ban",
+    "admin_name": "Phra Nakhon Si Ayutthaya",
+    "lat": "14.3739",
+    "lng": "100.4853",
+    "id": "1764275286"
+  },
+  {
+    "city": "Ban Wang Daeng",
+    "city_ascii": "Ban Wang Daeng",
+    "admin_name": "Uttaradit",
+    "lat": "17.4790",
+    "lng": "100.1247",
+    "id": "1764486186"
+  },
+  {
+    "city": "Si Wilai",
+    "city_ascii": "Si Wilai",
+    "admin_name": "Bueng Kan",
+    "lat": "18.1819",
+    "lng": "103.7479",
+    "id": "1764803853"
+  },
+  {
+    "city": "Phanat Nikhom",
+    "city_ascii": "Phanat Nikhom",
+    "admin_name": "Chon Buri",
+    "lat": "13.4458",
+    "lng": "101.1844",
+    "id": "1764762615"
+  },
+  {
+    "city": "Fao Rai",
+    "city_ascii": "Fao Rai",
+    "admin_name": "Nong Khai",
+    "lat": "18.0179",
+    "lng": "103.3039",
+    "id": "1764038877"
+  },
+  {
+    "city": "Mae Wang",
+    "city_ascii": "Mae Wang",
+    "admin_name": "Chiang Mai",
+    "lat": "18.6567",
+    "lng": "98.6816",
+    "id": "1764671792"
+  },
+  {
+    "city": "Phrai Bueng",
+    "city_ascii": "Phrai Bueng",
+    "admin_name": "Si Sa Ket",
+    "lat": "14.7483",
+    "lng": "104.3626",
+    "id": "1764845950"
+  },
+  {
+    "city": "Phibun Mangsahan",
+    "city_ascii": "Phibun Mangsahan",
+    "admin_name": "Ubon Ratchathani",
+    "lat": "15.2447",
+    "lng": "105.2291",
+    "id": "1764591980"
+  },
+  {
+    "city": "Khlung",
+    "city_ascii": "Khlung",
+    "admin_name": "Chanthaburi",
+    "lat": "12.4547",
+    "lng": "102.2214",
+    "id": "1764654331"
+  },
+  {
+    "city": "Pua",
+    "city_ascii": "Pua",
+    "admin_name": "Nan",
+    "lat": "19.1750",
+    "lng": "100.9162",
+    "id": "1764017430"
+  },
+  {
+    "city": "Ban Bang Yai",
+    "city_ascii": "Ban Bang Yai",
+    "admin_name": "Nonthaburi",
+    "lat": "13.8409",
+    "lng": "100.3708",
+    "id": "1764949681"
+  },
+  {
+    "city": "Doi Saket",
+    "city_ascii": "Doi Saket",
+    "admin_name": "Chiang Mai",
+    "lat": "18.8667",
+    "lng": "99.1333",
+    "id": "1764197318"
+  },
+  {
+    "city": "Wang Sombun",
+    "city_ascii": "Wang Sombun",
+    "admin_name": "Sa Kaeo",
+    "lat": "13.3618",
+    "lng": "102.1911",
+    "id": "1764786290"
+  },
+  {
+    "city": "Sam Ko",
+    "city_ascii": "Sam Ko",
+    "admin_name": "Ang Thong",
+    "lat": "14.6074",
+    "lng": "100.2186",
+    "id": "1764322082"
+  },
+  {
+    "city": "Ban Ko",
+    "city_ascii": "Ban Ko",
+    "admin_name": "Ratchaburi",
+    "lat": "13.6405",
+    "lng": "100.0400",
+    "id": "1764504275"
+  },
+  {
+    "city": "Ban Thung Khao Phuang",
+    "city_ascii": "Ban Thung Khao Phuang",
+    "admin_name": "Chiang Mai",
+    "lat": "19.5483",
+    "lng": "98.9538",
+    "id": "1764832106"
+  },
+  {
+    "city": "Ban Lueak",
+    "city_ascii": "Ban Lueak",
+    "admin_name": "Ratchaburi",
+    "lat": "13.7062",
+    "lng": "99.8730",
+    "id": "1764013692"
+  },
+  {
+    "city": "Phai Sali",
+    "city_ascii": "Phai Sali",
+    "admin_name": "Nakhon Sawan",
+    "lat": "15.6000",
+    "lng": "100.6494",
+    "id": "1764690719"
+  },
+  {
+    "city": "Trat",
+    "city_ascii": "Trat",
+    "admin_name": "Trat",
+    "lat": "12.2417",
+    "lng": "102.5125",
+    "id": "1764126822"
+  },
+  {
+    "city": "Prakhon Chai",
+    "city_ascii": "Prakhon Chai",
+    "admin_name": "Buri Ram",
+    "lat": "14.6107",
+    "lng": "103.0792",
+    "id": "1764447694"
+  },
+  {
+    "city": "Ban Ueam",
+    "city_ascii": "Ban Ueam",
+    "admin_name": "Lampang",
+    "lat": "18.4246",
+    "lng": "99.4434",
+    "id": "1764673656"
+  },
+  {
+    "city": "Ban Non Sombun",
+    "city_ascii": "Ban Non Sombun",
+    "admin_name": "Bueng Kan",
+    "lat": "18.2983",
+    "lng": "103.6528",
+    "id": "1764177972"
+  },
+  {
+    "city": "Ban Dan Na Kham",
+    "city_ascii": "Ban Dan Na Kham",
+    "admin_name": "Uttaradit",
+    "lat": "17.7167",
+    "lng": "100.1333",
+    "id": "1764004017"
+  },
+  {
+    "city": "Ban Wisit",
+    "city_ascii": "Ban Wisit",
+    "admin_name": "Bueng Kan",
+    "lat": "18.3480",
+    "lng": "103.6308",
+    "id": "1764349189"
+  },
+  {
+    "city": "Kut Chap",
+    "city_ascii": "Kut Chap",
+    "admin_name": "Udon Thani",
+    "lat": "17.4257",
+    "lng": "102.5669",
+    "id": "1764618058"
+  },
+  {
+    "city": "Phon Charoen",
+    "city_ascii": "Phon Charoen",
+    "admin_name": "Bueng Kan",
+    "lat": "18.0258",
+    "lng": "103.7094",
+    "id": "1764018147"
+  },
+  {
+    "city": "Bueng Khong Long",
+    "city_ascii": "Bueng Khong Long",
+    "admin_name": "Bueng Kan",
+    "lat": "17.9667",
+    "lng": "104.0450",
+    "id": "1764051727"
+  },
+  {
+    "city": "Tha Muang",
+    "city_ascii": "Tha Muang",
+    "admin_name": "Kanchanaburi",
+    "lat": "13.9612",
+    "lng": "99.6412",
+    "id": "1764391380"
+  },
+  {
+    "city": "Phra Pradaeng",
+    "city_ascii": "Phra Pradaeng",
+    "admin_name": "Samut Prakan",
+    "lat": "13.6592",
+    "lng": "100.5331",
+    "id": "1764849819"
+  },
+  {
+    "city": "Kranuan",
+    "city_ascii": "Kranuan",
+    "admin_name": "Khon Kaen",
+    "lat": "16.7067",
+    "lng": "103.0788",
+    "id": "1764256426"
+  },
+  {
+    "city": "Ban Bong Tai",
+    "city_ascii": "Ban Bong Tai",
+    "admin_name": "Sakon Nakhon",
+    "lat": "17.4080",
+    "lng": "103.2932",
+    "id": "1764226625"
+  },
+  {
+    "city": "Ban Bang Toei",
+    "city_ascii": "Ban Bang Toei",
+    "admin_name": "Pathum Thani",
+    "lat": "14.0737",
+    "lng": "100.5079",
+    "id": "1764390237"
+  },
+  {
+    "city": "Ban Pa Hung",
+    "city_ascii": "Ban Pa Hung",
+    "admin_name": "Chiang Rai",
+    "lat": "19.5672",
+    "lng": "99.7013",
+    "id": "1764832108"
+  },
+  {
+    "city": "Nong Ki",
+    "city_ascii": "Nong Ki",
+    "admin_name": "Buri Ram",
+    "lat": "14.6868",
+    "lng": "102.5380",
+    "id": "1764002755"
+  },
+  {
+    "city": "Ban Bu Sung",
+    "city_ascii": "Ban Bu Sung",
+    "admin_name": "Si Sa Ket",
+    "lat": "14.9613",
+    "lng": "104.2095",
+    "id": "1764702503"
+  },
+  {
+    "city": "Sung Noen",
+    "city_ascii": "Sung Noen",
+    "admin_name": "Nakhon Ratchasima",
+    "lat": "14.8992",
+    "lng": "101.8208",
+    "id": "1764245412"
+  },
+  {
+    "city": "Ban Ngao",
+    "city_ascii": "Ban Ngao",
+    "admin_name": "Chiang Rai",
+    "lat": "19.6736",
+    "lng": "100.2583",
+    "id": "1764076569"
+  },
+  {
+    "city": "Kamalasai",
+    "city_ascii": "Kamalasai",
+    "admin_name": "Kalasin",
+    "lat": "16.3384",
+    "lng": "103.5756",
+    "id": "1764734520"
+  },
+  {
+    "city": "Ban Pong Yaeng Nai",
+    "city_ascii": "Ban Pong Yaeng Nai",
+    "admin_name": "Chiang Mai",
+    "lat": "18.8833",
+    "lng": "98.8167",
+    "id": "1764702190"
+  },
+  {
+    "city": "Phak Hai",
+    "city_ascii": "Phak Hai",
+    "admin_name": "Phra Nakhon Si Ayutthaya",
+    "lat": "14.4574",
+    "lng": "100.3699",
+    "id": "1764882344"
+  },
+  {
+    "city": "Ban Pha Bong",
+    "city_ascii": "Ban Pha Bong",
+    "admin_name": "Mae Hong Son",
+    "lat": "19.2266",
+    "lng": "97.9707",
+    "id": "1764208458"
+  },
+  {
+    "city": "Tha Mai",
+    "city_ascii": "Tha Mai",
+    "admin_name": "Chanthaburi",
+    "lat": "12.6214",
+    "lng": "102.0048",
+    "id": "1764588619"
+  },
+  {
+    "city": "Nong Wua So",
+    "city_ascii": "Nong Wua So",
+    "admin_name": "Udon Thani",
+    "lat": "17.1626",
+    "lng": "102.5727",
+    "id": "1764122140"
+  },
+  {
+    "city": "Ban Mae Sam Laep",
+    "city_ascii": "Ban Mae Sam Laep",
+    "admin_name": "Mae Hong Son",
+    "lat": "17.9750",
+    "lng": "97.7392",
+    "id": "1764091055"
+  },
+  {
+    "city": "Mae O",
+    "city_ascii": "Mae O",
+    "admin_name": "Chiang Rai",
+    "lat": "19.6500",
+    "lng": "99.8333",
+    "id": "1764995328"
+  },
+  {
+    "city": "Ban Mae Chedi",
+    "city_ascii": "Ban Mae Chedi",
+    "admin_name": "Chiang Rai",
+    "lat": "19.1833",
+    "lng": "99.5167",
+    "id": "1764605248"
+  },
+  {
+    "city": "Non Sung",
+    "city_ascii": "Non Sung",
+    "admin_name": "Nakhon Ratchasima",
+    "lat": "15.1801",
+    "lng": "102.2569",
+    "id": "1764677081"
+  },
+  {
+    "city": "Chiang Klang",
+    "city_ascii": "Chiang Klang",
+    "admin_name": "Nan",
+    "lat": "19.2938",
+    "lng": "100.8617",
+    "id": "1764084763"
+  },
+  {
+    "city": "Ban Bueng Kok",
+    "city_ascii": "Ban Bueng Kok",
+    "admin_name": "Phitsanulok",
+    "lat": "16.6833",
+    "lng": "100.0333",
+    "id": "1764708028"
+  },
+  {
+    "city": "Thap Khlo",
+    "city_ascii": "Thap Khlo",
+    "admin_name": "Phichit",
+    "lat": "16.1600",
+    "lng": "100.5966",
+    "id": "1764391912"
+  },
+  {
+    "city": "Ban Kang",
+    "city_ascii": "Ban Kang",
+    "admin_name": "Chiang Mai",
+    "lat": "18.5444",
+    "lng": "98.8889",
+    "id": "1764006978"
+  },
+  {
+    "city": "Ban Dong Mada",
+    "city_ascii": "Ban Dong Mada",
+    "admin_name": "Chiang Rai",
+    "lat": "19.7237",
+    "lng": "99.7153",
+    "id": "1764346183"
+  },
+  {
+    "city": "Ban Lao Yao",
+    "city_ascii": "Ban Lao Yao",
+    "admin_name": "Lamphun",
+    "lat": "18.3667",
+    "lng": "98.7833",
+    "id": "1764997700"
+  },
+  {
+    "city": "Ban Nam Dip Luang",
+    "city_ascii": "Ban Nam Dip Luang",
+    "admin_name": "Lamphun",
+    "lat": "18.4500",
+    "lng": "98.8333",
+    "id": "1764671694"
+  },
+  {
+    "city": "Wiang Sa",
+    "city_ascii": "Wiang Sa",
+    "admin_name": "Surat Thani",
+    "lat": "8.6358",
+    "lng": "99.3666",
+    "id": "1764748345"
+  },
+  {
+    "city": "Photharam",
+    "city_ascii": "Photharam",
+    "admin_name": "Ratchaburi",
+    "lat": "13.6923",
+    "lng": "99.8497",
+    "id": "1764429218"
+  },
+  {
+    "city": "Ban Wiang Ka Long",
+    "city_ascii": "Ban Wiang Ka Long",
+    "admin_name": "Chiang Rai",
+    "lat": "19.2332",
+    "lng": "99.5165",
+    "id": "1764433764"
+  },
+  {
+    "city": "Mae Rim",
+    "city_ascii": "Mae Rim",
+    "admin_name": "Chiang Mai",
+    "lat": "18.9106",
+    "lng": "98.9480",
+    "id": "1764340535"
+  },
+  {
+    "city": "Phangnga",
+    "city_ascii": "Phangnga",
+    "admin_name": "Phangnga",
+    "lat": "8.4644",
+    "lng": "98.5317",
+    "id": "1764855952"
+  },
+  {
+    "city": "Ban Phan Chali",
+    "city_ascii": "Ban Phan Chali",
+    "admin_name": "Phitsanulok",
+    "lat": "16.6300",
+    "lng": "100.4800",
+    "id": "1764623789"
+  },
+  {
+    "city": "Ban Nong Tong",
+    "city_ascii": "Ban Nong Tong",
+    "admin_name": "Chiang Mai",
+    "lat": "18.6115",
+    "lng": "98.9466",
+    "id": "1764899658"
+  },
+  {
+    "city": "Kanchanadit",
+    "city_ascii": "Kanchanadit",
+    "admin_name": "Surat Thani",
+    "lat": "9.1661",
+    "lng": "99.4701",
+    "id": "1764472524"
+  },
+  {
+    "city": "Ban Krot",
+    "city_ascii": "Ban Krot",
+    "admin_name": "Phra Nakhon Si Ayutthaya",
+    "lat": "14.3009",
+    "lng": "100.6002",
+    "id": "1764143463"
+  },
+  {
+    "city": "Ban Sathan",
+    "city_ascii": "Ban Sathan",
+    "admin_name": "Nan",
+    "lat": "18.2667",
+    "lng": "100.7167",
+    "id": "1764353853"
+  },
+  {
+    "city": "Ban Bang Phlap",
+    "city_ascii": "Ban Bang Phlap",
+    "admin_name": "Nonthaburi",
+    "lat": "13.9385",
+    "lng": "100.4528",
+    "id": "1764411697"
+  },
+  {
+    "city": "Ban San Pong",
+    "city_ascii": "Ban San Pong",
+    "admin_name": "Chiang Mai",
+    "lat": "18.9424",
+    "lng": "98.9439",
+    "id": "1764920268"
+  },
+  {
+    "city": "Tha Maka",
+    "city_ascii": "Tha Maka",
+    "admin_name": "Kanchanaburi",
+    "lat": "13.8865",
+    "lng": "99.8010",
+    "id": "1764775732"
+  },
+  {
+    "city": "Ban Khi Lek",
+    "city_ascii": "Ban Khi Lek",
+    "admin_name": "Chiang Mai",
+    "lat": "19.0625",
+    "lng": "98.9396",
+    "id": "1764319884"
+  },
+  {
+    "city": "Bang Khla",
+    "city_ascii": "Bang Khla",
+    "admin_name": "Chachoengsao",
+    "lat": "13.7214",
+    "lng": "101.2081",
+    "id": "1764157593"
+  },
+  {
+    "city": "Ban Bo Phlap",
+    "city_ascii": "Ban Bo Phlap",
+    "admin_name": "Nakhon Pathom",
+    "lat": "13.8366",
+    "lng": "100.0746",
+    "id": "1764002485"
+  },
+  {
+    "city": "Nakhon Thai",
+    "city_ascii": "Nakhon Thai",
+    "admin_name": "Phitsanulok",
+    "lat": "17.1006",
+    "lng": "100.8374",
+    "id": "1764255388"
+  },
+  {
+    "city": "Ban Son Loi",
+    "city_ascii": "Ban Son Loi",
+    "admin_name": "Nonthaburi",
+    "lat": "13.9122",
+    "lng": "100.4200",
+    "id": "1764617566"
+  },
+  {
+    "city": "Nong Kung Si",
+    "city_ascii": "Nong Kung Si",
+    "admin_name": "Kalasin",
+    "lat": "16.6559",
+    "lng": "103.2972",
+    "id": "1764488443"
+  },
+  {
+    "city": "Pong Nam Ron",
+    "city_ascii": "Pong Nam Ron",
+    "admin_name": "Chanthaburi",
+    "lat": "12.9057",
+    "lng": "102.2622",
+    "id": "1764739470"
+  },
+  {
+    "city": "Ban Kham Pom",
+    "city_ascii": "Ban Kham Pom",
+    "admin_name": "Ubon Ratchathani",
+    "lat": "15.9671",
+    "lng": "105.1729",
+    "id": "1764689114"
+  },
+  {
+    "city": "Ban Chang Phuak",
+    "city_ascii": "Ban Chang Phuak",
+    "admin_name": "Chiang Mai",
+    "lat": "18.8032",
+    "lng": "98.9811",
+    "id": "1764077139"
+  },
+  {
+    "city": "Suwannaphum",
+    "city_ascii": "Suwannaphum",
+    "admin_name": "Roi Et",
+    "lat": "15.6035",
+    "lng": "103.8021",
+    "id": "1764109943"
+  },
+  {
+    "city": "Ban Wat Chan",
+    "city_ascii": "Ban Wat Chan",
+    "admin_name": "Phitsanulok",
+    "lat": "16.8033",
+    "lng": "100.2351",
+    "id": "1764351898"
+  },
+  {
+    "city": "Ban Yaeng",
+    "city_ascii": "Ban Yaeng",
+    "admin_name": "Phitsanulok",
+    "lat": "16.8833",
+    "lng": "100.8000",
+    "id": "1764144794"
+  },
+  {
+    "city": "Ban Wang Krachae",
+    "city_ascii": "Ban Wang Krachae",
+    "admin_name": "Kanchanaburi",
+    "lat": "14.2333",
+    "lng": "98.8667",
+    "id": "1764682800"
+  },
+  {
+    "city": "Ban Tha Phra",
+    "city_ascii": "Ban Tha Phra",
+    "admin_name": "Khon Kaen",
+    "lat": "16.3480",
+    "lng": "102.7983",
+    "id": "1764897483"
+  },
+  {
+    "city": "Ban Ngio Ngam",
+    "city_ascii": "Ban Ngio Ngam",
+    "admin_name": "Uttaradit",
+    "lat": "17.6671",
+    "lng": "100.1754",
+    "id": "1764014160"
+  },
+  {
+    "city": "Ban Wang Pradu",
+    "city_ascii": "Ban Wang Pradu",
+    "admin_name": "Phitsanulok",
+    "lat": "16.7600",
+    "lng": "100.3500",
+    "id": "1764001245"
+  },
+  {
+    "city": "Akat Amnuai",
+    "city_ascii": "Akat Amnuai",
+    "admin_name": "Sakon Nakhon",
+    "lat": "17.5964",
+    "lng": "103.9816",
+    "id": "1764592273"
+  },
+  {
+    "city": "Kaeng Khro",
+    "city_ascii": "Kaeng Khro",
+    "admin_name": "Chaiyaphum",
+    "lat": "16.1086",
+    "lng": "102.2581",
+    "id": "1764376495"
+  },
+  {
+    "city": "Tha Luang",
+    "city_ascii": "Tha Luang",
+    "admin_name": "Lop Buri",
+    "lat": "15.0712",
+    "lng": "101.0980",
+    "id": "1764595647"
+  },
+  {
+    "city": "Kosum Phisai",
+    "city_ascii": "Kosum Phisai",
+    "admin_name": "Maha Sarakham",
+    "lat": "16.2486",
+    "lng": "103.0674",
+    "id": "1764287207"
+  },
+  {
+    "city": "Thung Sai",
+    "city_ascii": "Thung Sai",
+    "admin_name": "Kamphaeng Phet",
+    "lat": "16.3149",
+    "lng": "99.8327",
+    "id": "1764018177"
+  },
+  {
+    "city": "Ban Nikhom Phatthana",
+    "city_ascii": "Ban Nikhom Phatthana",
+    "admin_name": "Phitsanulok",
+    "lat": "16.7242",
+    "lng": "99.9697",
+    "id": "1764788584"
+  },
+  {
+    "city": "Thap Than",
+    "city_ascii": "Thap Than",
+    "admin_name": "Uthai Thani",
+    "lat": "15.4606",
+    "lng": "99.8917",
+    "id": "1764003260"
+  },
+  {
+    "city": "Sai Ngam",
+    "city_ascii": "Sai Ngam",
+    "admin_name": "Kamphaeng Phet",
+    "lat": "16.4669",
+    "lng": "99.8902",
+    "id": "1764631031"
+  },
+  {
+    "city": "Kui Buri",
+    "city_ascii": "Kui Buri",
+    "admin_name": "Prachuap Khiri Khan",
+    "lat": "12.0828",
+    "lng": "99.8543",
+    "id": "1764298038"
+  },
+  {
+    "city": "Ban Pong Tao",
+    "city_ascii": "Ban Pong Tao",
+    "admin_name": "Lampang",
+    "lat": "18.8333",
+    "lng": "99.9500",
+    "id": "1764488080"
+  },
+  {
+    "city": "Ban Noen Kum Nueng",
+    "city_ascii": "Ban Noen Kum Nueng",
+    "admin_name": "Phitsanulok",
+    "lat": "16.5500",
+    "lng": "100.4167",
+    "id": "1764306020"
+  },
+  {
+    "city": "Ban Muang Kham",
+    "city_ascii": "Ban Muang Kham",
+    "admin_name": "Chiang Rai",
+    "lat": "19.5008",
+    "lng": "99.7466",
+    "id": "1764185323"
+  },
+  {
+    "city": "Takua Pa",
+    "city_ascii": "Takua Pa",
+    "admin_name": "Phangnga",
+    "lat": "8.8705",
+    "lng": "98.3438",
+    "id": "1764000562"
+  },
+  {
+    "city": "Ban Si Don Chai",
+    "city_ascii": "Ban Si Don Chai",
+    "admin_name": "Chiang Rai",
+    "lat": "20.1300",
+    "lng": "100.3614",
+    "id": "1764853542"
+  },
+  {
+    "city": "Chok Chai",
+    "city_ascii": "Chok Chai",
+    "admin_name": "Nakhon Ratchasima",
+    "lat": "14.7333",
+    "lng": "102.1667",
+    "id": "1764008665"
+  },
+  {
+    "city": "Ban Sai Yoi",
+    "city_ascii": "Ban Sai Yoi",
+    "admin_name": "Phitsanulok",
+    "lat": "16.4167",
+    "lng": "100.6000",
+    "id": "1764133988"
+  },
+  {
+    "city": "Pa Mok",
+    "city_ascii": "Pa Mok",
+    "admin_name": "Ang Thong",
+    "lat": "14.4899",
+    "lng": "100.4485",
+    "id": "1764706108"
+  },
+  {
+    "city": "Nam Som",
+    "city_ascii": "Nam Som",
+    "admin_name": "Udon Thani",
+    "lat": "17.7704",
+    "lng": "102.1895",
+    "id": "1764181212"
+  },
+  {
+    "city": "Phimai",
+    "city_ascii": "Phimai",
+    "admin_name": "Nakhon Ratchasima",
+    "lat": "15.2232",
+    "lng": "102.4947",
+    "id": "1764598578"
+  },
+  {
+    "city": "Yang Talat",
+    "city_ascii": "Yang Talat",
+    "admin_name": "Kalasin",
+    "lat": "16.3998",
+    "lng": "103.3678",
+    "id": "1764746980"
+  },
+  {
+    "city": "Pa Sang",
+    "city_ascii": "Pa Sang",
+    "admin_name": "Lamphun",
+    "lat": "18.5262",
+    "lng": "98.9394",
+    "id": "1764346712"
+  },
+  {
+    "city": "Wiang Haeng",
+    "city_ascii": "Wiang Haeng",
+    "admin_name": "Chiang Mai",
+    "lat": "19.5500",
+    "lng": "98.6500",
+    "id": "1764350186"
+  },
+  {
+    "city": "Ban Ratchakrut",
+    "city_ascii": "Ban Ratchakrut",
+    "admin_name": "Ranong",
+    "lat": "9.7392",
+    "lng": "98.5988",
+    "id": "1764197759"
+  },
+  {
+    "city": "Na Yung",
+    "city_ascii": "Na Yung",
+    "admin_name": "Udon Thani",
+    "lat": "17.8975",
+    "lng": "102.1498",
+    "id": "1764147446"
+  },
+  {
+    "city": "Ban Charoen Mueang",
+    "city_ascii": "Ban Charoen Mueang",
+    "admin_name": "Chiang Rai",
+    "lat": "19.6075",
+    "lng": "99.7547",
+    "id": "1764029573"
+  },
+  {
+    "city": "Ban Wat Phrik",
+    "city_ascii": "Ban Wat Phrik",
+    "admin_name": "Phitsanulok",
+    "lat": "16.7460",
+    "lng": "100.2750",
+    "id": "1764677008"
+  },
+  {
+    "city": "Mae Hong Son",
+    "city_ascii": "Mae Hong Son",
+    "admin_name": "Mae Hong Son",
+    "lat": "19.3011",
+    "lng": "97.9700",
+    "id": "1764090874"
+  },
+  {
+    "city": "Nonthaburi",
+    "city_ascii": "Nonthaburi",
+    "admin_name": "Nonthaburi",
+    "lat": "13.8667",
+    "lng": "100.5167",
+    "id": "1764667935"
+  },
+  {
+    "city": "Ban Huai Hin",
+    "city_ascii": "Ban Huai Hin",
+    "admin_name": "Phetchaburi",
+    "lat": "12.5697",
+    "lng": "99.9443",
+    "id": "1764975513"
+  }
+]

@@ -1,0 +1,1218 @@
+[
+  {
+    "city": "San Salvador",
+    "city_ascii": "San Salvador",
+    "admin_name": "San Salvador",
+    "lat": "13.6989",
+    "lng": "-89.1914",
+    "id": "1222647454"
+  },
+  {
+    "city": "San Miguel",
+    "city_ascii": "San Miguel",
+    "admin_name": "San Miguel",
+    "lat": "13.4814",
+    "lng": "-88.1775",
+    "id": "1222009747"
+  },
+  {
+    "city": "Soyapango",
+    "city_ascii": "Soyapango",
+    "admin_name": "San Salvador",
+    "lat": "13.7333",
+    "lng": "-89.1500",
+    "id": "1222702692"
+  },
+  {
+    "city": "Santa Ana",
+    "city_ascii": "Santa Ana",
+    "admin_name": "Santa Ana",
+    "lat": "13.9950",
+    "lng": "-89.5561",
+    "id": "1222021362"
+  },
+  {
+    "city": "Apopa",
+    "city_ascii": "Apopa",
+    "admin_name": "San Salvador",
+    "lat": "13.8000",
+    "lng": "-89.1833",
+    "id": "1222101845"
+  },
+  {
+    "city": "Tonacatepeque",
+    "city_ascii": "Tonacatepeque",
+    "admin_name": "San Salvador",
+    "lat": "13.7833",
+    "lng": "-89.1167",
+    "id": "1222948232"
+  },
+  {
+    "city": "Ilopango",
+    "city_ascii": "Ilopango",
+    "admin_name": "San Salvador",
+    "lat": "13.7000",
+    "lng": "-89.1167",
+    "id": "1222852644"
+  },
+  {
+    "city": "Mejicanos",
+    "city_ascii": "Mejicanos",
+    "admin_name": "San Salvador",
+    "lat": "13.7333",
+    "lng": "-89.2167",
+    "id": "1222243504"
+  },
+  {
+    "city": "Santa Tecla",
+    "city_ascii": "Santa Tecla",
+    "admin_name": "La Libertad",
+    "lat": "13.6731",
+    "lng": "-89.2406",
+    "id": "1222613306"
+  },
+  {
+    "city": "Ahuachapán",
+    "city_ascii": "Ahuachapan",
+    "admin_name": "Ahuachapán",
+    "lat": "13.9167",
+    "lng": "-89.8500",
+    "id": "1222480039"
+  },
+  {
+    "city": "Delgado",
+    "city_ascii": "Delgado",
+    "admin_name": "San Salvador",
+    "lat": "13.7167",
+    "lng": "-89.1667",
+    "id": "1222858341"
+  },
+  {
+    "city": "San Martín",
+    "city_ascii": "San Martin",
+    "admin_name": "San Salvador",
+    "lat": "13.7333",
+    "lng": "-89.0500",
+    "id": "1222884099"
+  },
+  {
+    "city": "Colón",
+    "city_ascii": "Colon",
+    "admin_name": "La Libertad",
+    "lat": "13.7167",
+    "lng": "-89.3667",
+    "id": "1222369620"
+  },
+  {
+    "city": "Usulután",
+    "city_ascii": "Usulutan",
+    "admin_name": "Usulután",
+    "lat": "13.3500",
+    "lng": "-88.4500",
+    "id": "1222984157"
+  },
+  {
+    "city": "Cuscatancingo",
+    "city_ascii": "Cuscatancingo",
+    "admin_name": "San Salvador",
+    "lat": "13.7333",
+    "lng": "-89.1833",
+    "id": "1222934169"
+  },
+  {
+    "city": "Izalco",
+    "city_ascii": "Izalco",
+    "admin_name": "Sonsonate",
+    "lat": "13.7333",
+    "lng": "-89.6667",
+    "id": "1222502574"
+  },
+  {
+    "city": "Zacatecoluca",
+    "city_ascii": "Zacatecoluca",
+    "admin_name": "La Paz",
+    "lat": "13.5000",
+    "lng": "-88.8667",
+    "id": "1222647953"
+  },
+  {
+    "city": "San Juan Opico",
+    "city_ascii": "San Juan Opico",
+    "admin_name": "La Libertad",
+    "lat": "13.8833",
+    "lng": "-89.3500",
+    "id": "1222760219"
+  },
+  {
+    "city": "San Marcos",
+    "city_ascii": "San Marcos",
+    "admin_name": "San Salvador",
+    "lat": "13.5833",
+    "lng": "-89.2167",
+    "id": "1222304332"
+  },
+  {
+    "city": "Coatepeque",
+    "city_ascii": "Coatepeque",
+    "admin_name": "Santa Ana",
+    "lat": "13.9167",
+    "lng": "-89.5000",
+    "id": "1222820033"
+  },
+  {
+    "city": "Aguilares",
+    "city_ascii": "Aguilares",
+    "admin_name": "San Salvador",
+    "lat": "13.9500",
+    "lng": "-89.1833",
+    "id": "1222041807"
+  },
+  {
+    "city": "Chalchuapa",
+    "city_ascii": "Chalchuapa",
+    "admin_name": "Santa Ana",
+    "lat": "13.9833",
+    "lng": "-89.6833",
+    "id": "1222559007"
+  },
+  {
+    "city": "Sonsonate",
+    "city_ascii": "Sonsonate",
+    "admin_name": "Sonsonate",
+    "lat": "13.7167",
+    "lng": "-89.7167",
+    "id": "1222380208"
+  },
+  {
+    "city": "Juayúa",
+    "city_ascii": "Juayua",
+    "admin_name": "Sonsonate",
+    "lat": "13.8333",
+    "lng": "-89.7333",
+    "id": "1222293042"
+  },
+  {
+    "city": "Ilobasco",
+    "city_ascii": "Ilobasco",
+    "admin_name": "Cabañas",
+    "lat": "13.8400",
+    "lng": "-88.8500",
+    "id": "1222256705"
+  },
+  {
+    "city": "Ciudad Arce",
+    "city_ascii": "Ciudad Arce",
+    "admin_name": "La Libertad",
+    "lat": "13.8333",
+    "lng": "-89.4333",
+    "id": "1222728065"
+  },
+  {
+    "city": "Metapán",
+    "city_ascii": "Metapan",
+    "admin_name": "Santa Ana",
+    "lat": "14.3314",
+    "lng": "-89.4428",
+    "id": "1222716890"
+  },
+  {
+    "city": "San Francisco Menéndez",
+    "city_ascii": "San Francisco Menendez",
+    "admin_name": "Ahuachapán",
+    "lat": "13.8425",
+    "lng": "-90.0167",
+    "id": "1222612864"
+  },
+  {
+    "city": "San Vicente",
+    "city_ascii": "San Vicente",
+    "admin_name": "San Vicente",
+    "lat": "13.6453",
+    "lng": "-88.7842",
+    "id": "1222913273"
+  },
+  {
+    "city": "Quezaltepeque",
+    "city_ascii": "Quezaltepeque",
+    "admin_name": "La Libertad",
+    "lat": "13.8333",
+    "lng": "-89.2667",
+    "id": "1222731128"
+  },
+  {
+    "city": "Ayutuxtepeque",
+    "city_ascii": "Ayutuxtepeque",
+    "admin_name": "San Salvador",
+    "lat": "13.0000",
+    "lng": "44.0000",
+    "id": "1222570043"
+  },
+  {
+    "city": "Cojutepeque",
+    "city_ascii": "Cojutepeque",
+    "admin_name": "Cuscatlán",
+    "lat": "13.7167",
+    "lng": "-88.9333",
+    "id": "1222979186"
+  },
+  {
+    "city": "Nahuizalco",
+    "city_ascii": "Nahuizalco",
+    "admin_name": "Sonsonate",
+    "lat": "13.7833",
+    "lng": "-89.7333",
+    "id": "1222682318"
+  },
+  {
+    "city": "Antiguo Cuscatlán",
+    "city_ascii": "Antiguo Cuscatlan",
+    "admin_name": "La Libertad",
+    "lat": "13.6731",
+    "lng": "-89.2406",
+    "id": "1222807849"
+  },
+  {
+    "city": "Jiquilisco",
+    "city_ascii": "Jiquilisco",
+    "admin_name": "Usulután",
+    "lat": "13.3167",
+    "lng": "-88.5833",
+    "id": "1222869394"
+  },
+  {
+    "city": "San Pedro Perulapán",
+    "city_ascii": "San Pedro Perulapan",
+    "admin_name": "Cuscatlán",
+    "lat": "13.7667",
+    "lng": "-89.0333",
+    "id": "1222471656"
+  },
+  {
+    "city": "San Antonio del Monte",
+    "city_ascii": "San Antonio del Monte",
+    "admin_name": "Sonsonate",
+    "lat": "13.7167",
+    "lng": "-89.7333",
+    "id": "1222683305"
+  },
+  {
+    "city": "Panchimalco",
+    "city_ascii": "Panchimalco",
+    "admin_name": "San Salvador",
+    "lat": "13.6167",
+    "lng": "-89.1833",
+    "id": "1222019251"
+  },
+  {
+    "city": "Sensuntepeque",
+    "city_ascii": "Sensuntepeque",
+    "admin_name": "Cabañas",
+    "lat": "13.8667",
+    "lng": "-88.6333",
+    "id": "1222098918"
+  },
+  {
+    "city": "Ciudad Barrios",
+    "city_ascii": "Ciudad Barrios",
+    "admin_name": "San Miguel",
+    "lat": "13.7667",
+    "lng": "-88.2667",
+    "id": "1222390192"
+  },
+  {
+    "city": "Jujutla",
+    "city_ascii": "Jujutla",
+    "admin_name": "Ahuachapán",
+    "lat": "13.7833",
+    "lng": "-89.8500",
+    "id": "1222833658"
+  },
+  {
+    "city": "La Unión",
+    "city_ascii": "La Union",
+    "admin_name": "La Unión",
+    "lat": "13.3369",
+    "lng": "-87.8439",
+    "id": "1222307415"
+  },
+  {
+    "city": "Santiago Nonualco",
+    "city_ascii": "Santiago Nonualco",
+    "admin_name": "La Paz",
+    "lat": "13.5167",
+    "lng": "-88.9500",
+    "id": "1222183134"
+  },
+  {
+    "city": "Conchagua",
+    "city_ascii": "Conchagua",
+    "admin_name": "La Unión",
+    "lat": "13.3000",
+    "lng": "-87.8667",
+    "id": "1222328489"
+  },
+  {
+    "city": "La Libertad",
+    "city_ascii": "La Libertad",
+    "admin_name": "La Libertad",
+    "lat": "13.4833",
+    "lng": "-89.3167",
+    "id": "1222663809"
+  },
+  {
+    "city": "Armenia",
+    "city_ascii": "Armenia",
+    "admin_name": "Sonsonate",
+    "lat": "13.7500",
+    "lng": "-89.5000",
+    "id": "1222071319"
+  },
+  {
+    "city": "Santa Rosa de Lima",
+    "city_ascii": "Santa Rosa de Lima",
+    "admin_name": "La Unión",
+    "lat": "13.6167",
+    "lng": "-87.9000",
+    "id": "1222685662"
+  },
+  {
+    "city": "Nejapa",
+    "city_ascii": "Nejapa",
+    "admin_name": "San Salvador",
+    "lat": "13.8167",
+    "lng": "-89.2333",
+    "id": "1222106178"
+  },
+  {
+    "city": "Atiquizaya",
+    "city_ascii": "Atiquizaya",
+    "admin_name": "Ahuachapán",
+    "lat": "13.9667",
+    "lng": "-89.7500",
+    "id": "1222716346"
+  },
+  {
+    "city": "Chalatenango",
+    "city_ascii": "Chalatenango",
+    "admin_name": "Chalatenango",
+    "lat": "14.0333",
+    "lng": "-88.9333",
+    "id": "1222515741"
+  },
+  {
+    "city": "Nueva Concepción",
+    "city_ascii": "Nueva Concepcion",
+    "admin_name": "Chalatenango",
+    "lat": "14.1333",
+    "lng": "-89.3000",
+    "id": "1222433381"
+  },
+  {
+    "city": "Tacuba",
+    "city_ascii": "Tacuba",
+    "admin_name": "Ahuachapán",
+    "lat": "13.9000",
+    "lng": "-89.9333",
+    "id": "1222693059"
+  },
+  {
+    "city": "Tecoluca",
+    "city_ascii": "Tecoluca",
+    "admin_name": "San Vicente",
+    "lat": "13.5333",
+    "lng": "-88.7833",
+    "id": "1222261273"
+  },
+  {
+    "city": "Acajutla",
+    "city_ascii": "Acajutla",
+    "admin_name": "Sonsonate",
+    "lat": "13.5900",
+    "lng": "-89.8336",
+    "id": "1222402975"
+  },
+  {
+    "city": "Zaragoza",
+    "city_ascii": "Zaragoza",
+    "admin_name": "La Libertad",
+    "lat": "13.5833",
+    "lng": "-89.2833",
+    "id": "1222511136"
+  },
+  {
+    "city": "Olocuilta",
+    "city_ascii": "Olocuilta",
+    "admin_name": "La Paz",
+    "lat": "13.5667",
+    "lng": "-89.1167",
+    "id": "1222567022"
+  },
+  {
+    "city": "El Tránsito",
+    "city_ascii": "El Transito",
+    "admin_name": "San Miguel",
+    "lat": "13.3500",
+    "lng": "-88.3500",
+    "id": "1222690970"
+  },
+  {
+    "city": "San Pedro Masahuat",
+    "city_ascii": "San Pedro Masahuat",
+    "admin_name": "La Paz",
+    "lat": "13.5500",
+    "lng": "-89.0333",
+    "id": "1222970423"
+  },
+  {
+    "city": "Santo Tomás",
+    "city_ascii": "Santo Tomas",
+    "admin_name": "San Salvador",
+    "lat": "13.6333",
+    "lng": "-89.1333",
+    "id": "1222067749"
+  },
+  {
+    "city": "Sonzacate",
+    "city_ascii": "Sonzacate",
+    "admin_name": "Sonsonate",
+    "lat": "13.7356",
+    "lng": "-89.7161",
+    "id": "1222944408"
+  },
+  {
+    "city": "Suchitoto",
+    "city_ascii": "Suchitoto",
+    "admin_name": "Cuscatlán",
+    "lat": "13.9333",
+    "lng": "-89.0333",
+    "id": "1222451223"
+  },
+  {
+    "city": "Guaymango",
+    "city_ascii": "Guaymango",
+    "admin_name": "Ahuachapán",
+    "lat": "13.7500",
+    "lng": "-89.8333",
+    "id": "1222351635"
+  },
+  {
+    "city": "El Congo",
+    "city_ascii": "El Congo",
+    "admin_name": "Santa Ana",
+    "lat": "13.9000",
+    "lng": "-89.4833",
+    "id": "1222555785"
+  },
+  {
+    "city": "La Palma",
+    "city_ascii": "La Palma",
+    "admin_name": "Chalatenango",
+    "lat": "14.3167",
+    "lng": "-89.1667",
+    "id": "1222549274"
+  },
+  {
+    "city": "Chirilagua",
+    "city_ascii": "Chirilagua",
+    "admin_name": "San Miguel",
+    "lat": "13.2167",
+    "lng": "-88.1386",
+    "id": "1222360893"
+  },
+  {
+    "city": "Candelaria de La Frontera",
+    "city_ascii": "Candelaria de La Frontera",
+    "admin_name": "Santa Ana",
+    "lat": "14.1167",
+    "lng": "-89.6500",
+    "id": "1222926680"
+  },
+  {
+    "city": "Moncagua",
+    "city_ascii": "Moncagua",
+    "admin_name": "San Miguel",
+    "lat": "13.5333",
+    "lng": "-88.2500",
+    "id": "1222775983"
+  },
+  {
+    "city": "Chinameca",
+    "city_ascii": "Chinameca",
+    "admin_name": "San Miguel",
+    "lat": "13.5000",
+    "lng": "-88.3500",
+    "id": "1222091549"
+  },
+  {
+    "city": "San Buenaventura",
+    "city_ascii": "San Buenaventura",
+    "admin_name": "Usulután",
+    "lat": "13.5333",
+    "lng": "-88.3833",
+    "id": "1222825674"
+  },
+  {
+    "city": "San Luis Talpa",
+    "city_ascii": "San Luis Talpa",
+    "admin_name": "La Paz",
+    "lat": "13.4667",
+    "lng": "-89.0833",
+    "id": "1222408635"
+  },
+  {
+    "city": "San Francisco",
+    "city_ascii": "San Francisco",
+    "admin_name": "Morazán",
+    "lat": "13.7000",
+    "lng": "-88.1000",
+    "id": "1222399599"
+  },
+  {
+    "city": "San Pablo Tacachico",
+    "city_ascii": "San Pablo Tacachico",
+    "admin_name": "La Libertad",
+    "lat": "13.9833",
+    "lng": "-89.3333",
+    "id": "1222464650"
+  },
+  {
+    "city": "Tejutepeque",
+    "city_ascii": "Tejutepeque",
+    "admin_name": "Cabañas",
+    "lat": "13.8500",
+    "lng": "-88.9000",
+    "id": "1222049873"
+  },
+  {
+    "city": "Apastepeque",
+    "city_ascii": "Apastepeque",
+    "admin_name": "San Vicente",
+    "lat": "13.6667",
+    "lng": "-88.7667",
+    "id": "1222195494"
+  },
+  {
+    "city": "Santiago Texacuangos",
+    "city_ascii": "Santiago Texacuangos",
+    "admin_name": "San Salvador",
+    "lat": "13.6500",
+    "lng": "-89.1167",
+    "id": "1222859867"
+  },
+  {
+    "city": "San Julián",
+    "city_ascii": "San Julian",
+    "admin_name": "Sonsonate",
+    "lat": "13.6976",
+    "lng": "-89.5596",
+    "id": "1222097757"
+  },
+  {
+    "city": "San Sebastián Salitrillo",
+    "city_ascii": "San Sebastian Salitrillo",
+    "admin_name": "Santa Ana",
+    "lat": "13.9500",
+    "lng": "-89.6333",
+    "id": "1222442997"
+  },
+  {
+    "city": "Jucuapa",
+    "city_ascii": "Jucuapa",
+    "admin_name": "Usulután",
+    "lat": "13.5167",
+    "lng": "-88.3833",
+    "id": "1222623868"
+  },
+  {
+    "city": "Santiago de María",
+    "city_ascii": "Santiago de Maria",
+    "admin_name": "Usulután",
+    "lat": "13.4833",
+    "lng": "-88.4667",
+    "id": "1222971304"
+  },
+  {
+    "city": "Concepción de Ataco",
+    "city_ascii": "Concepcion de Ataco",
+    "admin_name": "Ahuachapán",
+    "lat": "13.8667",
+    "lng": "-89.8500",
+    "id": "1222271937"
+  },
+  {
+    "city": "San Alejo",
+    "city_ascii": "San Alejo",
+    "admin_name": "La Unión",
+    "lat": "13.4333",
+    "lng": "-87.9667",
+    "id": "1222190285"
+  },
+  {
+    "city": "Texistepeque",
+    "city_ascii": "Texistepeque",
+    "admin_name": "Santa Ana",
+    "lat": "14.1333",
+    "lng": "-89.5000",
+    "id": "1222835765"
+  },
+  {
+    "city": "Berlín",
+    "city_ascii": "Berlin",
+    "admin_name": "Usulután",
+    "lat": "13.5000",
+    "lng": "-88.5333",
+    "id": "1222050508"
+  },
+  {
+    "city": "Pasaquina",
+    "city_ascii": "Pasaquina",
+    "admin_name": "La Unión",
+    "lat": "13.5844",
+    "lng": "-87.8411",
+    "id": "1222645421"
+  },
+  {
+    "city": "San Rafael Cedros",
+    "city_ascii": "San Rafael Cedros",
+    "admin_name": "Cuscatlán",
+    "lat": "13.7333",
+    "lng": "-88.8833",
+    "id": "1222366819"
+  },
+  {
+    "city": "Chapeltique",
+    "city_ascii": "Chapeltique",
+    "admin_name": "San Miguel",
+    "lat": "13.6333",
+    "lng": "-88.2667",
+    "id": "1222915994"
+  },
+  {
+    "city": "Anamorós",
+    "city_ascii": "Anamoros",
+    "admin_name": "La Unión",
+    "lat": "13.7333",
+    "lng": "-87.8667",
+    "id": "1222875440"
+  },
+  {
+    "city": "Puerto El Triunfo",
+    "city_ascii": "Puerto El Triunfo",
+    "admin_name": "Usulután",
+    "lat": "13.2833",
+    "lng": "-88.5500",
+    "id": "1222465303"
+  },
+  {
+    "city": "San Ignacio",
+    "city_ascii": "San Ignacio",
+    "admin_name": "Chalatenango",
+    "lat": "14.3333",
+    "lng": "-89.1833",
+    "id": "1222199797"
+  },
+  {
+    "city": "Lolotique",
+    "city_ascii": "Lolotique",
+    "admin_name": "San Miguel",
+    "lat": "13.5500",
+    "lng": "-88.3500",
+    "id": "1222136023"
+  },
+  {
+    "city": "El Paisnal",
+    "city_ascii": "El Paisnal",
+    "admin_name": "San Salvador",
+    "lat": "13.9667",
+    "lng": "-89.2167",
+    "id": "1222184186"
+  },
+  {
+    "city": "Huizúcar",
+    "city_ascii": "Huizucar",
+    "admin_name": "La Libertad",
+    "lat": "13.5833",
+    "lng": "-89.2333",
+    "id": "1222927503"
+  },
+  {
+    "city": "San Sebastián",
+    "city_ascii": "San Sebastian",
+    "admin_name": "San Vicente",
+    "lat": "13.7333",
+    "lng": "-88.8333",
+    "id": "1222133372"
+  },
+  {
+    "city": "Concepción Quezaltepeque",
+    "city_ascii": "Concepcion Quezaltepeque",
+    "admin_name": "Chalatenango",
+    "lat": "14.0833",
+    "lng": "-88.9500",
+    "id": "1222071678"
+  },
+  {
+    "city": "Tepecoyo",
+    "city_ascii": "Tepecoyo",
+    "admin_name": "La Libertad",
+    "lat": "13.7003",
+    "lng": "-89.4678",
+    "id": "1222039134"
+  },
+  {
+    "city": "Tejutla",
+    "city_ascii": "Tejutla",
+    "admin_name": "Chalatenango",
+    "lat": "14.1667",
+    "lng": "-89.1000",
+    "id": "1222169556"
+  },
+  {
+    "city": "Tamanique",
+    "city_ascii": "Tamanique",
+    "admin_name": "La Libertad",
+    "lat": "13.6000",
+    "lng": "-89.4167",
+    "id": "1222928536"
+  },
+  {
+    "city": "Jucuarán",
+    "city_ascii": "Jucuaran",
+    "admin_name": "Usulután",
+    "lat": "13.2544",
+    "lng": "-88.2489",
+    "id": "1222034395"
+  },
+  {
+    "city": "El Carmen",
+    "city_ascii": "El Carmen",
+    "admin_name": "Cuscatlán",
+    "lat": "13.7167",
+    "lng": "-88.9000",
+    "id": "1222575606"
+  },
+  {
+    "city": "San Rafael Oriente",
+    "city_ascii": "San Rafael Oriente",
+    "admin_name": "San Miguel",
+    "lat": "13.3833",
+    "lng": "-88.3500",
+    "id": "1222301206"
+  },
+  {
+    "city": "Mercedes Umaña",
+    "city_ascii": "Mercedes Umana",
+    "admin_name": "Usulután",
+    "lat": "13.5667",
+    "lng": "-88.5000",
+    "id": "1222697666"
+  },
+  {
+    "city": "El Paraíso",
+    "city_ascii": "El Paraiso",
+    "admin_name": "Chalatenango",
+    "lat": "14.0833",
+    "lng": "-89.0833",
+    "id": "1222422397"
+  },
+  {
+    "city": "Cuisnahuat",
+    "city_ascii": "Cuisnahuat",
+    "admin_name": "Sonsonate",
+    "lat": "13.6333",
+    "lng": "-89.6000",
+    "id": "1222033035"
+  },
+  {
+    "city": "Victoria",
+    "city_ascii": "Victoria",
+    "admin_name": "Cabañas",
+    "lat": "13.9500",
+    "lng": "-88.6333",
+    "id": "1222943235"
+  },
+  {
+    "city": "Ozatlán",
+    "city_ascii": "Ozatlan",
+    "admin_name": "Usulután",
+    "lat": "13.3833",
+    "lng": "-88.5000",
+    "id": "1222834795"
+  },
+  {
+    "city": "El Carmen",
+    "city_ascii": "El Carmen",
+    "admin_name": "La Unión",
+    "lat": "13.3500",
+    "lng": "-88.0000",
+    "id": "1222743777"
+  },
+  {
+    "city": "Teotepeque",
+    "city_ascii": "Teotepeque",
+    "admin_name": "La Libertad",
+    "lat": "13.5853",
+    "lng": "-89.5183",
+    "id": "1222208271"
+  },
+  {
+    "city": "Sacacoyo",
+    "city_ascii": "Sacacoyo",
+    "admin_name": "La Libertad",
+    "lat": "13.7333",
+    "lng": "-89.4667",
+    "id": "1222848424"
+  },
+  {
+    "city": "Santa Cruz Michapa",
+    "city_ascii": "Santa Cruz Michapa",
+    "admin_name": "Cuscatlán",
+    "lat": "13.7333",
+    "lng": "-88.9667",
+    "id": "1222002507"
+  },
+  {
+    "city": "Concepción Batres",
+    "city_ascii": "Concepcion Batres",
+    "admin_name": "Usulután",
+    "lat": "13.3500",
+    "lng": "-88.3667",
+    "id": "1222538524"
+  },
+  {
+    "city": "San Pedro Nonualco",
+    "city_ascii": "San Pedro Nonualco",
+    "admin_name": "La Paz",
+    "lat": "13.6000",
+    "lng": "-88.9333",
+    "id": "1222378780"
+  },
+  {
+    "city": "Comasagua",
+    "city_ascii": "Comasagua",
+    "admin_name": "La Libertad",
+    "lat": "13.6333",
+    "lng": "-89.3833",
+    "id": "1222625314"
+  },
+  {
+    "city": "Turín",
+    "city_ascii": "Turin",
+    "admin_name": "Ahuachapán",
+    "lat": "13.9667",
+    "lng": "-89.8167",
+    "id": "1222996582"
+  },
+  {
+    "city": "Guatajiagua",
+    "city_ascii": "Guatajiagua",
+    "admin_name": "Morazán",
+    "lat": "13.6667",
+    "lng": "-88.2000",
+    "id": "1222986309"
+  },
+  {
+    "city": "Alegría",
+    "city_ascii": "Alegria",
+    "admin_name": "Usulután",
+    "lat": "13.5000",
+    "lng": "-88.4833",
+    "id": "1222469913"
+  },
+  {
+    "city": "Sociedad",
+    "city_ascii": "Sociedad",
+    "admin_name": "Morazán",
+    "lat": "13.7000",
+    "lng": "-88.0167",
+    "id": "1222392301"
+  },
+  {
+    "city": "San Rafael Obrajuelo",
+    "city_ascii": "San Rafael Obrajuelo",
+    "admin_name": "La Paz",
+    "lat": "13.5000",
+    "lng": "-88.9333",
+    "id": "1222700653"
+  },
+  {
+    "city": "Rosario de Mora",
+    "city_ascii": "Rosario de Mora",
+    "admin_name": "San Salvador",
+    "lat": "13.5833",
+    "lng": "-89.2167",
+    "id": "1222795595"
+  },
+  {
+    "city": "Jayaque",
+    "city_ascii": "Jayaque",
+    "admin_name": "La Libertad",
+    "lat": "13.6667",
+    "lng": "-89.4333",
+    "id": "1222113291"
+  },
+  {
+    "city": "Caluco",
+    "city_ascii": "Caluco",
+    "admin_name": "Sonsonate",
+    "lat": "13.7167",
+    "lng": "-89.6500",
+    "id": "1222488164"
+  },
+  {
+    "city": "Cacaopera",
+    "city_ascii": "Cacaopera",
+    "admin_name": "Morazán",
+    "lat": "13.7667",
+    "lng": "-88.0833",
+    "id": "1222915809"
+  },
+  {
+    "city": "Chiltiupán",
+    "city_ascii": "Chiltiupan",
+    "admin_name": "La Libertad",
+    "lat": "13.5833",
+    "lng": "-89.4667",
+    "id": "1222311866"
+  },
+  {
+    "city": "Santa María",
+    "city_ascii": "Santa Maria",
+    "admin_name": "Usulután",
+    "lat": "13.3500",
+    "lng": "-88.4333",
+    "id": "1222973586"
+  },
+  {
+    "city": "Sesori",
+    "city_ascii": "Sesori",
+    "admin_name": "San Miguel",
+    "lat": "13.7167",
+    "lng": "-88.3667",
+    "id": "1222371980"
+  },
+  {
+    "city": "San Isidro",
+    "city_ascii": "San Isidro",
+    "admin_name": "Cabañas",
+    "lat": "13.8333",
+    "lng": "-88.7167",
+    "id": "1222909043"
+  },
+  {
+    "city": "Nahulingo",
+    "city_ascii": "Nahulingo",
+    "admin_name": "Sonsonate",
+    "lat": "13.7000",
+    "lng": "-89.7167",
+    "id": "1222747798"
+  },
+  {
+    "city": "El Refugio",
+    "city_ascii": "El Refugio",
+    "admin_name": "Ahuachapán",
+    "lat": "13.9750",
+    "lng": "-89.7072",
+    "id": "1222663684"
+  },
+  {
+    "city": "Osicala",
+    "city_ascii": "Osicala",
+    "admin_name": "Morazán",
+    "lat": "13.8000",
+    "lng": "-88.1500",
+    "id": "1222316940"
+  },
+  {
+    "city": "Candelaria",
+    "city_ascii": "Candelaria",
+    "admin_name": "Cuscatlán",
+    "lat": "13.7500",
+    "lng": "-88.9500",
+    "id": "1222584902"
+  },
+  {
+    "city": "Santa Isabel Ishuatán",
+    "city_ascii": "Santa Isabel Ishuatan",
+    "admin_name": "Sonsonate",
+    "lat": "13.6167",
+    "lng": "-89.5833",
+    "id": "1222753045"
+  },
+  {
+    "city": "Monte San Juan",
+    "city_ascii": "Monte San Juan",
+    "admin_name": "Cuscatlán",
+    "lat": "13.7667",
+    "lng": "-88.9500",
+    "id": "1222428135"
+  },
+  {
+    "city": "San Simón",
+    "city_ascii": "San Simon",
+    "admin_name": "Morazán",
+    "lat": "13.8333",
+    "lng": "-88.2333",
+    "id": "1222320015"
+  },
+  {
+    "city": "Candelaria",
+    "city_ascii": "Candelaria",
+    "admin_name": "Cuscatlán",
+    "lat": "13.6833",
+    "lng": "-88.9833",
+    "id": "1222433087"
+  },
+  {
+    "city": "Santa Catarina Masahuat",
+    "city_ascii": "Santa Catarina Masahuat",
+    "admin_name": "Sonsonate",
+    "lat": "13.7833",
+    "lng": "-89.7667",
+    "id": "1222501280"
+  },
+  {
+    "city": "San Ildefonso",
+    "city_ascii": "San Ildefonso",
+    "admin_name": "San Vicente",
+    "lat": "13.7000",
+    "lng": "-88.5667",
+    "id": "1222650956"
+  },
+  {
+    "city": "Corinto",
+    "city_ascii": "Corinto",
+    "admin_name": "Morazán",
+    "lat": "13.8167",
+    "lng": "-87.9667",
+    "id": "1222976576"
+  },
+  {
+    "city": "San Bartolomé Perulapía",
+    "city_ascii": "San Bartolome Perulapia",
+    "admin_name": "Cuscatlán",
+    "lat": "13.7658",
+    "lng": "-89.0508",
+    "id": "1222745910"
+  },
+  {
+    "city": "San José Villanueva",
+    "city_ascii": "San Jose Villanueva",
+    "admin_name": "La Libertad",
+    "lat": "13.5833",
+    "lng": "-89.2667",
+    "id": "1222497651"
+  },
+  {
+    "city": "Polorós",
+    "city_ascii": "Poloros",
+    "admin_name": "La Unión",
+    "lat": "13.5844",
+    "lng": "-87.8411",
+    "id": "1222036180"
+  },
+  {
+    "city": "Chilanga",
+    "city_ascii": "Chilanga",
+    "admin_name": "Morazán",
+    "lat": "13.7167",
+    "lng": "-88.1167",
+    "id": "1222531910"
+  },
+  {
+    "city": "La Reina",
+    "city_ascii": "La Reina",
+    "admin_name": "Chalatenango",
+    "lat": "14.1833",
+    "lng": "-89.1500",
+    "id": "1222331926"
+  },
+  {
+    "city": "San José Guayabal",
+    "city_ascii": "San Jose Guayabal",
+    "admin_name": "Cuscatlán",
+    "lat": "13.8500",
+    "lng": "-89.1000",
+    "id": "1222743447"
+  },
+  {
+    "city": "San Lorenzo",
+    "city_ascii": "San Lorenzo",
+    "admin_name": "Ahuachapán",
+    "lat": "14.0333",
+    "lng": "-89.7833",
+    "id": "1222167385"
+  },
+  {
+    "city": "Talnique",
+    "city_ascii": "Talnique",
+    "admin_name": "La Libertad",
+    "lat": "13.6667",
+    "lng": "-89.4000",
+    "id": "1222835178"
+  },
+  {
+    "city": "Santiago de La Frontera",
+    "city_ascii": "Santiago de La Frontera",
+    "admin_name": "Santa Ana",
+    "lat": "14.1667",
+    "lng": "-89.6000",
+    "id": "1222227685"
+  },
+  {
+    "city": "San Jorge",
+    "city_ascii": "San Jorge",
+    "admin_name": "San Miguel",
+    "lat": "13.4167",
+    "lng": "-88.3500",
+    "id": "1222919359"
+  },
+  {
+    "city": "San Jorge",
+    "city_ascii": "San Jorge",
+    "admin_name": "San Miguel",
+    "lat": "13.4167",
+    "lng": "-88.3500",
+    "id": "1222915945"
+  },
+  {
+    "city": "Estanzuelas",
+    "city_ascii": "Estanzuelas",
+    "admin_name": "Usulután",
+    "lat": "13.6500",
+    "lng": "-88.5000",
+    "id": "1222473531"
+  },
+  {
+    "city": "Nueva Guadalupe",
+    "city_ascii": "Nueva Guadalupe",
+    "admin_name": "San Miguel",
+    "lat": "13.5333",
+    "lng": "-88.3500",
+    "id": "1222469128"
+  },
+  {
+    "city": "Dulce Nombre de María",
+    "city_ascii": "Dulce Nombre de Maria",
+    "admin_name": "Chalatenango",
+    "lat": "14.1500",
+    "lng": "-89.0167",
+    "id": "1222936599"
+  },
+  {
+    "city": "Apaneca",
+    "city_ascii": "Apaneca",
+    "admin_name": "Ahuachapán",
+    "lat": "13.8500",
+    "lng": "-89.8000",
+    "id": "1222944097"
+  },
+  {
+    "city": "San Pedro Puxtla",
+    "city_ascii": "San Pedro Puxtla",
+    "admin_name": "Ahuachapán",
+    "lat": "13.7667",
+    "lng": "-89.8000",
+    "id": "1222433418"
+  }
+]

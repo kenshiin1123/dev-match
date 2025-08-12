@@ -1,0 +1,1202 @@
+[
+  {
+    "city": "Stockholm",
+    "city_ascii": "Stockholm",
+    "admin_name": "Stockholm",
+    "lat": "59.3275",
+    "lng": "18.0547",
+    "id": "1752425602"
+  },
+  {
+    "city": "Gothenburg",
+    "city_ascii": "Gothenburg",
+    "admin_name": "Västra Götaland",
+    "lat": "57.7075",
+    "lng": "11.9675",
+    "id": "1752059374"
+  },
+  {
+    "city": "Malmö",
+    "city_ascii": "Malmo",
+    "admin_name": "Skåne",
+    "lat": "55.5833",
+    "lng": "13.0333",
+    "id": "1752705818"
+  },
+  {
+    "city": "Uppsala",
+    "city_ascii": "Uppsala",
+    "admin_name": "Uppsala",
+    "lat": "59.8498",
+    "lng": "17.6389",
+    "id": "1752953686"
+  },
+  {
+    "city": "Norrköping",
+    "city_ascii": "Norrkoping",
+    "admin_name": "Östergötland",
+    "lat": "58.5919",
+    "lng": "16.1856",
+    "id": "1752803583"
+  },
+  {
+    "city": "Uppsala",
+    "city_ascii": "Uppsala",
+    "admin_name": "Stockholm",
+    "lat": "59.8601",
+    "lng": "17.6400",
+    "id": "1752330831"
+  },
+  {
+    "city": "Västerås",
+    "city_ascii": "Vasteras",
+    "admin_name": "Västmanland",
+    "lat": "59.6173",
+    "lng": "16.5422",
+    "id": "1752826955"
+  },
+  {
+    "city": "Örebro",
+    "city_ascii": "Orebro",
+    "admin_name": "Örebro",
+    "lat": "59.2669",
+    "lng": "15.1965",
+    "id": "1752223019"
+  },
+  {
+    "city": "Linköping",
+    "city_ascii": "Linkoping",
+    "admin_name": "Östergötland",
+    "lat": "58.4094",
+    "lng": "15.6257",
+    "id": "1752963378"
+  },
+  {
+    "city": "Helsingborg",
+    "city_ascii": "Helsingborg",
+    "admin_name": "Skåne",
+    "lat": "56.0424",
+    "lng": "12.7210",
+    "id": "1752789933"
+  },
+  {
+    "city": "Borås",
+    "city_ascii": "Boras",
+    "admin_name": "Västra Götaland",
+    "lat": "57.7304",
+    "lng": "12.9200",
+    "id": "1752555835"
+  },
+  {
+    "city": "Jönköping",
+    "city_ascii": "Jonkoping",
+    "admin_name": "Jönköping",
+    "lat": "57.7713",
+    "lng": "14.1650",
+    "id": "1752079041"
+  },
+  {
+    "city": "Sundsvall",
+    "city_ascii": "Sundsvall",
+    "admin_name": "Västernorrland",
+    "lat": "62.4001",
+    "lng": "17.3167",
+    "id": "1752024232"
+  },
+  {
+    "city": "Umeå",
+    "city_ascii": "Umea",
+    "admin_name": "Västerbotten",
+    "lat": "63.8285",
+    "lng": "20.2706",
+    "id": "1752273881"
+  },
+  {
+    "city": "Gävle",
+    "city_ascii": "Gavle",
+    "admin_name": "Gävleborg",
+    "lat": "60.6748",
+    "lng": "17.1444",
+    "id": "1752586931"
+  },
+  {
+    "city": "Skellefteå",
+    "city_ascii": "Skelleftea",
+    "admin_name": "Västerbotten",
+    "lat": "64.6500",
+    "lng": "20.8500",
+    "id": "1752233025"
+  },
+  {
+    "city": "Södertälje",
+    "city_ascii": "Sodertalje",
+    "admin_name": "Stockholm",
+    "lat": "59.1978",
+    "lng": "17.6272",
+    "id": "1752403970"
+  },
+  {
+    "city": "Halmstad",
+    "city_ascii": "Halmstad",
+    "admin_name": "Halland",
+    "lat": "56.6718",
+    "lng": "12.8556",
+    "id": "1752392511"
+  },
+  {
+    "city": "Eskilstuna",
+    "city_ascii": "Eskilstuna",
+    "admin_name": "Södermanland",
+    "lat": "59.3674",
+    "lng": "16.5160",
+    "id": "1752784934"
+  },
+  {
+    "city": "Karlskrona",
+    "city_ascii": "Karlskrona",
+    "admin_name": "Blekinge",
+    "lat": "56.1611",
+    "lng": "15.5881",
+    "id": "1752316086"
+  },
+  {
+    "city": "Växjö",
+    "city_ascii": "Vaxjo",
+    "admin_name": "Kronoberg",
+    "lat": "56.8837",
+    "lng": "14.8167",
+    "id": "1752263370"
+  },
+  {
+    "city": "Karlstad",
+    "city_ascii": "Karlstad",
+    "admin_name": "Värmland",
+    "lat": "59.3671",
+    "lng": "13.4999",
+    "id": "1752502445"
+  },
+  {
+    "city": "Täby",
+    "city_ascii": "Taby",
+    "admin_name": "Stockholm",
+    "lat": "59.5000",
+    "lng": "18.0500",
+    "id": "1752810519"
+  },
+  {
+    "city": "Trollhättan",
+    "city_ascii": "Trollhattan",
+    "admin_name": "Västra Götaland",
+    "lat": "58.2671",
+    "lng": "12.3000",
+    "id": "1752863731"
+  },
+  {
+    "city": "Östersund",
+    "city_ascii": "Ostersund",
+    "admin_name": "Jämtland",
+    "lat": "63.1833",
+    "lng": "14.6500",
+    "id": "1752026711"
+  },
+  {
+    "city": "Luleå",
+    "city_ascii": "Lulea",
+    "admin_name": "Norrbotten",
+    "lat": "65.5838",
+    "lng": "22.1915",
+    "id": "1752765449"
+  },
+  {
+    "city": "Upplands Väsby",
+    "city_ascii": "Upplands Vasby",
+    "admin_name": "Stockholm",
+    "lat": "59.5167",
+    "lng": "17.9000",
+    "id": "1752271400"
+  },
+  {
+    "city": "Lidingö",
+    "city_ascii": "Lidingo",
+    "admin_name": "Stockholm",
+    "lat": "59.3630",
+    "lng": "18.1510",
+    "id": "1752051674"
+  },
+  {
+    "city": "Borlänge",
+    "city_ascii": "Borlange",
+    "admin_name": "Dalarna",
+    "lat": "60.4833",
+    "lng": "15.4167",
+    "id": "1752944924"
+  },
+  {
+    "city": "Trelleborg",
+    "city_ascii": "Trelleborg",
+    "admin_name": "Skåne",
+    "lat": "55.3667",
+    "lng": "13.1667",
+    "id": "1752823325"
+  },
+  {
+    "city": "Kalmar",
+    "city_ascii": "Kalmar",
+    "admin_name": "Kalmar",
+    "lat": "56.6643",
+    "lng": "16.3656",
+    "id": "1752640618"
+  },
+  {
+    "city": "Ängelholm",
+    "city_ascii": "Angelholm",
+    "admin_name": "Skåne",
+    "lat": "56.2500",
+    "lng": "12.8667",
+    "id": "1752870016"
+  },
+  {
+    "city": "Skövde",
+    "city_ascii": "Skovde",
+    "admin_name": "Västra Götaland",
+    "lat": "58.3995",
+    "lng": "13.8538",
+    "id": "1752316649"
+  },
+  {
+    "city": "Vänersborg",
+    "city_ascii": "Vanersborg",
+    "admin_name": "Västra Götaland",
+    "lat": "58.3833",
+    "lng": "12.3167",
+    "id": "1752467593"
+  },
+  {
+    "city": "Lidköping",
+    "city_ascii": "Lidkoping",
+    "admin_name": "Västra Götaland",
+    "lat": "58.5000",
+    "lng": "13.1667",
+    "id": "1752263259"
+  },
+  {
+    "city": "Nyköping",
+    "city_ascii": "Nykoping",
+    "admin_name": "Södermanland",
+    "lat": "58.7582",
+    "lng": "17.0185",
+    "id": "1752377083"
+  },
+  {
+    "city": "Strängnäs",
+    "city_ascii": "Strangnas",
+    "admin_name": "Södermanland",
+    "lat": "59.3833",
+    "lng": "17.0333",
+    "id": "1752111370"
+  },
+  {
+    "city": "Alingsås",
+    "city_ascii": "Alingsas",
+    "admin_name": "Västra Götaland",
+    "lat": "57.9333",
+    "lng": "12.5167",
+    "id": "1752378437"
+  },
+  {
+    "city": "Tumba",
+    "city_ascii": "Tumba",
+    "admin_name": "Stockholm",
+    "lat": "59.2000",
+    "lng": "17.8167",
+    "id": "1752693397"
+  },
+  {
+    "city": "Falun",
+    "city_ascii": "Falun",
+    "admin_name": "Dalarna",
+    "lat": "60.6130",
+    "lng": "15.6470",
+    "id": "1752939220"
+  },
+  {
+    "city": "Mölndal",
+    "city_ascii": "Molndal",
+    "admin_name": "Västra Götaland",
+    "lat": "57.6542",
+    "lng": "12.0139",
+    "id": "1752307790"
+  },
+  {
+    "city": "Västervik",
+    "city_ascii": "Vastervik",
+    "admin_name": "Kalmar",
+    "lat": "57.7500",
+    "lng": "16.6333",
+    "id": "1752051923"
+  },
+  {
+    "city": "Varberg",
+    "city_ascii": "Varberg",
+    "admin_name": "Halland",
+    "lat": "57.1086",
+    "lng": "12.2661",
+    "id": "1752538180"
+  },
+  {
+    "city": "Uddevalla",
+    "city_ascii": "Uddevalla",
+    "admin_name": "Västra Götaland",
+    "lat": "58.3667",
+    "lng": "11.9333",
+    "id": "1752935117"
+  },
+  {
+    "city": "Landskrona",
+    "city_ascii": "Landskrona",
+    "admin_name": "Skåne",
+    "lat": "55.8667",
+    "lng": "12.8333",
+    "id": "1752529229"
+  },
+  {
+    "city": "Örnsköldsvik",
+    "city_ascii": "Ornskoldsvik",
+    "admin_name": "Västernorrland",
+    "lat": "63.2940",
+    "lng": "18.7122",
+    "id": "1752250773"
+  },
+  {
+    "city": "Kävlinge",
+    "city_ascii": "Kavlinge",
+    "admin_name": "Skåne",
+    "lat": "55.8000",
+    "lng": "13.1000",
+    "id": "1752983535"
+  },
+  {
+    "city": "Kristianstad",
+    "city_ascii": "Kristianstad",
+    "admin_name": "Skåne",
+    "lat": "56.0337",
+    "lng": "14.1333",
+    "id": "1752606470"
+  },
+  {
+    "city": "Staffanstorp",
+    "city_ascii": "Staffanstorp",
+    "admin_name": "Skåne",
+    "lat": "55.6333",
+    "lng": "13.2167",
+    "id": "1752021671"
+  },
+  {
+    "city": "Motala",
+    "city_ascii": "Motala",
+    "admin_name": "Östergötland",
+    "lat": "58.5500",
+    "lng": "15.0500",
+    "id": "1752105097"
+  },
+  {
+    "city": "Vallentuna",
+    "city_ascii": "Vallentuna",
+    "admin_name": "Stockholm",
+    "lat": "59.5333",
+    "lng": "18.0833",
+    "id": "1752629377"
+  },
+  {
+    "city": "Ystad",
+    "city_ascii": "Ystad",
+    "admin_name": "Skåne",
+    "lat": "55.4167",
+    "lng": "13.8167",
+    "id": "1752657171"
+  },
+  {
+    "city": "Åkersberga",
+    "city_ascii": "Akersberga",
+    "admin_name": "Stockholm",
+    "lat": "59.4833",
+    "lng": "18.3000",
+    "id": "1752878685"
+  },
+  {
+    "city": "Karlskoga",
+    "city_ascii": "Karlskoga",
+    "admin_name": "Örebro",
+    "lat": "59.3333",
+    "lng": "14.5167",
+    "id": "1752529628"
+  },
+  {
+    "city": "Märsta",
+    "city_ascii": "Marsta",
+    "admin_name": "Stockholm",
+    "lat": "59.6167",
+    "lng": "17.8500",
+    "id": "1752183604"
+  },
+  {
+    "city": "Kiruna",
+    "city_ascii": "Kiruna",
+    "admin_name": "Norrbotten",
+    "lat": "67.8500",
+    "lng": "20.2166",
+    "id": "1752001526"
+  },
+  {
+    "city": "Visby",
+    "city_ascii": "Visby",
+    "admin_name": "Gotland",
+    "lat": "57.6290",
+    "lng": "18.3071",
+    "id": "1752027172"
+  },
+  {
+    "city": "Katrineholm",
+    "city_ascii": "Katrineholm",
+    "admin_name": "Södermanland",
+    "lat": "59.0000",
+    "lng": "16.2000",
+    "id": "1752643787"
+  },
+  {
+    "city": "Boo",
+    "city_ascii": "Boo",
+    "admin_name": "Stockholm",
+    "lat": "59.3333",
+    "lng": "18.2833",
+    "id": "1752145853"
+  },
+  {
+    "city": "Piteå",
+    "city_ascii": "Pitea",
+    "admin_name": "Norrbotten",
+    "lat": "65.3333",
+    "lng": "21.5000",
+    "id": "1752869095"
+  },
+  {
+    "city": "Kungsbacka",
+    "city_ascii": "Kungsbacka",
+    "admin_name": "Halland",
+    "lat": "57.4833",
+    "lng": "12.0667",
+    "id": "1752375831"
+  },
+  {
+    "city": "Sandviken",
+    "city_ascii": "Sandviken",
+    "admin_name": "Gävleborg",
+    "lat": "60.6167",
+    "lng": "16.7667",
+    "id": "1752810020"
+  },
+  {
+    "city": "Kungälv",
+    "city_ascii": "Kungalv",
+    "admin_name": "Västra Götaland",
+    "lat": "57.8667",
+    "lng": "11.9667",
+    "id": "1752531521"
+  },
+  {
+    "city": "Huskvarna",
+    "city_ascii": "Huskvarna",
+    "admin_name": "Jönköping",
+    "lat": "57.7919",
+    "lng": "14.2756",
+    "id": "1752552539"
+  },
+  {
+    "city": "Kumla",
+    "city_ascii": "Kumla",
+    "admin_name": "Örebro",
+    "lat": "59.1333",
+    "lng": "15.1333",
+    "id": "1752201206"
+  },
+  {
+    "city": "Enköping",
+    "city_ascii": "Enkoping",
+    "admin_name": "Uppsala",
+    "lat": "59.6333",
+    "lng": "17.0667",
+    "id": "1752230483"
+  },
+  {
+    "city": "Sjöbo",
+    "city_ascii": "Sjobo",
+    "admin_name": "Skåne",
+    "lat": "55.6333",
+    "lng": "13.7000",
+    "id": "1752520046"
+  },
+  {
+    "city": "Karlshamn",
+    "city_ascii": "Karlshamn",
+    "admin_name": "Blekinge",
+    "lat": "56.1697",
+    "lng": "14.8638",
+    "id": "1752379401"
+  },
+  {
+    "city": "Skara",
+    "city_ascii": "Skara",
+    "admin_name": "Västra Götaland",
+    "lat": "58.3667",
+    "lng": "13.4167",
+    "id": "1752171029"
+  },
+  {
+    "city": "Hässleholm",
+    "city_ascii": "Hassleholm",
+    "admin_name": "Skåne",
+    "lat": "56.1568",
+    "lng": "13.7702",
+    "id": "1752526882"
+  },
+  {
+    "city": "Härnösand",
+    "city_ascii": "Harnosand",
+    "admin_name": "Västernorrland",
+    "lat": "62.6323",
+    "lng": "17.9379",
+    "id": "1752644953"
+  },
+  {
+    "city": "Falköping",
+    "city_ascii": "Falkoping",
+    "admin_name": "Västra Götaland",
+    "lat": "58.1667",
+    "lng": "13.5500",
+    "id": "1752889623"
+  },
+  {
+    "city": "Kristinehamn",
+    "city_ascii": "Kristinehamn",
+    "admin_name": "Värmland",
+    "lat": "59.3333",
+    "lng": "14.1167",
+    "id": "1752708772"
+  },
+  {
+    "city": "Eslöv",
+    "city_ascii": "Eslov",
+    "admin_name": "Skåne",
+    "lat": "55.8333",
+    "lng": "13.3333",
+    "id": "1752202546"
+  },
+  {
+    "city": "Köping",
+    "city_ascii": "Koping",
+    "admin_name": "Västmanland",
+    "lat": "59.5141",
+    "lng": "15.9915",
+    "id": "1752366756"
+  },
+  {
+    "city": "Norrtälje",
+    "city_ascii": "Norrtalje",
+    "admin_name": "Stockholm",
+    "lat": "59.7667",
+    "lng": "18.7000",
+    "id": "1752949126"
+  },
+  {
+    "city": "Oskarshamn",
+    "city_ascii": "Oskarshamn",
+    "admin_name": "Kalmar",
+    "lat": "57.2667",
+    "lng": "16.4333",
+    "id": "1752437769"
+  },
+  {
+    "city": "Lerum",
+    "city_ascii": "Lerum",
+    "admin_name": "Västra Götaland",
+    "lat": "57.7667",
+    "lng": "12.2667",
+    "id": "1752006435"
+  },
+  {
+    "city": "Boden",
+    "city_ascii": "Boden",
+    "admin_name": "Norrbotten",
+    "lat": "65.8333",
+    "lng": "21.7000",
+    "id": "1752956055"
+  },
+  {
+    "city": "Klippansbruk",
+    "city_ascii": "Klippansbruk",
+    "admin_name": "Skåne",
+    "lat": "56.1167",
+    "lng": "13.1500",
+    "id": "1752885132"
+  },
+  {
+    "city": "Nässjö",
+    "city_ascii": "Nassjo",
+    "admin_name": "Jönköping",
+    "lat": "57.6500",
+    "lng": "14.6833",
+    "id": "1752891199"
+  },
+  {
+    "city": "Mariestad",
+    "city_ascii": "Mariestad",
+    "admin_name": "Västra Götaland",
+    "lat": "58.7050",
+    "lng": "13.8280",
+    "id": "1752879298"
+  },
+  {
+    "city": "Höganäs",
+    "city_ascii": "Hoganas",
+    "admin_name": "Skåne",
+    "lat": "56.1960",
+    "lng": "12.5769",
+    "id": "1752137413"
+  },
+  {
+    "city": "Tullinge",
+    "city_ascii": "Tullinge",
+    "admin_name": "Stockholm",
+    "lat": "59.2000",
+    "lng": "17.8833",
+    "id": "1752531824"
+  },
+  {
+    "city": "Mölnlycke",
+    "city_ascii": "Molnlycke",
+    "admin_name": "Västra Götaland",
+    "lat": "57.6500",
+    "lng": "12.1333",
+    "id": "1752294225"
+  },
+  {
+    "city": "Kinna",
+    "city_ascii": "Kinna",
+    "admin_name": "Västra Götaland",
+    "lat": "57.4954",
+    "lng": "12.6805",
+    "id": "1752953604"
+  },
+  {
+    "city": "Bunkeflostrand",
+    "city_ascii": "Bunkeflostrand",
+    "admin_name": "Skåne",
+    "lat": "55.5333",
+    "lng": "12.9500",
+    "id": "1752685972"
+  },
+  {
+    "city": "Ljungby",
+    "city_ascii": "Ljungby",
+    "admin_name": "Kronoberg",
+    "lat": "56.8333",
+    "lng": "13.9333",
+    "id": "1752960918"
+  },
+  {
+    "city": "Hallstahammar",
+    "city_ascii": "Hallstahammar",
+    "admin_name": "Västmanland",
+    "lat": "59.6167",
+    "lng": "16.2167",
+    "id": "1752239523"
+  },
+  {
+    "city": "Västerhaninge",
+    "city_ascii": "Vasterhaninge",
+    "admin_name": "Stockholm",
+    "lat": "59.1167",
+    "lng": "18.1000",
+    "id": "1752693403"
+  },
+  {
+    "city": "Hudiksvall",
+    "city_ascii": "Hudiksvall",
+    "admin_name": "Gävleborg",
+    "lat": "61.7290",
+    "lng": "17.1121",
+    "id": "1752219385"
+  },
+  {
+    "city": "Ludvika",
+    "city_ascii": "Ludvika",
+    "admin_name": "Dalarna",
+    "lat": "60.1500",
+    "lng": "15.1833",
+    "id": "1752311892"
+  },
+  {
+    "city": "Mjölby",
+    "city_ascii": "Mjolby",
+    "admin_name": "Östergötland",
+    "lat": "58.3321",
+    "lng": "15.1312",
+    "id": "1752185099"
+  },
+  {
+    "city": "Arvika",
+    "city_ascii": "Arvika",
+    "admin_name": "Värmland",
+    "lat": "59.6667",
+    "lng": "12.5667",
+    "id": "1752743749"
+  },
+  {
+    "city": "Tranås",
+    "city_ascii": "Tranas",
+    "admin_name": "Jönköping",
+    "lat": "58.0500",
+    "lng": "14.9833",
+    "id": "1752722213"
+  },
+  {
+    "city": "Arboga",
+    "city_ascii": "Arboga",
+    "admin_name": "Västmanland",
+    "lat": "59.4000",
+    "lng": "15.8333",
+    "id": "1752494456"
+  },
+  {
+    "city": "Lomma",
+    "city_ascii": "Lomma",
+    "admin_name": "Skåne",
+    "lat": "55.6833",
+    "lng": "13.0833",
+    "id": "1752810659"
+  },
+  {
+    "city": "Nybro",
+    "city_ascii": "Nybro",
+    "admin_name": "Kalmar",
+    "lat": "56.7500",
+    "lng": "15.9000",
+    "id": "1752956963"
+  },
+  {
+    "city": "Nynäshamn",
+    "city_ascii": "Nynashamn",
+    "admin_name": "Stockholm",
+    "lat": "58.9044",
+    "lng": "17.9464",
+    "id": "1752209871"
+  },
+  {
+    "city": "Skoghall",
+    "city_ascii": "Skoghall",
+    "admin_name": "Värmland",
+    "lat": "59.3333",
+    "lng": "13.4333",
+    "id": "1752185362"
+  },
+  {
+    "city": "Bålsta",
+    "city_ascii": "Balsta",
+    "admin_name": "Uppsala",
+    "lat": "59.5833",
+    "lng": "17.5000",
+    "id": "1752539011"
+  },
+  {
+    "city": "Vetlanda",
+    "city_ascii": "Vetlanda",
+    "admin_name": "Jönköping",
+    "lat": "57.4333",
+    "lng": "15.0667",
+    "id": "1752000768"
+  },
+  {
+    "city": "Sunne",
+    "city_ascii": "Sunne",
+    "admin_name": "Värmland",
+    "lat": "59.8333",
+    "lng": "13.1500",
+    "id": "1752127912"
+  },
+  {
+    "city": "Höör",
+    "city_ascii": "Hoor",
+    "admin_name": "Skåne",
+    "lat": "55.9333",
+    "lng": "13.5333",
+    "id": "1752091999"
+  },
+  {
+    "city": "Mora",
+    "city_ascii": "Mora",
+    "admin_name": "Dalarna",
+    "lat": "61.0096",
+    "lng": "14.5635",
+    "id": "1752665392"
+  },
+  {
+    "city": "Finspång",
+    "city_ascii": "Finspang",
+    "admin_name": "Östergötland",
+    "lat": "58.7167",
+    "lng": "15.7833",
+    "id": "1752523151"
+  },
+  {
+    "city": "Bollnäs",
+    "city_ascii": "Bollnas",
+    "admin_name": "Gävleborg",
+    "lat": "61.3520",
+    "lng": "16.3666",
+    "id": "1752287863"
+  },
+  {
+    "city": "Sala",
+    "city_ascii": "Sala",
+    "admin_name": "Västmanland",
+    "lat": "59.9167",
+    "lng": "16.6000",
+    "id": "1752888405"
+  },
+  {
+    "city": "Hagfors",
+    "city_ascii": "Hagfors",
+    "admin_name": "Värmland",
+    "lat": "60.0333",
+    "lng": "13.6500",
+    "id": "1752937511"
+  },
+  {
+    "city": "Ronneby",
+    "city_ascii": "Ronneby",
+    "admin_name": "Blekinge",
+    "lat": "56.2000",
+    "lng": "15.3000",
+    "id": "1752180861"
+  },
+  {
+    "city": "Avesta",
+    "city_ascii": "Avesta",
+    "admin_name": "Dalarna",
+    "lat": "60.1500",
+    "lng": "16.2000",
+    "id": "1752442829"
+  },
+  {
+    "city": "Ulricehamn",
+    "city_ascii": "Ulricehamn",
+    "admin_name": "Västra Götaland",
+    "lat": "57.7917",
+    "lng": "13.4186",
+    "id": "1752323454"
+  },
+  {
+    "city": "Söderhamn",
+    "city_ascii": "Soderhamn",
+    "admin_name": "Gävleborg",
+    "lat": "61.3000",
+    "lng": "17.0500",
+    "id": "1752828589"
+  },
+  {
+    "city": "Ekerö",
+    "city_ascii": "Ekero",
+    "admin_name": "Stockholm",
+    "lat": "59.2667",
+    "lng": "17.7333",
+    "id": "1752521808"
+  },
+  {
+    "city": "Oxelösund",
+    "city_ascii": "Oxelosund",
+    "admin_name": "Södermanland",
+    "lat": "58.6667",
+    "lng": "17.1000",
+    "id": "1752816950"
+  },
+  {
+    "city": "Gustavsberg",
+    "city_ascii": "Gustavsberg",
+    "admin_name": "Stockholm",
+    "lat": "59.3167",
+    "lng": "18.3833",
+    "id": "1752098351"
+  },
+  {
+    "city": "Säter",
+    "city_ascii": "Sater",
+    "admin_name": "Dalarna",
+    "lat": "60.3500",
+    "lng": "15.7500",
+    "id": "1752106065"
+  },
+  {
+    "city": "Fagersta",
+    "city_ascii": "Fagersta",
+    "admin_name": "Västmanland",
+    "lat": "60.0000",
+    "lng": "15.7833",
+    "id": "1752230389"
+  },
+  {
+    "city": "Lindome",
+    "city_ascii": "Lindome",
+    "admin_name": "Västra Götaland",
+    "lat": "57.5667",
+    "lng": "12.0833",
+    "id": "1752017510"
+  },
+  {
+    "city": "Älmhult",
+    "city_ascii": "Almhult",
+    "admin_name": "Kronoberg",
+    "lat": "56.5500",
+    "lng": "14.1333",
+    "id": "1752497359"
+  },
+  {
+    "city": "Vimmerby",
+    "city_ascii": "Vimmerby",
+    "admin_name": "Kalmar",
+    "lat": "57.6667",
+    "lng": "15.8500",
+    "id": "1752144282"
+  },
+  {
+    "city": "Filipstad",
+    "city_ascii": "Filipstad",
+    "admin_name": "Värmland",
+    "lat": "59.7167",
+    "lng": "14.1667",
+    "id": "1752017138"
+  },
+  {
+    "city": "Svedala",
+    "city_ascii": "Svedala",
+    "admin_name": "Skåne",
+    "lat": "55.5000",
+    "lng": "13.2333",
+    "id": "1752069692"
+  },
+  {
+    "city": "Höllviken",
+    "city_ascii": "Hollviken",
+    "admin_name": "Skåne",
+    "lat": "55.4167",
+    "lng": "12.9500",
+    "id": "1752012234"
+  },
+  {
+    "city": "Timrå",
+    "city_ascii": "Timra",
+    "admin_name": "Västernorrland",
+    "lat": "62.4778",
+    "lng": "17.3069",
+    "id": "1752299610"
+  },
+  {
+    "city": "Gagnef",
+    "city_ascii": "Gagnef",
+    "admin_name": "Dalarna",
+    "lat": "60.5833",
+    "lng": "15.0667",
+    "id": "1752571884"
+  },
+  {
+    "city": "Örkelljunga",
+    "city_ascii": "Orkelljunga",
+    "admin_name": "Skåne",
+    "lat": "56.2833",
+    "lng": "13.2833",
+    "id": "1752548206"
+  },
+  {
+    "city": "Jordbro",
+    "city_ascii": "Jordbro",
+    "admin_name": "Stockholm",
+    "lat": "59.1497",
+    "lng": "18.1167",
+    "id": "1752201774"
+  },
+  {
+    "city": "Billdal",
+    "city_ascii": "Billdal",
+    "admin_name": "Västra Götaland",
+    "lat": "57.5667",
+    "lng": "11.9333",
+    "id": "1752902367"
+  },
+  {
+    "city": "Arlöv",
+    "city_ascii": "Arlov",
+    "admin_name": "Skåne",
+    "lat": "55.6333",
+    "lng": "13.0667",
+    "id": "1752897909"
+  },
+  {
+    "city": "Gislaved",
+    "city_ascii": "Gislaved",
+    "admin_name": "Jönköping",
+    "lat": "57.3000",
+    "lng": "13.5333",
+    "id": "1752639615"
+  },
+  {
+    "city": "Älta",
+    "city_ascii": "Alta",
+    "admin_name": "Stockholm",
+    "lat": "59.2667",
+    "lng": "18.1833",
+    "id": "1752413057"
+  },
+  {
+    "city": "Stenungsund",
+    "city_ascii": "Stenungsund",
+    "admin_name": "Västra Götaland",
+    "lat": "58.0833",
+    "lng": "11.8167",
+    "id": "1752961653"
+  },
+  {
+    "city": "Nödinge-Nol",
+    "city_ascii": "Nodinge-Nol",
+    "admin_name": "Västra Götaland",
+    "lat": "57.9000",
+    "lng": "12.0667",
+    "id": "1752000147"
+  },
+  {
+    "city": "Eksjö",
+    "city_ascii": "Eksjo",
+    "admin_name": "Jönköping",
+    "lat": "57.6667",
+    "lng": "14.9500",
+    "id": "1752063761"
+  },
+  {
+    "city": "Sigtuna",
+    "city_ascii": "Sigtuna",
+    "admin_name": "Stockholm",
+    "lat": "59.6167",
+    "lng": "17.7167",
+    "id": "1752118222"
+  },
+  {
+    "city": "Sävja",
+    "city_ascii": "Savja",
+    "admin_name": "Uppsala",
+    "lat": "59.8333",
+    "lng": "17.6833",
+    "id": "1752516953"
+  },
+  {
+    "city": "Lindesberg",
+    "city_ascii": "Lindesberg",
+    "admin_name": "Örebro",
+    "lat": "59.6024",
+    "lng": "15.2130",
+    "id": "1752750854"
+  },
+  {
+    "city": "Bjärred",
+    "city_ascii": "Bjarred",
+    "admin_name": "Skåne",
+    "lat": "55.7167",
+    "lng": "13.0167",
+    "id": "1752885490"
+  },
+  {
+    "city": "Habo",
+    "city_ascii": "Habo",
+    "admin_name": "Jönköping",
+    "lat": "57.9066",
+    "lng": "14.0856",
+    "id": "1752321919"
+  },
+  {
+    "city": "Saltsjöbaden",
+    "city_ascii": "Saltsjobaden",
+    "admin_name": "Stockholm",
+    "lat": "59.2833",
+    "lng": "18.3000",
+    "id": "1752396058"
+  },
+  {
+    "city": "Åstorp",
+    "city_ascii": "Astorp",
+    "admin_name": "Skåne",
+    "lat": "56.1333",
+    "lng": "12.9500",
+    "id": "1752829425"
+  },
+  {
+    "city": "Åhus",
+    "city_ascii": "Ahus",
+    "admin_name": "Skåne",
+    "lat": "55.9167",
+    "lng": "14.2833",
+    "id": "1752365263"
+  },
+  {
+    "city": "Kungsängen",
+    "city_ascii": "Kungsangen",
+    "admin_name": "Stockholm",
+    "lat": "59.4833",
+    "lng": "17.7500",
+    "id": "1752617626"
+  },
+  {
+    "city": "Åmål",
+    "city_ascii": "Amal",
+    "admin_name": "Västra Götaland",
+    "lat": "59.0500",
+    "lng": "12.7000",
+    "id": "1752187898"
+  },
+  {
+    "city": "Säffle",
+    "city_ascii": "Saffle",
+    "admin_name": "Värmland",
+    "lat": "59.1333",
+    "lng": "12.9000",
+    "id": "1752987175"
+  },
+  {
+    "city": "Brevik",
+    "city_ascii": "Brevik",
+    "admin_name": "Stockholm",
+    "lat": "59.3500",
+    "lng": "18.2000",
+    "id": "1752993223"
+  },
+  {
+    "city": "Sollefteå",
+    "city_ascii": "Solleftea",
+    "admin_name": "Västernorrland",
+    "lat": "63.1667",
+    "lng": "17.2667",
+    "id": "1752942134"
+  },
+  {
+    "city": "Tibro",
+    "city_ascii": "Tibro",
+    "admin_name": "Västra Götaland",
+    "lat": "58.4190",
+    "lng": "14.1580",
+    "id": "1752652082"
+  },
+  {
+    "city": "Lycksele",
+    "city_ascii": "Lycksele",
+    "admin_name": "Västerbotten",
+    "lat": "64.6000",
+    "lng": "18.6667",
+    "id": "1752497836"
+  }
+]

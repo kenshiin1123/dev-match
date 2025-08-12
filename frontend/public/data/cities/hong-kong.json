@@ -1,0 +1,186 @@
+[
+  {
+    "city": "Hong Kong",
+    "city_ascii": "Hong Kong",
+    "admin_name": "",
+    "lat": "22.3000",
+    "lng": "114.2000",
+    "id": "1344982653"
+  },
+  {
+    "city": "Kowloon",
+    "city_ascii": "Kowloon",
+    "admin_name": "",
+    "lat": "22.3167",
+    "lng": "114.1833",
+    "id": "1344538284"
+  },
+  {
+    "city": "Sha Tin",
+    "city_ascii": "Sha Tin",
+    "admin_name": "",
+    "lat": "22.3802",
+    "lng": "114.1898",
+    "id": "1344745541"
+  },
+  {
+    "city": "Kowloon City",
+    "city_ascii": "Kowloon City",
+    "admin_name": "",
+    "lat": "22.3282",
+    "lng": "114.1916",
+    "id": "1344000061"
+  },
+  {
+    "city": "Sham Shui Po",
+    "city_ascii": "Sham Shui Po",
+    "admin_name": "",
+    "lat": "22.3307",
+    "lng": "114.1622",
+    "id": "1344000058"
+  },
+  {
+    "city": "Tin Shui Wai",
+    "city_ascii": "Tin Shui Wai",
+    "admin_name": "",
+    "lat": "22.4600",
+    "lng": "114.0020",
+    "id": "1344389641"
+  },
+  {
+    "city": "Central District",
+    "city_ascii": "Central District",
+    "admin_name": "",
+    "lat": "22.2867",
+    "lng": "114.1550",
+    "id": "1344000057"
+  },
+  {
+    "city": "Tsing Yi Town",
+    "city_ascii": "Tsing Yi Town",
+    "admin_name": "",
+    "lat": "22.3456",
+    "lng": "114.1000",
+    "id": "1344057832"
+  },
+  {
+    "city": "Lam Tin",
+    "city_ascii": "Lam Tin",
+    "admin_name": "",
+    "lat": "22.3094",
+    "lng": "114.2361",
+    "id": "1344141583"
+  },
+  {
+    "city": "San Tung Chung Hang",
+    "city_ascii": "San Tung Chung Hang",
+    "admin_name": "",
+    "lat": "22.2869",
+    "lng": "113.9436",
+    "id": "1344851698"
+  },
+  {
+    "city": "Kennedy Town",
+    "city_ascii": "Kennedy Town",
+    "admin_name": "",
+    "lat": "22.2800",
+    "lng": "114.1250",
+    "id": "1344000050"
+  },
+  {
+    "city": "Kwai Chung",
+    "city_ascii": "Kwai Chung",
+    "admin_name": "",
+    "lat": "22.3674",
+    "lng": "114.1273",
+    "id": "1344773013"
+  },
+  {
+    "city": "Pak Tin Pa",
+    "city_ascii": "Pak Tin Pa",
+    "admin_name": "",
+    "lat": "22.3364",
+    "lng": "114.1667",
+    "id": "1344000101"
+  },
+  {
+    "city": "Cheung Chau",
+    "city_ascii": "Cheung Chau",
+    "admin_name": "",
+    "lat": "22.2106",
+    "lng": "114.0289",
+    "id": "1344565945"
+  },
+  {
+    "city": "Choi Hung",
+    "city_ascii": "Choi Hung",
+    "admin_name": "",
+    "lat": "22.3350",
+    "lng": "114.2067",
+    "id": "1344000072"
+  },
+  {
+    "city": "Shek Tong Tsui",
+    "city_ascii": "Shek Tong Tsui",
+    "admin_name": "",
+    "lat": "22.2871",
+    "lng": "114.1357",
+    "id": "1344000053"
+  },
+  {
+    "city": "Wang Tau Hom",
+    "city_ascii": "Wang Tau Hom",
+    "admin_name": "",
+    "lat": "22.3408",
+    "lng": "114.1871",
+    "id": "1344000105"
+  },
+  {
+    "city": "Shek Wai Kok",
+    "city_ascii": "Shek Wai Kok",
+    "admin_name": "",
+    "lat": "22.3753",
+    "lng": "114.1237",
+    "id": "1344833550"
+  },
+  {
+    "city": "Tung Tau Tsuen",
+    "city_ascii": "Tung Tau Tsuen",
+    "admin_name": "",
+    "lat": "22.3334",
+    "lng": "114.1924",
+    "id": "1344000062"
+  },
+  {
+    "city": "Sha Kok Mei",
+    "city_ascii": "Sha Kok Mei",
+    "admin_name": "",
+    "lat": "22.3784",
+    "lng": "114.1941",
+    "id": "1344631625"
+  },
+  {
+    "city": "Sai Wan Ho",
+    "city_ascii": "Sai Wan Ho",
+    "admin_name": "",
+    "lat": "22.2877",
+    "lng": "114.1365",
+    "id": "1344000086"
+  },
+  {
+    "city": "Sai Kung Tuk",
+    "city_ascii": "Sai Kung Tuk",
+    "admin_name": "",
+    "lat": "22.3814",
+    "lng": "114.2733",
+    "id": "1344932135"
+  },
+  {
+    "city": "Wan Tau Tong",
+    "city_ascii": "Wan Tau Tong",
+    "admin_name": "",
+    "lat": "22.4423",
+    "lng": "114.1670",
+    "id": "1344475815"
+  }
+]

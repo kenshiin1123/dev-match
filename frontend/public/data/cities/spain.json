@@ -1,0 +1,6266 @@
+[
+  {
+    "city": "Madrid",
+    "city_ascii": "Madrid",
+    "admin_name": "Madrid",
+    "lat": "40.4169",
+    "lng": "-3.7033",
+    "id": "1724616994"
+  },
+  {
+    "city": "Barcelona",
+    "city_ascii": "Barcelona",
+    "admin_name": "Catalonia",
+    "lat": "41.3833",
+    "lng": "2.1833",
+    "id": "1724594040"
+  },
+  {
+    "city": "Valencia",
+    "city_ascii": "Valencia",
+    "admin_name": "Valencia",
+    "lat": "39.4700",
+    "lng": "-0.3764",
+    "id": "1724981666"
+  },
+  {
+    "city": "Sevilla",
+    "city_ascii": "Sevilla",
+    "admin_name": "Andalusia",
+    "lat": "37.3900",
+    "lng": "-5.9900",
+    "id": "1724991838"
+  },
+  {
+    "city": "Málaga",
+    "city_ascii": "Malaga",
+    "admin_name": "Andalusia",
+    "lat": "36.7194",
+    "lng": "-4.4200",
+    "id": "1724397372"
+  },
+  {
+    "city": "Bilbao",
+    "city_ascii": "Bilbao",
+    "admin_name": "Basque Country",
+    "lat": "43.2569",
+    "lng": "-2.9236",
+    "id": "1724331267"
+  },
+  {
+    "city": "Zaragoza",
+    "city_ascii": "Zaragoza",
+    "admin_name": "Aragon",
+    "lat": "41.6500",
+    "lng": "-0.8833",
+    "id": "1724907391"
+  },
+  {
+    "city": "Murcia",
+    "city_ascii": "Murcia",
+    "admin_name": "Murcia",
+    "lat": "37.9861",
+    "lng": "-1.1303",
+    "id": "1724107739"
+  },
+  {
+    "city": "Las Palmas",
+    "city_ascii": "Las Palmas",
+    "admin_name": "Canary Islands",
+    "lat": "28.1258",
+    "lng": "-15.4353",
+    "id": "1724501748"
+  },
+  {
+    "city": "Palma",
+    "city_ascii": "Palma",
+    "admin_name": "Balearic Islands",
+    "lat": "39.5667",
+    "lng": "2.6500",
+    "id": "1724728111"
+  },
+  {
+    "city": "Santa Cruz",
+    "city_ascii": "Santa Cruz",
+    "admin_name": "Canary Islands",
+    "lat": "28.4667",
+    "lng": "-16.2500",
+    "id": "1724813158"
+  },
+  {
+    "city": "Alicante",
+    "city_ascii": "Alicante",
+    "admin_name": "Valencia",
+    "lat": "38.3453",
+    "lng": "-0.4831",
+    "id": "1724923163"
+  },
+  {
+    "city": "Córdoba",
+    "city_ascii": "Cordoba",
+    "admin_name": "Andalusia",
+    "lat": "37.8900",
+    "lng": "-4.7800",
+    "id": "1724706440"
+  },
+  {
+    "city": "Valladolid",
+    "city_ascii": "Valladolid",
+    "admin_name": "Castille-Leon",
+    "lat": "41.6528",
+    "lng": "-4.7236",
+    "id": "1724133771"
+  },
+  {
+    "city": "Vigo",
+    "city_ascii": "Vigo",
+    "admin_name": "Galicia",
+    "lat": "42.2314",
+    "lng": "-8.7124",
+    "id": "1724045676"
+  },
+  {
+    "city": "Gijón",
+    "city_ascii": "Gijon",
+    "admin_name": "Asturias",
+    "lat": "43.5333",
+    "lng": "-5.7000",
+    "id": "1724170659"
+  },
+  {
+    "city": "Vitoria-Gasteiz",
+    "city_ascii": "Vitoria-Gasteiz",
+    "admin_name": "Basque Country",
+    "lat": "42.8500",
+    "lng": "-2.6833",
+    "id": "1724975338"
+  },
+  {
+    "city": "A Coruña",
+    "city_ascii": "A Coruna",
+    "admin_name": "Galicia",
+    "lat": "43.3650",
+    "lng": "-8.4100",
+    "id": "1724417375"
+  },
+  {
+    "city": "Elche",
+    "city_ascii": "Elche",
+    "admin_name": "Valencia",
+    "lat": "38.2669",
+    "lng": "-0.6983",
+    "id": "1724611437"
+  },
+  {
+    "city": "Granada",
+    "city_ascii": "Granada",
+    "admin_name": "Andalusia",
+    "lat": "37.1781",
+    "lng": "-3.6008",
+    "id": "1724929320"
+  },
+  {
+    "city": "Tarrasa",
+    "city_ascii": "Tarrasa",
+    "admin_name": "Catalonia",
+    "lat": "41.5700",
+    "lng": "2.0130",
+    "id": "1724377964"
+  },
+  {
+    "city": "Badalona",
+    "city_ascii": "Badalona",
+    "admin_name": "Catalonia",
+    "lat": "41.4489",
+    "lng": "2.2461",
+    "id": "1724090334"
+  },
+  {
+    "city": "Sabadell",
+    "city_ascii": "Sabadell",
+    "admin_name": "Catalonia",
+    "lat": "41.5486",
+    "lng": "2.1075",
+    "id": "1724348384"
+  },
+  {
+    "city": "Oviedo",
+    "city_ascii": "Oviedo",
+    "admin_name": "Asturias",
+    "lat": "43.3600",
+    "lng": "-5.8450",
+    "id": "1724090743"
+  },
+  {
+    "city": "Cartagena",
+    "city_ascii": "Cartagena",
+    "admin_name": "Murcia",
+    "lat": "37.6019",
+    "lng": "-0.9842",
+    "id": "1724143241"
+  },
+  {
+    "city": "Jerez de la Frontera",
+    "city_ascii": "Jerez de la Frontera",
+    "admin_name": "Andalusia",
+    "lat": "36.6817",
+    "lng": "-6.1378",
+    "id": "1724866806"
+  },
+  {
+    "city": "Móstoles",
+    "city_ascii": "Mostoles",
+    "admin_name": "Madrid",
+    "lat": "40.3333",
+    "lng": "-3.8667",
+    "id": "1724412875"
+  },
+  {
+    "city": "Pamplona",
+    "city_ascii": "Pamplona",
+    "admin_name": "Navarre",
+    "lat": "42.8167",
+    "lng": "-1.6500",
+    "id": "1724483329"
+  },
+  {
+    "city": "Almería",
+    "city_ascii": "Almeria",
+    "admin_name": "Andalusia",
+    "lat": "36.8417",
+    "lng": "-2.4639",
+    "id": "1724745640"
+  },
+  {
+    "city": "Alcalá de Henares",
+    "city_ascii": "Alcala de Henares",
+    "admin_name": "Madrid",
+    "lat": "40.4667",
+    "lng": "-3.3667",
+    "id": "1724663253"
+  },
+  {
+    "city": "Leganés",
+    "city_ascii": "Leganes",
+    "admin_name": "Madrid",
+    "lat": "40.3281",
+    "lng": "-3.7644",
+    "id": "1724900225"
+  },
+  {
+    "city": "Fuenlabrada",
+    "city_ascii": "Fuenlabrada",
+    "admin_name": "Madrid",
+    "lat": "40.2833",
+    "lng": "-3.8000",
+    "id": "1724000348"
+  },
+  {
+    "city": "Getafe",
+    "city_ascii": "Getafe",
+    "admin_name": "Madrid",
+    "lat": "40.3047",
+    "lng": "-3.7311",
+    "id": "1724750196"
+  },
+  {
+    "city": "Donostia",
+    "city_ascii": "Donostia",
+    "admin_name": "Basque Country",
+    "lat": "43.3214",
+    "lng": "-1.9856",
+    "id": "1724910555"
+  },
+  {
+    "city": "Castellón de la Plana",
+    "city_ascii": "Castellon de la Plana",
+    "admin_name": "Valencia",
+    "lat": "39.9831",
+    "lng": "-0.0331",
+    "id": "1724579885"
+  },
+  {
+    "city": "Burgos",
+    "city_ascii": "Burgos",
+    "admin_name": "Castille-Leon",
+    "lat": "42.3500",
+    "lng": "-3.7067",
+    "id": "1724993285"
+  },
+  {
+    "city": "Albacete",
+    "city_ascii": "Albacete",
+    "admin_name": "Castille-La Mancha",
+    "lat": "38.9956",
+    "lng": "-1.8558",
+    "id": "1724000069"
+  },
+  {
+    "city": "Santander",
+    "city_ascii": "Santander",
+    "admin_name": "Cantabria",
+    "lat": "43.4628",
+    "lng": "-3.8050",
+    "id": "1724247413"
+  },
+  {
+    "city": "Alcorcón",
+    "city_ascii": "Alcorcon",
+    "admin_name": "Madrid",
+    "lat": "40.3500",
+    "lng": "-3.8333",
+    "id": "1724318578"
+  },
+  {
+    "city": "Guadalajara",
+    "city_ascii": "Guadalajara",
+    "admin_name": "Castille-La Mancha",
+    "lat": "40.6337",
+    "lng": "-3.1674",
+    "id": "1724317859"
+  },
+  {
+    "city": "La Laguna",
+    "city_ascii": "La Laguna",
+    "admin_name": "Canary Islands",
+    "lat": "28.4853",
+    "lng": "-16.3167",
+    "id": "1724625025"
+  },
+  {
+    "city": "Marbella",
+    "city_ascii": "Marbella",
+    "admin_name": "Andalusia",
+    "lat": "36.5167",
+    "lng": "-4.8833",
+    "id": "1724685705"
+  },
+  {
+    "city": "Girona",
+    "city_ascii": "Girona",
+    "admin_name": "Catalonia",
+    "lat": "41.9844",
+    "lng": "2.8211",
+    "id": "1724386661"
+  },
+  {
+    "city": "Logroño",
+    "city_ascii": "Logrono",
+    "admin_name": "La Rioja",
+    "lat": "42.4650",
+    "lng": "-2.4456",
+    "id": "1724721513"
+  },
+  {
+    "city": "Badajoz",
+    "city_ascii": "Badajoz",
+    "admin_name": "Extremadura",
+    "lat": "38.8803",
+    "lng": "-6.9753",
+    "id": "1724759742"
+  },
+  {
+    "city": "Salamanca",
+    "city_ascii": "Salamanca",
+    "admin_name": "Castille-Leon",
+    "lat": "40.9650",
+    "lng": "-5.6642",
+    "id": "1724960825"
+  },
+  {
+    "city": "Lleida",
+    "city_ascii": "Lleida",
+    "admin_name": "Catalonia",
+    "lat": "41.6167",
+    "lng": "0.6333",
+    "id": "1724114678"
+  },
+  {
+    "city": "Huelva",
+    "city_ascii": "Huelva",
+    "admin_name": "Andalusia",
+    "lat": "37.2500",
+    "lng": "-6.9500",
+    "id": "1724420824"
+  },
+  {
+    "city": "Tarragona",
+    "city_ascii": "Tarragona",
+    "admin_name": "Catalonia",
+    "lat": "41.1175",
+    "lng": "1.2528",
+    "id": "1724296961"
+  },
+  {
+    "city": "Dos Hermanas",
+    "city_ascii": "Dos Hermanas",
+    "admin_name": "Andalusia",
+    "lat": "37.2836",
+    "lng": "-5.9222",
+    "id": "1724272711"
+  },
+  {
+    "city": "Parla",
+    "city_ascii": "Parla",
+    "admin_name": "Madrid",
+    "lat": "40.2372",
+    "lng": "-3.7742",
+    "id": "1724153608"
+  },
+  {
+    "city": "Mataró",
+    "city_ascii": "Mataro",
+    "admin_name": "Catalonia",
+    "lat": "41.5333",
+    "lng": "2.4500",
+    "id": "1724901780"
+  },
+  {
+    "city": "Torrejón de Ardoz",
+    "city_ascii": "Torrejon de Ardoz",
+    "admin_name": "Madrid",
+    "lat": "40.4614",
+    "lng": "-3.4978",
+    "id": "1724711203"
+  },
+  {
+    "city": "Algeciras",
+    "city_ascii": "Algeciras",
+    "admin_name": "Andalusia",
+    "lat": "36.1275",
+    "lng": "-5.4539",
+    "id": "1724355681"
+  },
+  {
+    "city": "León",
+    "city_ascii": "Leon",
+    "admin_name": "Castille-Leon",
+    "lat": "42.6056",
+    "lng": "-5.5700",
+    "id": "1724907542"
+  },
+  {
+    "city": "Alcobendas",
+    "city_ascii": "Alcobendas",
+    "admin_name": "Madrid",
+    "lat": "40.5333",
+    "lng": "-3.6333",
+    "id": "1724354998"
+  },
+  {
+    "city": "Jaén",
+    "city_ascii": "Jaen",
+    "admin_name": "Andalusia",
+    "lat": "37.7667",
+    "lng": "-3.7711",
+    "id": "1724699771"
+  },
+  {
+    "city": "Cádiz",
+    "city_ascii": "Cadiz",
+    "admin_name": "Andalusia",
+    "lat": "36.5350",
+    "lng": "-6.2975",
+    "id": "1724502822"
+  },
+  {
+    "city": "Reus",
+    "city_ascii": "Reus",
+    "admin_name": "Catalonia",
+    "lat": "41.1560",
+    "lng": "1.1080",
+    "id": "1724192207"
+  },
+  {
+    "city": "Roquetas de Mar",
+    "city_ascii": "Roquetas de Mar",
+    "admin_name": "Andalusia",
+    "lat": "36.7642",
+    "lng": "-2.6147",
+    "id": "1724749177"
+  },
+  {
+    "city": "Ourense",
+    "city_ascii": "Ourense",
+    "admin_name": "Galicia",
+    "lat": "42.3364",
+    "lng": "-7.8633",
+    "id": "1724571895"
+  },
+  {
+    "city": "Telde",
+    "city_ascii": "Telde",
+    "admin_name": "Canary Islands",
+    "lat": "27.9833",
+    "lng": "-15.4167",
+    "id": "1724281666"
+  },
+  {
+    "city": "San Vicente de Baracaldo",
+    "city_ascii": "San Vicente de Baracaldo",
+    "admin_name": "Basque Country",
+    "lat": "43.2972",
+    "lng": "-2.9917",
+    "id": "1724451934"
+  },
+  {
+    "city": "Vaciamadrid",
+    "city_ascii": "Vaciamadrid",
+    "admin_name": "Madrid",
+    "lat": "40.3394",
+    "lng": "-3.5181",
+    "id": "1724369937"
+  },
+  {
+    "city": "Santiago de Compostela",
+    "city_ascii": "Santiago de Compostela",
+    "admin_name": "Galicia",
+    "lat": "42.8778",
+    "lng": "-8.5444",
+    "id": "1724547778"
+  },
+  {
+    "city": "Lugo",
+    "city_ascii": "Lugo",
+    "admin_name": "Galicia",
+    "lat": "43.0167",
+    "lng": "-7.5500",
+    "id": "1724547526"
+  },
+  {
+    "city": "San Cugat del Vallés",
+    "city_ascii": "San Cugat del Valles",
+    "admin_name": "Catalonia",
+    "lat": "41.4667",
+    "lng": "2.0833",
+    "id": "1724196400"
+  },
+  {
+    "city": "Las Rozas de Madrid",
+    "city_ascii": "Las Rozas de Madrid",
+    "admin_name": "Madrid",
+    "lat": "40.4917",
+    "lng": "-3.8733",
+    "id": "1724629395"
+  },
+  {
+    "city": "Lorca",
+    "city_ascii": "Lorca",
+    "admin_name": "Murcia",
+    "lat": "37.6798",
+    "lng": "-1.6944",
+    "id": "1724565149"
+  },
+  {
+    "city": "Cáceres",
+    "city_ascii": "Caceres",
+    "admin_name": "Extremadura",
+    "lat": "39.4833",
+    "lng": "-6.3667",
+    "id": "1724532670"
+  },
+  {
+    "city": "San Sebastián de los Reyes",
+    "city_ascii": "San Sebastian de los Reyes",
+    "admin_name": "Madrid",
+    "lat": "40.5469",
+    "lng": "-3.6258",
+    "id": "1724422840"
+  },
+  {
+    "city": "Torrevieja",
+    "city_ascii": "Torrevieja",
+    "admin_name": "Valencia",
+    "lat": "37.9778",
+    "lng": "-0.6833",
+    "id": "1724485635"
+  },
+  {
+    "city": "San Fernando",
+    "city_ascii": "San Fernando",
+    "admin_name": "Andalusia",
+    "lat": "36.4667",
+    "lng": "-6.2000",
+    "id": "1724235367"
+  },
+  {
+    "city": "Mijas",
+    "city_ascii": "Mijas",
+    "admin_name": "Andalusia",
+    "lat": "36.6000",
+    "lng": "-4.6333",
+    "id": "1724011980"
+  },
+  {
+    "city": "El Ejido",
+    "city_ascii": "El Ejido",
+    "admin_name": "Andalusia",
+    "lat": "36.7831",
+    "lng": "-2.8167",
+    "id": "1724399333"
+  },
+  {
+    "city": "El Puerto de Santa María",
+    "city_ascii": "El Puerto de Santa Maria",
+    "admin_name": "Andalusia",
+    "lat": "36.6015",
+    "lng": "-6.2381",
+    "id": "1724087455"
+  },
+  {
+    "city": "Chiclana de la Frontera",
+    "city_ascii": "Chiclana de la Frontera",
+    "admin_name": "Andalusia",
+    "lat": "36.4167",
+    "lng": "-6.1500",
+    "id": "1724794663"
+  },
+  {
+    "city": "Torrente",
+    "city_ascii": "Torrente",
+    "admin_name": "Valencia",
+    "lat": "39.4389",
+    "lng": "-0.4656",
+    "id": "1724305866"
+  },
+  {
+    "city": "Arona",
+    "city_ascii": "Arona",
+    "admin_name": "Canary Islands",
+    "lat": "28.1000",
+    "lng": "-16.6667",
+    "id": "1724300501"
+  },
+  {
+    "city": "Toledo",
+    "city_ascii": "Toledo",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.8567",
+    "lng": "-4.0244",
+    "id": "1724171411"
+  },
+  {
+    "city": "Vélez-Málaga",
+    "city_ascii": "Velez-Malaga",
+    "admin_name": "Andalusia",
+    "lat": "36.7833",
+    "lng": "-4.1000",
+    "id": "1724206889"
+  },
+  {
+    "city": "Ciudad de Melilla",
+    "city_ascii": "Ciudad de Melilla",
+    "admin_name": "Melilla",
+    "lat": "35.2922",
+    "lng": "-2.9408",
+    "id": "1724144891"
+  },
+  {
+    "city": "Fuengirola",
+    "city_ascii": "Fuengirola",
+    "admin_name": "Andalusia",
+    "lat": "36.5417",
+    "lng": "-4.6250",
+    "id": "1724094287"
+  },
+  {
+    "city": "San Baudilio de Llobregat",
+    "city_ascii": "San Baudilio de Llobregat",
+    "admin_name": "Catalonia",
+    "lat": "41.3360",
+    "lng": "2.0430",
+    "id": "1724214083"
+  },
+  {
+    "city": "Valdemoro",
+    "city_ascii": "Valdemoro",
+    "admin_name": "Madrid",
+    "lat": "40.1908",
+    "lng": "-3.6742",
+    "id": "1724347455"
+  },
+  {
+    "city": "Talavera de la Reina",
+    "city_ascii": "Talavera de la Reina",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.9583",
+    "lng": "-4.8328",
+    "id": "1724716966"
+  },
+  {
+    "city": "Ciudad de Ceuta",
+    "city_ascii": "Ciudad de Ceuta",
+    "admin_name": "Ceuta",
+    "lat": "35.8883",
+    "lng": "-5.3156",
+    "id": "1724324416"
+  },
+  {
+    "city": "Pontevedra",
+    "city_ascii": "Pontevedra",
+    "admin_name": "Galicia",
+    "lat": "42.4333",
+    "lng": "-8.6333",
+    "id": "1724789643"
+  },
+  {
+    "city": "Rubí",
+    "city_ascii": "Rubi",
+    "admin_name": "Catalonia",
+    "lat": "41.4933",
+    "lng": "2.0325",
+    "id": "1724552367"
+  },
+  {
+    "city": "Orihuela",
+    "city_ascii": "Orihuela",
+    "admin_name": "Valencia",
+    "lat": "38.0856",
+    "lng": "-0.9469",
+    "id": "1724864615"
+  },
+  {
+    "city": "Manresa",
+    "city_ascii": "Manresa",
+    "admin_name": "Catalonia",
+    "lat": "41.7294",
+    "lng": "1.8272",
+    "id": "1724989137"
+  },
+  {
+    "city": "Gandía",
+    "city_ascii": "Gandia",
+    "admin_name": "Valencia",
+    "lat": "38.9667",
+    "lng": "-0.1833",
+    "id": "1724131747"
+  },
+  {
+    "city": "Estepona",
+    "city_ascii": "Estepona",
+    "admin_name": "Andalusia",
+    "lat": "36.4264",
+    "lng": "-5.1472",
+    "id": "1724460361"
+  },
+  {
+    "city": "Benalmádena",
+    "city_ascii": "Benalmadena",
+    "admin_name": "Andalusia",
+    "lat": "36.6000",
+    "lng": "-4.5167",
+    "id": "1724108022"
+  },
+  {
+    "city": "Molina de Segura",
+    "city_ascii": "Molina de Segura",
+    "admin_name": "Murcia",
+    "lat": "38.0548",
+    "lng": "-1.2131",
+    "id": "1724074824"
+  },
+  {
+    "city": "Alcalá de Guadaira",
+    "city_ascii": "Alcala de Guadaira",
+    "admin_name": "Andalusia",
+    "lat": "37.3333",
+    "lng": "-5.8500",
+    "id": "1724537443"
+  },
+  {
+    "city": "Palencia",
+    "city_ascii": "Palencia",
+    "admin_name": "Castille-Leon",
+    "lat": "42.0167",
+    "lng": "-4.5333",
+    "id": "1724682403"
+  },
+  {
+    "city": "Ciudad Real",
+    "city_ascii": "Ciudad Real",
+    "admin_name": "Castille-La Mancha",
+    "lat": "38.9833",
+    "lng": "-3.9167",
+    "id": "1724671059"
+  },
+  {
+    "city": "Avilés",
+    "city_ascii": "Aviles",
+    "admin_name": "Asturias",
+    "lat": "43.5561",
+    "lng": "-5.9083",
+    "id": "1724815050"
+  },
+  {
+    "city": "Paterna",
+    "city_ascii": "Paterna",
+    "admin_name": "Valencia",
+    "lat": "39.5028",
+    "lng": "-0.4406",
+    "id": "1724974310"
+  },
+  {
+    "city": "Benidorm",
+    "city_ascii": "Benidorm",
+    "admin_name": "Valencia",
+    "lat": "38.5342",
+    "lng": "-0.1314",
+    "id": "1724178356"
+  },
+  {
+    "city": "Majadahonda",
+    "city_ascii": "Majadahonda",
+    "admin_name": "Madrid",
+    "lat": "40.4728",
+    "lng": "-3.8722",
+    "id": "1724482447"
+  },
+  {
+    "city": "Sagunto",
+    "city_ascii": "Sagunto",
+    "admin_name": "Valencia",
+    "lat": "39.6800",
+    "lng": "-0.2783",
+    "id": "1724302941"
+  },
+  {
+    "city": "Torremolinos",
+    "city_ascii": "Torremolinos",
+    "admin_name": "Andalusia",
+    "lat": "36.6218",
+    "lng": "-4.5003",
+    "id": "1724424815"
+  },
+  {
+    "city": "Sanlúcar de Barrameda",
+    "city_ascii": "Sanlucar de Barrameda",
+    "admin_name": "Andalusia",
+    "lat": "36.7667",
+    "lng": "-6.3500",
+    "id": "1724096650"
+  },
+  {
+    "city": "Castelldefels",
+    "city_ascii": "Castelldefels",
+    "admin_name": "Catalonia",
+    "lat": "41.2860",
+    "lng": "1.9820",
+    "id": "1724000280"
+  },
+  {
+    "city": "Villanueva y Geltrú",
+    "city_ascii": "Villanueva y Geltru",
+    "admin_name": "Catalonia",
+    "lat": "41.2242",
+    "lng": "1.7256",
+    "id": "1724482160"
+  },
+  {
+    "city": "Viladecáns",
+    "city_ascii": "Viladecans",
+    "admin_name": "Catalonia",
+    "lat": "41.3158",
+    "lng": "2.0197",
+    "id": "1724069372"
+  },
+  {
+    "city": "Collado-Villalba",
+    "city_ascii": "Collado-Villalba",
+    "admin_name": "Madrid",
+    "lat": "40.6333",
+    "lng": "-4.0083",
+    "id": "1724645759"
+  },
+  {
+    "city": "El Prat de Llobregat",
+    "city_ascii": "El Prat de Llobregat",
+    "admin_name": "Catalonia",
+    "lat": "41.3333",
+    "lng": "2.1000",
+    "id": "1724139875"
+  },
+  {
+    "city": "Arrecife",
+    "city_ascii": "Arrecife",
+    "admin_name": "Canary Islands",
+    "lat": "28.9625",
+    "lng": "-13.5506",
+    "id": "1724630905"
+  },
+  {
+    "city": "Ferrol",
+    "city_ascii": "Ferrol",
+    "admin_name": "Galicia",
+    "lat": "43.4844",
+    "lng": "-8.2328",
+    "id": "1724806861"
+  },
+  {
+    "city": "Granollers",
+    "city_ascii": "Granollers",
+    "admin_name": "Catalonia",
+    "lat": "41.6080",
+    "lng": "2.2880",
+    "id": "1724011647"
+  },
+  {
+    "city": "La Línea de la Concepción",
+    "city_ascii": "La Linea de la Concepcion",
+    "admin_name": "Andalusia",
+    "lat": "36.1681",
+    "lng": "-5.3486",
+    "id": "1724170346"
+  },
+  {
+    "city": "Ponferrada",
+    "city_ascii": "Ponferrada",
+    "admin_name": "Castille-Leon",
+    "lat": "42.5500",
+    "lng": "-6.5833",
+    "id": "1724164693"
+  },
+  {
+    "city": "Irún",
+    "city_ascii": "Irun",
+    "admin_name": "Basque Country",
+    "lat": "43.3378",
+    "lng": "-1.7888",
+    "id": "1724796753"
+  },
+  {
+    "city": "Boadilla del Monte",
+    "city_ascii": "Boadilla del Monte",
+    "admin_name": "Madrid",
+    "lat": "40.4069",
+    "lng": "-3.8750",
+    "id": "1724646651"
+  },
+  {
+    "city": "Alcoy",
+    "city_ascii": "Alcoy",
+    "admin_name": "Valencia",
+    "lat": "38.6983",
+    "lng": "-0.4736",
+    "id": "1724702362"
+  },
+  {
+    "city": "San Vicente del Raspeig",
+    "city_ascii": "San Vicente del Raspeig",
+    "admin_name": "Valencia",
+    "lat": "38.3964",
+    "lng": "-0.5253",
+    "id": "1724135642"
+  },
+  {
+    "city": "Mérida",
+    "city_ascii": "Merida",
+    "admin_name": "Extremadura",
+    "lat": "38.9000",
+    "lng": "-6.3333",
+    "id": "1724941889"
+  },
+  {
+    "city": "Aranjuez",
+    "city_ascii": "Aranjuez",
+    "admin_name": "Madrid",
+    "lat": "40.0333",
+    "lng": "-3.6028",
+    "id": "1724798101"
+  },
+  {
+    "city": "Motril",
+    "city_ascii": "Motril",
+    "admin_name": "Andalusia",
+    "lat": "36.7500",
+    "lng": "-3.5167",
+    "id": "1724209936"
+  },
+  {
+    "city": "Zamora",
+    "city_ascii": "Zamora",
+    "admin_name": "Castille-Leon",
+    "lat": "41.4989",
+    "lng": "-5.7556",
+    "id": "1724611317"
+  },
+  {
+    "city": "Ávila",
+    "city_ascii": "Avila",
+    "admin_name": "Castille-Leon",
+    "lat": "40.6500",
+    "lng": "-4.6833",
+    "id": "1724392183"
+  },
+  {
+    "city": "Granadilla de Abona",
+    "city_ascii": "Granadilla de Abona",
+    "admin_name": "Canary Islands",
+    "lat": "28.1167",
+    "lng": "-16.5667",
+    "id": "1724769973"
+  },
+  {
+    "city": "Colmenar Viejo",
+    "city_ascii": "Colmenar Viejo",
+    "admin_name": "Madrid",
+    "lat": "40.6589",
+    "lng": "-3.7658",
+    "id": "1724112232"
+  },
+  {
+    "city": "Pinto",
+    "city_ascii": "Pinto",
+    "admin_name": "Madrid",
+    "lat": "40.2500",
+    "lng": "-3.7000",
+    "id": "1724713530"
+  },
+  {
+    "city": "Linares",
+    "city_ascii": "Linares",
+    "admin_name": "Andalusia",
+    "lat": "38.0833",
+    "lng": "-3.6333",
+    "id": "1724047784"
+  },
+  {
+    "city": "Huesca",
+    "city_ascii": "Huesca",
+    "admin_name": "Aragon",
+    "lat": "42.1333",
+    "lng": "-0.4167",
+    "id": "1724384043"
+  },
+  {
+    "city": "San Bartolomé",
+    "city_ascii": "San Bartolome",
+    "admin_name": "Canary Islands",
+    "lat": "27.9256",
+    "lng": "-15.5725",
+    "id": "1724008128"
+  },
+  {
+    "city": "Elda",
+    "city_ascii": "Elda",
+    "admin_name": "Valencia",
+    "lat": "38.4789",
+    "lng": "-0.7967",
+    "id": "1724626332"
+  },
+  {
+    "city": "Ibiza",
+    "city_ascii": "Ibiza",
+    "admin_name": "Balearic Islands",
+    "lat": "38.9089",
+    "lng": "1.4328",
+    "id": "1724123244"
+  },
+  {
+    "city": "Cuenca",
+    "city_ascii": "Cuenca",
+    "admin_name": "Castille-La Mancha",
+    "lat": "40.0667",
+    "lng": "-2.1500",
+    "id": "1724316040"
+  },
+  {
+    "city": "Pola de Siero",
+    "city_ascii": "Pola de Siero",
+    "admin_name": "Asturias",
+    "lat": "43.3833",
+    "lng": "-5.6500",
+    "id": "1724178701"
+  },
+  {
+    "city": "Villareal",
+    "city_ascii": "Villareal",
+    "admin_name": "Valencia",
+    "lat": "39.9378",
+    "lng": "-0.1014",
+    "id": "1724206895"
+  },
+  {
+    "city": "Mollet",
+    "city_ascii": "Mollet",
+    "admin_name": "Catalonia",
+    "lat": "41.5390",
+    "lng": "2.2130",
+    "id": "1724443143"
+  },
+  {
+    "city": "Rincón de la Victoria",
+    "city_ascii": "Rincon de la Victoria",
+    "admin_name": "Andalusia",
+    "lat": "36.7167",
+    "lng": "-4.2833",
+    "id": "1724481445"
+  },
+  {
+    "city": "Utrera",
+    "city_ascii": "Utrera",
+    "admin_name": "Andalusia",
+    "lat": "37.1830",
+    "lng": "-5.7670",
+    "id": "1724187644"
+  },
+  {
+    "city": "Torrelavega",
+    "city_ascii": "Torrelavega",
+    "admin_name": "Cantabria",
+    "lat": "43.3531",
+    "lng": "-4.0458",
+    "id": "1724275022"
+  },
+  {
+    "city": "Segovia",
+    "city_ascii": "Segovia",
+    "admin_name": "Castille-Leon",
+    "lat": "40.9481",
+    "lng": "-4.1183",
+    "id": "1724953497"
+  },
+  {
+    "city": "Adeje",
+    "city_ascii": "Adeje",
+    "admin_name": "Canary Islands",
+    "lat": "28.1167",
+    "lng": "-16.7167",
+    "id": "1724394126"
+  },
+  {
+    "city": "Figueras",
+    "city_ascii": "Figueras",
+    "admin_name": "Catalonia",
+    "lat": "42.2667",
+    "lng": "2.9650",
+    "id": "1724895039"
+  },
+  {
+    "city": "Vich",
+    "city_ascii": "Vich",
+    "admin_name": "Catalonia",
+    "lat": "41.9301",
+    "lng": "2.2549",
+    "id": "1724823476"
+  },
+  {
+    "city": "Gavá",
+    "city_ascii": "Gava",
+    "admin_name": "Catalonia",
+    "lat": "41.3072",
+    "lng": "2.0039",
+    "id": "1724806532"
+  },
+  {
+    "city": "Mairena del Aljarafe",
+    "city_ascii": "Mairena del Aljarafe",
+    "admin_name": "Andalusia",
+    "lat": "37.3333",
+    "lng": "-6.0667",
+    "id": "1724732496"
+  },
+  {
+    "city": "Manacor",
+    "city_ascii": "Manacor",
+    "admin_name": "Balearic Islands",
+    "lat": "39.5667",
+    "lng": "3.2000",
+    "id": "1724483399"
+  },
+  {
+    "city": "Esplugas de Llobregat",
+    "city_ascii": "Esplugas de Llobregat",
+    "admin_name": "Catalonia",
+    "lat": "41.3767",
+    "lng": "2.0858",
+    "id": "1724352928"
+  },
+  {
+    "city": "Alcira",
+    "city_ascii": "Alcira",
+    "admin_name": "Valencia",
+    "lat": "39.1500",
+    "lng": "-0.4350",
+    "id": "1724303009"
+  },
+  {
+    "city": "Denia",
+    "city_ascii": "Denia",
+    "admin_name": "Valencia",
+    "lat": "38.8444",
+    "lng": "0.1111",
+    "id": "1724032915"
+  },
+  {
+    "city": "San Felíu de Llobregat",
+    "city_ascii": "San Feliu de Llobregat",
+    "admin_name": "Catalonia",
+    "lat": "41.3833",
+    "lng": "2.0439",
+    "id": "1724279247"
+  },
+  {
+    "city": "Santurce-Antiguo",
+    "city_ascii": "Santurce-Antiguo",
+    "admin_name": "Basque Country",
+    "lat": "43.3303",
+    "lng": "-3.0314",
+    "id": "1724220415"
+  },
+  {
+    "city": "Mislata",
+    "city_ascii": "Mislata",
+    "admin_name": "Valencia",
+    "lat": "39.4750",
+    "lng": "-0.4156",
+    "id": "1724001899"
+  },
+  {
+    "city": "San Antonio Abad",
+    "city_ascii": "San Antonio Abad",
+    "admin_name": "Murcia",
+    "lat": "37.6261",
+    "lng": "-0.9896",
+    "id": "1724212697"
+  },
+  {
+    "city": "Puertollano",
+    "city_ascii": "Puertollano",
+    "admin_name": "Castille-La Mancha",
+    "lat": "38.6833",
+    "lng": "-4.1167",
+    "id": "1724051219"
+  },
+  {
+    "city": "Portugalete",
+    "city_ascii": "Portugalete",
+    "admin_name": "Basque Country",
+    "lat": "43.3194",
+    "lng": "-3.0194",
+    "id": "1724017694"
+  },
+  {
+    "city": "Puerto del Rosario",
+    "city_ascii": "Puerto del Rosario",
+    "admin_name": "Canary Islands",
+    "lat": "28.5000",
+    "lng": "-13.8667",
+    "id": "1724461156"
+  },
+  {
+    "city": "Alhaurín de la Torre",
+    "city_ascii": "Alhaurin de la Torre",
+    "admin_name": "Andalusia",
+    "lat": "36.6667",
+    "lng": "-4.5500",
+    "id": "1724504346"
+  },
+  {
+    "city": "Alcantarilla",
+    "city_ascii": "Alcantarilla",
+    "admin_name": "Murcia",
+    "lat": "37.9722",
+    "lng": "-1.2094",
+    "id": "1724229842"
+  },
+  {
+    "city": "Lucena",
+    "city_ascii": "Lucena",
+    "admin_name": "Andalusia",
+    "lat": "37.4089",
+    "lng": "-4.4853",
+    "id": "1724391367"
+  },
+  {
+    "city": "Lloret de Mar",
+    "city_ascii": "Lloret de Mar",
+    "admin_name": "Catalonia",
+    "lat": "41.7000",
+    "lng": "2.8333",
+    "id": "1724676299"
+  },
+  {
+    "city": "La Orotava",
+    "city_ascii": "La Orotava",
+    "admin_name": "Canary Islands",
+    "lat": "28.3906",
+    "lng": "-16.5247",
+    "id": "1724852308"
+  },
+  {
+    "city": "Blanes",
+    "city_ascii": "Blanes",
+    "admin_name": "Catalonia",
+    "lat": "41.6760",
+    "lng": "2.7930",
+    "id": "1724143581"
+  },
+  {
+    "city": "Puerto Real",
+    "city_ascii": "Puerto Real",
+    "admin_name": "Andalusia",
+    "lat": "36.5292",
+    "lng": "-6.1919",
+    "id": "1724134848"
+  },
+  {
+    "city": "Santa Eulalia del Río",
+    "city_ascii": "Santa Eulalia del Rio",
+    "admin_name": "Balearic Islands",
+    "lat": "38.0000",
+    "lng": "59.0000",
+    "id": "1724568151"
+  },
+  {
+    "city": "Antequera",
+    "city_ascii": "Antequera",
+    "admin_name": "Andalusia",
+    "lat": "37.0183",
+    "lng": "-4.5597",
+    "id": "1724357550"
+  },
+  {
+    "city": "Villafranca del Panadés",
+    "city_ascii": "Villafranca del Panades",
+    "admin_name": "Catalonia",
+    "lat": "41.0000",
+    "lng": "20.0000",
+    "id": "1724718493"
+  },
+  {
+    "city": "Igualada",
+    "city_ascii": "Igualada",
+    "admin_name": "Catalonia",
+    "lat": "41.5833",
+    "lng": "1.6167",
+    "id": "1724444786"
+  },
+  {
+    "city": "Soria",
+    "city_ascii": "Soria",
+    "admin_name": "Castille-Leon",
+    "lat": "41.7667",
+    "lng": "-2.4667",
+    "id": "1724106558"
+  },
+  {
+    "city": "Burjasot",
+    "city_ascii": "Burjasot",
+    "admin_name": "Valencia",
+    "lat": "39.5064",
+    "lng": "-0.4067",
+    "id": "1724238629"
+  },
+  {
+    "city": "La Rinconada",
+    "city_ascii": "La Rinconada",
+    "admin_name": "Andalusia",
+    "lat": "37.4878",
+    "lng": "-5.9789",
+    "id": "1724417340"
+  },
+  {
+    "city": "Vendrell",
+    "city_ascii": "Vendrell",
+    "admin_name": "Catalonia",
+    "lat": "41.2203",
+    "lng": "1.5347",
+    "id": "1724555594"
+  },
+  {
+    "city": "Marratxi",
+    "city_ascii": "Marratxi",
+    "admin_name": "Balearic Islands",
+    "lat": "39.6422",
+    "lng": "2.7528",
+    "id": "1724429400"
+  },
+  {
+    "city": "Torre-Pacheco",
+    "city_ascii": "Torre-Pacheco",
+    "admin_name": "Murcia",
+    "lat": "37.7333",
+    "lng": "-0.9500",
+    "id": "1724458704"
+  },
+  {
+    "city": "Lluchmayor",
+    "city_ascii": "Lluchmayor",
+    "admin_name": "Balearic Islands",
+    "lat": "39.4833",
+    "lng": "2.8833",
+    "id": "1724033667"
+  },
+  {
+    "city": "Plasencia",
+    "city_ascii": "Plasencia",
+    "admin_name": "Extremadura",
+    "lat": "40.0333",
+    "lng": "-6.1000",
+    "id": "1724951100"
+  },
+  {
+    "city": "Écija",
+    "city_ascii": "Ecija",
+    "admin_name": "Andalusia",
+    "lat": "37.5333",
+    "lng": "-5.0833",
+    "id": "1724919208"
+  },
+  {
+    "city": "Narón",
+    "city_ascii": "Naron",
+    "admin_name": "Galicia",
+    "lat": "43.5500",
+    "lng": "-8.1500",
+    "id": "1724543353"
+  },
+  {
+    "city": "Ripollet",
+    "city_ascii": "Ripollet",
+    "admin_name": "Catalonia",
+    "lat": "41.4969",
+    "lng": "2.1574",
+    "id": "1724013514"
+  },
+  {
+    "city": "San Fernando de Henares",
+    "city_ascii": "San Fernando de Henares",
+    "admin_name": "Madrid",
+    "lat": "40.4256",
+    "lng": "-3.5353",
+    "id": "1724056913"
+  },
+  {
+    "city": "Arucas",
+    "city_ascii": "Arucas",
+    "admin_name": "Canary Islands",
+    "lat": "28.1188",
+    "lng": "-15.5231",
+    "id": "1724017455"
+  },
+  {
+    "city": "Olot",
+    "city_ascii": "Olot",
+    "admin_name": "Catalonia",
+    "lat": "42.1833",
+    "lng": "2.4833",
+    "id": "1724694918"
+  },
+  {
+    "city": "Los Palacios y Villafranca",
+    "city_ascii": "Los Palacios y Villafranca",
+    "admin_name": "Andalusia",
+    "lat": "37.1625",
+    "lng": "-5.9242",
+    "id": "1724334949"
+  },
+  {
+    "city": "Tudela",
+    "city_ascii": "Tudela",
+    "admin_name": "Navarre",
+    "lat": "42.0653",
+    "lng": "-1.6067",
+    "id": "1724338927"
+  },
+  {
+    "city": "Santa Pola",
+    "city_ascii": "Santa Pola",
+    "admin_name": "Valencia",
+    "lat": "38.1897",
+    "lng": "-0.5556",
+    "id": "1724077015"
+  },
+  {
+    "city": "San Adrián de Besós",
+    "city_ascii": "San Adrian de Besos",
+    "admin_name": "Catalonia",
+    "lat": "41.4285",
+    "lng": "2.2230",
+    "id": "1724799974"
+  },
+  {
+    "city": "Oleiros",
+    "city_ascii": "Oleiros",
+    "admin_name": "Galicia",
+    "lat": "43.3333",
+    "lng": "-8.3166",
+    "id": "1724989777"
+  },
+  {
+    "city": "Sama",
+    "city_ascii": "Sama",
+    "admin_name": "Asturias",
+    "lat": "43.3000",
+    "lng": "-5.6833",
+    "id": "1724748229"
+  },
+  {
+    "city": "Villagarcía de Arosa",
+    "city_ascii": "Villagarcia de Arosa",
+    "admin_name": "Galicia",
+    "lat": "42.5977",
+    "lng": "-8.7632",
+    "id": "1724392038"
+  },
+  {
+    "city": "Don Benito",
+    "city_ascii": "Don Benito",
+    "admin_name": "Extremadura",
+    "lat": "38.9545",
+    "lng": "-5.8617",
+    "id": "1724257021"
+  },
+  {
+    "city": "Águilas",
+    "city_ascii": "Aguilas",
+    "admin_name": "Murcia",
+    "lat": "37.4042",
+    "lng": "-1.5819",
+    "id": "1724197717"
+  },
+  {
+    "city": "Arroyomolinos",
+    "city_ascii": "Arroyomolinos",
+    "admin_name": "Madrid",
+    "lat": "40.2667",
+    "lng": "-3.9000",
+    "id": "1724999273"
+  },
+  {
+    "city": "Moncada",
+    "city_ascii": "Moncada",
+    "admin_name": "Catalonia",
+    "lat": "41.4872",
+    "lng": "2.1878",
+    "id": "1724353233"
+  },
+  {
+    "city": "Burriana",
+    "city_ascii": "Burriana",
+    "admin_name": "Valencia",
+    "lat": "39.8894",
+    "lng": "-0.0925",
+    "id": "1724445446"
+  },
+  {
+    "city": "Cambrils",
+    "city_ascii": "Cambrils",
+    "admin_name": "Catalonia",
+    "lat": "41.0667",
+    "lng": "1.0583",
+    "id": "1724843807"
+  },
+  {
+    "city": "Teruel",
+    "city_ascii": "Teruel",
+    "admin_name": "Aragon",
+    "lat": "40.3436",
+    "lng": "-1.1072",
+    "id": "1724398880"
+  },
+  {
+    "city": "Tomelloso",
+    "city_ascii": "Tomelloso",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.1578",
+    "lng": "-3.0208",
+    "id": "1724367154"
+  },
+  {
+    "city": "Onteniente",
+    "city_ascii": "Onteniente",
+    "admin_name": "Valencia",
+    "lat": "38.8222",
+    "lng": "-0.6072",
+    "id": "1724051475"
+  },
+  {
+    "city": "Mieres",
+    "city_ascii": "Mieres",
+    "admin_name": "Asturias",
+    "lat": "43.2508",
+    "lng": "-5.7767",
+    "id": "1724137111"
+  },
+  {
+    "city": "El Plan",
+    "city_ascii": "El Plan",
+    "admin_name": "Murcia",
+    "lat": "37.6405",
+    "lng": "-1.0085",
+    "id": "1724468727"
+  },
+  {
+    "city": "Miranda de Ebro",
+    "city_ascii": "Miranda de Ebro",
+    "admin_name": "Castille-Leon",
+    "lat": "42.6833",
+    "lng": "-2.9333",
+    "id": "1724933402"
+  },
+  {
+    "city": "San Javier",
+    "city_ascii": "San Javier",
+    "admin_name": "Murcia",
+    "lat": "37.8037",
+    "lng": "-0.8343",
+    "id": "1724177387"
+  },
+  {
+    "city": "Inca",
+    "city_ascii": "Inca",
+    "admin_name": "Balearic Islands",
+    "lat": "39.7167",
+    "lng": "2.9167",
+    "id": "1724489288"
+  },
+  {
+    "city": "Andújar",
+    "city_ascii": "Andujar",
+    "admin_name": "Andalusia",
+    "lat": "38.0392",
+    "lng": "-4.0506",
+    "id": "1724144147"
+  },
+  {
+    "city": "Cieza",
+    "city_ascii": "Cieza",
+    "admin_name": "Murcia",
+    "lat": "38.2392",
+    "lng": "-1.4189",
+    "id": "1724168894"
+  },
+  {
+    "city": "Tortosa",
+    "city_ascii": "Tortosa",
+    "admin_name": "Catalonia",
+    "lat": "40.8128",
+    "lng": "0.5233",
+    "id": "1724228664"
+  },
+  {
+    "city": "Azuqueca de Henares",
+    "city_ascii": "Azuqueca de Henares",
+    "admin_name": "Castille-La Mancha",
+    "lat": "40.5647",
+    "lng": "-3.2681",
+    "id": "1724909657"
+  },
+  {
+    "city": "Yecla",
+    "city_ascii": "Yecla",
+    "admin_name": "Murcia",
+    "lat": "38.6136",
+    "lng": "-1.1147",
+    "id": "1724394283"
+  },
+  {
+    "city": "Mazarrón",
+    "city_ascii": "Mazarron",
+    "admin_name": "Murcia",
+    "lat": "37.5983",
+    "lng": "-1.3139",
+    "id": "1724139198"
+  },
+  {
+    "city": "San Juan Despí",
+    "city_ascii": "San Juan Despi",
+    "admin_name": "Catalonia",
+    "lat": "41.3681",
+    "lng": "2.0581",
+    "id": "1724606295"
+  },
+  {
+    "city": "Galapagar",
+    "city_ascii": "Galapagar",
+    "admin_name": "Madrid",
+    "lat": "40.5764",
+    "lng": "-4.0019",
+    "id": "1724218090"
+  },
+  {
+    "city": "Villajoyosa",
+    "city_ascii": "Villajoyosa",
+    "admin_name": "Valencia",
+    "lat": "38.5053",
+    "lng": "-0.2328",
+    "id": "1724104919"
+  },
+  {
+    "city": "Villena",
+    "city_ascii": "Villena",
+    "admin_name": "Valencia",
+    "lat": "38.6350",
+    "lng": "-0.8658",
+    "id": "1724638080"
+  },
+  {
+    "city": "Almendralejo",
+    "city_ascii": "Almendralejo",
+    "admin_name": "Extremadura",
+    "lat": "38.6833",
+    "lng": "-6.4167",
+    "id": "1724000018"
+  },
+  {
+    "city": "Úbeda",
+    "city_ascii": "Ubeda",
+    "admin_name": "Andalusia",
+    "lat": "38.0133",
+    "lng": "-3.3705",
+    "id": "1724367504"
+  },
+  {
+    "city": "San Roque",
+    "city_ascii": "San Roque",
+    "admin_name": "Andalusia",
+    "lat": "36.2097",
+    "lng": "-5.3844",
+    "id": "1724332438"
+  },
+  {
+    "city": "Petrel",
+    "city_ascii": "Petrel",
+    "admin_name": "Valencia",
+    "lat": "38.4845",
+    "lng": "-0.7696",
+    "id": "1724000064"
+  },
+  {
+    "city": "Arteijo",
+    "city_ascii": "Arteijo",
+    "admin_name": "Galicia",
+    "lat": "43.3044",
+    "lng": "-8.5114",
+    "id": "1724272253"
+  },
+  {
+    "city": "Aldaya",
+    "city_ascii": "Aldaya",
+    "admin_name": "Valencia",
+    "lat": "39.4639",
+    "lng": "-0.4628",
+    "id": "1724676507"
+  },
+  {
+    "city": "Salt",
+    "city_ascii": "Salt",
+    "admin_name": "Catalonia",
+    "lat": "41.9761",
+    "lng": "2.7881",
+    "id": "1724677327"
+  },
+  {
+    "city": "Aranda de Duero",
+    "city_ascii": "Aranda de Duero",
+    "admin_name": "Castille-Leon",
+    "lat": "41.6833",
+    "lng": "-3.6833",
+    "id": "1724218741"
+  },
+  {
+    "city": "Totana",
+    "city_ascii": "Totana",
+    "admin_name": "Murcia",
+    "lat": "37.7711",
+    "lng": "-1.5003",
+    "id": "1724153814"
+  },
+  {
+    "city": "Castro-Urdiales",
+    "city_ascii": "Castro-Urdiales",
+    "admin_name": "Cantabria",
+    "lat": "43.3844",
+    "lng": "-3.2150",
+    "id": "1724390704"
+  },
+  {
+    "city": "Ronda",
+    "city_ascii": "Ronda",
+    "admin_name": "Andalusia",
+    "lat": "36.7372",
+    "lng": "-5.1647",
+    "id": "1724795472"
+  },
+  {
+    "city": "Agüimes",
+    "city_ascii": "Aguimes",
+    "admin_name": "Canary Islands",
+    "lat": "27.8833",
+    "lng": "-15.4333",
+    "id": "1724305091"
+  },
+  {
+    "city": "Níjar",
+    "city_ascii": "Nijar",
+    "admin_name": "Andalusia",
+    "lat": "36.9667",
+    "lng": "-2.2000",
+    "id": "1724044503"
+  },
+  {
+    "city": "Amés",
+    "city_ascii": "Ames",
+    "admin_name": "Galicia",
+    "lat": "42.9000",
+    "lng": "-8.6333",
+    "id": "1724737109"
+  },
+  {
+    "city": "Ingenio",
+    "city_ascii": "Ingenio",
+    "admin_name": "Canary Islands",
+    "lat": "27.9214",
+    "lng": "-15.4325",
+    "id": "1724555097"
+  },
+  {
+    "city": "Sitges",
+    "city_ascii": "Sitges",
+    "admin_name": "Catalonia",
+    "lat": "41.2370",
+    "lng": "1.8230",
+    "id": "1724328412"
+  },
+  {
+    "city": "Manises",
+    "city_ascii": "Manises",
+    "admin_name": "Valencia",
+    "lat": "39.4833",
+    "lng": "-0.4500",
+    "id": "1724921476"
+  },
+  {
+    "city": "San Pedro de Ribas",
+    "city_ascii": "San Pedro de Ribas",
+    "admin_name": "Catalonia",
+    "lat": "41.2597",
+    "lng": "1.7736",
+    "id": "1724896777"
+  },
+  {
+    "city": "Calafell",
+    "city_ascii": "Calafell",
+    "admin_name": "Catalonia",
+    "lat": "41.2020",
+    "lng": "1.5700",
+    "id": "1724383580"
+  },
+  {
+    "city": "Carballo",
+    "city_ascii": "Carballo",
+    "admin_name": "Galicia",
+    "lat": "43.2167",
+    "lng": "-8.6833",
+    "id": "1724180814"
+  },
+  {
+    "city": "Alcázar de San Juan",
+    "city_ascii": "Alcazar de San Juan",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.4056",
+    "lng": "-3.2056",
+    "id": "1724889534"
+  },
+  {
+    "city": "Navalcarnero",
+    "city_ascii": "Navalcarnero",
+    "admin_name": "Madrid",
+    "lat": "40.2847",
+    "lng": "-4.0136",
+    "id": "1724865858"
+  },
+  {
+    "city": "Puerto de la Cruz",
+    "city_ascii": "Puerto de la Cruz",
+    "admin_name": "Canary Islands",
+    "lat": "28.4167",
+    "lng": "-16.5333",
+    "id": "1724298488"
+  },
+  {
+    "city": "Coria del Río",
+    "city_ascii": "Coria del Rio",
+    "admin_name": "Andalusia",
+    "lat": "37.2833",
+    "lng": "-6.0500",
+    "id": "1724372076"
+  },
+  {
+    "city": "Culleredo",
+    "city_ascii": "Culleredo",
+    "admin_name": "Galicia",
+    "lat": "43.2883",
+    "lng": "-8.3894",
+    "id": "1724416062"
+  },
+  {
+    "city": "Arcos de la Frontera",
+    "city_ascii": "Arcos de la Frontera",
+    "admin_name": "Andalusia",
+    "lat": "36.7500",
+    "lng": "-5.8000",
+    "id": "1724851482"
+  },
+  {
+    "city": "Salou",
+    "city_ascii": "Salou",
+    "admin_name": "Catalonia",
+    "lat": "41.0770",
+    "lng": "1.1440",
+    "id": "1724922401"
+  },
+  {
+    "city": "Valdepeñas",
+    "city_ascii": "Valdepenas",
+    "admin_name": "Castille-La Mancha",
+    "lat": "38.7617",
+    "lng": "-3.3850",
+    "id": "1724776859"
+  },
+  {
+    "city": "Crevillente",
+    "city_ascii": "Crevillente",
+    "admin_name": "Valencia",
+    "lat": "38.2486",
+    "lng": "-0.8089",
+    "id": "1724275111"
+  },
+  {
+    "city": "Illescas",
+    "city_ascii": "Illescas",
+    "admin_name": "Castille-La Mancha",
+    "lat": "40.1167",
+    "lng": "-3.8333",
+    "id": "1724426043"
+  },
+  {
+    "city": "Hellín",
+    "city_ascii": "Hellin",
+    "admin_name": "Castille-La Mancha",
+    "lat": "38.5167",
+    "lng": "-1.6833",
+    "id": "1724570430"
+  },
+  {
+    "city": "Vinaroz",
+    "city_ascii": "Vinaroz",
+    "admin_name": "Valencia",
+    "lat": "40.4686",
+    "lng": "0.4736",
+    "id": "1724995416"
+  },
+  {
+    "city": "Catarroja",
+    "city_ascii": "Catarroja",
+    "admin_name": "Valencia",
+    "lat": "39.4028",
+    "lng": "-0.4044",
+    "id": "1724221843"
+  },
+  {
+    "city": "Alacuás",
+    "city_ascii": "Alacuas",
+    "admin_name": "Valencia",
+    "lat": "39.4583",
+    "lng": "-0.4628",
+    "id": "1724760114"
+  },
+  {
+    "city": "Mahón",
+    "city_ascii": "Mahon",
+    "admin_name": "Balearic Islands",
+    "lat": "39.8875",
+    "lng": "4.2611",
+    "id": "1724771449"
+  },
+  {
+    "city": "Durango",
+    "city_ascii": "Durango",
+    "admin_name": "Basque Country",
+    "lat": "43.1689",
+    "lng": "-2.6300",
+    "id": "1724494232"
+  },
+  {
+    "city": "San Andrés del Rabanedo",
+    "city_ascii": "San Andres del Rabanedo",
+    "admin_name": "Castille-Leon",
+    "lat": "42.6167",
+    "lng": "-5.6000",
+    "id": "1724350553"
+  },
+  {
+    "city": "Puente-Genil",
+    "city_ascii": "Puente-Genil",
+    "admin_name": "Andalusia",
+    "lat": "37.3833",
+    "lng": "-4.7667",
+    "id": "1724654674"
+  },
+  {
+    "city": "La Oliva",
+    "city_ascii": "La Oliva",
+    "admin_name": "Canary Islands",
+    "lat": "28.6111",
+    "lng": "-13.9278",
+    "id": "1724741564"
+  },
+  {
+    "city": "Benicarló",
+    "city_ascii": "Benicarlo",
+    "admin_name": "Valencia",
+    "lat": "40.4167",
+    "lng": "0.4167",
+    "id": "1724776568"
+  },
+  {
+    "city": "Rota",
+    "city_ascii": "Rota",
+    "admin_name": "Andalusia",
+    "lat": "36.6167",
+    "lng": "-6.3500",
+    "id": "1724152240"
+  },
+  {
+    "city": "Carmona",
+    "city_ascii": "Carmona",
+    "admin_name": "Andalusia",
+    "lat": "37.4667",
+    "lng": "-5.6333",
+    "id": "1724616347"
+  },
+  {
+    "city": "Lepe",
+    "city_ascii": "Lepe",
+    "admin_name": "Andalusia",
+    "lat": "37.2542",
+    "lng": "-7.2033",
+    "id": "1724165295"
+  },
+  {
+    "city": "Redondela",
+    "city_ascii": "Redondela",
+    "admin_name": "Galicia",
+    "lat": "42.2833",
+    "lng": "-8.6167",
+    "id": "1724657198"
+  },
+  {
+    "city": "Premiá de Mar",
+    "city_ascii": "Premia de Mar",
+    "admin_name": "Catalonia",
+    "lat": "41.4919",
+    "lng": "2.3619",
+    "id": "1724296865"
+  },
+  {
+    "city": "Cártama",
+    "city_ascii": "Cartama",
+    "admin_name": "Andalusia",
+    "lat": "36.7114",
+    "lng": "-4.6306",
+    "id": "1724807752"
+  },
+  {
+    "city": "Vícar",
+    "city_ascii": "Vicar",
+    "admin_name": "Andalusia",
+    "lat": "36.8317",
+    "lng": "-2.6431",
+    "id": "1724429496"
+  },
+  {
+    "city": "Candelaria",
+    "city_ascii": "Candelaria",
+    "admin_name": "Canary Islands",
+    "lat": "28.3547",
+    "lng": "-16.3711",
+    "id": "1724124128"
+  },
+  {
+    "city": "San Pedro del Pinatar",
+    "city_ascii": "San Pedro del Pinatar",
+    "admin_name": "Murcia",
+    "lat": "37.8167",
+    "lng": "-0.7500",
+    "id": "1724144996"
+  },
+  {
+    "city": "Camas",
+    "city_ascii": "Camas",
+    "admin_name": "Andalusia",
+    "lat": "37.4000",
+    "lng": "-6.0333",
+    "id": "1724068126"
+  },
+  {
+    "city": "Martorell",
+    "city_ascii": "Martorell",
+    "admin_name": "Catalonia",
+    "lat": "41.4770",
+    "lng": "1.9280",
+    "id": "1724754042"
+  },
+  {
+    "city": "Almazora",
+    "city_ascii": "Almazora",
+    "admin_name": "Valencia",
+    "lat": "39.9403",
+    "lng": "-0.0625",
+    "id": "1724564412"
+  },
+  {
+    "city": "Sueca",
+    "city_ascii": "Sueca",
+    "admin_name": "Valencia",
+    "lat": "39.2000",
+    "lng": "-0.3114",
+    "id": "1724472560"
+  },
+  {
+    "city": "San Vicente dels Horts",
+    "city_ascii": "San Vicente dels Horts",
+    "admin_name": "Catalonia",
+    "lat": "41.3953",
+    "lng": "2.0108",
+    "id": "1724724364"
+  },
+  {
+    "city": "Sestao",
+    "city_ascii": "Sestao",
+    "admin_name": "Basque Country",
+    "lat": "43.3108",
+    "lng": "-3.0056",
+    "id": "1724738779"
+  },
+  {
+    "city": "Villaviciosa de Odón",
+    "city_ascii": "Villaviciosa de Odon",
+    "admin_name": "Madrid",
+    "lat": "40.3583",
+    "lng": "-3.9033",
+    "id": "1724552632"
+  },
+  {
+    "city": "Seseña",
+    "city_ascii": "Sesena",
+    "admin_name": "Castille-La Mancha",
+    "lat": "40.1036",
+    "lng": "-3.6981",
+    "id": "1724634027"
+  },
+  {
+    "city": "Algemesí",
+    "city_ascii": "Algemesi",
+    "admin_name": "Valencia",
+    "lat": "39.1897",
+    "lng": "-0.4378",
+    "id": "1724231513"
+  },
+  {
+    "city": "Muchamiel",
+    "city_ascii": "Muchamiel",
+    "admin_name": "Valencia",
+    "lat": "38.4136",
+    "lng": "-0.4456",
+    "id": "1724272993"
+  },
+  {
+    "city": "Paiporta",
+    "city_ascii": "Paiporta",
+    "admin_name": "Valencia",
+    "lat": "39.4278",
+    "lng": "-0.4183",
+    "id": "1724055183"
+  },
+  {
+    "city": "Lebrija",
+    "city_ascii": "Lebrija",
+    "admin_name": "Andalusia",
+    "lat": "36.9194",
+    "lng": "-6.0781",
+    "id": "1724598585"
+  },
+  {
+    "city": "Alhaurín el Grande",
+    "city_ascii": "Alhaurin el Grande",
+    "admin_name": "Andalusia",
+    "lat": "36.6331",
+    "lng": "-4.6831",
+    "id": "1724876495"
+  },
+  {
+    "city": "Bétera",
+    "city_ascii": "Betera",
+    "admin_name": "Valencia",
+    "lat": "39.5933",
+    "lng": "-0.4628",
+    "id": "1724948157"
+  },
+  {
+    "city": "Arriaga",
+    "city_ascii": "Arriaga",
+    "admin_name": "Basque Country",
+    "lat": "42.8667",
+    "lng": "-2.6800",
+    "id": "1724912878"
+  },
+  {
+    "city": "Almuñécar",
+    "city_ascii": "Almunecar",
+    "admin_name": "Andalusia",
+    "lat": "36.7333",
+    "lng": "-3.6833",
+    "id": "1724549849"
+  },
+  {
+    "city": "Jumilla",
+    "city_ascii": "Jumilla",
+    "admin_name": "Murcia",
+    "lat": "38.4792",
+    "lng": "-1.3250",
+    "id": "1724151562"
+  },
+  {
+    "city": "Paracuellos de Jarama",
+    "city_ascii": "Paracuellos de Jarama",
+    "admin_name": "Madrid",
+    "lat": "40.5500",
+    "lng": "-3.5167",
+    "id": "1724371566"
+  },
+  {
+    "city": "Morón de la Frontera",
+    "city_ascii": "Moron de la Frontera",
+    "admin_name": "Andalusia",
+    "lat": "37.1222",
+    "lng": "-5.4517",
+    "id": "1724945093"
+  },
+  {
+    "city": "Santa Eugenia",
+    "city_ascii": "Santa Eugenia",
+    "admin_name": "Galicia",
+    "lat": "42.5667",
+    "lng": "-8.9833",
+    "id": "1724379476"
+  },
+  {
+    "city": "San Andrés de la Barca",
+    "city_ascii": "San Andres de la Barca",
+    "admin_name": "Catalonia",
+    "lat": "41.4478",
+    "lng": "1.9769",
+    "id": "1724606046"
+  },
+  {
+    "city": "Molíns de Rey",
+    "city_ascii": "Molins de Rey",
+    "admin_name": "Catalonia",
+    "lat": "41.4139",
+    "lng": "2.0158",
+    "id": "1724528554"
+  },
+  {
+    "city": "Calpe",
+    "city_ascii": "Calpe",
+    "admin_name": "Valencia",
+    "lat": "38.6444",
+    "lng": "0.0461",
+    "id": "1724877295"
+  },
+  {
+    "city": "Cangas",
+    "city_ascii": "Cangas",
+    "admin_name": "Galicia",
+    "lat": "42.2642",
+    "lng": "-8.7819",
+    "id": "1724669943"
+  },
+  {
+    "city": "Alboraya",
+    "city_ascii": "Alboraya",
+    "admin_name": "Valencia",
+    "lat": "39.5000",
+    "lng": "-0.3522",
+    "id": "1724241743"
+  },
+  {
+    "city": "Novelda",
+    "city_ascii": "Novelda",
+    "admin_name": "Valencia",
+    "lat": "38.3850",
+    "lng": "-0.7680",
+    "id": "1724123582"
+  },
+  {
+    "city": "Ciempozuelos",
+    "city_ascii": "Ciempozuelos",
+    "admin_name": "Madrid",
+    "lat": "40.1592",
+    "lng": "-3.6183",
+    "id": "1724341699"
+  },
+  {
+    "city": "Oliva",
+    "city_ascii": "Oliva",
+    "admin_name": "Valencia",
+    "lat": "38.9194",
+    "lng": "-0.1211",
+    "id": "1724426329"
+  },
+  {
+    "city": "Santa Perpetua de Moguda",
+    "city_ascii": "Santa Perpetua de Moguda",
+    "admin_name": "Catalonia",
+    "lat": "41.5375",
+    "lng": "2.1819",
+    "id": "1724312278"
+  },
+  {
+    "city": "San Juan de Alicante",
+    "city_ascii": "San Juan de Alicante",
+    "admin_name": "Valencia",
+    "lat": "38.4014",
+    "lng": "-0.4367",
+    "id": "1724403338"
+  },
+  {
+    "city": "Onda",
+    "city_ascii": "Onda",
+    "admin_name": "Valencia",
+    "lat": "39.9625",
+    "lng": "-0.2639",
+    "id": "1724421220"
+  },
+  {
+    "city": "Coín",
+    "city_ascii": "Coin",
+    "admin_name": "Andalusia",
+    "lat": "36.6667",
+    "lng": "-4.7500",
+    "id": "1724570414"
+  },
+  {
+    "city": "Villanueva de la Serena",
+    "city_ascii": "Villanueva de la Serena",
+    "admin_name": "Extremadura",
+    "lat": "38.9667",
+    "lng": "-5.8000",
+    "id": "1724363816"
+  },
+  {
+    "city": "Adra",
+    "city_ascii": "Adra",
+    "admin_name": "Andalusia",
+    "lat": "36.7478",
+    "lng": "-3.0161",
+    "id": "1724071055"
+  },
+  {
+    "city": "Tomares",
+    "city_ascii": "Tomares",
+    "admin_name": "Andalusia",
+    "lat": "37.3764",
+    "lng": "-6.0458",
+    "id": "1724916166"
+  },
+  {
+    "city": "Armilla",
+    "city_ascii": "Armilla",
+    "admin_name": "Andalusia",
+    "lat": "37.1500",
+    "lng": "-3.6167",
+    "id": "1724964261"
+  },
+  {
+    "city": "Torrelodones",
+    "city_ascii": "Torrelodones",
+    "admin_name": "Madrid",
+    "lat": "40.5756",
+    "lng": "-3.9292",
+    "id": "1724434250"
+  },
+  {
+    "city": "Villarrobledo",
+    "city_ascii": "Villarrobledo",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.2667",
+    "lng": "-2.6000",
+    "id": "1724704168"
+  },
+  {
+    "city": "Liria",
+    "city_ascii": "Liria",
+    "admin_name": "Valencia",
+    "lat": "39.6258",
+    "lng": "-0.5942",
+    "id": "1724728759"
+  },
+  {
+    "city": "Calahorra",
+    "city_ascii": "Calahorra",
+    "admin_name": "La Rioja",
+    "lat": "42.3000",
+    "lng": "-1.9667",
+    "id": "1724553946"
+  },
+  {
+    "city": "Valls",
+    "city_ascii": "Valls",
+    "admin_name": "Catalonia",
+    "lat": "41.2883",
+    "lng": "1.2519",
+    "id": "1724511688"
+  },
+  {
+    "city": "Almonte",
+    "city_ascii": "Almonte",
+    "admin_name": "Andalusia",
+    "lat": "37.2667",
+    "lng": "-6.5167",
+    "id": "1724955448"
+  },
+  {
+    "city": "Gáldar",
+    "city_ascii": "Galdar",
+    "admin_name": "Canary Islands",
+    "lat": "28.1439",
+    "lng": "-15.6503",
+    "id": "1724009145"
+  },
+  {
+    "city": "Cambre",
+    "city_ascii": "Cambre",
+    "admin_name": "Galicia",
+    "lat": "43.2830",
+    "lng": "-8.3330",
+    "id": "1724885486"
+  },
+  {
+    "city": "Galdácano",
+    "city_ascii": "Galdacano",
+    "admin_name": "Basque Country",
+    "lat": "43.2306",
+    "lng": "-2.8458",
+    "id": "1724891889"
+  },
+  {
+    "city": "Olesa de Montserrat",
+    "city_ascii": "Olesa de Montserrat",
+    "admin_name": "Catalonia",
+    "lat": "41.5450",
+    "lng": "1.8944",
+    "id": "1724299057"
+  },
+  {
+    "city": "Erandio",
+    "city_ascii": "Erandio",
+    "admin_name": "Basque Country",
+    "lat": "43.3047",
+    "lng": "-2.9731",
+    "id": "1724931391"
+  },
+  {
+    "city": "Los Barrios",
+    "city_ascii": "Los Barrios",
+    "admin_name": "Andalusia",
+    "lat": "36.1833",
+    "lng": "-5.4833",
+    "id": "1724279475"
+  },
+  {
+    "city": "Martos",
+    "city_ascii": "Martos",
+    "admin_name": "Andalusia",
+    "lat": "37.7167",
+    "lng": "-3.9667",
+    "id": "1724000251"
+  },
+  {
+    "city": "Icod de los Vinos",
+    "city_ascii": "Icod de los Vinos",
+    "admin_name": "Canary Islands",
+    "lat": "28.3500",
+    "lng": "-16.7000",
+    "id": "1724332990"
+  },
+  {
+    "city": "Almansa",
+    "city_ascii": "Almansa",
+    "admin_name": "Castille-La Mancha",
+    "lat": "38.0000",
+    "lng": "52.0000",
+    "id": "1724819701"
+  },
+  {
+    "city": "Mairena del Alcor",
+    "city_ascii": "Mairena del Alcor",
+    "admin_name": "Andalusia",
+    "lat": "37.3667",
+    "lng": "-5.7333",
+    "id": "1724398748"
+  },
+  {
+    "city": "Ibi",
+    "city_ascii": "Ibi",
+    "admin_name": "Valencia",
+    "lat": "38.6272",
+    "lng": "-0.5753",
+    "id": "1724086250"
+  },
+  {
+    "city": "Cullera",
+    "city_ascii": "Cullera",
+    "admin_name": "Andalusia",
+    "lat": "39.1639",
+    "lng": "-0.2517",
+    "id": "1724054051"
+  },
+  {
+    "city": "Marín",
+    "city_ascii": "Marin",
+    "admin_name": "Galicia",
+    "lat": "42.3933",
+    "lng": "-8.7000",
+    "id": "1724759253"
+  },
+  {
+    "city": "Conil de la Frontera",
+    "city_ascii": "Conil de la Frontera",
+    "admin_name": "Andalusia",
+    "lat": "36.2667",
+    "lng": "-6.0833",
+    "id": "1724051704"
+  },
+  {
+    "city": "Altea",
+    "city_ascii": "Altea",
+    "admin_name": "Valencia",
+    "lat": "38.5986",
+    "lng": "-0.0519",
+    "id": "1724509426"
+  },
+  {
+    "city": "Mejorada del Campo",
+    "city_ascii": "Mejorada del Campo",
+    "admin_name": "Madrid",
+    "lat": "40.3967",
+    "lng": "-3.3858",
+    "id": "1724293748"
+  },
+  {
+    "city": "Pilar de la Horadada",
+    "city_ascii": "Pilar de la Horadada",
+    "admin_name": "Valencia",
+    "lat": "37.8667",
+    "lng": "-0.7833",
+    "id": "1724816403"
+  },
+  {
+    "city": "Vilaseca de Solcina",
+    "city_ascii": "Vilaseca de Solcina",
+    "admin_name": "Catalonia",
+    "lat": "41.1108",
+    "lng": "1.1450",
+    "id": "1724103527"
+  },
+  {
+    "city": "Alhama de Murcia",
+    "city_ascii": "Alhama de Murcia",
+    "admin_name": "Murcia",
+    "lat": "37.8514",
+    "lng": "-1.4264",
+    "id": "1724947627"
+  },
+  {
+    "city": "Moguer",
+    "city_ascii": "Moguer",
+    "admin_name": "Andalusia",
+    "lat": "37.0000",
+    "lng": "16.0000",
+    "id": "1724821530"
+  },
+  {
+    "city": "Teguise",
+    "city_ascii": "Teguise",
+    "admin_name": "Canary Islands",
+    "lat": "29.0500",
+    "lng": "-13.5667",
+    "id": "1724648198"
+  },
+  {
+    "city": "Zarautz",
+    "city_ascii": "Zarautz",
+    "admin_name": "Basque Country",
+    "lat": "43.2833",
+    "lng": "-2.1667",
+    "id": "1724056021"
+  },
+  {
+    "city": "Puenteareas",
+    "city_ascii": "Puenteareas",
+    "admin_name": "Galicia",
+    "lat": "42.1667",
+    "lng": "-8.5000",
+    "id": "1724337811"
+  },
+  {
+    "city": "San Juan de Aznalfarache",
+    "city_ascii": "San Juan de Aznalfarache",
+    "admin_name": "Andalusia",
+    "lat": "37.3667",
+    "lng": "-6.0167",
+    "id": "1724867783"
+  },
+  {
+    "city": "Bormujos",
+    "city_ascii": "Bormujos",
+    "admin_name": "Andalusia",
+    "lat": "37.3667",
+    "lng": "-6.0667",
+    "id": "1724359655"
+  },
+  {
+    "city": "San Felíu de Guixols",
+    "city_ascii": "San Feliu de Guixols",
+    "admin_name": "Catalonia",
+    "lat": "41.7833",
+    "lng": "3.0333",
+    "id": "1724736863"
+  },
+  {
+    "city": "Laguna de Duero",
+    "city_ascii": "Laguna de Duero",
+    "admin_name": "Castille-Leon",
+    "lat": "41.5833",
+    "lng": "-4.7167",
+    "id": "1724571345"
+  },
+  {
+    "city": "El Palmar",
+    "city_ascii": "El Palmar",
+    "admin_name": "Murcia",
+    "lat": "37.9422",
+    "lng": "-1.1614",
+    "id": "1724761061"
+  },
+  {
+    "city": "Villanueva de la Cañada",
+    "city_ascii": "Villanueva de la Canada",
+    "admin_name": "Madrid",
+    "lat": "40.4500",
+    "lng": "-3.9833",
+    "id": "1724000272"
+  },
+  {
+    "city": "Torre del Mar",
+    "city_ascii": "Torre del Mar",
+    "admin_name": "Andalusia",
+    "lat": "36.7500",
+    "lng": "-4.0833",
+    "id": "1724657999"
+  },
+  {
+    "city": "Barbate de Franco",
+    "city_ascii": "Barbate de Franco",
+    "admin_name": "Andalusia",
+    "lat": "36.1833",
+    "lng": "-5.9167",
+    "id": "1724165909"
+  },
+  {
+    "city": "Picasent",
+    "city_ascii": "Picasent",
+    "admin_name": "Valencia",
+    "lat": "39.3611",
+    "lng": "-0.4600",
+    "id": "1724170506"
+  },
+  {
+    "city": "Guía de Isora",
+    "city_ascii": "Guia de Isora",
+    "admin_name": "Canary Islands",
+    "lat": "28.2110",
+    "lng": "-16.7784",
+    "id": "1724572709"
+  },
+  {
+    "city": "Esparraguera",
+    "city_ascii": "Esparraguera",
+    "admin_name": "Catalonia",
+    "lat": "41.5381",
+    "lng": "1.8692",
+    "id": "1724908880"
+  },
+  {
+    "city": "Aljaraque",
+    "city_ascii": "Aljaraque",
+    "admin_name": "Andalusia",
+    "lat": "37.2667",
+    "lng": "-7.0167",
+    "id": "1724459161"
+  },
+  {
+    "city": "Almoradí",
+    "city_ascii": "Almoradi",
+    "admin_name": "Valencia",
+    "lat": "38.1097",
+    "lng": "-0.7894",
+    "id": "1724624918"
+  },
+  {
+    "city": "Las Torres de Cotillas",
+    "city_ascii": "Las Torres de Cotillas",
+    "admin_name": "Andalusia",
+    "lat": "38.0264",
+    "lng": "-1.2436",
+    "id": "1724150041"
+  },
+  {
+    "city": "Montilla",
+    "city_ascii": "Montilla",
+    "admin_name": "Andalusia",
+    "lat": "37.5833",
+    "lng": "-4.6333",
+    "id": "1724865599"
+  },
+  {
+    "city": "Maracena",
+    "city_ascii": "Maracena",
+    "admin_name": "Andalusia",
+    "lat": "37.2000",
+    "lng": "-3.6333",
+    "id": "1724029236"
+  },
+  {
+    "city": "Nerja",
+    "city_ascii": "Nerja",
+    "admin_name": "Andalusia",
+    "lat": "36.7469",
+    "lng": "-3.8789",
+    "id": "1724190692"
+  },
+  {
+    "city": "Alfafar",
+    "city_ascii": "Alfafar",
+    "admin_name": "Valencia",
+    "lat": "39.4222",
+    "lng": "-0.3906",
+    "id": "1724290706"
+  },
+  {
+    "city": "Moncada",
+    "city_ascii": "Moncada",
+    "admin_name": "Valencia",
+    "lat": "39.5431",
+    "lng": "-0.3928",
+    "id": "1724450178"
+  },
+  {
+    "city": "Aspe",
+    "city_ascii": "Aspe",
+    "admin_name": "Valencia",
+    "lat": "38.3456",
+    "lng": "-0.7689",
+    "id": "1724126700"
+  },
+  {
+    "city": "Priego de Córdoba",
+    "city_ascii": "Priego de Cordoba",
+    "admin_name": "Andalusia",
+    "lat": "37.4333",
+    "lng": "-4.1833",
+    "id": "1724212027"
+  },
+  {
+    "city": "Güimar",
+    "city_ascii": "Guimar",
+    "admin_name": "Canary Islands",
+    "lat": "28.3150",
+    "lng": "-16.4100",
+    "id": "1724294895"
+  },
+  {
+    "city": "Amposta",
+    "city_ascii": "Amposta",
+    "admin_name": "Catalonia",
+    "lat": "40.7106",
+    "lng": "0.5808",
+    "id": "1724566001"
+  },
+  {
+    "city": "Isla-Cristina",
+    "city_ascii": "Isla-Cristina",
+    "admin_name": "Andalusia",
+    "lat": "37.1992",
+    "lng": "-7.3214",
+    "id": "1724215419"
+  },
+  {
+    "city": "Ayamonte",
+    "city_ascii": "Ayamonte",
+    "admin_name": "Andalusia",
+    "lat": "37.2000",
+    "lng": "-7.4000",
+    "id": "1724119454"
+  },
+  {
+    "city": "Pájara",
+    "city_ascii": "Pajara",
+    "admin_name": "Canary Islands",
+    "lat": "28.3511",
+    "lng": "-14.1075",
+    "id": "1724377413"
+  },
+  {
+    "city": "Torrox",
+    "city_ascii": "Torrox",
+    "admin_name": "Andalusia",
+    "lat": "36.7500",
+    "lng": "-3.9500",
+    "id": "1724600506"
+  },
+  {
+    "city": "Alcalá la Real",
+    "city_ascii": "Alcala la Real",
+    "admin_name": "Andalusia",
+    "lat": "37.4500",
+    "lng": "-3.9167",
+    "id": "1724682908"
+  },
+  {
+    "city": "Cartaya",
+    "city_ascii": "Cartaya",
+    "admin_name": "Andalusia",
+    "lat": "37.2833",
+    "lng": "-7.1500",
+    "id": "1724750362"
+  },
+  {
+    "city": "Manlleu",
+    "city_ascii": "Manlleu",
+    "admin_name": "Catalonia",
+    "lat": "42.0000",
+    "lng": "2.2836",
+    "id": "1724798027"
+  },
+  {
+    "city": "Alcudia",
+    "city_ascii": "Alcudia",
+    "admin_name": "Balearic Islands",
+    "lat": "39.8525",
+    "lng": "3.1192",
+    "id": "1724681701"
+  },
+  {
+    "city": "Carcagente",
+    "city_ascii": "Carcagente",
+    "admin_name": "Valencia",
+    "lat": "39.1222",
+    "lng": "-0.4489",
+    "id": "1724931242"
+  },
+  {
+    "city": "Puzol",
+    "city_ascii": "Puzol",
+    "admin_name": "Valencia",
+    "lat": "39.6167",
+    "lng": "-0.3011",
+    "id": "1724895655"
+  },
+  {
+    "city": "Mogán",
+    "city_ascii": "Mogan",
+    "admin_name": "Canary Islands",
+    "lat": "27.8667",
+    "lng": "-15.7167",
+    "id": "1724251017"
+  },
+  {
+    "city": "San Juan de Vilasar",
+    "city_ascii": "San Juan de Vilasar",
+    "admin_name": "Catalonia",
+    "lat": "41.5060",
+    "lng": "2.3910",
+    "id": "1724259439"
+  },
+  {
+    "city": "La Unión",
+    "city_ascii": "La Union",
+    "admin_name": "Murcia",
+    "lat": "37.6192",
+    "lng": "-0.8756",
+    "id": "1724665681"
+  },
+  {
+    "city": "Palafrugell",
+    "city_ascii": "Palafrugell",
+    "admin_name": "Catalonia",
+    "lat": "41.9174",
+    "lng": "3.1631",
+    "id": "1724222383"
+  },
+  {
+    "city": "Archena",
+    "city_ascii": "Archena",
+    "admin_name": "Murcia",
+    "lat": "38.1150",
+    "lng": "-1.2992",
+    "id": "1724744981"
+  },
+  {
+    "city": "Sant Just Desvern",
+    "city_ascii": "Sant Just Desvern",
+    "admin_name": "Catalonia",
+    "lat": "41.3830",
+    "lng": "2.0750",
+    "id": "1724188832"
+  },
+  {
+    "city": "Loja",
+    "city_ascii": "Loja",
+    "admin_name": "Andalusia",
+    "lat": "37.1667",
+    "lng": "-4.1500",
+    "id": "1724466102"
+  },
+  {
+    "city": "Algete",
+    "city_ascii": "Algete",
+    "admin_name": "Madrid",
+    "lat": "40.5978",
+    "lng": "-3.5003",
+    "id": "1724204700"
+  },
+  {
+    "city": "Requena",
+    "city_ascii": "Requena",
+    "admin_name": "Valencia",
+    "lat": "39.4861",
+    "lng": "-1.1017",
+    "id": "1724453990"
+  },
+  {
+    "city": "Los Llanos de Aridane",
+    "city_ascii": "Los Llanos de Aridane",
+    "admin_name": "Canary Islands",
+    "lat": "28.6500",
+    "lng": "-17.9000",
+    "id": "1724727479"
+  },
+  {
+    "city": "Huércal-Overa",
+    "city_ascii": "Huercal-Overa",
+    "admin_name": "Andalusia",
+    "lat": "37.3833",
+    "lng": "-1.9333",
+    "id": "1724061354"
+  },
+  {
+    "city": "Bañolas",
+    "city_ascii": "Banolas",
+    "admin_name": "Catalonia",
+    "lat": "42.1194",
+    "lng": "2.7664",
+    "id": "1724632297"
+  },
+  {
+    "city": "Baza",
+    "city_ascii": "Baza",
+    "admin_name": "Andalusia",
+    "lat": "37.4833",
+    "lng": "-2.7667",
+    "id": "1724271422"
+  },
+  {
+    "city": "Palma del Río",
+    "city_ascii": "Palma del Rio",
+    "admin_name": "Andalusia",
+    "lat": "37.7000",
+    "lng": "-5.2833",
+    "id": "1724000025"
+  },
+  {
+    "city": "Alza",
+    "city_ascii": "Alza",
+    "admin_name": "Basque Country",
+    "lat": "43.3139",
+    "lng": "-1.9347",
+    "id": "1724062777"
+  },
+  {
+    "city": "Atarfe",
+    "city_ascii": "Atarfe",
+    "admin_name": "Andalusia",
+    "lat": "37.2229",
+    "lng": "-3.6899",
+    "id": "1724936353"
+  },
+  {
+    "city": "Calella",
+    "city_ascii": "Calella",
+    "admin_name": "Catalonia",
+    "lat": "41.6128",
+    "lng": "2.6575",
+    "id": "1724567421"
+  },
+  {
+    "city": "Rosas",
+    "city_ascii": "Rosas",
+    "admin_name": "Catalonia",
+    "lat": "42.2631",
+    "lng": "3.1831",
+    "id": "1724996343"
+  },
+  {
+    "city": "Hernani",
+    "city_ascii": "Hernani",
+    "admin_name": "Basque Country",
+    "lat": "43.2667",
+    "lng": "-1.9667",
+    "id": "1724313794"
+  },
+  {
+    "city": "Benicasim",
+    "city_ascii": "Benicasim",
+    "admin_name": "Valencia",
+    "lat": "40.0553",
+    "lng": "0.0642",
+    "id": "1724830248"
+  },
+  {
+    "city": "Lalín",
+    "city_ascii": "Lalin",
+    "admin_name": "Galicia",
+    "lat": "42.6500",
+    "lng": "-8.1167",
+    "id": "1724795282"
+  },
+  {
+    "city": "Silla",
+    "city_ascii": "Silla",
+    "admin_name": "Valencia",
+    "lat": "39.3611",
+    "lng": "-0.4114",
+    "id": "1724349109"
+  },
+  {
+    "city": "Medina del Campo",
+    "city_ascii": "Medina del Campo",
+    "admin_name": "Castille-Leon",
+    "lat": "41.3000",
+    "lng": "-4.9167",
+    "id": "1724808879"
+  },
+  {
+    "city": "Cabra",
+    "city_ascii": "Cabra",
+    "admin_name": "Andalusia",
+    "lat": "37.0000",
+    "lng": "28.0000",
+    "id": "1724617911"
+  },
+  {
+    "city": "San Martín de la Vega",
+    "city_ascii": "San Martin de la Vega",
+    "admin_name": "Madrid",
+    "lat": "40.2094",
+    "lng": "-3.5722",
+    "id": "1724328645"
+  },
+  {
+    "city": "Chipiona",
+    "city_ascii": "Chipiona",
+    "admin_name": "Andalusia",
+    "lat": "36.7333",
+    "lng": "-6.4333",
+    "id": "1724000060"
+  },
+  {
+    "city": "Tolosa",
+    "city_ascii": "Tolosa",
+    "admin_name": "Basque Country",
+    "lat": "43.1333",
+    "lng": "-2.0833",
+    "id": "1724081737"
+  },
+  {
+    "city": "Calatayud",
+    "city_ascii": "Calatayud",
+    "admin_name": "Aragon",
+    "lat": "41.3500",
+    "lng": "-1.6333",
+    "id": "1724454911"
+  },
+  {
+    "city": "Humanes de Madrid",
+    "city_ascii": "Humanes de Madrid",
+    "admin_name": "Madrid",
+    "lat": "40.2539",
+    "lng": "-3.8278",
+    "id": "1724764038"
+  },
+  {
+    "city": "Callosa de Segura",
+    "city_ascii": "Callosa de Segura",
+    "admin_name": "Valencia",
+    "lat": "38.1225",
+    "lng": "-0.8797",
+    "id": "1724000256"
+  },
+  {
+    "city": "Barañáin",
+    "city_ascii": "Baranain",
+    "admin_name": "Navarre",
+    "lat": "42.8000",
+    "lng": "-1.6667",
+    "id": "1724436657"
+  },
+  {
+    "city": "La Eliana",
+    "city_ascii": "La Eliana",
+    "admin_name": "Valencia",
+    "lat": "39.5661",
+    "lng": "-0.5281",
+    "id": "1724040123"
+  },
+  {
+    "city": "Albolote",
+    "city_ascii": "Albolote",
+    "admin_name": "Andalusia",
+    "lat": "37.2306",
+    "lng": "-3.6569",
+    "id": "1724140876"
+  },
+  {
+    "city": "Amorebieta",
+    "city_ascii": "Amorebieta",
+    "admin_name": "Basque Country",
+    "lat": "43.2192",
+    "lng": "-2.7342",
+    "id": "1724617538"
+  },
+  {
+    "city": "Los Alcázares",
+    "city_ascii": "Los Alcazares",
+    "admin_name": "Murcia",
+    "lat": "37.7436",
+    "lng": "-0.8497",
+    "id": "1724437898"
+  },
+  {
+    "city": "Vera",
+    "city_ascii": "Vera",
+    "admin_name": "Andalusia",
+    "lat": "37.2500",
+    "lng": "-1.8667",
+    "id": "1724244978"
+  },
+  {
+    "city": "San Bartolomé",
+    "city_ascii": "San Bartolome",
+    "admin_name": "Canary Islands",
+    "lat": "29.0016",
+    "lng": "-13.6139",
+    "id": "1724704449"
+  },
+  {
+    "city": "El Arahal",
+    "city_ascii": "El Arahal",
+    "admin_name": "Andalusia",
+    "lat": "37.2667",
+    "lng": "-5.5500",
+    "id": "1724678120"
+  },
+  {
+    "city": "Marchena",
+    "city_ascii": "Marchena",
+    "admin_name": "Andalusia",
+    "lat": "37.3333",
+    "lng": "-5.4167",
+    "id": "1724561354"
+  },
+  {
+    "city": "Malgrat de Mar",
+    "city_ascii": "Malgrat de Mar",
+    "admin_name": "Catalonia",
+    "lat": "41.6500",
+    "lng": "2.7500",
+    "id": "1724653510"
+  },
+  {
+    "city": "Moaña",
+    "city_ascii": "Moana",
+    "admin_name": "Galicia",
+    "lat": "42.2833",
+    "lng": "-8.7500",
+    "id": "1724505635"
+  },
+  {
+    "city": "El Viso del Alcor",
+    "city_ascii": "El Viso del Alcor",
+    "admin_name": "Andalusia",
+    "lat": "37.3833",
+    "lng": "-5.7167",
+    "id": "1724881330"
+  },
+  {
+    "city": "La Corredoría",
+    "city_ascii": "La Corredoria",
+    "admin_name": "Asturias",
+    "lat": "43.3853",
+    "lng": "-5.8208",
+    "id": "1724680069"
+  },
+  {
+    "city": "Cardedeu",
+    "city_ascii": "Cardedeu",
+    "admin_name": "Catalonia",
+    "lat": "41.6406",
+    "lng": "2.3594",
+    "id": "1724134455"
+  },
+  {
+    "city": "Utebo",
+    "city_ascii": "Utebo",
+    "admin_name": "Aragon",
+    "lat": "41.7167",
+    "lng": "-1.0000",
+    "id": "1724976095"
+  },
+  {
+    "city": "Boiro",
+    "city_ascii": "Boiro",
+    "admin_name": "Galicia",
+    "lat": "42.6500",
+    "lng": "-8.9000",
+    "id": "1724627314"
+  },
+  {
+    "city": "Felanitx",
+    "city_ascii": "Felanitx",
+    "admin_name": "Balearic Islands",
+    "lat": "39.4669",
+    "lng": "3.1483",
+    "id": "1724767579"
+  },
+  {
+    "city": "La Nucía",
+    "city_ascii": "La Nucia",
+    "admin_name": "Valencia",
+    "lat": "38.6172",
+    "lng": "-0.1231",
+    "id": "1724405068"
+  },
+  {
+    "city": "San Celoni",
+    "city_ascii": "San Celoni",
+    "admin_name": "Catalonia",
+    "lat": "41.6900",
+    "lng": "2.4900",
+    "id": "1724968176"
+  },
+  {
+    "city": "San Lorenzo de El Escorial",
+    "city_ascii": "San Lorenzo de El Escorial",
+    "admin_name": "Madrid",
+    "lat": "40.5936",
+    "lng": "-4.1428",
+    "id": "1724204190"
+  },
+  {
+    "city": "Guadix",
+    "city_ascii": "Guadix",
+    "admin_name": "Andalusia",
+    "lat": "37.3006",
+    "lng": "-3.1350",
+    "id": "1724022918"
+  },
+  {
+    "city": "Fuente-Álamo de Murcia",
+    "city_ascii": "Fuente-Alamo de Murcia",
+    "admin_name": "Murcia",
+    "lat": "37.7394",
+    "lng": "-1.1881",
+    "id": "1724036059"
+  },
+  {
+    "city": "Tarifa",
+    "city_ascii": "Tarifa",
+    "admin_name": "Andalusia",
+    "lat": "36.0140",
+    "lng": "-5.6060",
+    "id": "1724329319"
+  },
+  {
+    "city": "Villaquilambre",
+    "city_ascii": "Villaquilambre",
+    "admin_name": "Castille-Leon",
+    "lat": "42.6167",
+    "lng": "-5.6000",
+    "id": "1724727940"
+  },
+  {
+    "city": "Huércal de Almería",
+    "city_ascii": "Huercal de Almeria",
+    "admin_name": "Andalusia",
+    "lat": "36.8833",
+    "lng": "-2.4333",
+    "id": "1724495259"
+  },
+  {
+    "city": "Santa Brígida",
+    "city_ascii": "Santa Brigida",
+    "admin_name": "Canary Islands",
+    "lat": "28.0338",
+    "lng": "-15.4998",
+    "id": "1724790519"
+  },
+  {
+    "city": "Tárrega",
+    "city_ascii": "Tarrega",
+    "admin_name": "Catalonia",
+    "lat": "41.6469",
+    "lng": "1.1392",
+    "id": "1724893355"
+  },
+  {
+    "city": "El Astillero",
+    "city_ascii": "El Astillero",
+    "admin_name": "Cantabria",
+    "lat": "43.4017",
+    "lng": "-3.8194",
+    "id": "1724056681"
+  },
+  {
+    "city": "Baena",
+    "city_ascii": "Baena",
+    "admin_name": "Andalusia",
+    "lat": "37.6167",
+    "lng": "-4.3167",
+    "id": "1724279990"
+  },
+  {
+    "city": "Tordera",
+    "city_ascii": "Tordera",
+    "admin_name": "Catalonia",
+    "lat": "41.7008",
+    "lng": "2.7200",
+    "id": "1724310728"
+  },
+  {
+    "city": "Caldas de Montbuy",
+    "city_ascii": "Caldas de Montbuy",
+    "admin_name": "Catalonia",
+    "lat": "41.6292",
+    "lng": "2.1694",
+    "id": "1724624522"
+  },
+  {
+    "city": "Monforte de Lemos",
+    "city_ascii": "Monforte de Lemos",
+    "admin_name": "Galicia",
+    "lat": "42.5164",
+    "lng": "-7.5161",
+    "id": "1724233223"
+  },
+  {
+    "city": "Nigrán",
+    "city_ascii": "Nigran",
+    "admin_name": "Galicia",
+    "lat": "42.1419",
+    "lng": "-8.8056",
+    "id": "1724832311"
+  },
+  {
+    "city": "Lora del Río",
+    "city_ascii": "Lora del Rio",
+    "admin_name": "Andalusia",
+    "lat": "37.6500",
+    "lng": "-5.5167",
+    "id": "1724052917"
+  },
+  {
+    "city": "Yaiza",
+    "city_ascii": "Yaiza",
+    "admin_name": "Canary Islands",
+    "lat": "28.9550",
+    "lng": "-13.7667",
+    "id": "1724736697"
+  },
+  {
+    "city": "Guardamar del Segura",
+    "city_ascii": "Guardamar del Segura",
+    "admin_name": "Valencia",
+    "lat": "38.0897",
+    "lng": "-0.6550",
+    "id": "1724960242"
+  },
+  {
+    "city": "Manilva",
+    "city_ascii": "Manilva",
+    "admin_name": "Andalusia",
+    "lat": "36.3833",
+    "lng": "-5.2500",
+    "id": "1724772448"
+  },
+  {
+    "city": "Munguía",
+    "city_ascii": "Munguia",
+    "admin_name": "Basque Country",
+    "lat": "43.3547",
+    "lng": "-2.8472",
+    "id": "1724541767"
+  },
+  {
+    "city": "Torredembarra",
+    "city_ascii": "Torredembarra",
+    "admin_name": "Catalonia",
+    "lat": "41.1500",
+    "lng": "1.4000",
+    "id": "1724533049"
+  },
+  {
+    "city": "Sangenjo",
+    "city_ascii": "Sangenjo",
+    "admin_name": "Galicia",
+    "lat": "42.4017",
+    "lng": "-8.8067",
+    "id": "1724000040"
+  },
+  {
+    "city": "Lumbreras",
+    "city_ascii": "Lumbreras",
+    "admin_name": "Murcia",
+    "lat": "37.5633",
+    "lng": "-1.8072",
+    "id": "1724380246"
+  },
+  {
+    "city": "Manzanares",
+    "city_ascii": "Manzanares",
+    "admin_name": "Castille-La Mancha",
+    "lat": "38.9964",
+    "lng": "-3.3731",
+    "id": "1724101525"
+  },
+  {
+    "city": "Balaguer",
+    "city_ascii": "Balaguer",
+    "admin_name": "Catalonia",
+    "lat": "41.7900",
+    "lng": "0.8050",
+    "id": "1724316561"
+  },
+  {
+    "city": "Monzón",
+    "city_ascii": "Monzon",
+    "admin_name": "Aragon",
+    "lat": "41.9100",
+    "lng": "0.1900",
+    "id": "1724852393"
+  },
+  {
+    "city": "Daimiel",
+    "city_ascii": "Daimiel",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.0833",
+    "lng": "-3.6167",
+    "id": "1724840629"
+  },
+  {
+    "city": "Tabernes de Valldigna",
+    "city_ascii": "Tabernes de Valldigna",
+    "admin_name": "Valencia",
+    "lat": "39.0722",
+    "lng": "-0.2658",
+    "id": "1724331053"
+  },
+  {
+    "city": "Pollensa",
+    "city_ascii": "Pollensa",
+    "admin_name": "Balearic Islands",
+    "lat": "39.8772",
+    "lng": "3.0164",
+    "id": "1724052318"
+  },
+  {
+    "city": "Mula",
+    "city_ascii": "Mula",
+    "admin_name": "Murcia",
+    "lat": "38.0419",
+    "lng": "-1.4906",
+    "id": "1724000713"
+  },
+  {
+    "city": "Barbastro",
+    "city_ascii": "Barbastro",
+    "admin_name": "Aragon",
+    "lat": "42.0361",
+    "lng": "0.1264",
+    "id": "1724545797"
+  },
+  {
+    "city": "Piera",
+    "city_ascii": "Piera",
+    "admin_name": "Catalonia",
+    "lat": "41.5222",
+    "lng": "1.7494",
+    "id": "1724184364"
+  },
+  {
+    "city": "Poyo",
+    "city_ascii": "Poyo",
+    "admin_name": "Galicia",
+    "lat": "42.4333",
+    "lng": "-8.6667",
+    "id": "1724049171"
+  },
+  {
+    "city": "Villanueva del Pardillo",
+    "city_ascii": "Villanueva del Pardillo",
+    "admin_name": "Madrid",
+    "lat": "40.4833",
+    "lng": "-3.9667",
+    "id": "1724000236"
+  },
+  {
+    "city": "Osuna",
+    "city_ascii": "Osuna",
+    "admin_name": "Andalusia",
+    "lat": "37.2333",
+    "lng": "-5.1000",
+    "id": "1724498340"
+  },
+  {
+    "city": "Canovellas",
+    "city_ascii": "Canovellas",
+    "admin_name": "Catalonia",
+    "lat": "41.6203",
+    "lng": "2.2847",
+    "id": "1724734999"
+  },
+  {
+    "city": "La Garriga",
+    "city_ascii": "La Garriga",
+    "admin_name": "Catalonia",
+    "lat": "41.6833",
+    "lng": "2.2833",
+    "id": "1724918427"
+  },
+  {
+    "city": "Bailén",
+    "city_ascii": "Bailen",
+    "admin_name": "Andalusia",
+    "lat": "38.0833",
+    "lng": "-3.7667",
+    "id": "1724854020"
+  },
+  {
+    "city": "Benavente",
+    "city_ascii": "Benavente",
+    "admin_name": "Castille-Leon",
+    "lat": "42.0031",
+    "lng": "-5.6742",
+    "id": "1724254951"
+  },
+  {
+    "city": "Chiva",
+    "city_ascii": "Chiva",
+    "admin_name": "Valencia",
+    "lat": "39.4714",
+    "lng": "-0.7197",
+    "id": "1724224613"
+  },
+  {
+    "city": "Cubellas",
+    "city_ascii": "Cubellas",
+    "admin_name": "Catalonia",
+    "lat": "41.0000",
+    "lng": "12.0000",
+    "id": "1724725097"
+  },
+  {
+    "city": "Masamagrell",
+    "city_ascii": "Masamagrell",
+    "admin_name": "Valencia",
+    "lat": "39.5703",
+    "lng": "-0.3300",
+    "id": "1724682871"
+  },
+  {
+    "city": "Rojales",
+    "city_ascii": "Rojales",
+    "admin_name": "Valencia",
+    "lat": "38.0833",
+    "lng": "-0.7167",
+    "id": "1724468567"
+  },
+  {
+    "city": "Berga",
+    "city_ascii": "Berga",
+    "admin_name": "Catalonia",
+    "lat": "42.1011",
+    "lng": "1.8439",
+    "id": "1724869982"
+  },
+  {
+    "city": "Castilleja de la Cuesta",
+    "city_ascii": "Castilleja de la Cuesta",
+    "admin_name": "Andalusia",
+    "lat": "37.3833",
+    "lng": "-6.0500",
+    "id": "1724430426"
+  },
+  {
+    "city": "Sada",
+    "city_ascii": "Sada",
+    "admin_name": "Galicia",
+    "lat": "43.3500",
+    "lng": "-8.2500",
+    "id": "1724976865"
+  },
+  {
+    "city": "Ejea de los Caballeros",
+    "city_ascii": "Ejea de los Caballeros",
+    "admin_name": "Aragon",
+    "lat": "42.1292",
+    "lng": "-1.1372",
+    "id": "1724015222"
+  },
+  {
+    "city": "Montornés del Vallés",
+    "city_ascii": "Montornes del Valles",
+    "admin_name": "Catalonia",
+    "lat": "41.5333",
+    "lng": "2.2667",
+    "id": "1724726528"
+  },
+  {
+    "city": "Guadarrama",
+    "city_ascii": "Guadarrama",
+    "admin_name": "Madrid",
+    "lat": "40.6728",
+    "lng": "-4.0889",
+    "id": "1724067759"
+  },
+  {
+    "city": "Bermeo",
+    "city_ascii": "Bermeo",
+    "admin_name": "Basque Country",
+    "lat": "43.4200",
+    "lng": "-2.7264",
+    "id": "1724977150"
+  },
+  {
+    "city": "Albal",
+    "city_ascii": "Albal",
+    "admin_name": "Valencia",
+    "lat": "39.3972",
+    "lng": "-0.4156",
+    "id": "1724860489"
+  },
+  {
+    "city": "Guernica y Luno",
+    "city_ascii": "Guernica y Luno",
+    "admin_name": "Basque Country",
+    "lat": "43.3167",
+    "lng": "-2.6667",
+    "id": "1724279131"
+  },
+  {
+    "city": "Navalmoral de la Mata",
+    "city_ascii": "Navalmoral de la Mata",
+    "admin_name": "Extremadura",
+    "lat": "39.8983",
+    "lng": "-5.5403",
+    "id": "1724575983"
+  },
+  {
+    "city": "Pozoblanco",
+    "city_ascii": "Pozoblanco",
+    "admin_name": "Andalusia",
+    "lat": "38.3833",
+    "lng": "-4.8500",
+    "id": "1724804150"
+  },
+  {
+    "city": "Zafra",
+    "city_ascii": "Zafra",
+    "admin_name": "Extremadura",
+    "lat": "38.4167",
+    "lng": "-6.4167",
+    "id": "1724035487"
+  },
+  {
+    "city": "Churriana de la Vega",
+    "city_ascii": "Churriana de la Vega",
+    "admin_name": "Andalusia",
+    "lat": "37.1500",
+    "lng": "-3.6500",
+    "id": "1724576958"
+  },
+  {
+    "city": "La Algaba",
+    "city_ascii": "La Algaba",
+    "admin_name": "Andalusia",
+    "lat": "37.4500",
+    "lng": "-6.0000",
+    "id": "1724135955"
+  },
+  {
+    "city": "Arenys de Mar",
+    "city_ascii": "Arenys de Mar",
+    "admin_name": "Catalonia",
+    "lat": "41.5819",
+    "lng": "2.5503",
+    "id": "1724290074"
+  },
+  {
+    "city": "El Escorial",
+    "city_ascii": "El Escorial",
+    "admin_name": "Madrid",
+    "lat": "40.5817",
+    "lng": "-4.1258",
+    "id": "1724408477"
+  },
+  {
+    "city": "Espartinas",
+    "city_ascii": "Espartinas",
+    "admin_name": "Andalusia",
+    "lat": "37.3833",
+    "lng": "-6.1167",
+    "id": "1724191526"
+  },
+  {
+    "city": "Tuineje",
+    "city_ascii": "Tuineje",
+    "admin_name": "Canary Islands",
+    "lat": "28.3250",
+    "lng": "-14.0486",
+    "id": "1724388694"
+  },
+  {
+    "city": "Ubrique",
+    "city_ascii": "Ubrique",
+    "admin_name": "Andalusia",
+    "lat": "36.6833",
+    "lng": "-5.4500",
+    "id": "1724430804"
+  },
+  {
+    "city": "Carlet",
+    "city_ascii": "Carlet",
+    "admin_name": "Valencia",
+    "lat": "39.2264",
+    "lng": "-0.5211",
+    "id": "1724149530"
+  },
+  {
+    "city": "Las Cabezas de San Juan",
+    "city_ascii": "Las Cabezas de San Juan",
+    "admin_name": "Andalusia",
+    "lat": "36.9817",
+    "lng": "-5.9406",
+    "id": "1724899014"
+  },
+  {
+    "city": "Benetúser",
+    "city_ascii": "Benetuser",
+    "admin_name": "Valencia",
+    "lat": "39.4250",
+    "lng": "-0.3961",
+    "id": "1724800602"
+  },
+  {
+    "city": "Santomera",
+    "city_ascii": "Santomera",
+    "admin_name": "Murcia",
+    "lat": "38.0617",
+    "lng": "-1.0492",
+    "id": "1724892618"
+  },
+  {
+    "city": "Alcañiz",
+    "city_ascii": "Alcaniz",
+    "admin_name": "Aragon",
+    "lat": "41.0511",
+    "lng": "-0.1336",
+    "id": "1724184358"
+  },
+  {
+    "city": "Aguadulce",
+    "city_ascii": "Aguadulce",
+    "admin_name": "Andalusia",
+    "lat": "36.7642",
+    "lng": "-2.6147",
+    "id": "1724436788"
+  },
+  {
+    "city": "Punta Umbría",
+    "city_ascii": "Punta Umbria",
+    "admin_name": "Andalusia",
+    "lat": "37.1667",
+    "lng": "-6.9500",
+    "id": "1724226508"
+  },
+  {
+    "city": "Vallirana",
+    "city_ascii": "Vallirana",
+    "admin_name": "Catalonia",
+    "lat": "41.3878",
+    "lng": "1.9322",
+    "id": "1724988283"
+  },
+  {
+    "city": "Villalbilla",
+    "city_ascii": "Villalbilla",
+    "admin_name": "Madrid",
+    "lat": "40.4339",
+    "lng": "-3.2989",
+    "id": "1724385460"
+  },
+  {
+    "city": "Miguelturra",
+    "city_ascii": "Miguelturra",
+    "admin_name": "Castille-La Mancha",
+    "lat": "38.9667",
+    "lng": "-3.9500",
+    "id": "1724947836"
+  },
+  {
+    "city": "Cunit",
+    "city_ascii": "Cunit",
+    "admin_name": "Catalonia",
+    "lat": "41.1983",
+    "lng": "1.6406",
+    "id": "1724738474"
+  },
+  {
+    "city": "Tarancón",
+    "city_ascii": "Tarancon",
+    "admin_name": "Castille-La Mancha",
+    "lat": "40.0167",
+    "lng": "-3.0000",
+    "id": "1724475180"
+  },
+  {
+    "city": "Meco",
+    "city_ascii": "Meco",
+    "admin_name": "Madrid",
+    "lat": "40.5539",
+    "lng": "-3.3261",
+    "id": "1724484406"
+  },
+  {
+    "city": "Corbera de Llobregat",
+    "city_ascii": "Corbera de Llobregat",
+    "admin_name": "Catalonia",
+    "lat": "41.4169",
+    "lng": "1.9314",
+    "id": "1724982789"
+  },
+  {
+    "city": "Baeza",
+    "city_ascii": "Baeza",
+    "admin_name": "Andalusia",
+    "lat": "37.9833",
+    "lng": "-3.4667",
+    "id": "1724128455"
+  },
+  {
+    "city": "Ermúa",
+    "city_ascii": "Ermua",
+    "admin_name": "Basque Country",
+    "lat": "43.1875",
+    "lng": "-2.5008",
+    "id": "1724922522"
+  },
+  {
+    "city": "La Roda",
+    "city_ascii": "La Roda",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.2070",
+    "lng": "-2.1604",
+    "id": "1724000113"
+  },
+  {
+    "city": "Santa Cruz de la Palma",
+    "city_ascii": "Santa Cruz de la Palma",
+    "admin_name": "Canary Islands",
+    "lat": "28.6825",
+    "lng": "-17.7650",
+    "id": "1724730721"
+  },
+  {
+    "city": "Mollerusa",
+    "city_ascii": "Mollerusa",
+    "admin_name": "Catalonia",
+    "lat": "41.6319",
+    "lng": "0.8961",
+    "id": "1724107781"
+  },
+  {
+    "city": "Montijo",
+    "city_ascii": "Montijo",
+    "admin_name": "Extremadura",
+    "lat": "38.9100",
+    "lng": "-6.6175",
+    "id": "1724772763"
+  },
+  {
+    "city": "Fraga",
+    "city_ascii": "Fraga",
+    "admin_name": "Aragon",
+    "lat": "41.5200",
+    "lng": "0.3500",
+    "id": "1724042587"
+  },
+  {
+    "city": "Santa Úrsula",
+    "city_ascii": "Santa Ursula",
+    "admin_name": "Canary Islands",
+    "lat": "28.4250",
+    "lng": "-16.4917",
+    "id": "1724982663"
+  },
+  {
+    "city": "Villaviciosa",
+    "city_ascii": "Villaviciosa",
+    "admin_name": "Asturias",
+    "lat": "43.4833",
+    "lng": "-5.4333",
+    "id": "1724121275"
+  },
+  {
+    "city": "Santafé",
+    "city_ascii": "Santafe",
+    "admin_name": "Andalusia",
+    "lat": "37.1894",
+    "lng": "-3.7181",
+    "id": "1724969815"
+  },
+  {
+    "city": "Cuevas del Almanzora",
+    "city_ascii": "Cuevas del Almanzora",
+    "admin_name": "Andalusia",
+    "lat": "37.3000",
+    "lng": "-1.8667",
+    "id": "1724152622"
+  },
+  {
+    "city": "La Solana",
+    "city_ascii": "La Solana",
+    "admin_name": "Castille-La Mancha",
+    "lat": "38.6500",
+    "lng": "-3.0667",
+    "id": "1724007812"
+  },
+  {
+    "city": "Arnedo",
+    "city_ascii": "Arnedo",
+    "admin_name": "La Rioja",
+    "lat": "42.2167",
+    "lng": "-2.1000",
+    "id": "1724772767"
+  },
+  {
+    "city": "Vieiro",
+    "city_ascii": "Vieiro",
+    "admin_name": "Galicia",
+    "lat": "43.6481",
+    "lng": "-7.5900",
+    "id": "1724508956"
+  },
+  {
+    "city": "Azpeitia",
+    "city_ascii": "Azpeitia",
+    "admin_name": "Basque Country",
+    "lat": "43.1819",
+    "lng": "-2.2653",
+    "id": "1724450790"
+  },
+  {
+    "city": "Canet de Mar",
+    "city_ascii": "Canet de Mar",
+    "admin_name": "Catalonia",
+    "lat": "41.5833",
+    "lng": "2.5833",
+    "id": "1724398623"
+  },
+  {
+    "city": "Cuarte de Huerva",
+    "city_ascii": "Cuarte de Huerva",
+    "admin_name": "Aragon",
+    "lat": "41.5833",
+    "lng": "-0.9167",
+    "id": "1724381446"
+  },
+  {
+    "city": "Gondomar",
+    "city_ascii": "Gondomar",
+    "admin_name": "Galicia",
+    "lat": "42.1111",
+    "lng": "-8.7611",
+    "id": "1724301277"
+  },
+  {
+    "city": "Torelló",
+    "city_ascii": "Torello",
+    "admin_name": "Catalonia",
+    "lat": "42.0495",
+    "lng": "2.2650",
+    "id": "1724191754"
+  },
+  {
+    "city": "Ogíjares",
+    "city_ascii": "Ogijares",
+    "admin_name": "Andalusia",
+    "lat": "37.1167",
+    "lng": "-3.6000",
+    "id": "1724843693"
+  },
+  {
+    "city": "Alpedrete",
+    "city_ascii": "Alpedrete",
+    "admin_name": "Madrid",
+    "lat": "40.6583",
+    "lng": "-4.0322",
+    "id": "1724547365"
+  },
+  {
+    "city": "Sopelana",
+    "city_ascii": "Sopelana",
+    "admin_name": "Basque Country",
+    "lat": "43.3814",
+    "lng": "-2.9792",
+    "id": "1724497959"
+  },
+  {
+    "city": "La Carolina",
+    "city_ascii": "La Carolina",
+    "admin_name": "Andalusia",
+    "lat": "38.2667",
+    "lng": "-3.6167",
+    "id": "1724252481"
+  },
+  {
+    "city": "Santa Marta de Tormes",
+    "city_ascii": "Santa Marta de Tormes",
+    "admin_name": "Castille-Leon",
+    "lat": "40.9494",
+    "lng": "-5.6325",
+    "id": "1724596061"
+  },
+  {
+    "city": "Alginet",
+    "city_ascii": "Alginet",
+    "admin_name": "Valencia",
+    "lat": "39.2625",
+    "lng": "-0.4683",
+    "id": "1724793089"
+  },
+  {
+    "city": "Andoain",
+    "city_ascii": "Andoain",
+    "admin_name": "Basque Country",
+    "lat": "43.2167",
+    "lng": "-2.0167",
+    "id": "1724830496"
+  },
+  {
+    "city": "Cehegín",
+    "city_ascii": "Cehegin",
+    "admin_name": "Murcia",
+    "lat": "38.0925",
+    "lng": "-1.7989",
+    "id": "1724606574"
+  },
+  {
+    "city": "Ocaña",
+    "city_ascii": "Ocana",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.9569",
+    "lng": "-3.4967",
+    "id": "1724751955"
+  },
+  {
+    "city": "La Carlota",
+    "city_ascii": "La Carlota",
+    "admin_name": "Andalusia",
+    "lat": "37.6667",
+    "lng": "-4.9333",
+    "id": "1724972174"
+  },
+  {
+    "city": "Sanlúcar la Mayor",
+    "city_ascii": "Sanlucar la Mayor",
+    "admin_name": "Andalusia",
+    "lat": "37.3831",
+    "lng": "-6.2000",
+    "id": "1724032342"
+  },
+  {
+    "city": "Bollullos par del Condado",
+    "city_ascii": "Bollullos par del Condado",
+    "admin_name": "Andalusia",
+    "lat": "37.3358",
+    "lng": "-6.5364",
+    "id": "1724227724"
+  },
+  {
+    "city": "Pilas",
+    "city_ascii": "Pilas",
+    "admin_name": "Andalusia",
+    "lat": "37.3017",
+    "lng": "-6.2986",
+    "id": "1724984763"
+  },
+  {
+    "city": "Torrijos",
+    "city_ascii": "Torrijos",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.9833",
+    "lng": "-4.2814",
+    "id": "1724246544"
+  },
+  {
+    "city": "Noya",
+    "city_ascii": "Noya",
+    "admin_name": "Galicia",
+    "lat": "42.7833",
+    "lng": "-8.8833",
+    "id": "1724537566"
+  },
+  {
+    "city": "Nules",
+    "city_ascii": "Nules",
+    "admin_name": "Valencia",
+    "lat": "39.8525",
+    "lng": "-0.1506",
+    "id": "1724279489"
+  },
+  {
+    "city": "Beasain",
+    "city_ascii": "Beasain",
+    "admin_name": "Basque Country",
+    "lat": "43.0458",
+    "lng": "-2.1894",
+    "id": "1724630898"
+  },
+  {
+    "city": "Torre del Campo",
+    "city_ascii": "Torre del Campo",
+    "admin_name": "Andalusia",
+    "lat": "37.7667",
+    "lng": "-3.8833",
+    "id": "1724707407"
+  },
+  {
+    "city": "Llanera",
+    "city_ascii": "Llanera",
+    "admin_name": "Asturias",
+    "lat": "43.4667",
+    "lng": "-5.9333",
+    "id": "1724716854"
+  },
+  {
+    "city": "Moralzarzal",
+    "city_ascii": "Moralzarzal",
+    "admin_name": "Madrid",
+    "lat": "40.6750",
+    "lng": "-3.9694",
+    "id": "1724782308"
+  },
+  {
+    "city": "Jaca",
+    "city_ascii": "Jaca",
+    "admin_name": "Aragon",
+    "lat": "42.5500",
+    "lng": "-0.5500",
+    "id": "1724277088"
+  },
+  {
+    "city": "Santa Cruz de Bezana",
+    "city_ascii": "Santa Cruz de Bezana",
+    "admin_name": "Cantabria",
+    "lat": "43.4442",
+    "lng": "-3.9031",
+    "id": "1724616596"
+  },
+  {
+    "city": "Antigua",
+    "city_ascii": "Antigua",
+    "admin_name": "Canary Islands",
+    "lat": "28.4186",
+    "lng": "-14.0111",
+    "id": "1724978313"
+  },
+  {
+    "city": "Verín",
+    "city_ascii": "Verin",
+    "admin_name": "Galicia",
+    "lat": "41.9408",
+    "lng": "-7.4358",
+    "id": "1724261912"
+  },
+  {
+    "city": "Villalba",
+    "city_ascii": "Villalba",
+    "admin_name": "Galicia",
+    "lat": "43.3000",
+    "lng": "-7.6833",
+    "id": "1724414757"
+  },
+  {
+    "city": "Tomiño",
+    "city_ascii": "Tomino",
+    "admin_name": "Galicia",
+    "lat": "41.9833",
+    "lng": "-8.7167",
+    "id": "1724945871"
+  },
+  {
+    "city": "San Agustín de Guadalix",
+    "city_ascii": "San Agustin de Guadalix",
+    "admin_name": "Madrid",
+    "lat": "40.6781",
+    "lng": "-3.6150",
+    "id": "1724232823"
+  },
+  {
+    "city": "Santa Margarita",
+    "city_ascii": "Santa Margarita",
+    "admin_name": "Balearic Islands",
+    "lat": "39.7033",
+    "lng": "3.1036",
+    "id": "1724447564"
+  },
+  {
+    "city": "Cambados",
+    "city_ascii": "Cambados",
+    "admin_name": "Galicia",
+    "lat": "42.5000",
+    "lng": "-8.8000",
+    "id": "1724551317"
+  },
+  {
+    "city": "Sóller",
+    "city_ascii": "Soller",
+    "admin_name": "Balearic Islands",
+    "lat": "39.7675",
+    "lng": "2.7140",
+    "id": "1724439575"
+  },
+  {
+    "city": "Santa Coloma de Farnés",
+    "city_ascii": "Santa Coloma de Farnes",
+    "admin_name": "Catalonia",
+    "lat": "41.8647",
+    "lng": "2.6642",
+    "id": "1724089787"
+  },
+  {
+    "city": "Llanes",
+    "city_ascii": "Llanes",
+    "admin_name": "Asturias",
+    "lat": "43.4214",
+    "lng": "-4.7564",
+    "id": "1724106388"
+  },
+  {
+    "city": "Gines",
+    "city_ascii": "Gines",
+    "admin_name": "Andalusia",
+    "lat": "37.3875",
+    "lng": "-6.0781",
+    "id": "1724319564"
+  },
+  {
+    "city": "Sarria",
+    "city_ascii": "Sarria",
+    "admin_name": "Galicia",
+    "lat": "42.7833",
+    "lng": "-7.4167",
+    "id": "1724423830"
+  },
+  {
+    "city": "Valdemorillo",
+    "city_ascii": "Valdemorillo",
+    "admin_name": "Madrid",
+    "lat": "40.5017",
+    "lng": "-4.0667",
+    "id": "1724632141"
+  },
+  {
+    "city": "Canals",
+    "city_ascii": "Canals",
+    "admin_name": "Valencia",
+    "lat": "38.9611",
+    "lng": "-0.5850",
+    "id": "1724671799"
+  },
+  {
+    "city": "Godella",
+    "city_ascii": "Godella",
+    "admin_name": "Valencia",
+    "lat": "39.5200",
+    "lng": "-0.4114",
+    "id": "1724346773"
+  },
+  {
+    "city": "Albatera",
+    "city_ascii": "Albatera",
+    "admin_name": "Valencia",
+    "lat": "38.1786",
+    "lng": "-0.8681",
+    "id": "1724280918"
+  },
+  {
+    "city": "Guillena",
+    "city_ascii": "Guillena",
+    "admin_name": "Andalusia",
+    "lat": "37.5333",
+    "lng": "-6.0500",
+    "id": "1724767687"
+  },
+  {
+    "city": "Torredonjimeno",
+    "city_ascii": "Torredonjimeno",
+    "admin_name": "Andalusia",
+    "lat": "37.7667",
+    "lng": "-3.9500",
+    "id": "1724172384"
+  },
+  {
+    "city": "Betanzos",
+    "city_ascii": "Betanzos",
+    "admin_name": "Galicia",
+    "lat": "43.2792",
+    "lng": "-8.2106",
+    "id": "1724011741"
+  },
+  {
+    "city": "Muriedas",
+    "city_ascii": "Muriedas",
+    "admin_name": "Cantabria",
+    "lat": "43.4303",
+    "lng": "-3.8603",
+    "id": "1724481585"
+  },
+  {
+    "city": "Aguilar",
+    "city_ascii": "Aguilar",
+    "admin_name": "Andalusia",
+    "lat": "37.5167",
+    "lng": "-4.6500",
+    "id": "1724391215"
+  },
+  {
+    "city": "Gibraleón",
+    "city_ascii": "Gibraleon",
+    "admin_name": "Andalusia",
+    "lat": "37.3753",
+    "lng": "-6.9694",
+    "id": "1724585426"
+  },
+  {
+    "city": "Alovera",
+    "city_ascii": "Alovera",
+    "admin_name": "Castille-La Mancha",
+    "lat": "40.5967",
+    "lng": "-3.2481",
+    "id": "1724090496"
+  },
+  {
+    "city": "La Llagosta",
+    "city_ascii": "La Llagosta",
+    "admin_name": "Catalonia",
+    "lat": "41.5156",
+    "lng": "2.1928",
+    "id": "1724195852"
+  },
+  {
+    "city": "Abrera",
+    "city_ascii": "Abrera",
+    "admin_name": "Catalonia",
+    "lat": "41.5167",
+    "lng": "1.9000",
+    "id": "1724786014"
+  },
+  {
+    "city": "Abarán",
+    "city_ascii": "Abaran",
+    "admin_name": "Murcia",
+    "lat": "38.2031",
+    "lng": "-1.4003",
+    "id": "1724553721"
+  },
+  {
+    "city": "Castellbisbal",
+    "city_ascii": "Castellbisbal",
+    "admin_name": "Catalonia",
+    "lat": "41.4760",
+    "lng": "1.9830",
+    "id": "1724327677"
+  },
+  {
+    "city": "Berja",
+    "city_ascii": "Berja",
+    "admin_name": "Andalusia",
+    "lat": "36.8453",
+    "lng": "-2.9469",
+    "id": "1724229322"
+  },
+  {
+    "city": "Campo de Criptana",
+    "city_ascii": "Campo de Criptana",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.4000",
+    "lng": "-3.1167",
+    "id": "1724221240"
+  },
+  {
+    "city": "Vejer de la Frontera",
+    "city_ascii": "Vejer de la Frontera",
+    "admin_name": "Andalusia",
+    "lat": "36.2500",
+    "lng": "-5.9667",
+    "id": "1724776060"
+  },
+  {
+    "city": "Sant Sadurní d’Anoia",
+    "city_ascii": "Sant Sadurni d'Anoia",
+    "admin_name": "Catalonia",
+    "lat": "41.4261",
+    "lng": "1.7850",
+    "id": "1724266131"
+  },
+  {
+    "city": "Santañy",
+    "city_ascii": "Santany",
+    "admin_name": "Balearic Islands",
+    "lat": "39.3542",
+    "lng": "3.1283",
+    "id": "1724113241"
+  },
+  {
+    "city": "Brenes",
+    "city_ascii": "Brenes",
+    "admin_name": "Andalusia",
+    "lat": "37.5500",
+    "lng": "-5.8667",
+    "id": "1724993123"
+  },
+  {
+    "city": "Teror",
+    "city_ascii": "Teror",
+    "admin_name": "Canary Islands",
+    "lat": "28.0589",
+    "lng": "-15.5475",
+    "id": "1724300080"
+  },
+  {
+    "city": "Capdepera",
+    "city_ascii": "Capdepera",
+    "admin_name": "Balearic Islands",
+    "lat": "39.7000",
+    "lng": "3.4167",
+    "id": "1724014685"
+  },
+  {
+    "city": "Argentona",
+    "city_ascii": "Argentona",
+    "admin_name": "Catalonia",
+    "lat": "41.5500",
+    "lng": "2.4000",
+    "id": "1724175024"
+  },
+  {
+    "city": "Ceuti",
+    "city_ascii": "Ceuti",
+    "admin_name": "Murcia",
+    "lat": "38.0789",
+    "lng": "-1.2722",
+    "id": "1724039482"
+  },
+  {
+    "city": "Teulada",
+    "city_ascii": "Teulada",
+    "admin_name": "Valencia",
+    "lat": "38.7292",
+    "lng": "0.1019",
+    "id": "1724756789"
+  },
+  {
+    "city": "Velilla de San Antonio",
+    "city_ascii": "Velilla de San Antonio",
+    "admin_name": "Madrid",
+    "lat": "40.3667",
+    "lng": "-3.4833",
+    "id": "1724060021"
+  },
+  {
+    "city": "Monóvar",
+    "city_ascii": "Monovar",
+    "admin_name": "Valencia",
+    "lat": "38.4369",
+    "lng": "-0.8381",
+    "id": "1724870019"
+  },
+  {
+    "city": "Vilanova del Camí",
+    "city_ascii": "Vilanova del Cami",
+    "admin_name": "Catalonia",
+    "lat": "41.5667",
+    "lng": "1.6333",
+    "id": "1724654906"
+  },
+  {
+    "city": "Palos de la Frontera",
+    "city_ascii": "Palos de la Frontera",
+    "admin_name": "Andalusia",
+    "lat": "37.2283",
+    "lng": "-6.8944",
+    "id": "1724003384"
+  },
+  {
+    "city": "Salobreña",
+    "city_ascii": "Salobrena",
+    "admin_name": "Andalusia",
+    "lat": "36.7467",
+    "lng": "-3.5869",
+    "id": "1724046465"
+  },
+  {
+    "city": "Mongat",
+    "city_ascii": "Mongat",
+    "admin_name": "Catalonia",
+    "lat": "41.4690",
+    "lng": "2.2805",
+    "id": "1724914506"
+  },
+  {
+    "city": "Valverde del Camino",
+    "city_ascii": "Valverde del Camino",
+    "admin_name": "Andalusia",
+    "lat": "37.5667",
+    "lng": "-6.7500",
+    "id": "1724355645"
+  },
+  {
+    "city": "Fene",
+    "city_ascii": "Fene",
+    "admin_name": "Galicia",
+    "lat": "43.4667",
+    "lng": "-8.1667",
+    "id": "1724145974"
+  },
+  {
+    "city": "Torroella de Montgrí",
+    "city_ascii": "Torroella de Montgri",
+    "admin_name": "Catalonia",
+    "lat": "42.0439",
+    "lng": "3.1286",
+    "id": "1724010202"
+  },
+  {
+    "city": "Albox",
+    "city_ascii": "Albox",
+    "admin_name": "Andalusia",
+    "lat": "37.3833",
+    "lng": "-2.1333",
+    "id": "1724868693"
+  },
+  {
+    "city": "Estepa",
+    "city_ascii": "Estepa",
+    "admin_name": "Andalusia",
+    "lat": "37.2917",
+    "lng": "-4.8792",
+    "id": "1724708314"
+  },
+  {
+    "city": "Bayona",
+    "city_ascii": "Bayona",
+    "admin_name": "Galicia",
+    "lat": "42.1178",
+    "lng": "-8.8506",
+    "id": "1724188693"
+  },
+  {
+    "city": "Santiago del Teide",
+    "city_ascii": "Santiago del Teide",
+    "admin_name": "Canary Islands",
+    "lat": "28.2972",
+    "lng": "-16.8139",
+    "id": "1724546976"
+  },
+  {
+    "city": "Villafranca de los Barros",
+    "city_ascii": "Villafranca de los Barros",
+    "admin_name": "Extremadura",
+    "lat": "38.5667",
+    "lng": "-6.3333",
+    "id": "1724272394"
+  },
+  {
+    "city": "Benaguacil",
+    "city_ascii": "Benaguacil",
+    "admin_name": "Valencia",
+    "lat": "39.5933",
+    "lng": "-0.5864",
+    "id": "1724868425"
+  },
+  {
+    "city": "Benisa",
+    "city_ascii": "Benisa",
+    "admin_name": "Valencia",
+    "lat": "38.7150",
+    "lng": "0.0500",
+    "id": "1724749904"
+  },
+  {
+    "city": "Huétor Vega",
+    "city_ascii": "Huetor Vega",
+    "admin_name": "Andalusia",
+    "lat": "37.1500",
+    "lng": "-3.5667",
+    "id": "1724497090"
+  },
+  {
+    "city": "Pola de Laviana",
+    "city_ascii": "Pola de Laviana",
+    "admin_name": "Asturias",
+    "lat": "43.2358",
+    "lng": "-5.5563",
+    "id": "1724362497"
+  },
+  {
+    "city": "Béjar",
+    "city_ascii": "Bejar",
+    "admin_name": "Castille-Leon",
+    "lat": "40.3833",
+    "lng": "-5.7667",
+    "id": "1724324799"
+  },
+  {
+    "city": "Son Servera",
+    "city_ascii": "Son Servera",
+    "admin_name": "Balearic Islands",
+    "lat": "39.6208",
+    "lng": "3.3600",
+    "id": "1724006232"
+  },
+  {
+    "city": "Acalá del Río",
+    "city_ascii": "Acala del Rio",
+    "admin_name": "Andalusia",
+    "lat": "37.5167",
+    "lng": "-5.9667",
+    "id": "1724367182"
+  },
+  {
+    "city": "Villamartín",
+    "city_ascii": "Villamartin",
+    "admin_name": "Andalusia",
+    "lat": "36.8667",
+    "lng": "-5.6500",
+    "id": "1724057832"
+  },
+  {
+    "city": "Campos del Puerto",
+    "city_ascii": "Campos del Puerto",
+    "admin_name": "Balearic Islands",
+    "lat": "39.4306",
+    "lng": "3.0194",
+    "id": "1724079497"
+  },
+  {
+    "city": "Castelló de Ampurias",
+    "city_ascii": "Castello de Ampurias",
+    "admin_name": "Catalonia",
+    "lat": "42.2583",
+    "lng": "3.0750",
+    "id": "1724127097"
+  },
+  {
+    "city": "Socuéllamos",
+    "city_ascii": "Socuellamos",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.2933",
+    "lng": "-2.7942",
+    "id": "1724254841"
+  },
+  {
+    "city": "Benifayó",
+    "city_ascii": "Benifayo",
+    "admin_name": "Valencia",
+    "lat": "39.2847",
+    "lng": "-0.4281",
+    "id": "1724017102"
+  },
+  {
+    "city": "Coria",
+    "city_ascii": "Coria",
+    "admin_name": "Extremadura",
+    "lat": "39.9819",
+    "lng": "-6.5372",
+    "id": "1724350660"
+  },
+  {
+    "city": "Bolaños de Calatrava",
+    "city_ascii": "Bolanos de Calatrava",
+    "admin_name": "Castille-La Mancha",
+    "lat": "38.8831",
+    "lng": "-3.7167",
+    "id": "1724659404"
+  },
+  {
+    "city": "Andraitx",
+    "city_ascii": "Andraitx",
+    "admin_name": "Balearic Islands",
+    "lat": "39.5833",
+    "lng": "2.4167",
+    "id": "1724876017"
+  },
+  {
+    "city": "Fuensalida",
+    "city_ascii": "Fuensalida",
+    "admin_name": "Castille-La Mancha",
+    "lat": "40.0500",
+    "lng": "-4.2000",
+    "id": "1724253725"
+  },
+  {
+    "city": "Haro",
+    "city_ascii": "Haro",
+    "admin_name": "La Rioja",
+    "lat": "42.5833",
+    "lng": "-2.8500",
+    "id": "1724620671"
+  },
+  {
+    "city": "Arrigorriaga",
+    "city_ascii": "Arrigorriaga",
+    "admin_name": "Basque Country",
+    "lat": "43.2078",
+    "lng": "-2.8861",
+    "id": "1724012334"
+  },
+  {
+    "city": "San Andrés de Llevaneras",
+    "city_ascii": "San Andres de Llevaneras",
+    "admin_name": "Catalonia",
+    "lat": "41.5733",
+    "lng": "2.4828",
+    "id": "1724176719"
+  },
+  {
+    "city": "Pulpí",
+    "city_ascii": "Pulpi",
+    "admin_name": "Andalusia",
+    "lat": "37.4019",
+    "lng": "-1.7508",
+    "id": "1724725882"
+  },
+  {
+    "city": "Picaña",
+    "city_ascii": "Picana",
+    "admin_name": "Valencia",
+    "lat": "39.4361",
+    "lng": "-0.4350",
+    "id": "1724147430"
+  },
+  {
+    "city": "La Puebla del Río",
+    "city_ascii": "La Puebla del Rio",
+    "admin_name": "Andalusia",
+    "lat": "37.2667",
+    "lng": "-6.0500",
+    "id": "1724618051"
+  },
+  {
+    "city": "Ciudad-Rodrigo",
+    "city_ascii": "Ciudad-Rodrigo",
+    "admin_name": "Castille-Leon",
+    "lat": "40.5969",
+    "lng": "-6.5392",
+    "id": "1724479453"
+  },
+  {
+    "city": "Bueu",
+    "city_ascii": "Bueu",
+    "admin_name": "Galicia",
+    "lat": "42.3167",
+    "lng": "-8.7833",
+    "id": "1724614511"
+  },
+  {
+    "city": "Pallejá",
+    "city_ascii": "Palleja",
+    "admin_name": "Catalonia",
+    "lat": "41.4242",
+    "lng": "1.9978",
+    "id": "1724638711"
+  },
+  {
+    "city": "Bullas",
+    "city_ascii": "Bullas",
+    "admin_name": "Murcia",
+    "lat": "38.0497",
+    "lng": "-1.6706",
+    "id": "1724151285"
+  },
+  {
+    "city": "Oropesa",
+    "city_ascii": "Oropesa",
+    "admin_name": "Valencia",
+    "lat": "40.0922",
+    "lng": "0.1339",
+    "id": "1724215290"
+  },
+  {
+    "city": "Medina Sidonia",
+    "city_ascii": "Medina Sidonia",
+    "admin_name": "Andalusia",
+    "lat": "36.4667",
+    "lng": "-5.9167",
+    "id": "1724265557"
+  },
+  {
+    "city": "Olivenza",
+    "city_ascii": "Olivenza",
+    "admin_name": "Extremadura",
+    "lat": "38.6858",
+    "lng": "-7.1008",
+    "id": "1724189870"
+  },
+  {
+    "city": "Utiel",
+    "city_ascii": "Utiel",
+    "admin_name": "Valencia",
+    "lat": "39.5672",
+    "lng": "-1.2067",
+    "id": "1724584294"
+  },
+  {
+    "city": "Azcoitia",
+    "city_ascii": "Azcoitia",
+    "admin_name": "Basque Country",
+    "lat": "43.1792",
+    "lng": "-2.3106",
+    "id": "1724640950"
+  },
+  {
+    "city": "Peligros",
+    "city_ascii": "Peligros",
+    "admin_name": "Andalusia",
+    "lat": "37.2333",
+    "lng": "-3.6333",
+    "id": "1724473390"
+  },
+  {
+    "city": "Lardero",
+    "city_ascii": "Lardero",
+    "admin_name": "La Rioja",
+    "lat": "42.4333",
+    "lng": "-2.4667",
+    "id": "1724575965"
+  },
+  {
+    "city": "Castalla",
+    "city_ascii": "Castalla",
+    "admin_name": "Valencia",
+    "lat": "38.5967",
+    "lng": "-0.6708",
+    "id": "1724005276"
+  },
+  {
+    "city": "Elgóibar",
+    "city_ascii": "Elgoibar",
+    "admin_name": "Basque Country",
+    "lat": "43.2142",
+    "lng": "-2.4169",
+    "id": "1724034254"
+  },
+  {
+    "city": "Oñate",
+    "city_ascii": "Onate",
+    "admin_name": "Basque Country",
+    "lat": "43.0333",
+    "lng": "-2.4167",
+    "id": "1724579376"
+  },
+  {
+    "city": "Beniel",
+    "city_ascii": "Beniel",
+    "admin_name": "Murcia",
+    "lat": "38.0464",
+    "lng": "-1.0014",
+    "id": "1724289918"
+  },
+  {
+    "city": "Cocentaina",
+    "city_ascii": "Cocentaina",
+    "admin_name": "Valencia",
+    "lat": "38.7450",
+    "lng": "-0.4406",
+    "id": "1724102234"
+  },
+  {
+    "city": "Cangas de Narcea",
+    "city_ascii": "Cangas de Narcea",
+    "admin_name": "Asturias",
+    "lat": "43.1714",
+    "lng": "-6.5389",
+    "id": "1724285161"
+  },
+  {
+    "city": "Tegueste",
+    "city_ascii": "Tegueste",
+    "admin_name": "Canary Islands",
+    "lat": "28.5167",
+    "lng": "-16.3333",
+    "id": "1724441974"
+  },
+  {
+    "city": "Mancha Real",
+    "city_ascii": "Mancha Real",
+    "admin_name": "Andalusia",
+    "lat": "37.7864",
+    "lng": "-3.6125",
+    "id": "1724902974"
+  },
+  {
+    "city": "Jódar",
+    "city_ascii": "Jodar",
+    "admin_name": "Andalusia",
+    "lat": "37.8333",
+    "lng": "-3.3500",
+    "id": "1724042149"
+  },
+  {
+    "city": "Sonseca",
+    "city_ascii": "Sonseca",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.7000",
+    "lng": "-3.9500",
+    "id": "1724606218"
+  },
+  {
+    "city": "Bollullos de la Mitación",
+    "city_ascii": "Bollullos de la Mitacion",
+    "admin_name": "Andalusia",
+    "lat": "37.3333",
+    "lng": "-6.1333",
+    "id": "1724782674"
+  },
+  {
+    "city": "Beniaján",
+    "city_ascii": "Beniajan",
+    "admin_name": "Murcia",
+    "lat": "37.9833",
+    "lng": "-1.0667",
+    "id": "1724448777"
+  },
+  {
+    "city": "Berriozar",
+    "city_ascii": "Berriozar",
+    "admin_name": "Navarre",
+    "lat": "42.8361",
+    "lng": "-1.6714",
+    "id": "1724369007"
+  },
+  {
+    "city": "Fortuna",
+    "city_ascii": "Fortuna",
+    "admin_name": "Murcia",
+    "lat": "38.1789",
+    "lng": "-1.1233",
+    "id": "1724296769"
+  },
+  {
+    "city": "Barbadanes",
+    "city_ascii": "Barbadanes",
+    "admin_name": "Galicia",
+    "lat": "42.3003",
+    "lng": "-7.9064",
+    "id": "1724717349"
+  },
+  {
+    "city": "Quintanar de la Orden",
+    "city_ascii": "Quintanar de la Orden",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.5906",
+    "lng": "-3.0428",
+    "id": "1724764204"
+  },
+  {
+    "city": "Bargas",
+    "city_ascii": "Bargas",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.9400",
+    "lng": "-4.0194",
+    "id": "1724989174"
+  },
+  {
+    "city": "Villamarchante",
+    "city_ascii": "Villamarchante",
+    "admin_name": "Valencia",
+    "lat": "39.5689",
+    "lng": "-0.6206",
+    "id": "1724153603"
+  },
+  {
+    "city": "Sant Joan de Vilatorrada",
+    "city_ascii": "Sant Joan de Vilatorrada",
+    "admin_name": "Catalonia",
+    "lat": "41.7500",
+    "lng": "1.8000",
+    "id": "1724978448"
+  },
+  {
+    "city": "Meliana",
+    "city_ascii": "Meliana",
+    "admin_name": "Valencia",
+    "lat": "39.5272",
+    "lng": "-0.3492",
+    "id": "1724153449"
+  },
+  {
+    "city": "Cabanillas del Campo",
+    "city_ascii": "Cabanillas del Campo",
+    "admin_name": "Castille-La Mancha",
+    "lat": "40.6383",
+    "lng": "-3.2353",
+    "id": "1724393524"
+  },
+  {
+    "city": "Alberique",
+    "city_ascii": "Alberique",
+    "admin_name": "Valencia",
+    "lat": "39.1167",
+    "lng": "-0.5211",
+    "id": "1724900545"
+  },
+  {
+    "city": "Cassá de la Selva",
+    "city_ascii": "Cassa de la Selva",
+    "admin_name": "Catalonia",
+    "lat": "41.8892",
+    "lng": "2.8772",
+    "id": "1724100920"
+  },
+  {
+    "city": "Santoña",
+    "city_ascii": "Santona",
+    "admin_name": "Cantabria",
+    "lat": "43.4414",
+    "lng": "-3.4575",
+    "id": "1724291294"
+  },
+  {
+    "city": "Sedaví",
+    "city_ascii": "Sedavi",
+    "admin_name": "Valencia",
+    "lat": "39.4250",
+    "lng": "-0.3850",
+    "id": "1724655094"
+  },
+  {
+    "city": "Brunete",
+    "city_ascii": "Brunete",
+    "admin_name": "Madrid",
+    "lat": "40.4000",
+    "lng": "-3.9936",
+    "id": "1724447167"
+  },
+  {
+    "city": "Los Corrales de Buelna",
+    "city_ascii": "Los Corrales de Buelna",
+    "admin_name": "Cantabria",
+    "lat": "43.2617",
+    "lng": "-4.0653",
+    "id": "1724471933"
+  },
+  {
+    "city": "Yuncos",
+    "city_ascii": "Yuncos",
+    "admin_name": "Castille-La Mancha",
+    "lat": "40.0833",
+    "lng": "-3.8667",
+    "id": "1724313165"
+  },
+  {
+    "city": "La Puebla de Cazalla",
+    "city_ascii": "La Puebla de Cazalla",
+    "admin_name": "Andalusia",
+    "lat": "37.2222",
+    "lng": "-5.3125",
+    "id": "1724676829"
+  },
+  {
+    "city": "Tafalla",
+    "city_ascii": "Tafalla",
+    "admin_name": "Navarre",
+    "lat": "42.5277",
+    "lng": "-1.6745",
+    "id": "1724582472"
+  },
+  {
+    "city": "Laredo",
+    "city_ascii": "Laredo",
+    "admin_name": "Cantabria",
+    "lat": "43.4144",
+    "lng": "-3.4100",
+    "id": "1724449153"
+  },
+  {
+    "city": "Rianxo",
+    "city_ascii": "Rianxo",
+    "admin_name": "Galicia",
+    "lat": "42.6500",
+    "lng": "-8.8167",
+    "id": "1724885529"
+  },
+  {
+    "city": "Cantillana",
+    "city_ascii": "Cantillana",
+    "admin_name": "Andalusia",
+    "lat": "37.6000",
+    "lng": "-5.8167",
+    "id": "1724661901"
+  },
+  {
+    "city": "La Palma del Condado",
+    "city_ascii": "La Palma del Condado",
+    "admin_name": "Andalusia",
+    "lat": "37.3842",
+    "lng": "-6.5517",
+    "id": "1724270094"
+  },
+  {
+    "city": "Huétor-Tájar",
+    "city_ascii": "Huetor-Tajar",
+    "admin_name": "Andalusia",
+    "lat": "37.1947",
+    "lng": "-4.0464",
+    "id": "1724650449"
+  },
+  {
+    "city": "Daganzo de Arriba",
+    "city_ascii": "Daganzo de Arriba",
+    "admin_name": "Madrid",
+    "lat": "40.5433",
+    "lng": "-3.4572",
+    "id": "1724385787"
+  },
+  {
+    "city": "Garrucha",
+    "city_ascii": "Garrucha",
+    "admin_name": "Andalusia",
+    "lat": "37.1842",
+    "lng": "-1.8214",
+    "id": "1724316794"
+  },
+  {
+    "city": "Alcora",
+    "city_ascii": "Alcora",
+    "admin_name": "Valencia",
+    "lat": "40.0667",
+    "lng": "-0.2000",
+    "id": "1724288303"
+  },
+  {
+    "city": "Tarazona de Aragón",
+    "city_ascii": "Tarazona de Aragon",
+    "admin_name": "Aragon",
+    "lat": "41.9044",
+    "lng": "-1.7242",
+    "id": "1724796233"
+  },
+  {
+    "city": "Santa Margarita de Mombúy",
+    "city_ascii": "Santa Margarita de Mombuy",
+    "admin_name": "Catalonia",
+    "lat": "41.5756",
+    "lng": "1.6092",
+    "id": "1724000140"
+  },
+  {
+    "city": "Griñón",
+    "city_ascii": "Grinon",
+    "admin_name": "Madrid",
+    "lat": "40.2167",
+    "lng": "-3.8500",
+    "id": "1724085854"
+  },
+  {
+    "city": "Gelves",
+    "city_ascii": "Gelves",
+    "admin_name": "Andalusia",
+    "lat": "37.3333",
+    "lng": "-6.0167",
+    "id": "1724803534"
+  },
+  {
+    "city": "Salvatierra de Miño",
+    "city_ascii": "Salvatierra de Mino",
+    "admin_name": "Galicia",
+    "lat": "42.0833",
+    "lng": "-8.5000",
+    "id": "1724003151"
+  },
+  {
+    "city": "Caspe",
+    "city_ascii": "Caspe",
+    "admin_name": "Aragon",
+    "lat": "41.2333",
+    "lng": "-0.0333",
+    "id": "1724962695"
+  },
+  {
+    "city": "El Álamo",
+    "city_ascii": "El Alamo",
+    "admin_name": "Madrid",
+    "lat": "40.2306",
+    "lng": "-3.9944",
+    "id": "1724385981"
+  },
+  {
+    "city": "Luanco",
+    "city_ascii": "Luanco",
+    "admin_name": "Asturias",
+    "lat": "43.6100",
+    "lng": "-5.7900",
+    "id": "1724203007"
+  },
+  {
+    "city": "Alhendín",
+    "city_ascii": "Alhendin",
+    "admin_name": "Andalusia",
+    "lat": "37.1167",
+    "lng": "-3.6500",
+    "id": "1724096901"
+  },
+  {
+    "city": "Masanasa",
+    "city_ascii": "Masanasa",
+    "admin_name": "Valencia",
+    "lat": "39.4083",
+    "lng": "-0.3989",
+    "id": "1724442846"
+  },
+  {
+    "city": "Amurrio",
+    "city_ascii": "Amurrio",
+    "admin_name": "Basque Country",
+    "lat": "43.0528",
+    "lng": "-3.0014",
+    "id": "1724144899"
+  },
+  {
+    "city": "Villacarrillo",
+    "city_ascii": "Villacarrillo",
+    "admin_name": "Andalusia",
+    "lat": "38.1000",
+    "lng": "-3.0833",
+    "id": "1724531932"
+  },
+  {
+    "city": "Astorga",
+    "city_ascii": "Astorga",
+    "admin_name": "Castille-Leon",
+    "lat": "42.4589",
+    "lng": "-6.0633",
+    "id": "1724399849"
+  },
+  {
+    "city": "Peñarroya-Pueblonuevo",
+    "city_ascii": "Penarroya-Pueblonuevo",
+    "admin_name": "Andalusia",
+    "lat": "38.3000",
+    "lng": "-5.2667",
+    "id": "1724568918"
+  },
+  {
+    "city": "Calasparra",
+    "city_ascii": "Calasparra",
+    "admin_name": "Murcia",
+    "lat": "38.2306",
+    "lng": "-1.7000",
+    "id": "1724622163"
+  },
+  {
+    "city": "Pola de Lena",
+    "city_ascii": "Pola de Lena",
+    "admin_name": "Asturias",
+    "lat": "43.1583",
+    "lng": "-5.8292",
+    "id": "1724170982"
+  },
+  {
+    "city": "Zumaia",
+    "city_ascii": "Zumaia",
+    "admin_name": "Basque Country",
+    "lat": "43.2972",
+    "lng": "-2.2569",
+    "id": "1724000458"
+  },
+  {
+    "city": "Caudete",
+    "city_ascii": "Caudete",
+    "admin_name": "Castille-La Mancha",
+    "lat": "38.7044",
+    "lng": "-0.9881",
+    "id": "1724551551"
+  },
+  {
+    "city": "Alcaudete",
+    "city_ascii": "Alcaudete",
+    "admin_name": "Andalusia",
+    "lat": "37.5833",
+    "lng": "-4.1000",
+    "id": "1724011838"
+  },
+  {
+    "city": "Villanueva de Arosa",
+    "city_ascii": "Villanueva de Arosa",
+    "admin_name": "Galicia",
+    "lat": "42.5628",
+    "lng": "-8.8278",
+    "id": "1724595746"
+  },
+  {
+    "city": "Alella",
+    "city_ascii": "Alella",
+    "admin_name": "Catalonia",
+    "lat": "41.4950",
+    "lng": "2.2960",
+    "id": "1724686640"
+  },
+  {
+    "city": "Alguazas",
+    "city_ascii": "Alguazas",
+    "admin_name": "Murcia",
+    "lat": "38.0514",
+    "lng": "-1.2414",
+    "id": "1724241306"
+  },
+  {
+    "city": "Foz",
+    "city_ascii": "Foz",
+    "admin_name": "Galicia",
+    "lat": "43.5694",
+    "lng": "-7.2583",
+    "id": "1724292165"
+  },
+  {
+    "city": "Pizarra",
+    "city_ascii": "Pizarra",
+    "admin_name": "Andalusia",
+    "lat": "36.7667",
+    "lng": "-4.7000",
+    "id": "1724076004"
+  },
+  {
+    "city": "Sax",
+    "city_ascii": "Sax",
+    "admin_name": "Valencia",
+    "lat": "38.5394",
+    "lng": "-0.8161",
+    "id": "1724511269"
+  },
+  {
+    "city": "Canteras",
+    "city_ascii": "Canteras",
+    "admin_name": "Murcia",
+    "lat": "37.6122",
+    "lng": "-1.0438",
+    "id": "1724341004"
+  },
+  {
+    "city": "El Espinar",
+    "city_ascii": "El Espinar",
+    "admin_name": "Castille-Leon",
+    "lat": "40.7186",
+    "lng": "-4.2478",
+    "id": "1724085295"
+  },
+  {
+    "city": "San Vicente de Castellet",
+    "city_ascii": "San Vicente de Castellet",
+    "admin_name": "Catalonia",
+    "lat": "41.6678",
+    "lng": "1.8633",
+    "id": "1724504704"
+  },
+  {
+    "city": "Binéfar",
+    "city_ascii": "Binefar",
+    "admin_name": "Aragon",
+    "lat": "41.8500",
+    "lng": "0.3000",
+    "id": "1724991956"
+  },
+  {
+    "city": "Madridejos",
+    "city_ascii": "Madridejos",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.4667",
+    "lng": "-3.5333",
+    "id": "1724797176"
+  },
+  {
+    "city": "El Molar",
+    "city_ascii": "El Molar",
+    "admin_name": "Madrid",
+    "lat": "40.7336",
+    "lng": "-3.5814",
+    "id": "1724048617"
+  },
+  {
+    "city": "Alayor",
+    "city_ascii": "Alayor",
+    "admin_name": "Balearic Islands",
+    "lat": "39.9339",
+    "lng": "4.1403",
+    "id": "1724740843"
+  },
+  {
+    "city": "Masquefa",
+    "city_ascii": "Masquefa",
+    "admin_name": "Catalonia",
+    "lat": "41.5036",
+    "lng": "1.8136",
+    "id": "1724932244"
+  },
+  {
+    "city": "La Bañeza",
+    "city_ascii": "La Baneza",
+    "admin_name": "Castille-Leon",
+    "lat": "42.2975",
+    "lng": "-5.9017",
+    "id": "1724574131"
+  },
+  {
+    "city": "Alcarraz",
+    "city_ascii": "Alcarraz",
+    "admin_name": "Catalonia",
+    "lat": "41.5661",
+    "lng": "0.5261",
+    "id": "1724729662"
+  },
+  {
+    "city": "Cabañaquinta",
+    "city_ascii": "Cabanaquinta",
+    "admin_name": "Asturias",
+    "lat": "43.1000",
+    "lng": "-5.5833",
+    "id": "1724996581"
+  },
+  {
+    "city": "Mengibar",
+    "city_ascii": "Mengibar",
+    "admin_name": "Andalusia",
+    "lat": "37.9683",
+    "lng": "-3.8089",
+    "id": "1724436567"
+  },
+  {
+    "city": "Santa María de Palautordera",
+    "city_ascii": "Santa Maria de Palautordera",
+    "admin_name": "Catalonia",
+    "lat": "41.6953",
+    "lng": "2.4458",
+    "id": "1724250145"
+  },
+  {
+    "city": "Morayra",
+    "city_ascii": "Morayra",
+    "admin_name": "",
+    "lat": "38.6880",
+    "lng": "0.1345",
+    "id": "1724811338"
+  },
+  {
+    "city": "Ribadeo",
+    "city_ascii": "Ribadeo",
+    "admin_name": "Galicia",
+    "lat": "43.5336",
+    "lng": "-7.0403",
+    "id": "1724577881"
+  },
+  {
+    "city": "Torrejón de la Calzada",
+    "city_ascii": "Torrejon de la Calzada",
+    "admin_name": "Madrid",
+    "lat": "40.2000",
+    "lng": "-3.8000",
+    "id": "1724980898"
+  },
+  {
+    "city": "Consuegra",
+    "city_ascii": "Consuegra",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.4619",
+    "lng": "-3.6064",
+    "id": "1724179582"
+  },
+  {
+    "city": "Mora",
+    "city_ascii": "Mora",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.6840",
+    "lng": "-3.7770",
+    "id": "1724961041"
+  },
+  {
+    "city": "Fuente Palmera",
+    "city_ascii": "Fuente Palmera",
+    "admin_name": "Andalusia",
+    "lat": "37.7032",
+    "lng": "-5.1041",
+    "id": "1724922514"
+  },
+  {
+    "city": "La Escala",
+    "city_ascii": "La Escala",
+    "admin_name": "Catalonia",
+    "lat": "42.1140",
+    "lng": "3.1390",
+    "id": "1724179196"
+  },
+  {
+    "city": "Alfaro",
+    "city_ascii": "Alfaro",
+    "admin_name": "La Rioja",
+    "lat": "42.1783",
+    "lng": "-1.7492",
+    "id": "1724727631"
+  },
+  {
+    "city": "Matadepera",
+    "city_ascii": "Matadepera",
+    "admin_name": "Catalonia",
+    "lat": "41.6036",
+    "lng": "2.0244",
+    "id": "1724902635"
+  },
+  {
+    "city": "San Juan del Puerto",
+    "city_ascii": "San Juan del Puerto",
+    "admin_name": "Andalusia",
+    "lat": "37.3167",
+    "lng": "-6.8333",
+    "id": "1724625645"
+  },
+  {
+    "city": "Valsequillo de Gran Canaria",
+    "city_ascii": "Valsequillo de Gran Canaria",
+    "admin_name": "Canary Islands",
+    "lat": "28.0000",
+    "lng": "-15.4667",
+    "id": "1724192728"
+  },
+  {
+    "city": "Buñol",
+    "city_ascii": "Bunol",
+    "admin_name": "Valencia",
+    "lat": "39.4194",
+    "lng": "-0.7906",
+    "id": "1724376022"
+  },
+  {
+    "city": "Rute",
+    "city_ascii": "Rute",
+    "admin_name": "Andalusia",
+    "lat": "37.3167",
+    "lng": "-4.3667",
+    "id": "1724167634"
+  },
+  {
+    "city": "Rafelbuñol",
+    "city_ascii": "Rafelbunol",
+    "admin_name": "Valencia",
+    "lat": "39.5922",
+    "lng": "-0.3342",
+    "id": "1724851676"
+  },
+  {
+    "city": "Pinos Puente",
+    "city_ascii": "Pinos Puente",
+    "admin_name": "Andalusia",
+    "lat": "37.2500",
+    "lng": "-3.7500",
+    "id": "1724568030"
+  },
+  {
+    "city": "Grado",
+    "city_ascii": "Grado",
+    "admin_name": "Asturias",
+    "lat": "43.3881",
+    "lng": "-6.0736",
+    "id": "1724381438"
+  },
+  {
+    "city": "Zumárraga",
+    "city_ascii": "Zumarraga",
+    "admin_name": "Basque Country",
+    "lat": "43.0831",
+    "lng": "-2.3167",
+    "id": "1724224861"
+  },
+  {
+    "city": "Sevilla La Nueva",
+    "city_ascii": "Sevilla La Nueva",
+    "admin_name": "Madrid",
+    "lat": "40.3475",
+    "lng": "-4.0286",
+    "id": "1724114495"
+  },
+  {
+    "city": "Monserrat",
+    "city_ascii": "Monserrat",
+    "admin_name": "Valencia",
+    "lat": "39.3575",
+    "lng": "-0.6031",
+    "id": "1724732008"
+  },
+  {
+    "city": "Sangonera la Verde",
+    "city_ascii": "Sangonera la Verde",
+    "admin_name": "Murcia",
+    "lat": "37.9333",
+    "lng": "-1.2000",
+    "id": "1724648209"
+  },
+  {
+    "city": "Cervelló",
+    "city_ascii": "Cervello",
+    "admin_name": "Catalonia",
+    "lat": "41.3978",
+    "lng": "1.9578",
+    "id": "1724026410"
+  },
+  {
+    "city": "Segorbe",
+    "city_ascii": "Segorbe",
+    "admin_name": "Valencia",
+    "lat": "39.8500",
+    "lng": "-0.4833",
+    "id": "1724929897"
+  },
+  {
+    "city": "Fernán-Núñez",
+    "city_ascii": "Fernan-Nunez",
+    "admin_name": "Andalusia",
+    "lat": "37.6667",
+    "lng": "-4.7167",
+    "id": "1724966021"
+  },
+  {
+    "city": "Tabernes Blanques",
+    "city_ascii": "Tabernes Blanques",
+    "admin_name": "Valencia",
+    "lat": "39.5083",
+    "lng": "-0.3656",
+    "id": "1724315090"
+  },
+  {
+    "city": "Corró de Vall",
+    "city_ascii": "Corro de Vall",
+    "admin_name": "Catalonia",
+    "lat": "41.6278",
+    "lng": "2.2972",
+    "id": "1724952233"
+  },
+  {
+    "city": "Colmenarejo",
+    "city_ascii": "Colmenarejo",
+    "admin_name": "Madrid",
+    "lat": "40.5608",
+    "lng": "-4.0169",
+    "id": "1724492902"
+  },
+  {
+    "city": "Villarrubia de los Ojos",
+    "city_ascii": "Villarrubia de los Ojos",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.2167",
+    "lng": "-3.6000",
+    "id": "1724057885"
+  },
+  {
+    "city": "Caldas de Reyes",
+    "city_ascii": "Caldas de Reyes",
+    "admin_name": "Galicia",
+    "lat": "42.6028",
+    "lng": "-8.6383",
+    "id": "1724509149"
+  },
+  {
+    "city": "Sabiñánigo",
+    "city_ascii": "Sabinanigo",
+    "admin_name": "Aragon",
+    "lat": "42.5144",
+    "lng": "-0.3744",
+    "id": "1724358375"
+  },
+  {
+    "city": "Maliaño",
+    "city_ascii": "Maliano",
+    "admin_name": "Cantabria",
+    "lat": "43.4186",
+    "lng": "-3.8350",
+    "id": "1724082933"
+  },
+  {
+    "city": "San Sebastián de la Gomera",
+    "city_ascii": "San Sebastian de la Gomera",
+    "admin_name": "Canary Islands",
+    "lat": "28.0922",
+    "lng": "-17.1100",
+    "id": "1724034121"
+  },
+  {
+    "city": "Senmanat",
+    "city_ascii": "Senmanat",
+    "admin_name": "Catalonia",
+    "lat": "41.6092",
+    "lng": "2.1369",
+    "id": "1724417480"
+  },
+  {
+    "city": "Burela de Cabo",
+    "city_ascii": "Burela de Cabo",
+    "admin_name": "Galicia",
+    "lat": "43.6500",
+    "lng": "-7.4000",
+    "id": "1724895816"
+  },
+  {
+    "city": "Padul",
+    "city_ascii": "Padul",
+    "admin_name": "Andalusia",
+    "lat": "37.0244",
+    "lng": "-3.6267",
+    "id": "1724383099"
+  },
+  {
+    "city": "Piedras Blancas",
+    "city_ascii": "Piedras Blancas",
+    "admin_name": "Asturias",
+    "lat": "43.5600",
+    "lng": "-5.9760",
+    "id": "1724519867"
+  },
+  {
+    "city": "Cervera",
+    "city_ascii": "Cervera",
+    "admin_name": "Catalonia",
+    "lat": "41.6656",
+    "lng": "1.2714",
+    "id": "1724947654"
+  },
+  {
+    "city": "Cuéllar",
+    "city_ascii": "Cuellar",
+    "admin_name": "Castille-Leon",
+    "lat": "41.4009",
+    "lng": "-4.3136",
+    "id": "1724802615"
+  },
+  {
+    "city": "Llagostera",
+    "city_ascii": "Llagostera",
+    "admin_name": "Catalonia",
+    "lat": "41.8292",
+    "lng": "2.8933",
+    "id": "1724471622"
+  },
+  {
+    "city": "Olivares",
+    "city_ascii": "Olivares",
+    "admin_name": "Andalusia",
+    "lat": "37.4167",
+    "lng": "-6.1500",
+    "id": "1724113808"
+  },
+  {
+    "city": "Solsona",
+    "city_ascii": "Solsona",
+    "admin_name": "Catalonia",
+    "lat": "41.9978",
+    "lng": "1.5208",
+    "id": "1724790953"
+  },
+  {
+    "city": "Palamós",
+    "city_ascii": "Palamos",
+    "admin_name": "Catalonia",
+    "lat": "41.8500",
+    "lng": "3.1292",
+    "id": "1724685553"
+  },
+  {
+    "city": "Arenys de Munt",
+    "city_ascii": "Arenys de Munt",
+    "admin_name": "Catalonia",
+    "lat": "41.6100",
+    "lng": "2.5400",
+    "id": "1724256334"
+  },
+  {
+    "city": "Villacañas",
+    "city_ascii": "Villacanas",
+    "admin_name": "Castille-La Mancha",
+    "lat": "39.6333",
+    "lng": "-3.3333",
+    "id": "1724000261"
+  },
+  {
+    "city": "Catral",
+    "city_ascii": "Catral",
+    "admin_name": "Valencia",
+    "lat": "38.1594",
+    "lng": "-0.8050",
+    "id": "1724794374"
+  },
+  {
+    "city": "Umbrete",
+    "city_ascii": "Umbrete",
+    "admin_name": "Andalusia",
+    "lat": "37.3667",
+    "lng": "-6.1500",
+    "id": "1724771107"
+  },
+  {
+    "city": "Tocina",
+    "city_ascii": "Tocina",
+    "admin_name": "Andalusia",
+    "lat": "37.6000",
+    "lng": "-5.7333",
+    "id": "1724656816"
+  },
+  {
+    "city": "Ripoll",
+    "city_ascii": "Ripoll",
+    "admin_name": "Catalonia",
+    "lat": "42.2006",
+    "lng": "2.1928",
+    "id": "1724329202"
+  },
+  {
+    "city": "Puig",
+    "city_ascii": "Puig",
+    "admin_name": "Valencia",
+    "lat": "39.5896",
+    "lng": "-0.3031",
+    "id": "1724386828"
+  },
+  {
+    "city": "Santa María de Cayón",
+    "city_ascii": "Santa Maria de Cayon",
+    "admin_name": "Cantabria",
+    "lat": "43.3114",
+    "lng": "-3.8525",
+    "id": "1724357106"
+  },
+  {
+    "city": "Miajadas",
+    "city_ascii": "Miajadas",
+    "admin_name": "Extremadura",
+    "lat": "39.1500",
+    "lng": "-6.0667",
+    "id": "1724704147"
+  },
+  {
+    "city": "Finestrat",
+    "city_ascii": "Finestrat",
+    "admin_name": "Valencia",
+    "lat": "38.5669",
+    "lng": "-0.2125",
+    "id": "1724049685"
+  },
+  {
+    "city": "Muro del Alcoy",
+    "city_ascii": "Muro del Alcoy",
+    "admin_name": "Valencia",
+    "lat": "38.7797",
+    "lng": "-0.4361",
+    "id": "1724540936"
+  },
+  {
+    "city": "San Lorenzo de Descardazar",
+    "city_ascii": "San Lorenzo de Descardazar",
+    "admin_name": "Balearic Islands",
+    "lat": "39.6097",
+    "lng": "3.2839",
+    "id": "1724819492"
+  },
+  {
+    "city": "Santa Comba",
+    "city_ascii": "Santa Comba",
+    "admin_name": "Galicia",
+    "lat": "43.0383",
+    "lng": "-8.8142",
+    "id": "1724258894"
+  },
+  {
+    "city": "La Victoria de Acentejo",
+    "city_ascii": "La Victoria de Acentejo",
+    "admin_name": "Canary Islands",
+    "lat": "28.4333",
+    "lng": "-16.4667",
+    "id": "1724943642"
+  },
+  {
+    "city": "Tiana",
+    "city_ascii": "Tiana",
+    "admin_name": "Catalonia",
+    "lat": "41.4831",
+    "lng": "2.2697",
+    "id": "1724733828"
+  },
+  {
+    "city": "Binisalem",
+    "city_ascii": "Binisalem",
+    "admin_name": "Balearic Islands",
+    "lat": "39.6886",
+    "lng": "2.8422",
+    "id": "1724936924"
+  },
+  {
+    "city": "Cistérniga",
+    "city_ascii": "Cisterniga",
+    "admin_name": "Castille-Leon",
+    "lat": "41.6167",
+    "lng": "-4.6833",
+    "id": "1724893689"
+  },
+  {
+    "city": "Sauzal",
+    "city_ascii": "Sauzal",
+    "admin_name": "Canary Islands",
+    "lat": "28.4778",
+    "lng": "-16.4361",
+    "id": "1724040486"
+  },
+  {
+    "city": "Palomares del Río",
+    "city_ascii": "Palomares del Rio",
+    "admin_name": "Andalusia",
+    "lat": "37.3167",
+    "lng": "-6.0500",
+    "id": "1724980685"
+  },
+  {
+    "city": "San Fructuoso de Bagés",
+    "city_ascii": "San Fructuoso de Bages",
+    "admin_name": "Catalonia",
+    "lat": "41.7520",
+    "lng": "1.8745",
+    "id": "1724643327"
+  },
+  {
+    "city": "Manzanares el Real",
+    "city_ascii": "Manzanares el Real",
+    "admin_name": "Madrid",
+    "lat": "40.7272",
+    "lng": "-3.8611",
+    "id": "1724862463"
+  },
+  {
+    "city": "San Fausto de Campcentellas",
+    "city_ascii": "San Fausto de Campcentellas",
+    "admin_name": "Catalonia",
+    "lat": "41.5061",
+    "lng": "2.2400",
+    "id": "1724140929"
+  },
+  {
+    "city": "Villamediana de Iregua",
+    "city_ascii": "Villamediana de Iregua",
+    "admin_name": "La Rioja",
+    "lat": "42.4333",
+    "lng": "-2.4167",
+    "id": "1724390571"
+  },
+  {
+    "city": "Loeches",
+    "city_ascii": "Loeches",
+    "admin_name": "Madrid",
+    "lat": "40.3833",
+    "lng": "-3.4000",
+    "id": "1724742454"
+  },
+  {
+    "city": "Jerez de los Caballeros",
+    "city_ascii": "Jerez de los Caballeros",
+    "admin_name": "Extremadura",
+    "lat": "38.3203",
+    "lng": "-6.7714",
+    "id": "1724015123"
+  },
+  {
+    "city": "La Matanza de Acentejo",
+    "city_ascii": "La Matanza de Acentejo",
+    "admin_name": "Canary Islands",
+    "lat": "28.4528",
+    "lng": "-16.4556",
+    "id": "1724158737"
+  },
+  {
+    "city": "Arico el Nuevo",
+    "city_ascii": "Arico el Nuevo",
+    "admin_name": "Canary Islands",
+    "lat": "28.1667",
+    "lng": "-16.4667",
+    "id": "1724911313"
+  },
+  {
+    "city": "Tineo",
+    "city_ascii": "Tineo",
+    "admin_name": "Asturias",
+    "lat": "43.3333",
+    "lng": "-6.4167",
+    "id": "1724821871"
+  },
+  {
+    "city": "Suances",
+    "city_ascii": "Suances",
+    "admin_name": "Cantabria",
+    "lat": "43.4333",
+    "lng": "-4.0500",
+    "id": "1724045126"
+  },
+  {
+    "city": "Benahavís",
+    "city_ascii": "Benahavis",
+    "admin_name": "Andalusia",
+    "lat": "36.5190",
+    "lng": "-5.0454",
+    "id": "1724136228"
+  },
+  {
+    "city": "Almusafes",
+    "city_ascii": "Almusafes",
+    "admin_name": "Valencia",
+    "lat": "39.2903",
+    "lng": "-0.4147",
+    "id": "1724698693"
+  },
+  {
+    "city": "Montoro",
+    "city_ascii": "Montoro",
+    "admin_name": "Andalusia",
+    "lat": "38.0167",
+    "lng": "-4.3833",
+    "id": "1724147056"
+  },
+  {
+    "city": "Cheste",
+    "city_ascii": "Cheste",
+    "admin_name": "Valencia",
+    "lat": "39.4797",
+    "lng": "-0.6844",
+    "id": "1724161865"
+  },
+  {
+    "city": "Monforte del Cid",
+    "city_ascii": "Monforte del Cid",
+    "admin_name": "Valencia",
+    "lat": "38.3833",
+    "lng": "-0.7167",
+    "id": "1724092008"
+  },
+  {
+    "city": "Almagro",
+    "city_ascii": "Almagro",
+    "admin_name": "Castille-La Mancha",
+    "lat": "38.8878",
+    "lng": "-3.7122",
+    "id": "1724161420"
+  },
+  {
+    "city": "Montmeló",
+    "city_ascii": "Montmelo",
+    "admin_name": "Catalonia",
+    "lat": "41.5547",
+    "lng": "2.2500",
+    "id": "1724866272"
+  },
+  {
+    "city": "Silleda",
+    "city_ascii": "Silleda",
+    "admin_name": "Galicia",
+    "lat": "42.7000",
+    "lng": "-8.2333",
+    "id": "1724280384"
+  },
+  {
+    "city": "San Martín de Valdeiglesias",
+    "city_ascii": "San Martin de Valdeiglesias",
+    "admin_name": "Madrid",
+    "lat": "40.3640",
+    "lng": "-4.4010",
+    "id": "1724237441"
+  },
+  {
+    "city": "Hoyo de Manzanares",
+    "city_ascii": "Hoyo de Manzanares",
+    "admin_name": "Madrid",
+    "lat": "40.6333",
+    "lng": "-3.8833",
+    "id": "1724993992"
+  },
+  {
+    "city": "Playa de Aro",
+    "city_ascii": "Playa de Aro",
+    "admin_name": "Catalonia",
+    "lat": "41.8176",
+    "lng": "3.0683",
+    "id": "1724545789"
+  },
+  {
+    "city": "Corella",
+    "city_ascii": "Corella",
+    "admin_name": "Navarre",
+    "lat": "42.1147",
+    "lng": "-1.7867",
+    "id": "1724452724"
+  },
+  {
+    "city": "Pedreguer",
+    "city_ascii": "Pedreguer",
+    "admin_name": "Valencia",
+    "lat": "38.7933",
+    "lng": "0.0342",
+    "id": "1724095623"
+  },
+  {
+    "city": "La Mujer",
+    "city_ascii": "La Mujer",
+    "admin_name": "Andalusia",
+    "lat": "36.7522",
+    "lng": "-2.6839",
+    "id": "1724347316"
+  },
+  {
+    "city": "Tudela de Duero",
+    "city_ascii": "Tudela de Duero",
+    "admin_name": "Castille-Leon",
+    "lat": "41.5842",
+    "lng": "-4.5800",
+    "id": "1724835733"
+  },
+  {
+    "city": "Tordesillas",
+    "city_ascii": "Tordesillas",
+    "admin_name": "Castille-Leon",
+    "lat": "41.5000",
+    "lng": "-5.0000",
+    "id": "1724737891"
+  },
+  {
+    "city": "Zuera",
+    "city_ascii": "Zuera",
+    "admin_name": "Aragon",
+    "lat": "41.8667",
+    "lng": "-0.7833",
+    "id": "1724985911"
+  },
+  {
+    "city": "Ortuella",
+    "city_ascii": "Ortuella",
+    "admin_name": "Basque Country",
+    "lat": "43.3103",
+    "lng": "-3.0569",
+    "id": "1724860199"
+  },
+  {
+    "city": "Santiponce",
+    "city_ascii": "Santiponce",
+    "admin_name": "Andalusia",
+    "lat": "37.4353",
+    "lng": "-6.0433",
+    "id": "1724904141"
+  },
+  {
+    "city": "Trujillo",
+    "city_ascii": "Trujillo",
+    "admin_name": "Extremadura",
+    "lat": "39.4653",
+    "lng": "-5.8789",
+    "id": "1724377228"
+  },
+  {
+    "city": "Monachil",
+    "city_ascii": "Monachil",
+    "admin_name": "Andalusia",
+    "lat": "37.1319",
+    "lng": "-3.5389",
+    "id": "1724562504"
+  },
+  {
+    "city": "San Juan de Palamós",
+    "city_ascii": "San Juan de Palamos",
+    "admin_name": "Catalonia",
+    "lat": "41.8565",
+    "lng": "3.1294",
+    "id": "1724386033"
+  },
+  {
+    "city": "Reinosa",
+    "city_ascii": "Reinosa",
+    "admin_name": "Cantabria",
+    "lat": "43.0019",
+    "lng": "-4.1378",
+    "id": "1724266157"
+  },
+  {
+    "city": "Polinyá",
+    "city_ascii": "Polinya",
+    "admin_name": "Catalonia",
+    "lat": "41.5580",
+    "lng": "2.1580",
+    "id": "1724904105"
+  },
+  {
+    "city": "Colindres",
+    "city_ascii": "Colindres",
+    "admin_name": "Cantabria",
+    "lat": "43.3967",
+    "lng": "-3.4483",
+    "id": "1724098136"
+  },
+  {
+    "city": "Vidreras",
+    "city_ascii": "Vidreras",
+    "admin_name": "Catalonia",
+    "lat": "41.7903",
+    "lng": "2.7750",
+    "id": "1724255516"
+  },
+  {
+    "city": "Tona",
+    "city_ascii": "Tona",
+    "admin_name": "Catalonia",
+    "lat": "41.8500",
+    "lng": "2.2333",
+    "id": "1724461135"
+  },
+  {
+    "city": "Caldas de Malavella",
+    "city_ascii": "Caldas de Malavella",
+    "admin_name": "Catalonia",
+    "lat": "41.8394",
+    "lng": "2.8106",
+    "id": "1724597577"
+  }
+]

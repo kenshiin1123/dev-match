@@ -1,0 +1,2370 @@
+[
+  {
+    "city": "Johannesburg",
+    "city_ascii": "Johannesburg",
+    "admin_name": "Gauteng",
+    "lat": "-26.2044",
+    "lng": "28.0456",
+    "id": "1710550792"
+  },
+  {
+    "city": "Cape Town",
+    "city_ascii": "Cape Town",
+    "admin_name": "Western Cape",
+    "lat": "-33.9253",
+    "lng": "18.4239",
+    "id": "1710680650"
+  },
+  {
+    "city": "Pretoria",
+    "city_ascii": "Pretoria",
+    "admin_name": "Gauteng",
+    "lat": "-25.7461",
+    "lng": "28.1881",
+    "id": "1710176249"
+  },
+  {
+    "city": "Soweto",
+    "city_ascii": "Soweto",
+    "admin_name": "Gauteng",
+    "lat": "-26.2678",
+    "lng": "27.8585",
+    "id": "1710627007"
+  },
+  {
+    "city": "Gqeberha",
+    "city_ascii": "Gqeberha",
+    "admin_name": "Eastern Cape",
+    "lat": "-33.9581",
+    "lng": "25.6000",
+    "id": "1710918997"
+  },
+  {
+    "city": "Pietermaritzburg",
+    "city_ascii": "Pietermaritzburg",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.6167",
+    "lng": "30.3833",
+    "id": "1710690280"
+  },
+  {
+    "city": "Durban",
+    "city_ascii": "Durban",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.8833",
+    "lng": "31.0500",
+    "id": "1710149138"
+  },
+  {
+    "city": "Rustenburg",
+    "city_ascii": "Rustenburg",
+    "admin_name": "North West",
+    "lat": "-25.6667",
+    "lng": "27.2428",
+    "id": "1710326039"
+  },
+  {
+    "city": "Newcastle",
+    "city_ascii": "Newcastle",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-27.7464",
+    "lng": "29.9328",
+    "id": "1710031016"
+  },
+  {
+    "city": "Katlehong",
+    "city_ascii": "Katlehong",
+    "admin_name": "Gauteng",
+    "lat": "-26.3333",
+    "lng": "28.1500",
+    "id": "1710975690"
+  },
+  {
+    "city": "Zebediela",
+    "city_ascii": "Zebediela",
+    "admin_name": "Limpopo",
+    "lat": "-24.3100",
+    "lng": "29.2700",
+    "id": "1710272814"
+  },
+  {
+    "city": "Khayelitsha",
+    "city_ascii": "Khayelitsha",
+    "admin_name": "Western Cape",
+    "lat": "-34.0403",
+    "lng": "18.6778",
+    "id": "1710736316"
+  },
+  {
+    "city": "Randburg",
+    "city_ascii": "Randburg",
+    "admin_name": "Gauteng",
+    "lat": "-26.0936",
+    "lng": "28.0064",
+    "id": "1710279034"
+  },
+  {
+    "city": "Roodepoort",
+    "city_ascii": "Roodepoort",
+    "admin_name": "Gauteng",
+    "lat": "-26.1625",
+    "lng": "27.8725",
+    "id": "1710090212"
+  },
+  {
+    "city": "Mitchells Plain",
+    "city_ascii": "Mitchells Plain",
+    "admin_name": "Western Cape",
+    "lat": "-34.0506",
+    "lng": "18.6181",
+    "id": "1710549821"
+  },
+  {
+    "city": "Paarl",
+    "city_ascii": "Paarl",
+    "admin_name": "Western Cape",
+    "lat": "-33.7242",
+    "lng": "18.9558",
+    "id": "1710440011"
+  },
+  {
+    "city": "Mahikeng",
+    "city_ascii": "Mahikeng",
+    "admin_name": "North West",
+    "lat": "-25.8656",
+    "lng": "25.6436",
+    "id": "1710965423"
+  },
+  {
+    "city": "East London",
+    "city_ascii": "East London",
+    "admin_name": "Eastern Cape",
+    "lat": "-33.0175",
+    "lng": "27.9047",
+    "id": "1710178149"
+  },
+  {
+    "city": "Boksburg",
+    "city_ascii": "Boksburg",
+    "admin_name": "Gauteng",
+    "lat": "-26.2125",
+    "lng": "28.2625",
+    "id": "1710932183"
+  },
+  {
+    "city": "Bloemfontein",
+    "city_ascii": "Bloemfontein",
+    "admin_name": "Free State",
+    "lat": "-29.1167",
+    "lng": "26.2167",
+    "id": "1710495933"
+  },
+  {
+    "city": "Germiston",
+    "city_ascii": "Germiston",
+    "admin_name": "Gauteng",
+    "lat": "-26.2178",
+    "lng": "28.1672",
+    "id": "1710366382"
+  },
+  {
+    "city": "Centurion",
+    "city_ascii": "Centurion",
+    "admin_name": "Gauteng",
+    "lat": "-25.8603",
+    "lng": "28.1894",
+    "id": "1710138774"
+  },
+  {
+    "city": "Sandton",
+    "city_ascii": "Sandton",
+    "admin_name": "Gauteng",
+    "lat": "-26.1070",
+    "lng": "28.0517",
+    "id": "1710113163"
+  },
+  {
+    "city": "Klerksdorp",
+    "city_ascii": "Klerksdorp",
+    "admin_name": "North West",
+    "lat": "-26.8667",
+    "lng": "26.6667",
+    "id": "1710416691"
+  },
+  {
+    "city": "Bethelsdorp",
+    "city_ascii": "Bethelsdorp",
+    "admin_name": "Eastern Cape",
+    "lat": "-33.8833",
+    "lng": "25.5000",
+    "id": "1710792781"
+  },
+  {
+    "city": "Kempton Park",
+    "city_ascii": "Kempton Park",
+    "admin_name": "Gauteng",
+    "lat": "-26.1000",
+    "lng": "28.2333",
+    "id": "1710287070"
+  },
+  {
+    "city": "Nqutu",
+    "city_ascii": "Nqutu",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-28.2320",
+    "lng": "30.5660",
+    "id": "1710983407"
+  },
+  {
+    "city": "Kroonstad",
+    "city_ascii": "Kroonstad",
+    "admin_name": "Free State",
+    "lat": "-27.6500",
+    "lng": "27.2333",
+    "id": "1710508288"
+  },
+  {
+    "city": "Benoni",
+    "city_ascii": "Benoni",
+    "admin_name": "Gauteng",
+    "lat": "-26.1883",
+    "lng": "28.3206",
+    "id": "1710880986"
+  },
+  {
+    "city": "George",
+    "city_ascii": "George",
+    "admin_name": "Western Cape",
+    "lat": "-33.9667",
+    "lng": "22.4500",
+    "id": "1710164136"
+  },
+  {
+    "city": "Pinetown",
+    "city_ascii": "Pinetown",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.8167",
+    "lng": "30.8500",
+    "id": "1710417771"
+  },
+  {
+    "city": "Krugersdorp",
+    "city_ascii": "Krugersdorp",
+    "admin_name": "Gauteng",
+    "lat": "-26.1000",
+    "lng": "27.7667",
+    "id": "1710772829"
+  },
+  {
+    "city": "Polokwane",
+    "city_ascii": "Polokwane",
+    "admin_name": "Limpopo",
+    "lat": "-23.9000",
+    "lng": "29.4500",
+    "id": "1710908010"
+  },
+  {
+    "city": "Worcester",
+    "city_ascii": "Worcester",
+    "admin_name": "Western Cape",
+    "lat": "-33.6450",
+    "lng": "19.4436",
+    "id": "1710498245"
+  },
+  {
+    "city": "Springs",
+    "city_ascii": "Springs",
+    "admin_name": "Gauteng",
+    "lat": "-26.2547",
+    "lng": "28.4428",
+    "id": "1710058382"
+  },
+  {
+    "city": "Alberton",
+    "city_ascii": "Alberton",
+    "admin_name": "Gauteng",
+    "lat": "-26.2672",
+    "lng": "28.1219",
+    "id": "1710738396"
+  },
+  {
+    "city": "Winterveld",
+    "city_ascii": "Winterveld",
+    "admin_name": "North West",
+    "lat": "-25.4200",
+    "lng": "27.9490",
+    "id": "1710631370"
+  },
+  {
+    "city": "Parow",
+    "city_ascii": "Parow",
+    "admin_name": "Western Cape",
+    "lat": "-33.9000",
+    "lng": "18.6000",
+    "id": "1710483674"
+  },
+  {
+    "city": "Empangeni",
+    "city_ascii": "Empangeni",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-28.7500",
+    "lng": "31.9000",
+    "id": "1710623921"
+  },
+  {
+    "city": "Witbank",
+    "city_ascii": "Witbank",
+    "admin_name": "Mpumalanga",
+    "lat": "-25.8770",
+    "lng": "29.2010",
+    "id": "1710724527"
+  },
+  {
+    "city": "Uitenhage",
+    "city_ascii": "Uitenhage",
+    "admin_name": "Eastern Cape",
+    "lat": "-33.7667",
+    "lng": "25.4000",
+    "id": "1710276157"
+  },
+  {
+    "city": "KwaDukuza",
+    "city_ascii": "KwaDukuza",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.3333",
+    "lng": "31.2917",
+    "id": "1710530492"
+  },
+  {
+    "city": "Mossel Bay",
+    "city_ascii": "Mossel Bay",
+    "admin_name": "Western Cape",
+    "lat": "-34.1833",
+    "lng": "22.1333",
+    "id": "1710597106"
+  },
+  {
+    "city": "Vereeniging",
+    "city_ascii": "Vereeniging",
+    "admin_name": "Gauteng",
+    "lat": "-26.6736",
+    "lng": "27.9319",
+    "id": "1710271883"
+  },
+  {
+    "city": "Kimberley",
+    "city_ascii": "Kimberley",
+    "admin_name": "Northern Cape",
+    "lat": "-28.7383",
+    "lng": "24.7639",
+    "id": "1710282622"
+  },
+  {
+    "city": "Mthatha",
+    "city_ascii": "Mthatha",
+    "admin_name": "Eastern Cape",
+    "lat": "-31.5886",
+    "lng": "28.7900",
+    "id": "1710651314"
+  },
+  {
+    "city": "Vanderbijlpark",
+    "city_ascii": "Vanderbijlpark",
+    "admin_name": "Gauteng",
+    "lat": "-26.6992",
+    "lng": "27.8356",
+    "id": "1710733212"
+  },
+  {
+    "city": "Grahamstown",
+    "city_ascii": "Grahamstown",
+    "admin_name": "Eastern Cape",
+    "lat": "-33.2996",
+    "lng": "26.5200",
+    "id": "1710671857"
+  },
+  {
+    "city": "Hoopstad",
+    "city_ascii": "Hoopstad",
+    "admin_name": "Free State",
+    "lat": "-27.8333",
+    "lng": "25.9167",
+    "id": "1710345420"
+  },
+  {
+    "city": "Midrand",
+    "city_ascii": "Midrand",
+    "admin_name": "Gauteng",
+    "lat": "-25.9992",
+    "lng": "28.1264",
+    "id": "1710101627"
+  },
+  {
+    "city": "Middelburg",
+    "city_ascii": "Middelburg",
+    "admin_name": "Mpumalanga",
+    "lat": "-25.7681",
+    "lng": "29.4547",
+    "id": "1710495632"
+  },
+  {
+    "city": "Standerton",
+    "city_ascii": "Standerton",
+    "admin_name": "Mpumalanga",
+    "lat": "-26.9500",
+    "lng": "29.2500",
+    "id": "1710222465"
+  },
+  {
+    "city": "Ermelo",
+    "city_ascii": "Ermelo",
+    "admin_name": "Mpumalanga",
+    "lat": "-26.5333",
+    "lng": "29.9833",
+    "id": "1710683808"
+  },
+  {
+    "city": "Randfontein",
+    "city_ascii": "Randfontein",
+    "admin_name": "Gauteng",
+    "lat": "-26.1797",
+    "lng": "27.7042",
+    "id": "1710137724"
+  },
+  {
+    "city": "Stellenbosch",
+    "city_ascii": "Stellenbosch",
+    "admin_name": "Western Cape",
+    "lat": "-33.9367",
+    "lng": "18.8614",
+    "id": "1710221701"
+  },
+  {
+    "city": "Sasolburg",
+    "city_ascii": "Sasolburg",
+    "admin_name": "Free State",
+    "lat": "-26.8142",
+    "lng": "27.8286",
+    "id": "1710432260"
+  },
+  {
+    "city": "Knysna",
+    "city_ascii": "Knysna",
+    "admin_name": "Western Cape",
+    "lat": "-34.0356",
+    "lng": "23.0489",
+    "id": "1710311704"
+  },
+  {
+    "city": "Upington",
+    "city_ascii": "Upington",
+    "admin_name": "Northern Cape",
+    "lat": "-28.4500",
+    "lng": "21.2500",
+    "id": "1710210449"
+  },
+  {
+    "city": "Brakpan",
+    "city_ascii": "Brakpan",
+    "admin_name": "Gauteng",
+    "lat": "-26.2353",
+    "lng": "28.3700",
+    "id": "1710291121"
+  },
+  {
+    "city": "Thaba Nchu",
+    "city_ascii": "Thaba Nchu",
+    "admin_name": "Free State",
+    "lat": "-29.2000",
+    "lng": "26.8333",
+    "id": "1710265010"
+  },
+  {
+    "city": "Kwamhlanga",
+    "city_ascii": "Kwamhlanga",
+    "admin_name": "Gauteng",
+    "lat": "-25.4320",
+    "lng": "28.7080",
+    "id": "1710251411"
+  },
+  {
+    "city": "Thohoyandou",
+    "city_ascii": "Thohoyandou",
+    "admin_name": "Limpopo",
+    "lat": "-22.9500",
+    "lng": "30.4833",
+    "id": "1710219075"
+  },
+  {
+    "city": "Queenstown",
+    "city_ascii": "Queenstown",
+    "admin_name": "Eastern Cape",
+    "lat": "-31.9000",
+    "lng": "26.8833",
+    "id": "1710110028"
+  },
+  {
+    "city": "Virginia",
+    "city_ascii": "Virginia",
+    "admin_name": "Free State",
+    "lat": "-28.1064",
+    "lng": "26.8622",
+    "id": "1710992750"
+  },
+  {
+    "city": "Ladysmith",
+    "city_ascii": "Ladysmith",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-28.5597",
+    "lng": "29.7806",
+    "id": "1710998347"
+  },
+  {
+    "city": "Welkom",
+    "city_ascii": "Welkom",
+    "admin_name": "Free State",
+    "lat": "-27.9831",
+    "lng": "26.7208",
+    "id": "1710480365"
+  },
+  {
+    "city": "Plettenberg Bay",
+    "city_ascii": "Plettenberg Bay",
+    "admin_name": "Western Cape",
+    "lat": "-34.0500",
+    "lng": "23.3667",
+    "id": "1710852785"
+  },
+  {
+    "city": "Odendaalsrus",
+    "city_ascii": "Odendaalsrus",
+    "admin_name": "Free State",
+    "lat": "-27.8667",
+    "lng": "26.6833",
+    "id": "1710700901"
+  },
+  {
+    "city": "Oudtshoorn",
+    "city_ascii": "Oudtshoorn",
+    "admin_name": "Western Cape",
+    "lat": "-33.5833",
+    "lng": "22.2000",
+    "id": "1710502855"
+  },
+  {
+    "city": "Bethal",
+    "city_ascii": "Bethal",
+    "admin_name": "Mpumalanga",
+    "lat": "-26.4500",
+    "lng": "29.4500",
+    "id": "1710328253"
+  },
+  {
+    "city": "Richards Bay",
+    "city_ascii": "Richards Bay",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-28.7694",
+    "lng": "32.0594",
+    "id": "1710347129"
+  },
+  {
+    "city": "Wellington",
+    "city_ascii": "Wellington",
+    "admin_name": "Western Cape",
+    "lat": "-33.6333",
+    "lng": "18.9833",
+    "id": "1710214412"
+  },
+  {
+    "city": "Meyerton",
+    "city_ascii": "Meyerton",
+    "admin_name": "Gauteng",
+    "lat": "-26.5583",
+    "lng": "28.0197",
+    "id": "1710264343"
+  },
+  {
+    "city": "Queensburgh",
+    "city_ascii": "Queensburgh",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.8667",
+    "lng": "30.9333",
+    "id": "1710379982"
+  },
+  {
+    "city": "Phuthaditjhaba",
+    "city_ascii": "Phuthaditjhaba",
+    "admin_name": "Free State",
+    "lat": "-28.5333",
+    "lng": "28.8167",
+    "id": "1710416802"
+  },
+  {
+    "city": "Brits",
+    "city_ascii": "Brits",
+    "admin_name": "North West",
+    "lat": "-25.6344",
+    "lng": "27.7811",
+    "id": "1710468143"
+  },
+  {
+    "city": "Harrismith",
+    "city_ascii": "Harrismith",
+    "admin_name": "Free State",
+    "lat": "-28.2833",
+    "lng": "29.1333",
+    "id": "1710810520"
+  },
+  {
+    "city": "Kokstad",
+    "city_ascii": "Kokstad",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-30.5539",
+    "lng": "29.4269",
+    "id": "1710099997"
+  },
+  {
+    "city": "Edenvale",
+    "city_ascii": "Edenvale",
+    "admin_name": "Gauteng",
+    "lat": "-26.1411",
+    "lng": "28.1528",
+    "id": "1710512085"
+  },
+  {
+    "city": "Vryheid",
+    "city_ascii": "Vryheid",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-27.7669",
+    "lng": "30.8000",
+    "id": "1710716158"
+  },
+  {
+    "city": "Kuilsrivier",
+    "city_ascii": "Kuilsrivier",
+    "admin_name": "Western Cape",
+    "lat": "-33.9414",
+    "lng": "18.7066",
+    "id": "1710421112"
+  },
+  {
+    "city": "Bothaville",
+    "city_ascii": "Bothaville",
+    "admin_name": "Free State",
+    "lat": "-27.3833",
+    "lng": "26.6167",
+    "id": "1710618746"
+  },
+  {
+    "city": "Parys",
+    "city_ascii": "Parys",
+    "admin_name": "Free State",
+    "lat": "-26.9000",
+    "lng": "27.4500",
+    "id": "1710211313"
+  },
+  {
+    "city": "Kwaggafontein",
+    "city_ascii": "Kwaggafontein",
+    "admin_name": "Mpumalanga",
+    "lat": "-25.3075",
+    "lng": "28.9469",
+    "id": "1710177771"
+  },
+  {
+    "city": "Grabouw",
+    "city_ascii": "Grabouw",
+    "admin_name": "Western Cape",
+    "lat": "-34.1500",
+    "lng": "19.0167",
+    "id": "1710958841"
+  },
+  {
+    "city": "Potchefstroom",
+    "city_ascii": "Potchefstroom",
+    "admin_name": "North West",
+    "lat": "-26.7150",
+    "lng": "27.1033",
+    "id": "1710838885"
+  },
+  {
+    "city": "Musina",
+    "city_ascii": "Musina",
+    "admin_name": "Limpopo",
+    "lat": "-22.3381",
+    "lng": "30.0417",
+    "id": "1710956370"
+  },
+  {
+    "city": "Schweizer-Reineke",
+    "city_ascii": "Schweizer-Reineke",
+    "admin_name": "North West",
+    "lat": "-27.1833",
+    "lng": "25.3333",
+    "id": "1710776654"
+  },
+  {
+    "city": "Secunda",
+    "city_ascii": "Secunda",
+    "admin_name": "Mpumalanga",
+    "lat": "-26.5161",
+    "lng": "29.2028",
+    "id": "1710520670"
+  },
+  {
+    "city": "Despatch",
+    "city_ascii": "Despatch",
+    "admin_name": "Eastern Cape",
+    "lat": "-33.8015",
+    "lng": "25.4768",
+    "id": "1710356281"
+  },
+  {
+    "city": "Vredenburg",
+    "city_ascii": "Vredenburg",
+    "admin_name": "Western Cape",
+    "lat": "-32.9064",
+    "lng": "17.9958",
+    "id": "1710121734"
+  },
+  {
+    "city": "Nigel",
+    "city_ascii": "Nigel",
+    "admin_name": "Gauteng",
+    "lat": "-26.4203",
+    "lng": "28.4683",
+    "id": "1710146906"
+  },
+  {
+    "city": "Mmabatho",
+    "city_ascii": "Mmabatho",
+    "admin_name": "North West",
+    "lat": "-25.8500",
+    "lng": "25.6333",
+    "id": "1710524815"
+  },
+  {
+    "city": "Lydenburg",
+    "city_ascii": "Lydenburg",
+    "admin_name": "Mpumalanga",
+    "lat": "-25.0960",
+    "lng": "30.4460",
+    "id": "1710237640"
+  },
+  {
+    "city": "Siyabuswa",
+    "city_ascii": "Siyabuswa",
+    "admin_name": "Mpumalanga",
+    "lat": "-25.1167",
+    "lng": "29.0500",
+    "id": "1710133459"
+  },
+  {
+    "city": "Makan",
+    "city_ascii": "Makan",
+    "admin_name": "North West",
+    "lat": "-25.6050",
+    "lng": "27.9100",
+    "id": "1710187131"
+  },
+  {
+    "city": "Namakgale",
+    "city_ascii": "Namakgale",
+    "admin_name": "Limpopo",
+    "lat": "-23.9380",
+    "lng": "31.0280",
+    "id": "1710935117"
+  },
+  {
+    "city": "Malmesbury",
+    "city_ascii": "Malmesbury",
+    "admin_name": "Western Cape",
+    "lat": "-33.4500",
+    "lng": "18.7333",
+    "id": "1710868778"
+  },
+  {
+    "city": "Graaff-Reinet",
+    "city_ascii": "Graaff-Reinet",
+    "admin_name": "Eastern Cape",
+    "lat": "-32.2522",
+    "lng": "24.5406",
+    "id": "1710616617"
+  },
+  {
+    "city": "Port Shepstone",
+    "city_ascii": "Port Shepstone",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-30.7500",
+    "lng": "30.4500",
+    "id": "1710443227"
+  },
+  {
+    "city": "Lebowakgomo",
+    "city_ascii": "Lebowakgomo",
+    "admin_name": "Limpopo",
+    "lat": "-24.3050",
+    "lng": "29.5650",
+    "id": "1710999076"
+  },
+  {
+    "city": "Dundee",
+    "city_ascii": "Dundee",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-28.1725",
+    "lng": "30.2314",
+    "id": "1710402130"
+  },
+  {
+    "city": "Phokeng",
+    "city_ascii": "Phokeng",
+    "admin_name": "North West",
+    "lat": "-25.5833",
+    "lng": "27.1333",
+    "id": "1710162596"
+  },
+  {
+    "city": "Beaufort West",
+    "city_ascii": "Beaufort West",
+    "admin_name": "Western Cape",
+    "lat": "-32.3500",
+    "lng": "22.5833",
+    "id": "1710940488"
+  },
+  {
+    "city": "Mankoeng",
+    "city_ascii": "Mankoeng",
+    "admin_name": "Limpopo",
+    "lat": "-23.8860",
+    "lng": "29.7180",
+    "id": "1710970576"
+  },
+  {
+    "city": "Acornhoek",
+    "city_ascii": "Acornhoek",
+    "admin_name": "Limpopo",
+    "lat": "-24.5930",
+    "lng": "31.0970",
+    "id": "1710315598"
+  },
+  {
+    "city": "Ceres",
+    "city_ascii": "Ceres",
+    "admin_name": "Western Cape",
+    "lat": "-33.3667",
+    "lng": "19.3167",
+    "id": "1710538694"
+  },
+  {
+    "city": "Ulundi",
+    "city_ascii": "Ulundi",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-28.3167",
+    "lng": "31.4167",
+    "id": "1710823263"
+  },
+  {
+    "city": "Westville",
+    "city_ascii": "Westville",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.8310",
+    "lng": "30.9250",
+    "id": "1710233007"
+  },
+  {
+    "city": "Postmasburg",
+    "city_ascii": "Postmasburg",
+    "admin_name": "Northern Cape",
+    "lat": "-28.3279",
+    "lng": "23.0706",
+    "id": "1710958727"
+  },
+  {
+    "city": "Kloof",
+    "city_ascii": "Kloof",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.7833",
+    "lng": "30.8333",
+    "id": "1710132769"
+  },
+  {
+    "city": "Humansdorp",
+    "city_ascii": "Humansdorp",
+    "admin_name": "Eastern Cape",
+    "lat": "-34.0333",
+    "lng": "24.7667",
+    "id": "1710228362"
+  },
+  {
+    "city": "Mondlo",
+    "city_ascii": "Mondlo",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-27.9670",
+    "lng": "30.7220",
+    "id": "1710353186"
+  },
+  {
+    "city": "Thabazimbi",
+    "city_ascii": "Thabazimbi",
+    "admin_name": "Limpopo",
+    "lat": "-24.6000",
+    "lng": "27.4000",
+    "id": "1710123508"
+  },
+  {
+    "city": "Saldanha",
+    "city_ascii": "Saldanha",
+    "admin_name": "Western Cape",
+    "lat": "-32.9978",
+    "lng": "17.9456",
+    "id": "1710078862"
+  },
+  {
+    "city": "Heilbron",
+    "city_ascii": "Heilbron",
+    "admin_name": "Free State",
+    "lat": "-27.2836",
+    "lng": "27.9708",
+    "id": "1710690190"
+  },
+  {
+    "city": "Mtubatuba",
+    "city_ascii": "Mtubatuba",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-28.4167",
+    "lng": "32.1833",
+    "id": "1710965159"
+  },
+  {
+    "city": "Jeffrey’s Bay",
+    "city_ascii": "Jeffrey's Bay",
+    "admin_name": "Eastern Cape",
+    "lat": "-34.0333",
+    "lng": "24.9167",
+    "id": "1710277177"
+  },
+  {
+    "city": "Wesselsbron",
+    "city_ascii": "Wesselsbron",
+    "admin_name": "Free State",
+    "lat": "-27.8500",
+    "lng": "26.3667",
+    "id": "1710874843"
+  },
+  {
+    "city": "Margate",
+    "city_ascii": "Margate",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-30.8500",
+    "lng": "30.3667",
+    "id": "1710711260"
+  },
+  {
+    "city": "Dinokana",
+    "city_ascii": "Dinokana",
+    "admin_name": "North West",
+    "lat": "-25.4470",
+    "lng": "25.8630",
+    "id": "1710563315"
+  },
+  {
+    "city": "Lichtenburg",
+    "city_ascii": "Lichtenburg",
+    "admin_name": "North West",
+    "lat": "-26.1500",
+    "lng": "26.1667",
+    "id": "1710444843"
+  },
+  {
+    "city": "Frankfort",
+    "city_ascii": "Frankfort",
+    "admin_name": "Free State",
+    "lat": "-27.2833",
+    "lng": "28.5167",
+    "id": "1710386625"
+  },
+  {
+    "city": "Giyani",
+    "city_ascii": "Giyani",
+    "admin_name": "Limpopo",
+    "lat": "-23.3100",
+    "lng": "30.7064",
+    "id": "1710329384"
+  },
+  {
+    "city": "Mathibestad",
+    "city_ascii": "Mathibestad",
+    "admin_name": "North West",
+    "lat": "-25.2760",
+    "lng": "28.1780",
+    "id": "1710645736"
+  },
+  {
+    "city": "Port Alfred",
+    "city_ascii": "Port Alfred",
+    "admin_name": "Eastern Cape",
+    "lat": "-33.5917",
+    "lng": "26.8875",
+    "id": "1710920478"
+  },
+  {
+    "city": "Mpophomeni",
+    "city_ascii": "Mpophomeni",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.5670",
+    "lng": "30.1820",
+    "id": "1710050186"
+  },
+  {
+    "city": "Fort Beaufort",
+    "city_ascii": "Fort Beaufort",
+    "admin_name": "Eastern Cape",
+    "lat": "-32.7789",
+    "lng": "26.6353",
+    "id": "1710185168"
+  },
+  {
+    "city": "Louis Trichardt",
+    "city_ascii": "Louis Trichardt",
+    "admin_name": "Limpopo",
+    "lat": "-23.0500",
+    "lng": "29.9000",
+    "id": "1710514527"
+  },
+  {
+    "city": "Stutterheim",
+    "city_ascii": "Stutterheim",
+    "admin_name": "Eastern Cape",
+    "lat": "-32.5667",
+    "lng": "27.4167",
+    "id": "1710990071"
+  },
+  {
+    "city": "Hennenman",
+    "city_ascii": "Hennenman",
+    "admin_name": "Free State",
+    "lat": "-27.9667",
+    "lng": "27.0333",
+    "id": "1710476156"
+  },
+  {
+    "city": "Volksrust",
+    "city_ascii": "Volksrust",
+    "admin_name": "Mpumalanga",
+    "lat": "-27.3667",
+    "lng": "29.8833",
+    "id": "1710664906"
+  },
+  {
+    "city": "uMhlanga Rocks",
+    "city_ascii": "uMhlanga Rocks",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.7333",
+    "lng": "31.0708",
+    "id": "1710763964"
+  },
+  {
+    "city": "Jan Kempdorp",
+    "city_ascii": "Jan Kempdorp",
+    "admin_name": "North West",
+    "lat": "-27.9194",
+    "lng": "24.8361",
+    "id": "1710866811"
+  },
+  {
+    "city": "De Aar",
+    "city_ascii": "De Aar",
+    "admin_name": "Northern Cape",
+    "lat": "-30.6500",
+    "lng": "24.0167",
+    "id": "1710551900"
+  },
+  {
+    "city": "Bultfontein",
+    "city_ascii": "Bultfontein",
+    "admin_name": "Free State",
+    "lat": "-28.2869",
+    "lng": "26.1506",
+    "id": "1710911314"
+  },
+  {
+    "city": "Ka-Bungeni",
+    "city_ascii": "Ka-Bungeni",
+    "admin_name": "Limpopo",
+    "lat": "-23.2060",
+    "lng": "30.2240",
+    "id": "1710486553"
+  },
+  {
+    "city": "Carletonville",
+    "city_ascii": "Carletonville",
+    "admin_name": "Gauteng",
+    "lat": "-26.3581",
+    "lng": "27.3981",
+    "id": "1710257170"
+  },
+  {
+    "city": "Warrenton",
+    "city_ascii": "Warrenton",
+    "admin_name": "Northern Cape",
+    "lat": "-28.1114",
+    "lng": "24.8497",
+    "id": "1710333461"
+  },
+  {
+    "city": "Nkowakowa",
+    "city_ascii": "Nkowakowa",
+    "admin_name": "Limpopo",
+    "lat": "-23.8860",
+    "lng": "30.2930",
+    "id": "1710288921"
+  },
+  {
+    "city": "Hartbeespoort",
+    "city_ascii": "Hartbeespoort",
+    "admin_name": "North West",
+    "lat": "-25.7442",
+    "lng": "27.8994",
+    "id": "1710638628"
+  },
+  {
+    "city": "Estcourt",
+    "city_ascii": "Estcourt",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.0000",
+    "lng": "29.8833",
+    "id": "1710338494"
+  },
+  {
+    "city": "Pampierstad",
+    "city_ascii": "Pampierstad",
+    "admin_name": "North West",
+    "lat": "-27.7760",
+    "lng": "24.6900",
+    "id": "1710316384"
+  },
+  {
+    "city": "Howick",
+    "city_ascii": "Howick",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.4667",
+    "lng": "30.2333",
+    "id": "1710825371"
+  },
+  {
+    "city": "Hammanskraal",
+    "city_ascii": "Hammanskraal",
+    "admin_name": "North West",
+    "lat": "-25.4000",
+    "lng": "28.2833",
+    "id": "1710452315"
+  },
+  {
+    "city": "Vryburg",
+    "city_ascii": "Vryburg",
+    "admin_name": "North West",
+    "lat": "-26.9586",
+    "lng": "24.7322",
+    "id": "1710969597"
+  },
+  {
+    "city": "Reitz",
+    "city_ascii": "Reitz",
+    "admin_name": "Free State",
+    "lat": "-27.8000",
+    "lng": "28.4333",
+    "id": "1710297221"
+  },
+  {
+    "city": "Barkly West",
+    "city_ascii": "Barkly West",
+    "admin_name": "Northern Cape",
+    "lat": "-28.5381",
+    "lng": "24.5186",
+    "id": "1710486468"
+  },
+  {
+    "city": "Douglas",
+    "city_ascii": "Douglas",
+    "admin_name": "Northern Cape",
+    "lat": "-29.0500",
+    "lng": "23.7667",
+    "id": "1710291647"
+  },
+  {
+    "city": "Indwe",
+    "city_ascii": "Indwe",
+    "admin_name": "Eastern Cape",
+    "lat": "-31.4660",
+    "lng": "27.3330",
+    "id": "1710759876"
+  },
+  {
+    "city": "Itsoseng",
+    "city_ascii": "Itsoseng",
+    "admin_name": "North West",
+    "lat": "-26.0830",
+    "lng": "25.8820",
+    "id": "1710690742"
+  },
+  {
+    "city": "Garsfontein",
+    "city_ascii": "Garsfontein",
+    "admin_name": "Gauteng",
+    "lat": "-25.7913",
+    "lng": "28.2935",
+    "id": "1710375555"
+  },
+  {
+    "city": "Deneysville",
+    "city_ascii": "Deneysville",
+    "admin_name": "Free State",
+    "lat": "-26.8950",
+    "lng": "28.0983",
+    "id": "1710356992"
+  },
+  {
+    "city": "Setlagode",
+    "city_ascii": "Setlagode",
+    "admin_name": "North West",
+    "lat": "-26.2870",
+    "lng": "25.1170",
+    "id": "1710918056"
+  },
+  {
+    "city": "Fouriesburg",
+    "city_ascii": "Fouriesburg",
+    "admin_name": "Free State",
+    "lat": "-28.6227",
+    "lng": "28.2109",
+    "id": "1710689900"
+  },
+  {
+    "city": "Allanridge",
+    "city_ascii": "Allanridge",
+    "admin_name": "Free State",
+    "lat": "-27.7544",
+    "lng": "26.6367",
+    "id": "1710862550"
+  },
+  {
+    "city": "Ganyesa",
+    "city_ascii": "Ganyesa",
+    "admin_name": "North West",
+    "lat": "-26.5908",
+    "lng": "24.1594",
+    "id": "1710514594"
+  },
+  {
+    "city": "Ballitoville",
+    "city_ascii": "Ballitoville",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.5333",
+    "lng": "31.2167",
+    "id": "1710448341"
+  },
+  {
+    "city": "Somerset East",
+    "city_ascii": "Somerset East",
+    "admin_name": "Eastern Cape",
+    "lat": "-32.7167",
+    "lng": "25.5833",
+    "id": "1710266553"
+  },
+  {
+    "city": "Middelburg",
+    "city_ascii": "Middelburg",
+    "admin_name": "Eastern Cape",
+    "lat": "-31.4939",
+    "lng": "25.0172",
+    "id": "1710010705"
+  },
+  {
+    "city": "Taung",
+    "city_ascii": "Taung",
+    "admin_name": "North West",
+    "lat": "-27.5625",
+    "lng": "24.7481",
+    "id": "1710112658"
+  },
+  {
+    "city": "Vredendal",
+    "city_ascii": "Vredendal",
+    "admin_name": "Western Cape",
+    "lat": "-31.6644",
+    "lng": "18.5061",
+    "id": "1710903827"
+  },
+  {
+    "city": "Stilfontein",
+    "city_ascii": "Stilfontein",
+    "admin_name": "North West",
+    "lat": "-26.8428",
+    "lng": "26.7744",
+    "id": "1710755167"
+  },
+  {
+    "city": "Mooirivier",
+    "city_ascii": "Mooirivier",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.2000",
+    "lng": "29.9833",
+    "id": "1710613879"
+  },
+  {
+    "city": "Vrede",
+    "city_ascii": "Vrede",
+    "admin_name": "Free State",
+    "lat": "-27.4300",
+    "lng": "29.1600",
+    "id": "1710018018"
+  },
+  {
+    "city": "Glencoe",
+    "city_ascii": "Glencoe",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-28.1833",
+    "lng": "30.1500",
+    "id": "1710982965"
+  },
+  {
+    "city": "Villiers",
+    "city_ascii": "Villiers",
+    "admin_name": "Free State",
+    "lat": "-27.0333",
+    "lng": "28.6000",
+    "id": "1710177732"
+  },
+  {
+    "city": "Velddrif",
+    "city_ascii": "Velddrif",
+    "admin_name": "Western Cape",
+    "lat": "-32.7833",
+    "lng": "18.1667",
+    "id": "1710031295"
+  },
+  {
+    "city": "Colesberg",
+    "city_ascii": "Colesberg",
+    "admin_name": "Northern Cape",
+    "lat": "-30.7167",
+    "lng": "25.1000",
+    "id": "1710885210"
+  },
+  {
+    "city": "Kingsborough",
+    "city_ascii": "Kingsborough",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-30.0833",
+    "lng": "30.8667",
+    "id": "1710907180"
+  },
+  {
+    "city": "Bethlehem",
+    "city_ascii": "Bethlehem",
+    "admin_name": "Free State",
+    "lat": "-28.2240",
+    "lng": "28.3110",
+    "id": "1710750307"
+  },
+  {
+    "city": "eMuziwezinto",
+    "city_ascii": "eMuziwezinto",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-30.3167",
+    "lng": "30.6667",
+    "id": "1710277194"
+  },
+  {
+    "city": "Riversdale",
+    "city_ascii": "Riversdale",
+    "admin_name": "Western Cape",
+    "lat": "-34.0969",
+    "lng": "21.2622",
+    "id": "1710864327"
+  },
+  {
+    "city": "Bethulie",
+    "city_ascii": "Bethulie",
+    "admin_name": "Free State",
+    "lat": "-30.4667",
+    "lng": "25.9667",
+    "id": "1710614025"
+  },
+  {
+    "city": "Turffontein",
+    "city_ascii": "Turffontein",
+    "admin_name": "Gauteng",
+    "lat": "-26.2446",
+    "lng": "28.0397",
+    "id": "1710103722"
+  },
+  {
+    "city": "Zastron",
+    "city_ascii": "Zastron",
+    "admin_name": "Free State",
+    "lat": "-30.3000",
+    "lng": "27.0833",
+    "id": "1710172733"
+  },
+  {
+    "city": "Bredasdorp",
+    "city_ascii": "Bredasdorp",
+    "admin_name": "Western Cape",
+    "lat": "-34.5333",
+    "lng": "20.0417",
+    "id": "1710282172"
+  },
+  {
+    "city": "Kinross",
+    "city_ascii": "Kinross",
+    "admin_name": "Mpumalanga",
+    "lat": "-26.4167",
+    "lng": "29.0833",
+    "id": "1710559931"
+  },
+  {
+    "city": "Kriel",
+    "city_ascii": "Kriel",
+    "admin_name": "Mpumalanga",
+    "lat": "-26.2550",
+    "lng": "29.2630",
+    "id": "1710547158"
+  },
+  {
+    "city": "Montagu",
+    "city_ascii": "Montagu",
+    "admin_name": "Western Cape",
+    "lat": "-33.7833",
+    "lng": "20.1167",
+    "id": "1710489752"
+  },
+  {
+    "city": "Alice",
+    "city_ascii": "Alice",
+    "admin_name": "Eastern Cape",
+    "lat": "-32.7892",
+    "lng": "26.8350",
+    "id": "1710093776"
+  },
+  {
+    "city": "Makapanstad",
+    "city_ascii": "Makapanstad",
+    "admin_name": "North West",
+    "lat": "-25.2390",
+    "lng": "28.1160",
+    "id": "1710456011"
+  },
+  {
+    "city": "Ritchie",
+    "city_ascii": "Ritchie",
+    "admin_name": "Northern Cape",
+    "lat": "-29.0500",
+    "lng": "24.6000",
+    "id": "1710291310"
+  },
+  {
+    "city": "Eshowe",
+    "city_ascii": "Eshowe",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-28.8883",
+    "lng": "31.4483",
+    "id": "1710174822"
+  },
+  {
+    "city": "Vredefort",
+    "city_ascii": "Vredefort",
+    "admin_name": "Free State",
+    "lat": "-27.0167",
+    "lng": "27.3833",
+    "id": "1710724426"
+  },
+  {
+    "city": "Tzaneen",
+    "city_ascii": "Tzaneen",
+    "admin_name": "Limpopo",
+    "lat": "-23.8333",
+    "lng": "30.1667",
+    "id": "1710120942"
+  },
+  {
+    "city": "Edenburg",
+    "city_ascii": "Edenburg",
+    "admin_name": "Free State",
+    "lat": "-29.7347",
+    "lng": "25.9369",
+    "id": "1710160465"
+  },
+  {
+    "city": "Breyten",
+    "city_ascii": "Breyten",
+    "admin_name": "Mpumalanga",
+    "lat": "-26.3000",
+    "lng": "29.9833",
+    "id": "1710458798"
+  },
+  {
+    "city": "Morokweng",
+    "city_ascii": "Morokweng",
+    "admin_name": "North West",
+    "lat": "-26.1270",
+    "lng": "23.7750",
+    "id": "1710258346"
+  },
+  {
+    "city": "Prieska",
+    "city_ascii": "Prieska",
+    "admin_name": "Northern Cape",
+    "lat": "-29.6683",
+    "lng": "22.7439",
+    "id": "1710649877"
+  },
+  {
+    "city": "Primrose",
+    "city_ascii": "Primrose",
+    "admin_name": "Gauteng",
+    "lat": "-26.1833",
+    "lng": "28.1667",
+    "id": "1710333435"
+  },
+  {
+    "city": "Bedfordview",
+    "city_ascii": "Bedfordview",
+    "admin_name": "Gauteng",
+    "lat": "-26.1794",
+    "lng": "28.1361",
+    "id": "1710039739"
+  },
+  {
+    "city": "eManzimtoti",
+    "city_ascii": "eManzimtoti",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-30.0500",
+    "lng": "30.8833",
+    "id": "1710134242"
+  },
+  {
+    "city": "Koppies",
+    "city_ascii": "Koppies",
+    "admin_name": "Free State",
+    "lat": "-27.2333",
+    "lng": "27.5833",
+    "id": "1710515880"
+  },
+  {
+    "city": "Kirkwood",
+    "city_ascii": "Kirkwood",
+    "admin_name": "Eastern Cape",
+    "lat": "-33.4003",
+    "lng": "25.4425",
+    "id": "1710628933"
+  },
+  {
+    "city": "Daniëlskuil",
+    "city_ascii": "Danielskuil",
+    "admin_name": "Northern Cape",
+    "lat": "-28.2000",
+    "lng": "23.5833",
+    "id": "1710982703"
+  },
+  {
+    "city": "Orkney",
+    "city_ascii": "Orkney",
+    "admin_name": "North West",
+    "lat": "-26.9789",
+    "lng": "26.6692",
+    "id": "1710136226"
+  },
+  {
+    "city": "Makwassie",
+    "city_ascii": "Makwassie",
+    "admin_name": "North West",
+    "lat": "-27.3167",
+    "lng": "25.9833",
+    "id": "1710051570"
+  },
+  {
+    "city": "Hillcrest",
+    "city_ascii": "Hillcrest",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.7800",
+    "lng": "30.7628",
+    "id": "1710122351"
+  },
+  {
+    "city": "Ashton",
+    "city_ascii": "Ashton",
+    "admin_name": "Western Cape",
+    "lat": "-33.8347",
+    "lng": "20.0547",
+    "id": "1710554296"
+  },
+  {
+    "city": "Okkerneutboom",
+    "city_ascii": "Okkerneutboom",
+    "admin_name": "Limpopo",
+    "lat": "-24.5950",
+    "lng": "31.1390",
+    "id": "1710148389"
+  },
+  {
+    "city": "Phalaborwa",
+    "city_ascii": "Phalaborwa",
+    "admin_name": "Limpopo",
+    "lat": "-23.9333",
+    "lng": "31.1167",
+    "id": "1710768568"
+  },
+  {
+    "city": "Kuruman",
+    "city_ascii": "Kuruman",
+    "admin_name": "Northern Cape",
+    "lat": "-27.4500",
+    "lng": "23.4333",
+    "id": "1710332978"
+  },
+  {
+    "city": "Caledon",
+    "city_ascii": "Caledon",
+    "admin_name": "Western Cape",
+    "lat": "-34.2300",
+    "lng": "19.4283",
+    "id": "1710038887"
+  },
+  {
+    "city": "Pretoria-Noord",
+    "city_ascii": "Pretoria-Noord",
+    "admin_name": "Gauteng",
+    "lat": "-25.6731",
+    "lng": "28.1733",
+    "id": "1710539287"
+  },
+  {
+    "city": "Elandsdoorn",
+    "city_ascii": "Elandsdoorn",
+    "admin_name": "Mpumalanga",
+    "lat": "-25.2880",
+    "lng": "29.1960",
+    "id": "1710800977"
+  },
+  {
+    "city": "Petrus Steyn",
+    "city_ascii": "Petrus Steyn",
+    "admin_name": "Free State",
+    "lat": "-27.6500",
+    "lng": "28.1333",
+    "id": "1710440827"
+  },
+  {
+    "city": "Springbok",
+    "city_ascii": "Springbok",
+    "admin_name": "Northern Cape",
+    "lat": "-29.6667",
+    "lng": "17.8833",
+    "id": "1710894218"
+  },
+  {
+    "city": "Casteel",
+    "city_ascii": "Casteel",
+    "admin_name": "Mpumalanga",
+    "lat": "-24.7247",
+    "lng": "31.0201",
+    "id": "1710483135"
+  },
+  {
+    "city": "Buffelshoek",
+    "city_ascii": "Buffelshoek",
+    "admin_name": "Limpopo",
+    "lat": "-24.6308",
+    "lng": "31.1383",
+    "id": "1710314015"
+  },
+  {
+    "city": "Groutville",
+    "city_ascii": "Groutville",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.3880",
+    "lng": "31.2450",
+    "id": "1710077829"
+  },
+  {
+    "city": "Summerstrand",
+    "city_ascii": "Summerstrand",
+    "admin_name": "Eastern Cape",
+    "lat": "-33.9914",
+    "lng": "25.6569",
+    "id": "1710926578"
+  },
+  {
+    "city": "New Germany",
+    "city_ascii": "New Germany",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.8000",
+    "lng": "30.8833",
+    "id": "1710344867"
+  },
+  {
+    "city": "Jeppe’s Reef",
+    "city_ascii": "Jeppe's Reef",
+    "admin_name": "Mpumalanga",
+    "lat": "-25.7200",
+    "lng": "31.4770",
+    "id": "1710919073"
+  },
+  {
+    "city": "Dysselsdorp",
+    "city_ascii": "Dysselsdorp",
+    "admin_name": "Western Cape",
+    "lat": "-33.5667",
+    "lng": "22.4333",
+    "id": "1710175783"
+  },
+  {
+    "city": "Matatiele",
+    "city_ascii": "Matatiele",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-30.3422",
+    "lng": "28.8061",
+    "id": "1710858358"
+  },
+  {
+    "city": "eXobho",
+    "city_ascii": "eXobho",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-30.1572",
+    "lng": "30.0647",
+    "id": "1710624745"
+  },
+  {
+    "city": "Amersfoort",
+    "city_ascii": "Amersfoort",
+    "admin_name": "Mpumalanga",
+    "lat": "-27.0078",
+    "lng": "29.8711",
+    "id": "1710004486"
+  },
+  {
+    "city": "Adelaide",
+    "city_ascii": "Adelaide",
+    "admin_name": "Eastern Cape",
+    "lat": "-32.7078",
+    "lng": "26.2956",
+    "id": "1710819752"
+  },
+  {
+    "city": "Lenyenye",
+    "city_ascii": "Lenyenye",
+    "admin_name": "Limpopo",
+    "lat": "-23.9720",
+    "lng": "30.2690",
+    "id": "1710678244"
+  },
+  {
+    "city": "Piketberg",
+    "city_ascii": "Piketberg",
+    "admin_name": "Western Cape",
+    "lat": "-32.9000",
+    "lng": "18.7667",
+    "id": "1710229097"
+  },
+  {
+    "city": "Keimoes",
+    "city_ascii": "Keimoes",
+    "admin_name": "Northern Cape",
+    "lat": "-28.7000",
+    "lng": "20.9667",
+    "id": "1710895781"
+  },
+  {
+    "city": "Barberton",
+    "city_ascii": "Barberton",
+    "admin_name": "Mpumalanga",
+    "lat": "-25.7861",
+    "lng": "31.0531",
+    "id": "1710775369"
+  },
+  {
+    "city": "Hankey",
+    "city_ascii": "Hankey",
+    "admin_name": "Eastern Cape",
+    "lat": "-33.8314",
+    "lng": "24.8808",
+    "id": "1710584710"
+  },
+  {
+    "city": "Gansbaai",
+    "city_ascii": "Gansbaai",
+    "admin_name": "Western Cape",
+    "lat": "-34.5828",
+    "lng": "19.3522",
+    "id": "1710726795"
+  },
+  {
+    "city": "Molteno",
+    "city_ascii": "Molteno",
+    "admin_name": "Eastern Cape",
+    "lat": "-31.3961",
+    "lng": "26.3631",
+    "id": "1710419587"
+  },
+  {
+    "city": "Saint Helena Bay",
+    "city_ascii": "Saint Helena Bay",
+    "admin_name": "Western Cape",
+    "lat": "-32.7583",
+    "lng": "18.0278",
+    "id": "1710255294"
+  },
+  {
+    "city": "Kathu",
+    "city_ascii": "Kathu",
+    "admin_name": "Northern Cape",
+    "lat": "-27.7000",
+    "lng": "23.0500",
+    "id": "1710811489"
+  },
+  {
+    "city": "Mount Fletcher",
+    "city_ascii": "Mount Fletcher",
+    "admin_name": "Eastern Cape",
+    "lat": "-30.6920",
+    "lng": "28.5030",
+    "id": "1710227236"
+  },
+  {
+    "city": "Gonubie",
+    "city_ascii": "Gonubie",
+    "admin_name": "Eastern Cape",
+    "lat": "-32.9430",
+    "lng": "28.0080",
+    "id": "1710831729"
+  },
+  {
+    "city": "Mogogelo",
+    "city_ascii": "Mogogelo",
+    "admin_name": "North West",
+    "lat": "-25.3540",
+    "lng": "28.1380",
+    "id": "1710098983"
+  },
+  {
+    "city": "Scottburgh",
+    "city_ascii": "Scottburgh",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-30.2833",
+    "lng": "30.7500",
+    "id": "1710536127"
+  },
+  {
+    "city": "Vaal Reefs",
+    "city_ascii": "Vaal Reefs",
+    "admin_name": "North West",
+    "lat": "-26.9290",
+    "lng": "26.7360",
+    "id": "1710816410"
+  },
+  {
+    "city": "De Doorns",
+    "city_ascii": "De Doorns",
+    "admin_name": "Western Cape",
+    "lat": "-33.4833",
+    "lng": "19.6833",
+    "id": "1710197485"
+  },
+  {
+    "city": "Riebeeckstad",
+    "city_ascii": "Riebeeckstad",
+    "admin_name": "Free State",
+    "lat": "-27.9188",
+    "lng": "26.8188",
+    "id": "1710099889"
+  },
+  {
+    "city": "Ventersburg",
+    "city_ascii": "Ventersburg",
+    "admin_name": "Free State",
+    "lat": "-28.0833",
+    "lng": "27.1333",
+    "id": "1710599801"
+  },
+  {
+    "city": "Bhisho",
+    "city_ascii": "Bhisho",
+    "admin_name": "Eastern Cape",
+    "lat": "-32.8494",
+    "lng": "27.4381",
+    "id": "1710672530"
+  },
+  {
+    "city": "Langeloop",
+    "city_ascii": "Langeloop",
+    "admin_name": "Mpumalanga",
+    "lat": "-25.6840",
+    "lng": "31.6350",
+    "id": "1710475278"
+  },
+  {
+    "city": "Ekuvukeni",
+    "city_ascii": "Ekuvukeni",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-28.4660",
+    "lng": "30.1570",
+    "id": "1710179210"
+  },
+  {
+    "city": "Sannieshof",
+    "city_ascii": "Sannieshof",
+    "admin_name": "North West",
+    "lat": "-26.5333",
+    "lng": "25.8000",
+    "id": "1710190393"
+  },
+  {
+    "city": "Warden",
+    "city_ascii": "Warden",
+    "admin_name": "Free State",
+    "lat": "-27.8539",
+    "lng": "28.9667",
+    "id": "1710026045"
+  },
+  {
+    "city": "Mogwase",
+    "city_ascii": "Mogwase",
+    "admin_name": "North West",
+    "lat": "-25.2760",
+    "lng": "27.2160",
+    "id": "1710295342"
+  },
+  {
+    "city": "Delareyville",
+    "city_ascii": "Delareyville",
+    "admin_name": "North West",
+    "lat": "-26.6833",
+    "lng": "25.4667",
+    "id": "1710957895"
+  },
+  {
+    "city": "Groot-Brakrivier",
+    "city_ascii": "Groot-Brakrivier",
+    "admin_name": "Western Cape",
+    "lat": "-34.0425",
+    "lng": "22.2314",
+    "id": "1710820658"
+  },
+  {
+    "city": "Hartswater",
+    "city_ascii": "Hartswater",
+    "admin_name": "Northern Cape",
+    "lat": "-27.7667",
+    "lng": "24.8167",
+    "id": "1710445940"
+  },
+  {
+    "city": "Koffiefontein",
+    "city_ascii": "Koffiefontein",
+    "admin_name": "Free State",
+    "lat": "-29.4081",
+    "lng": "25.0022",
+    "id": "1710585904"
+  },
+  {
+    "city": "Delportshoop",
+    "city_ascii": "Delportshoop",
+    "admin_name": "Northern Cape",
+    "lat": "-28.4167",
+    "lng": "24.3000",
+    "id": "1710045327"
+  },
+  {
+    "city": "Hopetown",
+    "city_ascii": "Hopetown",
+    "admin_name": "Northern Cape",
+    "lat": "-29.6258",
+    "lng": "24.0856",
+    "id": "1710937752"
+  },
+  {
+    "city": "Westonaria",
+    "city_ascii": "Westonaria",
+    "admin_name": "Gauteng",
+    "lat": "-26.3178",
+    "lng": "27.6506",
+    "id": "1710232150"
+  },
+  {
+    "city": "Olifantshoek",
+    "city_ascii": "Olifantshoek",
+    "admin_name": "Northern Cape",
+    "lat": "-27.9333",
+    "lng": "22.7333",
+    "id": "1710366238"
+  },
+  {
+    "city": "Evander",
+    "city_ascii": "Evander",
+    "admin_name": "Mpumalanga",
+    "lat": "-26.4719",
+    "lng": "29.1100",
+    "id": "1710356044"
+  },
+  {
+    "city": "Alexandria",
+    "city_ascii": "Alexandria",
+    "admin_name": "Eastern Cape",
+    "lat": "-33.6533",
+    "lng": "26.4083",
+    "id": "1710000053"
+  },
+  {
+    "city": "Villiersdorp",
+    "city_ascii": "Villiersdorp",
+    "admin_name": "Western Cape",
+    "lat": "-33.9908",
+    "lng": "19.2894",
+    "id": "1710014567"
+  },
+  {
+    "city": "Barkly East",
+    "city_ascii": "Barkly East",
+    "admin_name": "Eastern Cape",
+    "lat": "-30.9681",
+    "lng": "27.5933",
+    "id": "1710127191"
+  },
+  {
+    "city": "Koloti",
+    "city_ascii": "Koloti",
+    "admin_name": "Limpopo",
+    "lat": "-23.7460",
+    "lng": "29.3070",
+    "id": "1710600831"
+  },
+  {
+    "city": "Kraaipan",
+    "city_ascii": "Kraaipan",
+    "admin_name": "North West",
+    "lat": "-26.2940",
+    "lng": "25.2970",
+    "id": "1710969974"
+  },
+  {
+    "city": "Ga-Kgapane",
+    "city_ascii": "Ga-Kgapane",
+    "admin_name": "Limpopo",
+    "lat": "-23.6490",
+    "lng": "30.2260",
+    "id": "1710661361"
+  },
+  {
+    "city": "Ncora",
+    "city_ascii": "Ncora",
+    "admin_name": "Eastern Cape",
+    "lat": "-31.7938",
+    "lng": "27.7579",
+    "id": "1710489656"
+  },
+  {
+    "city": "Sitebe",
+    "city_ascii": "Sitebe",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.0890",
+    "lng": "31.4320",
+    "id": "1710271440"
+  },
+  {
+    "city": "Wepener",
+    "city_ascii": "Wepener",
+    "admin_name": "Free State",
+    "lat": "-29.7333",
+    "lng": "27.0333",
+    "id": "1710058517"
+  },
+  {
+    "city": "Harding",
+    "city_ascii": "Harding",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-30.5833",
+    "lng": "29.8833",
+    "id": "1710525967"
+  },
+  {
+    "city": "Kakamas",
+    "city_ascii": "Kakamas",
+    "admin_name": "Northern Cape",
+    "lat": "-28.8000",
+    "lng": "20.6500",
+    "id": "1710730130"
+  },
+  {
+    "city": "Onverwacht",
+    "city_ascii": "Onverwacht",
+    "admin_name": "Limpopo",
+    "lat": "-23.6850",
+    "lng": "27.6960",
+    "id": "1710038673"
+  },
+  {
+    "city": "Fochville",
+    "city_ascii": "Fochville",
+    "admin_name": "North West",
+    "lat": "-26.4833",
+    "lng": "27.4833",
+    "id": "1710135294"
+  },
+  {
+    "city": "Hertzogville",
+    "city_ascii": "Hertzogville",
+    "admin_name": "Free State",
+    "lat": "-28.1333",
+    "lng": "25.5000",
+    "id": "1710261471"
+  },
+  {
+    "city": "Robertson",
+    "city_ascii": "Robertson",
+    "admin_name": "Western Cape",
+    "lat": "-33.8000",
+    "lng": "19.8833",
+    "id": "1710095226"
+  },
+  {
+    "city": "Mabeskraal",
+    "city_ascii": "Mabeskraal",
+    "admin_name": "North West",
+    "lat": "-25.1960",
+    "lng": "26.8030",
+    "id": "1710486295"
+  },
+  {
+    "city": "Boekenhouthoek",
+    "city_ascii": "Boekenhouthoek",
+    "admin_name": "Mpumalanga",
+    "lat": "-25.3030",
+    "lng": "29.0150",
+    "id": "1710855523"
+  },
+  {
+    "city": "Sabie",
+    "city_ascii": "Sabie",
+    "admin_name": "Mpumalanga",
+    "lat": "-25.0978",
+    "lng": "30.7792",
+    "id": "1710972784"
+  },
+  {
+    "city": "Steynsrus",
+    "city_ascii": "Steynsrus",
+    "admin_name": "Free State",
+    "lat": "-27.9500",
+    "lng": "27.5667",
+    "id": "1710821875"
+  },
+  {
+    "city": "Zeerust",
+    "city_ascii": "Zeerust",
+    "admin_name": "North West",
+    "lat": "-25.5333",
+    "lng": "26.0833",
+    "id": "1710873477"
+  },
+  {
+    "city": "Bonnievale",
+    "city_ascii": "Bonnievale",
+    "admin_name": "Western Cape",
+    "lat": "-33.9275",
+    "lng": "20.1006",
+    "id": "1710844520"
+  },
+  {
+    "city": "Greytown",
+    "city_ascii": "Greytown",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.0667",
+    "lng": "30.5833",
+    "id": "1710074467"
+  },
+  {
+    "city": "Mbuzini",
+    "city_ascii": "Mbuzini",
+    "admin_name": "Mpumalanga",
+    "lat": "-25.9333",
+    "lng": "31.9333",
+    "id": "1710271791"
+  },
+  {
+    "city": "Tulbagh",
+    "city_ascii": "Tulbagh",
+    "admin_name": "Western Cape",
+    "lat": "-33.2850",
+    "lng": "19.1378",
+    "id": "1710401390"
+  },
+  {
+    "city": "Machadodorp",
+    "city_ascii": "Machadodorp",
+    "admin_name": "Mpumalanga",
+    "lat": "-25.6667",
+    "lng": "30.2500",
+    "id": "1710722599"
+  },
+  {
+    "city": "Cofimvaba",
+    "city_ascii": "Cofimvaba",
+    "admin_name": "Eastern Cape",
+    "lat": "-32.0025",
+    "lng": "27.5806",
+    "id": "1710247329"
+  },
+  {
+    "city": "Doornkop",
+    "city_ascii": "Doornkop",
+    "admin_name": "Gauteng",
+    "lat": "-26.2328",
+    "lng": "27.7833",
+    "id": "1710749845"
+  },
+  {
+    "city": "Cullinan",
+    "city_ascii": "Cullinan",
+    "admin_name": "Gauteng",
+    "lat": "-25.6728",
+    "lng": "28.5208",
+    "id": "1710780636"
+  },
+  {
+    "city": "Gillitts",
+    "city_ascii": "Gillitts",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-29.7972",
+    "lng": "30.7944",
+    "id": "1710616584"
+  },
+  {
+    "city": "Cradock",
+    "city_ascii": "Cradock",
+    "admin_name": "Eastern Cape",
+    "lat": "-32.1650",
+    "lng": "25.6175",
+    "id": "1710933404"
+  },
+  {
+    "city": "Boshof",
+    "city_ascii": "Boshof",
+    "admin_name": "Free State",
+    "lat": "-28.5500",
+    "lng": "25.2333",
+    "id": "1710704433"
+  },
+  {
+    "city": "Carnarvon",
+    "city_ascii": "Carnarvon",
+    "admin_name": "Northern Cape",
+    "lat": "-30.9667",
+    "lng": "22.1333",
+    "id": "1710331786"
+  },
+  {
+    "city": "Port Saint John’s",
+    "city_ascii": "Port Saint John's",
+    "admin_name": "Eastern Cape",
+    "lat": "-31.6288",
+    "lng": "29.5369",
+    "id": "1710506018"
+  },
+  {
+    "city": "Vanrhynsdorp",
+    "city_ascii": "Vanrhynsdorp",
+    "admin_name": "Western Cape",
+    "lat": "-31.6167",
+    "lng": "18.7333",
+    "id": "1710187274"
+  },
+  {
+    "city": "Hermanus",
+    "city_ascii": "Hermanus",
+    "admin_name": "Western Cape",
+    "lat": "-34.4167",
+    "lng": "19.2500",
+    "id": "1710409701"
+  },
+  {
+    "city": "Komatipoort",
+    "city_ascii": "Komatipoort",
+    "admin_name": "Mpumalanga",
+    "lat": "-25.4333",
+    "lng": "31.9500",
+    "id": "1710137353"
+  },
+  {
+    "city": "Swellendam",
+    "city_ascii": "Swellendam",
+    "admin_name": "Western Cape",
+    "lat": "-34.0231",
+    "lng": "20.4400",
+    "id": "1710416218"
+  },
+  {
+    "city": "Aliwal North",
+    "city_ascii": "Aliwal North",
+    "admin_name": "Eastern Cape",
+    "lat": "-30.7000",
+    "lng": "26.7000",
+    "id": "1710445896"
+  },
+  {
+    "city": "Pofadder",
+    "city_ascii": "Pofadder",
+    "admin_name": "Northern Cape",
+    "lat": "-29.1286",
+    "lng": "19.3947",
+    "id": "1710817164"
+  },
+  {
+    "city": "Brandfort",
+    "city_ascii": "Brandfort",
+    "admin_name": "Free State",
+    "lat": "-28.7014",
+    "lng": "26.4589",
+    "id": "1710953731"
+  },
+  {
+    "city": "Bloemhof",
+    "city_ascii": "Bloemhof",
+    "admin_name": "North West",
+    "lat": "-27.6500",
+    "lng": "25.5900",
+    "id": "1710321800"
+  },
+  {
+    "city": "Alexander Bay",
+    "city_ascii": "Alexander Bay",
+    "admin_name": "Northern Cape",
+    "lat": "-28.6083",
+    "lng": "16.5033",
+    "id": "1710616152"
+  },
+  {
+    "city": "Ubombo",
+    "city_ascii": "Ubombo",
+    "admin_name": "KwaZulu-Natal",
+    "lat": "-27.5667",
+    "lng": "32.0833",
+    "id": "1710203500"
+  },
+  {
+    "city": "Nelspruit",
+    "city_ascii": "Nelspruit",
+    "admin_name": "Mpumalanga",
+    "lat": "-25.4745",
+    "lng": "30.9703",
+    "id": "1710114438"
+  },
+  {
+    "city": "Gqeberha",
+    "city_ascii": "Gqeberha",
+    "admin_name": "Eastern Cape",
+    "lat": "-33.9681",
+    "lng": "25.5981",
+    "id": "1710000082"
+  }
+]

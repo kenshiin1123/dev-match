@@ -1,0 +1,194 @@
+[
+  {
+    "city": "Nouakchott",
+    "city_ascii": "Nouakchott",
+    "admin_name": "Nouakchott Ouest",
+    "lat": "18.0858",
+    "lng": "-15.9785",
+    "id": "1478414984"
+  },
+  {
+    "city": "Arafat",
+    "city_ascii": "Arafat",
+    "admin_name": "Nouakchott Sud",
+    "lat": "18.0583",
+    "lng": "-15.9621",
+    "id": "1478174698"
+  },
+  {
+    "city": "Dar Naim",
+    "city_ascii": "Dar Naim",
+    "admin_name": "Nouakchott Nord",
+    "lat": "18.0973",
+    "lng": "-15.9327",
+    "id": "1478696248"
+  },
+  {
+    "city": "Nouadhibou",
+    "city_ascii": "Nouadhibou",
+    "admin_name": "Dakhlet Nouadhibou",
+    "lat": "20.9333",
+    "lng": "-17.0333",
+    "id": "1478176283"
+  },
+  {
+    "city": "Kiffa",
+    "city_ascii": "Kiffa",
+    "admin_name": "Assaba",
+    "lat": "16.6164",
+    "lng": "-11.4044",
+    "id": "1478465771"
+  },
+  {
+    "city": "Zouerate",
+    "city_ascii": "Zouerate",
+    "admin_name": "Tiris Zemmour",
+    "lat": "22.7333",
+    "lng": "-12.4667",
+    "id": "1478799785"
+  },
+  {
+    "city": "Rosso",
+    "city_ascii": "Rosso",
+    "admin_name": "Trarza",
+    "lat": "16.5128",
+    "lng": "-15.8050",
+    "id": "1478524903"
+  },
+  {
+    "city": "Kaédi",
+    "city_ascii": "Kaedi",
+    "admin_name": "Gorgol",
+    "lat": "16.1503",
+    "lng": "-13.5037",
+    "id": "1478607377"
+  },
+  {
+    "city": "Ksar",
+    "city_ascii": "Ksar",
+    "admin_name": "Nouakchott Ouest",
+    "lat": "18.0995",
+    "lng": "-15.9574",
+    "id": "1478489289"
+  },
+  {
+    "city": "Sélibaby",
+    "city_ascii": "Selibaby",
+    "admin_name": "Guidimaka",
+    "lat": "15.1670",
+    "lng": "-12.1833",
+    "id": "1478575433"
+  },
+  {
+    "city": "Aioun",
+    "city_ascii": "Aioun",
+    "admin_name": "Hodh el Gharbi",
+    "lat": "16.6614",
+    "lng": "-9.6150",
+    "id": "1478255260"
+  },
+  {
+    "city": "Atar",
+    "city_ascii": "Atar",
+    "admin_name": "Adrar",
+    "lat": "20.5167",
+    "lng": "-13.0500",
+    "id": "1478064510"
+  },
+  {
+    "city": "Guérou",
+    "city_ascii": "Guerou",
+    "admin_name": "Assaba",
+    "lat": "16.8177",
+    "lng": "-11.8359",
+    "id": "1478121598"
+  },
+  {
+    "city": "Néma",
+    "city_ascii": "Nema",
+    "admin_name": "Hodh ech Chargui",
+    "lat": "16.6171",
+    "lng": "-7.2500",
+    "id": "1478009046"
+  },
+  {
+    "city": "Timbedgha",
+    "city_ascii": "Timbedgha",
+    "admin_name": "Hodh ech Chargui",
+    "lat": "16.2447",
+    "lng": "-8.1675",
+    "id": "1478847634"
+  },
+  {
+    "city": "Tidjikja",
+    "city_ascii": "Tidjikja",
+    "admin_name": "Tagant",
+    "lat": "18.5500",
+    "lng": "-11.4166",
+    "id": "1478594780"
+  },
+  {
+    "city": "Aleg",
+    "city_ascii": "Aleg",
+    "admin_name": "Brakna",
+    "lat": "17.0580",
+    "lng": "-13.9090",
+    "id": "1478173139"
+  },
+  {
+    "city": "Boutilimit",
+    "city_ascii": "Boutilimit",
+    "admin_name": "Trarza",
+    "lat": "17.5504",
+    "lng": "-14.7000",
+    "id": "1478235368"
+  },
+  {
+    "city": "Fdérik",
+    "city_ascii": "Fderik",
+    "admin_name": "Tiris Zemmour",
+    "lat": "22.6783",
+    "lng": "-12.7114",
+    "id": "1478557883"
+  },
+  {
+    "city": "Akjoujt",
+    "city_ascii": "Akjoujt",
+    "admin_name": "Inchiri",
+    "lat": "19.7470",
+    "lng": "-14.3910",
+    "id": "1478247793"
+  },
+  {
+    "city": "Bogué",
+    "city_ascii": "Bogue",
+    "admin_name": "Brakna",
+    "lat": "16.5904",
+    "lng": "-14.2700",
+    "id": "1478095096"
+  },
+  {
+    "city": "Bîr Mogreïn",
+    "city_ascii": "Bir Mogrein",
+    "admin_name": "Tiris Zemmour",
+    "lat": "25.2167",
+    "lng": "-11.6167",
+    "id": "1478537499"
+  },
+  {
+    "city": "Chegga",
+    "city_ascii": "Chegga",
+    "admin_name": "Tiris Zemmour",
+    "lat": "25.3719",
+    "lng": "-5.7867",
+    "id": "1478632134"
+  },
+  {
+    "city": "Tevragh Zeina",
+    "city_ascii": "Tevragh Zeina",
+    "admin_name": "Nouakchott Ouest",
+    "lat": "18.0989",
+    "lng": "-15.9885",
+    "id": "1478902195"
+  }
+]

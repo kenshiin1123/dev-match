@@ -1,0 +1,42 @@
+[
+  {
+    "city": "Weno",
+    "city_ascii": "Weno",
+    "admin_name": "Chuuk",
+    "lat": "7.4417",
+    "lng": "151.8583",
+    "id": "1583964118"
+  },
+  {
+    "city": "Palikir",
+    "city_ascii": "Palikir",
+    "admin_name": "Pohnpei",
+    "lat": "6.9172",
+    "lng": "158.1589",
+    "id": "1583008885"
+  },
+  {
+    "city": "Kolonia",
+    "city_ascii": "Kolonia",
+    "admin_name": "Pohnpei",
+    "lat": "6.9639",
+    "lng": "158.2081",
+    "id": "1583881416"
+  },
+  {
+    "city": "Colonia",
+    "city_ascii": "Colonia",
+    "admin_name": "Yap",
+    "lat": "9.5167",
+    "lng": "138.1333",
+    "id": "1583511563"
+  },
+  {
+    "city": "Tofol",
+    "city_ascii": "Tofol",
+    "admin_name": "Kosrae",
+    "lat": "5.3258",
+    "lng": "163.0086",
+    "id": "1583000000"
+  }
+]

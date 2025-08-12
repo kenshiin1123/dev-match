@@ -1,0 +1,5690 @@
+[
+  {
+    "city": "Istanbul",
+    "city_ascii": "Istanbul",
+    "admin_name": "İstanbul",
+    "lat": "41.0136",
+    "lng": "28.9550",
+    "id": "1792756324"
+  },
+  {
+    "city": "Ankara",
+    "city_ascii": "Ankara",
+    "admin_name": "Ankara",
+    "lat": "39.9300",
+    "lng": "32.8500",
+    "id": "1792572891"
+  },
+  {
+    "city": "Bursa",
+    "city_ascii": "Bursa",
+    "admin_name": "Bursa",
+    "lat": "40.1833",
+    "lng": "29.0500",
+    "id": "1792903330"
+  },
+  {
+    "city": "İzmir",
+    "city_ascii": "Izmir",
+    "admin_name": "İzmir",
+    "lat": "38.4200",
+    "lng": "27.1400",
+    "id": "1792725579"
+  },
+  {
+    "city": "Konya",
+    "city_ascii": "Konya",
+    "admin_name": "Konya",
+    "lat": "37.8667",
+    "lng": "32.4833",
+    "id": "1792014004"
+  },
+  {
+    "city": "Gaziantep",
+    "city_ascii": "Gaziantep",
+    "admin_name": "Gaziantep",
+    "lat": "37.0628",
+    "lng": "37.3792",
+    "id": "1792911843"
+  },
+  {
+    "city": "Diyarbakır",
+    "city_ascii": "Diyarbakir",
+    "admin_name": "Diyarbakır",
+    "lat": "37.9100",
+    "lng": "40.2400",
+    "id": "1792536241"
+  },
+  {
+    "city": "Adana",
+    "city_ascii": "Adana",
+    "admin_name": "Adana",
+    "lat": "37.0000",
+    "lng": "35.3213",
+    "id": "1792783772"
+  },
+  {
+    "city": "Kayseri",
+    "city_ascii": "Kayseri",
+    "admin_name": "Kayseri",
+    "lat": "38.7225",
+    "lng": "35.4875",
+    "id": "1792945815"
+  },
+  {
+    "city": "Samsun",
+    "city_ascii": "Samsun",
+    "admin_name": "Samsun",
+    "lat": "41.2903",
+    "lng": "36.3336",
+    "id": "1792169057"
+  },
+  {
+    "city": "Antalya",
+    "city_ascii": "Antalya",
+    "admin_name": "Antalya",
+    "lat": "36.8874",
+    "lng": "30.7075",
+    "id": "1792988434"
+  },
+  {
+    "city": "Mersin",
+    "city_ascii": "Mersin",
+    "admin_name": "Mersin",
+    "lat": "36.8000",
+    "lng": "34.6333",
+    "id": "1792520282"
+  },
+  {
+    "city": "Esenyurt",
+    "city_ascii": "Esenyurt",
+    "admin_name": "İstanbul",
+    "lat": "41.0342",
+    "lng": "28.6800",
+    "id": "1792759121"
+  },
+  {
+    "city": "Çankaya",
+    "city_ascii": "Cankaya",
+    "admin_name": "Ankara",
+    "lat": "39.9244",
+    "lng": "32.8856",
+    "id": "1792458894"
+  },
+  {
+    "city": "Keçiören",
+    "city_ascii": "Kecioren",
+    "admin_name": "Ankara",
+    "lat": "40.0000",
+    "lng": "32.8667",
+    "id": "1792127988"
+  },
+  {
+    "city": "Osmangazi",
+    "city_ascii": "Osmangazi",
+    "admin_name": "Bursa",
+    "lat": "40.1983",
+    "lng": "29.0600",
+    "id": "1792498117"
+  },
+  {
+    "city": "Eskişehir",
+    "city_ascii": "Eskisehir",
+    "admin_name": "Eskişehir",
+    "lat": "39.7767",
+    "lng": "30.5206",
+    "id": "1792933981"
+  },
+  {
+    "city": "Seyhan",
+    "city_ascii": "Seyhan",
+    "admin_name": "Adana",
+    "lat": "36.9831",
+    "lng": "35.3328",
+    "id": "1792655353"
+  },
+  {
+    "city": "Erzurum",
+    "city_ascii": "Erzurum",
+    "admin_name": "Erzurum",
+    "lat": "39.9086",
+    "lng": "41.2769",
+    "id": "1792511957"
+  },
+  {
+    "city": "Pendik",
+    "city_ascii": "Pendik",
+    "admin_name": "İstanbul",
+    "lat": "40.8747",
+    "lng": "29.2350",
+    "id": "1792824929"
+  },
+  {
+    "city": "Bağcılar",
+    "city_ascii": "Bagcilar",
+    "admin_name": "İstanbul",
+    "lat": "41.0344",
+    "lng": "28.8564",
+    "id": "1792374908"
+  },
+  {
+    "city": "Umraniye",
+    "city_ascii": "Umraniye",
+    "admin_name": "İstanbul",
+    "lat": "41.0311",
+    "lng": "29.1081",
+    "id": "1792758804"
+  },
+  {
+    "city": "Yenimahalle",
+    "city_ascii": "Yenimahalle",
+    "admin_name": "Ankara",
+    "lat": "39.9719",
+    "lng": "32.8119",
+    "id": "1792692469"
+  },
+  {
+    "city": "Selçuklu",
+    "city_ascii": "Selcuklu",
+    "admin_name": "Konya",
+    "lat": "37.8814",
+    "lng": "32.4922",
+    "id": "1792683478"
+  },
+  {
+    "city": "Mamak",
+    "city_ascii": "Mamak",
+    "admin_name": "Ankara",
+    "lat": "39.9422",
+    "lng": "32.9231",
+    "id": "1792465227"
+  },
+  {
+    "city": "Yıldırım",
+    "city_ascii": "Yildirim",
+    "admin_name": "Bursa",
+    "lat": "40.1100",
+    "lng": "29.0821",
+    "id": "1792764051"
+  },
+  {
+    "city": "Denizli",
+    "city_ascii": "Denizli",
+    "admin_name": "Denizli",
+    "lat": "37.7833",
+    "lng": "29.0964",
+    "id": "1792161179"
+  },
+  {
+    "city": "Etimesgut",
+    "city_ascii": "Etimesgut",
+    "admin_name": "Ankara",
+    "lat": "39.9458",
+    "lng": "32.6694",
+    "id": "1792684065"
+  },
+  {
+    "city": "Yukarıkaraman",
+    "city_ascii": "Yukarikaraman",
+    "admin_name": "Antalya",
+    "lat": "36.9167",
+    "lng": "30.6833",
+    "id": "1792276393"
+  },
+  {
+    "city": "Şanlıurfa",
+    "city_ascii": "Sanliurfa",
+    "admin_name": "Şanlıurfa",
+    "lat": "37.1583",
+    "lng": "38.7917",
+    "id": "1792937570"
+  },
+  {
+    "city": "Melikgazi",
+    "city_ascii": "Melikgazi",
+    "admin_name": "Kayseri",
+    "lat": "38.7167",
+    "lng": "35.5000",
+    "id": "1792810254"
+  },
+  {
+    "city": "Sincan",
+    "city_ascii": "Sincan",
+    "admin_name": "Ankara",
+    "lat": "39.9594",
+    "lng": "32.5767",
+    "id": "1792007259"
+  },
+  {
+    "city": "Kahramanmaraş",
+    "city_ascii": "Kahramanmaras",
+    "admin_name": "Kahramanmaraş",
+    "lat": "37.5833",
+    "lng": "36.9333",
+    "id": "1792726797"
+  },
+  {
+    "city": "Nilüfer",
+    "city_ascii": "Nilufer",
+    "admin_name": "Bursa",
+    "lat": "40.2833",
+    "lng": "28.9500",
+    "id": "1792222655"
+  },
+  {
+    "city": "Van",
+    "city_ascii": "Van",
+    "admin_name": "Van",
+    "lat": "38.4942",
+    "lng": "43.3800",
+    "id": "1792940471"
+  },
+  {
+    "city": "Buca",
+    "city_ascii": "Buca",
+    "admin_name": "İzmir",
+    "lat": "38.3500",
+    "lng": "27.1667",
+    "id": "1792571515"
+  },
+  {
+    "city": "Malatya",
+    "city_ascii": "Malatya",
+    "admin_name": "Malatya",
+    "lat": "38.3486",
+    "lng": "38.3194",
+    "id": "1792485155"
+  },
+  {
+    "city": "Kartal",
+    "city_ascii": "Kartal",
+    "admin_name": "İstanbul",
+    "lat": "40.8872",
+    "lng": "29.1900",
+    "id": "1792988658"
+  },
+  {
+    "city": "Kâğıthane",
+    "city_ascii": "Kagithane",
+    "admin_name": "İstanbul",
+    "lat": "41.0719",
+    "lng": "28.9664",
+    "id": "1792526380"
+  },
+  {
+    "city": "Bornova",
+    "city_ascii": "Bornova",
+    "admin_name": "İzmir",
+    "lat": "38.4697",
+    "lng": "27.2211",
+    "id": "1792155152"
+  },
+  {
+    "city": "Batman",
+    "city_ascii": "Batman",
+    "admin_name": "Batman",
+    "lat": "37.8870",
+    "lng": "41.1320",
+    "id": "1792630786"
+  },
+  {
+    "city": "Demiryol",
+    "city_ascii": "Demiryol",
+    "admin_name": "Batman",
+    "lat": "37.8870",
+    "lng": "41.1320",
+    "id": "1792380039"
+  },
+  {
+    "city": "Erköklü",
+    "city_ascii": "Erkoklu",
+    "admin_name": "Batman",
+    "lat": "37.8870",
+    "lng": "41.1320",
+    "id": "1792894535"
+  },
+  {
+    "city": "Avcılar",
+    "city_ascii": "Avcilar",
+    "admin_name": "İstanbul",
+    "lat": "40.9792",
+    "lng": "28.7214",
+    "id": "1792144759"
+  },
+  {
+    "city": "Esenler",
+    "city_ascii": "Esenler",
+    "admin_name": "İstanbul",
+    "lat": "41.0339",
+    "lng": "28.8903",
+    "id": "1792000667"
+  },
+  {
+    "city": "Kayapınar",
+    "city_ascii": "Kayapinar",
+    "admin_name": "Diyarbakır",
+    "lat": "37.9500",
+    "lng": "40.1667",
+    "id": "1792910994"
+  },
+  {
+    "city": "Beylikdüzü",
+    "city_ascii": "Beylikduzu",
+    "admin_name": "İstanbul",
+    "lat": "41.0011",
+    "lng": "28.6419",
+    "id": "1792504666"
+  },
+  {
+    "city": "Altındağ",
+    "city_ascii": "Altindag",
+    "admin_name": "Ankara",
+    "lat": "39.9636",
+    "lng": "32.9033",
+    "id": "1792907387"
+  },
+  {
+    "city": "Kocasinan",
+    "city_ascii": "Kocasinan",
+    "admin_name": "Kayseri",
+    "lat": "38.7333",
+    "lng": "35.4833",
+    "id": "1792559390"
+  },
+  {
+    "city": "Gebze",
+    "city_ascii": "Gebze",
+    "admin_name": "Kocaeli",
+    "lat": "40.8000",
+    "lng": "29.4333",
+    "id": "1792650082"
+  },
+  {
+    "city": "Bağlar",
+    "city_ascii": "Baglar",
+    "admin_name": "Diyarbakır",
+    "lat": "37.9167",
+    "lng": "40.1833",
+    "id": "1792893915"
+  },
+  {
+    "city": "Yüreğir",
+    "city_ascii": "Yuregir",
+    "admin_name": "Adana",
+    "lat": "36.9928",
+    "lng": "35.3764",
+    "id": "1792234391"
+  },
+  {
+    "city": "Hatay",
+    "city_ascii": "Hatay",
+    "admin_name": "Hatay",
+    "lat": "36.2025",
+    "lng": "36.1606",
+    "id": "1792115763"
+  },
+  {
+    "city": "Elazığ",
+    "city_ascii": "Elazig",
+    "admin_name": "Elazığ",
+    "lat": "38.6744",
+    "lng": "39.2228",
+    "id": "1792156766"
+  },
+  {
+    "city": "Manisa",
+    "city_ascii": "Manisa",
+    "admin_name": "Manisa",
+    "lat": "38.6144",
+    "lng": "27.4292",
+    "id": "1792804328"
+  },
+  {
+    "city": "Sivas",
+    "city_ascii": "Sivas",
+    "admin_name": "Sivas",
+    "lat": "39.7500",
+    "lng": "37.0167",
+    "id": "1792938326"
+  },
+  {
+    "city": "Alanya",
+    "city_ascii": "Alanya",
+    "admin_name": "Antalya",
+    "lat": "36.5500",
+    "lng": "32.0000",
+    "id": "1792233416"
+  },
+  {
+    "city": "Kocaeli",
+    "city_ascii": "Kocaeli",
+    "admin_name": "Kocaeli",
+    "lat": "40.7625",
+    "lng": "29.9175",
+    "id": "1792965114"
+  },
+  {
+    "city": "Sultanbeyli",
+    "city_ascii": "Sultanbeyli",
+    "admin_name": "İstanbul",
+    "lat": "40.9683",
+    "lng": "29.2617",
+    "id": "1792744270"
+  },
+  {
+    "city": "Tarsus",
+    "city_ascii": "Tarsus",
+    "admin_name": "Mersin",
+    "lat": "36.9165",
+    "lng": "34.8951",
+    "id": "1792003860"
+  },
+  {
+    "city": "Sarıyer",
+    "city_ascii": "Sariyer",
+    "admin_name": "İstanbul",
+    "lat": "41.1669",
+    "lng": "29.0572",
+    "id": "1792425356"
+  },
+  {
+    "city": "Meram",
+    "city_ascii": "Meram",
+    "admin_name": "Konya",
+    "lat": "37.8364",
+    "lng": "32.4383",
+    "id": "1792895883"
+  },
+  {
+    "city": "Pamukkale",
+    "city_ascii": "Pamukkale",
+    "admin_name": "Denizli",
+    "lat": "37.9167",
+    "lng": "29.1167",
+    "id": "1792749284"
+  },
+  {
+    "city": "Karşıyaka",
+    "city_ascii": "Karsiyaka",
+    "admin_name": "İzmir",
+    "lat": "38.4594",
+    "lng": "27.1153",
+    "id": "1792660772"
+  },
+  {
+    "city": "Yeşilyurt",
+    "city_ascii": "Yesilyurt",
+    "admin_name": "Malatya",
+    "lat": "38.2961",
+    "lng": "38.2489",
+    "id": "1792143860"
+  },
+  {
+    "city": "Konak",
+    "city_ascii": "Konak",
+    "admin_name": "İzmir",
+    "lat": "38.4189",
+    "lng": "27.1285",
+    "id": "1792668647"
+  },
+  {
+    "city": "Arnavutköy",
+    "city_ascii": "Arnavutkoy",
+    "admin_name": "İstanbul",
+    "lat": "41.1856",
+    "lng": "28.7406",
+    "id": "1792049367"
+  },
+  {
+    "city": "Küçükçekmece",
+    "city_ascii": "Kucukcekmece",
+    "admin_name": "İstanbul",
+    "lat": "41.0000",
+    "lng": "28.8000",
+    "id": "1792992349"
+  },
+  {
+    "city": "Balıkesir",
+    "city_ascii": "Balikesir",
+    "admin_name": "Balıkesir",
+    "lat": "39.6333",
+    "lng": "27.8833",
+    "id": "1792020804"
+  },
+  {
+    "city": "Battalgazi",
+    "city_ascii": "Battalgazi",
+    "admin_name": "Malatya",
+    "lat": "38.4228",
+    "lng": "38.3656",
+    "id": "1792965811"
+  },
+  {
+    "city": "Çorlu",
+    "city_ascii": "Corlu",
+    "admin_name": "Tekirdağ",
+    "lat": "41.1500",
+    "lng": "27.8000",
+    "id": "1792855069"
+  },
+  {
+    "city": "Çekme",
+    "city_ascii": "Cekme",
+    "admin_name": "İstanbul",
+    "lat": "41.0369",
+    "lng": "29.1786",
+    "id": "1792015771"
+  },
+  {
+    "city": "İnegöl",
+    "city_ascii": "Inegol",
+    "admin_name": "Bursa",
+    "lat": "40.0806",
+    "lng": "29.5097",
+    "id": "1792592205"
+  },
+  {
+    "city": "Trabzon",
+    "city_ascii": "Trabzon",
+    "admin_name": "Trabzon",
+    "lat": "41.0050",
+    "lng": "39.7225",
+    "id": "1792019202"
+  },
+  {
+    "city": "Tuzla",
+    "city_ascii": "Tuzla",
+    "admin_name": "İstanbul",
+    "lat": "40.8161",
+    "lng": "29.3006",
+    "id": "1792174991"
+  },
+  {
+    "city": "Güngören",
+    "city_ascii": "Gungoren",
+    "admin_name": "İstanbul",
+    "lat": "41.0225",
+    "lng": "28.8717",
+    "id": "1792090978"
+  },
+  {
+    "city": "Sakarya",
+    "city_ascii": "Sakarya",
+    "admin_name": "Sakarya",
+    "lat": "40.7833",
+    "lng": "30.4000",
+    "id": "1792191587"
+  },
+  {
+    "city": "Büyükçekmece",
+    "city_ascii": "Buyukcekmece",
+    "admin_name": "İstanbul",
+    "lat": "41.0200",
+    "lng": "28.5775",
+    "id": "1792118443"
+  },
+  {
+    "city": "Bayat",
+    "city_ascii": "Bayat",
+    "admin_name": "Çorum",
+    "lat": "40.5455",
+    "lng": "34.9570",
+    "id": "1792014564"
+  },
+  {
+    "city": "Çorum",
+    "city_ascii": "Corum",
+    "admin_name": "Çorum",
+    "lat": "40.5455",
+    "lng": "34.9570",
+    "id": "1792065200"
+  },
+  {
+    "city": "Siverek",
+    "city_ascii": "Siverek",
+    "admin_name": "Şanlıurfa",
+    "lat": "37.7500",
+    "lng": "39.3167",
+    "id": "1792479307"
+  },
+  {
+    "city": "Kızıltepe",
+    "city_ascii": "Kiziltepe",
+    "admin_name": "Mardin",
+    "lat": "37.1939",
+    "lng": "40.5861",
+    "id": "1792229490"
+  },
+  {
+    "city": "Adıyaman",
+    "city_ascii": "Adiyaman",
+    "admin_name": "Adıyaman",
+    "lat": "37.7639",
+    "lng": "38.2778",
+    "id": "1792686663"
+  },
+  {
+    "city": "Karaköprü",
+    "city_ascii": "Karakopru",
+    "admin_name": "Şanlıurfa",
+    "lat": "37.1847",
+    "lng": "38.7908",
+    "id": "1792525360"
+  },
+  {
+    "city": "Kütahya",
+    "city_ascii": "Kutahya",
+    "admin_name": "Kütahya",
+    "lat": "39.4167",
+    "lng": "29.9833",
+    "id": "1792671735"
+  },
+  {
+    "city": "Aydın",
+    "city_ascii": "Aydin",
+    "admin_name": "Aydın",
+    "lat": "37.8481",
+    "lng": "27.8453",
+    "id": "1792696058"
+  },
+  {
+    "city": "Manavgat",
+    "city_ascii": "Manavgat",
+    "admin_name": "Antalya",
+    "lat": "36.7833",
+    "lng": "31.4333",
+    "id": "1792832111"
+  },
+  {
+    "city": "Osmaniye",
+    "city_ascii": "Osmaniye",
+    "admin_name": "Osmaniye",
+    "lat": "37.0750",
+    "lng": "36.2500",
+    "id": "1792340207"
+  },
+  {
+    "city": "Afyonkarahisar",
+    "city_ascii": "Afyonkarahisar",
+    "admin_name": "Afyonkarahisar",
+    "lat": "38.7578",
+    "lng": "30.5386",
+    "id": "1792855788"
+  },
+  {
+    "city": "İskenderun",
+    "city_ascii": "Iskenderun",
+    "admin_name": "Hatay",
+    "lat": "36.5817",
+    "lng": "36.1650",
+    "id": "1792962911"
+  },
+  {
+    "city": "Beykoz",
+    "city_ascii": "Beykoz",
+    "admin_name": "İstanbul",
+    "lat": "41.1342",
+    "lng": "29.0922",
+    "id": "1792084939"
+  },
+  {
+    "city": "Isparta",
+    "city_ascii": "Isparta",
+    "admin_name": "Isparta",
+    "lat": "37.7647",
+    "lng": "30.5567",
+    "id": "1792105249"
+  },
+  {
+    "city": "Aksaray",
+    "city_ascii": "Aksaray",
+    "admin_name": "Aksaray",
+    "lat": "38.3742",
+    "lng": "34.0289",
+    "id": "1792650390"
+  },
+  {
+    "city": "Uşak",
+    "city_ascii": "Usak",
+    "admin_name": "Uşak",
+    "lat": "38.6778",
+    "lng": "29.4042",
+    "id": "1792360822"
+  },
+  {
+    "city": "Ordu",
+    "city_ascii": "Ordu",
+    "admin_name": "Ordu",
+    "lat": "40.9833",
+    "lng": "37.8833",
+    "id": "1792540951"
+  },
+  {
+    "city": "Mezitli",
+    "city_ascii": "Mezitli",
+    "admin_name": "Mersin",
+    "lat": "36.7500",
+    "lng": "34.5333",
+    "id": "1792186109"
+  },
+  {
+    "city": "Sarıçam",
+    "city_ascii": "Saricam",
+    "admin_name": "Adana",
+    "lat": "37.0333",
+    "lng": "35.4167",
+    "id": "1792921258"
+  },
+  {
+    "city": "Yenişehir",
+    "city_ascii": "Yenisehir",
+    "admin_name": "Diyarbakır",
+    "lat": "37.9333",
+    "lng": "40.2333",
+    "id": "1792069149"
+  },
+  {
+    "city": "Silivri",
+    "city_ascii": "Silivri",
+    "admin_name": "İstanbul",
+    "lat": "41.0736",
+    "lng": "28.2478",
+    "id": "1792110769"
+  },
+  {
+    "city": "Çiğli",
+    "city_ascii": "Cigli",
+    "admin_name": "İzmir",
+    "lat": "38.4833",
+    "lng": "27.0500",
+    "id": "1792478520"
+  },
+  {
+    "city": "Torbalı",
+    "city_ascii": "Torbali",
+    "admin_name": "İzmir",
+    "lat": "38.1619",
+    "lng": "27.3583",
+    "id": "1792319298"
+  },
+  {
+    "city": "Viranşehir",
+    "city_ascii": "Viransehir",
+    "admin_name": "Şanlıurfa",
+    "lat": "37.2306",
+    "lng": "39.7653",
+    "id": "1792566461"
+  },
+  {
+    "city": "Çerkezköy",
+    "city_ascii": "Cerkezkoy",
+    "admin_name": "Tekirdağ",
+    "lat": "41.2889",
+    "lng": "28.0042",
+    "id": "1792345398"
+  },
+  {
+    "city": "Menemen",
+    "city_ascii": "Menemen",
+    "admin_name": "İzmir",
+    "lat": "38.6000",
+    "lng": "27.0667",
+    "id": "1792699814"
+  },
+  {
+    "city": "Düzce",
+    "city_ascii": "Duzce",
+    "admin_name": "Düzce",
+    "lat": "40.8417",
+    "lng": "31.1583",
+    "id": "1792999306"
+  },
+  {
+    "city": "Kırıkkale",
+    "city_ascii": "Kirikkale",
+    "admin_name": "Kırıkkale",
+    "lat": "39.8417",
+    "lng": "33.5139",
+    "id": "1792859558"
+  },
+  {
+    "city": "Tekirdağ",
+    "city_ascii": "Tekirdag",
+    "admin_name": "Tekirdağ",
+    "lat": "40.9778",
+    "lng": "27.5153",
+    "id": "1792519395"
+  },
+  {
+    "city": "Bolu",
+    "city_ascii": "Bolu",
+    "admin_name": "Bolu",
+    "lat": "40.7347",
+    "lng": "31.6075",
+    "id": "1792807068"
+  },
+  {
+    "city": "Edirne",
+    "city_ascii": "Edirne",
+    "admin_name": "Edirne",
+    "lat": "41.6769",
+    "lng": "26.5556",
+    "id": "1792102607"
+  },
+  {
+    "city": "Körfez",
+    "city_ascii": "Korfez",
+    "admin_name": "Kocaeli",
+    "lat": "40.7833",
+    "lng": "29.7333",
+    "id": "1792917174"
+  },
+  {
+    "city": "Fethiye",
+    "city_ascii": "Fethiye",
+    "admin_name": "Muğla",
+    "lat": "36.6514",
+    "lng": "29.1231",
+    "id": "1792001223"
+  },
+  {
+    "city": "Akhisar",
+    "city_ascii": "Akhisar",
+    "admin_name": "Manisa",
+    "lat": "38.9239",
+    "lng": "27.8400",
+    "id": "1792301869"
+  },
+  {
+    "city": "Gölcük",
+    "city_ascii": "Golcuk",
+    "admin_name": "Kocaeli",
+    "lat": "40.7172",
+    "lng": "29.8228",
+    "id": "1792590945"
+  },
+  {
+    "city": "Turgutlu",
+    "city_ascii": "Turgutlu",
+    "admin_name": "Manisa",
+    "lat": "38.5000",
+    "lng": "27.7000",
+    "id": "1792010631"
+  },
+  {
+    "city": "Karaman",
+    "city_ascii": "Karaman",
+    "admin_name": "Karaman",
+    "lat": "37.1819",
+    "lng": "33.2181",
+    "id": "1792285496"
+  },
+  {
+    "city": "Bodrum",
+    "city_ascii": "Bodrum",
+    "admin_name": "Muğla",
+    "lat": "37.0378",
+    "lng": "27.4242",
+    "id": "1792047777"
+  },
+  {
+    "city": "Erciş",
+    "city_ascii": "Ercis",
+    "admin_name": "Van",
+    "lat": "39.0311",
+    "lng": "43.3597",
+    "id": "1792489856"
+  },
+  {
+    "city": "Niğde",
+    "city_ascii": "Nigde",
+    "admin_name": "Niğde",
+    "lat": "37.9667",
+    "lng": "34.6792",
+    "id": "1792867993"
+  },
+  {
+    "city": "Talas",
+    "city_ascii": "Talas",
+    "admin_name": "Kayseri",
+    "lat": "38.6833",
+    "lng": "35.5667",
+    "id": "1792443013"
+  },
+  {
+    "city": "Edremit",
+    "city_ascii": "Edremit",
+    "admin_name": "Balıkesir",
+    "lat": "39.5922",
+    "lng": "27.0200",
+    "id": "1792678708"
+  },
+  {
+    "city": "Bandırma",
+    "city_ascii": "Bandirma",
+    "admin_name": "Balıkesir",
+    "lat": "40.3500",
+    "lng": "27.9667",
+    "id": "1792423107"
+  },
+  {
+    "city": "Samandağ",
+    "city_ascii": "Samandag",
+    "admin_name": "Hatay",
+    "lat": "36.0850",
+    "lng": "35.9806",
+    "id": "1792813864"
+  },
+  {
+    "city": "Salihli",
+    "city_ascii": "Salihli",
+    "admin_name": "Manisa",
+    "lat": "38.4811",
+    "lng": "28.1392",
+    "id": "1792382417"
+  },
+  {
+    "city": "Tokat",
+    "city_ascii": "Tokat",
+    "admin_name": "Tokat",
+    "lat": "40.3139",
+    "lng": "36.5542",
+    "id": "1792534905"
+  },
+  {
+    "city": "Nazilli",
+    "city_ascii": "Nazilli",
+    "admin_name": "Aydın",
+    "lat": "37.9125",
+    "lng": "28.3206",
+    "id": "1792517713"
+  },
+  {
+    "city": "Siirt",
+    "city_ascii": "Siirt",
+    "admin_name": "Siirt",
+    "lat": "37.9250",
+    "lng": "41.9458",
+    "id": "1792190820"
+  },
+  {
+    "city": "Ceyhan",
+    "city_ascii": "Ceyhan",
+    "admin_name": "Adana",
+    "lat": "37.0289",
+    "lng": "35.8125",
+    "id": "1792949917"
+  },
+  {
+    "city": "Erdemli",
+    "city_ascii": "Erdemli",
+    "admin_name": "Mersin",
+    "lat": "36.6056",
+    "lng": "34.3111",
+    "id": "1792271487"
+  },
+  {
+    "city": "Ereğli",
+    "city_ascii": "Eregli",
+    "admin_name": "Konya",
+    "lat": "37.5128",
+    "lng": "34.0483",
+    "id": "1792110470"
+  },
+  {
+    "city": "Çayırova",
+    "city_ascii": "Cayirova",
+    "admin_name": "Kocaeli",
+    "lat": "40.8000",
+    "lng": "29.4167",
+    "id": "1792546631"
+  },
+  {
+    "city": "Mahmutlu",
+    "city_ascii": "Mahmutlu",
+    "admin_name": "Erzincan",
+    "lat": "39.7464",
+    "lng": "39.4914",
+    "id": "1792575039"
+  },
+  {
+    "city": "Büyük Çakırman",
+    "city_ascii": "Buyuk Cakirman",
+    "admin_name": "Erzincan",
+    "lat": "39.7464",
+    "lng": "39.4914",
+    "id": "1792815135"
+  },
+  {
+    "city": "Buğdaylı",
+    "city_ascii": "Bugdayli",
+    "admin_name": "Erzincan",
+    "lat": "39.7464",
+    "lng": "39.4914",
+    "id": "1792675937"
+  },
+  {
+    "city": "Erzincan",
+    "city_ascii": "Erzincan",
+    "admin_name": "Erzincan",
+    "lat": "39.7464",
+    "lng": "39.4914",
+    "id": "1792742754"
+  },
+  {
+    "city": "Kırşehir",
+    "city_ascii": "Kirsehir",
+    "admin_name": "Kırşehir",
+    "lat": "39.1456",
+    "lng": "34.1608",
+    "id": "1792825471"
+  },
+  {
+    "city": "Gölbaşı",
+    "city_ascii": "Golbasi",
+    "admin_name": "Ankara",
+    "lat": "39.7953",
+    "lng": "32.8028",
+    "id": "1792774390"
+  },
+  {
+    "city": "Ağrı",
+    "city_ascii": "Agri",
+    "admin_name": "Ağrı",
+    "lat": "39.7186",
+    "lng": "43.0508",
+    "id": "1792385654"
+  },
+  {
+    "city": "Nizip",
+    "city_ascii": "Nizip",
+    "admin_name": "Gaziantep",
+    "lat": "37.0100",
+    "lng": "37.7972",
+    "id": "1792748330"
+  },
+  {
+    "city": "Milas",
+    "city_ascii": "Milas",
+    "admin_name": "Muğla",
+    "lat": "37.3167",
+    "lng": "27.7833",
+    "id": "1792459665"
+  },
+  {
+    "city": "Derince",
+    "city_ascii": "Derince",
+    "admin_name": "Kocaeli",
+    "lat": "40.7539",
+    "lng": "29.8231",
+    "id": "1792059503"
+  },
+  {
+    "city": "Çanakkale",
+    "city_ascii": "Canakkale",
+    "admin_name": "Çanakkale",
+    "lat": "40.1519",
+    "lng": "26.4056",
+    "id": "1792403093"
+  },
+  {
+    "city": "Bafra",
+    "city_ascii": "Bafra",
+    "admin_name": "Samsun",
+    "lat": "41.5722",
+    "lng": "35.9147",
+    "id": "1792560571"
+  },
+  {
+    "city": "Elbistan",
+    "city_ascii": "Elbistan",
+    "admin_name": "Kahramanmaraş",
+    "lat": "38.2014",
+    "lng": "37.1883",
+    "id": "1792888538"
+  },
+  {
+    "city": "Çarşamba",
+    "city_ascii": "Carsamba",
+    "admin_name": "Samsun",
+    "lat": "41.1992",
+    "lng": "36.7275",
+    "id": "1792437640"
+  },
+  {
+    "city": "Serik",
+    "city_ascii": "Serik",
+    "admin_name": "Antalya",
+    "lat": "36.9167",
+    "lng": "31.1000",
+    "id": "1792809548"
+  },
+  {
+    "city": "Gaziemir",
+    "city_ascii": "Gaziemir",
+    "admin_name": "İzmir",
+    "lat": "38.3214",
+    "lng": "27.1275",
+    "id": "1792275574"
+  },
+  {
+    "city": "Kapaklı",
+    "city_ascii": "Kapakli",
+    "admin_name": "Tekirdağ",
+    "lat": "41.3333",
+    "lng": "27.9667",
+    "id": "1792061507"
+  },
+  {
+    "city": "Karatepe",
+    "city_ascii": "Karatepe",
+    "admin_name": "Kocaeli",
+    "lat": "40.7333",
+    "lng": "29.9667",
+    "id": "1792291745"
+  },
+  {
+    "city": "Ergani",
+    "city_ascii": "Ergani",
+    "admin_name": "Diyarbakır",
+    "lat": "38.2692",
+    "lng": "39.7617",
+    "id": "1792939849"
+  },
+  {
+    "city": "Bingöl",
+    "city_ascii": "Bingol",
+    "admin_name": "Bingöl",
+    "lat": "38.8861",
+    "lng": "40.5017",
+    "id": "1792920183"
+  },
+  {
+    "city": "Yalova",
+    "city_ascii": "Yalova",
+    "admin_name": "Yalova",
+    "lat": "40.6556",
+    "lng": "29.2750",
+    "id": "1792838138"
+  },
+  {
+    "city": "Ödemiş",
+    "city_ascii": "Odemis",
+    "admin_name": "İzmir",
+    "lat": "38.2311",
+    "lng": "27.9719",
+    "id": "1792140925"
+  },
+  {
+    "city": "Kozan",
+    "city_ascii": "Kozan",
+    "admin_name": "Adana",
+    "lat": "37.4500",
+    "lng": "35.8000",
+    "id": "1792567030"
+  },
+  {
+    "city": "Silifke",
+    "city_ascii": "Silifke",
+    "admin_name": "Mersin",
+    "lat": "36.3761",
+    "lng": "33.9322",
+    "id": "1792517279"
+  },
+  {
+    "city": "Ünye",
+    "city_ascii": "Unye",
+    "admin_name": "Ordu",
+    "lat": "41.1272",
+    "lng": "37.2881",
+    "id": "1792053028"
+  },
+  {
+    "city": "Cizre",
+    "city_ascii": "Cizre",
+    "admin_name": "Şırnak",
+    "lat": "37.3320",
+    "lng": "42.1870",
+    "id": "1792431845"
+  },
+  {
+    "city": "Kuşadası",
+    "city_ascii": "Kusadasi",
+    "admin_name": "İzmir",
+    "lat": "37.8597",
+    "lng": "27.2597",
+    "id": "1792759260"
+  },
+  {
+    "city": "Mardin",
+    "city_ascii": "Mardin",
+    "admin_name": "Mardin",
+    "lat": "37.3131",
+    "lng": "40.7350",
+    "id": "1792546179"
+  },
+  {
+    "city": "Akçaabat",
+    "city_ascii": "Akcaabat",
+    "admin_name": "Trabzon",
+    "lat": "41.0167",
+    "lng": "39.5500",
+    "id": "1792536331"
+  },
+  {
+    "city": "Dörtyol",
+    "city_ascii": "Dortyol",
+    "admin_name": "Hatay",
+    "lat": "36.8428",
+    "lng": "36.2244",
+    "id": "1792453539"
+  },
+  {
+    "city": "Polatlı",
+    "city_ascii": "Polatli",
+    "admin_name": "Ankara",
+    "lat": "39.5842",
+    "lng": "32.1472",
+    "id": "1792124981"
+  },
+  {
+    "city": "Edremit",
+    "city_ascii": "Edremit",
+    "admin_name": "Van",
+    "lat": "38.4242",
+    "lng": "43.2561",
+    "id": "1792894880"
+  },
+  {
+    "city": "Fatsa",
+    "city_ascii": "Fatsa",
+    "admin_name": "Ordu",
+    "lat": "41.0306",
+    "lng": "37.5000",
+    "id": "1792778914"
+  },
+  {
+    "city": "Giresun",
+    "city_ascii": "Giresun",
+    "admin_name": "Giresun",
+    "lat": "40.9153",
+    "lng": "38.3894",
+    "id": "1792486859"
+  },
+  {
+    "city": "Kastamonu",
+    "city_ascii": "Kastamonu",
+    "admin_name": "Kastamonu",
+    "lat": "41.3764",
+    "lng": "33.7764",
+    "id": "1792386602"
+  },
+  {
+    "city": "Lüleburgaz",
+    "city_ascii": "Luleburgaz",
+    "admin_name": "Kırklareli",
+    "lat": "41.4056",
+    "lng": "27.3569",
+    "id": "1792000752"
+  },
+  {
+    "city": "Karabük",
+    "city_ascii": "Karabuk",
+    "admin_name": "Karabük",
+    "lat": "41.1986",
+    "lng": "32.6264",
+    "id": "1792834766"
+  },
+  {
+    "city": "Nevşehir",
+    "city_ascii": "Nevsehir",
+    "admin_name": "Nevşehir",
+    "lat": "38.6264",
+    "lng": "34.7139",
+    "id": "1792583760"
+  },
+  {
+    "city": "Akçakale",
+    "city_ascii": "Akcakale",
+    "admin_name": "Şanlıurfa",
+    "lat": "36.7108",
+    "lng": "38.9478",
+    "id": "1792050087"
+  },
+  {
+    "city": "Söke",
+    "city_ascii": "Soke",
+    "admin_name": "Aydın",
+    "lat": "37.7508",
+    "lng": "27.4103",
+    "id": "1792512916"
+  },
+  {
+    "city": "Ereğli",
+    "city_ascii": "Eregli",
+    "admin_name": "Zonguldak",
+    "lat": "41.2792",
+    "lng": "31.4208",
+    "id": "1792160689"
+  },
+  {
+    "city": "Kırıkhan",
+    "city_ascii": "Kirikhan",
+    "admin_name": "Hatay",
+    "lat": "36.4975",
+    "lng": "36.3608",
+    "id": "1792106417"
+  },
+  {
+    "city": "Muş",
+    "city_ascii": "Mus",
+    "admin_name": "Muş",
+    "lat": "38.7333",
+    "lng": "41.4911",
+    "id": "1792530937"
+  },
+  {
+    "city": "Gemlik",
+    "city_ascii": "Gemlik",
+    "admin_name": "Bursa",
+    "lat": "40.4317",
+    "lng": "29.1561",
+    "id": "1792957610"
+  },
+  {
+    "city": "Midyat",
+    "city_ascii": "Midyat",
+    "admin_name": "Mardin",
+    "lat": "37.4167",
+    "lng": "41.3697",
+    "id": "1792815153"
+  },
+  {
+    "city": "Rize",
+    "city_ascii": "Rize",
+    "admin_name": "Rize",
+    "lat": "41.0247",
+    "lng": "40.5222",
+    "id": "1792024731"
+  },
+  {
+    "city": "Bismil",
+    "city_ascii": "Bismil",
+    "admin_name": "Diyarbakır",
+    "lat": "37.8467",
+    "lng": "40.6661",
+    "id": "1792481125"
+  },
+  {
+    "city": "Nusaybin",
+    "city_ascii": "Nusaybin",
+    "admin_name": "Mardin",
+    "lat": "37.0750",
+    "lng": "41.2153",
+    "id": "1792327949"
+  },
+  {
+    "city": "Amasya",
+    "city_ascii": "Amasya",
+    "admin_name": "Amasya",
+    "lat": "40.6500",
+    "lng": "35.8331",
+    "id": "1792344167"
+  },
+  {
+    "city": "Kemalpaşa",
+    "city_ascii": "Kemalpasa",
+    "admin_name": "İzmir",
+    "lat": "38.4278",
+    "lng": "27.4161",
+    "id": "1792611875"
+  },
+  {
+    "city": "Kilis",
+    "city_ascii": "Kilis",
+    "admin_name": "Kilis",
+    "lat": "36.7167",
+    "lng": "37.1167",
+    "id": "1792866362"
+  },
+  {
+    "city": "Soma",
+    "city_ascii": "Soma",
+    "admin_name": "Manisa",
+    "lat": "39.1883",
+    "lng": "27.6089",
+    "id": "1792461536"
+  },
+  {
+    "city": "Kayabaşı",
+    "city_ascii": "Kayabasi",
+    "admin_name": "İstanbul",
+    "lat": "41.1167",
+    "lng": "28.7333",
+    "id": "1792352672"
+  },
+  {
+    "city": "Silopi",
+    "city_ascii": "Silopi",
+    "admin_name": "Şırnak",
+    "lat": "37.2486",
+    "lng": "42.4703",
+    "id": "1792772640"
+  },
+  {
+    "city": "Reyhanlı",
+    "city_ascii": "Reyhanli",
+    "admin_name": "Hatay",
+    "lat": "36.2681",
+    "lng": "36.5675",
+    "id": "1792253206"
+  },
+  {
+    "city": "Mudanya",
+    "city_ascii": "Mudanya",
+    "admin_name": "Bursa",
+    "lat": "40.3764",
+    "lng": "28.8833",
+    "id": "1792881866"
+  },
+  {
+    "city": "Menderes",
+    "city_ascii": "Menderes",
+    "admin_name": "İzmir",
+    "lat": "38.2540",
+    "lng": "27.1340",
+    "id": "1792033881"
+  },
+  {
+    "city": "Bergama",
+    "city_ascii": "Bergama",
+    "admin_name": "İzmir",
+    "lat": "39.1167",
+    "lng": "27.1833",
+    "id": "1792434888"
+  },
+  {
+    "city": "Aliağa",
+    "city_ascii": "Aliaga",
+    "admin_name": "İzmir",
+    "lat": "38.8008",
+    "lng": "26.9728",
+    "id": "1792034311"
+  },
+  {
+    "city": "Alaşehir",
+    "city_ascii": "Alasehir",
+    "admin_name": "Manisa",
+    "lat": "38.3500",
+    "lng": "28.5167",
+    "id": "1792803121"
+  },
+  {
+    "city": "Gürsu",
+    "city_ascii": "Gursu",
+    "admin_name": "Bursa",
+    "lat": "40.2144",
+    "lng": "29.1931",
+    "id": "1792413499"
+  },
+  {
+    "city": "Mustafakemalpaşa",
+    "city_ascii": "Mustafakemalpasa",
+    "admin_name": "Bursa",
+    "lat": "40.0353",
+    "lng": "28.4117",
+    "id": "1792796716"
+  },
+  {
+    "city": "Akyazı",
+    "city_ascii": "Akyazi",
+    "admin_name": "Sakarya",
+    "lat": "40.6833",
+    "lng": "30.6253",
+    "id": "1792667046"
+  },
+  {
+    "city": "Zonguldak",
+    "city_ascii": "Zonguldak",
+    "admin_name": "Zonguldak",
+    "lat": "41.4564",
+    "lng": "31.7986",
+    "id": "1792410633"
+  },
+  {
+    "city": "Iğdır",
+    "city_ascii": "Igdir",
+    "admin_name": "Iğdır",
+    "lat": "39.9208",
+    "lng": "44.0444",
+    "id": "1792813007"
+  },
+  {
+    "city": "Arsuz",
+    "city_ascii": "Arsuz",
+    "admin_name": "Hatay",
+    "lat": "36.4128",
+    "lng": "35.8867",
+    "id": "1792450466"
+  },
+  {
+    "city": "Suruç",
+    "city_ascii": "Suruc",
+    "admin_name": "Şanlıurfa",
+    "lat": "36.9764",
+    "lng": "38.4269",
+    "id": "1792909050"
+  },
+  {
+    "city": "Aşağıçinik",
+    "city_ascii": "Asagicinik",
+    "admin_name": "Samsun",
+    "lat": "41.2719",
+    "lng": "36.3508",
+    "id": "1792977425"
+  },
+  {
+    "city": "Sur",
+    "city_ascii": "Sur",
+    "admin_name": "Diyarbakır",
+    "lat": "37.9106",
+    "lng": "40.2358",
+    "id": "1792076669"
+  },
+  {
+    "city": "Kadirli",
+    "city_ascii": "Kadirli",
+    "admin_name": "Osmaniye",
+    "lat": "37.3697",
+    "lng": "36.1000",
+    "id": "1792113133"
+  },
+  {
+    "city": "Marmaris",
+    "city_ascii": "Marmaris",
+    "admin_name": "Muğla",
+    "lat": "36.8500",
+    "lng": "28.2667",
+    "id": "1792982553"
+  },
+  {
+    "city": "Didim",
+    "city_ascii": "Didim",
+    "admin_name": "Aydın",
+    "lat": "37.3756",
+    "lng": "27.2678",
+    "id": "1792743325"
+  },
+  {
+    "city": "Harran",
+    "city_ascii": "Harran",
+    "admin_name": "Şanlıurfa",
+    "lat": "36.8708",
+    "lng": "39.0250",
+    "id": "1792829977"
+  },
+  {
+    "city": "Çubuk",
+    "city_ascii": "Cubuk",
+    "admin_name": "Ankara",
+    "lat": "40.2386",
+    "lng": "33.0331",
+    "id": "1792476481"
+  },
+  {
+    "city": "Burdur",
+    "city_ascii": "Burdur",
+    "admin_name": "Burdur",
+    "lat": "37.7194",
+    "lng": "30.2833",
+    "id": "1792413556"
+  },
+  {
+    "city": "Akşehir",
+    "city_ascii": "Aksehir",
+    "admin_name": "Konya",
+    "lat": "38.3575",
+    "lng": "31.4164",
+    "id": "1792359338"
+  },
+  {
+    "city": "Birecik",
+    "city_ascii": "Birecik",
+    "admin_name": "Şanlıurfa",
+    "lat": "37.0250",
+    "lng": "37.9769",
+    "id": "1792775983"
+  },
+  {
+    "city": "Yozgat",
+    "city_ascii": "Yozgat",
+    "admin_name": "Yozgat",
+    "lat": "39.8208",
+    "lng": "34.8083",
+    "id": "1792862455"
+  },
+  {
+    "city": "Kars",
+    "city_ascii": "Kars",
+    "admin_name": "Kars",
+    "lat": "40.6078",
+    "lng": "43.0958",
+    "id": "1792000464"
+  },
+  {
+    "city": "Çankırı",
+    "city_ascii": "Cankiri",
+    "admin_name": "Çankırı",
+    "lat": "40.5986",
+    "lng": "33.6192",
+    "id": "1792584248"
+  },
+  {
+    "city": "Ceylanpınar",
+    "city_ascii": "Ceylanpinar",
+    "admin_name": "Şanlıurfa",
+    "lat": "36.8461",
+    "lng": "40.0489",
+    "id": "1792768664"
+  },
+  {
+    "city": "Vezirköprü",
+    "city_ascii": "Vezirkopru",
+    "admin_name": "Samsun",
+    "lat": "41.1431",
+    "lng": "35.4600",
+    "id": "1792653075"
+  },
+  {
+    "city": "Hendek",
+    "city_ascii": "Hendek",
+    "admin_name": "Sakarya",
+    "lat": "40.8050",
+    "lng": "30.7492",
+    "id": "1792000888"
+  },
+  {
+    "city": "Tire",
+    "city_ascii": "Tire",
+    "admin_name": "İzmir",
+    "lat": "38.0833",
+    "lng": "27.7333",
+    "id": "1792346729"
+  },
+  {
+    "city": "Kâhta",
+    "city_ascii": "Kahta",
+    "admin_name": "Adıyaman",
+    "lat": "37.7803",
+    "lng": "38.6217",
+    "id": "1792788928"
+  },
+  {
+    "city": "Silvan",
+    "city_ascii": "Silvan",
+    "admin_name": "Diyarbakır",
+    "lat": "38.1422",
+    "lng": "41.0014",
+    "id": "1792262002"
+  },
+  {
+    "city": "Kırklareli",
+    "city_ascii": "Kirklareli",
+    "admin_name": "Kırklareli",
+    "lat": "41.7347",
+    "lng": "27.2253",
+    "id": "1792182918"
+  },
+  {
+    "city": "Karacabey",
+    "city_ascii": "Karacabey",
+    "admin_name": "Bursa",
+    "lat": "40.2167",
+    "lng": "28.3500",
+    "id": "1792019845"
+  },
+  {
+    "city": "Yüksekova",
+    "city_ascii": "Yuksekova",
+    "admin_name": "Hakkâri",
+    "lat": "37.5690",
+    "lng": "44.2830",
+    "id": "1792812119"
+  },
+  {
+    "city": "Keşan",
+    "city_ascii": "Kesan",
+    "admin_name": "Edirne",
+    "lat": "40.8500",
+    "lng": "26.6333",
+    "id": "1792527854"
+  },
+  {
+    "city": "Muğla",
+    "city_ascii": "Mugla",
+    "admin_name": "Muğla",
+    "lat": "37.2167",
+    "lng": "28.3667",
+    "id": "1792992104"
+  },
+  {
+    "city": "Yıldız",
+    "city_ascii": "Yildiz",
+    "admin_name": "Bartın",
+    "lat": "41.6344",
+    "lng": "32.3375",
+    "id": "1792550105"
+  },
+  {
+    "city": "Gürgenpınarı",
+    "city_ascii": "Gurgenpinari",
+    "admin_name": "Bartın",
+    "lat": "41.6344",
+    "lng": "32.3375",
+    "id": "1792577199"
+  },
+  {
+    "city": "Uzungöz",
+    "city_ascii": "Uzungoz",
+    "admin_name": "Bartın",
+    "lat": "41.6344",
+    "lng": "32.3375",
+    "id": "1792001114"
+  },
+  {
+    "city": "Bartın",
+    "city_ascii": "Bartin",
+    "admin_name": "Bartın",
+    "lat": "41.6344",
+    "lng": "32.3375",
+    "id": "1792863603"
+  },
+  {
+    "city": "Orhangazi",
+    "city_ascii": "Orhangazi",
+    "admin_name": "Bursa",
+    "lat": "40.4889",
+    "lng": "29.3083",
+    "id": "1792174607"
+  },
+  {
+    "city": "Balçova",
+    "city_ascii": "Balcova",
+    "admin_name": "İzmir",
+    "lat": "38.3856",
+    "lng": "27.0581",
+    "id": "1792413694"
+  },
+  {
+    "city": "Doğubayazıt",
+    "city_ascii": "Dogubayazit",
+    "admin_name": "Ağrı",
+    "lat": "39.5472",
+    "lng": "44.0833",
+    "id": "1792572929"
+  },
+  {
+    "city": "Afşin",
+    "city_ascii": "Afsin",
+    "admin_name": "Kahramanmaraş",
+    "lat": "38.2464",
+    "lng": "36.9186",
+    "id": "1792739931"
+  },
+  {
+    "city": "Döşemealtı",
+    "city_ascii": "Dosemealti",
+    "admin_name": "Antalya",
+    "lat": "37.0236",
+    "lng": "30.6011",
+    "id": "1792168215"
+  },
+  {
+    "city": "Tatvan",
+    "city_ascii": "Tatvan",
+    "admin_name": "Bitlis",
+    "lat": "38.5022",
+    "lng": "42.2814",
+    "id": "1792530559"
+  },
+  {
+    "city": "Türkoğlu",
+    "city_ascii": "Turkoglu",
+    "admin_name": "Kahramanmaraş",
+    "lat": "37.3914",
+    "lng": "36.8522",
+    "id": "1792828944"
+  },
+  {
+    "city": "Beyşehir",
+    "city_ascii": "Beysehir",
+    "admin_name": "Konya",
+    "lat": "37.6764",
+    "lng": "31.7261",
+    "id": "1792946985"
+  },
+  {
+    "city": "Aksu",
+    "city_ascii": "Aksu",
+    "admin_name": "Antalya",
+    "lat": "36.9500",
+    "lng": "30.8500",
+    "id": "1792000876"
+  },
+  {
+    "city": "Çatalca",
+    "city_ascii": "Catalca",
+    "admin_name": "İstanbul",
+    "lat": "41.1417",
+    "lng": "28.4631",
+    "id": "1792373818"
+  },
+  {
+    "city": "Çınar",
+    "city_ascii": "Cinar",
+    "admin_name": "Diyarbakır",
+    "lat": "37.7242",
+    "lng": "40.4150",
+    "id": "1792038099"
+  },
+  {
+    "city": "Şırnak",
+    "city_ascii": "Sirnak",
+    "admin_name": "Şırnak",
+    "lat": "37.5200",
+    "lng": "42.4590",
+    "id": "1792867633"
+  },
+  {
+    "city": "Erbaa",
+    "city_ascii": "Erbaa",
+    "admin_name": "Tokat",
+    "lat": "40.6744",
+    "lng": "36.5681",
+    "id": "1792516897"
+  },
+  {
+    "city": "Gönen",
+    "city_ascii": "Gonen",
+    "admin_name": "Balıkesir",
+    "lat": "40.1014",
+    "lng": "27.6514",
+    "id": "1792788394"
+  },
+  {
+    "city": "Urla",
+    "city_ascii": "Urla",
+    "admin_name": "İzmir",
+    "lat": "38.3222",
+    "lng": "26.7647",
+    "id": "1792891509"
+  },
+  {
+    "city": "Bilecik",
+    "city_ascii": "Bilecik",
+    "admin_name": "Bilecik",
+    "lat": "40.1431",
+    "lng": "29.9792",
+    "id": "1792408667"
+  },
+  {
+    "city": "Ayvalık",
+    "city_ascii": "Ayvalik",
+    "admin_name": "Balıkesir",
+    "lat": "39.3167",
+    "lng": "26.6944",
+    "id": "1792417776"
+  },
+  {
+    "city": "Kumluca",
+    "city_ascii": "Kumluca",
+    "admin_name": "Antalya",
+    "lat": "36.3667",
+    "lng": "30.2833",
+    "id": "1792332777"
+  },
+  {
+    "city": "Tavşanlı",
+    "city_ascii": "Tavsanli",
+    "admin_name": "Kütahya",
+    "lat": "39.5333",
+    "lng": "29.4833",
+    "id": "1792642994"
+  },
+  {
+    "city": "Bozüyük",
+    "city_ascii": "Bozuyuk",
+    "admin_name": "Bilecik",
+    "lat": "39.9078",
+    "lng": "30.0367",
+    "id": "1792194878"
+  },
+  {
+    "city": "Terme",
+    "city_ascii": "Terme",
+    "admin_name": "Samsun",
+    "lat": "41.2092",
+    "lng": "36.9739",
+    "id": "1792046832"
+  },
+  {
+    "city": "Karasu",
+    "city_ascii": "Karasu",
+    "admin_name": "Sakarya",
+    "lat": "41.1036",
+    "lng": "30.6936",
+    "id": "1792318472"
+  },
+  {
+    "city": "Pazarcık",
+    "city_ascii": "Pazarcik",
+    "admin_name": "Kahramanmaraş",
+    "lat": "37.4894",
+    "lng": "37.2967",
+    "id": "1792266473"
+  },
+  {
+    "city": "Çumra",
+    "city_ascii": "Cumra",
+    "admin_name": "Konya",
+    "lat": "37.5750",
+    "lng": "32.7747",
+    "id": "1792642488"
+  },
+  {
+    "city": "İslahiye",
+    "city_ascii": "Islahiye",
+    "admin_name": "Gaziantep",
+    "lat": "37.0250",
+    "lng": "36.6345",
+    "id": "1792369096"
+  },
+  {
+    "city": "Develi",
+    "city_ascii": "Develi",
+    "admin_name": "Kayseri",
+    "lat": "38.3886",
+    "lng": "35.4925",
+    "id": "1792088923"
+  },
+  {
+    "city": "Anamur",
+    "city_ascii": "Anamur",
+    "admin_name": "Mersin",
+    "lat": "36.0243",
+    "lng": "32.8026",
+    "id": "1792088719"
+  },
+  {
+    "city": "Seydişehir",
+    "city_ascii": "Seydisehir",
+    "admin_name": "Konya",
+    "lat": "37.4183",
+    "lng": "31.8506",
+    "id": "1792010255"
+  },
+  {
+    "city": "Burhaniye",
+    "city_ascii": "Burhaniye",
+    "admin_name": "Balıkesir",
+    "lat": "39.5000",
+    "lng": "26.9500",
+    "id": "1792560053"
+  },
+  {
+    "city": "Narlıdere",
+    "city_ascii": "Narlidere",
+    "admin_name": "İzmir",
+    "lat": "38.3911",
+    "lng": "27.0028",
+    "id": "1792928828"
+  },
+  {
+    "city": "Mut",
+    "city_ascii": "Mut",
+    "admin_name": "Mersin",
+    "lat": "36.6458",
+    "lng": "33.4375",
+    "id": "1792759065"
+  },
+  {
+    "city": "Turhal",
+    "city_ascii": "Turhal",
+    "admin_name": "Tokat",
+    "lat": "40.3900",
+    "lng": "36.0900",
+    "id": "1792534249"
+  },
+  {
+    "city": "Derik",
+    "city_ascii": "Derik",
+    "admin_name": "Mardin",
+    "lat": "37.3658",
+    "lng": "40.2697",
+    "id": "1792566919"
+  },
+  {
+    "city": "Patnos",
+    "city_ascii": "Patnos",
+    "admin_name": "Ağrı",
+    "lat": "39.2358",
+    "lng": "42.8686",
+    "id": "1792386113"
+  },
+  {
+    "city": "Merzifon",
+    "city_ascii": "Merzifon",
+    "admin_name": "Amasya",
+    "lat": "40.8750",
+    "lng": "35.4633",
+    "id": "1792470511"
+  },
+  {
+    "city": "Seferhisar",
+    "city_ascii": "Seferhisar",
+    "admin_name": "İzmir",
+    "lat": "38.2000",
+    "lng": "26.8333",
+    "id": "1792680946"
+  },
+  {
+    "city": "Altınözü",
+    "city_ascii": "Altinozu",
+    "admin_name": "Hatay",
+    "lat": "36.1000",
+    "lng": "36.2300",
+    "id": "1792190808"
+  },
+  {
+    "city": "Çivril",
+    "city_ascii": "Civril",
+    "admin_name": "Denizli",
+    "lat": "38.3014",
+    "lng": "29.7386",
+    "id": "1792021395"
+  },
+  {
+    "city": "Özalp",
+    "city_ascii": "Ozalp",
+    "admin_name": "Van",
+    "lat": "38.6583",
+    "lng": "43.9894",
+    "id": "1792720068"
+  },
+  {
+    "city": "Karamürsel",
+    "city_ascii": "Karamursel",
+    "admin_name": "Kocaeli",
+    "lat": "40.6892",
+    "lng": "29.6150",
+    "id": "1792418544"
+  },
+  {
+    "city": "Uzunköprü",
+    "city_ascii": "Uzunkopru",
+    "admin_name": "Edirne",
+    "lat": "41.2667",
+    "lng": "26.6833",
+    "id": "1792592620"
+  },
+  {
+    "city": "Çaldıran",
+    "city_ascii": "Caldiran",
+    "admin_name": "Van",
+    "lat": "39.1419",
+    "lng": "43.9139",
+    "id": "1792259607"
+  },
+  {
+    "city": "Kaş",
+    "city_ascii": "Kas",
+    "admin_name": "Antalya",
+    "lat": "36.2020",
+    "lng": "29.6380",
+    "id": "1792585060"
+  },
+  {
+    "city": "Hakkari",
+    "city_ascii": "Hakkari",
+    "admin_name": "Hakkâri",
+    "lat": "37.5770",
+    "lng": "43.7390",
+    "id": "1792629133"
+  },
+  {
+    "city": "Sinop",
+    "city_ascii": "Sinop",
+    "admin_name": "Sinop",
+    "lat": "42.0267",
+    "lng": "35.1511",
+    "id": "1792497865"
+  },
+  {
+    "city": "Biga",
+    "city_ascii": "Biga",
+    "admin_name": "Çanakkale",
+    "lat": "40.2281",
+    "lng": "27.2422",
+    "id": "1792033601"
+  },
+  {
+    "city": "Devrek",
+    "city_ascii": "Devrek",
+    "admin_name": "Zonguldak",
+    "lat": "41.2333",
+    "lng": "31.9667",
+    "id": "1792193267"
+  },
+  {
+    "city": "Düziçi",
+    "city_ascii": "Duzici",
+    "admin_name": "Osmaniye",
+    "lat": "37.2431",
+    "lng": "36.4567",
+    "id": "1792790868"
+  },
+  {
+    "city": "Hassa",
+    "city_ascii": "Hassa",
+    "admin_name": "Hatay",
+    "lat": "36.7994",
+    "lng": "36.5178",
+    "id": "1792468657"
+  },
+  {
+    "city": "Saruhanlı",
+    "city_ascii": "Saruhanli",
+    "admin_name": "Manisa",
+    "lat": "38.7342",
+    "lng": "27.5658",
+    "id": "1792520921"
+  },
+  {
+    "city": "Tekkeköy",
+    "city_ascii": "Tekkekoy",
+    "admin_name": "Samsun",
+    "lat": "41.2125",
+    "lng": "36.4569",
+    "id": "1792843617"
+  },
+  {
+    "city": "Korkuteli",
+    "city_ascii": "Korkuteli",
+    "admin_name": "Antalya",
+    "lat": "37.0667",
+    "lng": "30.2000",
+    "id": "1792912093"
+  },
+  {
+    "city": "İncirliova",
+    "city_ascii": "Incirliova",
+    "admin_name": "Aydın",
+    "lat": "37.8547",
+    "lng": "27.7236",
+    "id": "1792559579"
+  },
+  {
+    "city": "Sorgun",
+    "city_ascii": "Sorgun",
+    "admin_name": "Yozgat",
+    "lat": "39.8144",
+    "lng": "35.1903",
+    "id": "1792669012"
+  },
+  {
+    "city": "Acıpayam",
+    "city_ascii": "Acipayam",
+    "admin_name": "Denizli",
+    "lat": "37.4250",
+    "lng": "29.3539",
+    "id": "1792192202"
+  },
+  {
+    "city": "Yenişehir",
+    "city_ascii": "Yenisehir",
+    "admin_name": "Bursa",
+    "lat": "40.2644",
+    "lng": "29.6531",
+    "id": "1792476611"
+  },
+  {
+    "city": "Ortaca",
+    "city_ascii": "Ortaca",
+    "admin_name": "Muğla",
+    "lat": "36.8389",
+    "lng": "28.7644",
+    "id": "1792243194"
+  },
+  {
+    "city": "Kızılpınar",
+    "city_ascii": "Kizilpinar",
+    "admin_name": "Tekirdağ",
+    "lat": "41.2667",
+    "lng": "27.9667",
+    "id": "1792011924"
+  },
+  {
+    "city": "Gazipaşa",
+    "city_ascii": "Gazipasa",
+    "admin_name": "Antalya",
+    "lat": "36.2728",
+    "lng": "32.3131",
+    "id": "1792134474"
+  },
+  {
+    "city": "Ilgın",
+    "city_ascii": "Ilgin",
+    "admin_name": "Konya",
+    "lat": "38.2792",
+    "lng": "31.9139",
+    "id": "1792118486"
+  },
+  {
+    "city": "Dilovası",
+    "city_ascii": "Dilovasi",
+    "admin_name": "Kocaeli",
+    "lat": "40.7797",
+    "lng": "29.5350",
+    "id": "1792437556"
+  },
+  {
+    "city": "Mahmutlar",
+    "city_ascii": "Mahmutlar",
+    "admin_name": "Antalya",
+    "lat": "36.4928",
+    "lng": "32.0992",
+    "id": "1792563245"
+  },
+  {
+    "city": "Mahmutlar",
+    "city_ascii": "Mahmutlar",
+    "admin_name": "Kırıkkale",
+    "lat": "36.4928",
+    "lng": "32.0992",
+    "id": "1792717273"
+  },
+  {
+    "city": "Bitlis",
+    "city_ascii": "Bitlis",
+    "admin_name": "Bitlis",
+    "lat": "38.4000",
+    "lng": "42.1083",
+    "id": "1792490436"
+  },
+  {
+    "city": "Safranbolu",
+    "city_ascii": "Safranbolu",
+    "admin_name": "Karabük",
+    "lat": "41.2494",
+    "lng": "32.6833",
+    "id": "1792577916"
+  },
+  {
+    "city": "Kandıra",
+    "city_ascii": "Kandira",
+    "admin_name": "Kocaeli",
+    "lat": "41.0722",
+    "lng": "30.1611",
+    "id": "1792156686"
+  },
+  {
+    "city": "Bozova",
+    "city_ascii": "Bozova",
+    "admin_name": "Şanlıurfa",
+    "lat": "37.3628",
+    "lng": "38.5256",
+    "id": "1792842748"
+  },
+  {
+    "city": "Kulu",
+    "city_ascii": "Kulu",
+    "admin_name": "Konya",
+    "lat": "39.0892",
+    "lng": "33.0806",
+    "id": "1792739957"
+  },
+  {
+    "city": "Malkara",
+    "city_ascii": "Malkara",
+    "admin_name": "Tekirdağ",
+    "lat": "40.8933",
+    "lng": "26.9042",
+    "id": "1792489159"
+  },
+  {
+    "city": "Çiftlikköy",
+    "city_ascii": "Ciftlikkoy",
+    "admin_name": "Yalova",
+    "lat": "40.6500",
+    "lng": "29.3333",
+    "id": "1792919002"
+  },
+  {
+    "city": "Geyve",
+    "city_ascii": "Geyve",
+    "admin_name": "Sakarya",
+    "lat": "40.5089",
+    "lng": "30.2900",
+    "id": "1792455082"
+  },
+  {
+    "city": "Saray",
+    "city_ascii": "Saray",
+    "admin_name": "Tekirdağ",
+    "lat": "41.4411",
+    "lng": "27.9216",
+    "id": "1792499882"
+  },
+  {
+    "city": "Cihanbeyli",
+    "city_ascii": "Cihanbeyli",
+    "admin_name": "Konya",
+    "lat": "38.6581",
+    "lng": "32.9281",
+    "id": "1792274655"
+  },
+  {
+    "city": "Göksun",
+    "city_ascii": "Goksun",
+    "admin_name": "Kahramanmaraş",
+    "lat": "38.0211",
+    "lng": "36.4917",
+    "id": "1792304528"
+  },
+  {
+    "city": "Karapınar",
+    "city_ascii": "Karapinar",
+    "admin_name": "Konya",
+    "lat": "37.7147",
+    "lng": "33.5508",
+    "id": "1792985511"
+  },
+  {
+    "city": "Finike",
+    "city_ascii": "Finike",
+    "admin_name": "Antalya",
+    "lat": "36.3000",
+    "lng": "30.1500",
+    "id": "1792503494"
+  },
+  {
+    "city": "Çermik",
+    "city_ascii": "Cermik",
+    "admin_name": "Diyarbakır",
+    "lat": "38.1372",
+    "lng": "39.4511",
+    "id": "1792975687"
+  },
+  {
+    "city": "Kemer",
+    "city_ascii": "Kemer",
+    "admin_name": "Antalya",
+    "lat": "36.6000",
+    "lng": "30.5500",
+    "id": "1792680664"
+  },
+  {
+    "city": "Arifiye",
+    "city_ascii": "Arifiye",
+    "admin_name": "Sakarya",
+    "lat": "40.7167",
+    "lng": "30.3667",
+    "id": "1792777614"
+  },
+  {
+    "city": "Bulancak",
+    "city_ascii": "Bulancak",
+    "admin_name": "Giresun",
+    "lat": "40.9333",
+    "lng": "38.2333",
+    "id": "1792627106"
+  },
+  {
+    "city": "Çeşme",
+    "city_ascii": "Cesme",
+    "admin_name": "İzmir",
+    "lat": "38.3236",
+    "lng": "26.3028",
+    "id": "1792570179"
+  },
+  {
+    "city": "Bigadiç",
+    "city_ascii": "Bigadic",
+    "admin_name": "Balıkesir",
+    "lat": "39.3925",
+    "lng": "28.1311",
+    "id": "1792014763"
+  },
+  {
+    "city": "Araklı",
+    "city_ascii": "Arakli",
+    "admin_name": "Trabzon",
+    "lat": "40.9333",
+    "lng": "40.0500",
+    "id": "1792527664"
+  },
+  {
+    "city": "Çine",
+    "city_ascii": "Cine",
+    "admin_name": "Aydın",
+    "lat": "37.6117",
+    "lng": "28.0614",
+    "id": "1792704381"
+  },
+  {
+    "city": "Beypazarı",
+    "city_ascii": "Beypazari",
+    "admin_name": "Ankara",
+    "lat": "40.1703",
+    "lng": "31.9211",
+    "id": "1792374799"
+  },
+  {
+    "city": "Bayburt",
+    "city_ascii": "Bayburt",
+    "admin_name": "Bayburt",
+    "lat": "40.2597",
+    "lng": "40.2278",
+    "id": "1792400872"
+  },
+  {
+    "city": "Dalaman",
+    "city_ascii": "Dalaman",
+    "admin_name": "Muğla",
+    "lat": "36.7667",
+    "lng": "28.8000",
+    "id": "1792391707"
+  },
+  {
+    "city": "Dikili",
+    "city_ascii": "Dikili",
+    "admin_name": "İzmir",
+    "lat": "39.0667",
+    "lng": "26.8833",
+    "id": "1792392506"
+  },
+  {
+    "city": "Yomra",
+    "city_ascii": "Yomra",
+    "admin_name": "Trabzon",
+    "lat": "40.9589",
+    "lng": "39.8469",
+    "id": "1792187318"
+  },
+  {
+    "city": "Sapanca",
+    "city_ascii": "Sapanca",
+    "admin_name": "Sakarya",
+    "lat": "40.6906",
+    "lng": "30.2703",
+    "id": "1792932736"
+  },
+  {
+    "city": "Bucak",
+    "city_ascii": "Bucak",
+    "admin_name": "Burdur",
+    "lat": "37.4592",
+    "lng": "30.5953",
+    "id": "1792073114"
+  },
+  {
+    "city": "Muradiye",
+    "city_ascii": "Muradiye",
+    "admin_name": "Van",
+    "lat": "38.9947",
+    "lng": "43.7681",
+    "id": "1792520780"
+  },
+  {
+    "city": "Yatağan",
+    "city_ascii": "Yatagan",
+    "admin_name": "Muğla",
+    "lat": "37.3425",
+    "lng": "28.1394",
+    "id": "1792053956"
+  },
+  {
+    "city": "Elmadağ",
+    "city_ascii": "Elmadag",
+    "admin_name": "Ankara",
+    "lat": "39.9208",
+    "lng": "33.2308",
+    "id": "1792523509"
+  },
+  {
+    "city": "İznik",
+    "city_ascii": "Iznik",
+    "admin_name": "Bursa",
+    "lat": "40.4292",
+    "lng": "29.7211",
+    "id": "1792304070"
+  },
+  {
+    "city": "Germencik",
+    "city_ascii": "Germencik",
+    "admin_name": "Aydın",
+    "lat": "37.8697",
+    "lng": "27.6058",
+    "id": "1792982998"
+  },
+  {
+    "city": "Başkale",
+    "city_ascii": "Baskale",
+    "admin_name": "Van",
+    "lat": "38.0475",
+    "lng": "44.0150",
+    "id": "1792787410"
+  },
+  {
+    "city": "Yakacık",
+    "city_ascii": "Yakacik",
+    "admin_name": "Hatay",
+    "lat": "36.7500",
+    "lng": "36.2167",
+    "id": "1792903398"
+  },
+  {
+    "city": "Of",
+    "city_ascii": "Of",
+    "admin_name": "Trabzon",
+    "lat": "40.9450",
+    "lng": "40.2644",
+    "id": "1792121137"
+  },
+  {
+    "city": "Kiraz",
+    "city_ascii": "Kiraz",
+    "admin_name": "İzmir",
+    "lat": "38.2306",
+    "lng": "28.2044",
+    "id": "1792217299"
+  },
+  {
+    "city": "Şile",
+    "city_ascii": "Sile",
+    "admin_name": "İstanbul",
+    "lat": "41.1764",
+    "lng": "29.6128",
+    "id": "1792880825"
+  },
+  {
+    "city": "Kula",
+    "city_ascii": "Kula",
+    "admin_name": "Manisa",
+    "lat": "38.5458",
+    "lng": "28.6494",
+    "id": "1792157616"
+  },
+  {
+    "city": "Kozlu",
+    "city_ascii": "Kozlu",
+    "admin_name": "Zonguldak",
+    "lat": "41.4333",
+    "lng": "31.7500",
+    "id": "1792656929"
+  },
+  {
+    "city": "Hilvan",
+    "city_ascii": "Hilvan",
+    "admin_name": "Şanlıurfa",
+    "lat": "37.5886",
+    "lng": "38.9556",
+    "id": "1792658619"
+  },
+  {
+    "city": "Bor",
+    "city_ascii": "Bor",
+    "admin_name": "Niğde",
+    "lat": "37.8964",
+    "lng": "34.5628",
+    "id": "1792531194"
+  },
+  {
+    "city": "Tavas",
+    "city_ascii": "Tavas",
+    "admin_name": "Denizli",
+    "lat": "37.5728",
+    "lng": "29.0714",
+    "id": "1792649925"
+  },
+  {
+    "city": "Halfeti",
+    "city_ascii": "Halfeti",
+    "admin_name": "Şanlıurfa",
+    "lat": "37.2289",
+    "lng": "37.9457",
+    "id": "1792654742"
+  },
+  {
+    "city": "Erzin",
+    "city_ascii": "Erzin",
+    "admin_name": "Hatay",
+    "lat": "36.9533",
+    "lng": "36.2033",
+    "id": "1792613172"
+  },
+  {
+    "city": "Nurdağı",
+    "city_ascii": "Nurdagi",
+    "admin_name": "Gaziantep",
+    "lat": "37.1789",
+    "lng": "36.7397",
+    "id": "1792539353"
+  },
+  {
+    "city": "Elmalı",
+    "city_ascii": "Elmali",
+    "admin_name": "Antalya",
+    "lat": "36.7333",
+    "lng": "29.9000",
+    "id": "1792211463"
+  },
+  {
+    "city": "Akyurt",
+    "city_ascii": "Akyurt",
+    "admin_name": "Ankara",
+    "lat": "40.1333",
+    "lng": "33.0833",
+    "id": "1792155974"
+  },
+  {
+    "city": "Evren",
+    "city_ascii": "Evren",
+    "admin_name": "Ankara",
+    "lat": "39.0167",
+    "lng": "33.8000",
+    "id": "1792103920"
+  },
+  {
+    "city": "Hıdırbey",
+    "city_ascii": "Hidirbey",
+    "admin_name": "Hatay",
+    "lat": "36.2030",
+    "lng": "36.1290",
+    "id": "1792651564"
+  },
+  {
+    "city": "Bayındır",
+    "city_ascii": "Bayindir",
+    "admin_name": "İzmir",
+    "lat": "38.2192",
+    "lng": "27.6481",
+    "id": "1792970598"
+  },
+  {
+    "city": "Suluova",
+    "city_ascii": "Suluova",
+    "admin_name": "Amasya",
+    "lat": "40.8333",
+    "lng": "35.6500",
+    "id": "1792191874"
+  },
+  {
+    "city": "Köyceğiz",
+    "city_ascii": "Koycegiz",
+    "admin_name": "Muğla",
+    "lat": "36.9714",
+    "lng": "28.6889",
+    "id": "1792065390"
+  },
+  {
+    "city": "Gümüşhane",
+    "city_ascii": "Gumushane",
+    "admin_name": "Gümüşhane",
+    "lat": "40.4597",
+    "lng": "39.4778",
+    "id": "1792559945"
+  },
+  {
+    "city": "Çınarcık",
+    "city_ascii": "Cinarcik",
+    "admin_name": "Yalova",
+    "lat": "40.6333",
+    "lng": "29.1167",
+    "id": "1792016755"
+  },
+  {
+    "city": "Havza",
+    "city_ascii": "Havza",
+    "admin_name": "Samsun",
+    "lat": "40.9667",
+    "lng": "35.6667",
+    "id": "1792980537"
+  },
+  {
+    "city": "Selçuk",
+    "city_ascii": "Selcuk",
+    "admin_name": "İzmir",
+    "lat": "37.9500",
+    "lng": "27.3667",
+    "id": "1792359915"
+  },
+  {
+    "city": "Güzelbahçe",
+    "city_ascii": "Guzelbahce",
+    "admin_name": "İzmir",
+    "lat": "38.3356",
+    "lng": "26.8911",
+    "id": "1792765866"
+  },
+  {
+    "city": "Susurluk",
+    "city_ascii": "Susurluk",
+    "admin_name": "Balıkesir",
+    "lat": "39.9139",
+    "lng": "28.1603",
+    "id": "1792726063"
+  },
+  {
+    "city": "Doğanşehir",
+    "city_ascii": "Dogansehir",
+    "admin_name": "Malatya",
+    "lat": "38.0958",
+    "lng": "37.8792",
+    "id": "1792000270"
+  },
+  {
+    "city": "Kırkağaç",
+    "city_ascii": "Kirkagac",
+    "admin_name": "Manisa",
+    "lat": "39.1056",
+    "lng": "27.6733",
+    "id": "1792580975"
+  },
+  {
+    "city": "Besni",
+    "city_ascii": "Besni",
+    "admin_name": "Adıyaman",
+    "lat": "37.6942",
+    "lng": "37.8614",
+    "id": "1792891287"
+  },
+  {
+    "city": "Niksar",
+    "city_ascii": "Niksar",
+    "admin_name": "Tokat",
+    "lat": "40.5917",
+    "lng": "36.9517",
+    "id": "1792863464"
+  },
+  {
+    "city": "Yayladağı",
+    "city_ascii": "Yayladagi",
+    "admin_name": "Hatay",
+    "lat": "35.9025",
+    "lng": "36.0606",
+    "id": "1792355233"
+  },
+  {
+    "city": "Demirci",
+    "city_ascii": "Demirci",
+    "admin_name": "Manisa",
+    "lat": "39.0450",
+    "lng": "28.6581",
+    "id": "1792487929"
+  },
+  {
+    "city": "Horasan",
+    "city_ascii": "Horasan",
+    "admin_name": "Erzurum",
+    "lat": "40.0397",
+    "lng": "42.1711",
+    "id": "1792809788"
+  },
+  {
+    "city": "Mazıdağı",
+    "city_ascii": "Mazidagi",
+    "admin_name": "Mardin",
+    "lat": "37.4792",
+    "lng": "40.4864",
+    "id": "1792121043"
+  },
+  {
+    "city": "Kurtalan",
+    "city_ascii": "Kurtalan",
+    "admin_name": "Siirt",
+    "lat": "37.9261",
+    "lng": "41.7003",
+    "id": "1792384710"
+  },
+  {
+    "city": "Dicle",
+    "city_ascii": "Dicle",
+    "admin_name": "Diyarbakır",
+    "lat": "38.3750",
+    "lng": "40.0733",
+    "id": "1792095932"
+  },
+  {
+    "city": "Görükle",
+    "city_ascii": "Gorukle",
+    "admin_name": "Bursa",
+    "lat": "40.2333",
+    "lng": "28.8333",
+    "id": "1792976863"
+  },
+  {
+    "city": "Sarıgöl",
+    "city_ascii": "Sarigol",
+    "admin_name": "Manisa",
+    "lat": "38.2381",
+    "lng": "28.6961",
+    "id": "1792940712"
+  },
+  {
+    "city": "Yahyalı",
+    "city_ascii": "Yahyali",
+    "admin_name": "Kayseri",
+    "lat": "38.1000",
+    "lng": "35.3608",
+    "id": "1792969584"
+  },
+  {
+    "city": "Hamidiye",
+    "city_ascii": "Hamidiye",
+    "admin_name": "Çanakkale",
+    "lat": "40.0997",
+    "lng": "26.3967",
+    "id": "1792326639"
+  },
+  {
+    "city": "Banaz",
+    "city_ascii": "Banaz",
+    "admin_name": "Uşak",
+    "lat": "38.7333",
+    "lng": "29.7500",
+    "id": "1792411962"
+  },
+  {
+    "city": "Aktuluk",
+    "city_ascii": "Aktuluk",
+    "admin_name": "Tunceli",
+    "lat": "39.1064",
+    "lng": "39.5472",
+    "id": "1792981211"
+  },
+  {
+    "city": "Tunceli",
+    "city_ascii": "Tunceli",
+    "admin_name": "Tunceli",
+    "lat": "39.1064",
+    "lng": "39.5472",
+    "id": "1792507574"
+  },
+  {
+    "city": "Foça",
+    "city_ascii": "Foca",
+    "admin_name": "İzmir",
+    "lat": "38.6667",
+    "lng": "26.7667",
+    "id": "1792410342"
+  },
+  {
+    "city": "Belen",
+    "city_ascii": "Belen",
+    "admin_name": "Hatay",
+    "lat": "36.4889",
+    "lng": "36.1944",
+    "id": "1792296962"
+  },
+  {
+    "city": "Kulp",
+    "city_ascii": "Kulp",
+    "admin_name": "Diyarbakır",
+    "lat": "38.6642",
+    "lng": "41.0067",
+    "id": "1792693843"
+  },
+  {
+    "city": "Honaz",
+    "city_ascii": "Honaz",
+    "admin_name": "Denizli",
+    "lat": "37.7578",
+    "lng": "29.2642",
+    "id": "1792457623"
+  },
+  {
+    "city": "Karaağaç",
+    "city_ascii": "Karaagac",
+    "admin_name": "Hatay",
+    "lat": "36.5667",
+    "lng": "36.1333",
+    "id": "1792377763"
+  },
+  {
+    "city": "Zile",
+    "city_ascii": "Zile",
+    "admin_name": "Tokat",
+    "lat": "40.3000",
+    "lng": "35.8833",
+    "id": "1792365916"
+  },
+  {
+    "city": "Şarköy",
+    "city_ascii": "Sarkoy",
+    "admin_name": "Tekirdağ",
+    "lat": "40.6039",
+    "lng": "27.1064",
+    "id": "1792319237"
+  },
+  {
+    "city": "Bolvadin",
+    "city_ascii": "Bolvadin",
+    "admin_name": "Afyonkarahisar",
+    "lat": "38.7167",
+    "lng": "31.0500",
+    "id": "1792646513"
+  },
+  {
+    "city": "Çukurçayır",
+    "city_ascii": "Cukurcayir",
+    "admin_name": "Trabzon",
+    "lat": "40.9867",
+    "lng": "39.7297",
+    "id": "1792087302"
+  },
+  {
+    "city": "Oğuzeli",
+    "city_ascii": "Oguzeli",
+    "admin_name": "Gaziantep",
+    "lat": "36.9650",
+    "lng": "37.5092",
+    "id": "1792753596"
+  },
+  {
+    "city": "Gölbaşı",
+    "city_ascii": "Golbasi",
+    "admin_name": "Adıyaman",
+    "lat": "37.7839",
+    "lng": "37.6444",
+    "id": "1792595244"
+  },
+  {
+    "city": "Dursunbey",
+    "city_ascii": "Dursunbey",
+    "admin_name": "Balıkesir",
+    "lat": "39.5878",
+    "lng": "28.6275",
+    "id": "1792877814"
+  },
+  {
+    "city": "Şereflikoçhisar",
+    "city_ascii": "Sereflikochisar",
+    "admin_name": "Ankara",
+    "lat": "38.9444",
+    "lng": "33.5419",
+    "id": "1792505999"
+  },
+  {
+    "city": "Araban",
+    "city_ascii": "Araban",
+    "admin_name": "Gaziantep",
+    "lat": "37.4247",
+    "lng": "37.6928",
+    "id": "1792472790"
+  },
+  {
+    "city": "Bozdoğan",
+    "city_ascii": "Bozdogan",
+    "admin_name": "Aydın",
+    "lat": "37.6728",
+    "lng": "28.3103",
+    "id": "1792268434"
+  },
+  {
+    "city": "Hani",
+    "city_ascii": "Hani",
+    "admin_name": "Diyarbakır",
+    "lat": "38.4136",
+    "lng": "40.3925",
+    "id": "1792860616"
+  },
+  {
+    "city": "Sındırgı",
+    "city_ascii": "Sindirgi",
+    "admin_name": "Balıkesir",
+    "lat": "39.2400",
+    "lng": "28.1750",
+    "id": "1792952422"
+  },
+  {
+    "city": "Ezine",
+    "city_ascii": "Ezine",
+    "admin_name": "Çanakkale",
+    "lat": "39.7900",
+    "lng": "26.3325",
+    "id": "1792825630"
+  },
+  {
+    "city": "Erdek",
+    "city_ascii": "Erdek",
+    "admin_name": "Balıkesir",
+    "lat": "40.3986",
+    "lng": "27.7931",
+    "id": "1792464576"
+  },
+  {
+    "city": "Gürpınar",
+    "city_ascii": "Gurpinar",
+    "admin_name": "Van",
+    "lat": "38.3269",
+    "lng": "43.4133",
+    "id": "1792954694"
+  },
+  {
+    "city": "Gallipoli",
+    "city_ascii": "Gallipoli",
+    "admin_name": "Çanakkale",
+    "lat": "40.4139",
+    "lng": "26.6703",
+    "id": "1792594888"
+  },
+  {
+    "city": "Bostaniçi",
+    "city_ascii": "Bostanici",
+    "admin_name": "Van",
+    "lat": "38.5072",
+    "lng": "43.4356",
+    "id": "1792743452"
+  },
+  {
+    "city": "İvrindi",
+    "city_ascii": "Ivrindi",
+    "admin_name": "Balıkesir",
+    "lat": "39.5833",
+    "lng": "27.4833",
+    "id": "1792309395"
+  },
+  {
+    "city": "Andırın",
+    "city_ascii": "Andirin",
+    "admin_name": "Kahramanmaraş",
+    "lat": "37.5764",
+    "lng": "36.3506",
+    "id": "1792314196"
+  },
+  {
+    "city": "Kadınhanı",
+    "city_ascii": "Kadinhani",
+    "admin_name": "Konya",
+    "lat": "38.2397",
+    "lng": "32.2114",
+    "id": "1792310502"
+  },
+  {
+    "city": "Yahşihan",
+    "city_ascii": "Yahsihan",
+    "admin_name": "Kırıkkale",
+    "lat": "39.8503",
+    "lng": "33.4536",
+    "id": "1792504360"
+  },
+  {
+    "city": "Çan",
+    "city_ascii": "Can",
+    "admin_name": "Çanakkale",
+    "lat": "40.0275",
+    "lng": "27.0475",
+    "id": "1792440839"
+  },
+  {
+    "city": "Arsin",
+    "city_ascii": "Arsin",
+    "admin_name": "Trabzon",
+    "lat": "40.9500",
+    "lng": "39.9333",
+    "id": "1792115072"
+  },
+  {
+    "city": "Sarayköy",
+    "city_ascii": "Saraykoy",
+    "admin_name": "Denizli",
+    "lat": "37.9264",
+    "lng": "28.9267",
+    "id": "1792181527"
+  },
+  {
+    "city": "Ferizli",
+    "city_ascii": "Ferizli",
+    "admin_name": "Sakarya",
+    "lat": "40.9333",
+    "lng": "30.4833",
+    "id": "1792234493"
+  },
+  {
+    "city": "Ardeşen",
+    "city_ascii": "Ardesen",
+    "admin_name": "Rize",
+    "lat": "41.1900",
+    "lng": "40.9831",
+    "id": "1792160424"
+  },
+  {
+    "city": "Osmancık",
+    "city_ascii": "Osmancik",
+    "admin_name": "Çorum",
+    "lat": "40.9667",
+    "lng": "34.8000",
+    "id": "1792022058"
+  },
+  {
+    "city": "Hayrabolu",
+    "city_ascii": "Hayrabolu",
+    "admin_name": "Tekirdağ",
+    "lat": "41.2131",
+    "lng": "27.1000",
+    "id": "1792052486"
+  },
+  {
+    "city": "Pamukova",
+    "city_ascii": "Pamukova",
+    "admin_name": "Sakarya",
+    "lat": "40.5167",
+    "lng": "30.1667",
+    "id": "1792050749"
+  },
+  {
+    "city": "Sungurlu",
+    "city_ascii": "Sungurlu",
+    "admin_name": "Çorum",
+    "lat": "40.1610",
+    "lng": "34.3770",
+    "id": "1792574243"
+  },
+  {
+    "city": "İdil",
+    "city_ascii": "Idil",
+    "admin_name": "Şırnak",
+    "lat": "37.3410",
+    "lng": "41.8940",
+    "id": "1792618230"
+  },
+  {
+    "city": "Çaycuma",
+    "city_ascii": "Caycuma",
+    "admin_name": "Zonguldak",
+    "lat": "41.4267",
+    "lng": "32.0758",
+    "id": "1792376720"
+  },
+  {
+    "city": "Perşembe",
+    "city_ascii": "Persembe",
+    "admin_name": "Ordu",
+    "lat": "41.0656",
+    "lng": "37.7714",
+    "id": "1792543078"
+  },
+  {
+    "city": "Oltu",
+    "city_ascii": "Oltu",
+    "admin_name": "Erzurum",
+    "lat": "40.5456",
+    "lng": "41.9958",
+    "id": "1792436076"
+  },
+  {
+    "city": "Muratlı",
+    "city_ascii": "Muratli",
+    "admin_name": "Tekirdağ",
+    "lat": "41.1742",
+    "lng": "27.5086",
+    "id": "1792533953"
+  },
+  {
+    "city": "Bünyan",
+    "city_ascii": "Bunyan",
+    "admin_name": "Kayseri",
+    "lat": "38.8486",
+    "lng": "35.8592",
+    "id": "1792359826"
+  },
+  {
+    "city": "Marmara Ereğlisi",
+    "city_ascii": "Marmara Ereglisi",
+    "admin_name": "Tekirdağ",
+    "lat": "40.9697",
+    "lng": "27.9553",
+    "id": "1792522233"
+  },
+  {
+    "city": "Babaeski",
+    "city_ascii": "Babaeski",
+    "admin_name": "Kırklareli",
+    "lat": "41.4325",
+    "lng": "27.0931",
+    "id": "1792082896"
+  },
+  {
+    "city": "İncesu",
+    "city_ascii": "Incesu",
+    "admin_name": "Kayseri",
+    "lat": "38.6222",
+    "lng": "35.1847",
+    "id": "1792170018"
+  },
+  {
+    "city": "Boyabat",
+    "city_ascii": "Boyabat",
+    "admin_name": "Sinop",
+    "lat": "41.4653",
+    "lng": "34.7708",
+    "id": "1792072042"
+  },
+  {
+    "city": "Tosya",
+    "city_ascii": "Tosya",
+    "admin_name": "Kastamonu",
+    "lat": "41.0172",
+    "lng": "34.0383",
+    "id": "1792502805"
+  },
+  {
+    "city": "Kınık",
+    "city_ascii": "Kinik",
+    "admin_name": "İzmir",
+    "lat": "39.0939",
+    "lng": "27.3767",
+    "id": "1792776515"
+  },
+  {
+    "city": "Kumru",
+    "city_ascii": "Kumru",
+    "admin_name": "Ordu",
+    "lat": "40.8744",
+    "lng": "37.2639",
+    "id": "1792891038"
+  },
+  {
+    "city": "Köşk",
+    "city_ascii": "Kosk",
+    "admin_name": "Aydın",
+    "lat": "37.8533",
+    "lng": "28.0517",
+    "id": "1792784214"
+  },
+  {
+    "city": "Havran",
+    "city_ascii": "Havran",
+    "admin_name": "Balıkesir",
+    "lat": "39.5583",
+    "lng": "27.0983",
+    "id": "1792883078"
+  },
+  {
+    "city": "Gülnar",
+    "city_ascii": "Gulnar",
+    "admin_name": "Mersin",
+    "lat": "36.3389",
+    "lng": "33.3986",
+    "id": "1792678610"
+  },
+  {
+    "city": "Akçakoca",
+    "city_ascii": "Akcakoca",
+    "admin_name": "Düzce",
+    "lat": "41.0878",
+    "lng": "31.1244",
+    "id": "1792736613"
+  },
+  {
+    "city": "Akçadağ",
+    "city_ascii": "Akcadag",
+    "admin_name": "Malatya",
+    "lat": "38.3450",
+    "lng": "37.9686",
+    "id": "1792886616"
+  },
+  {
+    "city": "Kozluk",
+    "city_ascii": "Kozluk",
+    "admin_name": "Batman",
+    "lat": "38.1944",
+    "lng": "41.4911",
+    "id": "1792509022"
+  },
+  {
+    "city": "Sarayönü",
+    "city_ascii": "Sarayonu",
+    "admin_name": "Konya",
+    "lat": "38.2661",
+    "lng": "32.4064",
+    "id": "1792347742"
+  },
+  {
+    "city": "Demre",
+    "city_ascii": "Demre",
+    "admin_name": "Antalya",
+    "lat": "36.2472",
+    "lng": "29.9828",
+    "id": "1792936795"
+  },
+  {
+    "city": "Ahlat",
+    "city_ascii": "Ahlat",
+    "admin_name": "Bitlis",
+    "lat": "38.7528",
+    "lng": "42.4944",
+    "id": "1792335913"
+  },
+  {
+    "city": "Bulanık",
+    "city_ascii": "Bulanik",
+    "admin_name": "Muş",
+    "lat": "39.0950",
+    "lng": "42.2667",
+    "id": "1792108880"
+  },
+  {
+    "city": "Korgan",
+    "city_ascii": "Korgan",
+    "admin_name": "Ordu",
+    "lat": "40.8247",
+    "lng": "37.3467",
+    "id": "1792205809"
+  },
+  {
+    "city": "Dargeçit",
+    "city_ascii": "Dargecit",
+    "admin_name": "Mardin",
+    "lat": "37.5440",
+    "lng": "41.7200",
+    "id": "1792947093"
+  },
+  {
+    "city": "Yerköy",
+    "city_ascii": "Yerkoy",
+    "admin_name": "Yozgat",
+    "lat": "39.6381",
+    "lng": "34.4672",
+    "id": "1792072941"
+  },
+  {
+    "city": "Vakfıkebir",
+    "city_ascii": "Vakfikebir",
+    "admin_name": "Trabzon",
+    "lat": "41.0475",
+    "lng": "39.2797",
+    "id": "1792101092"
+  },
+  {
+    "city": "Harbiye",
+    "city_ascii": "Harbiye",
+    "admin_name": "Hatay",
+    "lat": "36.1450",
+    "lng": "36.1411",
+    "id": "1792958920"
+  },
+  {
+    "city": "Pasinler",
+    "city_ascii": "Pasinler",
+    "admin_name": "Erzurum",
+    "lat": "39.9797",
+    "lng": "41.6756",
+    "id": "1792867523"
+  },
+  {
+    "city": "İmamoğlu",
+    "city_ascii": "Imamoglu",
+    "admin_name": "Adana",
+    "lat": "37.2589",
+    "lng": "35.6728",
+    "id": "1792783498"
+  },
+  {
+    "city": "Ondokuzmayıs",
+    "city_ascii": "Ondokuzmayis",
+    "admin_name": "Samsun",
+    "lat": "41.4944",
+    "lng": "36.0789",
+    "id": "1792287985"
+  },
+  {
+    "city": "Gevaş",
+    "city_ascii": "Gevas",
+    "admin_name": "Van",
+    "lat": "38.2978",
+    "lng": "43.1056",
+    "id": "1792623763"
+  },
+  {
+    "city": "Kızılcahamam",
+    "city_ascii": "Kizilcahamam",
+    "admin_name": "Ankara",
+    "lat": "40.4697",
+    "lng": "32.6506",
+    "id": "1792787630"
+  },
+  {
+    "city": "Simav",
+    "city_ascii": "Simav",
+    "admin_name": "Kütahya",
+    "lat": "39.0833",
+    "lng": "28.9833",
+    "id": "1792011375"
+  },
+  {
+    "city": "Bozyazı",
+    "city_ascii": "Bozyazi",
+    "admin_name": "Mersin",
+    "lat": "36.1000",
+    "lng": "32.9667",
+    "id": "1792667292"
+  },
+  {
+    "city": "Espiye",
+    "city_ascii": "Espiye",
+    "admin_name": "Giresun",
+    "lat": "40.9500",
+    "lng": "38.7333",
+    "id": "1792099876"
+  },
+  {
+    "city": "Gediz",
+    "city_ascii": "Gediz",
+    "admin_name": "Kütahya",
+    "lat": "38.9939",
+    "lng": "29.3914",
+    "id": "1792980894"
+  },
+  {
+    "city": "Buldan",
+    "city_ascii": "Buldan",
+    "admin_name": "Denizli",
+    "lat": "38.0450",
+    "lng": "28.8306",
+    "id": "1792112571"
+  },
+  {
+    "city": "Ula",
+    "city_ascii": "Ula",
+    "admin_name": "Muğla",
+    "lat": "37.1036",
+    "lng": "28.4147",
+    "id": "1792863593"
+  },
+  {
+    "city": "Nallıhan",
+    "city_ascii": "Nallihan",
+    "admin_name": "Ankara",
+    "lat": "40.1836",
+    "lng": "31.3506",
+    "id": "1792689244"
+  },
+  {
+    "city": "Gördes",
+    "city_ascii": "Gordes",
+    "admin_name": "Manisa",
+    "lat": "38.9328",
+    "lng": "28.2903",
+    "id": "1792480296"
+  },
+  {
+    "city": "İpsala",
+    "city_ascii": "Ipsala",
+    "admin_name": "Edirne",
+    "lat": "40.9167",
+    "lng": "26.3833",
+    "id": "1792000511"
+  },
+  {
+    "city": "Kuyucak",
+    "city_ascii": "Kuyucak",
+    "admin_name": "Aydın",
+    "lat": "37.9153",
+    "lng": "28.4592",
+    "id": "1792423499"
+  },
+  {
+    "city": "Haymana",
+    "city_ascii": "Haymana",
+    "admin_name": "Ankara",
+    "lat": "39.4311",
+    "lng": "32.4956",
+    "id": "1792299517"
+  },
+  {
+    "city": "Gölköy",
+    "city_ascii": "Golkoy",
+    "admin_name": "Ordu",
+    "lat": "40.6875",
+    "lng": "37.6178",
+    "id": "1792000105"
+  },
+  {
+    "city": "Sürmene",
+    "city_ascii": "Surmene",
+    "admin_name": "Trabzon",
+    "lat": "40.9142",
+    "lng": "40.1125",
+    "id": "1792859106"
+  },
+  {
+    "city": "Artvin",
+    "city_ascii": "Artvin",
+    "admin_name": "Artvin",
+    "lat": "41.1833",
+    "lng": "41.8181",
+    "id": "1792320984"
+  },
+  {
+    "city": "Güroymak",
+    "city_ascii": "Guroymak",
+    "admin_name": "Bitlis",
+    "lat": "38.5769",
+    "lng": "42.0211",
+    "id": "1792781278"
+  },
+  {
+    "city": "Karayazı",
+    "city_ascii": "Karayazi",
+    "admin_name": "Erzurum",
+    "lat": "39.7039",
+    "lng": "42.1486",
+    "id": "1792839665"
+  },
+  {
+    "city": "Bozkır",
+    "city_ascii": "Bozkir",
+    "admin_name": "Konya",
+    "lat": "37.1886",
+    "lng": "32.2456",
+    "id": "1792736010"
+  },
+  {
+    "city": "Kovancılar",
+    "city_ascii": "Kovancilar",
+    "admin_name": "Elazığ",
+    "lat": "38.7217",
+    "lng": "39.8672",
+    "id": "1792035505"
+  },
+  {
+    "city": "Denizciler",
+    "city_ascii": "Denizciler",
+    "admin_name": "Hatay",
+    "lat": "36.6500",
+    "lng": "36.2167",
+    "id": "1792282618"
+  },
+  {
+    "city": "Datça",
+    "city_ascii": "Datca",
+    "admin_name": "Muğla",
+    "lat": "36.7283",
+    "lng": "27.6869",
+    "id": "1792696946"
+  },
+  {
+    "city": "Savur",
+    "city_ascii": "Savur",
+    "admin_name": "Mardin",
+    "lat": "37.5375",
+    "lng": "40.8892",
+    "id": "1792346583"
+  },
+  {
+    "city": "Maçka",
+    "city_ascii": "Macka",
+    "admin_name": "Trabzon",
+    "lat": "40.8119",
+    "lng": "39.6131",
+    "id": "1792354178"
+  },
+  {
+    "city": "Hınıs",
+    "city_ascii": "Hinis",
+    "admin_name": "Erzurum",
+    "lat": "39.3586",
+    "lng": "41.7003",
+    "id": "1792385959"
+  },
+  {
+    "city": "Alaçam",
+    "city_ascii": "Alacam",
+    "admin_name": "Samsun",
+    "lat": "41.6100",
+    "lng": "35.5950",
+    "id": "1792375686"
+  },
+  {
+    "city": "Ürgüp",
+    "city_ascii": "Urgup",
+    "admin_name": "Nevşehir",
+    "lat": "38.6314",
+    "lng": "34.9131",
+    "id": "1792233908"
+  },
+  {
+    "city": "Darende",
+    "city_ascii": "Darende",
+    "admin_name": "Malatya",
+    "lat": "38.5472",
+    "lng": "37.5111",
+    "id": "1792335600"
+  },
+  {
+    "city": "Çayeli",
+    "city_ascii": "Cayeli",
+    "admin_name": "Rize",
+    "lat": "40.7500",
+    "lng": "41.0667",
+    "id": "1792569066"
+  },
+  {
+    "city": "Kaynarca",
+    "city_ascii": "Kaynarca",
+    "admin_name": "Sakarya",
+    "lat": "41.0308",
+    "lng": "30.3075",
+    "id": "1792029703"
+  },
+  {
+    "city": "Lice",
+    "city_ascii": "Lice",
+    "admin_name": "Diyarbakır",
+    "lat": "38.4500",
+    "lng": "40.6500",
+    "id": "1792106480"
+  },
+  {
+    "city": "Hopa",
+    "city_ascii": "Hopa",
+    "admin_name": "Artvin",
+    "lat": "41.3903",
+    "lng": "41.4194",
+    "id": "1792630144"
+  },
+  {
+    "city": "Beşikdüzü",
+    "city_ascii": "Besikduzu",
+    "admin_name": "Trabzon",
+    "lat": "41.0494",
+    "lng": "39.2353",
+    "id": "1792243437"
+  },
+  {
+    "city": "Şarkışla",
+    "city_ascii": "Sarkisla",
+    "admin_name": "Sivas",
+    "lat": "39.3500",
+    "lng": "36.4000",
+    "id": "1792917755"
+  },
+  {
+    "city": "Gerede",
+    "city_ascii": "Gerede",
+    "admin_name": "Bolu",
+    "lat": "40.8006",
+    "lng": "32.1986",
+    "id": "1792755001"
+  },
+  {
+    "city": "Karataş",
+    "city_ascii": "Karatas",
+    "admin_name": "Adana",
+    "lat": "36.5625",
+    "lng": "35.3803",
+    "id": "1792800632"
+  },
+  {
+    "city": "Selimpaşa",
+    "city_ascii": "Selimpasa",
+    "admin_name": "İstanbul",
+    "lat": "41.0540",
+    "lng": "28.3670",
+    "id": "1792042372"
+  },
+  {
+    "city": "Pelitli",
+    "city_ascii": "Pelitli",
+    "admin_name": "Trabzon",
+    "lat": "40.9833",
+    "lng": "39.8000",
+    "id": "1792308015"
+  },
+  {
+    "city": "Tekman",
+    "city_ascii": "Tekman",
+    "admin_name": "Erzurum",
+    "lat": "39.6450",
+    "lng": "41.5083",
+    "id": "1792042705"
+  },
+  {
+    "city": "Yakınca",
+    "city_ascii": "Yakinca",
+    "admin_name": "Malatya",
+    "lat": "38.3000",
+    "lng": "38.2500",
+    "id": "1792067051"
+  },
+  {
+    "city": "Emirdağ",
+    "city_ascii": "Emirdag",
+    "admin_name": "Afyonkarahisar",
+    "lat": "39.0167",
+    "lng": "31.1500",
+    "id": "1792515671"
+  },
+  {
+    "city": "Ardahan",
+    "city_ascii": "Ardahan",
+    "admin_name": "Ardahan",
+    "lat": "41.1111",
+    "lng": "42.7022",
+    "id": "1792379425"
+  },
+  {
+    "city": "Kocaali",
+    "city_ascii": "Kocaali",
+    "admin_name": "Sakarya",
+    "lat": "41.0547",
+    "lng": "30.8503",
+    "id": "1792708434"
+  },
+  {
+    "city": "Yavuzeli",
+    "city_ascii": "Yavuzeli",
+    "admin_name": "Gaziantep",
+    "lat": "37.3192",
+    "lng": "37.5686",
+    "id": "1792996811"
+  },
+  {
+    "city": "Kavak",
+    "city_ascii": "Kavak",
+    "admin_name": "Samsun",
+    "lat": "41.0736",
+    "lng": "36.0403",
+    "id": "1792170662"
+  },
+  {
+    "city": "Yalvaç",
+    "city_ascii": "Yalvac",
+    "admin_name": "Isparta",
+    "lat": "38.2956",
+    "lng": "31.1800",
+    "id": "1792064802"
+  },
+  {
+    "city": "Çağlayancerit",
+    "city_ascii": "Caglayancerit",
+    "admin_name": "Kahramanmaraş",
+    "lat": "37.7506",
+    "lng": "37.2931",
+    "id": "1792761709"
+  },
+  {
+    "city": "Karaçoban",
+    "city_ascii": "Karacoban",
+    "admin_name": "Erzurum",
+    "lat": "39.3508",
+    "lng": "42.1119",
+    "id": "1792559738"
+  },
+  {
+    "city": "Akdağmadeni",
+    "city_ascii": "Akdagmadeni",
+    "admin_name": "Yozgat",
+    "lat": "39.6658",
+    "lng": "35.8836",
+    "id": "1792201700"
+  },
+  {
+    "city": "Karaisalı",
+    "city_ascii": "Karaisali",
+    "admin_name": "Adana",
+    "lat": "37.2611",
+    "lng": "35.0600",
+    "id": "1792954289"
+  },
+  {
+    "city": "Koçarlı",
+    "city_ascii": "Kocarli",
+    "admin_name": "Aydın",
+    "lat": "37.7608",
+    "lng": "27.7061",
+    "id": "1792415821"
+  },
+  {
+    "city": "Kepsut",
+    "city_ascii": "Kepsut",
+    "admin_name": "Balıkesir",
+    "lat": "39.6889",
+    "lng": "28.1522",
+    "id": "1792135429"
+  },
+  {
+    "city": "Aşkale",
+    "city_ascii": "Askale",
+    "admin_name": "Erzurum",
+    "lat": "39.9211",
+    "lng": "40.6947",
+    "id": "1792986151"
+  },
+  {
+    "city": "Eğil",
+    "city_ascii": "Egil",
+    "admin_name": "Diyarbakır",
+    "lat": "38.2572",
+    "lng": "40.0847",
+    "id": "1792199216"
+  },
+  {
+    "city": "Kaman",
+    "city_ascii": "Kaman",
+    "admin_name": "Kırşehir",
+    "lat": "39.3575",
+    "lng": "33.7239",
+    "id": "1792722636"
+  },
+  {
+    "city": "Kelkit",
+    "city_ascii": "Kelkit",
+    "admin_name": "Gümüşhane",
+    "lat": "40.1286",
+    "lng": "39.4383",
+    "id": "1792833312"
+  },
+  {
+    "city": "Akkuş",
+    "city_ascii": "Akkus",
+    "admin_name": "Ordu",
+    "lat": "40.7931",
+    "lng": "37.0164",
+    "id": "1792320002"
+  },
+  {
+    "city": "Pınarbaşı",
+    "city_ascii": "Pinarbasi",
+    "admin_name": "Kayseri",
+    "lat": "38.7220",
+    "lng": "36.3910",
+    "id": "1792740700"
+  },
+  {
+    "city": "Kağızman",
+    "city_ascii": "Kagizman",
+    "admin_name": "Kars",
+    "lat": "40.1583",
+    "lng": "43.1342",
+    "id": "1792877267"
+  },
+  {
+    "city": "Tomarza",
+    "city_ascii": "Tomarza",
+    "admin_name": "Kayseri",
+    "lat": "38.4472",
+    "lng": "35.7992",
+    "id": "1792500972"
+  },
+  {
+    "city": "Yunak",
+    "city_ascii": "Yunak",
+    "admin_name": "Konya",
+    "lat": "38.8172",
+    "lng": "31.7356",
+    "id": "1792108399"
+  },
+  {
+    "city": "Aybastı",
+    "city_ascii": "Aybasti",
+    "admin_name": "Ordu",
+    "lat": "40.6867",
+    "lng": "37.3992",
+    "id": "1792402028"
+  },
+  {
+    "city": "Alaplı",
+    "city_ascii": "Alapli",
+    "admin_name": "Zonguldak",
+    "lat": "41.1806",
+    "lng": "31.3861",
+    "id": "1792284635"
+  },
+  {
+    "city": "Genç",
+    "city_ascii": "Genc",
+    "admin_name": "Bingöl",
+    "lat": "38.7500",
+    "lng": "40.5560",
+    "id": "1792927831"
+  },
+  {
+    "city": "Tirebolu",
+    "city_ascii": "Tirebolu",
+    "admin_name": "Giresun",
+    "lat": "41.0056",
+    "lng": "38.8167",
+    "id": "1792367671"
+  },
+  {
+    "city": "Bala",
+    "city_ascii": "Bala",
+    "admin_name": "Ankara",
+    "lat": "39.5539",
+    "lng": "33.1211",
+    "id": "1792542315"
+  },
+  {
+    "city": "Ortaköy",
+    "city_ascii": "Ortakoy",
+    "admin_name": "Aksaray",
+    "lat": "38.7361",
+    "lng": "34.0403",
+    "id": "1792138980"
+  },
+  {
+    "city": "Diyadin",
+    "city_ascii": "Diyadin",
+    "admin_name": "Ağrı",
+    "lat": "39.5400",
+    "lng": "43.6772",
+    "id": "1792559543"
+  },
+  {
+    "city": "Sultanhisar",
+    "city_ascii": "Sultanhisar",
+    "admin_name": "Aydın",
+    "lat": "37.8897",
+    "lng": "28.1575",
+    "id": "1792625507"
+  },
+  {
+    "city": "Solhan",
+    "city_ascii": "Solhan",
+    "admin_name": "Bingöl",
+    "lat": "38.9681",
+    "lng": "41.0536",
+    "id": "1792668752"
+  },
+  {
+    "city": "Sivrihisar",
+    "city_ascii": "Sivrihisar",
+    "admin_name": "Eskişehir",
+    "lat": "39.4500",
+    "lng": "31.5378",
+    "id": "1792393048"
+  },
+  {
+    "city": "Velimeşe",
+    "city_ascii": "Velimese",
+    "admin_name": "Tekirdağ",
+    "lat": "41.2500",
+    "lng": "27.8833",
+    "id": "1792260253"
+  },
+  {
+    "city": "Kilimli",
+    "city_ascii": "Kilimli",
+    "admin_name": "Zonguldak",
+    "lat": "41.4833",
+    "lng": "31.8333",
+    "id": "1792892281"
+  },
+  {
+    "city": "Pozantı",
+    "city_ascii": "Pozanti",
+    "admin_name": "Adana",
+    "lat": "37.4278",
+    "lng": "34.8711",
+    "id": "1792284053"
+  },
+  {
+    "city": "Alaca",
+    "city_ascii": "Alaca",
+    "admin_name": "Çorum",
+    "lat": "40.1683",
+    "lng": "34.8425",
+    "id": "1792480764"
+  },
+  {
+    "city": "Saray",
+    "city_ascii": "Saray",
+    "admin_name": "Van",
+    "lat": "38.6506",
+    "lng": "44.1700",
+    "id": "1792601609"
+  },
+  {
+    "city": "Selendi",
+    "city_ascii": "Selendi",
+    "admin_name": "Manisa",
+    "lat": "38.7444",
+    "lng": "28.8678",
+    "id": "1792936092"
+  },
+  {
+    "city": "Kale",
+    "city_ascii": "Kale",
+    "admin_name": "Denizli",
+    "lat": "37.4392",
+    "lng": "28.8453",
+    "id": "1792979251"
+  },
+  {
+    "city": "Gerze",
+    "city_ascii": "Gerze",
+    "admin_name": "Sinop",
+    "lat": "41.8056",
+    "lng": "35.1981",
+    "id": "1792249445"
+  },
+  {
+    "city": "Ayvacık",
+    "city_ascii": "Ayvacik",
+    "admin_name": "Samsun",
+    "lat": "41.0036",
+    "lng": "36.6319",
+    "id": "1792294480"
+  },
+  {
+    "city": "Malazgirt",
+    "city_ascii": "Malazgirt",
+    "admin_name": "Muş",
+    "lat": "39.1478",
+    "lng": "42.5442",
+    "id": "1792845085"
+  },
+  {
+    "city": "Boğazlıyan",
+    "city_ascii": "Bogazliyan",
+    "admin_name": "Yozgat",
+    "lat": "39.1942",
+    "lng": "35.2472",
+    "id": "1792773324"
+  },
+  {
+    "city": "Görele",
+    "city_ascii": "Gorele",
+    "admin_name": "Giresun",
+    "lat": "41.0333",
+    "lng": "39.0000",
+    "id": "1792732047"
+  },
+  {
+    "city": "Orhaneli",
+    "city_ascii": "Orhaneli",
+    "admin_name": "Bursa",
+    "lat": "39.9028",
+    "lng": "28.9875",
+    "id": "1792813030"
+  },
+  {
+    "city": "Çatak",
+    "city_ascii": "Catak",
+    "admin_name": "Van",
+    "lat": "38.0086",
+    "lng": "43.0597",
+    "id": "1792795847"
+  },
+  {
+    "city": "Sarıkaya",
+    "city_ascii": "Sarikaya",
+    "admin_name": "Yozgat",
+    "lat": "39.4936",
+    "lng": "35.3769",
+    "id": "1792208662"
+  },
+  {
+    "city": "Narlıca",
+    "city_ascii": "Narlica",
+    "admin_name": "Hatay",
+    "lat": "36.2333",
+    "lng": "36.2167",
+    "id": "1792831887"
+  },
+  {
+    "city": "Şemdinli",
+    "city_ascii": "Semdinli",
+    "admin_name": "Hakkâri",
+    "lat": "37.3080",
+    "lng": "44.5710",
+    "id": "1792975891"
+  },
+  {
+    "city": "Manyas",
+    "city_ascii": "Manyas",
+    "admin_name": "Balıkesir",
+    "lat": "40.0464",
+    "lng": "27.9700",
+    "id": "1792751047"
+  },
+  {
+    "city": "Konaklı",
+    "city_ascii": "Konakli",
+    "admin_name": "Antalya",
+    "lat": "36.5833",
+    "lng": "31.8833",
+    "id": "1792175009"
+  },
+  {
+    "city": "Çal",
+    "city_ascii": "Cal",
+    "admin_name": "Denizli",
+    "lat": "38.0836",
+    "lng": "29.3989",
+    "id": "1792007424"
+  },
+  {
+    "city": "Yakacık",
+    "city_ascii": "Yakacik",
+    "admin_name": "İstanbul",
+    "lat": "40.9164",
+    "lng": "29.2222",
+    "id": "1792068765"
+  },
+  {
+    "city": "Yumurtalık",
+    "city_ascii": "Yumurtalik",
+    "admin_name": "Adana",
+    "lat": "36.7678",
+    "lng": "35.7922",
+    "id": "1792054257"
+  },
+  {
+    "city": "Karacasu",
+    "city_ascii": "Karacasu",
+    "admin_name": "Aydın",
+    "lat": "37.7308",
+    "lng": "28.6061",
+    "id": "1792386496"
+  },
+  {
+    "city": "İskilip",
+    "city_ascii": "Iskilip",
+    "admin_name": "Çorum",
+    "lat": "40.7361",
+    "lng": "34.4739",
+    "id": "1792213705"
+  },
+  {
+    "city": "Arhavi",
+    "city_ascii": "Arhavi",
+    "admin_name": "Artvin",
+    "lat": "41.3333",
+    "lng": "41.3000",
+    "id": "1792000779"
+  },
+  {
+    "city": "Çameli",
+    "city_ascii": "Cameli",
+    "admin_name": "Denizli",
+    "lat": "37.0708",
+    "lng": "29.3453",
+    "id": "1792817877"
+  },
+  {
+    "city": "Taşköprü",
+    "city_ascii": "Taskopru",
+    "admin_name": "Kastamonu",
+    "lat": "41.5097",
+    "lng": "34.2142",
+    "id": "1792159059"
+  },
+  {
+    "city": "Ulubey",
+    "city_ascii": "Ulubey",
+    "admin_name": "Ordu",
+    "lat": "40.8761",
+    "lng": "37.7406",
+    "id": "1792933054"
+  },
+  {
+    "city": "Ahmetli",
+    "city_ascii": "Ahmetli",
+    "admin_name": "Manisa",
+    "lat": "38.5183",
+    "lng": "27.9386",
+    "id": "1792093004"
+  },
+  {
+    "city": "Gömeç",
+    "city_ascii": "Gomec",
+    "admin_name": "Balıkesir",
+    "lat": "39.3911",
+    "lng": "26.8400",
+    "id": "1792446908"
+  },
+  {
+    "city": "Savaştepe",
+    "city_ascii": "Savastepe",
+    "admin_name": "Balıkesir",
+    "lat": "39.3839",
+    "lng": "27.6547",
+    "id": "1792897169"
+  },
+  {
+    "city": "Eğirdir",
+    "city_ascii": "Egirdir",
+    "admin_name": "Isparta",
+    "lat": "37.8750",
+    "lng": "30.8506",
+    "id": "1792901430"
+  },
+  {
+    "city": "Tufanbeyli",
+    "city_ascii": "Tufanbeyli",
+    "admin_name": "Adana",
+    "lat": "38.2647",
+    "lng": "36.2225",
+    "id": "1792881095"
+  },
+  {
+    "city": "Turgutalp",
+    "city_ascii": "Turgutalp",
+    "admin_name": "Manisa",
+    "lat": "39.1833",
+    "lng": "27.5833",
+    "id": "1792833258"
+  },
+  {
+    "city": "Osmaneli",
+    "city_ascii": "Osmaneli",
+    "admin_name": "Bilecik",
+    "lat": "40.3500",
+    "lng": "30.0167",
+    "id": "1792257463"
+  },
+  {
+    "city": "Gölhisar",
+    "city_ascii": "Golhisar",
+    "admin_name": "Burdur",
+    "lat": "37.1408",
+    "lng": "29.5075",
+    "id": "1792026126"
+  },
+  {
+    "city": "Bahçe",
+    "city_ascii": "Bahce",
+    "admin_name": "Osmaniye",
+    "lat": "37.2000",
+    "lng": "36.5833",
+    "id": "1792557707"
+  },
+  {
+    "city": "Hazro",
+    "city_ascii": "Hazro",
+    "admin_name": "Diyarbakır",
+    "lat": "38.2561",
+    "lng": "40.7831",
+    "id": "1792489008"
+  },
+  {
+    "city": "Şenkaya",
+    "city_ascii": "Senkaya",
+    "admin_name": "Erzurum",
+    "lat": "40.5619",
+    "lng": "42.3464",
+    "id": "1792624662"
+  },
+  {
+    "city": "Asarcık",
+    "city_ascii": "Asarcik",
+    "admin_name": "Samsun",
+    "lat": "41.0314",
+    "lng": "36.2683",
+    "id": "1792169528"
+  },
+  {
+    "city": "Suşehri",
+    "city_ascii": "Susehri",
+    "admin_name": "Sivas",
+    "lat": "40.1658",
+    "lng": "38.0942",
+    "id": "1792648554"
+  },
+  {
+    "city": "Aladağ",
+    "city_ascii": "Aladag",
+    "admin_name": "Adana",
+    "lat": "37.5464",
+    "lng": "35.3986",
+    "id": "1792029396"
+  },
+  {
+    "city": "Davutlar",
+    "city_ascii": "Davutlar",
+    "admin_name": "Aydın",
+    "lat": "37.7333",
+    "lng": "27.3000",
+    "id": "1792954597"
+  },
+  {
+    "city": "Feke",
+    "city_ascii": "Feke",
+    "admin_name": "Adana",
+    "lat": "37.8150",
+    "lng": "35.9125",
+    "id": "1792390146"
+  },
+  {
+    "city": "Serinyol",
+    "city_ascii": "Serinyol",
+    "admin_name": "Hatay",
+    "lat": "36.3667",
+    "lng": "36.2000",
+    "id": "1792914235"
+  },
+  {
+    "city": "Eşme",
+    "city_ascii": "Esme",
+    "admin_name": "Uşak",
+    "lat": "38.4000",
+    "lng": "28.9667",
+    "id": "1792758797"
+  },
+  {
+    "city": "Bayramiç",
+    "city_ascii": "Bayramic",
+    "admin_name": "Çanakkale",
+    "lat": "39.8128",
+    "lng": "26.6100",
+    "id": "1792600918"
+  },
+  {
+    "city": "Çat",
+    "city_ascii": "Cat",
+    "admin_name": "Erzurum",
+    "lat": "39.6111",
+    "lng": "40.9789",
+    "id": "1792728659"
+  },
+  {
+    "city": "Yeşilhisar",
+    "city_ascii": "Yesilhisar",
+    "admin_name": "Kayseri",
+    "lat": "38.3500",
+    "lng": "35.0867",
+    "id": "1792717556"
+  },
+  {
+    "city": "Kestel",
+    "city_ascii": "Kestel",
+    "admin_name": "Antalya",
+    "lat": "36.5161",
+    "lng": "32.0743",
+    "id": "1792590086"
+  },
+  {
+    "city": "Kocaköy",
+    "city_ascii": "Kocakoy",
+    "admin_name": "Diyarbakır",
+    "lat": "38.2897",
+    "lng": "40.5014",
+    "id": "1792129814"
+  },
+  {
+    "city": "Yenice",
+    "city_ascii": "Yenice",
+    "admin_name": "Bursa",
+    "lat": "40.0883",
+    "lng": "29.4211",
+    "id": "1792468905"
+  },
+  {
+    "city": "Sarıkamış",
+    "city_ascii": "Sarikamis",
+    "admin_name": "Kars",
+    "lat": "40.3381",
+    "lng": "42.5731",
+    "id": "1792341380"
+  },
+  {
+    "city": "Tortum",
+    "city_ascii": "Tortum",
+    "admin_name": "Erzurum",
+    "lat": "40.2981",
+    "lng": "41.6325",
+    "id": "1792060853"
+  },
+  {
+    "city": "Çarşıbaşı",
+    "city_ascii": "Carsibasi",
+    "admin_name": "Trabzon",
+    "lat": "41.0833",
+    "lng": "39.3833",
+    "id": "1792834286"
+  },
+  {
+    "city": "Avsallar",
+    "city_ascii": "Avsallar",
+    "admin_name": "Antalya",
+    "lat": "36.5833",
+    "lng": "31.8833",
+    "id": "1792561921"
+  },
+  {
+    "city": "Gölmarmara",
+    "city_ascii": "Golmarmara",
+    "admin_name": "Manisa",
+    "lat": "38.7167",
+    "lng": "27.9167",
+    "id": "1792772371"
+  },
+  {
+    "city": "Taşucu",
+    "city_ascii": "Tasucu",
+    "admin_name": "Mersin",
+    "lat": "36.3333",
+    "lng": "33.8833",
+    "id": "1792346899"
+  },
+  {
+    "city": "Hüyük",
+    "city_ascii": "Huyuk",
+    "admin_name": "Konya",
+    "lat": "37.9519",
+    "lng": "31.5958",
+    "id": "1792361232"
+  },
+  {
+    "city": "Vize",
+    "city_ascii": "Vize",
+    "admin_name": "Kırklareli",
+    "lat": "41.5736",
+    "lng": "27.7653",
+    "id": "1792206953"
+  },
+  {
+    "city": "Adilcevaz",
+    "city_ascii": "Adilcevaz",
+    "admin_name": "Bitlis",
+    "lat": "38.8058",
+    "lng": "42.7469",
+    "id": "1792411490"
+  },
+  {
+    "city": "Şuhut",
+    "city_ascii": "Suhut",
+    "admin_name": "Afyonkarahisar",
+    "lat": "38.5333",
+    "lng": "30.5500",
+    "id": "1792959774"
+  },
+  {
+    "city": "Özdere",
+    "city_ascii": "Ozdere",
+    "admin_name": "İzmir",
+    "lat": "38.0175",
+    "lng": "27.1283",
+    "id": "1792471771"
+  },
+  {
+    "city": "Lapseki",
+    "city_ascii": "Lapseki",
+    "admin_name": "Çanakkale",
+    "lat": "40.3439",
+    "lng": "26.6836",
+    "id": "1792992667"
+  },
+  {
+    "city": "Avanos",
+    "city_ascii": "Avanos",
+    "admin_name": "Nevşehir",
+    "lat": "38.7150",
+    "lng": "34.8467",
+    "id": "1792692545"
+  },
+  {
+    "city": "Çifteler",
+    "city_ascii": "Cifteler",
+    "admin_name": "Eskişehir",
+    "lat": "39.3831",
+    "lng": "31.0392",
+    "id": "1792521829"
+  },
+  {
+    "city": "Doğanhisar",
+    "city_ascii": "Doganhisar",
+    "admin_name": "Konya",
+    "lat": "38.1447",
+    "lng": "31.6781",
+    "id": "1792413713"
+  },
+  {
+    "city": "Karakoçan",
+    "city_ascii": "Karakocan",
+    "admin_name": "Elazığ",
+    "lat": "38.9500",
+    "lng": "40.0333",
+    "id": "1792070024"
+  },
+  {
+    "city": "Söğütlü",
+    "city_ascii": "Sogutlu",
+    "admin_name": "Sakarya",
+    "lat": "40.9000",
+    "lng": "30.4833",
+    "id": "1792276598"
+  },
+  {
+    "city": "İspir",
+    "city_ascii": "Ispir",
+    "admin_name": "Erzurum",
+    "lat": "40.4836",
+    "lng": "40.9953",
+    "id": "1792529316"
+  },
+  {
+    "city": "Çay",
+    "city_ascii": "Cay",
+    "admin_name": "Afyonkarahisar",
+    "lat": "38.5833",
+    "lng": "31.0333",
+    "id": "1792955156"
+  },
+  {
+    "city": "Gümüşhacıköy",
+    "city_ascii": "Gumushacikoy",
+    "admin_name": "Amasya",
+    "lat": "40.8667",
+    "lng": "35.2167",
+    "id": "1792935743"
+  },
+  {
+    "city": "Serinhisar",
+    "city_ascii": "Serinhisar",
+    "admin_name": "Denizli",
+    "lat": "37.5806",
+    "lng": "29.2697",
+    "id": "1792476134"
+  },
+  {
+    "city": "Altınekin",
+    "city_ascii": "Altinekin",
+    "admin_name": "Konya",
+    "lat": "38.3078",
+    "lng": "32.8686",
+    "id": "1792784602"
+  },
+  {
+    "city": "Köprüköy",
+    "city_ascii": "Koprukoy",
+    "admin_name": "Erzurum",
+    "lat": "39.9756",
+    "lng": "41.8711",
+    "id": "1792880701"
+  },
+  {
+    "city": "Kargıpınar",
+    "city_ascii": "Kargipinar",
+    "admin_name": "Mersin",
+    "lat": "36.6667",
+    "lng": "34.4167",
+    "id": "1792234063"
+  },
+  {
+    "city": "Ömerli",
+    "city_ascii": "Omerli",
+    "admin_name": "Mardin",
+    "lat": "37.4025",
+    "lng": "40.9561",
+    "id": "1792513736"
+  },
+  {
+    "city": "Saimbeyli",
+    "city_ascii": "Saimbeyli",
+    "admin_name": "Adana",
+    "lat": "37.9833",
+    "lng": "36.0833",
+    "id": "1792804959"
+  },
+  {
+    "city": "Yeşilli",
+    "city_ascii": "Yesilli",
+    "admin_name": "Mardin",
+    "lat": "37.3406",
+    "lng": "40.8258",
+    "id": "1792246773"
+  },
+  {
+    "city": "Söğüt",
+    "city_ascii": "Sogut",
+    "admin_name": "Bilecik",
+    "lat": "40.0186",
+    "lng": "30.1814",
+    "id": "1792676934"
+  },
+  {
+    "city": "Bahçesaray",
+    "city_ascii": "Bahcesaray",
+    "admin_name": "Van",
+    "lat": "38.1286",
+    "lng": "42.8075",
+    "id": "1792864088"
+  },
+  {
+    "city": "Tonya",
+    "city_ascii": "Tonya",
+    "admin_name": "Trabzon",
+    "lat": "40.8856",
+    "lng": "39.2922",
+    "id": "1792136537"
+  },
+  {
+    "city": "Sarıoğlan",
+    "city_ascii": "Sarioglan",
+    "admin_name": "Kayseri",
+    "lat": "39.0769",
+    "lng": "35.9667",
+    "id": "1792533162"
+  },
+  {
+    "city": "Mucur",
+    "city_ascii": "Mucur",
+    "admin_name": "Kırşehir",
+    "lat": "39.0636",
+    "lng": "34.3783",
+    "id": "1792744709"
+  },
+  {
+    "city": "Karapürçek",
+    "city_ascii": "Karapurcek",
+    "admin_name": "Sakarya",
+    "lat": "40.6425",
+    "lng": "30.5386",
+    "id": "1792042219"
+  },
+  {
+    "city": "Kumlu",
+    "city_ascii": "Kumlu",
+    "admin_name": "Hatay",
+    "lat": "36.3728",
+    "lng": "36.4528",
+    "id": "1792271557"
+  },
+  {
+    "city": "Hanımçiftliği",
+    "city_ascii": "Hanimciftligi",
+    "admin_name": "Malatya",
+    "lat": "38.3833",
+    "lng": "38.3333",
+    "id": "1792147557"
+  },
+  {
+    "city": "Düzköy",
+    "city_ascii": "Duzkoy",
+    "admin_name": "Trabzon",
+    "lat": "40.8742",
+    "lng": "39.4256",
+    "id": "1792021967"
+  },
+  {
+    "city": "Ayancık",
+    "city_ascii": "Ayancik",
+    "admin_name": "Sinop",
+    "lat": "41.9500",
+    "lng": "34.5833",
+    "id": "1792845166"
+  },
+  {
+    "city": "İkizce",
+    "city_ascii": "Ikizce",
+    "admin_name": "Ordu",
+    "lat": "41.0531",
+    "lng": "37.0769",
+    "id": "1792639602"
+  },
+  {
+    "city": "Ortaklar",
+    "city_ascii": "Ortaklar",
+    "admin_name": "Aydın",
+    "lat": "37.8833",
+    "lng": "27.5000",
+    "id": "1792405965"
+  },
+  {
+    "city": "Mesudiye",
+    "city_ascii": "Mesudiye",
+    "admin_name": "Ordu",
+    "lat": "40.4625",
+    "lng": "37.7725",
+    "id": "1792237188"
+  },
+  {
+    "city": "Derecik",
+    "city_ascii": "Derecik",
+    "admin_name": "Hakkâri",
+    "lat": "37.0830",
+    "lng": "44.3110",
+    "id": "1792649716"
+  },
+  {
+    "city": "Çaykara",
+    "city_ascii": "Caykara",
+    "admin_name": "Trabzon",
+    "lat": "40.7475",
+    "lng": "40.2419",
+    "id": "1792430327"
+  },
+  {
+    "city": "Hasköy",
+    "city_ascii": "Haskoy",
+    "admin_name": "Muş",
+    "lat": "38.6822",
+    "lng": "41.6894",
+    "id": "1792439039"
+  },
+  {
+    "city": "Çatalpınar",
+    "city_ascii": "Catalpinar",
+    "admin_name": "Ordu",
+    "lat": "40.8789",
+    "lng": "37.4531",
+    "id": "1792029598"
+  },
+  {
+    "city": "Buharkent",
+    "city_ascii": "Buharkent",
+    "admin_name": "Aydın",
+    "lat": "37.9617",
+    "lng": "28.7422",
+    "id": "1792505587"
+  },
+  {
+    "city": "Ayaş",
+    "city_ascii": "Ayas",
+    "admin_name": "Ankara",
+    "lat": "40.0167",
+    "lng": "32.3333",
+    "id": "1792609303"
+  },
+  {
+    "city": "Meriç",
+    "city_ascii": "Meric",
+    "admin_name": "Edirne",
+    "lat": "41.1833",
+    "lng": "26.4167",
+    "id": "1792757038"
+  },
+  {
+    "city": "Kalecik",
+    "city_ascii": "Kalecik",
+    "admin_name": "Ankara",
+    "lat": "40.0972",
+    "lng": "33.4083",
+    "id": "1792734197"
+  },
+  {
+    "city": "Köprübaşı",
+    "city_ascii": "Koprubasi",
+    "admin_name": "Manisa",
+    "lat": "38.7497",
+    "lng": "28.4047",
+    "id": "1792894400"
+  },
+  {
+    "city": "Sason",
+    "city_ascii": "Sason",
+    "admin_name": "Batman",
+    "lat": "38.3803",
+    "lng": "41.3953",
+    "id": "1792334757"
+  },
+  {
+    "city": "Gürgentepe",
+    "city_ascii": "Gurgentepe",
+    "admin_name": "Ordu",
+    "lat": "40.7883",
+    "lng": "37.6017",
+    "id": "1792908003"
+  },
+  {
+    "city": "Seyitgazi",
+    "city_ascii": "Seyitgazi",
+    "admin_name": "Eskişehir",
+    "lat": "39.4456",
+    "lng": "30.6939",
+    "id": "1792468477"
+  },
+  {
+    "city": "Pütürge",
+    "city_ascii": "Puturge",
+    "admin_name": "Malatya",
+    "lat": "38.1967",
+    "lng": "38.8697",
+    "id": "1792444348"
+  },
+  {
+    "city": "Gülşehir",
+    "city_ascii": "Gulsehir",
+    "admin_name": "Nevşehir",
+    "lat": "38.7464",
+    "lng": "34.6206",
+    "id": "1792089346"
+  },
+  {
+    "city": "Hacılar",
+    "city_ascii": "Hacilar",
+    "admin_name": "Kayseri",
+    "lat": "38.6497",
+    "lng": "35.4503",
+    "id": "1792873062"
+  },
+  {
+    "city": "Balya",
+    "city_ascii": "Balya",
+    "admin_name": "Balıkesir",
+    "lat": "39.7500",
+    "lng": "27.5833",
+    "id": "1792528199"
+  },
+  {
+    "city": "Hizan",
+    "city_ascii": "Hizan",
+    "admin_name": "Bitlis",
+    "lat": "38.2256",
+    "lng": "42.4269",
+    "id": "1792308787"
+  },
+  {
+    "city": "Bozkurt",
+    "city_ascii": "Bozkurt",
+    "admin_name": "Denizli",
+    "lat": "37.8167",
+    "lng": "29.6167",
+    "id": "1792962015"
+  },
+  {
+    "city": "Acarlar",
+    "city_ascii": "Acarlar",
+    "admin_name": "Aydın",
+    "lat": "37.8244",
+    "lng": "27.7467",
+    "id": "1792301446"
+  },
+  {
+    "city": "Narman",
+    "city_ascii": "Narman",
+    "admin_name": "Erzurum",
+    "lat": "40.3472",
+    "lng": "41.8683",
+    "id": "1792000538"
+  },
+  {
+    "city": "Nurhak",
+    "city_ascii": "Nurhak",
+    "admin_name": "Kahramanmaraş",
+    "lat": "37.9658",
+    "lng": "37.4272",
+    "id": "1792296176"
+  },
+  {
+    "city": "Karaburun",
+    "city_ascii": "Karaburun",
+    "admin_name": "İzmir",
+    "lat": "38.6333",
+    "lng": "26.5167",
+    "id": "1792254841"
+  },
+  {
+    "city": "Tömük",
+    "city_ascii": "Tomuk",
+    "admin_name": "Mersin",
+    "lat": "36.6667",
+    "lng": "34.3833",
+    "id": "1792103247"
+  },
+  {
+    "city": "Uludere",
+    "city_ascii": "Uludere",
+    "admin_name": "Şırnak",
+    "lat": "37.4460",
+    "lng": "42.8520",
+    "id": "1792227573"
+  },
+  {
+    "city": "Beydağ",
+    "city_ascii": "Beydag",
+    "admin_name": "Kayseri",
+    "lat": "38.0833",
+    "lng": "28.2333",
+    "id": "1792722415"
+  },
+  {
+    "city": "Yazıhan",
+    "city_ascii": "Yazihan",
+    "admin_name": "Malatya",
+    "lat": "38.5969",
+    "lng": "38.1878",
+    "id": "1792398087"
+  },
+  {
+    "city": "Umurlu",
+    "city_ascii": "Umurlu",
+    "admin_name": "Aydın",
+    "lat": "37.8500",
+    "lng": "27.9667",
+    "id": "1792889279"
+  },
+  {
+    "city": "Çaybaşı",
+    "city_ascii": "Caybasi",
+    "admin_name": "Ordu",
+    "lat": "41.0175",
+    "lng": "37.0983",
+    "id": "1792204529"
+  },
+  {
+    "city": "Yenipazar",
+    "city_ascii": "Yenipazar",
+    "admin_name": "Aydın",
+    "lat": "37.8269",
+    "lng": "28.1975",
+    "id": "1792212054"
+  },
+  {
+    "city": "Yeniçiftlik",
+    "city_ascii": "Yeniciftlik",
+    "admin_name": "Tekirdağ",
+    "lat": "41.0167",
+    "lng": "27.8500",
+    "id": "1792596072"
+  },
+  {
+    "city": "Zara",
+    "city_ascii": "Zara",
+    "admin_name": "Sivas",
+    "lat": "39.8950",
+    "lng": "37.7531",
+    "id": "1792319821"
+  },
+  {
+    "city": "Ermenek",
+    "city_ascii": "Ermenek",
+    "admin_name": "Karaman",
+    "lat": "36.6389",
+    "lng": "32.8925",
+    "id": "1792667015"
+  },
+  {
+    "city": "Şiran",
+    "city_ascii": "Siran",
+    "admin_name": "Gümüşhane",
+    "lat": "40.1894",
+    "lng": "39.1267",
+    "id": "1792645839"
+  },
+  {
+    "city": "Aydıncık",
+    "city_ascii": "Aydincik",
+    "admin_name": "Mersin",
+    "lat": "36.1417",
+    "lng": "33.3178",
+    "id": "1792846540"
+  },
+  {
+    "city": "Emet",
+    "city_ascii": "Emet",
+    "admin_name": "Kütahya",
+    "lat": "39.3333",
+    "lng": "29.2667",
+    "id": "1792855978"
+  },
+  {
+    "city": "Toprakkale",
+    "city_ascii": "Toprakkale",
+    "admin_name": "Osmaniye",
+    "lat": "37.0669",
+    "lng": "36.1464",
+    "id": "1792333084"
+  },
+  {
+    "city": "Borçka",
+    "city_ascii": "Borcka",
+    "admin_name": "Artvin",
+    "lat": "41.3636",
+    "lng": "41.6792",
+    "id": "1792001054"
+  },
+  {
+    "city": "Beldibi",
+    "city_ascii": "Beldibi",
+    "admin_name": "Muğla",
+    "lat": "36.8667",
+    "lng": "28.2667",
+    "id": "1792141757"
+  },
+  {
+    "city": "Taşova",
+    "city_ascii": "Tasova",
+    "admin_name": "Amasya",
+    "lat": "40.7500",
+    "lng": "36.3167",
+    "id": "1792881496"
+  },
+  {
+    "city": "Kuzuculu",
+    "city_ascii": "Kuzuculu",
+    "admin_name": "Hatay",
+    "lat": "36.8833",
+    "lng": "36.2333",
+    "id": "1792511209"
+  },
+  {
+    "city": "Beşiri",
+    "city_ascii": "Besiri",
+    "admin_name": "Batman",
+    "lat": "37.9210",
+    "lng": "41.2920",
+    "id": "1792978558"
+  },
+  {
+    "city": "Cide",
+    "city_ascii": "Cide",
+    "admin_name": "Kastamonu",
+    "lat": "41.8922",
+    "lng": "33.0044",
+    "id": "1792045032"
+  },
+  {
+    "city": "Side",
+    "city_ascii": "Side",
+    "admin_name": "Antalya",
+    "lat": "36.7667",
+    "lng": "31.3889",
+    "id": "1792879395"
+  },
+  {
+    "city": "Hadim",
+    "city_ascii": "Hadim",
+    "admin_name": "Konya",
+    "lat": "36.9883",
+    "lng": "32.4569",
+    "id": "1792337779"
+  },
+  {
+    "city": "Sultanhanı",
+    "city_ascii": "Sultanhani",
+    "admin_name": "Aksaray",
+    "lat": "38.2500",
+    "lng": "33.5500",
+    "id": "1792616267"
+  },
+  {
+    "city": "Keles",
+    "city_ascii": "Keles",
+    "admin_name": "Bursa",
+    "lat": "39.9136",
+    "lng": "29.2294",
+    "id": "1792980091"
+  },
+  {
+    "city": "Varto",
+    "city_ascii": "Varto",
+    "admin_name": "Muş",
+    "lat": "39.1731",
+    "lng": "41.4558",
+    "id": "1792985807"
+  },
+  {
+    "city": "Derinkuyu",
+    "city_ascii": "Derinkuyu",
+    "admin_name": "Nevşehir",
+    "lat": "38.3736",
+    "lng": "34.7347",
+    "id": "1792177319"
+  },
+  {
+    "city": "Kavaklıdere",
+    "city_ascii": "Kavaklidere",
+    "admin_name": "Muğla",
+    "lat": "37.4469",
+    "lng": "28.3633",
+    "id": "1792919574"
+  },
+  {
+    "city": "Cumayeri",
+    "city_ascii": "Cumayeri",
+    "admin_name": "Düzce",
+    "lat": "40.8736",
+    "lng": "30.9508",
+    "id": "1792461502"
+  },
+  {
+    "city": "Fındıklı",
+    "city_ascii": "Findikli",
+    "admin_name": "Rize",
+    "lat": "41.1333",
+    "lng": "41.0167",
+    "id": "1792497318"
+  },
+  {
+    "city": "Armutlu",
+    "city_ascii": "Armutlu",
+    "admin_name": "Yalova",
+    "lat": "40.5167",
+    "lng": "28.8333",
+    "id": "1792285535"
+  },
+  {
+    "city": "Divriği",
+    "city_ascii": "Divrigi",
+    "admin_name": "Sivas",
+    "lat": "39.3667",
+    "lng": "38.1167",
+    "id": "1792352411"
+  },
+  {
+    "city": "Ilıcaköy",
+    "city_ascii": "Ilicakoy",
+    "admin_name": "Antalya",
+    "lat": "36.8219",
+    "lng": "31.3672",
+    "id": "1792917085"
+  },
+  {
+    "city": "Çüngüş",
+    "city_ascii": "Cungus",
+    "admin_name": "Diyarbakır",
+    "lat": "38.2128",
+    "lng": "39.2869",
+    "id": "1792972356"
+  },
+  {
+    "city": "Şebin Karahisar",
+    "city_ascii": "Sebin Karahisar",
+    "admin_name": "Giresun",
+    "lat": "40.2886",
+    "lng": "38.4233",
+    "id": "1792033134"
+  },
+  {
+    "city": "Gürün",
+    "city_ascii": "Gurun",
+    "admin_name": "Sivas",
+    "lat": "38.7225",
+    "lng": "37.2775",
+    "id": "1792698660"
+  },
+  {
+    "city": "Küçükkuyu",
+    "city_ascii": "Kucukkuyu",
+    "admin_name": "Çanakkale",
+    "lat": "39.5500",
+    "lng": "26.6167",
+    "id": "1792964648"
+  },
+  {
+    "city": "Küçük Dalyan",
+    "city_ascii": "Kucuk Dalyan",
+    "admin_name": "Hatay",
+    "lat": "36.2167",
+    "lng": "36.1667",
+    "id": "1792948340"
+  },
+  {
+    "city": "İnebolu",
+    "city_ascii": "Inebolu",
+    "admin_name": "Kastamonu",
+    "lat": "41.9747",
+    "lng": "33.7608",
+    "id": "1792688271"
+  },
+  {
+    "city": "Karpuzlu",
+    "city_ascii": "Karpuzlu",
+    "admin_name": "Aydın",
+    "lat": "37.5592",
+    "lng": "27.8344",
+    "id": "1792355296"
+  },
+  {
+    "city": "Gölyaka",
+    "city_ascii": "Golyaka",
+    "admin_name": "Düzce",
+    "lat": "40.7769",
+    "lng": "30.9958",
+    "id": "1792000868"
+  },
+  {
+    "city": "Akseki",
+    "city_ascii": "Akseki",
+    "admin_name": "Antalya",
+    "lat": "37.0486",
+    "lng": "31.7900",
+    "id": "1792149428"
+  },
+  {
+    "city": "Gökçe",
+    "city_ascii": "Gokce",
+    "admin_name": "Mardin",
+    "lat": "37.2070",
+    "lng": "40.6970",
+    "id": "1792760265"
+  },
+  {
+    "city": "Yeşilköy",
+    "city_ascii": "Yesilkoy",
+    "admin_name": "Hatay",
+    "lat": "36.8667",
+    "lng": "36.2000",
+    "id": "1792432408"
+  },
+  {
+    "city": "Şalpazarı",
+    "city_ascii": "Salpazari",
+    "admin_name": "Trabzon",
+    "lat": "40.9422",
+    "lng": "39.1942",
+    "id": "1792236277"
+  },
+  {
+    "city": "Alaçatı",
+    "city_ascii": "Alacati",
+    "admin_name": "İzmir",
+    "lat": "38.2814",
+    "lng": "26.3742",
+    "id": "1792668742"
+  },
+  {
+    "city": "Ortaköy",
+    "city_ascii": "Ortakoy",
+    "admin_name": "Mardin",
+    "lat": "37.2220",
+    "lng": "40.7850",
+    "id": "1792472529"
+  },
+  {
+    "city": "Ekinözü",
+    "city_ascii": "Ekinozu",
+    "admin_name": "Kahramanmaraş",
+    "lat": "38.0617",
+    "lng": "37.1928",
+    "id": "1792883375"
+  },
+  {
+    "city": "Çukurca",
+    "city_ascii": "Cukurca",
+    "admin_name": "Hakkâri",
+    "lat": "37.2469",
+    "lng": "43.6117",
+    "id": "1792638324"
+  },
+  {
+    "city": "Akbez",
+    "city_ascii": "Akbez",
+    "admin_name": "Hatay",
+    "lat": "36.8500",
+    "lng": "36.5167",
+    "id": "1792364545"
+  },
+  {
+    "city": "Çanta",
+    "city_ascii": "Canta",
+    "admin_name": "İstanbul",
+    "lat": "41.0806",
+    "lng": "28.0819",
+    "id": "1792703053"
+  },
+  {
+    "city": "Gemerek",
+    "city_ascii": "Gemerek",
+    "admin_name": "Sivas",
+    "lat": "39.1819",
+    "lng": "36.0681",
+    "id": "1792500011"
+  },
+  {
+    "city": "Eleşkirt",
+    "city_ascii": "Eleskirt",
+    "admin_name": "Ağrı",
+    "lat": "39.7981",
+    "lng": "42.6744",
+    "id": "1792340352"
+  },
+  {
+    "city": "Kaynaşlı",
+    "city_ascii": "Kaynasli",
+    "admin_name": "Düzce",
+    "lat": "40.7667",
+    "lng": "31.3167",
+    "id": "1792399089"
+  },
+  {
+    "city": "Şarkîkaraağaç",
+    "city_ascii": "Sarkikaraagac",
+    "admin_name": "Isparta",
+    "lat": "38.0803",
+    "lng": "31.3658",
+    "id": "1792228308"
+  },
+  {
+    "city": "Kabataş",
+    "city_ascii": "Kabatas",
+    "admin_name": "Ordu",
+    "lat": "40.7500",
+    "lng": "37.4500",
+    "id": "1792452477"
+  },
+  {
+    "city": "Erenler",
+    "city_ascii": "Erenler",
+    "admin_name": "Afyonkarahisar",
+    "lat": "38.8197",
+    "lng": "30.5406",
+    "id": "1792934022"
+  },
+  {
+    "city": "Alpu",
+    "city_ascii": "Alpu",
+    "admin_name": "Eskişehir",
+    "lat": "39.7667",
+    "lng": "30.9500",
+    "id": "1792508454"
+  },
+  {
+    "city": "Arapgir",
+    "city_ascii": "Arapgir",
+    "admin_name": "Malatya",
+    "lat": "39.0333",
+    "lng": "38.4833",
+    "id": "1792675221"
+  },
+  {
+    "city": "Çilimli",
+    "city_ascii": "Cilimli",
+    "admin_name": "Düzce",
+    "lat": "40.9000",
+    "lng": "31.0500",
+    "id": "1792945570"
+  },
+  {
+    "city": "Kumçatı",
+    "city_ascii": "Kumcati",
+    "admin_name": "Şırnak",
+    "lat": "37.4710",
+    "lng": "42.3170",
+    "id": "1792767524"
+  },
+  {
+    "city": "Reşadiye",
+    "city_ascii": "Resadiye",
+    "admin_name": "Tokat",
+    "lat": "40.3914",
+    "lng": "37.3383",
+    "id": "1792866366"
+  },
+  {
+    "city": "Gökçeada",
+    "city_ascii": "Gokceada",
+    "admin_name": "Çanakkale",
+    "lat": "40.1608",
+    "lng": "25.8444",
+    "id": "1792337209"
+  },
+  {
+    "city": "Ayvacık",
+    "city_ascii": "Ayvacik",
+    "admin_name": "Çanakkale",
+    "lat": "39.6011",
+    "lng": "26.4047",
+    "id": "1792135489"
+  },
+  {
+    "city": "Kadriye",
+    "city_ascii": "Kadriye",
+    "admin_name": "Antalya",
+    "lat": "36.8500",
+    "lng": "31.0500",
+    "id": "1792905998"
+  },
+  {
+    "city": "Çerkeş",
+    "city_ascii": "Cerkes",
+    "admin_name": "Çankırı",
+    "lat": "40.8139",
+    "lng": "32.8908",
+    "id": "1792814201"
+  },
+  {
+    "city": "Tuzluca",
+    "city_ascii": "Tuzluca",
+    "admin_name": "Iğdır",
+    "lat": "40.0494",
+    "lng": "43.6608",
+    "id": "1792848113"
+  },
+  {
+    "city": "Yazıkonak",
+    "city_ascii": "Yazikonak",
+    "admin_name": "Elazığ",
+    "lat": "38.6167",
+    "lng": "39.3000",
+    "id": "1792695742"
+  },
+  {
+    "city": "Palu",
+    "city_ascii": "Palu",
+    "admin_name": "Elazığ",
+    "lat": "38.7039",
+    "lng": "39.9511",
+    "id": "1792036043"
+  },
+  {
+    "city": "Kadıköy",
+    "city_ascii": "Kadikoy",
+    "admin_name": "Yalova",
+    "lat": "40.6167",
+    "lng": "29.2333",
+    "id": "1792939698"
+  },
+  {
+    "city": "Çekerek",
+    "city_ascii": "Cekerek",
+    "admin_name": "Yozgat",
+    "lat": "40.0731",
+    "lng": "35.4947",
+    "id": "1792189001"
+  },
+  {
+    "city": "Güney",
+    "city_ascii": "Guney",
+    "admin_name": "Denizli",
+    "lat": "38.1544",
+    "lng": "29.0678",
+    "id": "1792234084"
+  },
+  {
+    "city": "Çeltik",
+    "city_ascii": "Celtik",
+    "admin_name": "Konya",
+    "lat": "39.0244",
+    "lng": "31.7906",
+    "id": "1792104083"
+  },
+  {
+    "city": "Gümüşova",
+    "city_ascii": "Gumusova",
+    "admin_name": "Düzce",
+    "lat": "40.8500",
+    "lng": "30.9333",
+    "id": "1792761137"
+  },
+  {
+    "city": "Karkamış",
+    "city_ascii": "Karkamis",
+    "admin_name": "Gaziantep",
+    "lat": "36.8339",
+    "lng": "37.9969",
+    "id": "1792055477"
+  },
+  {
+    "city": "Sarız",
+    "city_ascii": "Sariz",
+    "admin_name": "Kayseri",
+    "lat": "38.4792",
+    "lng": "36.5006",
+    "id": "1792887641"
+  },
+  {
+    "city": "Güneysınır",
+    "city_ascii": "Guneysinir",
+    "admin_name": "Konya",
+    "lat": "37.2981",
+    "lng": "32.7211",
+    "id": "1792815538"
+  },
+  {
+    "city": "Keşap",
+    "city_ascii": "Kesap",
+    "admin_name": "Giresun",
+    "lat": "40.9167",
+    "lng": "38.5167",
+    "id": "1792267978"
+  },
+  {
+    "city": "Çobanlar",
+    "city_ascii": "Cobanlar",
+    "admin_name": "Afyonkarahisar",
+    "lat": "38.7000",
+    "lng": "30.7833",
+    "id": "1792683899"
+  },
+  {
+    "city": "Keskin",
+    "city_ascii": "Keskin",
+    "admin_name": "Kırıkkale",
+    "lat": "39.6731",
+    "lng": "33.6136",
+    "id": "1792416544"
+  },
+  {
+    "city": "Belek",
+    "city_ascii": "Belek",
+    "admin_name": "Antalya",
+    "lat": "36.8500",
+    "lng": "31.0500",
+    "id": "1792081004"
+  },
+  {
+    "city": "Karayılan",
+    "city_ascii": "Karayilan",
+    "admin_name": "Hatay",
+    "lat": "36.7167",
+    "lng": "36.2333",
+    "id": "1792300170"
+  },
+  {
+    "city": "Altınova",
+    "city_ascii": "Altinova",
+    "admin_name": "Yalova",
+    "lat": "40.6975",
+    "lng": "29.5114",
+    "id": "1792919647"
+  },
+  {
+    "city": "Yenice",
+    "city_ascii": "Yenice",
+    "admin_name": "Karabük",
+    "lat": "41.2000",
+    "lng": "32.3292",
+    "id": "1792456391"
+  },
+  {
+    "city": "Karlıova",
+    "city_ascii": "Karliova",
+    "admin_name": "Bingöl",
+    "lat": "39.2992",
+    "lng": "41.0142",
+    "id": "1792947397"
+  },
+  {
+    "city": "Kangal",
+    "city_ascii": "Kangal",
+    "admin_name": "Sivas",
+    "lat": "39.2367",
+    "lng": "37.3886",
+    "id": "1792418082"
+  },
+  {
+    "city": "Büyükorhan",
+    "city_ascii": "Buyukorhan",
+    "admin_name": "Bursa",
+    "lat": "39.7500",
+    "lng": "28.9167",
+    "id": "1792732842"
+  },
+  {
+    "city": "Eruh",
+    "city_ascii": "Eruh",
+    "admin_name": "Siirt",
+    "lat": "37.7497",
+    "lng": "42.1797",
+    "id": "1792341278"
+  },
+  {
+    "city": "Şabanözü",
+    "city_ascii": "Sabanozu",
+    "admin_name": "Çankırı",
+    "lat": "40.4825",
+    "lng": "33.2836",
+    "id": "1792482025"
+  },
+  {
+    "city": "Şefaatlı",
+    "city_ascii": "Sefaatli",
+    "admin_name": "Yozgat",
+    "lat": "39.5017",
+    "lng": "34.7522",
+    "id": "1792923271"
+  },
+  {
+    "city": "Aktepe",
+    "city_ascii": "Aktepe",
+    "admin_name": "Hatay",
+    "lat": "36.7000",
+    "lng": "36.4833",
+    "id": "1792000013"
+  },
+  {
+    "city": "Güneysu",
+    "city_ascii": "Guneysu",
+    "admin_name": "Rize",
+    "lat": "40.9781",
+    "lng": "40.6136",
+    "id": "1792000480"
+  },
+  {
+    "city": "Havsa",
+    "city_ascii": "Havsa",
+    "admin_name": "Edirne",
+    "lat": "41.5492",
+    "lng": "26.8217",
+    "id": "1792330361"
+  },
+  {
+    "city": "Yakakent",
+    "city_ascii": "Yakakent",
+    "admin_name": "Samsun",
+    "lat": "41.6222",
+    "lng": "35.5314",
+    "id": "1792258127"
+  },
+  {
+    "city": "Gökçebey",
+    "city_ascii": "Gokcebey",
+    "admin_name": "Zonguldak",
+    "lat": "41.3081",
+    "lng": "32.1417",
+    "id": "1792723189"
+  },
+  {
+    "city": "Adalar",
+    "city_ascii": "Adalar",
+    "admin_name": "İstanbul",
+    "lat": "40.8578",
+    "lng": "29.1200",
+    "id": "1792141367"
+  },
+  {
+    "city": "Kızılcaşar",
+    "city_ascii": "Kizilcasar",
+    "admin_name": "Ankara",
+    "lat": "39.8167",
+    "lng": "32.7333",
+    "id": "1792020958"
+  }
+]

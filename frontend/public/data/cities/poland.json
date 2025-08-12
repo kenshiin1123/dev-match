@@ -1,0 +1,3698 @@
+[
+  {
+    "city": "Warsaw",
+    "city_ascii": "Warsaw",
+    "admin_name": "Mazowieckie",
+    "lat": "52.2300",
+    "lng": "21.0111",
+    "id": "1616024847"
+  },
+  {
+    "city": "Kraków",
+    "city_ascii": "Krakow",
+    "admin_name": "Małopolskie",
+    "lat": "50.0614",
+    "lng": "19.9372",
+    "id": "1616172264"
+  },
+  {
+    "city": "Gdańsk",
+    "city_ascii": "Gdansk",
+    "admin_name": "Pomorskie",
+    "lat": "54.3475",
+    "lng": "18.6453",
+    "id": "1616406372"
+  },
+  {
+    "city": "Wrocław",
+    "city_ascii": "Wroclaw",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.1100",
+    "lng": "17.0325",
+    "id": "1616108520"
+  },
+  {
+    "city": "Łódź",
+    "city_ascii": "Lodz",
+    "admin_name": "Łódzkie",
+    "lat": "51.7769",
+    "lng": "19.4547",
+    "id": "1616832750"
+  },
+  {
+    "city": "Poznań",
+    "city_ascii": "Poznan",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.4083",
+    "lng": "16.9336",
+    "id": "1616725607"
+  },
+  {
+    "city": "Szczecin",
+    "city_ascii": "Szczecin",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.4325",
+    "lng": "14.5481",
+    "id": "1616256546"
+  },
+  {
+    "city": "Bydgoszcz",
+    "city_ascii": "Bydgoszcz",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "53.1219",
+    "lng": "18.0003",
+    "id": "1616454014"
+  },
+  {
+    "city": "Lublin",
+    "city_ascii": "Lublin",
+    "admin_name": "Lubelskie",
+    "lat": "51.2500",
+    "lng": "22.5667",
+    "id": "1616953501"
+  },
+  {
+    "city": "Białystok",
+    "city_ascii": "Bialystok",
+    "admin_name": "Podlaskie",
+    "lat": "53.1353",
+    "lng": "23.1456",
+    "id": "1616443575"
+  },
+  {
+    "city": "Katowice",
+    "city_ascii": "Katowice",
+    "admin_name": "Śląskie",
+    "lat": "50.2625",
+    "lng": "19.0217",
+    "id": "1616798495"
+  },
+  {
+    "city": "Gdynia",
+    "city_ascii": "Gdynia",
+    "admin_name": "Pomorskie",
+    "lat": "54.5175",
+    "lng": "18.5400",
+    "id": "1616385189"
+  },
+  {
+    "city": "Zielona Góra",
+    "city_ascii": "Zielona Gora",
+    "admin_name": "Lubuskie",
+    "lat": "51.9333",
+    "lng": "15.5000",
+    "id": "1616050904"
+  },
+  {
+    "city": "Częstochowa",
+    "city_ascii": "Czestochowa",
+    "admin_name": "Śląskie",
+    "lat": "50.8000",
+    "lng": "19.1167",
+    "id": "1616881632"
+  },
+  {
+    "city": "Radom",
+    "city_ascii": "Radom",
+    "admin_name": "Mazowieckie",
+    "lat": "51.4036",
+    "lng": "21.1567",
+    "id": "1616327727"
+  },
+  {
+    "city": "Toruń",
+    "city_ascii": "Torun",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "53.0222",
+    "lng": "18.6111",
+    "id": "1616267221"
+  },
+  {
+    "city": "Rzeszów",
+    "city_ascii": "Rzeszow",
+    "admin_name": "Podkarpackie",
+    "lat": "50.0333",
+    "lng": "22.0000",
+    "id": "1616879570"
+  },
+  {
+    "city": "Sosnowiec",
+    "city_ascii": "Sosnowiec",
+    "admin_name": "Śląskie",
+    "lat": "50.2833",
+    "lng": "19.1333",
+    "id": "1616057255"
+  },
+  {
+    "city": "Kielce",
+    "city_ascii": "Kielce",
+    "admin_name": "Świętokrzyskie",
+    "lat": "50.8742",
+    "lng": "20.6333",
+    "id": "1616176351"
+  },
+  {
+    "city": "Gliwice",
+    "city_ascii": "Gliwice",
+    "admin_name": "Śląskie",
+    "lat": "50.2833",
+    "lng": "18.6667",
+    "id": "1616311376"
+  },
+  {
+    "city": "Olsztyn",
+    "city_ascii": "Olsztyn",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "53.7778",
+    "lng": "20.4792",
+    "id": "1616383275"
+  },
+  {
+    "city": "Bielsko-Biała",
+    "city_ascii": "Bielsko-Biala",
+    "admin_name": "Śląskie",
+    "lat": "49.8225",
+    "lng": "19.0444",
+    "id": "1616302636"
+  },
+  {
+    "city": "Zabrze",
+    "city_ascii": "Zabrze",
+    "admin_name": "Śląskie",
+    "lat": "50.3025",
+    "lng": "18.7781",
+    "id": "1616784915"
+  },
+  {
+    "city": "Bytom",
+    "city_ascii": "Bytom",
+    "admin_name": "Śląskie",
+    "lat": "50.3483",
+    "lng": "18.9156",
+    "id": "1616740907"
+  },
+  {
+    "city": "Ruda Śląska",
+    "city_ascii": "Ruda Slaska",
+    "admin_name": "Śląskie",
+    "lat": "50.2628",
+    "lng": "18.8536",
+    "id": "1616148566"
+  },
+  {
+    "city": "Rybnik",
+    "city_ascii": "Rybnik",
+    "admin_name": "Śląskie",
+    "lat": "50.0833",
+    "lng": "18.5500",
+    "id": "1616092098"
+  },
+  {
+    "city": "Opole",
+    "city_ascii": "Opole",
+    "admin_name": "Opolskie",
+    "lat": "50.6667",
+    "lng": "17.9333",
+    "id": "1616096837"
+  },
+  {
+    "city": "Tychy",
+    "city_ascii": "Tychy",
+    "admin_name": "Śląskie",
+    "lat": "50.1236",
+    "lng": "18.9867",
+    "id": "1616396493"
+  },
+  {
+    "city": "Gorzów Wielkopolski",
+    "city_ascii": "Gorzow Wielkopolski",
+    "admin_name": "Lubuskie",
+    "lat": "52.7333",
+    "lng": "15.2500",
+    "id": "1616788025"
+  },
+  {
+    "city": "Dąbrowa Górnicza",
+    "city_ascii": "Dabrowa Gornicza",
+    "admin_name": "Śląskie",
+    "lat": "50.3214",
+    "lng": "19.1872",
+    "id": "1616312023"
+  },
+  {
+    "city": "Elbląg",
+    "city_ascii": "Elblag",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "54.1667",
+    "lng": "19.4000",
+    "id": "1616395994"
+  },
+  {
+    "city": "Płock",
+    "city_ascii": "Plock",
+    "admin_name": "Mazowieckie",
+    "lat": "52.5500",
+    "lng": "19.7000",
+    "id": "1616954507"
+  },
+  {
+    "city": "Tarnów",
+    "city_ascii": "Tarnow",
+    "admin_name": "Małopolskie",
+    "lat": "50.0125",
+    "lng": "20.9886",
+    "id": "1616375879"
+  },
+  {
+    "city": "Koszalin",
+    "city_ascii": "Koszalin",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "54.2000",
+    "lng": "16.1833",
+    "id": "1616258002"
+  },
+  {
+    "city": "Włocławek",
+    "city_ascii": "Wloclawek",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "52.6592",
+    "lng": "19.0681",
+    "id": "1616143097"
+  },
+  {
+    "city": "Wałbrzych",
+    "city_ascii": "Walbrzych",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.7667",
+    "lng": "16.2833",
+    "id": "1616162263"
+  },
+  {
+    "city": "Chorzów",
+    "city_ascii": "Chorzow",
+    "admin_name": "Śląskie",
+    "lat": "50.3000",
+    "lng": "18.9500",
+    "id": "1616517871"
+  },
+  {
+    "city": "Kalisz",
+    "city_ascii": "Kalisz",
+    "admin_name": "Wielkopolskie",
+    "lat": "51.7575",
+    "lng": "18.0800",
+    "id": "1616861321"
+  },
+  {
+    "city": "Legnica",
+    "city_ascii": "Legnica",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.2083",
+    "lng": "16.1603",
+    "id": "1616578356"
+  },
+  {
+    "city": "Grudziądz",
+    "city_ascii": "Grudziadz",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "53.4875",
+    "lng": "18.7550",
+    "id": "1616391533"
+  },
+  {
+    "city": "Jaworzno",
+    "city_ascii": "Jaworzno",
+    "admin_name": "Śląskie",
+    "lat": "50.2044",
+    "lng": "19.2700",
+    "id": "1616134743"
+  },
+  {
+    "city": "Słupsk",
+    "city_ascii": "Slupsk",
+    "admin_name": "Pomorskie",
+    "lat": "54.4658",
+    "lng": "17.0292",
+    "id": "1616346559"
+  },
+  {
+    "city": "Jastrzębie-Zdrój",
+    "city_ascii": "Jastrzebie-Zdroj",
+    "admin_name": "Śląskie",
+    "lat": "49.9500",
+    "lng": "18.5833",
+    "id": "1616365516"
+  },
+  {
+    "city": "Nowy Sącz",
+    "city_ascii": "Nowy Sacz",
+    "admin_name": "Małopolskie",
+    "lat": "49.6239",
+    "lng": "20.6972",
+    "id": "1616869871"
+  },
+  {
+    "city": "Skarżysko-Kamienna",
+    "city_ascii": "Skarzysko-Kamienna",
+    "admin_name": "Świętokrzyskie",
+    "lat": "51.1167",
+    "lng": "20.9167",
+    "id": "1616858398"
+  },
+  {
+    "city": "Jelenia Góra",
+    "city_ascii": "Jelenia Gora",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.9033",
+    "lng": "15.7344",
+    "id": "1616105652"
+  },
+  {
+    "city": "Siedlce",
+    "city_ascii": "Siedlce",
+    "admin_name": "Mazowieckie",
+    "lat": "52.1650",
+    "lng": "22.2714",
+    "id": "1616939180"
+  },
+  {
+    "city": "Mysłowice",
+    "city_ascii": "Myslowice",
+    "admin_name": "Śląskie",
+    "lat": "50.2333",
+    "lng": "19.1333",
+    "id": "1616757185"
+  },
+  {
+    "city": "Piła",
+    "city_ascii": "Pila",
+    "admin_name": "Wielkopolskie",
+    "lat": "53.1500",
+    "lng": "16.7333",
+    "id": "1616414354"
+  },
+  {
+    "city": "Ostrów Wielkopolski",
+    "city_ascii": "Ostrow Wielkopolski",
+    "admin_name": "Wielkopolskie",
+    "lat": "51.6494",
+    "lng": "17.8164",
+    "id": "1616691422"
+  },
+  {
+    "city": "Lubin",
+    "city_ascii": "Lubin",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.3972",
+    "lng": "16.2056",
+    "id": "1616748050"
+  },
+  {
+    "city": "Konin",
+    "city_ascii": "Konin",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.2167",
+    "lng": "18.2667",
+    "id": "1616883533"
+  },
+  {
+    "city": "Inowrocław",
+    "city_ascii": "Inowroclaw",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "52.7931",
+    "lng": "18.2611",
+    "id": "1616606592"
+  },
+  {
+    "city": "Piotrków Trybunalski",
+    "city_ascii": "Piotrkow Trybunalski",
+    "admin_name": "Łódzkie",
+    "lat": "51.4000",
+    "lng": "19.6833",
+    "id": "1616450789"
+  },
+  {
+    "city": "Suwałki",
+    "city_ascii": "Suwalki",
+    "admin_name": "Podlaskie",
+    "lat": "54.0989",
+    "lng": "22.9286",
+    "id": "1616523627"
+  },
+  {
+    "city": "Stargard Szczeciński",
+    "city_ascii": "Stargard Szczecinski",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.3333",
+    "lng": "15.0333",
+    "id": "1616480646"
+  },
+  {
+    "city": "Gniezno",
+    "city_ascii": "Gniezno",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.5358",
+    "lng": "17.5958",
+    "id": "1616984350"
+  },
+  {
+    "city": "Pruszków",
+    "city_ascii": "Pruszkow",
+    "admin_name": "Mazowieckie",
+    "lat": "52.1667",
+    "lng": "20.8000",
+    "id": "1616154673"
+  },
+  {
+    "city": "Ostrowiec Świętokrzyski",
+    "city_ascii": "Ostrowiec Swietokrzyski",
+    "admin_name": "Świętokrzyskie",
+    "lat": "50.9333",
+    "lng": "21.4000",
+    "id": "1616984527"
+  },
+  {
+    "city": "Głogów",
+    "city_ascii": "Glogow",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.6589",
+    "lng": "16.0803",
+    "id": "1616244076"
+  },
+  {
+    "city": "Siemianowice Śląskie",
+    "city_ascii": "Siemianowice Slaskie",
+    "admin_name": "Śląskie",
+    "lat": "50.2758",
+    "lng": "18.9858",
+    "id": "1616000741"
+  },
+  {
+    "city": "Pabianice",
+    "city_ascii": "Pabianice",
+    "admin_name": "Łódzkie",
+    "lat": "51.6500",
+    "lng": "19.3833",
+    "id": "1616294006"
+  },
+  {
+    "city": "Żory",
+    "city_ascii": "Zory",
+    "admin_name": "Śląskie",
+    "lat": "50.0500",
+    "lng": "18.7000",
+    "id": "1616545481"
+  },
+  {
+    "city": "Leszno",
+    "city_ascii": "Leszno",
+    "admin_name": "Wielkopolskie",
+    "lat": "51.8458",
+    "lng": "16.5806",
+    "id": "1616030015"
+  },
+  {
+    "city": "Tarnowskie Góry",
+    "city_ascii": "Tarnowskie Gory",
+    "admin_name": "Śląskie",
+    "lat": "50.4444",
+    "lng": "18.8583",
+    "id": "1616868201"
+  },
+  {
+    "city": "Łomża",
+    "city_ascii": "Lomza",
+    "admin_name": "Podlaskie",
+    "lat": "53.1764",
+    "lng": "22.0731",
+    "id": "1616678952"
+  },
+  {
+    "city": "Ełk",
+    "city_ascii": "Elk",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "53.8214",
+    "lng": "22.3622",
+    "id": "1616783003"
+  },
+  {
+    "city": "Zamość",
+    "city_ascii": "Zamosc",
+    "admin_name": "Lubelskie",
+    "lat": "50.7167",
+    "lng": "23.2528",
+    "id": "1616490229"
+  },
+  {
+    "city": "Chełm",
+    "city_ascii": "Chelm",
+    "admin_name": "Lubelskie",
+    "lat": "51.1322",
+    "lng": "23.4778",
+    "id": "1616688578"
+  },
+  {
+    "city": "Przemyśl",
+    "city_ascii": "Przemysl",
+    "admin_name": "Podkarpackie",
+    "lat": "49.7833",
+    "lng": "22.7667",
+    "id": "1616506094"
+  },
+  {
+    "city": "Mielec",
+    "city_ascii": "Mielec",
+    "admin_name": "Podkarpackie",
+    "lat": "50.2833",
+    "lng": "21.4333",
+    "id": "1616825607"
+  },
+  {
+    "city": "Tczew",
+    "city_ascii": "Tczew",
+    "admin_name": "Pomorskie",
+    "lat": "54.0875",
+    "lng": "18.7972",
+    "id": "1616578037"
+  },
+  {
+    "city": "Stalowa Wola",
+    "city_ascii": "Stalowa Wola",
+    "admin_name": "Podkarpackie",
+    "lat": "50.5667",
+    "lng": "22.0500",
+    "id": "1616964956"
+  },
+  {
+    "city": "Tomaszów Mazowiecki",
+    "city_ascii": "Tomaszow Mazowiecki",
+    "admin_name": "Łódzkie",
+    "lat": "51.5167",
+    "lng": "20.0167",
+    "id": "1616394410"
+  },
+  {
+    "city": "Kędzierzyn-Koźle",
+    "city_ascii": "Kedzierzyn-Kozle",
+    "admin_name": "Opolskie",
+    "lat": "50.3500",
+    "lng": "18.2000",
+    "id": "1616306372"
+  },
+  {
+    "city": "Będzin",
+    "city_ascii": "Bedzin",
+    "admin_name": "Śląskie",
+    "lat": "50.3333",
+    "lng": "19.1167",
+    "id": "1616409616"
+  },
+  {
+    "city": "Biała Podlaska",
+    "city_ascii": "Biala Podlaska",
+    "admin_name": "Lubelskie",
+    "lat": "52.0333",
+    "lng": "23.1167",
+    "id": "1616025020"
+  },
+  {
+    "city": "Zgierz",
+    "city_ascii": "Zgierz",
+    "admin_name": "Łódzkie",
+    "lat": "51.8500",
+    "lng": "19.4167",
+    "id": "1616382343"
+  },
+  {
+    "city": "Świdnica",
+    "city_ascii": "Swidnica",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.8500",
+    "lng": "16.4833",
+    "id": "1616002338"
+  },
+  {
+    "city": "Bełchatów",
+    "city_ascii": "Belchatow",
+    "admin_name": "Łódzkie",
+    "lat": "51.3667",
+    "lng": "19.3667",
+    "id": "1616973390"
+  },
+  {
+    "city": "Legionowo",
+    "city_ascii": "Legionowo",
+    "admin_name": "Mazowieckie",
+    "lat": "52.4000",
+    "lng": "20.8833",
+    "id": "1616994284"
+  },
+  {
+    "city": "Piaseczno",
+    "city_ascii": "Piaseczno",
+    "admin_name": "Mazowieckie",
+    "lat": "52.0667",
+    "lng": "21.0167",
+    "id": "1616877485"
+  },
+  {
+    "city": "Rumia",
+    "city_ascii": "Rumia",
+    "admin_name": "Pomorskie",
+    "lat": "54.5667",
+    "lng": "18.4000",
+    "id": "1616655416"
+  },
+  {
+    "city": "Piekary Śląskie",
+    "city_ascii": "Piekary Slaskie",
+    "admin_name": "Śląskie",
+    "lat": "50.3833",
+    "lng": "18.9500",
+    "id": "1616227996"
+  },
+  {
+    "city": "Racibórz",
+    "city_ascii": "Raciborz",
+    "admin_name": "Śląskie",
+    "lat": "50.0833",
+    "lng": "18.2333",
+    "id": "1616829452"
+  },
+  {
+    "city": "Ostrołęka",
+    "city_ascii": "Ostroleka",
+    "admin_name": "Mazowieckie",
+    "lat": "53.0667",
+    "lng": "21.5667",
+    "id": "1616360926"
+  },
+  {
+    "city": "Zawiercie",
+    "city_ascii": "Zawiercie",
+    "admin_name": "Śląskie",
+    "lat": "50.5000",
+    "lng": "19.4167",
+    "id": "1616113254"
+  },
+  {
+    "city": "Świętochłowice",
+    "city_ascii": "Swietochlowice",
+    "admin_name": "Śląskie",
+    "lat": "50.2919",
+    "lng": "18.9178",
+    "id": "1616910155"
+  },
+  {
+    "city": "Wejherowo",
+    "city_ascii": "Wejherowo",
+    "admin_name": "Pomorskie",
+    "lat": "54.6000",
+    "lng": "18.2500",
+    "id": "1616233029"
+  },
+  {
+    "city": "Skierniewice",
+    "city_ascii": "Skierniewice",
+    "admin_name": "Łódzkie",
+    "lat": "51.9528",
+    "lng": "20.1417",
+    "id": "1616077823"
+  },
+  {
+    "city": "Starogard Gdański",
+    "city_ascii": "Starogard Gdanski",
+    "admin_name": "Pomorskie",
+    "lat": "53.9667",
+    "lng": "18.5333",
+    "id": "1616735469"
+  },
+  {
+    "city": "Starachowice",
+    "city_ascii": "Starachowice",
+    "admin_name": "Świętokrzyskie",
+    "lat": "51.0500",
+    "lng": "21.0667",
+    "id": "1616418874"
+  },
+  {
+    "city": "Wodzisław Śląski",
+    "city_ascii": "Wodzislaw Slaski",
+    "admin_name": "Śląskie",
+    "lat": "50.0000",
+    "lng": "18.4500",
+    "id": "1616578364"
+  },
+  {
+    "city": "Puławy",
+    "city_ascii": "Pulawy",
+    "admin_name": "Lubelskie",
+    "lat": "51.4167",
+    "lng": "21.9667",
+    "id": "1616098904"
+  },
+  {
+    "city": "Krosno",
+    "city_ascii": "Krosno",
+    "admin_name": "Podkarpackie",
+    "lat": "49.6833",
+    "lng": "21.7500",
+    "id": "1616223462"
+  },
+  {
+    "city": "Tarnobrzeg",
+    "city_ascii": "Tarnobrzeg",
+    "admin_name": "Podkarpackie",
+    "lat": "50.5833",
+    "lng": "21.6833",
+    "id": "1616631454"
+  },
+  {
+    "city": "Otwock",
+    "city_ascii": "Otwock",
+    "admin_name": "Mazowieckie",
+    "lat": "52.1167",
+    "lng": "21.2667",
+    "id": "1616596983"
+  },
+  {
+    "city": "Radomsko",
+    "city_ascii": "Radomsko",
+    "admin_name": "Łódzkie",
+    "lat": "51.0667",
+    "lng": "19.4500",
+    "id": "1616575463"
+  },
+  {
+    "city": "Kołobrzeg",
+    "city_ascii": "Kolobrzeg",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "54.1761",
+    "lng": "15.5761",
+    "id": "1616732501"
+  },
+  {
+    "city": "Dębica",
+    "city_ascii": "Debica",
+    "admin_name": "Podkarpackie",
+    "lat": "50.0500",
+    "lng": "21.4167",
+    "id": "1616197893"
+  },
+  {
+    "city": "Ząbki",
+    "city_ascii": "Zabki",
+    "admin_name": "Mazowieckie",
+    "lat": "52.2928",
+    "lng": "21.1161",
+    "id": "1616088121"
+  },
+  {
+    "city": "Ciechanów",
+    "city_ascii": "Ciechanow",
+    "admin_name": "Mazowieckie",
+    "lat": "52.8667",
+    "lng": "20.6333",
+    "id": "1616466171"
+  },
+  {
+    "city": "Kutno",
+    "city_ascii": "Kutno",
+    "admin_name": "Łódzkie",
+    "lat": "52.2333",
+    "lng": "19.3667",
+    "id": "1616586955"
+  },
+  {
+    "city": "Marki",
+    "city_ascii": "Marki",
+    "admin_name": "Mazowieckie",
+    "lat": "52.3333",
+    "lng": "21.1000",
+    "id": "1616076713"
+  },
+  {
+    "city": "Nysa",
+    "city_ascii": "Nysa",
+    "admin_name": "Opolskie",
+    "lat": "50.4714",
+    "lng": "17.3339",
+    "id": "1616093801"
+  },
+  {
+    "city": "Mikołów",
+    "city_ascii": "Mikolow",
+    "admin_name": "Śląskie",
+    "lat": "50.1667",
+    "lng": "18.9000",
+    "id": "1616187671"
+  },
+  {
+    "city": "Mińsk Mazowiecki",
+    "city_ascii": "Minsk Mazowiecki",
+    "admin_name": "Mazowieckie",
+    "lat": "52.1833",
+    "lng": "21.5667",
+    "id": "1616444517"
+  },
+  {
+    "city": "Sieradz",
+    "city_ascii": "Sieradz",
+    "admin_name": "Łódzkie",
+    "lat": "51.6000",
+    "lng": "18.7500",
+    "id": "1616121526"
+  },
+  {
+    "city": "Żyrardów",
+    "city_ascii": "Zyrardow",
+    "admin_name": "Mazowieckie",
+    "lat": "52.0500",
+    "lng": "20.4333",
+    "id": "1616145588"
+  },
+  {
+    "city": "Chojnice",
+    "city_ascii": "Chojnice",
+    "admin_name": "Pomorskie",
+    "lat": "53.7000",
+    "lng": "17.5500",
+    "id": "1616746687"
+  },
+  {
+    "city": "Świnoujście",
+    "city_ascii": "Swinoujscie",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.9167",
+    "lng": "14.2500",
+    "id": "1616487084"
+  },
+  {
+    "city": "Szczecinek",
+    "city_ascii": "Szczecinek",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.7167",
+    "lng": "16.6833",
+    "id": "1616218175"
+  },
+  {
+    "city": "Świdnik",
+    "city_ascii": "Swidnik",
+    "admin_name": "Lubelskie",
+    "lat": "51.2167",
+    "lng": "22.7000",
+    "id": "1616873846"
+  },
+  {
+    "city": "Kwidzyn",
+    "city_ascii": "Kwidzyn",
+    "admin_name": "Pomorskie",
+    "lat": "53.7358",
+    "lng": "18.9308",
+    "id": "1616851475"
+  },
+  {
+    "city": "Malbork",
+    "city_ascii": "Malbork",
+    "admin_name": "Pomorskie",
+    "lat": "54.0333",
+    "lng": "19.0333",
+    "id": "1616964352"
+  },
+  {
+    "city": "Bolesławiec",
+    "city_ascii": "Boleslawiec",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.2667",
+    "lng": "15.5667",
+    "id": "1616593724"
+  },
+  {
+    "city": "Oświęcim",
+    "city_ascii": "Oswiecim",
+    "admin_name": "Małopolskie",
+    "lat": "50.0381",
+    "lng": "19.2214",
+    "id": "1616528804"
+  },
+  {
+    "city": "Nowa Sól",
+    "city_ascii": "Nowa Sol",
+    "admin_name": "Lubuskie",
+    "lat": "51.8000",
+    "lng": "15.7167",
+    "id": "1616040847"
+  },
+  {
+    "city": "Knurów",
+    "city_ascii": "Knurow",
+    "admin_name": "Śląskie",
+    "lat": "50.2167",
+    "lng": "18.6833",
+    "id": "1616347151"
+  },
+  {
+    "city": "Wołomin",
+    "city_ascii": "Wolomin",
+    "admin_name": "Mazowieckie",
+    "lat": "52.3500",
+    "lng": "21.2333",
+    "id": "1616965427"
+  },
+  {
+    "city": "Jarosław",
+    "city_ascii": "Jaroslaw",
+    "admin_name": "Podkarpackie",
+    "lat": "50.0186",
+    "lng": "22.6797",
+    "id": "1616590558"
+  },
+  {
+    "city": "Żary",
+    "city_ascii": "Zary",
+    "admin_name": "Lubuskie",
+    "lat": "51.6333",
+    "lng": "15.1333",
+    "id": "1616092414"
+  },
+  {
+    "city": "Oleśnica",
+    "city_ascii": "Olesnica",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.2000",
+    "lng": "17.3833",
+    "id": "1616255385"
+  },
+  {
+    "city": "Sanok",
+    "city_ascii": "Sanok",
+    "admin_name": "Podkarpackie",
+    "lat": "49.5500",
+    "lng": "22.2167",
+    "id": "1616025467"
+  },
+  {
+    "city": "Czechowice-Dziedzice",
+    "city_ascii": "Czechowice-Dziedzice",
+    "admin_name": "Śląskie",
+    "lat": "49.9131",
+    "lng": "19.0064",
+    "id": "1616154009"
+  },
+  {
+    "city": "Chrzanów",
+    "city_ascii": "Chrzanow",
+    "admin_name": "Małopolskie",
+    "lat": "50.1333",
+    "lng": "19.4000",
+    "id": "1616227522"
+  },
+  {
+    "city": "Sopot",
+    "city_ascii": "Sopot",
+    "admin_name": "Pomorskie",
+    "lat": "54.4333",
+    "lng": "18.5500",
+    "id": "1616375300"
+  },
+  {
+    "city": "Lębork",
+    "city_ascii": "Lebork",
+    "admin_name": "Pomorskie",
+    "lat": "54.5500",
+    "lng": "17.7500",
+    "id": "1616424238"
+  },
+  {
+    "city": "Brzeg",
+    "city_ascii": "Brzeg",
+    "admin_name": "Opolskie",
+    "lat": "50.8667",
+    "lng": "17.4833",
+    "id": "1616000502"
+  },
+  {
+    "city": "Sochaczew",
+    "city_ascii": "Sochaczew",
+    "admin_name": "Mazowieckie",
+    "lat": "52.2333",
+    "lng": "20.2333",
+    "id": "1616172675"
+  },
+  {
+    "city": "Podgórze",
+    "city_ascii": "Podgorze",
+    "admin_name": "Małopolskie",
+    "lat": "50.0417",
+    "lng": "19.9833",
+    "id": "1616725175"
+  },
+  {
+    "city": "Cieszyn",
+    "city_ascii": "Cieszyn",
+    "admin_name": "Śląskie",
+    "lat": "49.7484",
+    "lng": "18.6332",
+    "id": "1616089679"
+  },
+  {
+    "city": "Jasło",
+    "city_ascii": "Jaslo",
+    "admin_name": "Podkarpackie",
+    "lat": "49.7478",
+    "lng": "21.4714",
+    "id": "1616015306"
+  },
+  {
+    "city": "Grodzisk Mazowiecki",
+    "city_ascii": "Grodzisk Mazowiecki",
+    "admin_name": "Mazowieckie",
+    "lat": "52.1089",
+    "lng": "20.6250",
+    "id": "1616204400"
+  },
+  {
+    "city": "Olkusz",
+    "city_ascii": "Olkusz",
+    "admin_name": "Małopolskie",
+    "lat": "50.2833",
+    "lng": "19.5667",
+    "id": "1616458567"
+  },
+  {
+    "city": "Nowy Targ",
+    "city_ascii": "Nowy Targ",
+    "admin_name": "Małopolskie",
+    "lat": "49.4667",
+    "lng": "20.0167",
+    "id": "1616880514"
+  },
+  {
+    "city": "Oława",
+    "city_ascii": "Olawa",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.9333",
+    "lng": "17.3000",
+    "id": "1616142881"
+  },
+  {
+    "city": "Luboń",
+    "city_ascii": "Lubon",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.3333",
+    "lng": "16.8833",
+    "id": "1616642403"
+  },
+  {
+    "city": "Iława",
+    "city_ascii": "Ilawa",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "53.5964",
+    "lng": "19.5656",
+    "id": "1616033026"
+  },
+  {
+    "city": "Kraśnik",
+    "city_ascii": "Krasnik",
+    "admin_name": "Lubelskie",
+    "lat": "50.9167",
+    "lng": "22.2167",
+    "id": "1616082443"
+  },
+  {
+    "city": "Września",
+    "city_ascii": "Wrzesnia",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.3333",
+    "lng": "17.5833",
+    "id": "1616719550"
+  },
+  {
+    "city": "Dzierżoniów",
+    "city_ascii": "Dzierzoniow",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.7281",
+    "lng": "16.6511",
+    "id": "1616826931"
+  },
+  {
+    "city": "Pruszcz Gdański",
+    "city_ascii": "Pruszcz Gdanski",
+    "admin_name": "Pomorskie",
+    "lat": "54.2667",
+    "lng": "18.6333",
+    "id": "1616008731"
+  },
+  {
+    "city": "Mława",
+    "city_ascii": "Mlawa",
+    "admin_name": "Mazowieckie",
+    "lat": "53.1167",
+    "lng": "20.3667",
+    "id": "1616236136"
+  },
+  {
+    "city": "Czeladź",
+    "city_ascii": "Czeladz",
+    "admin_name": "Śląskie",
+    "lat": "50.3333",
+    "lng": "19.0833",
+    "id": "1616073267"
+  },
+  {
+    "city": "Police",
+    "city_ascii": "Police",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.5333",
+    "lng": "14.5667",
+    "id": "1616953743"
+  },
+  {
+    "city": "Myszków",
+    "city_ascii": "Myszkow",
+    "admin_name": "Śląskie",
+    "lat": "50.5706",
+    "lng": "19.3144",
+    "id": "1616173209"
+  },
+  {
+    "city": "Żywiec",
+    "city_ascii": "Zywiec",
+    "admin_name": "Śląskie",
+    "lat": "49.6892",
+    "lng": "19.2058",
+    "id": "1616870150"
+  },
+  {
+    "city": "Rury",
+    "city_ascii": "Rury",
+    "admin_name": "Lubelskie",
+    "lat": "51.2386",
+    "lng": "22.5164",
+    "id": "1616795231"
+  },
+  {
+    "city": "Zgorzelec",
+    "city_ascii": "Zgorzelec",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.1500",
+    "lng": "15.0083",
+    "id": "1616207310"
+  },
+  {
+    "city": "Augustów",
+    "city_ascii": "Augustow",
+    "admin_name": "Podlaskie",
+    "lat": "53.8436",
+    "lng": "22.9794",
+    "id": "1616778386"
+  },
+  {
+    "city": "Swarzędz",
+    "city_ascii": "Swarzedz",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.4083",
+    "lng": "17.0714",
+    "id": "1616602592"
+  },
+  {
+    "city": "Bielawa",
+    "city_ascii": "Bielawa",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.7000",
+    "lng": "16.6167",
+    "id": "1616721687"
+  },
+  {
+    "city": "Brodnica",
+    "city_ascii": "Brodnica",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "53.2597",
+    "lng": "19.3956",
+    "id": "1616831249"
+  },
+  {
+    "city": "Śrem",
+    "city_ascii": "Srem",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.0886",
+    "lng": "17.0147",
+    "id": "1616734639"
+  },
+  {
+    "city": "Krotoszyn",
+    "city_ascii": "Krotoszyn",
+    "admin_name": "Wielkopolskie",
+    "lat": "51.6833",
+    "lng": "17.4333",
+    "id": "1616105817"
+  },
+  {
+    "city": "Bochnia",
+    "city_ascii": "Bochnia",
+    "admin_name": "Małopolskie",
+    "lat": "49.9833",
+    "lng": "20.4333",
+    "id": "1616833825"
+  },
+  {
+    "city": "Nowy Dwór Mazowiecki",
+    "city_ascii": "Nowy Dwor Mazowiecki",
+    "admin_name": "Mazowieckie",
+    "lat": "52.4333",
+    "lng": "20.7167",
+    "id": "1616753471"
+  },
+  {
+    "city": "Reda",
+    "city_ascii": "Reda",
+    "admin_name": "Pomorskie",
+    "lat": "54.6167",
+    "lng": "18.3500",
+    "id": "1616665081"
+  },
+  {
+    "city": "Giżycko",
+    "city_ascii": "Gizycko",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "54.0400",
+    "lng": "21.7589",
+    "id": "1616807901"
+  },
+  {
+    "city": "Łuków",
+    "city_ascii": "Lukow",
+    "admin_name": "Lubelskie",
+    "lat": "51.9272",
+    "lng": "22.3833",
+    "id": "1616162700"
+  },
+  {
+    "city": "Kobyłka",
+    "city_ascii": "Kobylka",
+    "admin_name": "Mazowieckie",
+    "lat": "52.3333",
+    "lng": "21.2000",
+    "id": "1616520686"
+  },
+  {
+    "city": "Łowicz",
+    "city_ascii": "Lowicz",
+    "admin_name": "Łódzkie",
+    "lat": "52.1000",
+    "lng": "19.9333",
+    "id": "1616979860"
+  },
+  {
+    "city": "Wieliczka",
+    "city_ascii": "Wieliczka",
+    "admin_name": "Małopolskie",
+    "lat": "49.9894",
+    "lng": "20.0661",
+    "id": "1616249410"
+  },
+  {
+    "city": "Gorlice",
+    "city_ascii": "Gorlice",
+    "admin_name": "Małopolskie",
+    "lat": "49.6547",
+    "lng": "21.1597",
+    "id": "1616148150"
+  },
+  {
+    "city": "Jarocin",
+    "city_ascii": "Jarocin",
+    "admin_name": "Wielkopolskie",
+    "lat": "51.9667",
+    "lng": "17.5000",
+    "id": "1616201243"
+  },
+  {
+    "city": "Wyszków",
+    "city_ascii": "Wyszkow",
+    "admin_name": "Mazowieckie",
+    "lat": "52.5928",
+    "lng": "21.4584",
+    "id": "1616567857"
+  },
+  {
+    "city": "Kętrzyn",
+    "city_ascii": "Ketrzyn",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "54.0833",
+    "lng": "21.3833",
+    "id": "1616659048"
+  },
+  {
+    "city": "Halemba",
+    "city_ascii": "Halemba",
+    "admin_name": "Śląskie",
+    "lat": "50.2378",
+    "lng": "18.8633",
+    "id": "1616209216"
+  },
+  {
+    "city": "Wągrowiec",
+    "city_ascii": "Wagrowiec",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.8000",
+    "lng": "17.2000",
+    "id": "1616366641"
+  },
+  {
+    "city": "Zakopane",
+    "city_ascii": "Zakopane",
+    "admin_name": "Małopolskie",
+    "lat": "49.3000",
+    "lng": "19.9500",
+    "id": "1616298051"
+  },
+  {
+    "city": "Kłodzko",
+    "city_ascii": "Klodzko",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.4386",
+    "lng": "16.6550",
+    "id": "1616824014"
+  },
+  {
+    "city": "Pszczyna",
+    "city_ascii": "Pszczyna",
+    "admin_name": "Śląskie",
+    "lat": "49.9833",
+    "lng": "18.9500",
+    "id": "1616839287"
+  },
+  {
+    "city": "Biłgoraj",
+    "city_ascii": "Bilgoraj",
+    "admin_name": "Lubelskie",
+    "lat": "50.5500",
+    "lng": "22.7333",
+    "id": "1616554572"
+  },
+  {
+    "city": "Świecie",
+    "city_ascii": "Swiecie",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "53.4167",
+    "lng": "18.4333",
+    "id": "1616982457"
+  },
+  {
+    "city": "Turek",
+    "city_ascii": "Turek",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.0167",
+    "lng": "18.5000",
+    "id": "1616094895"
+  },
+  {
+    "city": "Bielsk Podlaski",
+    "city_ascii": "Bielsk Podlaski",
+    "admin_name": "Podlaskie",
+    "lat": "52.7667",
+    "lng": "23.2000",
+    "id": "1616037323"
+  },
+  {
+    "city": "Żagań",
+    "city_ascii": "Zagan",
+    "admin_name": "Lubuskie",
+    "lat": "51.6167",
+    "lng": "15.3167",
+    "id": "1616067846"
+  },
+  {
+    "city": "Łomianki",
+    "city_ascii": "Lomianki",
+    "admin_name": "Mazowieckie",
+    "lat": "52.3333",
+    "lng": "20.8833",
+    "id": "1616717475"
+  },
+  {
+    "city": "Środa Wielkopolska",
+    "city_ascii": "Sroda Wielkopolska",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.2333",
+    "lng": "17.2833",
+    "id": "1616107812"
+  },
+  {
+    "city": "Skawina",
+    "city_ascii": "Skawina",
+    "admin_name": "Małopolskie",
+    "lat": "49.9833",
+    "lng": "19.8333",
+    "id": "1616660724"
+  },
+  {
+    "city": "Wałcz",
+    "city_ascii": "Walcz",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.2667",
+    "lng": "16.4667",
+    "id": "1616129049"
+  },
+  {
+    "city": "Kościan",
+    "city_ascii": "Koscian",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.0833",
+    "lng": "16.6500",
+    "id": "1616047191"
+  },
+  {
+    "city": "Kościerzyna",
+    "city_ascii": "Koscierzyna",
+    "admin_name": "Pomorskie",
+    "lat": "54.1167",
+    "lng": "17.9833",
+    "id": "1616544683"
+  },
+  {
+    "city": "Lubliniec",
+    "city_ascii": "Lubliniec",
+    "admin_name": "Śląskie",
+    "lat": "50.6833",
+    "lng": "18.6833",
+    "id": "1616573478"
+  },
+  {
+    "city": "Piastów",
+    "city_ascii": "Piastow",
+    "admin_name": "Mazowieckie",
+    "lat": "52.1833",
+    "lng": "20.8500",
+    "id": "1616118197"
+  },
+  {
+    "city": "Białogard",
+    "city_ascii": "Bialogard",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "54.0000",
+    "lng": "15.9833",
+    "id": "1616159820"
+  },
+  {
+    "city": "Zduńska Wola",
+    "city_ascii": "Zdunska Wola",
+    "admin_name": "Łódzkie",
+    "lat": "51.6000",
+    "lng": "18.9667",
+    "id": "1616720651"
+  },
+  {
+    "city": "Kluczbork",
+    "city_ascii": "Kluczbork",
+    "admin_name": "Opolskie",
+    "lat": "50.9833",
+    "lng": "18.2167",
+    "id": "1616259508"
+  },
+  {
+    "city": "Szczytno",
+    "city_ascii": "Szczytno",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "53.5628",
+    "lng": "20.9853",
+    "id": "1616017427"
+  },
+  {
+    "city": "Bartoszyce",
+    "city_ascii": "Bartoszyce",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "54.2500",
+    "lng": "20.8000",
+    "id": "1616326744"
+  },
+  {
+    "city": "Świebodzice",
+    "city_ascii": "Swiebodzice",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.8667",
+    "lng": "16.3333",
+    "id": "1616959677"
+  },
+  {
+    "city": "Sandomierz",
+    "city_ascii": "Sandomierz",
+    "admin_name": "Świętokrzyskie",
+    "lat": "50.6833",
+    "lng": "21.7500",
+    "id": "1616893663"
+  },
+  {
+    "city": "Goleniów",
+    "city_ascii": "Goleniow",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.5636",
+    "lng": "14.8281",
+    "id": "1616391921"
+  },
+  {
+    "city": "Aleksandrów Łódzki",
+    "city_ascii": "Aleksandrow Lodzki",
+    "admin_name": "Łódzkie",
+    "lat": "51.8194",
+    "lng": "19.3039",
+    "id": "1616531721"
+  },
+  {
+    "city": "Ostrów Mazowiecka",
+    "city_ascii": "Ostrow Mazowiecka",
+    "admin_name": "Mazowieckie",
+    "lat": "52.8000",
+    "lng": "21.9000",
+    "id": "1616194953"
+  },
+  {
+    "city": "Płońsk",
+    "city_ascii": "Plonsk",
+    "admin_name": "Mazowieckie",
+    "lat": "52.6231",
+    "lng": "20.3706",
+    "id": "1616662594"
+  },
+  {
+    "city": "Polkowice",
+    "city_ascii": "Polkowice",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.5000",
+    "lng": "16.0667",
+    "id": "1616214914"
+  },
+  {
+    "city": "Orzesze",
+    "city_ascii": "Orzesze",
+    "admin_name": "Śląskie",
+    "lat": "50.1500",
+    "lng": "18.7500",
+    "id": "1616872368"
+  },
+  {
+    "city": "Łaziska Górne",
+    "city_ascii": "Laziska Gorne",
+    "admin_name": "Śląskie",
+    "lat": "50.1500",
+    "lng": "18.8500",
+    "id": "1616701110"
+  },
+  {
+    "city": "Jawor",
+    "city_ascii": "Jawor",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.0500",
+    "lng": "16.2000",
+    "id": "1616434559"
+  },
+  {
+    "city": "Świedbodzin",
+    "city_ascii": "Swiedbodzin",
+    "admin_name": "Lubuskie",
+    "lat": "52.2500",
+    "lng": "15.5333",
+    "id": "1616504526"
+  },
+  {
+    "city": "Grajewo",
+    "city_ascii": "Grajewo",
+    "admin_name": "Podlaskie",
+    "lat": "53.6500",
+    "lng": "22.4500",
+    "id": "1616787967"
+  },
+  {
+    "city": "Zambrów",
+    "city_ascii": "Zambrow",
+    "admin_name": "Podlaskie",
+    "lat": "52.9833",
+    "lng": "22.2500",
+    "id": "1616716876"
+  },
+  {
+    "city": "Mrągowo",
+    "city_ascii": "Mragowo",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "53.8667",
+    "lng": "21.3000",
+    "id": "1616274741"
+  },
+  {
+    "city": "Wieluń",
+    "city_ascii": "Wielun",
+    "admin_name": "Łódzkie",
+    "lat": "51.2206",
+    "lng": "18.5700",
+    "id": "1616628604"
+  },
+  {
+    "city": "Nowa Ruda",
+    "city_ascii": "Nowa Ruda",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.5833",
+    "lng": "16.5000",
+    "id": "1616805229"
+  },
+  {
+    "city": "Sulejówek",
+    "city_ascii": "Sulejowek",
+    "admin_name": "Mazowieckie",
+    "lat": "52.2442",
+    "lng": "21.2800",
+    "id": "1616515972"
+  },
+  {
+    "city": "Józefów",
+    "city_ascii": "Jozefow",
+    "admin_name": "Mazowieckie",
+    "lat": "52.1356",
+    "lng": "21.2369",
+    "id": "1616296972"
+  },
+  {
+    "city": "Działdowo",
+    "city_ascii": "Dzialdowo",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "53.2333",
+    "lng": "20.1833",
+    "id": "1616181805"
+  },
+  {
+    "city": "Lubartów",
+    "city_ascii": "Lubartow",
+    "admin_name": "Lubelskie",
+    "lat": "51.4667",
+    "lng": "22.6000",
+    "id": "1616620144"
+  },
+  {
+    "city": "Koło",
+    "city_ascii": "Kolo",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.2000",
+    "lng": "18.6333",
+    "id": "1616148045"
+  },
+  {
+    "city": "Rawicz",
+    "city_ascii": "Rawicz",
+    "admin_name": "Wielkopolskie",
+    "lat": "51.6092",
+    "lng": "16.8575",
+    "id": "1616333894"
+  },
+  {
+    "city": "Gryfino",
+    "city_ascii": "Gryfino",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.2531",
+    "lng": "14.4875",
+    "id": "1616595491"
+  },
+  {
+    "city": "Gostyń",
+    "city_ascii": "Gostyn",
+    "admin_name": "Wielkopolskie",
+    "lat": "51.8792",
+    "lng": "17.0125",
+    "id": "1616275576"
+  },
+  {
+    "city": "Lubań",
+    "city_ascii": "Luban",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.1181",
+    "lng": "15.2889",
+    "id": "1616557848"
+  },
+  {
+    "city": "Prudnik",
+    "city_ascii": "Prudnik",
+    "admin_name": "Opolskie",
+    "lat": "50.3228",
+    "lng": "17.5767",
+    "id": "1616117977"
+  },
+  {
+    "city": "Hajnówka",
+    "city_ascii": "Hajnowka",
+    "admin_name": "Podlaskie",
+    "lat": "52.7333",
+    "lng": "23.5667",
+    "id": "1616405290"
+  },
+  {
+    "city": "Bieruń",
+    "city_ascii": "Bierun",
+    "admin_name": "Śląskie",
+    "lat": "50.1333",
+    "lng": "19.1000",
+    "id": "1616014994"
+  },
+  {
+    "city": "Pułtusk",
+    "city_ascii": "Pultusk",
+    "admin_name": "Mazowieckie",
+    "lat": "52.7000",
+    "lng": "21.0833",
+    "id": "1616411619"
+  },
+  {
+    "city": "Opoczno",
+    "city_ascii": "Opoczno",
+    "admin_name": "Łódzkie",
+    "lat": "51.3772",
+    "lng": "20.2869",
+    "id": "1616841485"
+  },
+  {
+    "city": "Trzebinia",
+    "city_ascii": "Trzebinia",
+    "admin_name": "Małopolskie",
+    "lat": "50.1667",
+    "lng": "19.4833",
+    "id": "1616296505"
+  },
+  {
+    "city": "Bieruń Stary",
+    "city_ascii": "Bierun Stary",
+    "admin_name": "Śląskie",
+    "lat": "50.0897",
+    "lng": "19.0928",
+    "id": "1616995218"
+  },
+  {
+    "city": "Konstantynów Łódzki",
+    "city_ascii": "Konstantynow Lodzki",
+    "admin_name": "Łódzkie",
+    "lat": "51.7500",
+    "lng": "19.3333",
+    "id": "1616340948"
+  },
+  {
+    "city": "Chełmno",
+    "city_ascii": "Chelmno",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "53.3492",
+    "lng": "18.4231",
+    "id": "1616879030"
+  },
+  {
+    "city": "Złotów",
+    "city_ascii": "Zlotow",
+    "admin_name": "Wielkopolskie",
+    "lat": "53.3603",
+    "lng": "17.0408",
+    "id": "1616339419"
+  },
+  {
+    "city": "Ozorków",
+    "city_ascii": "Ozorkow",
+    "admin_name": "Łódzkie",
+    "lat": "51.9667",
+    "lng": "19.2833",
+    "id": "1616513470"
+  },
+  {
+    "city": "Andrychów",
+    "city_ascii": "Andrychow",
+    "admin_name": "Małopolskie",
+    "lat": "49.8550",
+    "lng": "19.3414",
+    "id": "1616553516"
+  },
+  {
+    "city": "Tomaszów Lubelski",
+    "city_ascii": "Tomaszow Lubelski",
+    "admin_name": "Lubelskie",
+    "lat": "50.4500",
+    "lng": "23.4167",
+    "id": "1616783498"
+  },
+  {
+    "city": "Sokołów Podlaski",
+    "city_ascii": "Sokolow Podlaski",
+    "admin_name": "Mazowieckie",
+    "lat": "52.4067",
+    "lng": "22.2464",
+    "id": "1616559747"
+  },
+  {
+    "city": "Giszowiec",
+    "city_ascii": "Giszowiec",
+    "admin_name": "Śląskie",
+    "lat": "50.2236",
+    "lng": "19.0694",
+    "id": "1616451758"
+  },
+  {
+    "city": "Szamotuły",
+    "city_ascii": "Szamotuly",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.6000",
+    "lng": "16.5833",
+    "id": "1616500868"
+  },
+  {
+    "city": "Pisz",
+    "city_ascii": "Pisz",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "53.6167",
+    "lng": "21.8000",
+    "id": "1616757867"
+  },
+  {
+    "city": "Zielonka",
+    "city_ascii": "Zielonka",
+    "admin_name": "Mazowieckie",
+    "lat": "52.3008",
+    "lng": "21.1586",
+    "id": "1616038948"
+  },
+  {
+    "city": "Końskie",
+    "city_ascii": "Konskie",
+    "admin_name": "Świętokrzyskie",
+    "lat": "51.2000",
+    "lng": "20.4167",
+    "id": "1616604827"
+  },
+  {
+    "city": "Kęty",
+    "city_ascii": "Kety",
+    "admin_name": "Małopolskie",
+    "lat": "49.9000",
+    "lng": "19.2167",
+    "id": "1616742375"
+  },
+  {
+    "city": "Myślenice",
+    "city_ascii": "Myslenice",
+    "admin_name": "Małopolskie",
+    "lat": "49.8347",
+    "lng": "19.9389",
+    "id": "1616135502"
+  },
+  {
+    "city": "Chodzież",
+    "city_ascii": "Chodziez",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.9833",
+    "lng": "16.9000",
+    "id": "1616441880"
+  },
+  {
+    "city": "Jasien",
+    "city_ascii": "Jasien",
+    "admin_name": "Pomorskie",
+    "lat": "54.3667",
+    "lng": "18.6333",
+    "id": "1616135118"
+  },
+  {
+    "city": "Kamienna Góra",
+    "city_ascii": "Kamienna Gora",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.7833",
+    "lng": "16.0333",
+    "id": "1616000725"
+  },
+  {
+    "city": "Wadowice",
+    "city_ascii": "Wadowice",
+    "admin_name": "Małopolskie",
+    "lat": "49.8833",
+    "lng": "19.5000",
+    "id": "1616191332"
+  },
+  {
+    "city": "Kostrzyn nad Odrą",
+    "city_ascii": "Kostrzyn nad Odra",
+    "admin_name": "Lubuskie",
+    "lat": "52.5883",
+    "lng": "14.6667",
+    "id": "1616354192"
+  },
+  {
+    "city": "Łęczna",
+    "city_ascii": "Leczna",
+    "admin_name": "Lubelskie",
+    "lat": "51.3000",
+    "lng": "22.8833",
+    "id": "1616600546"
+  },
+  {
+    "city": "Ostróda",
+    "city_ascii": "Ostroda",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "53.7000",
+    "lng": "19.9667",
+    "id": "1616636172"
+  },
+  {
+    "city": "Łańcut",
+    "city_ascii": "Lancut",
+    "admin_name": "Podkarpackie",
+    "lat": "50.0667",
+    "lng": "22.2333",
+    "id": "1616335382"
+  },
+  {
+    "city": "Oborniki",
+    "city_ascii": "Oborniki",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.6500",
+    "lng": "16.8167",
+    "id": "1616127510"
+  },
+  {
+    "city": "Gostynin",
+    "city_ascii": "Gostynin",
+    "admin_name": "Mazowieckie",
+    "lat": "52.4167",
+    "lng": "19.4667",
+    "id": "1616908435"
+  },
+  {
+    "city": "Nakło nad Notecią",
+    "city_ascii": "Naklo nad Notecia",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "53.1403",
+    "lng": "17.5928",
+    "id": "1616313608"
+  },
+  {
+    "city": "Sokółka",
+    "city_ascii": "Sokolka",
+    "admin_name": "Podlaskie",
+    "lat": "53.4000",
+    "lng": "23.5000",
+    "id": "1616965170"
+  },
+  {
+    "city": "Krasnystaw",
+    "city_ascii": "Krasnystaw",
+    "admin_name": "Lubelskie",
+    "lat": "51.0000",
+    "lng": "23.1667",
+    "id": "1616374210"
+  },
+  {
+    "city": "Strzelce Opolskie",
+    "city_ascii": "Strzelce Opolskie",
+    "admin_name": "Opolskie",
+    "lat": "50.5000",
+    "lng": "18.2833",
+    "id": "1616448367"
+  },
+  {
+    "city": "Międzyrzecz",
+    "city_ascii": "Miedzyrzecz",
+    "admin_name": "Lubuskie",
+    "lat": "52.4483",
+    "lng": "15.5883",
+    "id": "1616321580"
+  },
+  {
+    "city": "Pyskowice",
+    "city_ascii": "Pyskowice",
+    "admin_name": "Śląskie",
+    "lat": "50.3833",
+    "lng": "18.6167",
+    "id": "1616775078"
+  },
+  {
+    "city": "Sierpc",
+    "city_ascii": "Sierpc",
+    "admin_name": "Mazowieckie",
+    "lat": "52.8833",
+    "lng": "19.6667",
+    "id": "1616875285"
+  },
+  {
+    "city": "Garwolin",
+    "city_ascii": "Garwolin",
+    "admin_name": "Mazowieckie",
+    "lat": "51.8972",
+    "lng": "21.6150",
+    "id": "1616433503"
+  },
+  {
+    "city": "Konstancin-Jeziorna",
+    "city_ascii": "Konstancin-Jeziorna",
+    "admin_name": "Mazowieckie",
+    "lat": "52.0833",
+    "lng": "21.1167",
+    "id": "1616018861"
+  },
+  {
+    "city": "Grójec",
+    "city_ascii": "Grojec",
+    "admin_name": "Mazowieckie",
+    "lat": "51.8656",
+    "lng": "20.8675",
+    "id": "1616458276"
+  },
+  {
+    "city": "Namysłów",
+    "city_ascii": "Namyslow",
+    "admin_name": "Opolskie",
+    "lat": "51.0728",
+    "lng": "17.7069",
+    "id": "1616674517"
+  },
+  {
+    "city": "Hrubieszów",
+    "city_ascii": "Hrubieszow",
+    "admin_name": "Lubelskie",
+    "lat": "50.8167",
+    "lng": "23.8833",
+    "id": "1616901935"
+  },
+  {
+    "city": "Trzcianka",
+    "city_ascii": "Trzcianka",
+    "admin_name": "Wielkopolskie",
+    "lat": "53.0500",
+    "lng": "16.4667",
+    "id": "1616300801"
+  },
+  {
+    "city": "Pionki",
+    "city_ascii": "Pionki",
+    "admin_name": "Mazowieckie",
+    "lat": "51.4833",
+    "lng": "21.4500",
+    "id": "1616722660"
+  },
+  {
+    "city": "Bytów",
+    "city_ascii": "Bytow",
+    "admin_name": "Pomorskie",
+    "lat": "54.1333",
+    "lng": "17.5000",
+    "id": "1616588946"
+  },
+  {
+    "city": "Przasnysz",
+    "city_ascii": "Przasnysz",
+    "admin_name": "Mazowieckie",
+    "lat": "53.0167",
+    "lng": "20.8833",
+    "id": "1616909392"
+  },
+  {
+    "city": "Bogatynia",
+    "city_ascii": "Bogatynia",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.9069",
+    "lng": "14.9569",
+    "id": "1616146165"
+  },
+  {
+    "city": "Pleszew",
+    "city_ascii": "Pleszew",
+    "admin_name": "Wielkopolskie",
+    "lat": "51.8833",
+    "lng": "17.7833",
+    "id": "1616452688"
+  },
+  {
+    "city": "Łask",
+    "city_ascii": "Lask",
+    "admin_name": "Łódzkie",
+    "lat": "51.5903",
+    "lng": "19.1333",
+    "id": "1616006477"
+  },
+  {
+    "city": "Bogucice",
+    "city_ascii": "Bogucice",
+    "admin_name": "Śląskie",
+    "lat": "50.2668",
+    "lng": "19.0397",
+    "id": "1616992904"
+  },
+  {
+    "city": "Słubice",
+    "city_ascii": "Slubice",
+    "admin_name": "Lubuskie",
+    "lat": "52.3500",
+    "lng": "14.5667",
+    "id": "1616690993"
+  },
+  {
+    "city": "Milanówek",
+    "city_ascii": "Milanowek",
+    "admin_name": "Mazowieckie",
+    "lat": "52.1167",
+    "lng": "20.6500",
+    "id": "1616814692"
+  },
+  {
+    "city": "Braniewo",
+    "city_ascii": "Braniewo",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "54.3833",
+    "lng": "19.8333",
+    "id": "1616740656"
+  },
+  {
+    "city": "Rawa Mazowiecka",
+    "city_ascii": "Rawa Mazowiecka",
+    "admin_name": "Łódzkie",
+    "lat": "51.7658",
+    "lng": "20.2533",
+    "id": "1616083640"
+  },
+  {
+    "city": "Libiąż",
+    "city_ascii": "Libiaz",
+    "admin_name": "Małopolskie",
+    "lat": "50.1000",
+    "lng": "19.3167",
+    "id": "1616724482"
+  },
+  {
+    "city": "Radzionków Nowy",
+    "city_ascii": "Radzionkow Nowy",
+    "admin_name": "Śląskie",
+    "lat": "50.3833",
+    "lng": "18.8833",
+    "id": "1616721944"
+  },
+  {
+    "city": "Brzesko",
+    "city_ascii": "Brzesko",
+    "admin_name": "Małopolskie",
+    "lat": "49.9667",
+    "lng": "20.6167",
+    "id": "1616496298"
+  },
+  {
+    "city": "Kozienice",
+    "city_ascii": "Kozienice",
+    "admin_name": "Mazowieckie",
+    "lat": "51.5833",
+    "lng": "21.5667",
+    "id": "1616307779"
+  },
+  {
+    "city": "Ustroń",
+    "city_ascii": "Ustron",
+    "admin_name": "Śląskie",
+    "lat": "49.7194",
+    "lng": "18.8119",
+    "id": "1616758185"
+  },
+  {
+    "city": "Gubin",
+    "city_ascii": "Gubin",
+    "admin_name": "Lubuskie",
+    "lat": "51.9500",
+    "lng": "14.7167",
+    "id": "1616164527"
+  },
+  {
+    "city": "Nowogard",
+    "city_ascii": "Nowogard",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.6667",
+    "lng": "15.1167",
+    "id": "1616864460"
+  },
+  {
+    "city": "Olecko",
+    "city_ascii": "Olecko",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "54.0333",
+    "lng": "22.5000",
+    "id": "1616175752"
+  },
+  {
+    "city": "Sulechów",
+    "city_ascii": "Sulechow",
+    "admin_name": "Lubuskie",
+    "lat": "52.0833",
+    "lng": "15.6167",
+    "id": "1616086796"
+  },
+  {
+    "city": "Gryfice",
+    "city_ascii": "Gryfice",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.9147",
+    "lng": "15.1986",
+    "id": "1616794492"
+  },
+  {
+    "city": "Osowa",
+    "city_ascii": "Osowa",
+    "admin_name": "Pomorskie",
+    "lat": "54.4272",
+    "lng": "18.4708",
+    "id": "1616417029"
+  },
+  {
+    "city": "Rypin",
+    "city_ascii": "Rypin",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "53.0667",
+    "lng": "19.4500",
+    "id": "1616716547"
+  },
+  {
+    "city": "Międzyrzec Podlaski",
+    "city_ascii": "Miedzyrzec Podlaski",
+    "admin_name": "Lubelskie",
+    "lat": "51.9833",
+    "lng": "22.7833",
+    "id": "1616448418"
+  },
+  {
+    "city": "Ropczyce",
+    "city_ascii": "Ropczyce",
+    "admin_name": "Podkarpackie",
+    "lat": "50.0861",
+    "lng": "21.6333",
+    "id": "1616760049"
+  },
+  {
+    "city": "Krapkowice",
+    "city_ascii": "Krapkowice",
+    "admin_name": "Opolskie",
+    "lat": "50.4667",
+    "lng": "17.9667",
+    "id": "1616664766"
+  },
+  {
+    "city": "Niepołomice",
+    "city_ascii": "Niepolomice",
+    "admin_name": "Małopolskie",
+    "lat": "50.0339",
+    "lng": "20.2172",
+    "id": "1616183842"
+  },
+  {
+    "city": "Solec Kujawski",
+    "city_ascii": "Solec Kujawski",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "53.0833",
+    "lng": "18.2333",
+    "id": "1616600171"
+  },
+  {
+    "city": "Jelcz-Laskowice",
+    "city_ascii": "Jelcz-Laskowice",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.0333",
+    "lng": "17.3333",
+    "id": "1616808157"
+  },
+  {
+    "city": "Strzegom",
+    "city_ascii": "Strzegom",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.9611",
+    "lng": "16.3444",
+    "id": "1616613189"
+  },
+  {
+    "city": "Grodzisk Wielkopolski",
+    "city_ascii": "Grodzisk Wielkopolski",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.2333",
+    "lng": "16.3667",
+    "id": "1616036580"
+  },
+  {
+    "city": "Busko-Zdrój",
+    "city_ascii": "Busko-Zdroj",
+    "admin_name": "Świętokrzyskie",
+    "lat": "50.4667",
+    "lng": "20.7167",
+    "id": "1616795752"
+  },
+  {
+    "city": "Świdwin",
+    "city_ascii": "Swidwin",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.7833",
+    "lng": "15.7667",
+    "id": "1616092118"
+  },
+  {
+    "city": "Przeworsk",
+    "city_ascii": "Przeworsk",
+    "admin_name": "Podkarpackie",
+    "lat": "50.0667",
+    "lng": "22.5000",
+    "id": "1616040608"
+  },
+  {
+    "city": "Lidzbark Warmiński",
+    "city_ascii": "Lidzbark Warminski",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "54.1167",
+    "lng": "20.5833",
+    "id": "1616280672"
+  },
+  {
+    "city": "Nisko",
+    "city_ascii": "Nisko",
+    "admin_name": "Podkarpackie",
+    "lat": "50.5200",
+    "lng": "22.1394",
+    "id": "1616837686"
+  },
+  {
+    "city": "Józefosław",
+    "city_ascii": "Jozefoslaw",
+    "admin_name": "Mazowieckie",
+    "lat": "52.1069",
+    "lng": "21.0392",
+    "id": "1616077121"
+  },
+  {
+    "city": "Radzyń Podlaski",
+    "city_ascii": "Radzyn Podlaski",
+    "admin_name": "Lubelskie",
+    "lat": "51.7828",
+    "lng": "22.6242",
+    "id": "1616425780"
+  },
+  {
+    "city": "Dęblin",
+    "city_ascii": "Deblin",
+    "admin_name": "Lubelskie",
+    "lat": "51.5667",
+    "lng": "21.8614",
+    "id": "1616913108"
+  },
+  {
+    "city": "Łapy",
+    "city_ascii": "Lapy",
+    "admin_name": "Podlaskie",
+    "lat": "52.9833",
+    "lng": "22.8833",
+    "id": "1616816583"
+  },
+  {
+    "city": "Złotoryja",
+    "city_ascii": "Zlotoryja",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.1333",
+    "lng": "15.9167",
+    "id": "1616742834"
+  },
+  {
+    "city": "Boguszów-Gorce",
+    "city_ascii": "Boguszow-Gorce",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.7667",
+    "lng": "16.2000",
+    "id": "1616569765"
+  },
+  {
+    "city": "Limanowa",
+    "city_ascii": "Limanowa",
+    "admin_name": "Małopolskie",
+    "lat": "49.7006",
+    "lng": "20.4267",
+    "id": "1616015371"
+  },
+  {
+    "city": "Jędrzejów",
+    "city_ascii": "Jedrzejow",
+    "admin_name": "Świętokrzyskie",
+    "lat": "50.6333",
+    "lng": "20.3000",
+    "id": "1616363750"
+  },
+  {
+    "city": "Ząbkowice Śląskie",
+    "city_ascii": "Zabkowice Slaskie",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.5833",
+    "lng": "16.8167",
+    "id": "1616718625"
+  },
+  {
+    "city": "Mosina",
+    "city_ascii": "Mosina",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.2467",
+    "lng": "16.8450",
+    "id": "1616028362"
+  },
+  {
+    "city": "Brwinów",
+    "city_ascii": "Brwinow",
+    "admin_name": "Mazowieckie",
+    "lat": "52.1417",
+    "lng": "20.7167",
+    "id": "1616620268"
+  },
+  {
+    "city": "Choszczno",
+    "city_ascii": "Choszczno",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.1667",
+    "lng": "15.4000",
+    "id": "1616054552"
+  },
+  {
+    "city": "Ożarów Mazowiecki",
+    "city_ascii": "Ozarow Mazowiecki",
+    "admin_name": "Mazowieckie",
+    "lat": "52.2167",
+    "lng": "20.8000",
+    "id": "1616007056"
+  },
+  {
+    "city": "Ustka",
+    "city_ascii": "Ustka",
+    "admin_name": "Pomorskie",
+    "lat": "54.5833",
+    "lng": "16.8500",
+    "id": "1616638026"
+  },
+  {
+    "city": "Radzymin",
+    "city_ascii": "Radzymin",
+    "admin_name": "Mazowieckie",
+    "lat": "52.4167",
+    "lng": "21.1833",
+    "id": "1616443722"
+  },
+  {
+    "city": "Biały Kamień",
+    "city_ascii": "Bialy Kamien",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.7814",
+    "lng": "16.2539",
+    "id": "1616208893"
+  },
+  {
+    "city": "Kartuzy",
+    "city_ascii": "Kartuzy",
+    "admin_name": "Pomorskie",
+    "lat": "54.3333",
+    "lng": "18.2000",
+    "id": "1616246268"
+  },
+  {
+    "city": "Plewiska",
+    "city_ascii": "Plewiska",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.3664",
+    "lng": "16.8089",
+    "id": "1616010188"
+  },
+  {
+    "city": "Staszów",
+    "city_ascii": "Staszow",
+    "admin_name": "Świętokrzyskie",
+    "lat": "50.5633",
+    "lng": "21.1717",
+    "id": "1616211187"
+  },
+  {
+    "city": "Nowy Tomyśl",
+    "city_ascii": "Nowy Tomysl",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.3167",
+    "lng": "16.1333",
+    "id": "1616447936"
+  },
+  {
+    "city": "Chełmża",
+    "city_ascii": "Chelmza",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "53.1847",
+    "lng": "18.6042",
+    "id": "1616701343"
+  },
+  {
+    "city": "Ostrzeszów",
+    "city_ascii": "Ostrzeszow",
+    "admin_name": "Wielkopolskie",
+    "lat": "51.4167",
+    "lng": "17.9333",
+    "id": "1616530680"
+  },
+  {
+    "city": "Kępno",
+    "city_ascii": "Kepno",
+    "admin_name": "Wielkopolskie",
+    "lat": "51.2833",
+    "lng": "17.9833",
+    "id": "1616511558"
+  },
+  {
+    "city": "Skoczów",
+    "city_ascii": "Skoczow",
+    "admin_name": "Śląskie",
+    "lat": "49.8006",
+    "lng": "18.7883",
+    "id": "1616973602"
+  },
+  {
+    "city": "Siemiatycze",
+    "city_ascii": "Siemiatycze",
+    "admin_name": "Podlaskie",
+    "lat": "52.4272",
+    "lng": "22.8625",
+    "id": "1616804060"
+  },
+  {
+    "city": "Lipno",
+    "city_ascii": "Lipno",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "52.8500",
+    "lng": "19.1667",
+    "id": "1616442467"
+  },
+  {
+    "city": "Trzebnica",
+    "city_ascii": "Trzebnica",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.3050",
+    "lng": "17.0614",
+    "id": "1616145534"
+  },
+  {
+    "city": "Łęczyca",
+    "city_ascii": "Leczyca",
+    "admin_name": "Łódzkie",
+    "lat": "52.0500",
+    "lng": "19.2000",
+    "id": "1616649790"
+  },
+  {
+    "city": "Wschowa",
+    "city_ascii": "Wschowa",
+    "admin_name": "Lubuskie",
+    "lat": "51.8000",
+    "lng": "16.3000",
+    "id": "1616415919"
+  },
+  {
+    "city": "Głowno",
+    "city_ascii": "Glowno",
+    "admin_name": "Łódzkie",
+    "lat": "51.9642",
+    "lng": "19.7117",
+    "id": "1616156342"
+  },
+  {
+    "city": "Tuchola",
+    "city_ascii": "Tuchola",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "53.6000",
+    "lng": "17.8500",
+    "id": "1616160656"
+  },
+  {
+    "city": "Zawodzie",
+    "city_ascii": "Zawodzie",
+    "admin_name": "Śląskie",
+    "lat": "50.2585",
+    "lng": "19.0449",
+    "id": "1616007841"
+  },
+  {
+    "city": "Gołdap",
+    "city_ascii": "Goldap",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "54.3161",
+    "lng": "22.3094",
+    "id": "1616193832"
+  },
+  {
+    "city": "Słupca",
+    "city_ascii": "Slupca",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.3000",
+    "lng": "17.8667",
+    "id": "1616372877"
+  },
+  {
+    "city": "Człuchów",
+    "city_ascii": "Czluchow",
+    "admin_name": "Pomorskie",
+    "lat": "53.6500",
+    "lng": "17.3667",
+    "id": "1616601877"
+  },
+  {
+    "city": "Morąg",
+    "city_ascii": "Morag",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "53.9167",
+    "lng": "19.9333",
+    "id": "1616114206"
+  },
+  {
+    "city": "Wąbrzeźno",
+    "city_ascii": "Wabrzezno",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "53.2833",
+    "lng": "18.9500",
+    "id": "1616122226"
+  },
+  {
+    "city": "Dębno",
+    "city_ascii": "Debno",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "52.7333",
+    "lng": "14.7000",
+    "id": "1616728902"
+  },
+  {
+    "city": "Żnin",
+    "city_ascii": "Znin",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "52.8500",
+    "lng": "17.7000",
+    "id": "1616616613"
+  },
+  {
+    "city": "Lubsko",
+    "city_ascii": "Lubsko",
+    "admin_name": "Lubuskie",
+    "lat": "51.7833",
+    "lng": "14.9667",
+    "id": "1616174794"
+  },
+  {
+    "city": "Leżajsk",
+    "city_ascii": "Lezajsk",
+    "admin_name": "Podkarpackie",
+    "lat": "50.2667",
+    "lng": "22.4333",
+    "id": "1616610279"
+  },
+  {
+    "city": "Głuchołazy",
+    "city_ascii": "Glucholazy",
+    "admin_name": "Opolskie",
+    "lat": "50.3131",
+    "lng": "17.3742",
+    "id": "1616458381"
+  },
+  {
+    "city": "Barlinek",
+    "city_ascii": "Barlinek",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.0000",
+    "lng": "15.2000",
+    "id": "1616433075"
+  },
+  {
+    "city": "Kozy",
+    "city_ascii": "Kozy",
+    "admin_name": "Śląskie",
+    "lat": "49.8450",
+    "lng": "19.1417",
+    "id": "1616180693"
+  },
+  {
+    "city": "Darłowo",
+    "city_ascii": "Darlowo",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "54.4208",
+    "lng": "16.4097",
+    "id": "1616699844"
+  },
+  {
+    "city": "Nidzica",
+    "city_ascii": "Nidzica",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "53.3583",
+    "lng": "20.4250",
+    "id": "1616216829"
+  },
+  {
+    "city": "Sidlice",
+    "city_ascii": "Sidlice",
+    "admin_name": "Pomorskie",
+    "lat": "54.3471",
+    "lng": "18.6171",
+    "id": "1616658059"
+  },
+  {
+    "city": "Chojnów",
+    "city_ascii": "Chojnow",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.2667",
+    "lng": "15.9333",
+    "id": "1616584715"
+  },
+  {
+    "city": "Brzeg Dolny",
+    "city_ascii": "Brzeg Dolny",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.2708",
+    "lng": "16.7208",
+    "id": "1616585341"
+  },
+  {
+    "city": "Kochłowice",
+    "city_ascii": "Kochlowice",
+    "admin_name": "Śląskie",
+    "lat": "50.2538",
+    "lng": "18.9015",
+    "id": "1616518904"
+  },
+  {
+    "city": "Chropaczów",
+    "city_ascii": "Chropaczow",
+    "admin_name": "Śląskie",
+    "lat": "50.3131",
+    "lng": "18.9150",
+    "id": "1616015573"
+  },
+  {
+    "city": "Kłobuck",
+    "city_ascii": "Klobuck",
+    "admin_name": "Śląskie",
+    "lat": "50.9167",
+    "lng": "18.9333",
+    "id": "1616782641"
+  },
+  {
+    "city": "Wolsztyn",
+    "city_ascii": "Wolsztyn",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.1167",
+    "lng": "16.1167",
+    "id": "1616069343"
+  },
+  {
+    "city": "Włodawa",
+    "city_ascii": "Wlodawa",
+    "admin_name": "Lubelskie",
+    "lat": "51.5500",
+    "lng": "23.5500",
+    "id": "1616013060"
+  },
+  {
+    "city": "Koszutka",
+    "city_ascii": "Koszutka",
+    "admin_name": "Śląskie",
+    "lat": "50.2711",
+    "lng": "19.0211",
+    "id": "1616566467"
+  },
+  {
+    "city": "Koluszki",
+    "city_ascii": "Koluszki",
+    "admin_name": "Łódzkie",
+    "lat": "51.7500",
+    "lng": "19.8000",
+    "id": "1616140044"
+  },
+  {
+    "city": "Złocieniec",
+    "city_ascii": "Zlocieniec",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.5269",
+    "lng": "16.0122",
+    "id": "1616208535"
+  },
+  {
+    "city": "Sędziszów Małopolski",
+    "city_ascii": "Sedziszow Malopolski",
+    "admin_name": "Podkarpackie",
+    "lat": "50.0694",
+    "lng": "21.7014",
+    "id": "1616036495"
+  },
+  {
+    "city": "Wołów",
+    "city_ascii": "Wolow",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.3414",
+    "lng": "16.6283",
+    "id": "1616165743"
+  },
+  {
+    "city": "Błonie",
+    "city_ascii": "Blonie",
+    "admin_name": "Mazowieckie",
+    "lat": "52.2000",
+    "lng": "20.6167",
+    "id": "1616120917"
+  },
+  {
+    "city": "Wasilków",
+    "city_ascii": "Wasilkow",
+    "admin_name": "Podlaskie",
+    "lat": "53.2050",
+    "lng": "23.2044",
+    "id": "1616267315"
+  },
+  {
+    "city": "Strzelin",
+    "city_ascii": "Strzelin",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.7833",
+    "lng": "17.0667",
+    "id": "1616993710"
+  },
+  {
+    "city": "Brzeziny",
+    "city_ascii": "Brzeziny",
+    "admin_name": "Łódzkie",
+    "lat": "51.8000",
+    "lng": "19.7500",
+    "id": "1616839084"
+  },
+  {
+    "city": "Głubczyce",
+    "city_ascii": "Glubczyce",
+    "admin_name": "Opolskie",
+    "lat": "50.2011",
+    "lng": "17.8247",
+    "id": "1616541369"
+  },
+  {
+    "city": "Pasłęk",
+    "city_ascii": "Paslek",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "54.0500",
+    "lng": "19.6667",
+    "id": "1616525306"
+  },
+  {
+    "city": "Pyrzyce",
+    "city_ascii": "Pyrzyce",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.1333",
+    "lng": "14.8833",
+    "id": "1616856540"
+  },
+  {
+    "city": "Sławno",
+    "city_ascii": "Slawno",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "54.3667",
+    "lng": "16.6833",
+    "id": "1616283206"
+  },
+  {
+    "city": "Warka",
+    "city_ascii": "Warka",
+    "admin_name": "Mazowieckie",
+    "lat": "51.7833",
+    "lng": "21.2000",
+    "id": "1616212108"
+  },
+  {
+    "city": "Węgrów",
+    "city_ascii": "Wegrow",
+    "admin_name": "Mazowieckie",
+    "lat": "52.4000",
+    "lng": "22.0167",
+    "id": "1616038840"
+  },
+  {
+    "city": "Góra Kalwaria",
+    "city_ascii": "Gora Kalwaria",
+    "admin_name": "Mazowieckie",
+    "lat": "51.9733",
+    "lng": "21.2144",
+    "id": "1616668959"
+  },
+  {
+    "city": "Golub-Dobrzyń",
+    "city_ascii": "Golub-Dobrzyn",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "53.1000",
+    "lng": "19.0500",
+    "id": "1616198300"
+  },
+  {
+    "city": "Aleksandrów Kujawski",
+    "city_ascii": "Aleksandrow Kujawski",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "52.8767",
+    "lng": "18.6936",
+    "id": "1616651073"
+  },
+  {
+    "city": "Lubaczów",
+    "city_ascii": "Lubaczow",
+    "admin_name": "Podkarpackie",
+    "lat": "50.1667",
+    "lng": "23.1167",
+    "id": "1616650009"
+  },
+  {
+    "city": "Dąbrowa Tarnowska",
+    "city_ascii": "Dabrowa Tarnowska",
+    "admin_name": "Małopolskie",
+    "lat": "50.1667",
+    "lng": "20.9833",
+    "id": "1616908977"
+  },
+  {
+    "city": "Drawsko Pomorskie",
+    "city_ascii": "Drawsko Pomorskie",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.5333",
+    "lng": "15.8000",
+    "id": "1616969885"
+  },
+  {
+    "city": "Mogilno",
+    "city_ascii": "Mogilno",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "52.6500",
+    "lng": "17.9500",
+    "id": "1616055676"
+  },
+  {
+    "city": "Janów Lubelski",
+    "city_ascii": "Janow Lubelski",
+    "admin_name": "Lubelskie",
+    "lat": "50.7167",
+    "lng": "22.4167",
+    "id": "1616411246"
+  },
+  {
+    "city": "Miechów",
+    "city_ascii": "Miechow",
+    "admin_name": "Małopolskie",
+    "lat": "50.3578",
+    "lng": "20.0325",
+    "id": "1616754821"
+  },
+  {
+    "city": "Góra",
+    "city_ascii": "Gora",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.6667",
+    "lng": "16.5500",
+    "id": "1616282982"
+  },
+  {
+    "city": "Szprotawa",
+    "city_ascii": "Szprotawa",
+    "admin_name": "Lubuskie",
+    "lat": "51.5667",
+    "lng": "15.5000",
+    "id": "1616764705"
+  },
+  {
+    "city": "Brzeszcze",
+    "city_ascii": "Brzeszcze",
+    "admin_name": "Małopolskie",
+    "lat": "49.9819",
+    "lng": "19.1472",
+    "id": "1616019723"
+  },
+  {
+    "city": "Milicz",
+    "city_ascii": "Milicz",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.5333",
+    "lng": "17.2833",
+    "id": "1616770210"
+  },
+  {
+    "city": "Komorniki",
+    "city_ascii": "Komorniki",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.3361",
+    "lng": "16.8069",
+    "id": "1616794356"
+  },
+  {
+    "city": "Koronowo",
+    "city_ascii": "Koronowo",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "53.3167",
+    "lng": "17.9333",
+    "id": "1616300116"
+  },
+  {
+    "city": "Szydłowiec",
+    "city_ascii": "Szydlowiec",
+    "admin_name": "Mazowieckie",
+    "lat": "51.2333",
+    "lng": "20.8500",
+    "id": "1616837510"
+  },
+  {
+    "city": "Rogoźno",
+    "city_ascii": "Rogozno",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.7492",
+    "lng": "16.9997",
+    "id": "1616112506"
+  },
+  {
+    "city": "Wronki",
+    "city_ascii": "Wronki",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.7000",
+    "lng": "16.3833",
+    "id": "1616756713"
+  },
+  {
+    "city": "Krosno Odrzańskie",
+    "city_ascii": "Krosno Odrzanskie",
+    "admin_name": "Lubuskie",
+    "lat": "52.0333",
+    "lng": "15.1000",
+    "id": "1616603555"
+  },
+  {
+    "city": "Wisła",
+    "city_ascii": "Wisla",
+    "admin_name": "Śląskie",
+    "lat": "49.6549",
+    "lng": "18.8595",
+    "id": "1616358703"
+  },
+  {
+    "city": "Węgorzewo",
+    "city_ascii": "Wegorzewo",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "54.2167",
+    "lng": "21.7500",
+    "id": "1616206015"
+  },
+  {
+    "city": "Puck",
+    "city_ascii": "Puck",
+    "admin_name": "Pomorskie",
+    "lat": "54.7000",
+    "lng": "18.4000",
+    "id": "1616295439"
+  },
+  {
+    "city": "Myślibórz",
+    "city_ascii": "Mysliborz",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "52.9333",
+    "lng": "14.8667",
+    "id": "1616407161"
+  },
+  {
+    "city": "Nowa Dęba",
+    "city_ascii": "Nowa Deba",
+    "admin_name": "Podkarpackie",
+    "lat": "50.4167",
+    "lng": "21.7667",
+    "id": "1616557246"
+  },
+  {
+    "city": "Lubawa",
+    "city_ascii": "Lubawa",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "53.5000",
+    "lng": "19.7500",
+    "id": "1616962128"
+  },
+  {
+    "city": "Kiełczów",
+    "city_ascii": "Kielczow",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.1406",
+    "lng": "17.1783",
+    "id": "1616463576"
+  },
+  {
+    "city": "Parczew",
+    "city_ascii": "Parczew",
+    "admin_name": "Lubelskie",
+    "lat": "51.6333",
+    "lng": "22.8667",
+    "id": "1616266918"
+  },
+  {
+    "city": "Nowe Miasto Lubawskie",
+    "city_ascii": "Nowe Miasto Lubawskie",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "53.4256",
+    "lng": "19.5878",
+    "id": "1616871039"
+  },
+  {
+    "city": "Wapienica",
+    "city_ascii": "Wapienica",
+    "admin_name": "Śląskie",
+    "lat": "49.8083",
+    "lng": "18.9839",
+    "id": "1616724407"
+  },
+  {
+    "city": "Ciechocinek",
+    "city_ascii": "Ciechocinek",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "52.8833",
+    "lng": "18.7833",
+    "id": "1616015629"
+  },
+  {
+    "city": "Suchanino",
+    "city_ascii": "Suchanino",
+    "admin_name": "Pomorskie",
+    "lat": "54.3667",
+    "lng": "18.6500",
+    "id": "1616723599"
+  },
+  {
+    "city": "Zdzieszowice",
+    "city_ascii": "Zdzieszowice",
+    "admin_name": "Opolskie",
+    "lat": "50.4192",
+    "lng": "18.1236",
+    "id": "1616530342"
+  },
+  {
+    "city": "Międzychód",
+    "city_ascii": "Miedzychod",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.6000",
+    "lng": "15.8833",
+    "id": "1616252444"
+  },
+  {
+    "city": "Murowana Goślina",
+    "city_ascii": "Murowana Goslina",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.5667",
+    "lng": "17.0167",
+    "id": "1616479191"
+  },
+  {
+    "city": "Głogów Małopolski",
+    "city_ascii": "Glogow Malopolski",
+    "admin_name": "Podkarpackie",
+    "lat": "50.1667",
+    "lng": "21.9667",
+    "id": "1616792516"
+  },
+  {
+    "city": "Kowary",
+    "city_ascii": "Kowary",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.7917",
+    "lng": "15.8333",
+    "id": "1616926416"
+  },
+  {
+    "city": "Załęże",
+    "city_ascii": "Zaleze",
+    "admin_name": "Śląskie",
+    "lat": "50.2672",
+    "lng": "18.9892",
+    "id": "1616250144"
+  },
+  {
+    "city": "Biskupiec",
+    "city_ascii": "Biskupiec",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "53.8500",
+    "lng": "20.9500",
+    "id": "1616213985"
+  },
+  {
+    "city": "Komorowice",
+    "city_ascii": "Komorowice",
+    "admin_name": "Śląskie",
+    "lat": "49.8544",
+    "lng": "19.0406",
+    "id": "1616278113"
+  },
+  {
+    "city": "Syców",
+    "city_ascii": "Sycow",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.3100",
+    "lng": "17.7236",
+    "id": "1616409792"
+  },
+  {
+    "city": "Czarnków",
+    "city_ascii": "Czarnkow",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.9000",
+    "lng": "16.5667",
+    "id": "1616859392"
+  },
+  {
+    "city": "Pińczów",
+    "city_ascii": "Pinczow",
+    "admin_name": "Świętokrzyskie",
+    "lat": "50.5333",
+    "lng": "20.5333",
+    "id": "1616074605"
+  },
+  {
+    "city": "Mikuszowice",
+    "city_ascii": "Mikuszowice",
+    "admin_name": "Śląskie",
+    "lat": "49.7833",
+    "lng": "19.0703",
+    "id": "1616718016"
+  },
+  {
+    "city": "Krynica",
+    "city_ascii": "Krynica",
+    "admin_name": "Małopolskie",
+    "lat": "49.4117",
+    "lng": "20.9550",
+    "id": "1616638760"
+  },
+  {
+    "city": "Kolno",
+    "city_ascii": "Kolno",
+    "admin_name": "Podlaskie",
+    "lat": "53.4106",
+    "lng": "21.9339",
+    "id": "1616110330"
+  },
+  {
+    "city": "Czersk Pomorski",
+    "city_ascii": "Czersk Pomorski",
+    "admin_name": "Pomorskie",
+    "lat": "53.7928",
+    "lng": "17.9739",
+    "id": "1616943877"
+  },
+  {
+    "city": "Sulęcin",
+    "city_ascii": "Sulecin",
+    "admin_name": "Lubuskie",
+    "lat": "52.4500",
+    "lng": "15.1167",
+    "id": "1616859082"
+  },
+  {
+    "city": "Siechnice",
+    "city_ascii": "Siechnice",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.0367",
+    "lng": "17.1525",
+    "id": "1616477794"
+  },
+  {
+    "city": "Strzelce Krajeńskie",
+    "city_ascii": "Strzelce Krajenskie",
+    "admin_name": "Lubuskie",
+    "lat": "52.8756",
+    "lng": "15.5319",
+    "id": "1616150192"
+  },
+  {
+    "city": "Krzeszowice",
+    "city_ascii": "Krzeszowice",
+    "admin_name": "Małopolskie",
+    "lat": "50.1333",
+    "lng": "19.6333",
+    "id": "1616471634"
+  },
+  {
+    "city": "Kostrzyń",
+    "city_ascii": "Kostrzyn",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.3942",
+    "lng": "17.2222",
+    "id": "1616197568"
+  },
+  {
+    "city": "Banino",
+    "city_ascii": "Banino",
+    "admin_name": "Pomorskie",
+    "lat": "54.3933",
+    "lng": "18.4083",
+    "id": "1616509986"
+  },
+  {
+    "city": "Drezdenko",
+    "city_ascii": "Drezdenko",
+    "admin_name": "Lubuskie",
+    "lat": "52.8333",
+    "lng": "15.8333",
+    "id": "1616180565"
+  },
+  {
+    "city": "Łobez",
+    "city_ascii": "Lobez",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.6333",
+    "lng": "15.6167",
+    "id": "1616627277"
+  },
+  {
+    "city": "Bukowno",
+    "city_ascii": "Bukowno",
+    "admin_name": "Małopolskie",
+    "lat": "50.2681",
+    "lng": "19.4631",
+    "id": "1616483621"
+  },
+  {
+    "city": "Pobiedziska",
+    "city_ascii": "Pobiedziska",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.4947",
+    "lng": "17.2672",
+    "id": "1616215352"
+  },
+  {
+    "city": "Włoszczowa",
+    "city_ascii": "Wloszczowa",
+    "admin_name": "Świętokrzyskie",
+    "lat": "50.8542",
+    "lng": "19.9669",
+    "id": "1616505680"
+  },
+  {
+    "city": "Kokoszki",
+    "city_ascii": "Kokoszki",
+    "admin_name": "Pomorskie",
+    "lat": "54.3541",
+    "lng": "18.4915",
+    "id": "1616899678"
+  },
+  {
+    "city": "Mońki",
+    "city_ascii": "Monki",
+    "admin_name": "Podlaskie",
+    "lat": "53.4000",
+    "lng": "22.8000",
+    "id": "1616329542"
+  },
+  {
+    "city": "Dobre Miasto",
+    "city_ascii": "Dobre Miasto",
+    "admin_name": "Warmińsko-Mazurskie",
+    "lat": "53.9875",
+    "lng": "20.3958",
+    "id": "1616619953"
+  },
+  {
+    "city": "Kudowa-Zdrój",
+    "city_ascii": "Kudowa-Zdroj",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.4383",
+    "lng": "16.2397",
+    "id": "1616102407"
+  },
+  {
+    "city": "Nowy Dwór Gdański",
+    "city_ascii": "Nowy Dwor Gdanski",
+    "admin_name": "Pomorskie",
+    "lat": "54.2167",
+    "lng": "19.1167",
+    "id": "1616276242"
+  },
+  {
+    "city": "Władysławowo",
+    "city_ascii": "Wladyslawowo",
+    "admin_name": "Pomorskie",
+    "lat": "54.8339",
+    "lng": "18.3156",
+    "id": "1616875034"
+  },
+  {
+    "city": "Trzebiatów",
+    "city_ascii": "Trzebiatow",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "54.0572",
+    "lng": "15.2786",
+    "id": "1616792960"
+  },
+  {
+    "city": "Karczew",
+    "city_ascii": "Karczew",
+    "admin_name": "Mazowieckie",
+    "lat": "52.0833",
+    "lng": "21.2500",
+    "id": "1616830765"
+  },
+  {
+    "city": "Szubin",
+    "city_ascii": "Szubin",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "53.0167",
+    "lng": "17.7500",
+    "id": "1616354181"
+  },
+  {
+    "city": "Środa Śląska",
+    "city_ascii": "Sroda Slaska",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.1500",
+    "lng": "16.5833",
+    "id": "1616482692"
+  },
+  {
+    "city": "Sztum",
+    "city_ascii": "Sztum",
+    "admin_name": "Pomorskie",
+    "lat": "53.9217",
+    "lng": "19.0336",
+    "id": "1616277062"
+  },
+  {
+    "city": "Miastko",
+    "city_ascii": "Miastko",
+    "admin_name": "Pomorskie",
+    "lat": "54.0167",
+    "lng": "16.9833",
+    "id": "1616803904"
+  },
+  {
+    "city": "Puszczykowo",
+    "city_ascii": "Puszczykowo",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.2817",
+    "lng": "16.8542",
+    "id": "1616800720"
+  },
+  {
+    "city": "Bystrzyca Kłodzka",
+    "city_ascii": "Bystrzyca Klodzka",
+    "admin_name": "Dolnośląskie",
+    "lat": "50.3000",
+    "lng": "16.6500",
+    "id": "1616639168"
+  },
+  {
+    "city": "Rokietnica",
+    "city_ascii": "Rokietnica",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.5122",
+    "lng": "16.7456",
+    "id": "1616318219"
+  },
+  {
+    "city": "Opalenica",
+    "city_ascii": "Opalenica",
+    "admin_name": "Wielkopolskie",
+    "lat": "52.3078",
+    "lng": "16.4136",
+    "id": "1616220242"
+  },
+  {
+    "city": "Blachownia",
+    "city_ascii": "Blachownia",
+    "admin_name": "Śląskie",
+    "lat": "50.7833",
+    "lng": "18.9667",
+    "id": "1616282069"
+  },
+  {
+    "city": "Imielin",
+    "city_ascii": "Imielin",
+    "admin_name": "Śląskie",
+    "lat": "50.1478",
+    "lng": "19.1814",
+    "id": "1616783615"
+  },
+  {
+    "city": "Kruszwica",
+    "city_ascii": "Kruszwica",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "52.6772",
+    "lng": "18.3292",
+    "id": "1616885548"
+  },
+  {
+    "city": "Skwierzyna",
+    "city_ascii": "Skwierzyna",
+    "admin_name": "Lubuskie",
+    "lat": "52.6000",
+    "lng": "15.5000",
+    "id": "1616286690"
+  },
+  {
+    "city": "Ryki",
+    "city_ascii": "Ryki",
+    "admin_name": "Lubelskie",
+    "lat": "51.6333",
+    "lng": "21.9333",
+    "id": "1616774707"
+  },
+  {
+    "city": "Maków Mazowiecki",
+    "city_ascii": "Makow Mazowiecki",
+    "admin_name": "Mazowieckie",
+    "lat": "52.8667",
+    "lng": "21.1000",
+    "id": "1616505631"
+  },
+  {
+    "city": "Wysokie Mazowieckie",
+    "city_ascii": "Wysokie Mazowieckie",
+    "admin_name": "Podlaskie",
+    "lat": "52.9192",
+    "lng": "22.5144",
+    "id": "1616361738"
+  },
+  {
+    "city": "Olesno",
+    "city_ascii": "Olesno",
+    "admin_name": "Opolskie",
+    "lat": "50.8750",
+    "lng": "18.4167",
+    "id": "1616142985"
+  },
+  {
+    "city": "Oborniki Śląskie",
+    "city_ascii": "Oborniki Slaskie",
+    "admin_name": "Dolnośląskie",
+    "lat": "51.2986",
+    "lng": "16.9017",
+    "id": "1616398472"
+  },
+  {
+    "city": "Kożuchów",
+    "city_ascii": "Kozuchow",
+    "admin_name": "Lubuskie",
+    "lat": "51.7500",
+    "lng": "15.6000",
+    "id": "1616495836"
+  },
+  {
+    "city": "Pawłowice",
+    "city_ascii": "Pawlowice",
+    "admin_name": "Śląskie",
+    "lat": "49.9628",
+    "lng": "18.7181",
+    "id": "1616864305"
+  },
+  {
+    "city": "Sucha Beskidzka",
+    "city_ascii": "Sucha Beskidzka",
+    "admin_name": "Małopolskie",
+    "lat": "49.7403",
+    "lng": "19.5886",
+    "id": "1616035021"
+  },
+  {
+    "city": "Czarna Białostocka",
+    "city_ascii": "Czarna Bialostocka",
+    "admin_name": "Podlaskie",
+    "lat": "53.3000",
+    "lng": "23.2833",
+    "id": "1616707256"
+  },
+  {
+    "city": "Sępólno Krajeńskie",
+    "city_ascii": "Sepolno Krajenskie",
+    "admin_name": "Kujawsko-Pomorskie",
+    "lat": "53.4500",
+    "lng": "17.5300",
+    "id": "1616234057"
+  },
+  {
+    "city": "Bolszewo",
+    "city_ascii": "Bolszewo",
+    "admin_name": "Pomorskie",
+    "lat": "54.6242",
+    "lng": "18.1753",
+    "id": "1616848552"
+  },
+  {
+    "city": "Stary Sącz",
+    "city_ascii": "Stary Sacz",
+    "admin_name": "Małopolskie",
+    "lat": "49.5625",
+    "lng": "20.6364",
+    "id": "1616399913"
+  },
+  {
+    "city": "Ustrzyki Dolne",
+    "city_ascii": "Ustrzyki Dolne",
+    "admin_name": "Podkarpackie",
+    "lat": "49.4297",
+    "lng": "22.5867",
+    "id": "1616817418"
+  },
+  {
+    "city": "Kolbuszowa",
+    "city_ascii": "Kolbuszowa",
+    "admin_name": "Podkarpackie",
+    "lat": "50.2500",
+    "lng": "21.7667",
+    "id": "1616946964"
+  },
+  {
+    "city": "Chełmek",
+    "city_ascii": "Chelmek",
+    "admin_name": "Małopolskie",
+    "lat": "50.1167",
+    "lng": "19.2500",
+    "id": "1616126539"
+  },
+  {
+    "city": "Kościelisko",
+    "city_ascii": "Koscielisko",
+    "admin_name": "Małopolskie",
+    "lat": "49.2908",
+    "lng": "19.8883",
+    "id": "1616942761"
+  },
+  {
+    "city": "Żuromin",
+    "city_ascii": "Zuromin",
+    "admin_name": "Mazowieckie",
+    "lat": "53.0667",
+    "lng": "19.9000",
+    "id": "1616921543"
+  },
+  {
+    "city": "Kamień Pomorski",
+    "city_ascii": "Kamien Pomorski",
+    "admin_name": "Zachodniopomorskie",
+    "lat": "53.9700",
+    "lng": "14.7725",
+    "id": "1616000112"
+  },
+  {
+    "city": "Poniatowa",
+    "city_ascii": "Poniatowa",
+    "admin_name": "Lubelskie",
+    "lat": "51.1928",
+    "lng": "22.0647",
+    "id": "1616798001"
+  },
+  {
+    "city": "Wieruszów",
+    "city_ascii": "Wieruszow",
+    "admin_name": "Łódzkie",
+    "lat": "51.3000",
+    "lng": "18.1500",
+    "id": "1616576051"
+  }
+]

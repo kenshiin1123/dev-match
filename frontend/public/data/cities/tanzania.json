@@ -1,0 +1,746 @@
+[
+  {
+    "city": "Dar es Salaam",
+    "city_ascii": "Dar es Salaam",
+    "admin_name": "Dar es Salaam",
+    "lat": "-6.8161",
+    "lng": "39.2803",
+    "id": "1834843853"
+  },
+  {
+    "city": "Mwanza",
+    "city_ascii": "Mwanza",
+    "admin_name": "Mwanza",
+    "lat": "-2.5167",
+    "lng": "32.9000",
+    "id": "1834011288"
+  },
+  {
+    "city": "Ubungo",
+    "city_ascii": "Ubungo",
+    "admin_name": "Dar es Salaam",
+    "lat": "-6.7889",
+    "lng": "39.2056",
+    "id": "1834358621"
+  },
+  {
+    "city": "Dodoma",
+    "city_ascii": "Dodoma",
+    "admin_name": "Dodoma",
+    "lat": "-6.1731",
+    "lng": "35.7419",
+    "id": "1834288497"
+  },
+  {
+    "city": "Arusha",
+    "city_ascii": "Arusha",
+    "admin_name": "Arusha",
+    "lat": "-3.3667",
+    "lng": "36.6833",
+    "id": "1834484937"
+  },
+  {
+    "city": "Mbeya",
+    "city_ascii": "Mbeya",
+    "admin_name": "Mbeya",
+    "lat": "-8.9000",
+    "lng": "33.4500",
+    "id": "1834396594"
+  },
+  {
+    "city": "Morogoro",
+    "city_ascii": "Morogoro",
+    "admin_name": "Morogoro",
+    "lat": "-6.8242",
+    "lng": "37.6633",
+    "id": "1834185429"
+  },
+  {
+    "city": "Kahama",
+    "city_ascii": "Kahama",
+    "admin_name": "Shinyanga",
+    "lat": "-3.8375",
+    "lng": "32.6000",
+    "id": "1834043034"
+  },
+  {
+    "city": "Tanga",
+    "city_ascii": "Tanga",
+    "admin_name": "Tanga",
+    "lat": "-5.0742",
+    "lng": "39.0992",
+    "id": "1834004568"
+  },
+  {
+    "city": "Uvinza",
+    "city_ascii": "Uvinza",
+    "admin_name": "Kigoma",
+    "lat": "-5.1069",
+    "lng": "30.3839",
+    "id": "1834561245"
+  },
+  {
+    "city": "Geita",
+    "city_ascii": "Geita",
+    "admin_name": "Geita",
+    "lat": "-2.8714",
+    "lng": "32.2294",
+    "id": "1834469543"
+  },
+  {
+    "city": "Tabora",
+    "city_ascii": "Tabora",
+    "admin_name": "Tabora",
+    "lat": "-5.0167",
+    "lng": "32.8000",
+    "id": "1834712235"
+  },
+  {
+    "city": "Sumbawanga",
+    "city_ascii": "Sumbawanga",
+    "admin_name": "Rukwa",
+    "lat": "-7.9667",
+    "lng": "31.6167",
+    "id": "1834684278"
+  },
+  {
+    "city": "Songea",
+    "city_ascii": "Songea",
+    "admin_name": "Ruvuma",
+    "lat": "-10.6833",
+    "lng": "35.6500",
+    "id": "1834461509"
+  },
+  {
+    "city": "Kibaha",
+    "city_ascii": "Kibaha",
+    "admin_name": "Coast",
+    "lat": "-6.7667",
+    "lng": "38.9167",
+    "id": "1834065400"
+  },
+  {
+    "city": "Bariadi",
+    "city_ascii": "Bariadi",
+    "admin_name": "Simiyu",
+    "lat": "-2.7919",
+    "lng": "33.9894",
+    "id": "1834546025"
+  },
+  {
+    "city": "Kasulu",
+    "city_ascii": "Kasulu",
+    "admin_name": "Kigoma",
+    "lat": "-4.5800",
+    "lng": "30.1000",
+    "id": "1834918111"
+  },
+  {
+    "city": "Singida",
+    "city_ascii": "Singida",
+    "admin_name": "Singida",
+    "lat": "-4.8167",
+    "lng": "34.7500",
+    "id": "1834418526"
+  },
+  {
+    "city": "Kigoma",
+    "city_ascii": "Kigoma",
+    "admin_name": "Kigoma",
+    "lat": "-4.8833",
+    "lng": "29.6333",
+    "id": "1834583327"
+  },
+  {
+    "city": "Zanzibar",
+    "city_ascii": "Zanzibar",
+    "admin_name": "Zanzibar Urban/West",
+    "lat": "-6.1650",
+    "lng": "39.1990",
+    "id": "1834823848"
+  },
+  {
+    "city": "Ifakara",
+    "city_ascii": "Ifakara",
+    "admin_name": "Morogoro",
+    "lat": "-8.1000",
+    "lng": "36.6833",
+    "id": "1834456222"
+  },
+  {
+    "city": "Mpanda",
+    "city_ascii": "Mpanda",
+    "admin_name": "Katavi",
+    "lat": "-6.3500",
+    "lng": "31.0667",
+    "id": "1834127573"
+  },
+  {
+    "city": "Iringa",
+    "city_ascii": "Iringa",
+    "admin_name": "Iringa",
+    "lat": "-7.7700",
+    "lng": "35.6900",
+    "id": "1834453478"
+  },
+  {
+    "city": "Moshi",
+    "city_ascii": "Moshi",
+    "admin_name": "Kilimanjaro",
+    "lat": "-3.3349",
+    "lng": "37.3404",
+    "id": "1834217168"
+  },
+  {
+    "city": "Musoma",
+    "city_ascii": "Musoma",
+    "admin_name": "Mara",
+    "lat": "-1.5000",
+    "lng": "33.8000",
+    "id": "1834100025"
+  },
+  {
+    "city": "Kisarawe",
+    "city_ascii": "Kisarawe",
+    "admin_name": "Coast",
+    "lat": "-7.2622",
+    "lng": "38.7367",
+    "id": "1834617787"
+  },
+  {
+    "city": "Bukoba",
+    "city_ascii": "Bukoba",
+    "admin_name": "Kagera",
+    "lat": "-1.3333",
+    "lng": "31.8167",
+    "id": "1834433264"
+  },
+  {
+    "city": "Mtwara",
+    "city_ascii": "Mtwara",
+    "admin_name": "Mtwara",
+    "lat": "-10.2736",
+    "lng": "40.1828",
+    "id": "1834044142"
+  },
+  {
+    "city": "Shinyanga",
+    "city_ascii": "Shinyanga",
+    "admin_name": "Shinyanga",
+    "lat": "-3.6619",
+    "lng": "33.4231",
+    "id": "1834972707"
+  },
+  {
+    "city": "Tarime",
+    "city_ascii": "Tarime",
+    "admin_name": "Mara",
+    "lat": "-1.3500",
+    "lng": "34.3833",
+    "id": "1834684619"
+  },
+  {
+    "city": "Nzega",
+    "city_ascii": "Nzega",
+    "admin_name": "Tabora",
+    "lat": "-4.2169",
+    "lng": "33.1864",
+    "id": "1834034762"
+  },
+  {
+    "city": "Handeni",
+    "city_ascii": "Handeni",
+    "admin_name": "Tanga",
+    "lat": "-5.4242",
+    "lng": "38.0194",
+    "id": "1834479617"
+  },
+  {
+    "city": "Lindi",
+    "city_ascii": "Lindi",
+    "admin_name": "Lindi",
+    "lat": "-9.9969",
+    "lng": "39.7144",
+    "id": "1834550750"
+  },
+  {
+    "city": "Bagamoyo",
+    "city_ascii": "Bagamoyo",
+    "admin_name": "Coast",
+    "lat": "-6.4444",
+    "lng": "38.9028",
+    "id": "1834546518"
+  },
+  {
+    "city": "Babati",
+    "city_ascii": "Babati",
+    "admin_name": "Manyara",
+    "lat": "-4.2167",
+    "lng": "35.7500",
+    "id": "1834081851"
+  },
+  {
+    "city": "Korogwe",
+    "city_ascii": "Korogwe",
+    "admin_name": "Tanga",
+    "lat": "-5.1558",
+    "lng": "38.4503",
+    "id": "1834605335"
+  },
+  {
+    "city": "Tukuyu",
+    "city_ascii": "Tukuyu",
+    "admin_name": "Mbeya",
+    "lat": "-9.2500",
+    "lng": "33.6500",
+    "id": "1834960117"
+  },
+  {
+    "city": "Chake Chake",
+    "city_ascii": "Chake Chake",
+    "admin_name": "Pemba South",
+    "lat": "-5.2395",
+    "lng": "39.7700",
+    "id": "1834409018"
+  },
+  {
+    "city": "Tunduru",
+    "city_ascii": "Tunduru",
+    "admin_name": "Ruvuma",
+    "lat": "-11.0667",
+    "lng": "37.3500",
+    "id": "1834030694"
+  },
+  {
+    "city": "Mbulu",
+    "city_ascii": "Mbulu",
+    "admin_name": "Manyara",
+    "lat": "-3.8500",
+    "lng": "35.5500",
+    "id": "1834497748"
+  },
+  {
+    "city": "Kilosa",
+    "city_ascii": "Kilosa",
+    "admin_name": "Morogoro",
+    "lat": "-6.8300",
+    "lng": "36.9875",
+    "id": "1834242035"
+  },
+  {
+    "city": "Njombe",
+    "city_ascii": "Njombe",
+    "admin_name": "Njombe",
+    "lat": "-9.3333",
+    "lng": "34.7667",
+    "id": "1834328362"
+  },
+  {
+    "city": "Tunduma",
+    "city_ascii": "Tunduma",
+    "admin_name": "Mbeya",
+    "lat": "-9.3000",
+    "lng": "32.7667",
+    "id": "1834094894"
+  },
+  {
+    "city": "Masasi",
+    "city_ascii": "Masasi",
+    "admin_name": "Mtwara",
+    "lat": "-10.7296",
+    "lng": "38.7999",
+    "id": "1834414126"
+  },
+  {
+    "city": "Mugumu",
+    "city_ascii": "Mugumu",
+    "admin_name": "Mara",
+    "lat": "-1.8333",
+    "lng": "34.6667",
+    "id": "1834097845"
+  },
+  {
+    "city": "Magu",
+    "city_ascii": "Magu",
+    "admin_name": "Mwanza",
+    "lat": "-2.5833",
+    "lng": "33.4333",
+    "id": "1834840353"
+  },
+  {
+    "city": "Mlimba",
+    "city_ascii": "Mlimba",
+    "admin_name": "Morogoro",
+    "lat": "-8.7786",
+    "lng": "35.8111",
+    "id": "1834564958"
+  },
+  {
+    "city": "Misungwi",
+    "city_ascii": "Misungwi",
+    "admin_name": "Mwanza",
+    "lat": "-2.8500",
+    "lng": "33.0833",
+    "id": "1834354110"
+  },
+  {
+    "city": "Same",
+    "city_ascii": "Same",
+    "admin_name": "Kilimanjaro",
+    "lat": "-4.0667",
+    "lng": "37.7833",
+    "id": "1834888088"
+  },
+  {
+    "city": "Lushoto",
+    "city_ascii": "Lushoto",
+    "admin_name": "Tanga",
+    "lat": "-4.7928",
+    "lng": "38.2911",
+    "id": "1834431227"
+  },
+  {
+    "city": "Geiro",
+    "city_ascii": "Geiro",
+    "admin_name": "Morogoro",
+    "lat": "-6.1428",
+    "lng": "36.8694",
+    "id": "1834543579"
+  },
+  {
+    "city": "Ngudu",
+    "city_ascii": "Ngudu",
+    "admin_name": "Mwanza",
+    "lat": "-2.9667",
+    "lng": "33.3333",
+    "id": "1834250706"
+  },
+  {
+    "city": "Kibiti",
+    "city_ascii": "Kibiti",
+    "admin_name": "Coast",
+    "lat": "-7.7296",
+    "lng": "38.9500",
+    "id": "1834522080"
+  },
+  {
+    "city": "Mpwapwa",
+    "city_ascii": "Mpwapwa",
+    "admin_name": "Dodoma",
+    "lat": "-6.3500",
+    "lng": "36.4833",
+    "id": "1834235223"
+  },
+  {
+    "city": "Masanwa",
+    "city_ascii": "Masanwa",
+    "admin_name": "Simiyu",
+    "lat": "-3.1833",
+    "lng": "33.7833",
+    "id": "1834929930"
+  },
+  {
+    "city": "Chato",
+    "city_ascii": "Chato",
+    "admin_name": "Geita",
+    "lat": "-2.6378",
+    "lng": "31.7669",
+    "id": "1834766071"
+  },
+  {
+    "city": "Sikonge",
+    "city_ascii": "Sikonge",
+    "admin_name": "Tabora",
+    "lat": "-5.6333",
+    "lng": "32.7667",
+    "id": "1834313836"
+  },
+  {
+    "city": "Wete",
+    "city_ascii": "Wete",
+    "admin_name": "Pemba North",
+    "lat": "-5.0567",
+    "lng": "39.7281",
+    "id": "1834217491"
+  },
+  {
+    "city": "Manyoni",
+    "city_ascii": "Manyoni",
+    "admin_name": "Singida",
+    "lat": "-5.7500",
+    "lng": "34.8333",
+    "id": "1834963293"
+  },
+  {
+    "city": "Kabanga",
+    "city_ascii": "Kabanga",
+    "admin_name": "Kigoma",
+    "lat": "-2.9022",
+    "lng": "30.4986",
+    "id": "1834808900"
+  },
+  {
+    "city": "Kakonko",
+    "city_ascii": "Kakonko",
+    "admin_name": "Kigoma",
+    "lat": "-3.2796",
+    "lng": "30.9600",
+    "id": "1834778373"
+  },
+  {
+    "city": "Biharamulo",
+    "city_ascii": "Biharamulo",
+    "admin_name": "Kagera",
+    "lat": "-2.6333",
+    "lng": "31.3167",
+    "id": "1834491817"
+  },
+  {
+    "city": "Itigi",
+    "city_ascii": "Itigi",
+    "admin_name": "Singida",
+    "lat": "-5.7000",
+    "lng": "34.4833",
+    "id": "1834524806"
+  },
+  {
+    "city": "Kilindoni",
+    "city_ascii": "Kilindoni",
+    "admin_name": "Coast",
+    "lat": "-7.9167",
+    "lng": "39.6500",
+    "id": "1834982666"
+  },
+  {
+    "city": "Mikumi",
+    "city_ascii": "Mikumi",
+    "admin_name": "Morogoro",
+    "lat": "-7.4072",
+    "lng": "36.9722",
+    "id": "1834405632"
+  },
+  {
+    "city": "Muheza",
+    "city_ascii": "Muheza",
+    "admin_name": "Tanga",
+    "lat": "-5.1739",
+    "lng": "38.7875",
+    "id": "1834499547"
+  },
+  {
+    "city": "Sirari",
+    "city_ascii": "Sirari",
+    "admin_name": "Mara",
+    "lat": "-1.2244",
+    "lng": "34.4383",
+    "id": "1834994899"
+  },
+  {
+    "city": "Rubeho",
+    "city_ascii": "Rubeho",
+    "admin_name": "Morogoro",
+    "lat": "-6.2578",
+    "lng": "36.8653",
+    "id": "1834075405"
+  },
+  {
+    "city": "Ngara",
+    "city_ascii": "Ngara",
+    "admin_name": "Kagera",
+    "lat": "-2.5122",
+    "lng": "30.6558",
+    "id": "1834067520"
+  },
+  {
+    "city": "Karema",
+    "city_ascii": "Karema",
+    "admin_name": "Katavi",
+    "lat": "-6.8205",
+    "lng": "30.4389",
+    "id": "1834711465"
+  },
+  {
+    "city": "Nyahanga",
+    "city_ascii": "Nyahanga",
+    "admin_name": "Simiyu",
+    "lat": "-2.3829",
+    "lng": "33.5500",
+    "id": "1834609339"
+  },
+  {
+    "city": "Bububu",
+    "city_ascii": "Bububu",
+    "admin_name": "Zanzibar Urban/West",
+    "lat": "-6.1000",
+    "lng": "39.2167",
+    "id": "1834932235"
+  },
+  {
+    "city": "Butiama",
+    "city_ascii": "Butiama",
+    "admin_name": "Mara",
+    "lat": "-1.7667",
+    "lng": "33.9667",
+    "id": "1834201635"
+  },
+  {
+    "city": "Msata",
+    "city_ascii": "Msata",
+    "admin_name": "Coast",
+    "lat": "-6.3362",
+    "lng": "38.3850",
+    "id": "1834058417"
+  },
+  {
+    "city": "Mazinde",
+    "city_ascii": "Mazinde",
+    "admin_name": "Tanga",
+    "lat": "-4.8073",
+    "lng": "38.2118",
+    "id": "1834830165"
+  },
+  {
+    "city": "Kashasha",
+    "city_ascii": "Kashasha",
+    "admin_name": "Kagera",
+    "lat": "-1.7578",
+    "lng": "31.6158",
+    "id": "1834270082"
+  },
+  {
+    "city": "Ngerengere",
+    "city_ascii": "Ngerengere",
+    "admin_name": "Morogoro",
+    "lat": "-6.7500",
+    "lng": "38.1167",
+    "id": "1834593902"
+  },
+  {
+    "city": "Ihumwa",
+    "city_ascii": "Ihumwa",
+    "admin_name": "Dodoma",
+    "lat": "-6.1667",
+    "lng": "35.8833",
+    "id": "1834975730"
+  },
+  {
+    "city": "Ngorongoro",
+    "city_ascii": "Ngorongoro",
+    "admin_name": "Arusha",
+    "lat": "-3.2496",
+    "lng": "35.5200",
+    "id": "1834381549"
+  },
+  {
+    "city": "Keza",
+    "city_ascii": "Keza",
+    "admin_name": "Kagera",
+    "lat": "-2.7540",
+    "lng": "30.6820",
+    "id": "1834729432"
+  },
+  {
+    "city": "Mwaya",
+    "city_ascii": "Mwaya",
+    "admin_name": "Mbeya",
+    "lat": "-9.4917",
+    "lng": "34.0333",
+    "id": "1834213928"
+  },
+  {
+    "city": "Msoga",
+    "city_ascii": "Msoga",
+    "admin_name": "Coast",
+    "lat": "-6.5667",
+    "lng": "38.3000",
+    "id": "1834863543"
+  },
+  {
+    "city": "Mbamba Bay",
+    "city_ascii": "Mbamba Bay",
+    "admin_name": "Ruvuma",
+    "lat": "-11.2833",
+    "lng": "34.7717",
+    "id": "1834067294"
+  },
+  {
+    "city": "Kibaya",
+    "city_ascii": "Kibaya",
+    "admin_name": "Manyara",
+    "lat": "-5.3014",
+    "lng": "36.5825",
+    "id": "1834442033"
+  },
+  {
+    "city": "Rudewa",
+    "city_ascii": "Rudewa",
+    "admin_name": "Njombe",
+    "lat": "-10.1008",
+    "lng": "34.6836",
+    "id": "1834986304"
+  },
+  {
+    "city": "Nansio",
+    "city_ascii": "Nansio",
+    "admin_name": "Mara",
+    "lat": "-2.1078",
+    "lng": "33.0864",
+    "id": "1834001196"
+  },
+  {
+    "city": "Oldeani",
+    "city_ascii": "Oldeani",
+    "admin_name": "Arusha",
+    "lat": "-3.3496",
+    "lng": "35.5500",
+    "id": "1834474820"
+  },
+  {
+    "city": "Mkokotoni",
+    "city_ascii": "Mkokotoni",
+    "admin_name": "Zanzibar North",
+    "lat": "-5.8800",
+    "lng": "39.2731",
+    "id": "1834206004"
+  },
+  {
+    "city": "Kipili",
+    "city_ascii": "Kipili",
+    "admin_name": "Rukwa",
+    "lat": "-7.4329",
+    "lng": "30.6000",
+    "id": "1834589411"
+  },
+  {
+    "city": "Kanyato",
+    "city_ascii": "Kanyato",
+    "admin_name": "Kigoma",
+    "lat": "-4.4565",
+    "lng": "30.2614",
+    "id": "1834158031"
+  },
+  {
+    "city": "Mahonda",
+    "city_ascii": "Mahonda",
+    "admin_name": "Zanzibar North",
+    "lat": "-5.9897",
+    "lng": "39.2519",
+    "id": "1834907448"
+  },
+  {
+    "city": "Vwawa",
+    "city_ascii": "Vwawa",
+    "admin_name": "Songwe",
+    "lat": "-9.1081",
+    "lng": "32.9347",
+    "id": "1834695780"
+  },
+  {
+    "city": "Koani",
+    "city_ascii": "Koani",
+    "admin_name": "Zanzibar Central/South",
+    "lat": "-6.1333",
+    "lng": "39.2833",
+    "id": "1834376215"
+  }
+]

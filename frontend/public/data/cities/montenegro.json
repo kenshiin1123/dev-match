@@ -1,0 +1,202 @@
+[
+  {
+    "city": "Podgorica",
+    "city_ascii": "Podgorica",
+    "admin_name": "Podgorica",
+    "lat": "42.4414",
+    "lng": "19.2628",
+    "id": "1499454516"
+  },
+  {
+    "city": "Nikšić",
+    "city_ascii": "Niksic",
+    "admin_name": "Nikšić",
+    "lat": "42.7778",
+    "lng": "18.9500",
+    "id": "1499844133"
+  },
+  {
+    "city": "Ulcinj",
+    "city_ascii": "Ulcinj",
+    "admin_name": "Ulcinj",
+    "lat": "41.9200",
+    "lng": "19.2000",
+    "id": "1499867182"
+  },
+  {
+    "city": "Herceg Novi",
+    "city_ascii": "Herceg Novi",
+    "admin_name": "Herceg Novi",
+    "lat": "42.4530",
+    "lng": "18.5312",
+    "id": "1499673791"
+  },
+  {
+    "city": "Pljevlja",
+    "city_ascii": "Pljevlja",
+    "admin_name": "Pljevlja",
+    "lat": "43.3567",
+    "lng": "19.3583",
+    "id": "1499255431"
+  },
+  {
+    "city": "Budva",
+    "city_ascii": "Budva",
+    "admin_name": "Budva",
+    "lat": "42.2881",
+    "lng": "18.8425",
+    "id": "1499564238"
+  },
+  {
+    "city": "Bar",
+    "city_ascii": "Bar",
+    "admin_name": "Bar",
+    "lat": "42.1000",
+    "lng": "19.1000",
+    "id": "1499197266"
+  },
+  {
+    "city": "Plav",
+    "city_ascii": "Plav",
+    "admin_name": "Plav",
+    "lat": "42.6000",
+    "lng": "19.9400",
+    "id": "1499247875"
+  },
+  {
+    "city": "Rožaje",
+    "city_ascii": "Rozaje",
+    "admin_name": "Rožaje",
+    "lat": "42.8400",
+    "lng": "20.1600",
+    "id": "1499854307"
+  },
+  {
+    "city": "Kotor",
+    "city_ascii": "Kotor",
+    "admin_name": "Kotor",
+    "lat": "42.4300",
+    "lng": "18.7700",
+    "id": "1499573612"
+  },
+  {
+    "city": "Bijelo Polje",
+    "city_ascii": "Bijelo Polje",
+    "admin_name": "Bijelo Polje",
+    "lat": "43.0400",
+    "lng": "19.7500",
+    "id": "1499452756"
+  },
+  {
+    "city": "Cetinje",
+    "city_ascii": "Cetinje",
+    "admin_name": "Cetinje",
+    "lat": "42.3894",
+    "lng": "18.9247",
+    "id": "1499733751"
+  },
+  {
+    "city": "Berane",
+    "city_ascii": "Berane",
+    "admin_name": "Berane",
+    "lat": "42.8400",
+    "lng": "19.8600",
+    "id": "1499204492"
+  },
+  {
+    "city": "Tivat",
+    "city_ascii": "Tivat",
+    "admin_name": "Tivat",
+    "lat": "42.4300",
+    "lng": "18.7000",
+    "id": "1499952005"
+  },
+  {
+    "city": "Petnjica",
+    "city_ascii": "Petnjica",
+    "admin_name": "Petnjica",
+    "lat": "42.9089",
+    "lng": "19.9644",
+    "id": "1499532482"
+  },
+  {
+    "city": "Danilovgrad",
+    "city_ascii": "Danilovgrad",
+    "admin_name": "Danilovgrad",
+    "lat": "42.6100",
+    "lng": "19.0500",
+    "id": "1499538261"
+  },
+  {
+    "city": "Tuzi",
+    "city_ascii": "Tuzi",
+    "admin_name": "Tuzi",
+    "lat": "42.3656",
+    "lng": "19.3314",
+    "id": "1499325970"
+  },
+  {
+    "city": "Mojkovac",
+    "city_ascii": "Mojkovac",
+    "admin_name": "Mojkovac",
+    "lat": "42.9600",
+    "lng": "19.5800",
+    "id": "1499103009"
+  },
+  {
+    "city": "Golubovci",
+    "city_ascii": "Golubovci",
+    "admin_name": "Zeta",
+    "lat": "42.3344",
+    "lng": "19.2253",
+    "id": "1499735056"
+  },
+  {
+    "city": "Kolašin",
+    "city_ascii": "Kolasin",
+    "admin_name": "Kolašin",
+    "lat": "42.8236",
+    "lng": "19.5225",
+    "id": "1499083772"
+  },
+  {
+    "city": "Žabljak",
+    "city_ascii": "Zabljak",
+    "admin_name": "Žabljak",
+    "lat": "43.1550",
+    "lng": "19.1208",
+    "id": "1499125825"
+  },
+  {
+    "city": "Gusinje",
+    "city_ascii": "Gusinje",
+    "admin_name": "Gusinje",
+    "lat": "42.5619",
+    "lng": "19.8339",
+    "id": "1499342041"
+  },
+  {
+    "city": "Plužine",
+    "city_ascii": "Pluzine",
+    "admin_name": "Plužine",
+    "lat": "43.1500",
+    "lng": "18.8300",
+    "id": "1499719205"
+  },
+  {
+    "city": "Andrijevica",
+    "city_ascii": "Andrijevica",
+    "admin_name": "Andrijevica",
+    "lat": "42.7300",
+    "lng": "19.7900",
+    "id": "1499379378"
+  },
+  {
+    "city": "Šavnik",
+    "city_ascii": "Savnik",
+    "admin_name": "Šavnik",
+    "lat": "42.9500",
+    "lng": "19.1000",
+    "id": "1499140506"
+  }
+]

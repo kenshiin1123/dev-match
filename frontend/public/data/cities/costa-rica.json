@@ -1,0 +1,826 @@
+[
+  {
+    "city": "San José",
+    "city_ascii": "San Jose",
+    "admin_name": "San José",
+    "lat": "9.9325",
+    "lng": "-84.0800",
+    "id": "1188749877"
+  },
+  {
+    "city": "San Marcos",
+    "city_ascii": "San Marcos",
+    "admin_name": "Alajuela",
+    "lat": "10.6204",
+    "lng": "-84.5120",
+    "id": "1188000770"
+  },
+  {
+    "city": "San Ramón",
+    "city_ascii": "San Ramon",
+    "admin_name": "Alajuela",
+    "lat": "10.2182",
+    "lng": "-84.5992",
+    "id": "1188012869"
+  },
+  {
+    "city": "Sarapiquí",
+    "city_ascii": "Sarapiqui",
+    "admin_name": "Heredia",
+    "lat": "10.4853",
+    "lng": "-83.9362",
+    "id": "1188413717"
+  },
+  {
+    "city": "Mora",
+    "city_ascii": "Mora",
+    "admin_name": "Heredia",
+    "lat": "10.0088",
+    "lng": "-84.0216",
+    "id": "1188001388"
+  },
+  {
+    "city": "Santa Cruz",
+    "city_ascii": "Santa Cruz",
+    "admin_name": "Guanacaste",
+    "lat": "10.2358",
+    "lng": "-85.6408",
+    "id": "1188628183"
+  },
+  {
+    "city": "Liberia",
+    "city_ascii": "Liberia",
+    "admin_name": "Guanacaste",
+    "lat": "10.6333",
+    "lng": "-85.4333",
+    "id": "1188743090"
+  },
+  {
+    "city": "Nicoya",
+    "city_ascii": "Nicoya",
+    "admin_name": "Guanacaste",
+    "lat": "10.1024",
+    "lng": "-85.4431",
+    "id": "1188473245"
+  },
+  {
+    "city": "San Rafael",
+    "city_ascii": "San Rafael",
+    "admin_name": "Heredia",
+    "lat": "10.0417",
+    "lng": "-84.0750",
+    "id": "1188978329"
+  },
+  {
+    "city": "San Isidro",
+    "city_ascii": "San Isidro",
+    "admin_name": "San José",
+    "lat": "9.3403",
+    "lng": "-83.7338",
+    "id": "1188493240"
+  },
+  {
+    "city": "Alajuela",
+    "city_ascii": "Alajuela",
+    "admin_name": "Alajuela",
+    "lat": "10.1640",
+    "lng": "-84.2645",
+    "id": "1188394508"
+  },
+  {
+    "city": "Naranjo",
+    "city_ascii": "Naranjo",
+    "admin_name": "Alajuela",
+    "lat": "10.1053",
+    "lng": "-84.3885",
+    "id": "1188055345"
+  },
+  {
+    "city": "Quesada",
+    "city_ascii": "Quesada",
+    "admin_name": "Alajuela",
+    "lat": "10.3441",
+    "lng": "-84.4199",
+    "id": "1188199888"
+  },
+  {
+    "city": "Palmares",
+    "city_ascii": "Palmares",
+    "admin_name": "Alajuela",
+    "lat": "10.0466",
+    "lng": "-84.4373",
+    "id": "1188588183"
+  },
+  {
+    "city": "Puntarenas",
+    "city_ascii": "Puntarenas",
+    "admin_name": "Puntarenas",
+    "lat": "9.9667",
+    "lng": "-84.8333",
+    "id": "1188639267"
+  },
+  {
+    "city": "Guácimo",
+    "city_ascii": "Guacimo",
+    "admin_name": "Limón",
+    "lat": "10.2025",
+    "lng": "-83.6223",
+    "id": "1188400409"
+  },
+  {
+    "city": "Santo Domingo",
+    "city_ascii": "Santo Domingo",
+    "admin_name": "Heredia",
+    "lat": "9.9880",
+    "lng": "-84.0686",
+    "id": "1188708621"
+  },
+  {
+    "city": "Coto Brus",
+    "city_ascii": "Coto Brus",
+    "admin_name": "Puntarenas",
+    "lat": "8.8890",
+    "lng": "-82.9092",
+    "id": "1188593631"
+  },
+  {
+    "city": "Matina",
+    "city_ascii": "Matina",
+    "admin_name": "Limón",
+    "lat": "10.0099",
+    "lng": "-83.3096",
+    "id": "1188640480"
+  },
+  {
+    "city": "Guápiles",
+    "city_ascii": "Guapiles",
+    "admin_name": "Limón",
+    "lat": "10.2070",
+    "lng": "-83.8581",
+    "id": "1188786301"
+  },
+  {
+    "city": "Cariari",
+    "city_ascii": "Cariari",
+    "admin_name": "Limón",
+    "lat": "10.4349",
+    "lng": "-83.6851",
+    "id": "1188001355"
+  },
+  {
+    "city": "Desamparados",
+    "city_ascii": "Desamparados",
+    "admin_name": "San José",
+    "lat": "9.8967",
+    "lng": "-84.0706",
+    "id": "1188280055"
+  },
+  {
+    "city": "La Uruca",
+    "city_ascii": "La Uruca",
+    "admin_name": "San José",
+    "lat": "9.9575",
+    "lng": "-84.1327",
+    "id": "1188598269"
+  },
+  {
+    "city": "Siquirres",
+    "city_ascii": "Siquirres",
+    "admin_name": "Limón",
+    "lat": "10.0901",
+    "lng": "-83.5016",
+    "id": "1188355031"
+  },
+  {
+    "city": "San Vicente",
+    "city_ascii": "San Vicente",
+    "admin_name": "San José",
+    "lat": "9.9636",
+    "lng": "-84.0454",
+    "id": "1188615727"
+  },
+  {
+    "city": "Poás",
+    "city_ascii": "Poas",
+    "admin_name": "Alajuela",
+    "lat": "10.1060",
+    "lng": "-84.2475",
+    "id": "1188859935"
+  },
+  {
+    "city": "Curridabat",
+    "city_ascii": "Curridabat",
+    "admin_name": "San José",
+    "lat": "9.9160",
+    "lng": "-84.0348",
+    "id": "1188145799"
+  },
+  {
+    "city": "Esparza",
+    "city_ascii": "Esparza",
+    "admin_name": "Puntarenas",
+    "lat": "9.9959",
+    "lng": "-84.6467",
+    "id": "1188812694"
+  },
+  {
+    "city": "San Pablo",
+    "city_ascii": "San Pablo",
+    "admin_name": "Heredia",
+    "lat": "9.9918",
+    "lng": "-84.0937",
+    "id": "1188253448"
+  },
+  {
+    "city": "Purral",
+    "city_ascii": "Purral",
+    "admin_name": "San José",
+    "lat": "9.9594",
+    "lng": "-84.0165",
+    "id": "1188161276"
+  },
+  {
+    "city": "Turrialba",
+    "city_ascii": "Turrialba",
+    "admin_name": "Cartago",
+    "lat": "9.8897",
+    "lng": "-83.6807",
+    "id": "1188199997"
+  },
+  {
+    "city": "Cañas",
+    "city_ascii": "Canas",
+    "admin_name": "Guanacaste",
+    "lat": "10.4457",
+    "lng": "-85.0992",
+    "id": "1188753368"
+  },
+  {
+    "city": "Desamparados",
+    "city_ascii": "Desamparados",
+    "admin_name": "Alajuela",
+    "lat": "10.0315",
+    "lng": "-84.1877",
+    "id": "1188458855"
+  },
+  {
+    "city": "San Juan",
+    "city_ascii": "San Juan",
+    "admin_name": "San José",
+    "lat": "9.9609",
+    "lng": "-84.0731",
+    "id": "1188421709"
+  },
+  {
+    "city": "Horquetas",
+    "city_ascii": "Horquetas",
+    "admin_name": "Heredia",
+    "lat": "10.3195",
+    "lng": "-83.9647",
+    "id": "1188000133"
+  },
+  {
+    "city": "Rita",
+    "city_ascii": "Rita",
+    "admin_name": "Limón",
+    "lat": "10.4337",
+    "lng": "-83.7530",
+    "id": "1188000230"
+  },
+  {
+    "city": "San Pedro",
+    "city_ascii": "San Pedro",
+    "admin_name": "San José",
+    "lat": "9.9332",
+    "lng": "-84.0470",
+    "id": "1188342624"
+  },
+  {
+    "city": "San Rafael Abajo",
+    "city_ascii": "San Rafael Abajo",
+    "admin_name": "San José",
+    "lat": "9.8943",
+    "lng": "-84.0837",
+    "id": "1188603380"
+  },
+  {
+    "city": "Cartago",
+    "city_ascii": "Cartago",
+    "admin_name": "Cartago",
+    "lat": "9.8667",
+    "lng": "-83.9167",
+    "id": "1188911724"
+  },
+  {
+    "city": "Guadalupe",
+    "city_ascii": "Guadalupe",
+    "admin_name": "San José",
+    "lat": "9.9494",
+    "lng": "-84.0512",
+    "id": "1188603819"
+  },
+  {
+    "city": "San Isidro",
+    "city_ascii": "San Isidro",
+    "admin_name": "Heredia",
+    "lat": "10.0299",
+    "lng": "-84.0431",
+    "id": "1188832612"
+  },
+  {
+    "city": "Paraíso",
+    "city_ascii": "Paraiso",
+    "admin_name": "Cartago",
+    "lat": "9.8322",
+    "lng": "-83.8461",
+    "id": "1188699728"
+  },
+  {
+    "city": "Sartalillo",
+    "city_ascii": "Sartalillo",
+    "admin_name": "Cartago",
+    "lat": "9.9759",
+    "lng": "-84.0232",
+    "id": "1188001617"
+  },
+  {
+    "city": "Aguas Zarcas",
+    "city_ascii": "Aguas Zarcas",
+    "admin_name": "Alajuela",
+    "lat": "10.4223",
+    "lng": "-84.3554",
+    "id": "1188992281"
+  },
+  {
+    "city": "San Francisco",
+    "city_ascii": "San Francisco",
+    "admin_name": "San José",
+    "lat": "9.9083",
+    "lng": "-84.0582",
+    "id": "1188068837"
+  },
+  {
+    "city": "Puerto Viejo",
+    "city_ascii": "Puerto Viejo",
+    "admin_name": "Heredia",
+    "lat": "10.5737",
+    "lng": "-83.9548",
+    "id": "1188508084"
+  },
+  {
+    "city": "Guácima",
+    "city_ascii": "Guacima",
+    "admin_name": "Alajuela",
+    "lat": "9.9613",
+    "lng": "-84.2588",
+    "id": "1188224134"
+  },
+  {
+    "city": "Quepos",
+    "city_ascii": "Quepos",
+    "admin_name": "Puntarenas",
+    "lat": "9.4571",
+    "lng": "-84.1387",
+    "id": "1188443023"
+  },
+  {
+    "city": "Bagaces",
+    "city_ascii": "Bagaces",
+    "admin_name": "Guanacaste",
+    "lat": "10.5157",
+    "lng": "-85.2478",
+    "id": "1188033610"
+  },
+  {
+    "city": "San Juan de Dios",
+    "city_ascii": "San Juan de Dios",
+    "admin_name": "San José",
+    "lat": "9.8800",
+    "lng": "-84.0914",
+    "id": "1188722628"
+  },
+  {
+    "city": "Zapote",
+    "city_ascii": "Zapote",
+    "admin_name": "San José",
+    "lat": "9.9203",
+    "lng": "-84.0592",
+    "id": "1188568386"
+  },
+  {
+    "city": "Abangaritos",
+    "city_ascii": "Abangaritos",
+    "admin_name": "Puntarenas",
+    "lat": "10.2492",
+    "lng": "-85.0268",
+    "id": "1188357414"
+  },
+  {
+    "city": "Pital",
+    "city_ascii": "Pital",
+    "admin_name": "Alajuela",
+    "lat": "10.6024",
+    "lng": "-84.2474",
+    "id": "1188091027"
+  },
+  {
+    "city": "Colón",
+    "city_ascii": "Colon",
+    "admin_name": "San José",
+    "lat": "9.9096",
+    "lng": "-84.2620",
+    "id": "1188235947"
+  },
+  {
+    "city": "Roxana",
+    "city_ascii": "Roxana",
+    "admin_name": "Limón",
+    "lat": "10.3586",
+    "lng": "-83.6738",
+    "id": "1188274720"
+  },
+  {
+    "city": "San Isidro",
+    "city_ascii": "San Isidro",
+    "admin_name": "San José",
+    "lat": "9.9737",
+    "lng": "-83.9861",
+    "id": "1188070945"
+  },
+  {
+    "city": "Batán",
+    "city_ascii": "Batan",
+    "admin_name": "Limón",
+    "lat": "10.1041",
+    "lng": "-83.3529",
+    "id": "1188331157"
+  },
+  {
+    "city": "Upala",
+    "city_ascii": "Upala",
+    "admin_name": "Alajuela",
+    "lat": "10.8645",
+    "lng": "-84.9942",
+    "id": "1188635884"
+  },
+  {
+    "city": "Parrita",
+    "city_ascii": "Parrita",
+    "admin_name": "Puntarenas",
+    "lat": "9.5471",
+    "lng": "-84.3464",
+    "id": "1188507189"
+  },
+  {
+    "city": "Pozos",
+    "city_ascii": "Pozos",
+    "admin_name": "San José",
+    "lat": "9.9536",
+    "lng": "-84.1926",
+    "id": "1188000058"
+  },
+  {
+    "city": "Fortuna",
+    "city_ascii": "Fortuna",
+    "admin_name": "Alajuela",
+    "lat": "10.4483",
+    "lng": "-84.6421",
+    "id": "1188145328"
+  },
+  {
+    "city": "San Rafael Arriba",
+    "city_ascii": "San Rafael Arriba",
+    "admin_name": "San José",
+    "lat": "9.8778",
+    "lng": "-84.0708",
+    "id": "1188271296"
+  },
+  {
+    "city": "Florencia",
+    "city_ascii": "Florencia",
+    "admin_name": "Alajuela",
+    "lat": "10.3665",
+    "lng": "-84.4814",
+    "id": "1188578028"
+  },
+  {
+    "city": "Sardinal",
+    "city_ascii": "Sardinal",
+    "admin_name": "Guanacaste",
+    "lat": "10.5343",
+    "lng": "-85.6955",
+    "id": "1188475127"
+  },
+  {
+    "city": "Grecia",
+    "city_ascii": "Grecia",
+    "admin_name": "Alajuela",
+    "lat": "10.0693",
+    "lng": "-84.3136",
+    "id": "1188985866"
+  },
+  {
+    "city": "San Vito",
+    "city_ascii": "San Vito",
+    "admin_name": "Puntarenas",
+    "lat": "8.8400",
+    "lng": "-82.9784",
+    "id": "1188392681"
+  },
+  {
+    "city": "Copalchí",
+    "city_ascii": "Copalchi",
+    "admin_name": "Cartago",
+    "lat": "9.8473",
+    "lng": "-84.0834",
+    "id": "1188649164"
+  },
+  {
+    "city": "Los Chiles",
+    "city_ascii": "Los Chiles",
+    "admin_name": "Alajuela",
+    "lat": "10.9639",
+    "lng": "-84.5990",
+    "id": "1188974834"
+  },
+  {
+    "city": "Santa Ana",
+    "city_ascii": "Santa Ana",
+    "admin_name": "San José",
+    "lat": "9.9320",
+    "lng": "-84.1760",
+    "id": "1188252548"
+  },
+  {
+    "city": "Matinilla",
+    "city_ascii": "Matinilla",
+    "admin_name": "San José",
+    "lat": "9.9246",
+    "lng": "-84.0713",
+    "id": "1188724391"
+  },
+  {
+    "city": "Puerto Jiménez",
+    "city_ascii": "Puerto Jimenez",
+    "admin_name": "Puntarenas",
+    "lat": "8.5338",
+    "lng": "-83.4610",
+    "id": "1188020392"
+  },
+  {
+    "city": "Santiago",
+    "city_ascii": "Santiago",
+    "admin_name": "San José",
+    "lat": "9.8291",
+    "lng": "-84.3044",
+    "id": "1188768291"
+  },
+  {
+    "city": "Alajuelita",
+    "city_ascii": "Alajuelita",
+    "admin_name": "San José",
+    "lat": "9.9035",
+    "lng": "-84.0996",
+    "id": "1188793732"
+  },
+  {
+    "city": "Escazú",
+    "city_ascii": "Escazu",
+    "admin_name": "San José",
+    "lat": "9.9160",
+    "lng": "-84.1459",
+    "id": "1188889337"
+  },
+  {
+    "city": "Patarrá",
+    "city_ascii": "Patarra",
+    "admin_name": "San José",
+    "lat": "9.8637",
+    "lng": "-84.0248",
+    "id": "1188875771"
+  },
+  {
+    "city": "Jacó",
+    "city_ascii": "Jaco",
+    "admin_name": "Puntarenas",
+    "lat": "9.6200",
+    "lng": "-84.6044",
+    "id": "1188795142"
+  },
+  {
+    "city": "San Josecito",
+    "city_ascii": "San Josecito",
+    "admin_name": "Heredia",
+    "lat": "10.0126",
+    "lng": "-84.1119",
+    "id": "1188695402"
+  },
+  {
+    "city": "Golfito",
+    "city_ascii": "Golfito",
+    "admin_name": "Puntarenas",
+    "lat": "8.6526",
+    "lng": "-83.1733",
+    "id": "1188695145"
+  },
+  {
+    "city": "Nandayure",
+    "city_ascii": "Nandayure",
+    "admin_name": "Guanacaste",
+    "lat": "9.9014",
+    "lng": "-85.3036",
+    "id": "1188253070"
+  },
+  {
+    "city": "Río Cuarto",
+    "city_ascii": "Rio Cuarto",
+    "admin_name": "Alajuela",
+    "lat": "10.4076",
+    "lng": "-84.2135",
+    "id": "1188906648"
+  },
+  {
+    "city": "Sabalito",
+    "city_ascii": "Sabalito",
+    "admin_name": "Puntarenas",
+    "lat": "8.8828",
+    "lng": "-82.8314",
+    "id": "1188952077"
+  },
+  {
+    "city": "Río Segundo",
+    "city_ascii": "Rio Segundo",
+    "admin_name": "Alajuela",
+    "lat": "10.0013",
+    "lng": "-84.1937",
+    "id": "1188990744"
+  },
+  {
+    "city": "Puente de Piedra",
+    "city_ascii": "Puente de Piedra",
+    "admin_name": "Alajuela",
+    "lat": "10.0298",
+    "lng": "-84.3332",
+    "id": "1188813185"
+  },
+  {
+    "city": "La Virgen",
+    "city_ascii": "La Virgen",
+    "admin_name": "Heredia",
+    "lat": "10.4312",
+    "lng": "-84.0772",
+    "id": "1188953313"
+  },
+  {
+    "city": "San Josecito",
+    "city_ascii": "San Josecito",
+    "admin_name": "San José",
+    "lat": "9.8885",
+    "lng": "-84.1055",
+    "id": "1188452639"
+  },
+  {
+    "city": "Jiménez",
+    "city_ascii": "Jimenez",
+    "admin_name": "Limón",
+    "lat": "10.1797",
+    "lng": "-83.7382",
+    "id": "1188944993"
+  },
+  {
+    "city": "San Marcos",
+    "city_ascii": "San Marcos",
+    "admin_name": "San José",
+    "lat": "9.6703",
+    "lng": "-84.0092",
+    "id": "1188432245"
+  },
+  {
+    "city": "San Antonio",
+    "city_ascii": "San Antonio",
+    "admin_name": "Alajuela",
+    "lat": "9.9781",
+    "lng": "-84.1879",
+    "id": "1188109339"
+  },
+  {
+    "city": "Dulce Nombre de Jesús",
+    "city_ascii": "Dulce Nombre de Jesus",
+    "admin_name": "San José",
+    "lat": "10.0838",
+    "lng": "-83.9810",
+    "id": "1188000426"
+  },
+  {
+    "city": "Orotina",
+    "city_ascii": "Orotina",
+    "admin_name": "Alajuela",
+    "lat": "9.9024",
+    "lng": "-84.5250",
+    "id": "1188644309"
+  },
+  {
+    "city": "Venecia",
+    "city_ascii": "Venecia",
+    "admin_name": "Alajuela",
+    "lat": "10.3357",
+    "lng": "-84.2859",
+    "id": "1188167757"
+  },
+  {
+    "city": "Canoas",
+    "city_ascii": "Canoas",
+    "admin_name": "Puntarenas",
+    "lat": "8.5333",
+    "lng": "-82.8333",
+    "id": "1188828441"
+  },
+  {
+    "city": "Tres Ríos",
+    "city_ascii": "Tres Rios",
+    "admin_name": "Cartago",
+    "lat": "9.9072",
+    "lng": "-83.9865",
+    "id": "1188655041"
+  },
+  {
+    "city": "Carrillos",
+    "city_ascii": "Carrillos",
+    "admin_name": "Alajuela",
+    "lat": "10.0369",
+    "lng": "-84.2740",
+    "id": "1188308366"
+  },
+  {
+    "city": "La Cruz",
+    "city_ascii": "La Cruz",
+    "admin_name": "Guanacaste",
+    "lat": "11.0845",
+    "lng": "-85.6436",
+    "id": "1188840021"
+  },
+  {
+    "city": "San Ignacio",
+    "city_ascii": "San Ignacio",
+    "admin_name": "San José",
+    "lat": "9.7997",
+    "lng": "-84.1630",
+    "id": "1188539770"
+  },
+  {
+    "city": "Pacuarito",
+    "city_ascii": "Pacuarito",
+    "admin_name": "Limón",
+    "lat": "10.1093",
+    "lng": "-83.4091",
+    "id": "1188497482"
+  },
+  {
+    "city": "Río Jiménez",
+    "city_ascii": "Rio Jimenez",
+    "admin_name": "Limón",
+    "lat": "10.2556",
+    "lng": "-83.5629",
+    "id": "1188994272"
+  },
+  {
+    "city": "Tilarán",
+    "city_ascii": "Tilaran",
+    "admin_name": "Guanacaste",
+    "lat": "10.4709",
+    "lng": "-84.9674",
+    "id": "1188878981"
+  },
+  {
+    "city": "Ciudad Cortés",
+    "city_ascii": "Ciudad Cortes",
+    "admin_name": "Puntarenas",
+    "lat": "9.0221",
+    "lng": "-83.5751",
+    "id": "1188296792"
+  },
+  {
+    "city": "Heredia",
+    "city_ascii": "Heredia",
+    "admin_name": "Heredia",
+    "lat": "9.9985",
+    "lng": "-84.1169",
+    "id": "1188210837"
+  },
+  {
+    "city": "Sixaola",
+    "city_ascii": "Sixaola",
+    "admin_name": "Limón",
+    "lat": "9.5579",
+    "lng": "-82.6698",
+    "id": "1188537249"
+  },
+  {
+    "city": "Puerto Limón",
+    "city_ascii": "Puerto Limon",
+    "admin_name": "Limón",
+    "lat": "10.0022",
+    "lng": "-83.0840",
+    "id": "1188214393"
+  }
+]

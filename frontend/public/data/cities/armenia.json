@@ -1,0 +1,282 @@
+[
+  {
+    "city": "Yerevan",
+    "city_ascii": "Yerevan",
+    "admin_name": "Yerevan",
+    "lat": "40.1814",
+    "lng": "44.5144",
+    "id": "1051074169"
+  },
+  {
+    "city": "Gyumri",
+    "city_ascii": "Gyumri",
+    "admin_name": "Shirak",
+    "lat": "40.7894",
+    "lng": "43.8475",
+    "id": "1051341374"
+  },
+  {
+    "city": "Vanadzor",
+    "city_ascii": "Vanadzor",
+    "admin_name": "Lorri",
+    "lat": "40.8128",
+    "lng": "44.4883",
+    "id": "1051691929"
+  },
+  {
+    "city": "Ejmiatsin",
+    "city_ascii": "Ejmiatsin",
+    "admin_name": "Armavir",
+    "lat": "40.1728",
+    "lng": "44.2925",
+    "id": "1051214432"
+  },
+  {
+    "city": "Hrazdan",
+    "city_ascii": "Hrazdan",
+    "admin_name": "Kotayk’",
+    "lat": "40.5000",
+    "lng": "44.7667",
+    "id": "1051566733"
+  },
+  {
+    "city": "Abovyan",
+    "city_ascii": "Abovyan",
+    "admin_name": "Kotayk’",
+    "lat": "40.2739",
+    "lng": "44.6256",
+    "id": "1051509043"
+  },
+  {
+    "city": "Kapan",
+    "city_ascii": "Kapan",
+    "admin_name": "Syunik’",
+    "lat": "39.2011",
+    "lng": "46.4150",
+    "id": "1051527958"
+  },
+  {
+    "city": "Armavir",
+    "city_ascii": "Armavir",
+    "admin_name": "Armavir",
+    "lat": "40.1500",
+    "lng": "44.0400",
+    "id": "1051878002"
+  },
+  {
+    "city": "Charentsavan",
+    "city_ascii": "Charentsavan",
+    "admin_name": "Kotayk’",
+    "lat": "40.4097",
+    "lng": "44.6431",
+    "id": "1051304472"
+  },
+  {
+    "city": "Stepanavan",
+    "city_ascii": "Stepanavan",
+    "admin_name": "Lorri",
+    "lat": "41.0096",
+    "lng": "44.3841",
+    "id": "1051221961"
+  },
+  {
+    "city": "Sevan",
+    "city_ascii": "Sevan",
+    "admin_name": "Geghark’unik’",
+    "lat": "40.5550",
+    "lng": "44.9536",
+    "id": "1051586680"
+  },
+  {
+    "city": "Ashtarak",
+    "city_ascii": "Ashtarak",
+    "admin_name": "Aragatsotn",
+    "lat": "40.2975",
+    "lng": "44.3617",
+    "id": "1051714712"
+  },
+  {
+    "city": "Masis",
+    "city_ascii": "Masis",
+    "admin_name": "Ararat",
+    "lat": "40.0633",
+    "lng": "44.4408",
+    "id": "1051588635"
+  },
+  {
+    "city": "Artashat",
+    "city_ascii": "Artashat",
+    "admin_name": "Ararat",
+    "lat": "39.9539",
+    "lng": "44.5506",
+    "id": "1051969157"
+  },
+  {
+    "city": "Gavarr",
+    "city_ascii": "Gavarr",
+    "admin_name": "Geghark’unik’",
+    "lat": "40.3667",
+    "lng": "45.1333",
+    "id": "1051983153"
+  },
+  {
+    "city": "Goris",
+    "city_ascii": "Goris",
+    "admin_name": "Syunik’",
+    "lat": "39.5111",
+    "lng": "46.3417",
+    "id": "1051724931"
+  },
+  {
+    "city": "Artik",
+    "city_ascii": "Artik",
+    "admin_name": "Shirak",
+    "lat": "40.6167",
+    "lng": "43.9500",
+    "id": "1051264283"
+  },
+  {
+    "city": "Artik",
+    "city_ascii": "Artik",
+    "admin_name": "Shirak",
+    "lat": "40.6172",
+    "lng": "43.9758",
+    "id": "1051915203"
+  },
+  {
+    "city": "Ijevan",
+    "city_ascii": "Ijevan",
+    "admin_name": "Tavush",
+    "lat": "40.8756",
+    "lng": "45.1492",
+    "id": "1051007129"
+  },
+  {
+    "city": "Dilijan",
+    "city_ascii": "Dilijan",
+    "admin_name": "Tavush",
+    "lat": "40.7408",
+    "lng": "44.8631",
+    "id": "1051278149"
+  },
+  {
+    "city": "Spitak",
+    "city_ascii": "Spitak",
+    "admin_name": "Lorri",
+    "lat": "40.8372",
+    "lng": "44.2675",
+    "id": "1051088654"
+  },
+  {
+    "city": "Sisian",
+    "city_ascii": "Sisian",
+    "admin_name": "Syunik’",
+    "lat": "39.5208",
+    "lng": "46.0322",
+    "id": "1051297901"
+  },
+  {
+    "city": "Vedi",
+    "city_ascii": "Vedi",
+    "admin_name": "Ararat",
+    "lat": "39.9100",
+    "lng": "44.7300",
+    "id": "1051497874"
+  },
+  {
+    "city": "Alaverdi",
+    "city_ascii": "Alaverdi",
+    "admin_name": "Lorri",
+    "lat": "41.1333",
+    "lng": "44.6500",
+    "id": "1051787137"
+  },
+  {
+    "city": "Vardenis",
+    "city_ascii": "Vardenis",
+    "admin_name": "Geghark’unik’",
+    "lat": "40.1800",
+    "lng": "45.7200",
+    "id": "1051776950"
+  },
+  {
+    "city": "Martuni",
+    "city_ascii": "Martuni",
+    "admin_name": "Geghark’unik’",
+    "lat": "40.1400",
+    "lng": "45.3064",
+    "id": "1051260753"
+  },
+  {
+    "city": "Yeghvard",
+    "city_ascii": "Yeghvard",
+    "admin_name": "Kotayk’",
+    "lat": "40.3217",
+    "lng": "44.4814",
+    "id": "1051779287"
+  },
+  {
+    "city": "Vardenik",
+    "city_ascii": "Vardenik",
+    "admin_name": "Geghark’unik’",
+    "lat": "40.1350",
+    "lng": "45.4364",
+    "id": "1051146271"
+  },
+  {
+    "city": "Metsamor",
+    "city_ascii": "Metsamor",
+    "admin_name": "Armavir",
+    "lat": "40.1428",
+    "lng": "44.1164",
+    "id": "1051651063"
+  },
+  {
+    "city": "Berd",
+    "city_ascii": "Berd",
+    "admin_name": "Tavush",
+    "lat": "40.8808",
+    "lng": "45.3917",
+    "id": "1051965968"
+  },
+  {
+    "city": "Byureghavan",
+    "city_ascii": "Byureghavan",
+    "admin_name": "Kotayk’",
+    "lat": "40.3147",
+    "lng": "44.5936",
+    "id": "1051696950"
+  },
+  {
+    "city": "Nor Hachn",
+    "city_ascii": "Nor Hachn",
+    "admin_name": "Kotayk’",
+    "lat": "40.3019",
+    "lng": "44.5831",
+    "id": "1051802790"
+  },
+  {
+    "city": "Tashir",
+    "city_ascii": "Tashir",
+    "admin_name": "Lorri",
+    "lat": "41.1244",
+    "lng": "44.2819",
+    "id": "1051680734"
+  },
+  {
+    "city": "Nerk’in Getashen",
+    "city_ascii": "Nerk'in Getashen",
+    "admin_name": "Geghark’unik’",
+    "lat": "40.1458",
+    "lng": "45.2639",
+    "id": "1051445812"
+  },
+  {
+    "city": "Yeghegnadzor",
+    "city_ascii": "Yeghegnadzor",
+    "admin_name": "Vayots’ Dzor",
+    "lat": "39.7667",
+    "lng": "45.3500",
+    "id": "1051234787"
+  }
+]

@@ -1,0 +1,2306 @@
+[
+  {
+    "city": "Lisbon",
+    "city_ascii": "Lisbon",
+    "admin_name": "Lisboa",
+    "lat": "38.7122",
+    "lng": "-9.1340",
+    "id": "1620619017"
+  },
+  {
+    "city": "Aves",
+    "city_ascii": "Aves",
+    "admin_name": "Porto",
+    "lat": "41.3703",
+    "lng": "-8.4101",
+    "id": "1620507201"
+  },
+  {
+    "city": "Sintra",
+    "city_ascii": "Sintra",
+    "admin_name": "Lisboa",
+    "lat": "38.7974",
+    "lng": "-9.3904",
+    "id": "1620848791"
+  },
+  {
+    "city": "Vila Nova de Gaia",
+    "city_ascii": "Vila Nova de Gaia",
+    "admin_name": "Porto",
+    "lat": "41.1333",
+    "lng": "-8.6167",
+    "id": "1620040225"
+  },
+  {
+    "city": "Porto",
+    "city_ascii": "Porto",
+    "admin_name": "Porto",
+    "lat": "41.1495",
+    "lng": "-8.6108",
+    "id": "1620356810"
+  },
+  {
+    "city": "Cascais",
+    "city_ascii": "Cascais",
+    "admin_name": "Lisboa",
+    "lat": "38.6972",
+    "lng": "-9.4217",
+    "id": "1620824685"
+  },
+  {
+    "city": "Loures",
+    "city_ascii": "Loures",
+    "admin_name": "Lisboa",
+    "lat": "38.8309",
+    "lng": "-9.1684",
+    "id": "1620042113"
+  },
+  {
+    "city": "Seixal",
+    "city_ascii": "Seixal",
+    "admin_name": "Setúbal",
+    "lat": "38.6428",
+    "lng": "-9.1061",
+    "id": "1620870397"
+  },
+  {
+    "city": "Braga",
+    "city_ascii": "Braga",
+    "admin_name": "Braga",
+    "lat": "41.5503",
+    "lng": "-8.4200",
+    "id": "1620949401"
+  },
+  {
+    "city": "Almada",
+    "city_ascii": "Almada",
+    "admin_name": "Setúbal",
+    "lat": "38.6803",
+    "lng": "-9.1583",
+    "id": "1620388276"
+  },
+  {
+    "city": "Matosinhos",
+    "city_ascii": "Matosinhos",
+    "admin_name": "Porto",
+    "lat": "41.1867",
+    "lng": "-8.6844",
+    "id": "1620049442"
+  },
+  {
+    "city": "Oeiras",
+    "city_ascii": "Oeiras",
+    "admin_name": "Lisboa",
+    "lat": "38.6970",
+    "lng": "-9.3017",
+    "id": "1620375757"
+  },
+  {
+    "city": "Amadora",
+    "city_ascii": "Amadora",
+    "admin_name": "Lisboa",
+    "lat": "38.7500",
+    "lng": "-9.2333",
+    "id": "1620896557"
+  },
+  {
+    "city": "Gondomar",
+    "city_ascii": "Gondomar",
+    "admin_name": "Porto",
+    "lat": "41.1500",
+    "lng": "-8.5333",
+    "id": "1620506259"
+  },
+  {
+    "city": "Guimarães",
+    "city_ascii": "Guimaraes",
+    "admin_name": "Braga",
+    "lat": "41.4450",
+    "lng": "-8.2908",
+    "id": "1620771539"
+  },
+  {
+    "city": "Odivelas",
+    "city_ascii": "Odivelas",
+    "admin_name": "Lisboa",
+    "lat": "38.8000",
+    "lng": "-9.1833",
+    "id": "1620010482"
+  },
+  {
+    "city": "Coimbra",
+    "city_ascii": "Coimbra",
+    "admin_name": "Coimbra",
+    "lat": "40.2111",
+    "lng": "-8.4289",
+    "id": "1620166724"
+  },
+  {
+    "city": "Vila Franca de Xira",
+    "city_ascii": "Vila Franca de Xira",
+    "admin_name": "Lisboa",
+    "lat": "38.9500",
+    "lng": "-8.9833",
+    "id": "1620859041"
+  },
+  {
+    "city": "Maia",
+    "city_ascii": "Maia",
+    "admin_name": "Porto",
+    "lat": "41.2333",
+    "lng": "-8.6167",
+    "id": "1620000072"
+  },
+  {
+    "city": "Famalicão",
+    "city_ascii": "Famalicao",
+    "admin_name": "Braga",
+    "lat": "41.4144",
+    "lng": "-8.5222",
+    "id": "1620202480"
+  },
+  {
+    "city": "Leiria",
+    "city_ascii": "Leiria",
+    "admin_name": "Leiria",
+    "lat": "39.7431",
+    "lng": "-8.8069",
+    "id": "1620304777"
+  },
+  {
+    "city": "Barcelos",
+    "city_ascii": "Barcelos",
+    "admin_name": "Braga",
+    "lat": "41.5333",
+    "lng": "-8.6167",
+    "id": "1620850431"
+  },
+  {
+    "city": "Funchal",
+    "city_ascii": "Funchal",
+    "admin_name": "Madeira",
+    "lat": "32.6500",
+    "lng": "-16.9167",
+    "id": "1620995356"
+  },
+  {
+    "city": "Viseu",
+    "city_ascii": "Viseu",
+    "admin_name": "Viseu",
+    "lat": "40.6575",
+    "lng": "-7.9139",
+    "id": "1620291266"
+  },
+  {
+    "city": "Valongo",
+    "city_ascii": "Valongo",
+    "admin_name": "Porto",
+    "lat": "41.1833",
+    "lng": "-8.5000",
+    "id": "1620725806"
+  },
+  {
+    "city": "Viana do Castelo",
+    "city_ascii": "Viana do Castelo",
+    "admin_name": "Viana do Castelo",
+    "lat": "41.7000",
+    "lng": "-8.8333",
+    "id": "1620680440"
+  },
+  {
+    "city": "Paredes",
+    "city_ascii": "Paredes",
+    "admin_name": "Porto",
+    "lat": "41.2000",
+    "lng": "-8.3333",
+    "id": "1620650523"
+  },
+  {
+    "city": "Vila do Conde",
+    "city_ascii": "Vila do Conde",
+    "admin_name": "Porto",
+    "lat": "41.3500",
+    "lng": "-8.7500",
+    "id": "1620584469"
+  },
+  {
+    "city": "Torres Vedras",
+    "city_ascii": "Torres Vedras",
+    "admin_name": "Lisboa",
+    "lat": "39.0833",
+    "lng": "-9.2667",
+    "id": "1620003589"
+  },
+  {
+    "city": "Aveiro",
+    "city_ascii": "Aveiro",
+    "admin_name": "Aveiro",
+    "lat": "40.6389",
+    "lng": "-8.6553",
+    "id": "1620555869"
+  },
+  {
+    "city": "Barreiro",
+    "city_ascii": "Barreiro",
+    "admin_name": "Setúbal",
+    "lat": "38.6631",
+    "lng": "-9.0725",
+    "id": "1620760195"
+  },
+  {
+    "city": "Queluz",
+    "city_ascii": "Queluz",
+    "admin_name": "Lisboa",
+    "lat": "38.7566",
+    "lng": "-9.2545",
+    "id": "1620896457"
+  },
+  {
+    "city": "Mafra",
+    "city_ascii": "Mafra",
+    "admin_name": "Lisboa",
+    "lat": "38.9333",
+    "lng": "-9.3333",
+    "id": "1620095714"
+  },
+  {
+    "city": "Penafiel",
+    "city_ascii": "Penafiel",
+    "admin_name": "Porto",
+    "lat": "41.2000",
+    "lng": "-8.2833",
+    "id": "1620996272"
+  },
+  {
+    "city": "Santo Tirso",
+    "city_ascii": "Santo Tirso",
+    "admin_name": "Porto",
+    "lat": "41.3425",
+    "lng": "-8.4775",
+    "id": "1620557735"
+  },
+  {
+    "city": "Loulé",
+    "city_ascii": "Loule",
+    "admin_name": "Faro",
+    "lat": "37.1440",
+    "lng": "-8.0235",
+    "id": "1620028270"
+  },
+  {
+    "city": "Ponta Delgada",
+    "city_ascii": "Ponta Delgada",
+    "admin_name": "Azores",
+    "lat": "37.7400",
+    "lng": "-25.6700",
+    "id": "1620456537"
+  },
+  {
+    "city": "Moita",
+    "city_ascii": "Moita",
+    "admin_name": "Setúbal",
+    "lat": "38.6500",
+    "lng": "-8.9833",
+    "id": "1620000010"
+  },
+  {
+    "city": "Faro",
+    "city_ascii": "Faro",
+    "admin_name": "Faro",
+    "lat": "37.0161",
+    "lng": "-7.9350",
+    "id": "1620330407"
+  },
+  {
+    "city": "Póvoa de Varzim",
+    "city_ascii": "Povoa de Varzim",
+    "admin_name": "Porto",
+    "lat": "41.3828",
+    "lng": "-8.7628",
+    "id": "1620617429"
+  },
+  {
+    "city": "Palmela",
+    "city_ascii": "Palmela",
+    "admin_name": "Setúbal",
+    "lat": "38.5675",
+    "lng": "-8.8991",
+    "id": "1620934052"
+  },
+  {
+    "city": "Santarém",
+    "city_ascii": "Santarem",
+    "admin_name": "Santarém",
+    "lat": "39.2333",
+    "lng": "-8.6833",
+    "id": "1620315932"
+  },
+  {
+    "city": "Figueira da Foz",
+    "city_ascii": "Figueira da Foz",
+    "admin_name": "Coimbra",
+    "lat": "40.1508",
+    "lng": "-8.8618",
+    "id": "1620826473"
+  },
+  {
+    "city": "Portimão",
+    "city_ascii": "Portimao",
+    "admin_name": "Faro",
+    "lat": "37.1333",
+    "lng": "-8.5333",
+    "id": "1620859274"
+  },
+  {
+    "city": "Felgueiras",
+    "city_ascii": "Felgueiras",
+    "admin_name": "Porto",
+    "lat": "41.3667",
+    "lng": "-8.2000",
+    "id": "1620928002"
+  },
+  {
+    "city": "Paços de Ferreira",
+    "city_ascii": "Pacos de Ferreira",
+    "admin_name": "Porto",
+    "lat": "41.2833",
+    "lng": "-8.3833",
+    "id": "1620222597"
+  },
+  {
+    "city": "Amarante",
+    "city_ascii": "Amarante",
+    "admin_name": "Porto",
+    "lat": "41.2728",
+    "lng": "-8.0825",
+    "id": "1620688725"
+  },
+  {
+    "city": "Castelo Branco",
+    "city_ascii": "Castelo Branco",
+    "admin_name": "Castelo Branco",
+    "lat": "39.8228",
+    "lng": "-7.4931",
+    "id": "1620277400"
+  },
+  {
+    "city": "Ovar",
+    "city_ascii": "Ovar",
+    "admin_name": "Aveiro",
+    "lat": "40.8597",
+    "lng": "-8.6253",
+    "id": "1620832613"
+  },
+  {
+    "city": "Pombal",
+    "city_ascii": "Pombal",
+    "admin_name": "Leiria",
+    "lat": "39.9161",
+    "lng": "-8.6281",
+    "id": "1620430100"
+  },
+  {
+    "city": "Alcobaça",
+    "city_ascii": "Alcobaca",
+    "admin_name": "Leiria",
+    "lat": "39.5522",
+    "lng": "-8.9775",
+    "id": "1620702700"
+  },
+  {
+    "city": "Évora",
+    "city_ascii": "Evora",
+    "admin_name": "Évora",
+    "lat": "38.5667",
+    "lng": "-7.9000",
+    "id": "1620456226"
+  },
+  {
+    "city": "Marco de Canavezes",
+    "city_ascii": "Marco de Canavezes",
+    "admin_name": "Porto",
+    "lat": "41.1833",
+    "lng": "-8.1500",
+    "id": "1620534118"
+  },
+  {
+    "city": "Vila Real",
+    "city_ascii": "Vila Real",
+    "admin_name": "Vila Real",
+    "lat": "41.2953",
+    "lng": "-7.7461",
+    "id": "1620292123"
+  },
+  {
+    "city": "Covilhã",
+    "city_ascii": "Covilha",
+    "admin_name": "Castelo Branco",
+    "lat": "40.2833",
+    "lng": "-7.5000",
+    "id": "1620284248"
+  },
+  {
+    "city": "Caldas da Rainha",
+    "city_ascii": "Caldas da Rainha",
+    "admin_name": "Leiria",
+    "lat": "39.4069",
+    "lng": "-9.1363",
+    "id": "1620164622"
+  },
+  {
+    "city": "Montijo",
+    "city_ascii": "Montijo",
+    "admin_name": "Setúbal",
+    "lat": "38.7049",
+    "lng": "-8.9757",
+    "id": "1620226078"
+  },
+  {
+    "city": "Rio Tinto",
+    "city_ascii": "Rio Tinto",
+    "admin_name": "Porto",
+    "lat": "41.1833",
+    "lng": "-8.5667",
+    "id": "1620258719"
+  },
+  {
+    "city": "Fafe",
+    "city_ascii": "Fafe",
+    "admin_name": "Braga",
+    "lat": "41.4500",
+    "lng": "-8.1667",
+    "id": "1620607091"
+  },
+  {
+    "city": "Sesimbra",
+    "city_ascii": "Sesimbra",
+    "admin_name": "Setúbal",
+    "lat": "38.4437",
+    "lng": "-9.0996",
+    "id": "1620008532"
+  },
+  {
+    "city": "Amora",
+    "city_ascii": "Amora",
+    "admin_name": "Setúbal",
+    "lat": "38.6265",
+    "lng": "-9.1189",
+    "id": "1620947611"
+  },
+  {
+    "city": "Vila Verde",
+    "city_ascii": "Vila Verde",
+    "admin_name": "Braga",
+    "lat": "41.6484",
+    "lng": "-8.4367",
+    "id": "1620759791"
+  },
+  {
+    "city": "Águeda",
+    "city_ascii": "Agueda",
+    "admin_name": "Aveiro",
+    "lat": "40.5745",
+    "lng": "-8.4480",
+    "id": "1620290042"
+  },
+  {
+    "city": "Vale de Cavalos",
+    "city_ascii": "Vale de Cavalos",
+    "admin_name": "Setúbal",
+    "lat": "38.6500",
+    "lng": "-9.1500",
+    "id": "1620690052"
+  },
+  {
+    "city": "Lousada",
+    "city_ascii": "Lousada",
+    "admin_name": "Porto",
+    "lat": "41.2833",
+    "lng": "-8.2833",
+    "id": "1620988419"
+  },
+  {
+    "city": "Rio de Mouro",
+    "city_ascii": "Rio de Mouro",
+    "admin_name": "Lisboa",
+    "lat": "38.7689",
+    "lng": "-9.3327",
+    "id": "1620970003"
+  },
+  {
+    "city": "Corroios",
+    "city_ascii": "Corroios",
+    "admin_name": "Setúbal",
+    "lat": "38.6147",
+    "lng": "-9.1508",
+    "id": "1620361953"
+  },
+  {
+    "city": "Ourém",
+    "city_ascii": "Ourem",
+    "admin_name": "Santarém",
+    "lat": "39.6500",
+    "lng": "-8.5833",
+    "id": "1620510353"
+  },
+  {
+    "city": "Olhão",
+    "city_ascii": "Olhao",
+    "admin_name": "Faro",
+    "lat": "37.0278",
+    "lng": "-7.8389",
+    "id": "1620090779"
+  },
+  {
+    "city": "Albufeira",
+    "city_ascii": "Albufeira",
+    "admin_name": "Faro",
+    "lat": "37.0889",
+    "lng": "-8.2511",
+    "id": "1620078404"
+  },
+  {
+    "city": "Ponte de Lima",
+    "city_ascii": "Ponte de Lima",
+    "admin_name": "Viana do Castelo",
+    "lat": "41.7667",
+    "lng": "-8.5833",
+    "id": "1620557012"
+  },
+  {
+    "city": "Alenquer",
+    "city_ascii": "Alenquer",
+    "admin_name": "Lisboa",
+    "lat": "39.0531",
+    "lng": "-9.0092",
+    "id": "1620149244"
+  },
+  {
+    "city": "Santa Cruz",
+    "city_ascii": "Santa Cruz",
+    "admin_name": "Madeira",
+    "lat": "32.6750",
+    "lng": "-16.8309",
+    "id": "1620409939"
+  },
+  {
+    "city": "Guarda",
+    "city_ascii": "Guarda",
+    "admin_name": "Guarda",
+    "lat": "40.5364",
+    "lng": "-7.2683",
+    "id": "1620174984"
+  },
+  {
+    "city": "Chaves",
+    "city_ascii": "Chaves",
+    "admin_name": "Vila Real",
+    "lat": "41.7399",
+    "lng": "-7.4707",
+    "id": "1620516049"
+  },
+  {
+    "city": "Tomar",
+    "city_ascii": "Tomar",
+    "admin_name": "Santarém",
+    "lat": "39.6000",
+    "lng": "-8.4167",
+    "id": "1620168091"
+  },
+  {
+    "city": "Abrantes",
+    "city_ascii": "Abrantes",
+    "admin_name": "Santarém",
+    "lat": "39.4667",
+    "lng": "-8.2000",
+    "id": "1620417746"
+  },
+  {
+    "city": "Marinha Grande",
+    "city_ascii": "Marinha Grande",
+    "admin_name": "Leiria",
+    "lat": "39.7478",
+    "lng": "-8.9322",
+    "id": "1620186271"
+  },
+  {
+    "city": "Trofa",
+    "city_ascii": "Trofa",
+    "admin_name": "Porto",
+    "lat": "41.3374",
+    "lng": "-8.5596",
+    "id": "1620889916"
+  },
+  {
+    "city": "Mafamude",
+    "city_ascii": "Mafamude",
+    "admin_name": "Porto",
+    "lat": "41.1152",
+    "lng": "-8.6036",
+    "id": "1620550022"
+  },
+  {
+    "city": "Ermezinde",
+    "city_ascii": "Ermezinde",
+    "admin_name": "Porto",
+    "lat": "41.2133",
+    "lng": "-8.5472",
+    "id": "1620357803"
+  },
+  {
+    "city": "Silves",
+    "city_ascii": "Silves",
+    "admin_name": "Faro",
+    "lat": "37.1833",
+    "lng": "-8.4333",
+    "id": "1620801770"
+  },
+  {
+    "city": "Torres Novas",
+    "city_ascii": "Torres Novas",
+    "admin_name": "Santarém",
+    "lat": "39.4833",
+    "lng": "-8.5333",
+    "id": "1620693421"
+  },
+  {
+    "city": "Cantanhede",
+    "city_ascii": "Cantanhede",
+    "admin_name": "Coimbra",
+    "lat": "40.3464",
+    "lng": "-8.5942",
+    "id": "1620294454"
+  },
+  {
+    "city": "Beja",
+    "city_ascii": "Beja",
+    "admin_name": "Beja",
+    "lat": "38.0150",
+    "lng": "-7.8633",
+    "id": "1620050458"
+  },
+  {
+    "city": "Agualva",
+    "city_ascii": "Agualva",
+    "admin_name": "Lisboa",
+    "lat": "38.7700",
+    "lng": "-9.2988",
+    "id": "1620936507"
+  },
+  {
+    "city": "Câmara de Lobos",
+    "city_ascii": "Camara de Lobos",
+    "admin_name": "Madeira",
+    "lat": "32.6500",
+    "lng": "-16.9667",
+    "id": "1620560549"
+  },
+  {
+    "city": "Angra do Heroísmo",
+    "city_ascii": "Angra do Heroismo",
+    "admin_name": "Azores",
+    "lat": "38.6558",
+    "lng": "-27.2153",
+    "id": "1620152939"
+  },
+  {
+    "city": "Bragança",
+    "city_ascii": "Braganca",
+    "admin_name": "Bragança",
+    "lat": "41.8000",
+    "lng": "-6.7500",
+    "id": "1620281131"
+  },
+  {
+    "city": "Esposende",
+    "city_ascii": "Esposende",
+    "admin_name": "Braga",
+    "lat": "41.5333",
+    "lng": "-8.7833",
+    "id": "1620944667"
+  },
+  {
+    "city": "Ribeira Grande",
+    "city_ascii": "Ribeira Grande",
+    "admin_name": "Azores",
+    "lat": "37.8167",
+    "lng": "-25.5167",
+    "id": "1620024564"
+  },
+  {
+    "city": "Ílhavo",
+    "city_ascii": "Ilhavo",
+    "admin_name": "Aveiro",
+    "lat": "40.6000",
+    "lng": "-8.6667",
+    "id": "1620545975"
+  },
+  {
+    "city": "Lagos",
+    "city_ascii": "Lagos",
+    "admin_name": "Faro",
+    "lat": "37.1000",
+    "lng": "-8.6667",
+    "id": "1620635530"
+  },
+  {
+    "city": "Espinho",
+    "city_ascii": "Espinho",
+    "admin_name": "Aveiro",
+    "lat": "41.0100",
+    "lng": "-8.6400",
+    "id": "1620002917"
+  },
+  {
+    "city": "Charneca",
+    "city_ascii": "Charneca",
+    "admin_name": "Setúbal",
+    "lat": "38.6167",
+    "lng": "-9.1833",
+    "id": "1620395868"
+  },
+  {
+    "city": "Santiago do Cacém",
+    "city_ascii": "Santiago do Cacem",
+    "admin_name": "Setúbal",
+    "lat": "38.0167",
+    "lng": "-8.7000",
+    "id": "1620952831"
+  },
+  {
+    "city": "Perafita",
+    "city_ascii": "Perafita",
+    "admin_name": "Porto",
+    "lat": "41.2239",
+    "lng": "-8.6989",
+    "id": "1620627406"
+  },
+  {
+    "city": "Póvoa de Santa Iria",
+    "city_ascii": "Povoa de Santa Iria",
+    "admin_name": "Lisboa",
+    "lat": "38.8562",
+    "lng": "-9.0685",
+    "id": "1620229335"
+  },
+  {
+    "city": "Fundão",
+    "city_ascii": "Fundao",
+    "admin_name": "Castelo Branco",
+    "lat": "40.1333",
+    "lng": "-7.5000",
+    "id": "1620544097"
+  },
+  {
+    "city": "Benavente",
+    "city_ascii": "Benavente",
+    "admin_name": "Santarém",
+    "lat": "38.9833",
+    "lng": "-8.8167",
+    "id": "1620484545"
+  },
+  {
+    "city": "Senhora da Hora",
+    "city_ascii": "Senhora da Hora",
+    "admin_name": "Porto",
+    "lat": "41.1856",
+    "lng": "-8.6508",
+    "id": "1620553414"
+  },
+  {
+    "city": "Tondela",
+    "city_ascii": "Tondela",
+    "admin_name": "Viseu",
+    "lat": "40.5164",
+    "lng": "-8.0808",
+    "id": "1620042884"
+  },
+  {
+    "city": "Arrentela",
+    "city_ascii": "Arrentela",
+    "admin_name": "Setúbal",
+    "lat": "38.6267",
+    "lng": "-9.1036",
+    "id": "1620242378"
+  },
+  {
+    "city": "Massamá",
+    "city_ascii": "Massama",
+    "admin_name": "Lisboa",
+    "lat": "38.7568",
+    "lng": "-9.2748",
+    "id": "1620579552"
+  },
+  {
+    "city": "Anadia",
+    "city_ascii": "Anadia",
+    "admin_name": "Aveiro",
+    "lat": "40.4333",
+    "lng": "-8.4333",
+    "id": "1620362655"
+  },
+  {
+    "city": "Águas Santas",
+    "city_ascii": "Aguas Santas",
+    "admin_name": "Porto",
+    "lat": "41.2106",
+    "lng": "-8.5866",
+    "id": "1620762299"
+  },
+  {
+    "city": "Estarreja",
+    "city_ascii": "Estarreja",
+    "admin_name": "Aveiro",
+    "lat": "40.7500",
+    "lng": "-8.5667",
+    "id": "1620391989"
+  },
+  {
+    "city": "Lamego",
+    "city_ascii": "Lamego",
+    "admin_name": "Viseu",
+    "lat": "41.0975",
+    "lng": "-7.8100",
+    "id": "1620221228"
+  },
+  {
+    "city": "Peniche",
+    "city_ascii": "Peniche",
+    "admin_name": "Leiria",
+    "lat": "39.3633",
+    "lng": "-9.3792",
+    "id": "1620744996"
+  },
+  {
+    "city": "Estoril",
+    "city_ascii": "Estoril",
+    "admin_name": "Lisboa",
+    "lat": "38.7057",
+    "lng": "-9.3977",
+    "id": "1620528384"
+  },
+  {
+    "city": "Montemor-o-Velho",
+    "city_ascii": "Montemor-o-Velho",
+    "admin_name": "Coimbra",
+    "lat": "40.1725",
+    "lng": "-8.6847",
+    "id": "1620287392"
+  },
+  {
+    "city": "Tavira",
+    "city_ascii": "Tavira",
+    "admin_name": "Faro",
+    "lat": "37.1309",
+    "lng": "-7.6506",
+    "id": "1620756467"
+  },
+  {
+    "city": "Odemira",
+    "city_ascii": "Odemira",
+    "admin_name": "Beja",
+    "lat": "37.5833",
+    "lng": "-8.6333",
+    "id": "1620717332"
+  },
+  {
+    "city": "Lourinhã",
+    "city_ascii": "Lourinha",
+    "admin_name": "Lisboa",
+    "lat": "39.2425",
+    "lng": "-9.3122",
+    "id": "1620671850"
+  },
+  {
+    "city": "Albergaria-a-Velha",
+    "city_ascii": "Albergaria-a-Velha",
+    "admin_name": "Aveiro",
+    "lat": "40.6936",
+    "lng": "-8.4806",
+    "id": "1620890833"
+  },
+  {
+    "city": "Pinhal Novo",
+    "city_ascii": "Pinhal Novo",
+    "admin_name": "Setúbal",
+    "lat": "38.6297",
+    "lng": "-8.9136",
+    "id": "1620447545"
+  },
+  {
+    "city": "Portalegre",
+    "city_ascii": "Portalegre",
+    "admin_name": "Portalegre",
+    "lat": "39.3167",
+    "lng": "-7.4167",
+    "id": "1620475518"
+  },
+  {
+    "city": "Cartaxo",
+    "city_ascii": "Cartaxo",
+    "admin_name": "Santarém",
+    "lat": "39.1619",
+    "lng": "-8.7864",
+    "id": "1620745841"
+  },
+  {
+    "city": "Porto de Mós",
+    "city_ascii": "Porto de Mos",
+    "admin_name": "Leiria",
+    "lat": "39.6000",
+    "lng": "-8.8167",
+    "id": "1620575221"
+  },
+  {
+    "city": "Pontinha",
+    "city_ascii": "Pontinha",
+    "admin_name": "Lisboa",
+    "lat": "38.7678",
+    "lng": "-9.1994",
+    "id": "1620897359"
+  },
+  {
+    "city": "Mirandela",
+    "city_ascii": "Mirandela",
+    "admin_name": "Bragança",
+    "lat": "41.4833",
+    "lng": "-7.1833",
+    "id": "1620845288"
+  },
+  {
+    "city": "Vizela",
+    "city_ascii": "Vizela",
+    "admin_name": "Porto",
+    "lat": "41.3833",
+    "lng": "-8.3000",
+    "id": "1620166206"
+  },
+  {
+    "city": "Almeirim",
+    "city_ascii": "Almeirim",
+    "admin_name": "Santarém",
+    "lat": "39.2090",
+    "lng": "-8.6164",
+    "id": "1620738863"
+  },
+  {
+    "city": "Caniço",
+    "city_ascii": "Canico",
+    "admin_name": "Madeira",
+    "lat": "32.6412",
+    "lng": "-16.8504",
+    "id": "1620433583"
+  },
+  {
+    "city": "São Mamede de Infesta",
+    "city_ascii": "Sao Mamede de Infesta",
+    "admin_name": "Porto",
+    "lat": "41.1934",
+    "lng": "-8.6143",
+    "id": "1620906554"
+  },
+  {
+    "city": "Fânzeres",
+    "city_ascii": "Fanzeres",
+    "admin_name": "Porto",
+    "lat": "41.1667",
+    "lng": "-8.5333",
+    "id": "1620702776"
+  },
+  {
+    "city": "Oliveira do Bairro",
+    "city_ascii": "Oliveira do Bairro",
+    "admin_name": "Aveiro",
+    "lat": "40.5167",
+    "lng": "-8.5000",
+    "id": "1620488479"
+  },
+  {
+    "city": "Lagoa",
+    "city_ascii": "Lagoa",
+    "admin_name": "Faro",
+    "lat": "37.1347",
+    "lng": "-8.4528",
+    "id": "1620217287"
+  },
+  {
+    "city": "Vale de Cambra",
+    "city_ascii": "Vale de Cambra",
+    "admin_name": "Aveiro",
+    "lat": "40.8500",
+    "lng": "-8.4000",
+    "id": "1620033828"
+  },
+  {
+    "city": "Vagos",
+    "city_ascii": "Vagos",
+    "admin_name": "Aveiro",
+    "lat": "40.5553",
+    "lng": "-8.6814",
+    "id": "1620705657"
+  },
+  {
+    "city": "Arcos de Valdevez",
+    "city_ascii": "Arcos de Valdevez",
+    "admin_name": "Viana do Castelo",
+    "lat": "41.8500",
+    "lng": "-8.4167",
+    "id": "1620183489"
+  },
+  {
+    "city": "Arouca",
+    "city_ascii": "Arouca",
+    "admin_name": "Aveiro",
+    "lat": "40.9289",
+    "lng": "-8.2436",
+    "id": "1620642425"
+  },
+  {
+    "city": "Lordelo do Ouro",
+    "city_ascii": "Lordelo do Ouro",
+    "admin_name": "Porto",
+    "lat": "41.1532",
+    "lng": "-8.6509",
+    "id": "1620621911"
+  },
+  {
+    "city": "Salvaterra de Magos",
+    "city_ascii": "Salvaterra de Magos",
+    "admin_name": "Santarém",
+    "lat": "39.0253",
+    "lng": "-8.7933",
+    "id": "1620916588"
+  },
+  {
+    "city": "Meixedo",
+    "city_ascii": "Meixedo",
+    "admin_name": "Bragança",
+    "lat": "41.8522",
+    "lng": "-6.7706",
+    "id": "1620138660"
+  },
+  {
+    "city": "Póvoa de Lanhoso",
+    "city_ascii": "Povoa de Lanhoso",
+    "admin_name": "Braga",
+    "lat": "41.5667",
+    "lng": "-8.2667",
+    "id": "1620452875"
+  },
+  {
+    "city": "Machico",
+    "city_ascii": "Machico",
+    "admin_name": "Madeira",
+    "lat": "32.7000",
+    "lng": "-16.7667",
+    "id": "1620563649"
+  },
+  {
+    "city": "Azambuja",
+    "city_ascii": "Azambuja",
+    "admin_name": "Lisboa",
+    "lat": "39.0667",
+    "lng": "-8.8667",
+    "id": "1620393026"
+  },
+  {
+    "city": "Seia",
+    "city_ascii": "Seia",
+    "admin_name": "Guarda",
+    "lat": "40.4203",
+    "lng": "-7.7033",
+    "id": "1620376674"
+  },
+  {
+    "city": "São João da Madeira",
+    "city_ascii": "Sao Joao da Madeira",
+    "admin_name": "Aveiro",
+    "lat": "40.9000",
+    "lng": "-8.5000",
+    "id": "1620177884"
+  },
+  {
+    "city": "Bougado",
+    "city_ascii": "Bougado",
+    "admin_name": "Porto",
+    "lat": "41.3306",
+    "lng": "-8.5371",
+    "id": "1620755688"
+  },
+  {
+    "city": "Cacém",
+    "city_ascii": "Cacem",
+    "admin_name": "Lisboa",
+    "lat": "38.7704",
+    "lng": "-9.3081",
+    "id": "1620147105"
+  },
+  {
+    "city": "Vialonga",
+    "city_ascii": "Vialonga",
+    "admin_name": "Lisboa",
+    "lat": "38.8740",
+    "lng": "-9.0834",
+    "id": "1620860073"
+  },
+  {
+    "city": "Rio Maior",
+    "city_ascii": "Rio Maior",
+    "admin_name": "Santarém",
+    "lat": "39.3333",
+    "lng": "-8.9333",
+    "id": "1620036651"
+  },
+  {
+    "city": "Belas",
+    "city_ascii": "Belas",
+    "admin_name": "Lisboa",
+    "lat": "38.7772",
+    "lng": "-9.2608",
+    "id": "1620052831"
+  },
+  {
+    "city": "Praia da Vitória",
+    "city_ascii": "Praia da Vitoria",
+    "admin_name": "Azores",
+    "lat": "38.7333",
+    "lng": "-27.0667",
+    "id": "1620566017"
+  },
+  {
+    "city": "Laranjeira",
+    "city_ascii": "Laranjeira",
+    "admin_name": "Setúbal",
+    "lat": "38.6567",
+    "lng": "-9.1497",
+    "id": "1620655095"
+  },
+  {
+    "city": "Oliveira do Hospital",
+    "city_ascii": "Oliveira do Hospital",
+    "admin_name": "Coimbra",
+    "lat": "40.3667",
+    "lng": "-7.8667",
+    "id": "1620792410"
+  },
+  {
+    "city": "Ul",
+    "city_ascii": "Ul",
+    "admin_name": "Aveiro",
+    "lat": "40.8192",
+    "lng": "-8.4990",
+    "id": "1620891097"
+  },
+  {
+    "city": "Oliveira de Azemeis",
+    "city_ascii": "Oliveira de Azemeis",
+    "admin_name": "Aveiro",
+    "lat": "40.8400",
+    "lng": "-8.4764",
+    "id": "1620421310"
+  },
+  {
+    "city": "Elvas",
+    "city_ascii": "Elvas",
+    "admin_name": "Portalegre",
+    "lat": "38.8800",
+    "lng": "-7.1628",
+    "id": "1620193707"
+  },
+  {
+    "city": "Baião",
+    "city_ascii": "Baiao",
+    "admin_name": "Porto",
+    "lat": "41.1667",
+    "lng": "-8.0333",
+    "id": "1620277576"
+  },
+  {
+    "city": "Costas de Cão",
+    "city_ascii": "Costas de Cao",
+    "admin_name": "Setúbal",
+    "lat": "38.6640",
+    "lng": "-9.2000",
+    "id": "1620036170"
+  },
+  {
+    "city": "Caparica",
+    "city_ascii": "Caparica",
+    "admin_name": "Setúbal",
+    "lat": "38.6683",
+    "lng": "-9.1900",
+    "id": "1620293677"
+  },
+  {
+    "city": "Mealhada",
+    "city_ascii": "Mealhada",
+    "admin_name": "Aveiro",
+    "lat": "40.3781",
+    "lng": "-8.4514",
+    "id": "1620589603"
+  },
+  {
+    "city": "Cinfães",
+    "city_ascii": "Cinfaes",
+    "admin_name": "Viseu",
+    "lat": "41.0667",
+    "lng": "-8.0833",
+    "id": "1620729048"
+  },
+  {
+    "city": "Entroncamento",
+    "city_ascii": "Entroncamento",
+    "admin_name": "Santarém",
+    "lat": "39.4667",
+    "lng": "-8.4667",
+    "id": "1620318542"
+  },
+  {
+    "city": "Celorico de Basto",
+    "city_ascii": "Celorico de Basto",
+    "admin_name": "Braga",
+    "lat": "41.3869",
+    "lng": "-8.0022",
+    "id": "1620638780"
+  },
+  {
+    "city": "Alfena",
+    "city_ascii": "Alfena",
+    "admin_name": "Porto",
+    "lat": "41.2381",
+    "lng": "-8.5253",
+    "id": "1620416709"
+  },
+  {
+    "city": "Coruche",
+    "city_ascii": "Coruche",
+    "admin_name": "Santarém",
+    "lat": "38.9581",
+    "lng": "-8.5283",
+    "id": "1620431702"
+  },
+  {
+    "city": "Piedade",
+    "city_ascii": "Piedade",
+    "admin_name": "Setúbal",
+    "lat": "38.6703",
+    "lng": "-9.1595",
+    "id": "1620410440"
+  },
+  {
+    "city": "Soure",
+    "city_ascii": "Soure",
+    "admin_name": "Coimbra",
+    "lat": "40.0688",
+    "lng": "-8.6277",
+    "id": "1620536643"
+  },
+  {
+    "city": "Monção",
+    "city_ascii": "Moncao",
+    "admin_name": "Viana do Castelo",
+    "lat": "42.0733",
+    "lng": "-8.4800",
+    "id": "1620375502"
+  },
+  {
+    "city": "Vila Real de Santo António",
+    "city_ascii": "Vila Real de Santo Antonio",
+    "admin_name": "Faro",
+    "lat": "37.2000",
+    "lng": "-7.4167",
+    "id": "1620662816"
+  },
+  {
+    "city": "Amares",
+    "city_ascii": "Amares",
+    "admin_name": "Braga",
+    "lat": "41.6333",
+    "lng": "-8.3500",
+    "id": "1620212427"
+  },
+  {
+    "city": "Camarate",
+    "city_ascii": "Camarate",
+    "admin_name": "Lisboa",
+    "lat": "38.8062",
+    "lng": "-9.1412",
+    "id": "1620277606"
+  },
+  {
+    "city": "Sacavém",
+    "city_ascii": "Sacavem",
+    "admin_name": "Lisboa",
+    "lat": "38.7944",
+    "lng": "-9.1053",
+    "id": "1620849212"
+  },
+  {
+    "city": "Mangualde",
+    "city_ascii": "Mangualde",
+    "admin_name": "Viseu",
+    "lat": "40.6058",
+    "lng": "-7.7658",
+    "id": "1620643689"
+  },
+  {
+    "city": "Santa Iria da Azóia",
+    "city_ascii": "Santa Iria da Azoia",
+    "admin_name": "Lisboa",
+    "lat": "38.8464",
+    "lng": "-9.0881",
+    "id": "1620729043"
+  },
+  {
+    "city": "São Tiago de Custoias",
+    "city_ascii": "Sao Tiago de Custoias",
+    "admin_name": "Porto",
+    "lat": "41.2069",
+    "lng": "-8.6485",
+    "id": "1620032209"
+  },
+  {
+    "city": "Parede",
+    "city_ascii": "Parede",
+    "admin_name": "Lisboa",
+    "lat": "38.6933",
+    "lng": "-9.3569",
+    "id": "1620258292"
+  },
+  {
+    "city": "Lousã",
+    "city_ascii": "Lousa",
+    "admin_name": "Coimbra",
+    "lat": "40.1125",
+    "lng": "-8.2469",
+    "id": "1620586922"
+  },
+  {
+    "city": "Alcochete",
+    "city_ascii": "Alcochete",
+    "admin_name": "Setúbal",
+    "lat": "38.7553",
+    "lng": "-8.9608",
+    "id": "1620781537"
+  },
+  {
+    "city": "Montemor-o-Novo",
+    "city_ascii": "Montemor-o-Novo",
+    "admin_name": "Évora",
+    "lat": "38.6500",
+    "lng": "-8.2167",
+    "id": "1620010573"
+  },
+  {
+    "city": "Peso da Régua",
+    "city_ascii": "Peso da Regua",
+    "admin_name": "Vila Real",
+    "lat": "41.1632",
+    "lng": "-7.7890",
+    "id": "1620264911"
+  },
+  {
+    "city": "Condeixa-a-Nova",
+    "city_ascii": "Condeixa-a-Nova",
+    "admin_name": "Coimbra",
+    "lat": "40.1167",
+    "lng": "-8.5000",
+    "id": "1620361727"
+  },
+  {
+    "city": "São Pedro do Sul",
+    "city_ascii": "Sao Pedro do Sul",
+    "admin_name": "Viseu",
+    "lat": "40.7500",
+    "lng": "-8.0667",
+    "id": "1620666925"
+  },
+  {
+    "city": "Sobrado de Paiva",
+    "city_ascii": "Sobrado de Paiva",
+    "admin_name": "Aveiro",
+    "lat": "41.0444",
+    "lng": "-8.2769",
+    "id": "1620213325"
+  },
+  {
+    "city": "Ponte de Sôr",
+    "city_ascii": "Ponte de Sor",
+    "admin_name": "Portalegre",
+    "lat": "39.2478",
+    "lng": "-8.0097",
+    "id": "1620028457"
+  },
+  {
+    "city": "Cabeceiras de Basto",
+    "city_ascii": "Cabeceiras de Basto",
+    "admin_name": "Braga",
+    "lat": "41.5167",
+    "lng": "-8.0000",
+    "id": "1620118213"
+  },
+  {
+    "city": "Quarteira",
+    "city_ascii": "Quarteira",
+    "admin_name": "Faro",
+    "lat": "37.0695",
+    "lng": "-8.1006",
+    "id": "1620157848"
+  },
+  {
+    "city": "Sertã",
+    "city_ascii": "Serta",
+    "admin_name": "Castelo Branco",
+    "lat": "39.8008",
+    "lng": "-8.1003",
+    "id": "1620976292"
+  },
+  {
+    "city": "Batalha",
+    "city_ascii": "Batalha",
+    "admin_name": "Leiria",
+    "lat": "39.6603",
+    "lng": "-8.8247",
+    "id": "1620446432"
+  },
+  {
+    "city": "Macedo de Cavaleiros",
+    "city_ascii": "Macedo de Cavaleiros",
+    "admin_name": "Bragança",
+    "lat": "41.5333",
+    "lng": "-6.9500",
+    "id": "1620590215"
+  },
+  {
+    "city": "Ramada",
+    "city_ascii": "Ramada",
+    "admin_name": "Lisboa",
+    "lat": "38.8036",
+    "lng": "-9.1911",
+    "id": "1620905945"
+  },
+  {
+    "city": "Serpa",
+    "city_ascii": "Serpa",
+    "admin_name": "Beja",
+    "lat": "37.9333",
+    "lng": "-7.5833",
+    "id": "1620464160"
+  },
+  {
+    "city": "Castro Daire",
+    "city_ascii": "Castro Daire",
+    "admin_name": "Viseu",
+    "lat": "40.9000",
+    "lng": "-7.9333",
+    "id": "1620316265"
+  },
+  {
+    "city": "Penacova",
+    "city_ascii": "Penacova",
+    "admin_name": "Coimbra",
+    "lat": "40.2667",
+    "lng": "-8.2667",
+    "id": "1620105584"
+  },
+  {
+    "city": "Moura",
+    "city_ascii": "Moura",
+    "admin_name": "Beja",
+    "lat": "38.1397",
+    "lng": "-7.4505",
+    "id": "1620196948"
+  },
+  {
+    "city": "Sobreda",
+    "city_ascii": "Sobreda",
+    "admin_name": "Setúbal",
+    "lat": "38.6496",
+    "lng": "-9.1898",
+    "id": "1620345323"
+  },
+  {
+    "city": "Nazaré",
+    "city_ascii": "Nazare",
+    "admin_name": "Leiria",
+    "lat": "39.6000",
+    "lng": "-9.0667",
+    "id": "1620000054"
+  },
+  {
+    "city": "Grândola",
+    "city_ascii": "Grandola",
+    "admin_name": "Setúbal",
+    "lat": "38.1768",
+    "lng": "-8.5689",
+    "id": "1620454238"
+  },
+  {
+    "city": "Anta",
+    "city_ascii": "Anta",
+    "admin_name": "Aveiro",
+    "lat": "41.0073",
+    "lng": "-8.6250",
+    "id": "1620706972"
+  },
+  {
+    "city": "Falagueira",
+    "city_ascii": "Falagueira",
+    "admin_name": "Lisboa",
+    "lat": "38.7589",
+    "lng": "-9.2261",
+    "id": "1620164302"
+  },
+  {
+    "city": "Cadaval",
+    "city_ascii": "Cadaval",
+    "admin_name": "Lisboa",
+    "lat": "39.2500",
+    "lng": "-9.1000",
+    "id": "1620009427"
+  },
+  {
+    "city": "Lagoa",
+    "city_ascii": "Lagoa",
+    "admin_name": "Azores",
+    "lat": "37.7500",
+    "lng": "-25.5833",
+    "id": "1620677502"
+  },
+  {
+    "city": "Valbom",
+    "city_ascii": "Valbom",
+    "admin_name": "Porto",
+    "lat": "41.1333",
+    "lng": "-8.5667",
+    "id": "1620089620"
+  },
+  {
+    "city": "Horta",
+    "city_ascii": "Horta",
+    "admin_name": "Azores",
+    "lat": "38.5333",
+    "lng": "-28.6333",
+    "id": "1620589121"
+  },
+  {
+    "city": "Estremoz",
+    "city_ascii": "Estremoz",
+    "admin_name": "Évora",
+    "lat": "38.8422",
+    "lng": "-7.5881",
+    "id": "1620467967"
+  },
+  {
+    "city": "Sines",
+    "city_ascii": "Sines",
+    "admin_name": "Setúbal",
+    "lat": "37.9547",
+    "lng": "-8.8642",
+    "id": "1620898309"
+  },
+  {
+    "city": "São Martinho do Bispo",
+    "city_ascii": "Sao Martinho do Bispo",
+    "admin_name": "Coimbra",
+    "lat": "40.2092",
+    "lng": "-8.4765",
+    "id": "1620320210"
+  },
+  {
+    "city": "Valença",
+    "city_ascii": "Valenca",
+    "admin_name": "Viana do Castelo",
+    "lat": "42.0282",
+    "lng": "-8.6339",
+    "id": "1620333876"
+  },
+  {
+    "city": "Gouveia",
+    "city_ascii": "Gouveia",
+    "admin_name": "Guarda",
+    "lat": "40.5000",
+    "lng": "-7.6000",
+    "id": "1620922007"
+  },
+  {
+    "city": "Nelas",
+    "city_ascii": "Nelas",
+    "admin_name": "Viseu",
+    "lat": "40.5167",
+    "lng": "-7.8500",
+    "id": "1620011198"
+  },
+  {
+    "city": "Gafanha da Nazaré",
+    "city_ascii": "Gafanha da Nazare",
+    "admin_name": "Aveiro",
+    "lat": "40.6333",
+    "lng": "-8.7167",
+    "id": "1620364496"
+  },
+  {
+    "city": "Alcanena",
+    "city_ascii": "Alcanena",
+    "admin_name": "Santarém",
+    "lat": "39.4589",
+    "lng": "-8.6689",
+    "id": "1620799086"
+  },
+  {
+    "city": "Arruda dos Vinhos",
+    "city_ascii": "Arruda dos Vinhos",
+    "admin_name": "Lisboa",
+    "lat": "38.9833",
+    "lng": "-9.0667",
+    "id": "1620150819"
+  },
+  {
+    "city": "Ribeira Brava",
+    "city_ascii": "Ribeira Brava",
+    "admin_name": "Madeira",
+    "lat": "32.6722",
+    "lng": "-17.0639",
+    "id": "1620853683"
+  },
+  {
+    "city": "Aldeia de Paio Pires",
+    "city_ascii": "Aldeia de Paio Pires",
+    "admin_name": "Setúbal",
+    "lat": "38.6272",
+    "lng": "-9.0761",
+    "id": "1620232437"
+  },
+  {
+    "city": "Fátima",
+    "city_ascii": "Fatima",
+    "admin_name": "Santarém",
+    "lat": "39.6256",
+    "lng": "-8.6658",
+    "id": "1620677968"
+  },
+  {
+    "city": "Bombarral",
+    "city_ascii": "Bombarral",
+    "admin_name": "Leiria",
+    "lat": "39.2672",
+    "lng": "-9.1581",
+    "id": "1620112554"
+  },
+  {
+    "city": "Vila Pouca de Aguiar",
+    "city_ascii": "Vila Pouca de Aguiar",
+    "admin_name": "Vila Real",
+    "lat": "41.4833",
+    "lng": "-7.6333",
+    "id": "1620331126"
+  },
+  {
+    "city": "Miranda do Corvo",
+    "city_ascii": "Miranda do Corvo",
+    "admin_name": "Coimbra",
+    "lat": "40.1000",
+    "lng": "-8.3333",
+    "id": "1620469916"
+  },
+  {
+    "city": "Lamaçães",
+    "city_ascii": "Lamacaes",
+    "admin_name": "Braga",
+    "lat": "41.5444",
+    "lng": "-8.3947",
+    "id": "1620999765"
+  },
+  {
+    "city": "Alcácer do Sal",
+    "city_ascii": "Alcacer do Sal",
+    "admin_name": "Setúbal",
+    "lat": "38.3725",
+    "lng": "-8.5133",
+    "id": "1620351188"
+  },
+  {
+    "city": "Vieira do Minho",
+    "city_ascii": "Vieira do Minho",
+    "admin_name": "Braga",
+    "lat": "41.6333",
+    "lng": "-8.1333",
+    "id": "1620164873"
+  },
+  {
+    "city": "Moreira",
+    "city_ascii": "Moreira",
+    "admin_name": "Porto",
+    "lat": "41.2486",
+    "lng": "-8.6497",
+    "id": "1620418764"
+  },
+  {
+    "city": "Aldoar",
+    "city_ascii": "Aldoar",
+    "admin_name": "Porto",
+    "lat": "41.1695",
+    "lng": "-8.6671",
+    "id": "1620646710"
+  },
+  {
+    "city": "São Félix da Marinha",
+    "city_ascii": "Sao Felix da Marinha",
+    "admin_name": "Porto",
+    "lat": "41.0339",
+    "lng": "-8.6233",
+    "id": "1620414430"
+  },
+  {
+    "city": "Sabugal",
+    "city_ascii": "Sabugal",
+    "admin_name": "Guarda",
+    "lat": "40.3519",
+    "lng": "-7.0894",
+    "id": "1620978952"
+  },
+  {
+    "city": "Mira",
+    "city_ascii": "Mira",
+    "admin_name": "Coimbra",
+    "lat": "40.4285",
+    "lng": "-8.7363",
+    "id": "1620156397"
+  },
+  {
+    "city": "Sátão",
+    "city_ascii": "Satao",
+    "admin_name": "Viseu",
+    "lat": "40.7333",
+    "lng": "-7.7167",
+    "id": "1620157053"
+  },
+  {
+    "city": "Arcozelo",
+    "city_ascii": "Arcozelo",
+    "admin_name": "Porto",
+    "lat": "41.0555",
+    "lng": "-8.6395",
+    "id": "1620153472"
+  },
+  {
+    "city": "Sever do Vouga",
+    "city_ascii": "Sever do Vouga",
+    "admin_name": "Aveiro",
+    "lat": "40.7167",
+    "lng": "-8.3667",
+    "id": "1620380173"
+  },
+  {
+    "city": "Arganil",
+    "city_ascii": "Arganil",
+    "admin_name": "Coimbra",
+    "lat": "40.2183",
+    "lng": "-8.0542",
+    "id": "1620980524"
+  },
+  {
+    "city": "Tábua",
+    "city_ascii": "Tabua",
+    "admin_name": "Coimbra",
+    "lat": "40.3667",
+    "lng": "-8.0333",
+    "id": "1620014800"
+  },
+  {
+    "city": "Ponte da Barca",
+    "city_ascii": "Ponte da Barca",
+    "admin_name": "Viana do Castelo",
+    "lat": "41.8078",
+    "lng": "-8.4194",
+    "id": "1620519225"
+  },
+  {
+    "city": "Eiras",
+    "city_ascii": "Eiras",
+    "admin_name": "Coimbra",
+    "lat": "40.2421",
+    "lng": "-8.4240",
+    "id": "1620679868"
+  },
+  {
+    "city": "Alijó",
+    "city_ascii": "Alijo",
+    "admin_name": "Vila Real",
+    "lat": "41.2764",
+    "lng": "-7.4749",
+    "id": "1620658703"
+  },
+  {
+    "city": "Vendas Novas",
+    "city_ascii": "Vendas Novas",
+    "admin_name": "Évora",
+    "lat": "38.6780",
+    "lng": "-8.4555",
+    "id": "1620891430"
+  },
+  {
+    "city": "Portela",
+    "city_ascii": "Portela",
+    "admin_name": "Lisboa",
+    "lat": "38.7828",
+    "lng": "-9.1111",
+    "id": "1620455249"
+  },
+  {
+    "city": "Costa de Caparica",
+    "city_ascii": "Costa de Caparica",
+    "admin_name": "Setúbal",
+    "lat": "38.6446",
+    "lng": "-9.2356",
+    "id": "1620140762"
+  },
+  {
+    "city": "Óbidos",
+    "city_ascii": "Obidos",
+    "admin_name": "Leiria",
+    "lat": "39.3620",
+    "lng": "-9.1571",
+    "id": "1620276354"
+  },
+  {
+    "city": "Ansião",
+    "city_ascii": "Ansiao",
+    "admin_name": "Leiria",
+    "lat": "39.9167",
+    "lng": "-8.4333",
+    "id": "1620604793"
+  },
+  {
+    "city": "Santa Comba Dão",
+    "city_ascii": "Santa Comba Dao",
+    "admin_name": "Viseu",
+    "lat": "40.3981",
+    "lng": "-8.1303",
+    "id": "1620669474"
+  },
+  {
+    "city": "Calheta",
+    "city_ascii": "Calheta",
+    "admin_name": "Madeira",
+    "lat": "32.7333",
+    "lng": "-17.1667",
+    "id": "1620158427"
+  },
+  {
+    "city": "Esmoriz",
+    "city_ascii": "Esmoriz",
+    "admin_name": "Aveiro",
+    "lat": "40.9620",
+    "lng": "-8.6295",
+    "id": "1620854749"
+  },
+  {
+    "city": "São João das Lampas",
+    "city_ascii": "Sao Joao das Lampas",
+    "admin_name": "Lisboa",
+    "lat": "38.8700",
+    "lng": "-9.4211",
+    "id": "1620510055"
+  },
+  {
+    "city": "Resende",
+    "city_ascii": "Resende",
+    "admin_name": "Viseu",
+    "lat": "41.1000",
+    "lng": "-7.9500",
+    "id": "1620858385"
+  },
+  {
+    "city": "Vila Frescainha",
+    "city_ascii": "Vila Frescainha",
+    "admin_name": "Braga",
+    "lat": "41.5385",
+    "lng": "-8.6397",
+    "id": "1620482662"
+  },
+  {
+    "city": "Feira",
+    "city_ascii": "Feira",
+    "admin_name": "Aveiro",
+    "lat": "40.9254",
+    "lng": "-8.5428",
+    "id": "1620337346"
+  },
+  {
+    "city": "Avintes",
+    "city_ascii": "Avintes",
+    "admin_name": "Porto",
+    "lat": "41.1066",
+    "lng": "-8.5515",
+    "id": "1620748900"
+  },
+  {
+    "city": "Reguengos de Monsaraz",
+    "city_ascii": "Reguengos de Monsaraz",
+    "admin_name": "Évora",
+    "lat": "38.4167",
+    "lng": "-7.5333",
+    "id": "1620982468"
+  },
+  {
+    "city": "Oliveirinha",
+    "city_ascii": "Oliveirinha",
+    "admin_name": "Aveiro",
+    "lat": "40.6078",
+    "lng": "-8.5914",
+    "id": "1620623019"
+  },
+  {
+    "city": "Valadares",
+    "city_ascii": "Valadares",
+    "admin_name": "Porto",
+    "lat": "41.0937",
+    "lng": "-8.6392",
+    "id": "1620413494"
+  },
+  {
+    "city": "São Brás de Alportel",
+    "city_ascii": "Sao Bras de Alportel",
+    "admin_name": "Faro",
+    "lat": "37.1500",
+    "lng": "-7.8833",
+    "id": "1620714794"
+  },
+  {
+    "city": "Santo André",
+    "city_ascii": "Santo Andre",
+    "admin_name": "Setúbal",
+    "lat": "38.0667",
+    "lng": "-8.7833",
+    "id": "1620996598"
+  },
+  {
+    "city": "Murtosa",
+    "city_ascii": "Murtosa",
+    "admin_name": "Aveiro",
+    "lat": "40.7369",
+    "lng": "-8.6386",
+    "id": "1620337032"
+  },
+  {
+    "city": "São João de Ver",
+    "city_ascii": "Sao Joao de Ver",
+    "admin_name": "Aveiro",
+    "lat": "40.9536",
+    "lng": "-8.5508",
+    "id": "1620357395"
+  },
+  {
+    "city": "Grijó",
+    "city_ascii": "Grijo",
+    "admin_name": "Porto",
+    "lat": "41.0306",
+    "lng": "-8.5815",
+    "id": "1620560003"
+  },
+  {
+    "city": "Vouzela",
+    "city_ascii": "Vouzela",
+    "admin_name": "Viseu",
+    "lat": "40.7231",
+    "lng": "-8.1122",
+    "id": "1620776313"
+  },
+  {
+    "city": "Montalegre",
+    "city_ascii": "Montalegre",
+    "admin_name": "Vila Real",
+    "lat": "41.8239",
+    "lng": "-7.7900",
+    "id": "1620504484"
+  },
+  {
+    "city": "Cunha Alta",
+    "city_ascii": "Cunha Alta",
+    "admin_name": "Viseu",
+    "lat": "40.6017",
+    "lng": "-7.6936",
+    "id": "1620149131"
+  },
+  {
+    "city": "Melres",
+    "city_ascii": "Melres",
+    "admin_name": "Porto",
+    "lat": "41.0686",
+    "lng": "-8.3983",
+    "id": "1620821477"
+  },
+  {
+    "city": "Vila Franca do Campo",
+    "city_ascii": "Vila Franca do Campo",
+    "admin_name": "Azores",
+    "lat": "37.7167",
+    "lng": "-25.4333",
+    "id": "1620199147"
+  },
+  {
+    "city": "Estreito de Câmara de Lobos",
+    "city_ascii": "Estreito de Camara de Lobos",
+    "admin_name": "Madeira",
+    "lat": "32.6667",
+    "lng": "-16.9833",
+    "id": "1620810371"
+  },
+  {
+    "city": "Oliveira de Frades",
+    "city_ascii": "Oliveira de Frades",
+    "admin_name": "Viseu",
+    "lat": "40.7314",
+    "lng": "-8.1767",
+    "id": "1620849637"
+  },
+  {
+    "city": "Ericeira",
+    "city_ascii": "Ericeira",
+    "admin_name": "Lisboa",
+    "lat": "38.9628",
+    "lng": "-9.4153",
+    "id": "1620634917"
+  },
+  {
+    "city": "Moimenta da Beira",
+    "city_ascii": "Moimenta da Beira",
+    "admin_name": "Viseu",
+    "lat": "40.9819",
+    "lng": "-7.6158",
+    "id": "1620112700"
+  },
+  {
+    "city": "Sobral de Monte Agraço",
+    "city_ascii": "Sobral de Monte Agraco",
+    "admin_name": "Lisboa",
+    "lat": "39.0167",
+    "lng": "-9.1500",
+    "id": "1620360918"
+  },
+  {
+    "city": "Setúbal",
+    "city_ascii": "Setubal",
+    "admin_name": "Setúbal",
+    "lat": "38.5243",
+    "lng": "-8.8926",
+    "id": "1620174557"
+  },
+  {
+    "city": "Praia do Carvoeiro",
+    "city_ascii": "Praia do Carvoeiro",
+    "admin_name": "Faro",
+    "lat": "37.1000",
+    "lng": "-8.4667",
+    "id": "1620666686"
+  },
+  {
+    "city": "Santa Clara",
+    "city_ascii": "Santa Clara",
+    "admin_name": "Coimbra",
+    "lat": "40.1908",
+    "lng": "-8.4383",
+    "id": "1620115175"
+  },
+  {
+    "city": "Maceira",
+    "city_ascii": "Maceira",
+    "admin_name": "Leiria",
+    "lat": "39.6897",
+    "lng": "-8.9000",
+    "id": "1620411435"
+  },
+  {
+    "city": "Trancoso",
+    "city_ascii": "Trancoso",
+    "admin_name": "Guarda",
+    "lat": "40.7833",
+    "lng": "-7.3500",
+    "id": "1620483334"
+  },
+  {
+    "city": "Carregal do Sal",
+    "city_ascii": "Carregal do Sal",
+    "admin_name": "Viseu",
+    "lat": "40.4333",
+    "lng": "-8.0000",
+    "id": "1620089281"
+  },
+  {
+    "city": "Idanha-a-Nova",
+    "city_ascii": "Idanha-a-Nova",
+    "admin_name": "Castelo Branco",
+    "lat": "39.9197",
+    "lng": "-7.2367",
+    "id": "1620152186"
+  },
+  {
+    "city": "Guifões",
+    "city_ascii": "Guifoes",
+    "admin_name": "Porto",
+    "lat": "41.2011",
+    "lng": "-8.6650",
+    "id": "1620446223"
+  },
+  {
+    "city": "Pinhel",
+    "city_ascii": "Pinhel",
+    "admin_name": "Guarda",
+    "lat": "40.7833",
+    "lng": "-7.0667",
+    "id": "1620892355"
+  },
+  {
+    "city": "Mortágua",
+    "city_ascii": "Mortagua",
+    "admin_name": "Viseu",
+    "lat": "40.3947",
+    "lng": "-8.2328",
+    "id": "1620677707"
+  },
+  {
+    "city": "Tavarede",
+    "city_ascii": "Tavarede",
+    "admin_name": "Coimbra",
+    "lat": "40.1664",
+    "lng": "-8.8444",
+    "id": "1620503693"
+  },
+  {
+    "city": "Aljustrel",
+    "city_ascii": "Aljustrel",
+    "admin_name": "Beja",
+    "lat": "37.8775",
+    "lng": "-8.1653",
+    "id": "1620079386"
+  },
+  {
+    "city": "Melgaço",
+    "city_ascii": "Melgaco",
+    "admin_name": "Viana do Castelo",
+    "lat": "42.1167",
+    "lng": "-8.2667",
+    "id": "1620521790"
+  },
+  {
+    "city": "Paredes de Coura",
+    "city_ascii": "Paredes de Coura",
+    "admin_name": "Viana do Castelo",
+    "lat": "41.9111",
+    "lng": "-8.5597",
+    "id": "1620660116"
+  },
+  {
+    "city": "Gondizalves",
+    "city_ascii": "Gondizalves",
+    "admin_name": "Braga",
+    "lat": "41.5426",
+    "lng": "-8.4553",
+    "id": "1620510118"
+  },
+  {
+    "city": "Rebordosa",
+    "city_ascii": "Rebordosa",
+    "admin_name": "Porto",
+    "lat": "41.2167",
+    "lng": "-8.4167",
+    "id": "1620003378"
+  },
+  {
+    "city": "Vinhais",
+    "city_ascii": "Vinhais",
+    "admin_name": "Bragança",
+    "lat": "41.8167",
+    "lng": "-7.0000",
+    "id": "1620473528"
+  },
+  {
+    "city": "Carregado",
+    "city_ascii": "Carregado",
+    "admin_name": "Lisboa",
+    "lat": "39.0167",
+    "lng": "-8.9667",
+    "id": "1620397185"
+  },
+  {
+    "city": "Caxias",
+    "city_ascii": "Caxias",
+    "admin_name": "Lisboa",
+    "lat": "38.7000",
+    "lng": "-9.2833",
+    "id": "1620425668"
+  },
+  {
+    "city": "Almargem",
+    "city_ascii": "Almargem",
+    "admin_name": "Lisboa",
+    "lat": "38.8475",
+    "lng": "-9.2714",
+    "id": "1620407856"
+  },
+  {
+    "city": "Aver-o-Mar",
+    "city_ascii": "Aver-o-Mar",
+    "admin_name": "Porto",
+    "lat": "41.4039",
+    "lng": "-8.7690",
+    "id": "1620327215"
+  },
+  {
+    "city": "Vila Nova de Cerveira",
+    "city_ascii": "Vila Nova de Cerveira",
+    "admin_name": "Viana do Castelo",
+    "lat": "41.9400",
+    "lng": "-8.7444",
+    "id": "1620227274"
+  },
+  {
+    "city": "Ponta do Sol",
+    "city_ascii": "Ponta do Sol",
+    "admin_name": "Madeira",
+    "lat": "32.6811",
+    "lng": "-17.1042",
+    "id": "1620041092"
+  },
+  {
+    "city": "Rabo de Peixe",
+    "city_ascii": "Rabo de Peixe",
+    "admin_name": "Azores",
+    "lat": "37.8100",
+    "lng": "-25.5856",
+    "id": "1620488463"
+  },
+  {
+    "city": "Lourosa",
+    "city_ascii": "Lourosa",
+    "admin_name": "Aveiro",
+    "lat": "40.9833",
+    "lng": "-8.5500",
+    "id": "1620621244"
+  },
+  {
+    "city": "Ferreira do Zêzere",
+    "city_ascii": "Ferreira do Zezere",
+    "admin_name": "Santarém",
+    "lat": "39.7000",
+    "lng": "-8.2833",
+    "id": "1620885794"
+  },
+  {
+    "city": "Torre de Moncorvo",
+    "city_ascii": "Torre de Moncorvo",
+    "admin_name": "Bragança",
+    "lat": "41.2000",
+    "lng": "-7.1333",
+    "id": "1620001140"
+  },
+  {
+    "city": "Chamusca",
+    "city_ascii": "Chamusca",
+    "admin_name": "Santarém",
+    "lat": "39.3594",
+    "lng": "-8.4808",
+    "id": "1620501575"
+  }
+]

@@ -1,0 +1,234 @@
+[
+  {
+    "city": "Ulaanbaatar",
+    "city_ascii": "Ulaanbaatar",
+    "admin_name": "Ulaanbaatar",
+    "lat": "47.9214",
+    "lng": "106.9055",
+    "id": "1496024767"
+  },
+  {
+    "city": "Mörön",
+    "city_ascii": "Moron",
+    "admin_name": "Hövsgöl",
+    "lat": "49.6375",
+    "lng": "100.1614",
+    "id": "1496482400"
+  },
+  {
+    "city": "Erdenet",
+    "city_ascii": "Erdenet",
+    "admin_name": "Orhon",
+    "lat": "49.0278",
+    "lng": "104.0444",
+    "id": "1496374417"
+  },
+  {
+    "city": "Darhan",
+    "city_ascii": "Darhan",
+    "admin_name": "Darhan-Uul",
+    "lat": "49.4867",
+    "lng": "105.9228",
+    "id": "1496235602"
+  },
+  {
+    "city": "Darhan",
+    "city_ascii": "Darhan",
+    "admin_name": "Selenge",
+    "lat": "49.6167",
+    "lng": "106.3500",
+    "id": "1496510995"
+  },
+  {
+    "city": "Ölgiy",
+    "city_ascii": "Olgiy",
+    "admin_name": "Bayan-Ölgiy",
+    "lat": "48.9683",
+    "lng": "89.9686",
+    "id": "1496290857"
+  },
+  {
+    "city": "Choybalsan",
+    "city_ascii": "Choybalsan",
+    "admin_name": "Dornod",
+    "lat": "48.0706",
+    "lng": "114.5228",
+    "id": "1496921469"
+  },
+  {
+    "city": "Arvayheer",
+    "city_ascii": "Arvayheer",
+    "admin_name": "Övörhangay",
+    "lat": "46.2689",
+    "lng": "102.7575",
+    "id": "1496580180"
+  },
+  {
+    "city": "Nalayh",
+    "city_ascii": "Nalayh",
+    "admin_name": "Ulaanbaatar",
+    "lat": "47.7725",
+    "lng": "107.2550",
+    "id": "1496295009"
+  },
+  {
+    "city": "Ulaangom",
+    "city_ascii": "Ulaangom",
+    "admin_name": "Uvs",
+    "lat": "49.9833",
+    "lng": "92.0667",
+    "id": "1496088351"
+  },
+  {
+    "city": "Bayanhongor",
+    "city_ascii": "Bayanhongor",
+    "admin_name": "Bayanhongor",
+    "lat": "46.1944",
+    "lng": "100.7181",
+    "id": "1496815184"
+  },
+  {
+    "city": "Hovd",
+    "city_ascii": "Hovd",
+    "admin_name": "Hovd",
+    "lat": "48.0042",
+    "lng": "91.6406",
+    "id": "1496382421"
+  },
+  {
+    "city": "Uliastay",
+    "city_ascii": "Uliastay",
+    "admin_name": "Dzavhan",
+    "lat": "47.7428",
+    "lng": "96.8433",
+    "id": "1496103841"
+  },
+  {
+    "city": "Tsetserleg",
+    "city_ascii": "Tsetserleg",
+    "admin_name": "Arhangay",
+    "lat": "47.4769",
+    "lng": "101.4503",
+    "id": "1496397451"
+  },
+  {
+    "city": "Öndörhaan",
+    "city_ascii": "Ondorhaan",
+    "admin_name": "Hentiy",
+    "lat": "47.3167",
+    "lng": "110.6500",
+    "id": "1496719699"
+  },
+  {
+    "city": "Saynshand",
+    "city_ascii": "Saynshand",
+    "admin_name": "Dornogovĭ",
+    "lat": "44.8917",
+    "lng": "110.1367",
+    "id": "1496862229"
+  },
+  {
+    "city": "Dalanzadgad",
+    "city_ascii": "Dalanzadgad",
+    "admin_name": "Ömnögovĭ",
+    "lat": "43.5700",
+    "lng": "104.4258",
+    "id": "1496544358"
+  },
+  {
+    "city": "Sühbaatar",
+    "city_ascii": "Suhbaatar",
+    "admin_name": "Selenge",
+    "lat": "50.2364",
+    "lng": "106.2064",
+    "id": "1496145017"
+  },
+  {
+    "city": "Dzüünharaa",
+    "city_ascii": "Dzuunharaa",
+    "admin_name": "Selenge",
+    "lat": "48.8666",
+    "lng": "106.4666",
+    "id": "1496200032"
+  },
+  {
+    "city": "Altay",
+    "city_ascii": "Altay",
+    "admin_name": "Govĭ-Altay",
+    "lat": "46.3728",
+    "lng": "96.2572",
+    "id": "1496574715"
+  },
+  {
+    "city": "Harhorin",
+    "city_ascii": "Harhorin",
+    "admin_name": "Övörhangay",
+    "lat": "47.2000",
+    "lng": "102.8333",
+    "id": "1496223301"
+  },
+  {
+    "city": "Dzuunmod",
+    "city_ascii": "Dzuunmod",
+    "admin_name": "Töv",
+    "lat": "47.7069",
+    "lng": "106.9528",
+    "id": "1496245822"
+  },
+  {
+    "city": "Baruun-Urt",
+    "city_ascii": "Baruun-Urt",
+    "admin_name": "Sühbaatar",
+    "lat": "46.6829",
+    "lng": "113.2786",
+    "id": "1496627655"
+  },
+  {
+    "city": "Mandalgovĭ",
+    "city_ascii": "Mandalgovi",
+    "admin_name": "Dundgovĭ",
+    "lat": "45.7667",
+    "lng": "106.2708",
+    "id": "1496666560"
+  },
+  {
+    "city": "Bulgan",
+    "city_ascii": "Bulgan",
+    "admin_name": "Bulgan",
+    "lat": "48.8125",
+    "lng": "103.5347",
+    "id": "1496317433"
+  },
+  {
+    "city": "Choyr",
+    "city_ascii": "Choyr",
+    "admin_name": "Govĭsümber",
+    "lat": "46.3611",
+    "lng": "108.3611",
+    "id": "1496514583"
+  },
+  {
+    "city": "Höshööt",
+    "city_ascii": "Hoshoot",
+    "admin_name": "Bayan-Ölgiy",
+    "lat": "48.9408",
+    "lng": "89.1383",
+    "id": "1496001385"
+  },
+  {
+    "city": "Ulaan-Uul",
+    "city_ascii": "Ulaan-Uul",
+    "admin_name": "Dornogovĭ",
+    "lat": "44.3337",
+    "lng": "111.2333",
+    "id": "1496264968"
+  },
+  {
+    "city": "Dalandzadgad",
+    "city_ascii": "Dalandzadgad",
+    "admin_name": "Ömnögovĭ",
+    "lat": "43.5708",
+    "lng": "104.4250",
+    "id": "1496141284"
+  }
+]

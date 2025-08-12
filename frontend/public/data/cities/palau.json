@@ -1,0 +1,26 @@
+[
+  {
+    "city": "Koror",
+    "city_ascii": "Koror",
+    "admin_name": "Koror",
+    "lat": "7.3419",
+    "lng": "134.4792",
+    "id": "1585174728"
+  },
+  {
+    "city": "Melekeok",
+    "city_ascii": "Melekeok",
+    "admin_name": "Melekeok",
+    "lat": "7.5006",
+    "lng": "134.6241",
+    "id": "1585892017"
+  },
+  {
+    "city": "Ngerulmud",
+    "city_ascii": "Ngerulmud",
+    "admin_name": "Melekeok",
+    "lat": "7.5006",
+    "lng": "134.6242",
+    "id": "1585525081"
+  }
+]

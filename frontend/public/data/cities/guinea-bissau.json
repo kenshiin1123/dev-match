@@ -1,0 +1,122 @@
+[
+  {
+    "city": "Bissau",
+    "city_ascii": "Bissau",
+    "admin_name": "Bissau",
+    "lat": "11.8500",
+    "lng": "-15.5667",
+    "id": "1624168850"
+  },
+  {
+    "city": "Farim",
+    "city_ascii": "Farim",
+    "admin_name": "Oio",
+    "lat": "12.4833",
+    "lng": "-15.2167",
+    "id": "1624753622"
+  },
+  {
+    "city": "Gabú",
+    "city_ascii": "Gabu",
+    "admin_name": "Gabú",
+    "lat": "12.2833",
+    "lng": "-14.2167",
+    "id": "1624988048"
+  },
+  {
+    "city": "Quinhámel",
+    "city_ascii": "Quinhamel",
+    "admin_name": "Biombo",
+    "lat": "11.8833",
+    "lng": "-15.8500",
+    "id": "1624877378"
+  },
+  {
+    "city": "Bambadinca",
+    "city_ascii": "Bambadinca",
+    "admin_name": "Bafatá",
+    "lat": "12.0333",
+    "lng": "-14.8667",
+    "id": "1624729840"
+  },
+  {
+    "city": "Bafatá",
+    "city_ascii": "Bafata",
+    "admin_name": "Bafatá",
+    "lat": "12.1719",
+    "lng": "-14.6575",
+    "id": "1624735310"
+  },
+  {
+    "city": "Caió",
+    "city_ascii": "Caio",
+    "admin_name": "Cacheu",
+    "lat": "11.9278",
+    "lng": "-16.2028",
+    "id": "1624580590"
+  },
+  {
+    "city": "Madina do Boé",
+    "city_ascii": "Madina do Boe",
+    "admin_name": "Gabú",
+    "lat": "11.7500",
+    "lng": "-14.2167",
+    "id": "1624464668"
+  },
+  {
+    "city": "Bissorã",
+    "city_ascii": "Bissora",
+    "admin_name": "Oio",
+    "lat": "12.2167",
+    "lng": "-15.4500",
+    "id": "1624371242"
+  },
+  {
+    "city": "Bissorã",
+    "city_ascii": "Bissora",
+    "admin_name": "Oio",
+    "lat": "12.0400",
+    "lng": "-15.4281",
+    "id": "1624953344"
+  },
+  {
+    "city": "Buba",
+    "city_ascii": "Buba",
+    "admin_name": "Quinara",
+    "lat": "11.5900",
+    "lng": "-14.9900",
+    "id": "1624903078"
+  },
+  {
+    "city": "Cacheu",
+    "city_ascii": "Cacheu",
+    "admin_name": "Cacheu",
+    "lat": "12.2667",
+    "lng": "-16.1667",
+    "id": "1624294223"
+  },
+  {
+    "city": "Catió",
+    "city_ascii": "Catio",
+    "admin_name": "Tombali",
+    "lat": "11.2833",
+    "lng": "-15.2500",
+    "id": "1624933572"
+  },
+  {
+    "city": "Bolama",
+    "city_ascii": "Bolama",
+    "admin_name": "Bolama/Bijagós",
+    "lat": "11.5776",
+    "lng": "-15.4742",
+    "id": "1624958412"
+  },
+  {
+    "city": "Fulacunda",
+    "city_ascii": "Fulacunda",
+    "admin_name": "Quinara",
+    "lat": "11.7756",
+    "lng": "-15.1822",
+    "id": "1624165742"
+  }
+]

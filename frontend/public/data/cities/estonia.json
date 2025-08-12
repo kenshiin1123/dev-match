@@ -1,0 +1,162 @@
+[
+  {
+    "city": "Tallinn",
+    "city_ascii": "Tallinn",
+    "admin_name": "Tallinn",
+    "lat": "59.4372",
+    "lng": "24.7453",
+    "id": "1233260021"
+  },
+  {
+    "city": "Tartu",
+    "city_ascii": "Tartu",
+    "admin_name": "Tartu",
+    "lat": "58.3800",
+    "lng": "26.7225",
+    "id": "1233809410"
+  },
+  {
+    "city": "Narva",
+    "city_ascii": "Narva",
+    "admin_name": "Narva",
+    "lat": "59.3758",
+    "lng": "28.1961",
+    "id": "1233751159"
+  },
+  {
+    "city": "Pärnu",
+    "city_ascii": "Parnu",
+    "admin_name": "Pärnu",
+    "lat": "58.3833",
+    "lng": "24.5000",
+    "id": "1233955054"
+  },
+  {
+    "city": "Kohtla-Järve",
+    "city_ascii": "Kohtla-Jarve",
+    "admin_name": "Kohtla-Järve",
+    "lat": "59.3978",
+    "lng": "27.2572",
+    "id": "1233016348"
+  },
+  {
+    "city": "Viljandi",
+    "city_ascii": "Viljandi",
+    "admin_name": "Viljandi",
+    "lat": "58.3667",
+    "lng": "25.6000",
+    "id": "1233067368"
+  },
+  {
+    "city": "Maardu",
+    "city_ascii": "Maardu",
+    "admin_name": "Maardu",
+    "lat": "59.4781",
+    "lng": "25.0161",
+    "id": "1233565021"
+  },
+  {
+    "city": "Rakvere",
+    "city_ascii": "Rakvere",
+    "admin_name": "Rakvere",
+    "lat": "59.3500",
+    "lng": "26.3500",
+    "id": "1233049348"
+  },
+  {
+    "city": "Kuressaare",
+    "city_ascii": "Kuressaare",
+    "admin_name": "Saaremaa",
+    "lat": "58.2500",
+    "lng": "22.4833",
+    "id": "1233341219"
+  },
+  {
+    "city": "Sillamäe",
+    "city_ascii": "Sillamae",
+    "admin_name": "Sillamäe",
+    "lat": "59.3931",
+    "lng": "27.7742",
+    "id": "1233128320"
+  },
+  {
+    "city": "Võru",
+    "city_ascii": "Voru",
+    "admin_name": "Võru",
+    "lat": "57.8486",
+    "lng": "26.9928",
+    "id": "1233754374"
+  },
+  {
+    "city": "Valga",
+    "city_ascii": "Valga",
+    "admin_name": "Valga",
+    "lat": "57.7833",
+    "lng": "26.0333",
+    "id": "1233406308"
+  },
+  {
+    "city": "Keila",
+    "city_ascii": "Keila",
+    "admin_name": "Keila",
+    "lat": "59.3086",
+    "lng": "24.4225",
+    "id": "1233230839"
+  },
+  {
+    "city": "Jõhvi",
+    "city_ascii": "Johvi",
+    "admin_name": "Jõhvi",
+    "lat": "59.3575",
+    "lng": "27.4269",
+    "id": "1233731045"
+  },
+  {
+    "city": "Haapsalu",
+    "city_ascii": "Haapsalu",
+    "admin_name": "Haapsalu",
+    "lat": "58.9394",
+    "lng": "23.5408",
+    "id": "1233967642"
+  },
+  {
+    "city": "Paide",
+    "city_ascii": "Paide",
+    "admin_name": "Paide",
+    "lat": "58.8833",
+    "lng": "25.5572",
+    "id": "1233393684"
+  },
+  {
+    "city": "Põlva",
+    "city_ascii": "Polva",
+    "admin_name": "Põlva",
+    "lat": "58.0603",
+    "lng": "27.0694",
+    "id": "1233866730"
+  },
+  {
+    "city": "Rapla",
+    "city_ascii": "Rapla",
+    "admin_name": "Rapla",
+    "lat": "58.9944",
+    "lng": "24.8011",
+    "id": "1233013333"
+  },
+  {
+    "city": "Jõgeva",
+    "city_ascii": "Jogeva",
+    "admin_name": "Jõgeva",
+    "lat": "58.7469",
+    "lng": "26.4000",
+    "id": "1233192849"
+  },
+  {
+    "city": "Kärdla",
+    "city_ascii": "Kardla",
+    "admin_name": "Hiiumaa",
+    "lat": "58.9981",
+    "lng": "22.7467",
+    "id": "1233977488"
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "city": "Lilongwe",
+    "city_ascii": "Lilongwe",
+    "admin_name": "Lilongwe",
+    "lat": "-13.9669",
+    "lng": "33.7873",
+    "id": "1454688499"
+  },
+  {
+    "city": "Blantyre",
+    "city_ascii": "Blantyre",
+    "admin_name": "Blantyre",
+    "lat": "-15.7861",
+    "lng": "35.0058",
+    "id": "1454145012"
+  },
+  {
+    "city": "Mzuzu",
+    "city_ascii": "Mzuzu",
+    "admin_name": "Mzimba",
+    "lat": "-11.4500",
+    "lng": "34.0333",
+    "id": "1454525586"
+  },
+  {
+    "city": "Zomba",
+    "city_ascii": "Zomba",
+    "admin_name": "Zomba",
+    "lat": "-15.3860",
+    "lng": "35.3188",
+    "id": "1454072947"
+  },
+  {
+    "city": "Karonga",
+    "city_ascii": "Karonga",
+    "admin_name": "Karonga",
+    "lat": "-9.9329",
+    "lng": "33.9333",
+    "id": "1454358935"
+  },
+  {
+    "city": "Kasungu",
+    "city_ascii": "Kasungu",
+    "admin_name": "Kasungu",
+    "lat": "-13.0364",
+    "lng": "33.4822",
+    "id": "1454117674"
+  },
+  {
+    "city": "Mangochi",
+    "city_ascii": "Mangochi",
+    "admin_name": "Mangochi",
+    "lat": "-14.4722",
+    "lng": "35.2639",
+    "id": "1454766726"
+  },
+  {
+    "city": "Salima",
+    "city_ascii": "Salima",
+    "admin_name": "Salima",
+    "lat": "-13.7829",
+    "lng": "34.4333",
+    "id": "1454747771"
+  },
+  {
+    "city": "Liwonde",
+    "city_ascii": "Liwonde",
+    "admin_name": "Balaka",
+    "lat": "-15.0667",
+    "lng": "35.2333",
+    "id": "1454616988"
+  },
+  {
+    "city": "Dedza",
+    "city_ascii": "Dedza",
+    "admin_name": "Dedza",
+    "lat": "-14.3667",
+    "lng": "34.3333",
+    "id": "1454412462"
+  },
+  {
+    "city": "Nkhotakota",
+    "city_ascii": "Nkhotakota",
+    "admin_name": "Nkhotakota",
+    "lat": "-12.9163",
+    "lng": "34.3000",
+    "id": "1454281420"
+  },
+  {
+    "city": "Mchinji",
+    "city_ascii": "Mchinji",
+    "admin_name": "Mchinji",
+    "lat": "-13.8167",
+    "lng": "32.9000",
+    "id": "1454607053"
+  },
+  {
+    "city": "Nsanje",
+    "city_ascii": "Nsanje",
+    "admin_name": "Nsanje",
+    "lat": "-16.9167",
+    "lng": "35.2667",
+    "id": "1454428076"
+  },
+  {
+    "city": "Mzimba",
+    "city_ascii": "Mzimba",
+    "admin_name": "Mzimba",
+    "lat": "-11.9000",
+    "lng": "33.6000",
+    "id": "1454007077"
+  },
+  {
+    "city": "Chiromo",
+    "city_ascii": "Chiromo",
+    "admin_name": "Nsanje",
+    "lat": "-16.5500",
+    "lng": "35.1332",
+    "id": "1454972056"
+  },
+  {
+    "city": "Mponela",
+    "city_ascii": "Mponela",
+    "admin_name": "Dowa",
+    "lat": "-13.5310",
+    "lng": "33.7393",
+    "id": "1454096426"
+  },
+  {
+    "city": "Rumphi",
+    "city_ascii": "Rumphi",
+    "admin_name": "Rumphi",
+    "lat": "-11.0172",
+    "lng": "33.8539",
+    "id": "1454325221"
+  },
+  {
+    "city": "Ntcheu",
+    "city_ascii": "Ntcheu",
+    "admin_name": "Ntcheu",
+    "lat": "-14.8167",
+    "lng": "34.6333",
+    "id": "1454008976"
+  },
+  {
+    "city": "Mulanje",
+    "city_ascii": "Mulanje",
+    "admin_name": "Mulanje",
+    "lat": "-16.0333",
+    "lng": "35.5000",
+    "id": "1454459215"
+  },
+  {
+    "city": "Mwanza",
+    "city_ascii": "Mwanza",
+    "admin_name": "Mwanza",
+    "lat": "-15.6167",
+    "lng": "34.5167",
+    "id": "1454451365"
+  },
+  {
+    "city": "Chitipa",
+    "city_ascii": "Chitipa",
+    "admin_name": "Chitipa",
+    "lat": "-9.7024",
+    "lng": "33.2697",
+    "id": "1454611219"
+  },
+  {
+    "city": "Monkey Bay",
+    "city_ascii": "Monkey Bay",
+    "admin_name": "Mangochi",
+    "lat": "-14.0728",
+    "lng": "34.9201",
+    "id": "1454428949"
+  },
+  {
+    "city": "Nkhata Bay",
+    "city_ascii": "Nkhata Bay",
+    "admin_name": "Nkhata Bay",
+    "lat": "-11.6333",
+    "lng": "34.3000",
+    "id": "1454517378"
+  },
+  {
+    "city": "Luchenza",
+    "city_ascii": "Luchenza",
+    "admin_name": "Thyolo",
+    "lat": "-16.0167",
+    "lng": "35.3000",
+    "id": "1454389807"
+  },
+  {
+    "city": "Ntchisi",
+    "city_ascii": "Ntchisi",
+    "admin_name": "Ntchisi",
+    "lat": "-13.3753",
+    "lng": "34.0036",
+    "id": "1454004377"
+  },
+  {
+    "city": "Dowa",
+    "city_ascii": "Dowa",
+    "admin_name": "Dowa",
+    "lat": "-13.6532",
+    "lng": "33.9385",
+    "id": "1454644071"
+  },
+  {
+    "city": "Thyolo",
+    "city_ascii": "Thyolo",
+    "admin_name": "Thyolo",
+    "lat": "-16.0667",
+    "lng": "35.1333",
+    "id": "1454464861"
+  },
+  {
+    "city": "Phalombe",
+    "city_ascii": "Phalombe",
+    "admin_name": "Phalombe",
+    "lat": "-15.8000",
+    "lng": "35.6500",
+    "id": "1454510180"
+  },
+  {
+    "city": "Chiradzulu",
+    "city_ascii": "Chiradzulu",
+    "admin_name": "Chiradzulu",
+    "lat": "-15.6746",
+    "lng": "35.1407",
+    "id": "1454413713"
+  },
+  {
+    "city": "Machinga",
+    "city_ascii": "Machinga",
+    "admin_name": "Machinga",
+    "lat": "-14.9667",
+    "lng": "35.5167",
+    "id": "1454566785"
+  },
+  {
+    "city": "Balaka",
+    "city_ascii": "Balaka",
+    "admin_name": "Balaka",
+    "lat": "-14.9889",
+    "lng": "34.9591",
+    "id": "1454732693"
+  },
+  {
+    "city": "Neno",
+    "city_ascii": "Neno",
+    "admin_name": "Neno",
+    "lat": "-15.3981",
+    "lng": "34.6534",
+    "id": "1454089137"
+  },
+  {
+    "city": "Chikwawa",
+    "city_ascii": "Chikwawa",
+    "admin_name": "Chikwawa",
+    "lat": "-16.0350",
+    "lng": "34.8010",
+    "id": "1454343925"
+  }
+]

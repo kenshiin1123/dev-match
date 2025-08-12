@@ -1,0 +1,1466 @@
+[
+  {
+    "city": "Ho Chi Minh City",
+    "city_ascii": "Ho Chi Minh City",
+    "admin_name": "Hồ Chí Minh",
+    "lat": "10.7756",
+    "lng": "106.7019",
+    "id": "1704774326"
+  },
+  {
+    "city": "Hanoi",
+    "city_ascii": "Hanoi",
+    "admin_name": "Hà Nội",
+    "lat": "21.0000",
+    "lng": "105.8500",
+    "id": "1704413791"
+  },
+  {
+    "city": "Haiphong",
+    "city_ascii": "Haiphong",
+    "admin_name": "Hải Phòng",
+    "lat": "20.8651",
+    "lng": "106.6838",
+    "id": "1704000623"
+  },
+  {
+    "city": "Biên Hòa",
+    "city_ascii": "Bien Hoa",
+    "admin_name": "Đồng Nai",
+    "lat": "10.9500",
+    "lng": "106.8167",
+    "id": "1704863046"
+  },
+  {
+    "city": "Cần Thơ",
+    "city_ascii": "Can Tho",
+    "admin_name": "Cần Thơ",
+    "lat": "10.0333",
+    "lng": "105.7833",
+    "id": "1704783472"
+  },
+  {
+    "city": "Ninh Bình",
+    "city_ascii": "Ninh Binh",
+    "admin_name": "Ninh Bình",
+    "lat": "20.2500",
+    "lng": "105.8333",
+    "id": "1704442748"
+  },
+  {
+    "city": "Thủ Đức",
+    "city_ascii": "Thu Duc",
+    "admin_name": "Hồ Chí Minh",
+    "lat": "10.8266",
+    "lng": "106.7609",
+    "id": "1704361621"
+  },
+  {
+    "city": "Thanh Hóa",
+    "city_ascii": "Thanh Hoa",
+    "admin_name": "Thanh Hóa",
+    "lat": "19.8075",
+    "lng": "105.7764",
+    "id": "1704016079"
+  },
+  {
+    "city": "Vinh",
+    "city_ascii": "Vinh",
+    "admin_name": "Nghệ An",
+    "lat": "18.6667",
+    "lng": "105.6667",
+    "id": "1704960059"
+  },
+  {
+    "city": "Huế",
+    "city_ascii": "Hue",
+    "admin_name": "Thừa Thiên-Huế",
+    "lat": "16.4619",
+    "lng": "107.5955",
+    "id": "1704016023"
+  },
+  {
+    "city": "Tân An",
+    "city_ascii": "Tan An",
+    "admin_name": "Hồ Chí Minh",
+    "lat": "10.9050",
+    "lng": "106.6994",
+    "id": "1704599287"
+  },
+  {
+    "city": "Nha Trang",
+    "city_ascii": "Nha Trang",
+    "admin_name": "Khánh Hòa",
+    "lat": "12.2450",
+    "lng": "109.1917",
+    "id": "1704497901"
+  },
+  {
+    "city": "Tân Uyên",
+    "city_ascii": "Tan Uyen",
+    "admin_name": "Bình Dương",
+    "lat": "11.0508",
+    "lng": "106.7636",
+    "id": "1704985934"
+  },
+  {
+    "city": "Bắc Giang",
+    "city_ascii": "Bac Giang",
+    "admin_name": "Bắc Giang",
+    "lat": "21.2667",
+    "lng": "106.2000",
+    "id": "1704256754"
+  },
+  {
+    "city": "Nam Định",
+    "city_ascii": "Nam Dinh",
+    "admin_name": "Nam Định",
+    "lat": "20.4200",
+    "lng": "106.1683",
+    "id": "1704906277"
+  },
+  {
+    "city": "Thái Nguyên",
+    "city_ascii": "Thai Nguyen",
+    "admin_name": "Thái Nguyên",
+    "lat": "21.6000",
+    "lng": "105.8500",
+    "id": "1704613715"
+  },
+  {
+    "city": "Việt Trì",
+    "city_ascii": "Viet Tri",
+    "admin_name": "Phú Thọ",
+    "lat": "21.3000",
+    "lng": "105.4333",
+    "id": "1704332956"
+  },
+  {
+    "city": "Hà Tĩnh",
+    "city_ascii": "Ha Tinh",
+    "admin_name": "Hà Tĩnh",
+    "lat": "18.3333",
+    "lng": "105.9000",
+    "id": "1704544061"
+  },
+  {
+    "city": "An Nhơn",
+    "city_ascii": "An Nhon",
+    "admin_name": "Bình Định",
+    "lat": "13.9170",
+    "lng": "109.0830",
+    "id": "1704548208"
+  },
+  {
+    "city": "Vũng Tàu",
+    "city_ascii": "Vung Tau",
+    "admin_name": "Bà Rịa-Vũng Tàu",
+    "lat": "10.3833",
+    "lng": "107.1167",
+    "id": "1704581438"
+  },
+  {
+    "city": "Buôn Ma Thuột",
+    "city_ascii": "Buon Ma Thuot",
+    "admin_name": "Đắk Lắk",
+    "lat": "12.6667",
+    "lng": "108.0500",
+    "id": "1704542086"
+  },
+  {
+    "city": "Thủ Dầu Một",
+    "city_ascii": "Thu Dau Mot",
+    "admin_name": "Bình Dương",
+    "lat": "10.9667",
+    "lng": "106.6500",
+    "id": "1704890399"
+  },
+  {
+    "city": "Quy Nhơn",
+    "city_ascii": "Quy Nhon",
+    "admin_name": "Bình Định",
+    "lat": "13.7667",
+    "lng": "109.2333",
+    "id": "1704056461"
+  },
+  {
+    "city": "Nghi Sơn",
+    "city_ascii": "Nghi Son",
+    "admin_name": "Thanh Hóa",
+    "lat": "19.4170",
+    "lng": "105.7500",
+    "id": "1704908796"
+  },
+  {
+    "city": "Bắc Ninh",
+    "city_ascii": "Bac Ninh",
+    "admin_name": "Bắc Ninh",
+    "lat": "21.1833",
+    "lng": "106.0500",
+    "id": "1704025181"
+  },
+  {
+    "city": "Long Xuyên",
+    "city_ascii": "Long Xuyen",
+    "admin_name": "An Giang",
+    "lat": "10.3736",
+    "lng": "105.4458",
+    "id": "1704453892"
+  },
+  {
+    "city": "Mỹ Tho",
+    "city_ascii": "My Tho",
+    "admin_name": "Tiền Giang",
+    "lat": "10.3500",
+    "lng": "106.3500",
+    "id": "1704000376"
+  },
+  {
+    "city": "Thái Bình",
+    "city_ascii": "Thai Binh",
+    "admin_name": "Thái Bình",
+    "lat": "20.4461",
+    "lng": "106.3422",
+    "id": "1704716027"
+  },
+  {
+    "city": "Quảng Ngãi",
+    "city_ascii": "Quang Ngai",
+    "admin_name": "Quảng Ngãi",
+    "lat": "15.1167",
+    "lng": "108.8000",
+    "id": "1704029499"
+  },
+  {
+    "city": "Rạch Giá",
+    "city_ascii": "Rach Gia",
+    "admin_name": "Kiến Giang",
+    "lat": "10.0167",
+    "lng": "105.0833",
+    "id": "1704872008"
+  },
+  {
+    "city": "Tuy Hòa",
+    "city_ascii": "Tuy Hoa",
+    "admin_name": "Phú Yên",
+    "lat": "13.0819",
+    "lng": "109.2950",
+    "id": "1704697424"
+  },
+  {
+    "city": "Hải Dương",
+    "city_ascii": "Hai Duong",
+    "admin_name": "Hải Dương",
+    "lat": "20.9397",
+    "lng": "106.3306",
+    "id": "1704909566"
+  },
+  {
+    "city": "Bà Rịa",
+    "city_ascii": "Ba Ria",
+    "admin_name": "Bà Rịa-Vũng Tàu",
+    "lat": "10.4992",
+    "lng": "107.1675",
+    "id": "1704455087"
+  },
+  {
+    "city": "Hòa Bình",
+    "city_ascii": "Hoa Binh",
+    "admin_name": "Hòa Bình",
+    "lat": "20.8133",
+    "lng": "105.3383",
+    "id": "1704237072"
+  },
+  {
+    "city": "Phú Yên",
+    "city_ascii": "Phu Yen",
+    "admin_name": "Thái Nguyên",
+    "lat": "21.4156",
+    "lng": "105.8739",
+    "id": "1704357396"
+  },
+  {
+    "city": "Sơn Tây",
+    "city_ascii": "Son Tay",
+    "admin_name": "Hà Nội",
+    "lat": "21.1333",
+    "lng": "105.5000",
+    "id": "1704714941"
+  },
+  {
+    "city": "Cà Mau",
+    "city_ascii": "Ca Mau",
+    "admin_name": "Cà Mau",
+    "lat": "9.1833",
+    "lng": "105.1500",
+    "id": "1704320474"
+  },
+  {
+    "city": "Sóc Trăng",
+    "city_ascii": "Soc Trang",
+    "admin_name": "Sóc Trăng",
+    "lat": "9.6028",
+    "lng": "105.9736",
+    "id": "1704758756"
+  },
+  {
+    "city": "Chí Linh",
+    "city_ascii": "Chi Linh",
+    "admin_name": "Hải Dương",
+    "lat": "21.1330",
+    "lng": "106.3830",
+    "id": "1704328235"
+  },
+  {
+    "city": "Tân An",
+    "city_ascii": "Tan An",
+    "admin_name": "Long An",
+    "lat": "10.5333",
+    "lng": "106.4167",
+    "id": "1704199290"
+  },
+  {
+    "city": "Sa Đéc",
+    "city_ascii": "Sa Dec",
+    "admin_name": "Đồng Tháp",
+    "lat": "10.3000",
+    "lng": "105.7667",
+    "id": "1704983576"
+  },
+  {
+    "city": "Cao Lãnh",
+    "city_ascii": "Cao Lanh",
+    "admin_name": "Đồng Tháp",
+    "lat": "10.4672",
+    "lng": "105.6303",
+    "id": "1704276832"
+  },
+  {
+    "city": "Phan Rang-Tháp Chàm",
+    "city_ascii": "Phan Rang-Thap Cham",
+    "admin_name": "Ninh Thuận",
+    "lat": "11.5667",
+    "lng": "108.9833",
+    "id": "1704094609"
+  },
+  {
+    "city": "Phan Thiết",
+    "city_ascii": "Phan Thiet",
+    "admin_name": "Bình Thuận",
+    "lat": "10.9333",
+    "lng": "108.1000",
+    "id": "1704221456"
+  },
+  {
+    "city": "Đà Lạt",
+    "city_ascii": "Da Lat",
+    "admin_name": "Lâm Đồng",
+    "lat": "11.9417",
+    "lng": "108.4383",
+    "id": "1704933464"
+  },
+  {
+    "city": "Kinh Môn",
+    "city_ascii": "Kinh Mon",
+    "admin_name": "Hải Dương",
+    "lat": "21.0330",
+    "lng": "106.5000",
+    "id": "1704502553"
+  },
+  {
+    "city": "Phủ Từ Sơn",
+    "city_ascii": "Phu Tu Son",
+    "admin_name": "Bắc Ninh",
+    "lat": "21.1189",
+    "lng": "105.9611",
+    "id": "1704080874"
+  },
+  {
+    "city": "Vĩnh Long",
+    "city_ascii": "Vinh Long",
+    "admin_name": "Vĩnh Long",
+    "lat": "10.2500",
+    "lng": "105.9667",
+    "id": "1704262419"
+  },
+  {
+    "city": "Lạng Sơn",
+    "city_ascii": "Lang Son",
+    "admin_name": "Lạng Sơn",
+    "lat": "21.8478",
+    "lng": "106.7578",
+    "id": "1704004349"
+  },
+  {
+    "city": "Cẩm Phả",
+    "city_ascii": "Cam Pha",
+    "admin_name": "Quảng Ninh",
+    "lat": "21.0167",
+    "lng": "107.3167",
+    "id": "1704985016"
+  },
+  {
+    "city": "Vĩnh Châu",
+    "city_ascii": "Vinh Chau",
+    "admin_name": "Sóc Trăng",
+    "lat": "9.3330",
+    "lng": "106.0000",
+    "id": "1704458161"
+  },
+  {
+    "city": "Trảng Bàng",
+    "city_ascii": "Trang Bang",
+    "admin_name": "Tây Ninh",
+    "lat": "11.0330",
+    "lng": "106.3670",
+    "id": "1704911723"
+  },
+  {
+    "city": "Quảng Yên",
+    "city_ascii": "Quang Yen",
+    "admin_name": "Quảng Ninh",
+    "lat": "20.9170",
+    "lng": "106.8330",
+    "id": "1704642598"
+  },
+  {
+    "city": "Hạ Long",
+    "city_ascii": "Ha Long",
+    "admin_name": "Quảng Ninh",
+    "lat": "20.9500",
+    "lng": "107.0667",
+    "id": "1704379547"
+  },
+  {
+    "city": "Mang La",
+    "city_ascii": "Mang La",
+    "admin_name": "Kon Tum",
+    "lat": "14.3617",
+    "lng": "108.0083",
+    "id": "1704178922"
+  },
+  {
+    "city": "Bảo Lộc",
+    "city_ascii": "Bao Loc",
+    "admin_name": "Lâm Đồng",
+    "lat": "11.5481",
+    "lng": "107.8075",
+    "id": "1704551621"
+  },
+  {
+    "city": "Giá Rai",
+    "city_ascii": "Gia Rai",
+    "admin_name": "Bạc Liêu",
+    "lat": "9.2500",
+    "lng": "105.4170",
+    "id": "1704175422"
+  },
+  {
+    "city": "Đông Hà",
+    "city_ascii": "Dong Ha",
+    "admin_name": "Quảng Trị",
+    "lat": "16.8303",
+    "lng": "107.0972",
+    "id": "1704264596"
+  },
+  {
+    "city": "Tân Phú",
+    "city_ascii": "Tan Phu",
+    "admin_name": "Đồng Nai",
+    "lat": "11.2720",
+    "lng": "107.4367",
+    "id": "1704582407"
+  },
+  {
+    "city": "Trà Vinh",
+    "city_ascii": "Tra Vinh",
+    "admin_name": "Trà Vinh",
+    "lat": "9.9333",
+    "lng": "106.3500",
+    "id": "1704929966"
+  },
+  {
+    "city": "Bạc Liêu",
+    "city_ascii": "Bac Lieu",
+    "admin_name": "Bạc Liêu",
+    "lat": "9.2833",
+    "lng": "105.7167",
+    "id": "1704298745"
+  },
+  {
+    "city": "Vĩnh Yên",
+    "city_ascii": "Vinh Yen",
+    "admin_name": "Vĩnh Phúc",
+    "lat": "21.3100",
+    "lng": "105.5967",
+    "id": "1704905946"
+  },
+  {
+    "city": "Hòa Thành",
+    "city_ascii": "Hoa Thanh",
+    "admin_name": "Tây Ninh",
+    "lat": "11.2831",
+    "lng": "106.1297",
+    "id": "1704970547"
+  },
+  {
+    "city": "Hội An",
+    "city_ascii": "Hoi An",
+    "admin_name": "Quảng Nam",
+    "lat": "15.8833",
+    "lng": "108.3333",
+    "id": "1704897050"
+  },
+  {
+    "city": "Gò Công",
+    "city_ascii": "Go Cong",
+    "admin_name": "Tiền Giang",
+    "lat": "10.3667",
+    "lng": "106.6667",
+    "id": "1704078032"
+  },
+  {
+    "city": "Long Khánh",
+    "city_ascii": "Long Khanh",
+    "admin_name": "Đồng Nai",
+    "lat": "10.9170",
+    "lng": "107.1670",
+    "id": "1704475292"
+  },
+  {
+    "city": "Đức Phổ",
+    "city_ascii": "Duc Pho",
+    "admin_name": "Quảng Ngãi",
+    "lat": "14.8100",
+    "lng": "108.9600",
+    "id": "1704354008"
+  },
+  {
+    "city": "Đồng Xoài",
+    "city_ascii": "Dong Xoai",
+    "admin_name": "Bình Phước",
+    "lat": "11.5169",
+    "lng": "106.8392",
+    "id": "1704845487"
+  },
+  {
+    "city": "Mộc Châu",
+    "city_ascii": "Moc Chau",
+    "admin_name": "Sơn La",
+    "lat": "20.9221",
+    "lng": "104.7521",
+    "id": "1704223721"
+  },
+  {
+    "city": "Cam Ranh",
+    "city_ascii": "Cam Ranh",
+    "admin_name": "Khánh Hòa",
+    "lat": "11.9020",
+    "lng": "109.2207",
+    "id": "1704104189"
+  },
+  {
+    "city": "Pleiku",
+    "city_ascii": "Pleiku",
+    "admin_name": "Gia Lai",
+    "lat": "13.9833",
+    "lng": "108.0000",
+    "id": "1704220080"
+  },
+  {
+    "city": "Tân Châu",
+    "city_ascii": "Tan Chau",
+    "admin_name": "An Giang",
+    "lat": "10.7739",
+    "lng": "105.2369",
+    "id": "1704250945"
+  },
+  {
+    "city": "Cam Ranh",
+    "city_ascii": "Cam Ranh",
+    "admin_name": "Khánh Hòa",
+    "lat": "11.9136",
+    "lng": "109.1369",
+    "id": "1704516746"
+  },
+  {
+    "city": "Phủ Lý",
+    "city_ascii": "Phu Ly",
+    "admin_name": "Hà Nam",
+    "lat": "20.5411",
+    "lng": "105.9139",
+    "id": "1704841896"
+  },
+  {
+    "city": "Tây Ninh",
+    "city_ascii": "Tay Ninh",
+    "admin_name": "Tây Ninh",
+    "lat": "11.3678",
+    "lng": "106.1189",
+    "id": "1704250951"
+  },
+  {
+    "city": "Ba Đồn",
+    "city_ascii": "Ba Don",
+    "admin_name": "Quảng Bình",
+    "lat": "17.7547",
+    "lng": "106.4231",
+    "id": "1704105160"
+  },
+  {
+    "city": "Đồng Hới",
+    "city_ascii": "Dong Hoi",
+    "admin_name": "Quảng Bình",
+    "lat": "17.4831",
+    "lng": "106.5997",
+    "id": "1704323043"
+  },
+  {
+    "city": "Long Bình",
+    "city_ascii": "Long Binh",
+    "admin_name": "Đồng Nai",
+    "lat": "10.9458",
+    "lng": "106.8775",
+    "id": "1704097559"
+  },
+  {
+    "city": "Lào Cai",
+    "city_ascii": "Lao Cai",
+    "admin_name": "Lào Cai",
+    "lat": "22.4806",
+    "lng": "103.9750",
+    "id": "1704290986"
+  },
+  {
+    "city": "Sầm Sơn",
+    "city_ascii": "Sam Son",
+    "admin_name": "Thanh Hóa",
+    "lat": "19.7333",
+    "lng": "105.9000",
+    "id": "1704851701"
+  },
+  {
+    "city": "Buôn Hồ",
+    "city_ascii": "Buon Ho",
+    "admin_name": "Đắk Lắk",
+    "lat": "12.8544",
+    "lng": "108.2703",
+    "id": "1704467576"
+  },
+  {
+    "city": "Bến Tre",
+    "city_ascii": "Ben Tre",
+    "admin_name": "Bến Tre",
+    "lat": "10.2333",
+    "lng": "106.3833",
+    "id": "1704108909"
+  },
+  {
+    "city": "Cai Lậy",
+    "city_ascii": "Cai Lay",
+    "admin_name": "Tiền Giang",
+    "lat": "10.4170",
+    "lng": "106.0830",
+    "id": "1704031131"
+  },
+  {
+    "city": "Tam Kỳ",
+    "city_ascii": "Tam Ky",
+    "admin_name": "Quảng Nam",
+    "lat": "15.5667",
+    "lng": "108.4833",
+    "id": "1704410655"
+  },
+  {
+    "city": "Chơn Thành",
+    "city_ascii": "Chon Thanh",
+    "admin_name": "Bình Phước",
+    "lat": "11.4292",
+    "lng": "106.6572",
+    "id": "1704230089"
+  },
+  {
+    "city": "Thành Phố Uông Bí",
+    "city_ascii": "Thanh Pho Uong Bi",
+    "admin_name": "Quảng Ninh",
+    "lat": "21.0356",
+    "lng": "106.7644",
+    "id": "1704196737"
+  },
+  {
+    "city": "Kỳ Anh",
+    "city_ascii": "Ky Anh",
+    "admin_name": "Hà Tĩnh",
+    "lat": "18.0678",
+    "lng": "106.2967",
+    "id": "1704418258"
+  },
+  {
+    "city": "Đông Hòa",
+    "city_ascii": "Dong Hoa",
+    "admin_name": "Phú Yên",
+    "lat": "12.9931",
+    "lng": "109.3314",
+    "id": "1704439726"
+  },
+  {
+    "city": "Hưng Yên",
+    "city_ascii": "Hung Yen",
+    "admin_name": "Hưng Yên",
+    "lat": "20.6464",
+    "lng": "106.0511",
+    "id": "1704000203"
+  },
+  {
+    "city": "Móng Cái",
+    "city_ascii": "Mong Cai",
+    "admin_name": "Quảng Ninh",
+    "lat": "21.5333",
+    "lng": "107.9667",
+    "id": "1704988589"
+  },
+  {
+    "city": "La Gi",
+    "city_ascii": "La Gi",
+    "admin_name": "Bình Thuận",
+    "lat": "10.6600",
+    "lng": "107.7719",
+    "id": "1704637606"
+  },
+  {
+    "city": "Sơn La",
+    "city_ascii": "Son La",
+    "admin_name": "Sơn La",
+    "lat": "21.3270",
+    "lng": "103.9141",
+    "id": "1704957010"
+  },
+  {
+    "city": "Bình Hòa",
+    "city_ascii": "Binh Hoa",
+    "admin_name": "Bình Dương",
+    "lat": "10.9061",
+    "lng": "106.7308",
+    "id": "1704063856"
+  },
+  {
+    "city": "Sông Cầu",
+    "city_ascii": "Song Cau",
+    "admin_name": "Phú Yên",
+    "lat": "13.5500",
+    "lng": "109.2000",
+    "id": "1704267349"
+  },
+  {
+    "city": "Bình Long",
+    "city_ascii": "Binh Long",
+    "admin_name": "Bình Phước",
+    "lat": "11.6527",
+    "lng": "106.6093",
+    "id": "1704953411"
+  },
+  {
+    "city": "Tuyên Quang",
+    "city_ascii": "Tuyen Quang",
+    "admin_name": "Tuyên Quang",
+    "lat": "21.8167",
+    "lng": "105.2167",
+    "id": "1704662313"
+  },
+  {
+    "city": "Vị Thanh",
+    "city_ascii": "Vi Thanh",
+    "admin_name": "Hậu Giang",
+    "lat": "9.7833",
+    "lng": "105.4667",
+    "id": "1704210026"
+  },
+  {
+    "city": "Tam Điệp",
+    "city_ascii": "Tam Diep",
+    "admin_name": "Ninh Bình",
+    "lat": "20.1556",
+    "lng": "105.9181",
+    "id": "1704023759"
+  },
+  {
+    "city": "Châu Đốc",
+    "city_ascii": "Chau Doc",
+    "admin_name": "An Giang",
+    "lat": "10.7000",
+    "lng": "105.1167",
+    "id": "1704020910"
+  },
+  {
+    "city": "Ngã Bảy",
+    "city_ascii": "Nga Bay",
+    "admin_name": "Hậu Giang",
+    "lat": "9.8164",
+    "lng": "105.8197",
+    "id": "1704893699"
+  },
+  {
+    "city": "Hồng Ngự",
+    "city_ascii": "Hong Ngu",
+    "admin_name": "Đồng Tháp",
+    "lat": "10.8330",
+    "lng": "105.2830",
+    "id": "1704773710"
+  },
+  {
+    "city": "Bỉm Sơn",
+    "city_ascii": "Bim Son",
+    "admin_name": "Thanh Hóa",
+    "lat": "20.0781",
+    "lng": "105.8603",
+    "id": "1704331479"
+  },
+  {
+    "city": "Yên Bái",
+    "city_ascii": "Yen Bai",
+    "admin_name": "Yên Bái",
+    "lat": "21.7000",
+    "lng": "104.8667",
+    "id": "1704249231"
+  },
+  {
+    "city": "Hà Tiên",
+    "city_ascii": "Ha Tien",
+    "admin_name": "Kiến Giang",
+    "lat": "10.3833",
+    "lng": "104.4833",
+    "id": "1704031961"
+  },
+  {
+    "city": "Hương Thủy",
+    "city_ascii": "Huong Thuy",
+    "admin_name": "Thừa Thiên-Huế",
+    "lat": "16.4000",
+    "lng": "107.6889",
+    "id": "1704272342"
+  },
+  {
+    "city": "Phú Thọ",
+    "city_ascii": "Phu Tho",
+    "admin_name": "Phú Thọ",
+    "lat": "21.4003",
+    "lng": "105.2225",
+    "id": "1704657729"
+  },
+  {
+    "city": "Điện Biên Phủ",
+    "city_ascii": "Dien Bien Phu",
+    "admin_name": "Điện Biên",
+    "lat": "21.3833",
+    "lng": "103.0167",
+    "id": "1704081536"
+  },
+  {
+    "city": "Phúc Yên",
+    "city_ascii": "Phuc Yen",
+    "admin_name": "Vĩnh Phúc",
+    "lat": "21.2333",
+    "lng": "105.7000",
+    "id": "1704818055"
+  },
+  {
+    "city": "An Khê",
+    "city_ascii": "An Khe",
+    "admin_name": "Gia Lai",
+    "lat": "13.9531",
+    "lng": "108.6569",
+    "id": "1704968278"
+  },
+  {
+    "city": "Ninh Hòa",
+    "city_ascii": "Ninh Hoa",
+    "admin_name": "Khánh Hòa",
+    "lat": "12.4917",
+    "lng": "109.1258",
+    "id": "1704108515"
+  },
+  {
+    "city": "Dĩ An",
+    "city_ascii": "Di An",
+    "admin_name": "Bình Dương",
+    "lat": "10.9039",
+    "lng": "106.7678",
+    "id": "1704040724"
+  },
+  {
+    "city": "Cao Bằng",
+    "city_ascii": "Cao Bang",
+    "admin_name": "Cao Bằng",
+    "lat": "22.6667",
+    "lng": "106.2583",
+    "id": "1704552735"
+  },
+  {
+    "city": "Hương Trà",
+    "city_ascii": "Huong Tra",
+    "admin_name": "Thừa Thiên-Huế",
+    "lat": "16.4675",
+    "lng": "107.5181",
+    "id": "1704200603"
+  },
+  {
+    "city": "Long Mỹ",
+    "city_ascii": "Long My",
+    "admin_name": "Hậu Giang",
+    "lat": "9.6814",
+    "lng": "105.5708",
+    "id": "1704531917"
+  },
+  {
+    "city": "Phú Quốc",
+    "city_ascii": "Phu Quoc",
+    "admin_name": "Kiến Giang",
+    "lat": "10.2289",
+    "lng": "103.9669",
+    "id": "1704992616"
+  },
+  {
+    "city": "Nghĩa Lộ",
+    "city_ascii": "Nghia Lo",
+    "admin_name": "Yên Bái",
+    "lat": "21.5758",
+    "lng": "104.5192",
+    "id": "1704571558"
+  },
+  {
+    "city": "Tân Phước Khánh",
+    "city_ascii": "Tan Phuoc Khanh",
+    "admin_name": "Bình Dương",
+    "lat": "11.0000",
+    "lng": "106.7167",
+    "id": "1704051647"
+  },
+  {
+    "city": "Gia Nghĩa",
+    "city_ascii": "Gia Nghia",
+    "admin_name": "Đắk Nông",
+    "lat": "11.9833",
+    "lng": "107.7000",
+    "id": "1704361005"
+  },
+  {
+    "city": "Hà Giang",
+    "city_ascii": "Ha Giang",
+    "admin_name": "Hà Giang",
+    "lat": "22.8333",
+    "lng": "104.9833",
+    "id": "1704495953"
+  },
+  {
+    "city": "A Yun Pa",
+    "city_ascii": "A Yun Pa",
+    "admin_name": "Gia Lai",
+    "lat": "13.3939",
+    "lng": "108.4408",
+    "id": "1704945771"
+  },
+  {
+    "city": "Sông Đốc",
+    "city_ascii": "Song Doc",
+    "admin_name": "Cà Mau",
+    "lat": "9.0333",
+    "lng": "104.8167",
+    "id": "1704045343"
+  },
+  {
+    "city": "Duyên Hải",
+    "city_ascii": "Duyen Hai",
+    "admin_name": "Trà Vinh",
+    "lat": "9.6331",
+    "lng": "106.4975",
+    "id": "1704264895"
+  },
+  {
+    "city": "Phan Rí Cửa",
+    "city_ascii": "Phan Ri Cua",
+    "admin_name": "Bình Thuận",
+    "lat": "11.1739",
+    "lng": "108.5661",
+    "id": "1704182533"
+  },
+  {
+    "city": "Bắc Kạn",
+    "city_ascii": "Bac Kan",
+    "admin_name": "Bắc Kạn",
+    "lat": "22.1333",
+    "lng": "105.8333",
+    "id": "1704000217"
+  },
+  {
+    "city": "Lai Châu",
+    "city_ascii": "Lai Chau",
+    "admin_name": "Lai Châu",
+    "lat": "22.3992",
+    "lng": "103.4392",
+    "id": "1704983526"
+  },
+  {
+    "city": "Hố Nai",
+    "city_ascii": "Ho Nai",
+    "admin_name": "Đồng Nai",
+    "lat": "10.9725",
+    "lng": "106.8789",
+    "id": "1704997098"
+  },
+  {
+    "city": "Tam Hiệp",
+    "city_ascii": "Tam Hiep",
+    "admin_name": "Đồng Nai",
+    "lat": "10.9497",
+    "lng": "106.8575",
+    "id": "1704536698"
+  },
+  {
+    "city": "Mỹ Hòa",
+    "city_ascii": "My Hoa",
+    "admin_name": "An Giang",
+    "lat": "10.3655",
+    "lng": "105.4011",
+    "id": "1704017086"
+  },
+  {
+    "city": "Bửu Long",
+    "city_ascii": "Buu Long",
+    "admin_name": "Đồng Nai",
+    "lat": "10.9600",
+    "lng": "106.7967",
+    "id": "1704059272"
+  },
+  {
+    "city": "Bai Chay",
+    "city_ascii": "Bai Chay",
+    "admin_name": "Quảng Ninh",
+    "lat": "20.9658",
+    "lng": "107.0347",
+    "id": "1704438178"
+  },
+  {
+    "city": "Thuận Tiến",
+    "city_ascii": "Thuan Tien",
+    "admin_name": "Vĩnh Long",
+    "lat": "10.0894",
+    "lng": "105.8281",
+    "id": "1704059515"
+  },
+  {
+    "city": "Phú Mỹ",
+    "city_ascii": "Phu My",
+    "admin_name": "Bà Rịa-Vũng Tàu",
+    "lat": "10.5906",
+    "lng": "107.0481",
+    "id": "1704062444"
+  },
+  {
+    "city": "Di Linh",
+    "city_ascii": "Di Linh",
+    "admin_name": "Lâm Đồng",
+    "lat": "11.5778",
+    "lng": "108.0751",
+    "id": "1704189593"
+  },
+  {
+    "city": "Long Thành",
+    "city_ascii": "Long Thanh",
+    "admin_name": "Đồng Nai",
+    "lat": "10.8667",
+    "lng": "106.9167",
+    "id": "1704003595"
+  },
+  {
+    "city": "Ấp Khánh Hòa",
+    "city_ascii": "Ap Khanh Hoa",
+    "admin_name": "An Giang",
+    "lat": "10.6333",
+    "lng": "105.2167",
+    "id": "1704618066"
+  },
+  {
+    "city": "Kiên Lương",
+    "city_ascii": "Kien Luong",
+    "admin_name": "Kiến Giang",
+    "lat": "10.2856",
+    "lng": "104.6444",
+    "id": "1704518749"
+  },
+  {
+    "city": "Buôn Trấp",
+    "city_ascii": "Buon Trap",
+    "admin_name": "Đắk Lắk",
+    "lat": "12.4833",
+    "lng": "108.0167",
+    "id": "1704599387"
+  },
+  {
+    "city": "Bình Hòa",
+    "city_ascii": "Binh Hoa",
+    "admin_name": "Bình Dương",
+    "lat": "10.9353",
+    "lng": "106.8614",
+    "id": "1704275105"
+  },
+  {
+    "city": "Quảng Trị",
+    "city_ascii": "Quang Tri",
+    "admin_name": "Quảng Trị",
+    "lat": "16.7469",
+    "lng": "107.1940",
+    "id": "1704089491"
+  },
+  {
+    "city": "Ấp Phú Mỹ",
+    "city_ascii": "Ap Phu My",
+    "admin_name": "Sóc Trăng",
+    "lat": "9.7500",
+    "lng": "106.0000",
+    "id": "1704694419"
+  },
+  {
+    "city": "Thuân An",
+    "city_ascii": "Thuan An",
+    "admin_name": "Thừa Thiên-Huế",
+    "lat": "16.5489",
+    "lng": "107.6436",
+    "id": "1704000352"
+  },
+  {
+    "city": "Chợ Phước Hải",
+    "city_ascii": "Cho Phuoc Hai",
+    "admin_name": "Bà Rịa-Vũng Tàu",
+    "lat": "10.4283",
+    "lng": "107.2953",
+    "id": "1704395205"
+  },
+  {
+    "city": "Tân Phong",
+    "city_ascii": "Tan Phong",
+    "admin_name": "Thanh Hóa",
+    "lat": "19.7322",
+    "lng": "105.7817",
+    "id": "1704432456"
+  },
+  {
+    "city": "Mường Lay",
+    "city_ascii": "Muong Lay",
+    "admin_name": "Điện Biên",
+    "lat": "22.0678",
+    "lng": "103.1506",
+    "id": "1704853058"
+  },
+  {
+    "city": "Ấp Khánh Hưng",
+    "city_ascii": "Ap Khanh Hung",
+    "admin_name": "Cần Thơ",
+    "lat": "10.2000",
+    "lng": "105.8500",
+    "id": "1704912903"
+  },
+  {
+    "city": "Bình Minh",
+    "city_ascii": "Binh Minh",
+    "admin_name": "Vĩnh Long",
+    "lat": "10.0961",
+    "lng": "105.7894",
+    "id": "1704182594"
+  },
+  {
+    "city": "Thị Trấn Ngải Giao",
+    "city_ascii": "Thi Tran Ngai Giao",
+    "admin_name": "Bà Rịa-Vũng Tàu",
+    "lat": "10.6406",
+    "lng": "107.2478",
+    "id": "1704244459"
+  },
+  {
+    "city": "Hương Canh",
+    "city_ascii": "Huong Canh",
+    "admin_name": "Vĩnh Phúc",
+    "lat": "21.2833",
+    "lng": "105.6500",
+    "id": "1704639991"
+  },
+  {
+    "city": "Mông Dương",
+    "city_ascii": "Mong Duong",
+    "admin_name": "Quảng Ninh",
+    "lat": "21.0553",
+    "lng": "107.3431",
+    "id": "1704869193"
+  },
+  {
+    "city": "Mỹ Lương",
+    "city_ascii": "My Luong",
+    "admin_name": "Hà Nội",
+    "lat": "20.8667",
+    "lng": "105.6667",
+    "id": "1704740855"
+  },
+  {
+    "city": "Hiệp Hòa",
+    "city_ascii": "Hiep Hoa",
+    "admin_name": "Đồng Nai",
+    "lat": "10.9289",
+    "lng": "106.8378",
+    "id": "1704506831"
+  },
+  {
+    "city": "Bo",
+    "city_ascii": "Bo",
+    "admin_name": "Hòa Bình",
+    "lat": "20.6736",
+    "lng": "105.5311",
+    "id": "1704407394"
+  },
+  {
+    "city": "Tân Vạn",
+    "city_ascii": "Tan Van",
+    "admin_name": "Bình Dương",
+    "lat": "10.9119",
+    "lng": "106.8261",
+    "id": "1704433068"
+  },
+  {
+    "city": "Khe Sanh",
+    "city_ascii": "Khe Sanh",
+    "admin_name": "Quảng Trị",
+    "lat": "16.6193",
+    "lng": "106.7305",
+    "id": "1704133278"
+  },
+  {
+    "city": "Hòa Thượng",
+    "city_ascii": "Hoa Thuong",
+    "admin_name": "Thái Nguyên",
+    "lat": "21.6472",
+    "lng": "105.8278",
+    "id": "1704496519"
+  },
+  {
+    "city": "Ba Chúc",
+    "city_ascii": "Ba Chuc",
+    "admin_name": "An Giang",
+    "lat": "10.5000",
+    "lng": "104.9000",
+    "id": "1704637528"
+  },
+  {
+    "city": "An Thành B",
+    "city_ascii": "An Thanh B",
+    "admin_name": "Bến Tre",
+    "lat": "10.1958",
+    "lng": "106.3314",
+    "id": "1704953278"
+  },
+  {
+    "city": "Chợ Mới",
+    "city_ascii": "Cho Moi",
+    "admin_name": "An Giang",
+    "lat": "10.5500",
+    "lng": "105.4000",
+    "id": "1704969130"
+  },
+  {
+    "city": "Ấp Bình Thành",
+    "city_ascii": "Ap Binh Thanh",
+    "admin_name": "Kiến Giang",
+    "lat": "10.1833",
+    "lng": "105.2000",
+    "id": "1704154343"
+  },
+  {
+    "city": "Ấp Phú Hải",
+    "city_ascii": "Ap Phu Hai",
+    "admin_name": "Bình Thuận",
+    "lat": "11.1667",
+    "lng": "108.5667",
+    "id": "1704618914"
+  },
+  {
+    "city": "Phước Long",
+    "city_ascii": "Phuoc Long",
+    "admin_name": "Bạc Liêu",
+    "lat": "9.4194",
+    "lng": "105.3842",
+    "id": "1704723610"
+  },
+  {
+    "city": "Cửa Lô",
+    "city_ascii": "Cua Lo",
+    "admin_name": "Nghệ An",
+    "lat": "18.8167",
+    "lng": "105.7167",
+    "id": "1704860158"
+  },
+  {
+    "city": "Chợ Lách",
+    "city_ascii": "Cho Lach",
+    "admin_name": "Bến Tre",
+    "lat": "10.2647",
+    "lng": "106.1300",
+    "id": "1704967577"
+  },
+  {
+    "city": "Mương Theng",
+    "city_ascii": "Muong Theng",
+    "admin_name": "Điện Biên",
+    "lat": "21.3869",
+    "lng": "103.0156",
+    "id": "1704017022"
+  },
+  {
+    "city": "Xuân Trùng",
+    "city_ascii": "Xuan Trung",
+    "admin_name": "Phú Thọ",
+    "lat": "21.0500",
+    "lng": "105.2833",
+    "id": "1704809056"
+  },
+  {
+    "city": "Hàng Trạm",
+    "city_ascii": "Hang Tram",
+    "admin_name": "Hòa Bình",
+    "lat": "20.3944",
+    "lng": "105.6222",
+    "id": "1704292651"
+  },
+  {
+    "city": "An Phú",
+    "city_ascii": "An Phu",
+    "admin_name": "An Giang",
+    "lat": "10.8500",
+    "lng": "105.0833",
+    "id": "1704682983"
+  },
+  {
+    "city": "Thanh Xuân",
+    "city_ascii": "Thanh Xuan",
+    "admin_name": "Bến Tre",
+    "lat": "10.2308",
+    "lng": "106.3253",
+    "id": "1704171355"
+  },
+  {
+    "city": "Kiến Giang",
+    "city_ascii": "Kien Giang",
+    "admin_name": "Quảng Bình",
+    "lat": "17.2250",
+    "lng": "106.7917",
+    "id": "1704732074"
+  },
+  {
+    "city": "Thạnh Phú",
+    "city_ascii": "Thanh Phu",
+    "admin_name": "Bến Tre",
+    "lat": "9.9539",
+    "lng": "106.5069",
+    "id": "1704975971"
+  },
+  {
+    "city": "Tân Sơn",
+    "city_ascii": "Tan Son",
+    "admin_name": "Bắc Giang",
+    "lat": "21.2600",
+    "lng": "106.2681",
+    "id": "1704224355"
+  },
+  {
+    "city": "Thị Trấn Mậu A",
+    "city_ascii": "Thi Tran Mau A",
+    "admin_name": "Yên Bái",
+    "lat": "21.8781",
+    "lng": "104.6956",
+    "id": "1704902932"
+  },
+  {
+    "city": "An Châu",
+    "city_ascii": "An Chau",
+    "admin_name": "Bắc Giang",
+    "lat": "21.3333",
+    "lng": "106.8500",
+    "id": "1704328955"
+  },
+  {
+    "city": "Ngọc Sơn",
+    "city_ascii": "Ngoc Son",
+    "admin_name": "Bắc Giang",
+    "lat": "21.3500",
+    "lng": "106.0000",
+    "id": "1704988443"
+  },
+  {
+    "city": "Sa Pa",
+    "city_ascii": "Sa Pa",
+    "admin_name": "Lào Cai",
+    "lat": "22.3356",
+    "lng": "103.8419",
+    "id": "1704426002"
+  },
+  {
+    "city": "Nhân Trạch",
+    "city_ascii": "Nhan Trach",
+    "admin_name": "Nghệ An",
+    "lat": "19.0500",
+    "lng": "105.5500",
+    "id": "1704211423"
+  },
+  {
+    "city": "Thị Trấn Đồng Đăng",
+    "city_ascii": "Thi Tran Dong Dang",
+    "admin_name": "Lạng Sơn",
+    "lat": "21.9458",
+    "lng": "106.6967",
+    "id": "1704283725"
+  },
+  {
+    "city": "Ấp Tân Ngãi",
+    "city_ascii": "Ap Tan Ngai",
+    "admin_name": "Bến Tre",
+    "lat": "10.2369",
+    "lng": "106.2878",
+    "id": "1704372907"
+  },
+  {
+    "city": "Côn Đảo",
+    "city_ascii": "Con Dao",
+    "admin_name": "Bà Rịa-Vũng Tàu",
+    "lat": "8.6931",
+    "lng": "106.5767",
+    "id": "1704554193"
+  },
+  {
+    "city": "Luân Châu",
+    "city_ascii": "Luan Chau",
+    "admin_name": "Điện Biên",
+    "lat": "21.7400",
+    "lng": "103.3430",
+    "id": "1704201464"
+  },
+  {
+    "city": "Thành Phố Bà Rịa",
+    "city_ascii": "Thanh Pho Ba Ria",
+    "admin_name": "Bà Rịa-Vũng Tàu",
+    "lat": "10.4963",
+    "lng": "107.1685",
+    "id": "1704000020"
+  },
+  {
+    "city": "Kon Tum",
+    "city_ascii": "Kon Tum",
+    "admin_name": "Kon Tum",
+    "lat": "14.3545",
+    "lng": "108.0076",
+    "id": "1704988146"
+  },
+  {
+    "city": "Đà Nẵng",
+    "city_ascii": "Da Nang",
+    "admin_name": "Đà Nẵng",
+    "lat": "16.0748",
+    "lng": "108.2240",
+    "id": "1704949870"
+  }
+]

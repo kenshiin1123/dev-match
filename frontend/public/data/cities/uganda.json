@@ -1,0 +1,1490 @@
+[
+  {
+    "city": "Kampala",
+    "city_ascii": "Kampala",
+    "admin_name": "Kampala",
+    "lat": "0.3136",
+    "lng": "32.5811",
+    "id": "1800406299"
+  },
+  {
+    "city": "Nansana",
+    "city_ascii": "Nansana",
+    "admin_name": "Wakiso",
+    "lat": "0.3639",
+    "lng": "32.5286",
+    "id": "1800032516"
+  },
+  {
+    "city": "Jinja",
+    "city_ascii": "Jinja",
+    "admin_name": "Jinja",
+    "lat": "0.4233",
+    "lng": "33.2039",
+    "id": "1800632405"
+  },
+  {
+    "city": "Masaka",
+    "city_ascii": "Masaka",
+    "admin_name": "Masaka",
+    "lat": "-0.3411",
+    "lng": "31.7361",
+    "id": "1800731885"
+  },
+  {
+    "city": "Kasangati",
+    "city_ascii": "Kasangati",
+    "admin_name": "Wakiso",
+    "lat": "0.4378",
+    "lng": "32.6025",
+    "id": "1800208674"
+  },
+  {
+    "city": "Mbarara",
+    "city_ascii": "Mbarara",
+    "admin_name": "Mbarara",
+    "lat": "-0.6133",
+    "lng": "30.6583",
+    "id": "1800554483"
+  },
+  {
+    "city": "Njeru",
+    "city_ascii": "Njeru",
+    "admin_name": "Buikwe",
+    "lat": "0.4311",
+    "lng": "33.1478",
+    "id": "1800578691"
+  },
+  {
+    "city": "Mukono",
+    "city_ascii": "Mukono",
+    "admin_name": "Mukono",
+    "lat": "0.3533",
+    "lng": "32.7553",
+    "id": "1800864322"
+  },
+  {
+    "city": "Gulu",
+    "city_ascii": "Gulu",
+    "admin_name": "Gulu",
+    "lat": "2.7817",
+    "lng": "32.2992",
+    "id": "1800406007"
+  },
+  {
+    "city": "Hoima",
+    "city_ascii": "Hoima",
+    "admin_name": "Hoima",
+    "lat": "1.4319",
+    "lng": "31.3525",
+    "id": "1800806239"
+  },
+  {
+    "city": "Kasese",
+    "city_ascii": "Kasese",
+    "admin_name": "Kasese",
+    "lat": "0.1867",
+    "lng": "30.0881",
+    "id": "1800924936"
+  },
+  {
+    "city": "Lugazi",
+    "city_ascii": "Lugazi",
+    "admin_name": "Buikwe",
+    "lat": "0.3833",
+    "lng": "32.9242",
+    "id": "1800606876"
+  },
+  {
+    "city": "Masindi",
+    "city_ascii": "Masindi",
+    "admin_name": "Masindi",
+    "lat": "1.6836",
+    "lng": "31.7222",
+    "id": "1800409287"
+  },
+  {
+    "city": "Mityana",
+    "city_ascii": "Mityana",
+    "admin_name": "Mityana",
+    "lat": "0.4006",
+    "lng": "32.0422",
+    "id": "1800284151"
+  },
+  {
+    "city": "Mubende",
+    "city_ascii": "Mubende",
+    "admin_name": "Mubende",
+    "lat": "0.5575",
+    "lng": "31.3950",
+    "id": "1800105368"
+  },
+  {
+    "city": "Lira",
+    "city_ascii": "Lira",
+    "admin_name": "Lira",
+    "lat": "2.2472",
+    "lng": "32.9000",
+    "id": "1800877735"
+  },
+  {
+    "city": "Mbale",
+    "city_ascii": "Mbale",
+    "admin_name": "Mbale",
+    "lat": "1.0806",
+    "lng": "34.1750",
+    "id": "1800265900"
+  },
+  {
+    "city": "Wakiso",
+    "city_ascii": "Wakiso",
+    "admin_name": "Wakiso",
+    "lat": "0.3981",
+    "lng": "32.4781",
+    "id": "1800102352"
+  },
+  {
+    "city": "Entebbe",
+    "city_ascii": "Entebbe",
+    "admin_name": "Wakiso",
+    "lat": "0.0500",
+    "lng": "32.4600",
+    "id": "1800535915"
+  },
+  {
+    "city": "Kireka",
+    "city_ascii": "Kireka",
+    "admin_name": "Wakiso",
+    "lat": "0.3467",
+    "lng": "32.5000",
+    "id": "1800730465"
+  },
+  {
+    "city": "Kamuli",
+    "city_ascii": "Kamuli",
+    "admin_name": "Kamuli",
+    "lat": "0.9450",
+    "lng": "33.1250",
+    "id": "1800849421"
+  },
+  {
+    "city": "Apac",
+    "city_ascii": "Apac",
+    "admin_name": "Apac",
+    "lat": "1.9850",
+    "lng": "32.5350",
+    "id": "1800174030"
+  },
+  {
+    "city": "Busia",
+    "city_ascii": "Busia",
+    "admin_name": "Busia",
+    "lat": "0.4669",
+    "lng": "34.0900",
+    "id": "1800460306"
+  },
+  {
+    "city": "Arua",
+    "city_ascii": "Arua",
+    "admin_name": "Arua",
+    "lat": "3.0353",
+    "lng": "30.9108",
+    "id": "1800812511"
+  },
+  {
+    "city": "Soroti",
+    "city_ascii": "Soroti",
+    "admin_name": "Soroti",
+    "lat": "1.7150",
+    "lng": "33.6111",
+    "id": "1800434608"
+  },
+  {
+    "city": "Fort Portal",
+    "city_ascii": "Fort Portal",
+    "admin_name": "Kabarole",
+    "lat": "0.6544",
+    "lng": "30.2744",
+    "id": "1800139086"
+  },
+  {
+    "city": "Mpondwe",
+    "city_ascii": "Mpondwe",
+    "admin_name": "Kasese",
+    "lat": "0.0400",
+    "lng": "29.7250",
+    "id": "1800231834"
+  },
+  {
+    "city": "Nyenga",
+    "city_ascii": "Nyenga",
+    "admin_name": "Buikwe",
+    "lat": "0.3800",
+    "lng": "33.1500",
+    "id": "1800123019"
+  },
+  {
+    "city": "Iganga",
+    "city_ascii": "Iganga",
+    "admin_name": "Iganga",
+    "lat": "0.6150",
+    "lng": "33.4850",
+    "id": "1800987671"
+  },
+  {
+    "city": "Kabale",
+    "city_ascii": "Kabale",
+    "admin_name": "Kabale",
+    "lat": "-1.2500",
+    "lng": "29.9900",
+    "id": "1800408751"
+  },
+  {
+    "city": "Kyaliwajjala",
+    "city_ascii": "Kyaliwajjala",
+    "admin_name": "Wakiso",
+    "lat": "0.3800",
+    "lng": "32.6467",
+    "id": "1800975843"
+  },
+  {
+    "city": "Mpigi",
+    "city_ascii": "Mpigi",
+    "admin_name": "Mpigi",
+    "lat": "0.2300",
+    "lng": "32.3300",
+    "id": "1800370948"
+  },
+  {
+    "city": "Luwero",
+    "city_ascii": "Luwero",
+    "admin_name": "Luwero",
+    "lat": "0.8331",
+    "lng": "32.4994",
+    "id": "1800067821"
+  },
+  {
+    "city": "Yumbe",
+    "city_ascii": "Yumbe",
+    "admin_name": "Yumbe",
+    "lat": "3.4650",
+    "lng": "31.2450",
+    "id": "1800297508"
+  },
+  {
+    "city": "Kitgum",
+    "city_ascii": "Kitgum",
+    "admin_name": "Kitgum",
+    "lat": "3.2889",
+    "lng": "32.8778",
+    "id": "1800380883"
+  },
+  {
+    "city": "Bushenyi",
+    "city_ascii": "Bushenyi",
+    "admin_name": "Bushenyi",
+    "lat": "-0.5417",
+    "lng": "30.1878",
+    "id": "1800740334"
+  },
+  {
+    "city": "Pallisa",
+    "city_ascii": "Pallisa",
+    "admin_name": "Pallisa",
+    "lat": "1.1675",
+    "lng": "33.7100",
+    "id": "1800214906"
+  },
+  {
+    "city": "Tororo",
+    "city_ascii": "Tororo",
+    "admin_name": "Tororo",
+    "lat": "0.6928",
+    "lng": "34.1811",
+    "id": "1800214991"
+  },
+  {
+    "city": "Nebbi",
+    "city_ascii": "Nebbi",
+    "admin_name": "Nebbi",
+    "lat": "2.4792",
+    "lng": "31.0900",
+    "id": "1800598019"
+  },
+  {
+    "city": "Ishaka",
+    "city_ascii": "Ishaka",
+    "admin_name": "Buhweju",
+    "lat": "-0.5450",
+    "lng": "30.1383",
+    "id": "1800035927"
+  },
+  {
+    "city": "Koboko",
+    "city_ascii": "Koboko",
+    "admin_name": "Koboko",
+    "lat": "3.4100",
+    "lng": "30.9600",
+    "id": "1800307801"
+  },
+  {
+    "city": "Rukungiri",
+    "city_ascii": "Rukungiri",
+    "admin_name": "Rukungiri",
+    "lat": "-0.7900",
+    "lng": "29.9250",
+    "id": "1800982268"
+  },
+  {
+    "city": "Adjumani",
+    "city_ascii": "Adjumani",
+    "admin_name": "Adjumani",
+    "lat": "3.3772",
+    "lng": "31.7906",
+    "id": "1800855823"
+  },
+  {
+    "city": "Bugiri",
+    "city_ascii": "Bugiri",
+    "admin_name": "Bugiri",
+    "lat": "0.5694",
+    "lng": "33.7486",
+    "id": "1800917331"
+  },
+  {
+    "city": "Isingiro",
+    "city_ascii": "Isingiro",
+    "admin_name": "Isingiro",
+    "lat": "-0.7950",
+    "lng": "30.8153",
+    "id": "1800843586"
+  },
+  {
+    "city": "Paidha",
+    "city_ascii": "Paidha",
+    "admin_name": "Zombo",
+    "lat": "2.4167",
+    "lng": "30.9875",
+    "id": "1800599761"
+  },
+  {
+    "city": "Bugembe",
+    "city_ascii": "Bugembe",
+    "admin_name": "Jinja",
+    "lat": "0.4675",
+    "lng": "33.2414",
+    "id": "1800191347"
+  },
+  {
+    "city": "Kakira",
+    "city_ascii": "Kakira",
+    "admin_name": "Jinja",
+    "lat": "0.5036",
+    "lng": "33.2825",
+    "id": "1800697790"
+  },
+  {
+    "city": "Kiryandongo",
+    "city_ascii": "Kiryandongo",
+    "admin_name": "Kiryandongo",
+    "lat": "1.9525",
+    "lng": "32.1389",
+    "id": "1800154303"
+  },
+  {
+    "city": "Kalisizo",
+    "city_ascii": "Kalisizo",
+    "admin_name": "Rakai",
+    "lat": "-0.5350",
+    "lng": "31.6225",
+    "id": "1800028081"
+  },
+  {
+    "city": "Ibanda",
+    "city_ascii": "Ibanda",
+    "admin_name": "Ibanda",
+    "lat": "-0.1347",
+    "lng": "30.4950",
+    "id": "1800636734"
+  },
+  {
+    "city": "Wobulenzi",
+    "city_ascii": "Wobulenzi",
+    "admin_name": "Luwero",
+    "lat": "0.7200",
+    "lng": "32.5300",
+    "id": "1800113774"
+  },
+  {
+    "city": "Kayunga",
+    "city_ascii": "Kayunga",
+    "admin_name": "Kayunga",
+    "lat": "0.7033",
+    "lng": "32.9036",
+    "id": "1800678001"
+  },
+  {
+    "city": "Kamonkoli",
+    "city_ascii": "Kamonkoli",
+    "admin_name": "Budaka",
+    "lat": "1.0750",
+    "lng": "34.0956",
+    "id": "1800717956"
+  },
+  {
+    "city": "Kyegegwa",
+    "city_ascii": "Kyegegwa",
+    "admin_name": "Kyegegwa",
+    "lat": "0.4803",
+    "lng": "31.0547",
+    "id": "1800719333"
+  },
+  {
+    "city": "Budaka",
+    "city_ascii": "Budaka",
+    "admin_name": "Tororo",
+    "lat": "1.0167",
+    "lng": "33.9450",
+    "id": "1800999808"
+  },
+  {
+    "city": "Pakwach",
+    "city_ascii": "Pakwach",
+    "admin_name": "Pakwach",
+    "lat": "2.4619",
+    "lng": "31.4983",
+    "id": "1800204374"
+  },
+  {
+    "city": "Kakiri",
+    "city_ascii": "Kakiri",
+    "admin_name": "Wakiso",
+    "lat": "0.4200",
+    "lng": "32.3900",
+    "id": "1800154731"
+  },
+  {
+    "city": "Bombo",
+    "city_ascii": "Bombo",
+    "admin_name": "Luwero",
+    "lat": "0.5778",
+    "lng": "32.5450",
+    "id": "1800926068"
+  },
+  {
+    "city": "Kibuku",
+    "city_ascii": "Kibuku",
+    "admin_name": "Kibuku",
+    "lat": "1.0375",
+    "lng": "33.8400",
+    "id": "1800098358"
+  },
+  {
+    "city": "Abim",
+    "city_ascii": "Abim",
+    "admin_name": "Abim",
+    "lat": "2.7019",
+    "lng": "33.6600",
+    "id": "1800199589"
+  },
+  {
+    "city": "Lukaya",
+    "city_ascii": "Lukaya",
+    "admin_name": "Kalungu",
+    "lat": "-0.1508",
+    "lng": "31.8744",
+    "id": "1800343653"
+  },
+  {
+    "city": "Buwenge",
+    "city_ascii": "Buwenge",
+    "admin_name": "Jinja",
+    "lat": "0.6503",
+    "lng": "33.1703",
+    "id": "1800722293"
+  },
+  {
+    "city": "Butaleja",
+    "city_ascii": "Butaleja",
+    "admin_name": "Butaleja",
+    "lat": "0.9250",
+    "lng": "33.9450",
+    "id": "1800859767"
+  },
+  {
+    "city": "Kyenjojo",
+    "city_ascii": "Kyenjojo",
+    "admin_name": "Kyenjojo",
+    "lat": "0.6100",
+    "lng": "30.6442",
+    "id": "1800420914"
+  },
+  {
+    "city": "Buyende",
+    "city_ascii": "Buyende",
+    "admin_name": "Buyende",
+    "lat": "1.1475",
+    "lng": "33.1611",
+    "id": "1800567800"
+  },
+  {
+    "city": "Kotido",
+    "city_ascii": "Kotido",
+    "admin_name": "Kotido",
+    "lat": "3.0061",
+    "lng": "34.1125",
+    "id": "1800371285"
+  },
+  {
+    "city": "Kagadi",
+    "city_ascii": "Kagadi",
+    "admin_name": "Kagadi",
+    "lat": "0.9411",
+    "lng": "30.8108",
+    "id": "1800935733"
+  },
+  {
+    "city": "Moyo",
+    "city_ascii": "Moyo",
+    "admin_name": "Moyo",
+    "lat": "3.6504",
+    "lng": "31.7200",
+    "id": "1800294178"
+  },
+  {
+    "city": "Kiboga",
+    "city_ascii": "Kiboga",
+    "admin_name": "Kiboga",
+    "lat": "0.9200",
+    "lng": "31.7600",
+    "id": "1800749650"
+  },
+  {
+    "city": "Bundibugyo",
+    "city_ascii": "Bundibugyo",
+    "admin_name": "Bundibugyo",
+    "lat": "0.7125",
+    "lng": "30.0600",
+    "id": "1800500326"
+  },
+  {
+    "city": "Namayumba",
+    "city_ascii": "Namayumba",
+    "admin_name": "Wakiso",
+    "lat": "0.5281",
+    "lng": "32.2506",
+    "id": "1800060213"
+  },
+  {
+    "city": "Kigumba",
+    "city_ascii": "Kigumba",
+    "admin_name": "Kiryandongo",
+    "lat": "1.8150",
+    "lng": "32.0100",
+    "id": "1800399963"
+  },
+  {
+    "city": "Makulubita",
+    "city_ascii": "Makulubita",
+    "admin_name": "Luwero",
+    "lat": "0.5122",
+    "lng": "32.3664",
+    "id": "1800015106"
+  },
+  {
+    "city": "Malaba",
+    "city_ascii": "Malaba",
+    "admin_name": "Tororo",
+    "lat": "0.6444",
+    "lng": "34.2606",
+    "id": "1800629392"
+  },
+  {
+    "city": "Kihihi",
+    "city_ascii": "Kihihi",
+    "admin_name": "Kanungu",
+    "lat": "-0.7489",
+    "lng": "29.7003",
+    "id": "1800948354"
+  },
+  {
+    "city": "Dokolo",
+    "city_ascii": "Dokolo",
+    "admin_name": "Dokolo",
+    "lat": "1.9186",
+    "lng": "33.1700",
+    "id": "1800478941"
+  },
+  {
+    "city": "Kamwenge",
+    "city_ascii": "Kamwenge",
+    "admin_name": "Kamwenge",
+    "lat": "0.1861",
+    "lng": "30.4539",
+    "id": "1800010095"
+  },
+  {
+    "city": "Bukungu",
+    "city_ascii": "Bukungu",
+    "admin_name": "Buyende",
+    "lat": "1.4361",
+    "lng": "32.8686",
+    "id": "1800027499"
+  },
+  {
+    "city": "Sironko",
+    "city_ascii": "Sironko",
+    "admin_name": "Sironko",
+    "lat": "1.2306",
+    "lng": "34.2481",
+    "id": "1800419144"
+  },
+  {
+    "city": "Buikwe",
+    "city_ascii": "Buikwe",
+    "admin_name": "Buikwe",
+    "lat": "0.3442",
+    "lng": "33.0300",
+    "id": "1800745891"
+  },
+  {
+    "city": "Kikube",
+    "city_ascii": "Kikube",
+    "admin_name": "Kikuube",
+    "lat": "1.3328",
+    "lng": "31.2075",
+    "id": "1800164805"
+  },
+  {
+    "city": "Ngora",
+    "city_ascii": "Ngora",
+    "admin_name": "Ngora",
+    "lat": "1.4575",
+    "lng": "33.7764",
+    "id": "1800020551"
+  },
+  {
+    "city": "Kisoro",
+    "city_ascii": "Kisoro",
+    "admin_name": "Kisoro",
+    "lat": "-1.2850",
+    "lng": "29.6850",
+    "id": "1800685460"
+  },
+  {
+    "city": "Namayingo",
+    "city_ascii": "Namayingo",
+    "admin_name": "Namayingo",
+    "lat": "0.3450",
+    "lng": "33.8800",
+    "id": "1800364038"
+  },
+  {
+    "city": "Mayuge",
+    "city_ascii": "Mayuge",
+    "admin_name": "Mayuge",
+    "lat": "0.4578",
+    "lng": "33.4800",
+    "id": "1800300606"
+  },
+  {
+    "city": "Busolwe",
+    "city_ascii": "Busolwe",
+    "admin_name": "Butaleja",
+    "lat": "0.8492",
+    "lng": "33.9269",
+    "id": "1800677931"
+  },
+  {
+    "city": "Kaliro",
+    "city_ascii": "Kaliro",
+    "admin_name": "Kaliro",
+    "lat": "0.8944",
+    "lng": "33.4994",
+    "id": "1800764757"
+  },
+  {
+    "city": "Katosi",
+    "city_ascii": "Katosi",
+    "admin_name": "Mukono",
+    "lat": "0.1528",
+    "lng": "32.8014",
+    "id": "1800190825"
+  },
+  {
+    "city": "Ntungamo",
+    "city_ascii": "Ntungamo",
+    "admin_name": "Ntungamo",
+    "lat": "-0.8819",
+    "lng": "30.2653",
+    "id": "1800042819"
+  },
+  {
+    "city": "Moroto",
+    "city_ascii": "Moroto",
+    "admin_name": "Moroto",
+    "lat": "2.5300",
+    "lng": "34.6700",
+    "id": "1800980026"
+  },
+  {
+    "city": "Lyantonde",
+    "city_ascii": "Lyantonde",
+    "admin_name": "Lyantonde",
+    "lat": "-0.4069",
+    "lng": "31.1575",
+    "id": "1800896564"
+  },
+  {
+    "city": "Manafwa",
+    "city_ascii": "Manafwa",
+    "admin_name": "Manafwa",
+    "lat": "0.9564",
+    "lng": "34.2844",
+    "id": "1800257696"
+  },
+  {
+    "city": "Buwama",
+    "city_ascii": "Buwama",
+    "admin_name": "Mpigi",
+    "lat": "0.0633",
+    "lng": "32.1064",
+    "id": "1800499815"
+  },
+  {
+    "city": "Kimwanyi",
+    "city_ascii": "Kimwanyi",
+    "admin_name": "Wakiso",
+    "lat": "0.4533",
+    "lng": "32.6347",
+    "id": "1800179354"
+  },
+  {
+    "city": "Kyazanga",
+    "city_ascii": "Kyazanga",
+    "admin_name": "Lwengo",
+    "lat": "-0.3864",
+    "lng": "31.3186",
+    "id": "1800635316"
+  },
+  {
+    "city": "Lwengo",
+    "city_ascii": "Lwengo",
+    "admin_name": "Lwengo",
+    "lat": "-0.3911",
+    "lng": "31.4606",
+    "id": "1800583650"
+  },
+  {
+    "city": "Gombe",
+    "city_ascii": "Gombe",
+    "admin_name": "Butambala",
+    "lat": "0.1811",
+    "lng": "32.1142",
+    "id": "1800068643"
+  },
+  {
+    "city": "Kanungu",
+    "city_ascii": "Kanungu",
+    "admin_name": "Kanungu",
+    "lat": "-0.8969",
+    "lng": "29.7756",
+    "id": "1800715667"
+  },
+  {
+    "city": "Kalongo",
+    "city_ascii": "Kalongo",
+    "admin_name": "Agago",
+    "lat": "3.0400",
+    "lng": "33.3711",
+    "id": "1800772178"
+  },
+  {
+    "city": "Matuga",
+    "city_ascii": "Matuga",
+    "admin_name": "Wakiso",
+    "lat": "0.4603",
+    "lng": "32.5286",
+    "id": "1800696552"
+  },
+  {
+    "city": "Zombo",
+    "city_ascii": "Zombo",
+    "admin_name": "Zombo",
+    "lat": "2.5131",
+    "lng": "30.9081",
+    "id": "1800293674"
+  },
+  {
+    "city": "Mutukula",
+    "city_ascii": "Mutukula",
+    "admin_name": "Rakai",
+    "lat": "-0.9997",
+    "lng": "31.4167",
+    "id": "1800910667"
+  },
+  {
+    "city": "Hima",
+    "city_ascii": "Hima",
+    "admin_name": "Kasese",
+    "lat": "0.2906",
+    "lng": "30.1775",
+    "id": "1800860546"
+  },
+  {
+    "city": "Lumino",
+    "city_ascii": "Lumino",
+    "admin_name": "Busia",
+    "lat": "0.3250",
+    "lng": "33.9958",
+    "id": "1800145886"
+  },
+  {
+    "city": "Oyam",
+    "city_ascii": "Oyam",
+    "admin_name": "Oyam",
+    "lat": "2.2350",
+    "lng": "32.3850",
+    "id": "1800867016"
+  },
+  {
+    "city": "Busembatia",
+    "city_ascii": "Busembatia",
+    "admin_name": "Bugweri",
+    "lat": "0.7750",
+    "lng": "33.6250",
+    "id": "1800802251"
+  },
+  {
+    "city": "Nagongera",
+    "city_ascii": "Nagongera",
+    "admin_name": "Tororo",
+    "lat": "0.7700",
+    "lng": "34.0261",
+    "id": "1800803785"
+  },
+  {
+    "city": "Bukedea",
+    "city_ascii": "Bukedea",
+    "admin_name": "Bukedea",
+    "lat": "1.3475",
+    "lng": "34.0444",
+    "id": "1800687979"
+  },
+  {
+    "city": "Kaabong",
+    "city_ascii": "Kaabong",
+    "admin_name": "Kaabong",
+    "lat": "3.5200",
+    "lng": "34.1200",
+    "id": "1800299361"
+  },
+  {
+    "city": "Kumi",
+    "city_ascii": "Kumi",
+    "admin_name": "Kumi",
+    "lat": "1.4608",
+    "lng": "33.9361",
+    "id": "1800429770"
+  },
+  {
+    "city": "Kibiito",
+    "city_ascii": "Kibiito",
+    "admin_name": "Bunyangabu",
+    "lat": "0.4775",
+    "lng": "30.1925",
+    "id": "1800035606"
+  },
+  {
+    "city": "Amolatar",
+    "city_ascii": "Amolatar",
+    "admin_name": "Amolatar",
+    "lat": "1.6517",
+    "lng": "32.8250",
+    "id": "1800458737"
+  },
+  {
+    "city": "Kapchorwa",
+    "city_ascii": "Kapchorwa",
+    "admin_name": "Kapchorwa",
+    "lat": "1.4000",
+    "lng": "34.4500",
+    "id": "1800170407"
+  },
+  {
+    "city": "Kyotera",
+    "city_ascii": "Kyotera",
+    "admin_name": "Rakai",
+    "lat": "-0.6317",
+    "lng": "31.5433",
+    "id": "1800498277"
+  },
+  {
+    "city": "Serere",
+    "city_ascii": "Serere",
+    "admin_name": "Serere",
+    "lat": "1.5000",
+    "lng": "33.5500",
+    "id": "1800171092"
+  },
+  {
+    "city": "Kanoni",
+    "city_ascii": "Kanoni",
+    "admin_name": "Gomba",
+    "lat": "0.1728",
+    "lng": "31.9058",
+    "id": "1800973979"
+  },
+  {
+    "city": "Karagwe",
+    "city_ascii": "Karagwe",
+    "admin_name": "Kabarole",
+    "lat": "0.6769",
+    "lng": "30.1967",
+    "id": "1800882770"
+  },
+  {
+    "city": "Nakasongola",
+    "city_ascii": "Nakasongola",
+    "admin_name": "Nakasongola",
+    "lat": "1.3150",
+    "lng": "32.4650",
+    "id": "1800270160"
+  },
+  {
+    "city": "Bugongi",
+    "city_ascii": "Bugongi",
+    "admin_name": "Sheema",
+    "lat": "-0.6356",
+    "lng": "30.2528",
+    "id": "1800892810"
+  },
+  {
+    "city": "Majanji",
+    "city_ascii": "Majanji",
+    "admin_name": "Busia",
+    "lat": "0.2408",
+    "lng": "33.9914",
+    "id": "1800028555"
+  },
+  {
+    "city": "Kiwoko",
+    "city_ascii": "Kiwoko",
+    "admin_name": "Nakaseke",
+    "lat": "0.8442",
+    "lng": "32.3614",
+    "id": "1800103323"
+  },
+  {
+    "city": "Semuto",
+    "city_ascii": "Semuto",
+    "admin_name": "Nakaseke",
+    "lat": "0.6200",
+    "lng": "32.3278",
+    "id": "1800177094"
+  },
+  {
+    "city": "Amuru",
+    "city_ascii": "Amuru",
+    "admin_name": "Amuru",
+    "lat": "2.8186",
+    "lng": "31.8642",
+    "id": "1800642608"
+  },
+  {
+    "city": "Aduku",
+    "city_ascii": "Aduku",
+    "admin_name": "Kwania",
+    "lat": "2.0194",
+    "lng": "32.7200",
+    "id": "1800302255"
+  },
+  {
+    "city": "Lwakhakha",
+    "city_ascii": "Lwakhakha",
+    "admin_name": "Manafwa",
+    "lat": "0.7967",
+    "lng": "34.3781",
+    "id": "1800393189"
+  },
+  {
+    "city": "Masindi Port",
+    "city_ascii": "Masindi Port",
+    "admin_name": "Kiryandongo",
+    "lat": "1.6983",
+    "lng": "32.0778",
+    "id": "1800188907"
+  },
+  {
+    "city": "Kazo",
+    "city_ascii": "Kazo",
+    "admin_name": "Kazo",
+    "lat": "-0.0528",
+    "lng": "30.7569",
+    "id": "1800531840"
+  },
+  {
+    "city": "Nkokonjeru",
+    "city_ascii": "Nkokonjeru",
+    "admin_name": "Buikwe",
+    "lat": "0.2394",
+    "lng": "32.9231",
+    "id": "1800002522"
+  },
+  {
+    "city": "Kadama",
+    "city_ascii": "Kadama",
+    "admin_name": "Kibuku",
+    "lat": "1.0167",
+    "lng": "33.8803",
+    "id": "1800484552"
+  },
+  {
+    "city": "Bukomansimbi",
+    "city_ascii": "Bukomansimbi",
+    "admin_name": "Bukomansimbi",
+    "lat": "-0.1667",
+    "lng": "31.6186",
+    "id": "1800146127"
+  },
+  {
+    "city": "Bulisa",
+    "city_ascii": "Bulisa",
+    "admin_name": "Buliisa",
+    "lat": "2.1217",
+    "lng": "31.4156",
+    "id": "1800842426"
+  },
+  {
+    "city": "Katakwi",
+    "city_ascii": "Katakwi",
+    "admin_name": "Katakwi",
+    "lat": "1.9150",
+    "lng": "33.9550",
+    "id": "1800303827"
+  },
+  {
+    "city": "Amuria",
+    "city_ascii": "Amuria",
+    "admin_name": "Amuria",
+    "lat": "2.0300",
+    "lng": "33.6431",
+    "id": "1800838006"
+  },
+  {
+    "city": "Bududa",
+    "city_ascii": "Bududa",
+    "admin_name": "Bududa",
+    "lat": "1.0100",
+    "lng": "34.3317",
+    "id": "1800970850"
+  },
+  {
+    "city": "Nakaseke",
+    "city_ascii": "Nakaseke",
+    "admin_name": "Nakaseke",
+    "lat": "0.7300",
+    "lng": "32.4150",
+    "id": "1800304390"
+  },
+  {
+    "city": "Rakai",
+    "city_ascii": "Rakai",
+    "admin_name": "Rakai",
+    "lat": "-0.7100",
+    "lng": "31.4050",
+    "id": "1800039440"
+  },
+  {
+    "city": "Rubirizi",
+    "city_ascii": "Rubirizi",
+    "admin_name": "Rubirizi",
+    "lat": "-0.2661",
+    "lng": "30.1069",
+    "id": "1800947890"
+  },
+  {
+    "city": "Alebtong",
+    "city_ascii": "Alebtong",
+    "admin_name": "Alebtong",
+    "lat": "2.2500",
+    "lng": "33.3150",
+    "id": "1800244501"
+  },
+  {
+    "city": "Sembabule",
+    "city_ascii": "Sembabule",
+    "admin_name": "Sembabule",
+    "lat": "-0.0800",
+    "lng": "31.4600",
+    "id": "1800497536"
+  },
+  {
+    "city": "Kibale",
+    "city_ascii": "Kibale",
+    "admin_name": "Kibaale",
+    "lat": "0.7911",
+    "lng": "31.0750",
+    "id": "1800354454"
+  },
+  {
+    "city": "Kiruhura",
+    "city_ascii": "Kiruhura",
+    "admin_name": "Kiruhura",
+    "lat": "-0.2100",
+    "lng": "30.8300",
+    "id": "1800198933"
+  },
+  {
+    "city": "Mitoma",
+    "city_ascii": "Mitoma",
+    "admin_name": "Mitooma",
+    "lat": "-0.6150",
+    "lng": "30.0450",
+    "id": "1800173507"
+  },
+  {
+    "city": "Napak",
+    "city_ascii": "Napak",
+    "admin_name": "Napak",
+    "lat": "2.1156",
+    "lng": "34.2267",
+    "id": "1800784014"
+  },
+  {
+    "city": "Kalangala",
+    "city_ascii": "Kalangala",
+    "admin_name": "Kalangala",
+    "lat": "-0.3214",
+    "lng": "32.2919",
+    "id": "1800446257"
+  },
+  {
+    "city": "Nwoya",
+    "city_ascii": "Nwoya",
+    "admin_name": "Nwoya",
+    "lat": "2.6350",
+    "lng": "32.0000",
+    "id": "1800205431"
+  },
+  {
+    "city": "Butalangu",
+    "city_ascii": "Butalangu",
+    "admin_name": "Nakaseke",
+    "lat": "0.8228",
+    "lng": "32.2428",
+    "id": "1800001908"
+  },
+  {
+    "city": "Kaberamaido",
+    "city_ascii": "Kaberamaido",
+    "admin_name": "Kaberamaido",
+    "lat": "1.7667",
+    "lng": "33.1522",
+    "id": "1800845749"
+  },
+  {
+    "city": "Katwe",
+    "city_ascii": "Katwe",
+    "admin_name": "Kasese",
+    "lat": "-0.1296",
+    "lng": "29.9200",
+    "id": "1800329579"
+  },
+  {
+    "city": "Amudat",
+    "city_ascii": "Amudat",
+    "admin_name": "Amudat",
+    "lat": "1.9522",
+    "lng": "34.9444",
+    "id": "1800886754"
+  },
+  {
+    "city": "Namutumba",
+    "city_ascii": "Namutumba",
+    "admin_name": "Namutumba",
+    "lat": "0.8363",
+    "lng": "33.6858",
+    "id": "1800673440"
+  },
+  {
+    "city": "Maracha",
+    "city_ascii": "Maracha",
+    "admin_name": "Maracha",
+    "lat": "3.2883",
+    "lng": "30.9408",
+    "id": "1800799569"
+  },
+  {
+    "city": "Namayingo",
+    "city_ascii": "Namayingo",
+    "admin_name": "Namayingo",
+    "lat": "0.2398",
+    "lng": "33.8849",
+    "id": "1800633600"
+  },
+  {
+    "city": "Luuka Town",
+    "city_ascii": "Luuka Town",
+    "admin_name": "Luuka",
+    "lat": "0.7642",
+    "lng": "33.3319",
+    "id": "1800000051"
+  },
+  {
+    "city": "Kasanda",
+    "city_ascii": "Kasanda",
+    "admin_name": "Kasanda",
+    "lat": "0.5467",
+    "lng": "31.8197",
+    "id": "1800794590"
+  },
+  {
+    "city": "Kinoni",
+    "city_ascii": "Kinoni",
+    "admin_name": "Rwampara",
+    "lat": "-0.6583",
+    "lng": "30.4581",
+    "id": "1800009674"
+  },
+  {
+    "city": "Bulambuli",
+    "city_ascii": "Bulambuli",
+    "admin_name": "Bulambuli",
+    "lat": "1.1600",
+    "lng": "34.3967",
+    "id": "1800071156"
+  },
+  {
+    "city": "Ntoroko",
+    "city_ascii": "Ntoroko",
+    "admin_name": "Ntoroko",
+    "lat": "1.0500",
+    "lng": "30.5350",
+    "id": "1800207074"
+  },
+  {
+    "city": "Otuke",
+    "city_ascii": "Otuke",
+    "admin_name": "Otuke",
+    "lat": "2.4442",
+    "lng": "33.5028",
+    "id": "1800657796"
+  },
+  {
+    "city": "Bupoto",
+    "city_ascii": "Bupoto",
+    "admin_name": "Namisindwa",
+    "lat": "0.9061",
+    "lng": "34.3578",
+    "id": "1800358976"
+  },
+  {
+    "city": "Agago",
+    "city_ascii": "Agago",
+    "admin_name": "Agago",
+    "lat": "2.9847",
+    "lng": "33.3306",
+    "id": "1800321499"
+  },
+  {
+    "city": "Kitamilo",
+    "city_ascii": "Kitamilo",
+    "admin_name": "Buvuma",
+    "lat": "0.2367",
+    "lng": "33.2700",
+    "id": "1800610172"
+  },
+  {
+    "city": "Nsiika",
+    "city_ascii": "Nsiika",
+    "admin_name": "Buhweju",
+    "lat": "-0.2958",
+    "lng": "30.3433",
+    "id": "1800519756"
+  },
+  {
+    "city": "Kalaki",
+    "city_ascii": "Kalaki",
+    "admin_name": "Kalaki",
+    "lat": "1.8160",
+    "lng": "33.3370",
+    "id": "1800972565"
+  },
+  {
+    "city": "Kasaali",
+    "city_ascii": "Kasaali",
+    "admin_name": "Kyotera",
+    "lat": "-0.6167",
+    "lng": "31.5500",
+    "id": "1800217765"
+  },
+  {
+    "city": "Busesa",
+    "city_ascii": "Busesa",
+    "admin_name": "Bugweri",
+    "lat": "0.6263",
+    "lng": "33.6003",
+    "id": "1800175659"
+  },
+  {
+    "city": "Nakapiripirit",
+    "city_ascii": "Nakapiripirit",
+    "admin_name": "Nakapiripirit",
+    "lat": "1.9167",
+    "lng": "34.7833",
+    "id": "1800663685"
+  },
+  {
+    "city": "Pader",
+    "city_ascii": "Pader",
+    "admin_name": "Pader",
+    "lat": "3.0500",
+    "lng": "33.2167",
+    "id": "1800105199"
+  },
+  {
+    "city": "Kakumiro",
+    "city_ascii": "Kakumiro",
+    "admin_name": "Kakumiro",
+    "lat": "0.7811",
+    "lng": "31.3231",
+    "id": "1800894285"
+  },
+  {
+    "city": "Kapelebyong",
+    "city_ascii": "Kapelebyong",
+    "admin_name": "Kapelebyong",
+    "lat": "2.2933",
+    "lng": "33.8308",
+    "id": "1800815486"
+  },
+  {
+    "city": "Mparo",
+    "city_ascii": "Mparo",
+    "admin_name": "Rukiga",
+    "lat": "-1.1844",
+    "lng": "30.0544",
+    "id": "1800207938"
+  },
+  {
+    "city": "Lamwo",
+    "city_ascii": "Lamwo",
+    "admin_name": "Lamwo",
+    "lat": "3.5300",
+    "lng": "32.8000",
+    "id": "1800495740"
+  },
+  {
+    "city": "Budaka",
+    "city_ascii": "Budaka",
+    "admin_name": "Budaka",
+    "lat": "1.0173",
+    "lng": "33.9556",
+    "id": "1800690743"
+  },
+  {
+    "city": "Ntara",
+    "city_ascii": "Ntara",
+    "admin_name": "Kitagwenda",
+    "lat": "0.0047",
+    "lng": "30.3661",
+    "id": "1800001909"
+  },
+  {
+    "city": "Bukwo",
+    "city_ascii": "Bukwo",
+    "admin_name": "Bukwo",
+    "lat": "1.2928",
+    "lng": "34.7531",
+    "id": "1800276050"
+  },
+  {
+    "city": "Butebo",
+    "city_ascii": "Butebo",
+    "admin_name": "Butebo",
+    "lat": "1.1944",
+    "lng": "33.9222",
+    "id": "1800710436"
+  },
+  {
+    "city": "Binyin",
+    "city_ascii": "Binyin",
+    "admin_name": "Kween",
+    "lat": "1.4175",
+    "lng": "34.5344",
+    "id": "1800440664"
+  },
+  {
+    "city": "Butemba",
+    "city_ascii": "Butemba",
+    "admin_name": "Kyankwanzi",
+    "lat": "1.1430",
+    "lng": "31.6030",
+    "id": "1800696636"
+  },
+  {
+    "city": "Kibaale",
+    "city_ascii": "Kibaale",
+    "admin_name": "Kibaale",
+    "lat": "0.7958",
+    "lng": "31.0792",
+    "id": "1800999799"
+  },
+  {
+    "city": "Palenga",
+    "city_ascii": "Palenga",
+    "admin_name": "Omoro",
+    "lat": "2.5764",
+    "lng": "32.3544",
+    "id": "1800679810"
+  },
+  {
+    "city": "Kibingo",
+    "city_ascii": "Kibingo",
+    "admin_name": "Sheema",
+    "lat": "-0.5700",
+    "lng": "30.4150",
+    "id": "1800484853"
+  },
+  {
+    "city": "Leju",
+    "city_ascii": "Leju",
+    "admin_name": "Arua",
+    "lat": "3.1859",
+    "lng": "31.0610",
+    "id": "1800677662"
+  },
+  {
+    "city": "Kole",
+    "city_ascii": "Kole",
+    "admin_name": "Kole",
+    "lat": "2.4286",
+    "lng": "32.8011",
+    "id": "1800826218"
+  },
+  {
+    "city": "Nabilatuk",
+    "city_ascii": "Nabilatuk",
+    "admin_name": "Nabilatuk",
+    "lat": "2.0525",
+    "lng": "34.5734",
+    "id": "1800577877"
+  },
+  {
+    "city": "Rubanda",
+    "city_ascii": "Rubanda",
+    "admin_name": "Rubanda",
+    "lat": "-1.1864",
+    "lng": "29.8433",
+    "id": "1800066560"
+  },
+  {
+    "city": "Kalungu",
+    "city_ascii": "Kalungu",
+    "admin_name": "Kalungu",
+    "lat": "-0.1681",
+    "lng": "31.7600",
+    "id": "1800770335"
+  }
+]

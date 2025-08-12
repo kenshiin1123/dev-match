@@ -1,0 +1,274 @@
+[
+  {
+    "city": "Pyongyang",
+    "city_ascii": "Pyongyang",
+    "admin_name": "P’yŏngyang",
+    "lat": "39.0167",
+    "lng": "125.7475",
+    "id": "1408738594"
+  },
+  {
+    "city": "Hamhŭng",
+    "city_ascii": "Hamhung",
+    "admin_name": "Hamnam",
+    "lat": "39.9167",
+    "lng": "127.5333",
+    "id": "1408482040"
+  },
+  {
+    "city": "Nampo",
+    "city_ascii": "Nampo",
+    "admin_name": "Namp’o",
+    "lat": "38.7356",
+    "lng": "125.4089",
+    "id": "1408358410"
+  },
+  {
+    "city": "Ch’ŏngjin",
+    "city_ascii": "Ch'ongjin",
+    "admin_name": "Hambuk",
+    "lat": "41.7833",
+    "lng": "129.7667",
+    "id": "1408498177"
+  },
+  {
+    "city": "Sunch’ŏn",
+    "city_ascii": "Sunch'on",
+    "admin_name": "P’yŏngnam",
+    "lat": "39.4167",
+    "lng": "125.9333",
+    "id": "1408510801"
+  },
+  {
+    "city": "Wŏnsan",
+    "city_ascii": "Wonsan",
+    "admin_name": "Kangwŏn",
+    "lat": "39.1475",
+    "lng": "127.4461",
+    "id": "1408692125"
+  },
+  {
+    "city": "Sinŭiju",
+    "city_ascii": "Sinuiju",
+    "admin_name": "P’yŏngbuk",
+    "lat": "40.1000",
+    "lng": "124.4000",
+    "id": "1408740449"
+  },
+  {
+    "city": "Tanch’ŏn",
+    "city_ascii": "Tanch'on",
+    "admin_name": "Hamnam",
+    "lat": "40.4580",
+    "lng": "128.9110",
+    "id": "1408940912"
+  },
+  {
+    "city": "Kaech’ŏn",
+    "city_ascii": "Kaech'on",
+    "admin_name": "P’yŏngnam",
+    "lat": "39.6986",
+    "lng": "125.9061",
+    "id": "1408781295"
+  },
+  {
+    "city": "Sariwŏn",
+    "city_ascii": "Sariwon",
+    "admin_name": "Hwangbuk",
+    "lat": "38.5064",
+    "lng": "125.7597",
+    "id": "1408018673"
+  },
+  {
+    "city": "Kanggye",
+    "city_ascii": "Kanggye",
+    "admin_name": "Chagang",
+    "lat": "40.9667",
+    "lng": "126.6000",
+    "id": "1408728939"
+  },
+  {
+    "city": "Haeju",
+    "city_ascii": "Haeju",
+    "admin_name": "Hwangnam",
+    "lat": "38.0333",
+    "lng": "125.7167",
+    "id": "1408348983"
+  },
+  {
+    "city": "Anju",
+    "city_ascii": "Anju",
+    "admin_name": "P’yŏngnam",
+    "lat": "39.6200",
+    "lng": "125.6600",
+    "id": "1408625970"
+  },
+  {
+    "city": "P’yŏngsŏng-si",
+    "city_ascii": "P'yongsong-si",
+    "admin_name": "P’yŏngnam",
+    "lat": "39.2605",
+    "lng": "125.8618",
+    "id": "1408002002"
+  },
+  {
+    "city": "Rajin",
+    "city_ascii": "Rajin",
+    "admin_name": "Rasŏn",
+    "lat": "42.3444",
+    "lng": "130.3844",
+    "id": "1408449973"
+  },
+  {
+    "city": "Kusŏng",
+    "city_ascii": "Kusong",
+    "admin_name": "P’yŏngbuk",
+    "lat": "39.9667",
+    "lng": "125.1667",
+    "id": "1408227006"
+  },
+  {
+    "city": "Hyesan",
+    "city_ascii": "Hyesan",
+    "admin_name": "Ryanggang",
+    "lat": "41.4000",
+    "lng": "128.1833",
+    "id": "1408642146"
+  },
+  {
+    "city": "Kaesŏng",
+    "city_ascii": "Kaesong",
+    "admin_name": "Kaesŏng",
+    "lat": "37.9667",
+    "lng": "126.5500",
+    "id": "1408725697"
+  },
+  {
+    "city": "Chŏngju",
+    "city_ascii": "Chongju",
+    "admin_name": "P’yŏngbuk",
+    "lat": "39.6500",
+    "lng": "125.3333",
+    "id": "1408650871"
+  },
+  {
+    "city": "Hŭich’ŏn",
+    "city_ascii": "Huich'on",
+    "admin_name": "Chagang",
+    "lat": "40.1707",
+    "lng": "126.2761",
+    "id": "1408445793"
+  },
+  {
+    "city": "Hoeryŏng",
+    "city_ascii": "Hoeryong",
+    "admin_name": "Hambuk",
+    "lat": "42.4333",
+    "lng": "129.7500",
+    "id": "1408656165"
+  },
+  {
+    "city": "Sinpo",
+    "city_ascii": "Sinpo",
+    "admin_name": "Hamnam",
+    "lat": "40.0347",
+    "lng": "128.1856",
+    "id": "1408269466"
+  },
+  {
+    "city": "Songnim",
+    "city_ascii": "Songnim",
+    "admin_name": "Hwangbuk",
+    "lat": "38.7542",
+    "lng": "125.6450",
+    "id": "1408214405"
+  },
+  {
+    "city": "Munch’ŏn",
+    "city_ascii": "Munch'on",
+    "admin_name": "Kangwŏn",
+    "lat": "39.259",
+    "lng": "127.356",
+    "id": "1408134393"
+  },
+  {
+    "city": "Manpo",
+    "city_ascii": "Manpo",
+    "admin_name": "Chagang",
+    "lat": "41.1570",
+    "lng": "126.2900",
+    "id": "1408334845"
+  },
+  {
+    "city": "Namsan",
+    "city_ascii": "Namsan",
+    "admin_name": "Hambuk",
+    "lat": "42.2275",
+    "lng": "129.2541",
+    "id": "1408000884"
+  },
+  {
+    "city": "Ongjang",
+    "city_ascii": "Ongjang",
+    "admin_name": "Hwangnam",
+    "lat": "37.9371",
+    "lng": "125.3571",
+    "id": "1408848418"
+  },
+  {
+    "city": "Changyŏn",
+    "city_ascii": "Changyon",
+    "admin_name": "Hwangnam",
+    "lat": "38.2517",
+    "lng": "125.1021",
+    "id": "1408492703"
+  },
+  {
+    "city": "Sejiyŏn",
+    "city_ascii": "Sejiyon",
+    "admin_name": "Ryanggang",
+    "lat": "41.8000",
+    "lng": "128.3167",
+    "id": "1408001408"
+  },
+  {
+    "city": "Ch’osan-ŭp",
+    "city_ascii": "Ch'osan-up",
+    "admin_name": "Chagang",
+    "lat": "40.8255",
+    "lng": "125.8008",
+    "id": "1408838898"
+  },
+  {
+    "city": "P’ungsan",
+    "city_ascii": "P'ungsan",
+    "admin_name": "Ryanggang",
+    "lat": "40.8175",
+    "lng": "128.1553",
+    "id": "1408098792"
+  },
+  {
+    "city": "Taedong",
+    "city_ascii": "Taedong",
+    "admin_name": "P’yŏngbuk",
+    "lat": "40.6171",
+    "lng": "125.4501",
+    "id": "1408763732"
+  },
+  {
+    "city": "Munha-dong",
+    "city_ascii": "Munha-dong",
+    "admin_name": "Kangwŏn",
+    "lat": "39.3813",
+    "lng": "127.2517",
+    "id": "1408979215"
+  },
+  {
+    "city": "Sil-li",
+    "city_ascii": "Sil-li",
+    "admin_name": "P’yŏngnam",
+    "lat": "39.4880",
+    "lng": "125.4640",
+    "id": "1408767958"
+  }
+]

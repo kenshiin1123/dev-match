@@ -1,0 +1,234 @@
+[
+  {
+    "city": "Tórshavn",
+    "city_ascii": "Torshavn",
+    "admin_name": "Tórshavn",
+    "lat": "62.0000",
+    "lng": "-6.7833",
+    "id": "1234904517"
+  },
+  {
+    "city": "Klaksvík",
+    "city_ascii": "Klaksvik",
+    "admin_name": "Klaksvík",
+    "lat": "62.2375",
+    "lng": "-6.5390",
+    "id": "1234149995"
+  },
+  {
+    "city": "Hvalba",
+    "city_ascii": "Hvalba",
+    "admin_name": "Hvalba",
+    "lat": "61.6000",
+    "lng": "-6.9556",
+    "id": "1234381324"
+  },
+  {
+    "city": "Skopun",
+    "city_ascii": "Skopun",
+    "admin_name": "Skopun",
+    "lat": "61.9125",
+    "lng": "-6.8719",
+    "id": "1234929032"
+  },
+  {
+    "city": "Hvannasund",
+    "city_ascii": "Hvannasund",
+    "admin_name": "Hvannasund",
+    "lat": "62.2833",
+    "lng": "-6.5167",
+    "id": "1234436400"
+  },
+  {
+    "city": "Porkeri",
+    "city_ascii": "Porkeri",
+    "admin_name": "Porkeri",
+    "lat": "61.4814",
+    "lng": "-6.7458",
+    "id": "1234757268"
+  },
+  {
+    "city": "Fámjin",
+    "city_ascii": "Famjin",
+    "admin_name": "Fámjin",
+    "lat": "61.5264",
+    "lng": "-6.8769",
+    "id": "1234221310"
+  },
+  {
+    "city": "Sandur",
+    "city_ascii": "Sandur",
+    "admin_name": "Sandur",
+    "lat": "61.8344",
+    "lng": "-6.8171",
+    "id": "1234438421"
+  },
+  {
+    "city": "Fuglafjørður",
+    "city_ascii": "Fuglafjordhur",
+    "admin_name": "Fuglafjarður",
+    "lat": "62.2448",
+    "lng": "-6.8150",
+    "id": "1234308038"
+  },
+  {
+    "city": "Hov",
+    "city_ascii": "Hov",
+    "admin_name": "Hov",
+    "lat": "61.5068",
+    "lng": "-6.7599",
+    "id": "1234279154"
+  },
+  {
+    "city": "Vágur",
+    "city_ascii": "Vagur",
+    "admin_name": "Vágur",
+    "lat": "61.4733",
+    "lng": "-6.8175",
+    "id": "1234642477"
+  },
+  {
+    "city": "Saltangará",
+    "city_ascii": "Saltangara",
+    "admin_name": "Runavík",
+    "lat": "62.1156",
+    "lng": "-6.7206",
+    "id": "1234473077"
+  },
+  {
+    "city": "Kvívík",
+    "city_ascii": "Kvivik",
+    "admin_name": "Kvívík",
+    "lat": "62.1186",
+    "lng": "-7.0737",
+    "id": "1234955585"
+  },
+  {
+    "city": "Sumba",
+    "city_ascii": "Sumba",
+    "admin_name": "Sumba",
+    "lat": "61.4055",
+    "lng": "-6.7090",
+    "id": "1234926212"
+  },
+  {
+    "city": "Viðareiði",
+    "city_ascii": "Vidhareidhi",
+    "admin_name": "Viðareiði",
+    "lat": "62.3600",
+    "lng": "-6.5313",
+    "id": "1234512915"
+  },
+  {
+    "city": "Norðragøta",
+    "city_ascii": "Nordhragota",
+    "admin_name": "Eystur",
+    "lat": "62.1990",
+    "lng": "-6.7432",
+    "id": "1234729250"
+  },
+  {
+    "city": "Toftir",
+    "city_ascii": "Toftir",
+    "admin_name": "Nes",
+    "lat": "62.0978",
+    "lng": "-6.7369",
+    "id": "1234200740"
+  },
+  {
+    "city": "Kirkja",
+    "city_ascii": "Kirkja",
+    "admin_name": "Fugloy",
+    "lat": "62.3263",
+    "lng": "-6.3238",
+    "id": "1234508245"
+  },
+  {
+    "city": "Eiði",
+    "city_ascii": "Eidhi",
+    "admin_name": "Eiði",
+    "lat": "62.2995",
+    "lng": "-7.0924",
+    "id": "1234150922"
+  },
+  {
+    "city": "Sandavágur",
+    "city_ascii": "Sandavagur",
+    "admin_name": "Vágar",
+    "lat": "62.0537",
+    "lng": "-7.1498",
+    "id": "1234210554"
+  },
+  {
+    "city": "Skúvoy",
+    "city_ascii": "Skuvoy",
+    "admin_name": "Skúvoy",
+    "lat": "61.7710",
+    "lng": "-6.8050",
+    "id": "1234962897"
+  },
+  {
+    "city": "Skálavík",
+    "city_ascii": "Skalavik",
+    "admin_name": "Skálavík",
+    "lat": "61.8314",
+    "lng": "-6.6623",
+    "id": "1234815917"
+  },
+  {
+    "city": "Sørvágur",
+    "city_ascii": "Sorvagur",
+    "admin_name": "Sørvágur",
+    "lat": "62.0717",
+    "lng": "-7.3066",
+    "id": "1234081530"
+  },
+  {
+    "city": "Vestmanna",
+    "city_ascii": "Vestmanna",
+    "admin_name": "Vestmanna",
+    "lat": "62.1548",
+    "lng": "-7.1690",
+    "id": "1234694837"
+  },
+  {
+    "city": "Strendur",
+    "city_ascii": "Strendur",
+    "admin_name": "Sjóvar",
+    "lat": "62.1096",
+    "lng": "-6.7617",
+    "id": "1234814533"
+  },
+  {
+    "city": "Tvøroyri",
+    "city_ascii": "Tvoroyri",
+    "admin_name": "Tvøroyri",
+    "lat": "61.5544",
+    "lng": "-6.8063",
+    "id": "1234871801"
+  },
+  {
+    "city": "Húsavík",
+    "city_ascii": "Husavik",
+    "admin_name": "Húsavík",
+    "lat": "61.8099",
+    "lng": "-6.6813",
+    "id": "1234224518"
+  },
+  {
+    "city": "Kunoy",
+    "city_ascii": "Kunoy",
+    "admin_name": "Kunoy",
+    "lat": "62.2917",
+    "lng": "-6.6702",
+    "id": "1234932703"
+  },
+  {
+    "city": "Oyrarbakki",
+    "city_ascii": "Oyrarbakki",
+    "admin_name": "Sunda",
+    "lat": "62.2079",
+    "lng": "-6.9997",
+    "id": "1234924029"
+  }
+]

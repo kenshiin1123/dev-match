@@ -1,0 +1,98 @@
+[
+  {
+    "city": "Reykjavík",
+    "city_ascii": "Reykjavik",
+    "admin_name": "Reykjavík",
+    "lat": "64.1458",
+    "lng": "-21.9425",
+    "id": "1352327190"
+  },
+  {
+    "city": "Kópavogur",
+    "city_ascii": "Kopavogur",
+    "admin_name": "Kópavogur",
+    "lat": "64.1108",
+    "lng": "-21.9094",
+    "id": "1352411842"
+  },
+  {
+    "city": "Hafnarfjörður",
+    "city_ascii": "Hafnarfjordhur",
+    "admin_name": "Hafnarfjörður",
+    "lat": "64.0200",
+    "lng": "-21.9700",
+    "id": "1352845977"
+  },
+  {
+    "city": "Keflavík",
+    "city_ascii": "Keflavik",
+    "admin_name": "Reykjanesbær",
+    "lat": "64.0167",
+    "lng": "-22.5667",
+    "id": "1352901945"
+  },
+  {
+    "city": "Akureyri",
+    "city_ascii": "Akureyri",
+    "admin_name": "Akureyri",
+    "lat": "65.6833",
+    "lng": "-18.1000",
+    "id": "1352098424"
+  },
+  {
+    "city": "Garðabær",
+    "city_ascii": "Gardhabaer",
+    "admin_name": "Garðabær",
+    "lat": "64.0902",
+    "lng": "-21.9264",
+    "id": "1352650773"
+  },
+  {
+    "city": "Selfoss",
+    "city_ascii": "Selfoss",
+    "admin_name": "Sveitarfélagið Árborg",
+    "lat": "63.9333",
+    "lng": "-21.0000",
+    "id": "1352214400"
+  },
+  {
+    "city": "Ísafjörður",
+    "city_ascii": "Isafjordhur",
+    "admin_name": "Ísafjarðarbær",
+    "lat": "66.0758",
+    "lng": "-23.1267",
+    "id": "1352563432"
+  },
+  {
+    "city": "Sauðárkrókur",
+    "city_ascii": "Saudharkrokur",
+    "admin_name": "Skagafjörður",
+    "lat": "65.7461",
+    "lng": "-19.6394",
+    "id": "1352929836"
+  },
+  {
+    "city": "Egilsstaðir",
+    "city_ascii": "Egilsstadhir",
+    "admin_name": "Múlaþing",
+    "lat": "65.2667",
+    "lng": "-14.4000",
+    "id": "1352699507"
+  },
+  {
+    "city": "Höfn",
+    "city_ascii": "Hofn",
+    "admin_name": "Sveitarfélagið Hornafjörður",
+    "lat": "64.2500",
+    "lng": "-15.2167",
+    "id": "1352857630"
+  },
+  {
+    "city": "Borgarnes",
+    "city_ascii": "Borgarnes",
+    "admin_name": "Borgarbyggð",
+    "lat": "64.5333",
+    "lng": "-21.9167",
+    "id": "1352063842"
+  }
+]

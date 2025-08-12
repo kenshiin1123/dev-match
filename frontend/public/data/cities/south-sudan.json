@@ -1,0 +1,218 @@
+[
+  {
+    "city": "Juba",
+    "city_ascii": "Juba",
+    "admin_name": "Central Equatoria",
+    "lat": "4.8300",
+    "lng": "31.5800",
+    "id": "1728444337"
+  },
+  {
+    "city": "Bor",
+    "city_ascii": "Bor",
+    "admin_name": "Jonglei",
+    "lat": "6.2072",
+    "lng": "31.5591",
+    "id": "1728186782"
+  },
+  {
+    "city": "Kajo Kaji",
+    "city_ascii": "Kajo Kaji",
+    "admin_name": "Central Equatoria",
+    "lat": "3.8863",
+    "lng": "31.6670",
+    "id": "1728764691"
+  },
+  {
+    "city": "Yei",
+    "city_ascii": "Yei",
+    "admin_name": "Central Equatoria",
+    "lat": "4.0904",
+    "lng": "30.6800",
+    "id": "1728607274"
+  },
+  {
+    "city": "Magwe",
+    "city_ascii": "Magwe",
+    "admin_name": "Eastern Equatoria",
+    "lat": "4.1354",
+    "lng": "32.2869",
+    "id": "1728085840"
+  },
+  {
+    "city": "Wau",
+    "city_ascii": "Wau",
+    "admin_name": "Western Bahr el Ghazal",
+    "lat": "7.7000",
+    "lng": "27.9900",
+    "id": "1728877501"
+  },
+  {
+    "city": "Maridi",
+    "city_ascii": "Maridi",
+    "admin_name": "Western Equatoria",
+    "lat": "4.9151",
+    "lng": "29.4769",
+    "id": "1728685965"
+  },
+  {
+    "city": "Malakal",
+    "city_ascii": "Malakal",
+    "admin_name": "Upper Nile",
+    "lat": "9.5369",
+    "lng": "31.6560",
+    "id": "1728299711"
+  },
+  {
+    "city": "Leer",
+    "city_ascii": "Leer",
+    "admin_name": "Unity",
+    "lat": "8.3031",
+    "lng": "30.1406",
+    "id": "1728110399"
+  },
+  {
+    "city": "Kuacjok",
+    "city_ascii": "Kuacjok",
+    "admin_name": "Warrap",
+    "lat": "8.3028",
+    "lng": "27.9800",
+    "id": "1728713745"
+  },
+  {
+    "city": "Renk",
+    "city_ascii": "Renk",
+    "admin_name": "Upper Nile",
+    "lat": "11.7431",
+    "lng": "32.8049",
+    "id": "1728415189"
+  },
+  {
+    "city": "Farajok",
+    "city_ascii": "Farajok",
+    "admin_name": "Eastern Equatoria",
+    "lat": "3.8651",
+    "lng": "32.4821",
+    "id": "1728346194"
+  },
+  {
+    "city": "Yambio",
+    "city_ascii": "Yambio",
+    "admin_name": "Western Equatoria",
+    "lat": "4.5705",
+    "lng": "28.4163",
+    "id": "1728463035"
+  },
+  {
+    "city": "Nimule",
+    "city_ascii": "Nimule",
+    "admin_name": "Eastern Equatoria",
+    "lat": "3.6000",
+    "lng": "32.0500",
+    "id": "1728476966"
+  },
+  {
+    "city": "Gogrial",
+    "city_ascii": "Gogrial",
+    "admin_name": "Warrap",
+    "lat": "8.5337",
+    "lng": "28.1167",
+    "id": "1728342889"
+  },
+  {
+    "city": "Aweil",
+    "city_ascii": "Aweil",
+    "admin_name": "Northern Bahr el Ghazal",
+    "lat": "8.7666",
+    "lng": "27.4000",
+    "id": "1728097802"
+  },
+  {
+    "city": "Rumbek",
+    "city_ascii": "Rumbek",
+    "admin_name": "Lakes",
+    "lat": "6.8000",
+    "lng": "29.6833",
+    "id": "1728842249"
+  },
+  {
+    "city": "Ikoto",
+    "city_ascii": "Ikoto",
+    "admin_name": "Eastern Equatoria",
+    "lat": "4.0795",
+    "lng": "33.1089",
+    "id": "1728694229"
+  },
+  {
+    "city": "Torit",
+    "city_ascii": "Torit",
+    "admin_name": "Eastern Equatoria",
+    "lat": "4.4118",
+    "lng": "32.5705",
+    "id": "1728698486"
+  },
+  {
+    "city": "Tonj",
+    "city_ascii": "Tonj",
+    "admin_name": "Warrap",
+    "lat": "7.2739",
+    "lng": "28.6775",
+    "id": "1728183836"
+  },
+  {
+    "city": "Kafia Kingi",
+    "city_ascii": "Kafia Kingi",
+    "admin_name": "Western Bahr el Ghazal",
+    "lat": "9.2734",
+    "lng": "24.4170",
+    "id": "1728934320"
+  },
+  {
+    "city": "Yirol",
+    "city_ascii": "Yirol",
+    "admin_name": "Lakes",
+    "lat": "6.5525",
+    "lng": "30.4981",
+    "id": "1728880750"
+  },
+  {
+    "city": "Tambura",
+    "city_ascii": "Tambura",
+    "admin_name": "Western Equatoria",
+    "lat": "5.6000",
+    "lng": "27.4667",
+    "id": "1728480135"
+  },
+  {
+    "city": "Bentiu",
+    "city_ascii": "Bentiu",
+    "admin_name": "Unity",
+    "lat": "9.2333",
+    "lng": "29.8333",
+    "id": "1728684421"
+  },
+  {
+    "city": "Kapoeta",
+    "city_ascii": "Kapoeta",
+    "admin_name": "Eastern Equatoria",
+    "lat": "4.7721",
+    "lng": "33.5902",
+    "id": "1728483282"
+  },
+  {
+    "city": "Melut",
+    "city_ascii": "Melut",
+    "admin_name": "Upper Nile",
+    "lat": "10.4337",
+    "lng": "32.2000",
+    "id": "1728493346"
+  },
+  {
+    "city": "Nasir",
+    "city_ascii": "Nasir",
+    "admin_name": "Upper Nile",
+    "lat": "8.6004",
+    "lng": "33.0666",
+    "id": "1728210480"
+  }
+]

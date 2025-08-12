@@ -1,0 +1,786 @@
+[
+  {
+    "city": "Sofia",
+    "city_ascii": "Sofia",
+    "admin_name": "Sofia-Grad",
+    "lat": "42.6979",
+    "lng": "23.3217",
+    "id": "1100762037"
+  },
+  {
+    "city": "Varna",
+    "city_ascii": "Varna",
+    "admin_name": "Varna",
+    "lat": "43.2114",
+    "lng": "27.9111",
+    "id": "1100789115"
+  },
+  {
+    "city": "Plovdiv",
+    "city_ascii": "Plovdiv",
+    "admin_name": "Plovdiv",
+    "lat": "42.1434",
+    "lng": "24.7510",
+    "id": "1100436706"
+  },
+  {
+    "city": "Burgas",
+    "city_ascii": "Burgas",
+    "admin_name": "Burgas",
+    "lat": "42.5030",
+    "lng": "27.4702",
+    "id": "1100365645"
+  },
+  {
+    "city": "Stara Zagora",
+    "city_ascii": "Stara Zagora",
+    "admin_name": "Stara Zagora",
+    "lat": "42.4333",
+    "lng": "25.6500",
+    "id": "1100903924"
+  },
+  {
+    "city": "Ruse",
+    "city_ascii": "Ruse",
+    "admin_name": "Ruse",
+    "lat": "43.8445",
+    "lng": "25.9539",
+    "id": "1100854249"
+  },
+  {
+    "city": "Pleven",
+    "city_ascii": "Pleven",
+    "admin_name": "Pleven",
+    "lat": "43.4167",
+    "lng": "24.6167",
+    "id": "1100973719"
+  },
+  {
+    "city": "Sliven",
+    "city_ascii": "Sliven",
+    "admin_name": "Sliven",
+    "lat": "42.6833",
+    "lng": "26.3333",
+    "id": "1100110215"
+  },
+  {
+    "city": "Pernik",
+    "city_ascii": "Pernik",
+    "admin_name": "Pernik",
+    "lat": "42.6000",
+    "lng": "23.0330",
+    "id": "1100616332"
+  },
+  {
+    "city": "Haskovo",
+    "city_ascii": "Haskovo",
+    "admin_name": "Haskovo",
+    "lat": "41.9330",
+    "lng": "25.5670",
+    "id": "1100186247"
+  },
+  {
+    "city": "Kazanlak",
+    "city_ascii": "Kazanlak",
+    "admin_name": "Stara Zagora",
+    "lat": "42.6170",
+    "lng": "25.4000",
+    "id": "1100673552"
+  },
+  {
+    "city": "Dobrich",
+    "city_ascii": "Dobrich",
+    "admin_name": "Dobrich",
+    "lat": "43.5667",
+    "lng": "27.8333",
+    "id": "1100364404"
+  },
+  {
+    "city": "Yambol",
+    "city_ascii": "Yambol",
+    "admin_name": "Yambol",
+    "lat": "42.4833",
+    "lng": "26.5000",
+    "id": "1100748067"
+  },
+  {
+    "city": "Shumen",
+    "city_ascii": "Shumen",
+    "admin_name": "Shumen",
+    "lat": "43.2746",
+    "lng": "26.9349",
+    "id": "1100000004"
+  },
+  {
+    "city": "Blagoevgrad",
+    "city_ascii": "Blagoevgrad",
+    "admin_name": "Blagoevgrad",
+    "lat": "42.0227",
+    "lng": "23.0975",
+    "id": "1100214416"
+  },
+  {
+    "city": "Pazardzhik",
+    "city_ascii": "Pazardzhik",
+    "admin_name": "Pazardzhik",
+    "lat": "42.1935",
+    "lng": "24.3328",
+    "id": "1100273248"
+  },
+  {
+    "city": "Veliko Tarnovo",
+    "city_ascii": "Veliko Tarnovo",
+    "admin_name": "Veliko Tarnovo",
+    "lat": "43.0787",
+    "lng": "25.6283",
+    "id": "1100134696"
+  },
+  {
+    "city": "Asenovgrad",
+    "city_ascii": "Asenovgrad",
+    "admin_name": "Plovdiv",
+    "lat": "42.0167",
+    "lng": "24.8667",
+    "id": "1100200929"
+  },
+  {
+    "city": "Targovishte",
+    "city_ascii": "Targovishte",
+    "admin_name": "Targovishte",
+    "lat": "43.2500",
+    "lng": "26.5830",
+    "id": "1100987486"
+  },
+  {
+    "city": "Vratsa",
+    "city_ascii": "Vratsa",
+    "admin_name": "Vratsa",
+    "lat": "43.2121",
+    "lng": "23.5444",
+    "id": "1100261281"
+  },
+  {
+    "city": "Dimitrovgrad",
+    "city_ascii": "Dimitrovgrad",
+    "admin_name": "Haskovo",
+    "lat": "42.0500",
+    "lng": "25.6000",
+    "id": "1100570821"
+  },
+  {
+    "city": "Kardzhali",
+    "city_ascii": "Kardzhali",
+    "admin_name": "Kardzhali",
+    "lat": "41.6500",
+    "lng": "25.3670",
+    "id": "1100473094"
+  },
+  {
+    "city": "Gabrovo",
+    "city_ascii": "Gabrovo",
+    "admin_name": "Gabrovo",
+    "lat": "42.8742",
+    "lng": "25.3178",
+    "id": "1100696135"
+  },
+  {
+    "city": "Vidin",
+    "city_ascii": "Vidin",
+    "admin_name": "Vidin",
+    "lat": "43.9931",
+    "lng": "22.8722",
+    "id": "1100463536"
+  },
+  {
+    "city": "Velingrad",
+    "city_ascii": "Velingrad",
+    "admin_name": "Pazardzhik",
+    "lat": "42.0167",
+    "lng": "24.0000",
+    "id": "1100145292"
+  },
+  {
+    "city": "Kyustendil",
+    "city_ascii": "Kyustendil",
+    "admin_name": "Kyustendil",
+    "lat": "42.2797",
+    "lng": "22.6870",
+    "id": "1100543134"
+  },
+  {
+    "city": "Montana",
+    "city_ascii": "Montana",
+    "admin_name": "Montana",
+    "lat": "43.4086",
+    "lng": "23.2257",
+    "id": "1100946651"
+  },
+  {
+    "city": "Samokov",
+    "city_ascii": "Samokov",
+    "admin_name": "Sofia",
+    "lat": "42.3300",
+    "lng": "23.5500",
+    "id": "1100464208"
+  },
+  {
+    "city": "Smolyan",
+    "city_ascii": "Smolyan",
+    "admin_name": "Smolyan",
+    "lat": "41.5830",
+    "lng": "24.7000",
+    "id": "1100429166"
+  },
+  {
+    "city": "Dupnitsa",
+    "city_ascii": "Dupnitsa",
+    "admin_name": "Kyustendil",
+    "lat": "42.2650",
+    "lng": "23.1185",
+    "id": "1100440807"
+  },
+  {
+    "city": "Silistra",
+    "city_ascii": "Silistra",
+    "admin_name": "Silistra",
+    "lat": "44.1092",
+    "lng": "27.2654",
+    "id": "1100458181"
+  },
+  {
+    "city": "Gotse Delchev",
+    "city_ascii": "Gotse Delchev",
+    "admin_name": "Blagoevgrad",
+    "lat": "41.5667",
+    "lng": "23.7333",
+    "id": "1100837214"
+  },
+  {
+    "city": "Razgrad",
+    "city_ascii": "Razgrad",
+    "admin_name": "Razgrad",
+    "lat": "43.5409",
+    "lng": "26.5288",
+    "id": "1100143131"
+  },
+  {
+    "city": "Lovech",
+    "city_ascii": "Lovech",
+    "admin_name": "Lovech",
+    "lat": "43.1348",
+    "lng": "24.7115",
+    "id": "1100374163"
+  },
+  {
+    "city": "Panagyurishte",
+    "city_ascii": "Panagyurishte",
+    "admin_name": "Pazardzhik",
+    "lat": "42.5031",
+    "lng": "24.1839",
+    "id": "1100223841"
+  },
+  {
+    "city": "Petrich",
+    "city_ascii": "Petrich",
+    "admin_name": "Blagoevgrad",
+    "lat": "41.3981",
+    "lng": "23.2069",
+    "id": "1100407427"
+  },
+  {
+    "city": "Gorna Oryahovitsa",
+    "city_ascii": "Gorna Oryahovitsa",
+    "admin_name": "Veliko Tarnovo",
+    "lat": "43.1304",
+    "lng": "25.7041",
+    "id": "1100589506"
+  },
+  {
+    "city": "Aytos",
+    "city_ascii": "Aytos",
+    "admin_name": "Burgas",
+    "lat": "42.7000",
+    "lng": "27.2500",
+    "id": "1100109481"
+  },
+  {
+    "city": "Sandanski",
+    "city_ascii": "Sandanski",
+    "admin_name": "Blagoevgrad",
+    "lat": "41.5681",
+    "lng": "23.2823",
+    "id": "1100580276"
+  },
+  {
+    "city": "Rakovski",
+    "city_ascii": "Rakovski",
+    "admin_name": "Plovdiv",
+    "lat": "42.3000",
+    "lng": "24.9667",
+    "id": "1100163147"
+  },
+  {
+    "city": "Harmanli",
+    "city_ascii": "Harmanli",
+    "admin_name": "Haskovo",
+    "lat": "41.9333",
+    "lng": "25.9000",
+    "id": "1100003361"
+  },
+  {
+    "city": "Peshtera",
+    "city_ascii": "Peshtera",
+    "admin_name": "Pazardzhik",
+    "lat": "42.0330",
+    "lng": "24.3000",
+    "id": "1100868605"
+  },
+  {
+    "city": "Byala Slatina",
+    "city_ascii": "Byala Slatina",
+    "admin_name": "Vratsa",
+    "lat": "43.4670",
+    "lng": "23.9330",
+    "id": "1100994011"
+  },
+  {
+    "city": "Svishtov",
+    "city_ascii": "Svishtov",
+    "admin_name": "Veliko Tarnovo",
+    "lat": "43.6113",
+    "lng": "25.3569",
+    "id": "1100115119"
+  },
+  {
+    "city": "Karnobat",
+    "city_ascii": "Karnobat",
+    "admin_name": "Burgas",
+    "lat": "42.6500",
+    "lng": "26.9830",
+    "id": "1100484520"
+  },
+  {
+    "city": "Nova Zagora",
+    "city_ascii": "Nova Zagora",
+    "admin_name": "Sliven",
+    "lat": "42.4830",
+    "lng": "26.0170",
+    "id": "1100577244"
+  },
+  {
+    "city": "Sevlievo",
+    "city_ascii": "Sevlievo",
+    "admin_name": "Gabrovo",
+    "lat": "43.0207",
+    "lng": "25.0945",
+    "id": "1100820915"
+  },
+  {
+    "city": "Mezdra",
+    "city_ascii": "Mezdra",
+    "admin_name": "Vratsa",
+    "lat": "43.1500",
+    "lng": "23.7000",
+    "id": "1100715931"
+  },
+  {
+    "city": "Lom",
+    "city_ascii": "Lom",
+    "admin_name": "Montana",
+    "lat": "43.8256",
+    "lng": "23.2375",
+    "id": "1100440040"
+  },
+  {
+    "city": "Teteven",
+    "city_ascii": "Teteven",
+    "admin_name": "Lovech",
+    "lat": "42.9170",
+    "lng": "24.2670",
+    "id": "1100032419"
+  },
+  {
+    "city": "Karlovo",
+    "city_ascii": "Karlovo",
+    "admin_name": "Plovdiv",
+    "lat": "42.6420",
+    "lng": "24.8082",
+    "id": "1100780442"
+  },
+  {
+    "city": "Botevgrad",
+    "city_ascii": "Botevgrad",
+    "admin_name": "Sofia",
+    "lat": "42.9000",
+    "lng": "23.7800",
+    "id": "1100788799"
+  },
+  {
+    "city": "Troyan",
+    "city_ascii": "Troyan",
+    "admin_name": "Lovech",
+    "lat": "42.8915",
+    "lng": "24.7105",
+    "id": "1100528745"
+  },
+  {
+    "city": "Svilengrad",
+    "city_ascii": "Svilengrad",
+    "admin_name": "Haskovo",
+    "lat": "41.7670",
+    "lng": "26.2000",
+    "id": "1100757621"
+  },
+  {
+    "city": "Rakitovo",
+    "city_ascii": "Rakitovo",
+    "admin_name": "Pazardzhik",
+    "lat": "41.9898",
+    "lng": "24.0866",
+    "id": "1100370778"
+  },
+  {
+    "city": "Veliki Preslav",
+    "city_ascii": "Veliki Preslav",
+    "admin_name": "Shumen",
+    "lat": "43.1667",
+    "lng": "26.8167",
+    "id": "1100285364"
+  },
+  {
+    "city": "Popovo",
+    "city_ascii": "Popovo",
+    "admin_name": "Targovishte",
+    "lat": "43.3496",
+    "lng": "26.2270",
+    "id": "1100589134"
+  },
+  {
+    "city": "Pomorie",
+    "city_ascii": "Pomorie",
+    "admin_name": "Burgas",
+    "lat": "42.5569",
+    "lng": "27.6405",
+    "id": "1100639674"
+  },
+  {
+    "city": "Chirpan",
+    "city_ascii": "Chirpan",
+    "admin_name": "Stara Zagora",
+    "lat": "42.1981",
+    "lng": "25.3304",
+    "id": "1100767507"
+  },
+  {
+    "city": "Nesebar",
+    "city_ascii": "Nesebar",
+    "admin_name": "Burgas",
+    "lat": "42.6595",
+    "lng": "27.7247",
+    "id": "1100835570"
+  },
+  {
+    "city": "Garmen",
+    "city_ascii": "Garmen",
+    "admin_name": "Blagoevgrad",
+    "lat": "41.6000",
+    "lng": "23.8167",
+    "id": "1100760110"
+  },
+  {
+    "city": "Ihtiman",
+    "city_ascii": "Ihtiman",
+    "admin_name": "Sofia",
+    "lat": "42.4330",
+    "lng": "23.8170",
+    "id": "1100416856"
+  },
+  {
+    "city": "Novi Iskar",
+    "city_ascii": "Novi Iskar",
+    "admin_name": "Sofia-Grad",
+    "lat": "42.8226",
+    "lng": "23.3538",
+    "id": "1100373780"
+  },
+  {
+    "city": "Parvomay",
+    "city_ascii": "Parvomay",
+    "admin_name": "Plovdiv",
+    "lat": "42.1000",
+    "lng": "25.2167",
+    "id": "1100284082"
+  },
+  {
+    "city": "Radomir",
+    "city_ascii": "Radomir",
+    "admin_name": "Pernik",
+    "lat": "42.5457",
+    "lng": "22.9623",
+    "id": "1100594345"
+  },
+  {
+    "city": "Straldzha",
+    "city_ascii": "Straldzha",
+    "admin_name": "Yambol",
+    "lat": "42.6000",
+    "lng": "26.6830",
+    "id": "1100976940"
+  },
+  {
+    "city": "Novi Pazar",
+    "city_ascii": "Novi Pazar",
+    "admin_name": "Shumen",
+    "lat": "43.3500",
+    "lng": "27.2000",
+    "id": "1100036020"
+  },
+  {
+    "city": "Berkovitsa",
+    "city_ascii": "Berkovitsa",
+    "admin_name": "Montana",
+    "lat": "43.2371",
+    "lng": "23.1251",
+    "id": "1100553391"
+  },
+  {
+    "city": "Sungurlare",
+    "city_ascii": "Sungurlare",
+    "admin_name": "Burgas",
+    "lat": "42.7669",
+    "lng": "26.7831",
+    "id": "1100924145"
+  },
+  {
+    "city": "Balchik",
+    "city_ascii": "Balchik",
+    "admin_name": "Dobrich",
+    "lat": "43.4233",
+    "lng": "28.1420",
+    "id": "1100579546"
+  },
+  {
+    "city": "Razlog",
+    "city_ascii": "Razlog",
+    "admin_name": "Blagoevgrad",
+    "lat": "41.8865",
+    "lng": "23.4680",
+    "id": "1100974105"
+  },
+  {
+    "city": "Provadia",
+    "city_ascii": "Provadia",
+    "admin_name": "Varna",
+    "lat": "43.1694",
+    "lng": "27.4428",
+    "id": "1100595849"
+  },
+  {
+    "city": "Bankya",
+    "city_ascii": "Bankya",
+    "admin_name": "Sofia-Grad",
+    "lat": "42.7069",
+    "lng": "23.1472",
+    "id": "1100031419"
+  },
+  {
+    "city": "Valchedram",
+    "city_ascii": "Valchedram",
+    "admin_name": "Montana",
+    "lat": "43.7000",
+    "lng": "23.4500",
+    "id": "1100672582"
+  },
+  {
+    "city": "Topolovgrad",
+    "city_ascii": "Topolovgrad",
+    "admin_name": "Haskovo",
+    "lat": "42.0850",
+    "lng": "26.3370",
+    "id": "1100686772"
+  },
+  {
+    "city": "Radnevo",
+    "city_ascii": "Radnevo",
+    "admin_name": "Stara Zagora",
+    "lat": "42.3000",
+    "lng": "25.9330",
+    "id": "1100743312"
+  },
+  {
+    "city": "Kostinbrod",
+    "city_ascii": "Kostinbrod",
+    "admin_name": "Sofia",
+    "lat": "42.8170",
+    "lng": "23.2170",
+    "id": "1100892739"
+  },
+  {
+    "city": "Kozloduy",
+    "city_ascii": "Kozloduy",
+    "admin_name": "Vratsa",
+    "lat": "43.7833",
+    "lng": "23.7333",
+    "id": "1100662672"
+  },
+  {
+    "city": "Stamboliyski",
+    "city_ascii": "Stamboliyski",
+    "admin_name": "Plovdiv",
+    "lat": "42.1330",
+    "lng": "24.5330",
+    "id": "1100303839"
+  },
+  {
+    "city": "Kavarna",
+    "city_ascii": "Kavarna",
+    "admin_name": "Dobrich",
+    "lat": "43.4361",
+    "lng": "28.3394",
+    "id": "1100727601"
+  },
+  {
+    "city": "Bratsigovo",
+    "city_ascii": "Bratsigovo",
+    "admin_name": "Pazardzhik",
+    "lat": "42.0170",
+    "lng": "24.3670",
+    "id": "1100577798"
+  },
+  {
+    "city": "Dospat",
+    "city_ascii": "Dospat",
+    "admin_name": "Smolyan",
+    "lat": "41.6436",
+    "lng": "24.1597",
+    "id": "1100747470"
+  },
+  {
+    "city": "Etropole",
+    "city_ascii": "Etropole",
+    "admin_name": "Sofia",
+    "lat": "42.8333",
+    "lng": "24.0000",
+    "id": "1100554574"
+  },
+  {
+    "city": "Knezha",
+    "city_ascii": "Knezha",
+    "admin_name": "Vratsa",
+    "lat": "43.4931",
+    "lng": "24.0806",
+    "id": "1100486510"
+  },
+  {
+    "city": "Avren",
+    "city_ascii": "Avren",
+    "admin_name": "Varna",
+    "lat": "43.1139",
+    "lng": "27.6693",
+    "id": "1100800692"
+  },
+  {
+    "city": "Levski",
+    "city_ascii": "Levski",
+    "admin_name": "Pleven",
+    "lat": "43.3592",
+    "lng": "25.1358",
+    "id": "1100805179"
+  },
+  {
+    "city": "Tsarevo",
+    "city_ascii": "Tsarevo",
+    "admin_name": "Burgas",
+    "lat": "42.1669",
+    "lng": "27.8500",
+    "id": "1100848106"
+  },
+  {
+    "city": "Belitsa",
+    "city_ascii": "Belitsa",
+    "admin_name": "Blagoevgrad",
+    "lat": "41.9500",
+    "lng": "23.5667",
+    "id": "1100462785"
+  },
+  {
+    "city": "Pavlikeni",
+    "city_ascii": "Pavlikeni",
+    "admin_name": "Veliko Tarnovo",
+    "lat": "43.2375",
+    "lng": "25.3074",
+    "id": "1100655871"
+  },
+  {
+    "city": "Elhovo",
+    "city_ascii": "Elhovo",
+    "admin_name": "Yambol",
+    "lat": "42.1720",
+    "lng": "26.5694",
+    "id": "1100602957"
+  },
+  {
+    "city": "Momchilgrad",
+    "city_ascii": "Momchilgrad",
+    "admin_name": "Kardzhali",
+    "lat": "41.5330",
+    "lng": "25.4170",
+    "id": "1100063207"
+  },
+  {
+    "city": "Lukovit",
+    "city_ascii": "Lukovit",
+    "admin_name": "Lovech",
+    "lat": "43.2102",
+    "lng": "24.1629",
+    "id": "1100460209"
+  },
+  {
+    "city": "Bansko",
+    "city_ascii": "Bansko",
+    "admin_name": "Blagoevgrad",
+    "lat": "41.8385",
+    "lng": "23.4888",
+    "id": "1100442389"
+  },
+  {
+    "city": "Krichim",
+    "city_ascii": "Krichim",
+    "admin_name": "Plovdiv",
+    "lat": "42.0500",
+    "lng": "24.4667",
+    "id": "1100205448"
+  },
+  {
+    "city": "Omurtag",
+    "city_ascii": "Omurtag",
+    "admin_name": "Targovishte",
+    "lat": "43.1069",
+    "lng": "26.4198",
+    "id": "1100244508"
+  },
+  {
+    "city": "Tutrakan",
+    "city_ascii": "Tutrakan",
+    "admin_name": "Silistra",
+    "lat": "44.0390",
+    "lng": "26.6194",
+    "id": "1100290695"
+  },
+  {
+    "city": "Devnya",
+    "city_ascii": "Devnya",
+    "admin_name": "Varna",
+    "lat": "43.2180",
+    "lng": "27.5580",
+    "id": "1100328780"
+  },
+  {
+    "city": "Sredets",
+    "city_ascii": "Sredets",
+    "admin_name": "Burgas",
+    "lat": "42.3475",
+    "lng": "27.1789",
+    "id": "1100026609"
+  }
+]

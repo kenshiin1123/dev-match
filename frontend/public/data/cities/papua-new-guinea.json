@@ -1,0 +1,242 @@
+[
+  {
+    "city": "Port Moresby",
+    "city_ascii": "Port Moresby",
+    "admin_name": "National Capital",
+    "lat": "-9.4789",
+    "lng": "147.1494",
+    "id": "1598685395"
+  },
+  {
+    "city": "Lae",
+    "city_ascii": "Lae",
+    "admin_name": "Morobe",
+    "lat": "-6.7303",
+    "lng": "147.0008",
+    "id": "1598466091"
+  },
+  {
+    "city": "Popondetta",
+    "city_ascii": "Popondetta",
+    "admin_name": "Northern",
+    "lat": "-8.7656",
+    "lng": "148.2347",
+    "id": "1598887925"
+  },
+  {
+    "city": "Mendi",
+    "city_ascii": "Mendi",
+    "admin_name": "Southern Highlands",
+    "lat": "-6.1478",
+    "lng": "143.6572",
+    "id": "1598467297"
+  },
+  {
+    "city": "Arawa",
+    "city_ascii": "Arawa",
+    "admin_name": "Bougainville",
+    "lat": "-6.2280",
+    "lng": "155.5660",
+    "id": "1598413091"
+  },
+  {
+    "city": "Mount Hagen",
+    "city_ascii": "Mount Hagen",
+    "admin_name": "Western Highlands",
+    "lat": "-5.8667",
+    "lng": "144.2167",
+    "id": "1598400611"
+  },
+  {
+    "city": "Madang",
+    "city_ascii": "Madang",
+    "admin_name": "Madang",
+    "lat": "-5.2248",
+    "lng": "145.7853",
+    "id": "1598116558"
+  },
+  {
+    "city": "Kimbe",
+    "city_ascii": "Kimbe",
+    "admin_name": "West New Britain",
+    "lat": "-5.5500",
+    "lng": "150.1430",
+    "id": "1598372456"
+  },
+  {
+    "city": "Wewak",
+    "city_ascii": "Wewak",
+    "admin_name": "East Sepik",
+    "lat": "-3.5500",
+    "lng": "143.6333",
+    "id": "1598405100"
+  },
+  {
+    "city": "Goroka",
+    "city_ascii": "Goroka",
+    "admin_name": "Eastern Highlands",
+    "lat": "-6.0833",
+    "lng": "145.3833",
+    "id": "1598928169"
+  },
+  {
+    "city": "Kokopo",
+    "city_ascii": "Kokopo",
+    "admin_name": "East New Britain",
+    "lat": "-4.3500",
+    "lng": "152.2736",
+    "id": "1598823962"
+  },
+  {
+    "city": "Bulolo",
+    "city_ascii": "Bulolo",
+    "admin_name": "Morobe",
+    "lat": "-7.2000",
+    "lng": "146.6500",
+    "id": "1598883682"
+  },
+  {
+    "city": "Kavieng",
+    "city_ascii": "Kavieng",
+    "admin_name": "New Ireland",
+    "lat": "-2.5667",
+    "lng": "150.8000",
+    "id": "1598946326"
+  },
+  {
+    "city": "Alotau",
+    "city_ascii": "Alotau",
+    "admin_name": "Milne Bay",
+    "lat": "-10.3167",
+    "lng": "150.4333",
+    "id": "1598284215"
+  },
+  {
+    "city": "Tari",
+    "city_ascii": "Tari",
+    "admin_name": "Hela",
+    "lat": "-5.8489",
+    "lng": "142.9506",
+    "id": "1598669271"
+  },
+  {
+    "city": "Daru",
+    "city_ascii": "Daru",
+    "admin_name": "Western",
+    "lat": "-9.0833",
+    "lng": "143.2000",
+    "id": "1598923764"
+  },
+  {
+    "city": "Vanimo",
+    "city_ascii": "Vanimo",
+    "admin_name": "West Sepik",
+    "lat": "-2.6667",
+    "lng": "141.2833",
+    "id": "1598892363"
+  },
+  {
+    "city": "Kundiawa",
+    "city_ascii": "Kundiawa",
+    "admin_name": "Chimbu",
+    "lat": "-6.0230",
+    "lng": "144.9600",
+    "id": "1598730976"
+  },
+  {
+    "city": "Tabubil",
+    "city_ascii": "Tabubil",
+    "admin_name": "Western",
+    "lat": "-5.2750",
+    "lng": "141.2264",
+    "id": "1598326031"
+  },
+  {
+    "city": "Wau",
+    "city_ascii": "Wau",
+    "admin_name": "Morobe",
+    "lat": "-7.3389",
+    "lng": "146.7167",
+    "id": "1598739902"
+  },
+  {
+    "city": "Rabaul",
+    "city_ascii": "Rabaul",
+    "admin_name": "East New Britain",
+    "lat": "-4.1981",
+    "lng": "152.1681",
+    "id": "1598973225"
+  },
+  {
+    "city": "Kieta",
+    "city_ascii": "Kieta",
+    "admin_name": "Bougainville",
+    "lat": "-6.2058",
+    "lng": "155.6227",
+    "id": "1598490894"
+  },
+  {
+    "city": "Kerema",
+    "city_ascii": "Kerema",
+    "admin_name": "Gulf",
+    "lat": "-7.9270",
+    "lng": "145.8380",
+    "id": "1598925932"
+  },
+  {
+    "city": "Lorengau",
+    "city_ascii": "Lorengau",
+    "admin_name": "Manus",
+    "lat": "-2.0208",
+    "lng": "147.2667",
+    "id": "1598571197"
+  },
+  {
+    "city": "Wabag",
+    "city_ascii": "Wabag",
+    "admin_name": "Enga",
+    "lat": "-5.4833",
+    "lng": "143.7000",
+    "id": "1598428400"
+  },
+  {
+    "city": "Sohano",
+    "city_ascii": "Sohano",
+    "admin_name": "Bougainville",
+    "lat": "-5.4297",
+    "lng": "154.6711",
+    "id": "1598474458"
+  },
+  {
+    "city": "Hoskins",
+    "city_ascii": "Hoskins",
+    "admin_name": "West New Britain",
+    "lat": "-5.4746",
+    "lng": "150.4100",
+    "id": "1598684520"
+  },
+  {
+    "city": "Amau",
+    "city_ascii": "Amau",
+    "admin_name": "Central",
+    "lat": "-10.0426",
+    "lng": "148.5650",
+    "id": "1598610032"
+  },
+  {
+    "city": "Kurumul",
+    "city_ascii": "Kurumul",
+    "admin_name": "Jiwaka",
+    "lat": "-5.8550",
+    "lng": "144.6311",
+    "id": "1598000045"
+  },
+  {
+    "city": "Buka",
+    "city_ascii": "Buka",
+    "admin_name": "Bougainville",
+    "lat": "-5.4219",
+    "lng": "154.6728",
+    "id": "1598000066"
+  }
+]

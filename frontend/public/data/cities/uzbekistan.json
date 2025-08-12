@@ -1,0 +1,1514 @@
+[
+  {
+    "city": "Tashkent",
+    "city_ascii": "Tashkent",
+    "admin_name": "Toshkent",
+    "lat": "41.3111",
+    "lng": "69.2797",
+    "id": "1860331871"
+  },
+  {
+    "city": "Namangan",
+    "city_ascii": "Namangan",
+    "admin_name": "Namangan",
+    "lat": "41.0011",
+    "lng": "71.6683",
+    "id": "1860894033"
+  },
+  {
+    "city": "Andijon",
+    "city_ascii": "Andijon",
+    "admin_name": "Andijon",
+    "lat": "40.7833",
+    "lng": "72.3333",
+    "id": "1860445095"
+  },
+  {
+    "city": "Samarkand",
+    "city_ascii": "Samarkand",
+    "admin_name": "Samarqand",
+    "lat": "39.6547",
+    "lng": "66.9758",
+    "id": "1860388706"
+  },
+  {
+    "city": "Nukus",
+    "city_ascii": "Nukus",
+    "admin_name": "Qoraqalpog‘iston",
+    "lat": "42.4667",
+    "lng": "59.6000",
+    "id": "1860620079"
+  },
+  {
+    "city": "Farg‘ona",
+    "city_ascii": "Farg`ona",
+    "admin_name": "Farg‘ona",
+    "lat": "40.3864",
+    "lng": "71.7864",
+    "id": "1860479627"
+  },
+  {
+    "city": "Bukhara",
+    "city_ascii": "Bukhara",
+    "admin_name": "Buxoro",
+    "lat": "39.7667",
+    "lng": "64.4231",
+    "id": "1860523678"
+  },
+  {
+    "city": "Qarshi",
+    "city_ascii": "Qarshi",
+    "admin_name": "Qashqadaryo",
+    "lat": "38.8667",
+    "lng": "65.8000",
+    "id": "1860343319"
+  },
+  {
+    "city": "Qo‘qon",
+    "city_ascii": "Qo`qon",
+    "admin_name": "Farg‘ona",
+    "lat": "40.5286",
+    "lng": "70.9425",
+    "id": "1860403462"
+  },
+  {
+    "city": "Marg‘ilon",
+    "city_ascii": "Marg`ilon",
+    "admin_name": "Farg‘ona",
+    "lat": "40.4711",
+    "lng": "71.7247",
+    "id": "1860419224"
+  },
+  {
+    "city": "Jizzax",
+    "city_ascii": "Jizzax",
+    "admin_name": "Jizzax",
+    "lat": "40.1158",
+    "lng": "67.8422",
+    "id": "1860218891"
+  },
+  {
+    "city": "Angren",
+    "city_ascii": "Angren",
+    "admin_name": "Toshkent",
+    "lat": "41.0167",
+    "lng": "70.1436",
+    "id": "1860045958"
+  },
+  {
+    "city": "Termiz",
+    "city_ascii": "Termiz",
+    "admin_name": "Surxondaryo",
+    "lat": "37.2167",
+    "lng": "67.2833",
+    "id": "1860617243"
+  },
+  {
+    "city": "Chirchiq",
+    "city_ascii": "Chirchiq",
+    "admin_name": "Toshkent",
+    "lat": "41.4667",
+    "lng": "69.5833",
+    "id": "1860343195"
+  },
+  {
+    "city": "Urganch",
+    "city_ascii": "Urganch",
+    "admin_name": "Xorazm",
+    "lat": "41.5500",
+    "lng": "60.6333",
+    "id": "1860546433"
+  },
+  {
+    "city": "Navoiy",
+    "city_ascii": "Navoiy",
+    "admin_name": "Navoiy",
+    "lat": "40.0844",
+    "lng": "65.3792",
+    "id": "1860291734"
+  },
+  {
+    "city": "Shahrisabz",
+    "city_ascii": "Shahrisabz",
+    "admin_name": "Qashqadaryo",
+    "lat": "39.0500",
+    "lng": "66.8333",
+    "id": "1860513278"
+  },
+  {
+    "city": "Olmaliq",
+    "city_ascii": "Olmaliq",
+    "admin_name": "Toshkent",
+    "lat": "40.8500",
+    "lng": "69.6000",
+    "id": "1860946502"
+  },
+  {
+    "city": "Xiva",
+    "city_ascii": "Xiva",
+    "admin_name": "Xorazm",
+    "lat": "41.3814",
+    "lng": "60.3611",
+    "id": "1860013300"
+  },
+  {
+    "city": "Kogon Shahri",
+    "city_ascii": "Kogon Shahri",
+    "admin_name": "Buxoro",
+    "lat": "39.7275",
+    "lng": "64.5547",
+    "id": "1860234026"
+  },
+  {
+    "city": "Chust",
+    "city_ascii": "Chust",
+    "admin_name": "Namangan",
+    "lat": "40.9978",
+    "lng": "71.2403",
+    "id": "1860392637"
+  },
+  {
+    "city": "Urgut Shahri",
+    "city_ascii": "Urgut Shahri",
+    "admin_name": "Samarqand",
+    "lat": "39.4190",
+    "lng": "67.2612",
+    "id": "1860562788"
+  },
+  {
+    "city": "Quvasoy",
+    "city_ascii": "Quvasoy",
+    "admin_name": "Farg‘ona",
+    "lat": "40.3000",
+    "lng": "71.9667",
+    "id": "1860491009"
+  },
+  {
+    "city": "Bekobod",
+    "city_ascii": "Bekobod",
+    "admin_name": "Toshkent",
+    "lat": "40.2167",
+    "lng": "69.2167",
+    "id": "1860881451"
+  },
+  {
+    "city": "Kattaqo’rg’on Shahri",
+    "city_ascii": "Kattaqo'rg'on Shahri",
+    "admin_name": "Samarqand",
+    "lat": "39.8989",
+    "lng": "66.2561",
+    "id": "1860871064"
+  },
+  {
+    "city": "Guliston",
+    "city_ascii": "Guliston",
+    "admin_name": "Sirdaryo",
+    "lat": "40.4833",
+    "lng": "68.7833",
+    "id": "1860505287"
+  },
+  {
+    "city": "Zarafshon Shahri",
+    "city_ascii": "Zarafshon Shahri",
+    "admin_name": "Navoiy",
+    "lat": "41.6081",
+    "lng": "64.2264",
+    "id": "1860278868"
+  },
+  {
+    "city": "Denov",
+    "city_ascii": "Denov",
+    "admin_name": "Surxondaryo",
+    "lat": "38.2667",
+    "lng": "67.9000",
+    "id": "1860150082"
+  },
+  {
+    "city": "Shahrixon",
+    "city_ascii": "Shahrixon",
+    "admin_name": "Andijon",
+    "lat": "40.7167",
+    "lng": "72.0500",
+    "id": "1860958957"
+  },
+  {
+    "city": "Xo‘jayli Shahri",
+    "city_ascii": "Xo`jayli Shahri",
+    "admin_name": "Qoraqalpog‘iston",
+    "lat": "42.4000",
+    "lng": "59.4500",
+    "id": "1860783170"
+  },
+  {
+    "city": "Kattagan",
+    "city_ascii": "Kattagan",
+    "admin_name": "Navoiy",
+    "lat": "39.7167",
+    "lng": "64.5500",
+    "id": "1860782136"
+  },
+  {
+    "city": "Asaka",
+    "city_ascii": "Asaka",
+    "admin_name": "Andijon",
+    "lat": "40.6333",
+    "lng": "72.2333",
+    "id": "1860622196"
+  },
+  {
+    "city": "Yangiyŭl",
+    "city_ascii": "Yangiyul",
+    "admin_name": "Toshkent",
+    "lat": "41.1125",
+    "lng": "69.0467",
+    "id": "1860453808"
+  },
+  {
+    "city": "Parkent",
+    "city_ascii": "Parkent",
+    "admin_name": "Toshkent",
+    "lat": "41.2944",
+    "lng": "69.6764",
+    "id": "1860290912"
+  },
+  {
+    "city": "Beruniy",
+    "city_ascii": "Beruniy",
+    "admin_name": "Qoraqalpog‘iston",
+    "lat": "41.6833",
+    "lng": "60.7500",
+    "id": "1860882371"
+  },
+  {
+    "city": "Chortoq",
+    "city_ascii": "Chortoq",
+    "admin_name": "Namangan",
+    "lat": "41.0689",
+    "lng": "71.8153",
+    "id": "1860436436"
+  },
+  {
+    "city": "Kosonsoy",
+    "city_ascii": "Kosonsoy",
+    "admin_name": "Namangan",
+    "lat": "41.2500",
+    "lng": "71.5500",
+    "id": "1860234389"
+  },
+  {
+    "city": "Tŭrtkŭl",
+    "city_ascii": "Turtkul",
+    "admin_name": "Qoraqalpog‘iston",
+    "lat": "41.5500",
+    "lng": "61.0000",
+    "id": "1860664878"
+  },
+  {
+    "city": "Quva",
+    "city_ascii": "Quva",
+    "admin_name": "Farg‘ona",
+    "lat": "40.5247",
+    "lng": "72.0700",
+    "id": "1860496002"
+  },
+  {
+    "city": "Yangiyer",
+    "city_ascii": "Yangiyer",
+    "admin_name": "Sirdaryo",
+    "lat": "40.2667",
+    "lng": "68.8167",
+    "id": "1860492176"
+  },
+  {
+    "city": "Xonobod",
+    "city_ascii": "Xonobod",
+    "admin_name": "Andijon",
+    "lat": "40.8000",
+    "lng": "73.0000",
+    "id": "1860608604"
+  },
+  {
+    "city": "G’ijduvon Shahri",
+    "city_ascii": "G'ijduvon Shahri",
+    "admin_name": "Buxoro",
+    "lat": "40.1000",
+    "lng": "64.6667",
+    "id": "1860839337"
+  },
+  {
+    "city": "Oqtosh Shahri",
+    "city_ascii": "Oqtosh Shahri",
+    "admin_name": "Samarqand",
+    "lat": "39.9269",
+    "lng": "65.9256",
+    "id": "1860821760"
+  },
+  {
+    "city": "Kitob",
+    "city_ascii": "Kitob",
+    "admin_name": "Qashqadaryo",
+    "lat": "39.1336",
+    "lng": "66.8819",
+    "id": "1860210417"
+  },
+  {
+    "city": "Uchqŭrghon Shahri",
+    "city_ascii": "Uchqurghon Shahri",
+    "admin_name": "Namangan",
+    "lat": "41.1214",
+    "lng": "72.0936",
+    "id": "1860013712"
+  },
+  {
+    "city": "Xonqa",
+    "city_ascii": "Xonqa",
+    "admin_name": "Xorazm",
+    "lat": "41.4742",
+    "lng": "60.7822",
+    "id": "1860971478"
+  },
+  {
+    "city": "Ohangaron",
+    "city_ascii": "Ohangaron",
+    "admin_name": "Toshkent",
+    "lat": "40.9061",
+    "lng": "69.6444",
+    "id": "1860082477"
+  },
+  {
+    "city": "Qo‘ng‘irot Shahri",
+    "city_ascii": "Qo`ng`irot Shahri",
+    "admin_name": "Qoraqalpog‘iston",
+    "lat": "43.0521",
+    "lng": "58.8460",
+    "id": "1860555381"
+  },
+  {
+    "city": "Qŭnghirot",
+    "city_ascii": "Qunghirot",
+    "admin_name": "Qoraqalpog‘iston",
+    "lat": "43.0497",
+    "lng": "58.8542",
+    "id": "1860586828"
+  },
+  {
+    "city": "Chimboy Shahri",
+    "city_ascii": "Chimboy Shahri",
+    "admin_name": "Qoraqalpog‘iston",
+    "lat": "42.9295",
+    "lng": "59.7820",
+    "id": "1860167547"
+  },
+  {
+    "city": "Dashtobod",
+    "city_ascii": "Dashtobod",
+    "admin_name": "Jizzax",
+    "lat": "40.1269",
+    "lng": "68.4944",
+    "id": "1860941088"
+  },
+  {
+    "city": "Piskent",
+    "city_ascii": "Piskent",
+    "admin_name": "Toshkent",
+    "lat": "40.8992",
+    "lng": "69.3425",
+    "id": "1860730854"
+  },
+  {
+    "city": "Rishton",
+    "city_ascii": "Rishton",
+    "admin_name": "Farg‘ona",
+    "lat": "40.3567",
+    "lng": "71.2847",
+    "id": "1860062985"
+  },
+  {
+    "city": "Paxtaobod",
+    "city_ascii": "Paxtaobod",
+    "admin_name": "Andijon",
+    "lat": "40.9294",
+    "lng": "72.4969",
+    "id": "1860865597"
+  },
+  {
+    "city": "Manghit",
+    "city_ascii": "Manghit",
+    "admin_name": "Qoraqalpog‘iston",
+    "lat": "42.1167",
+    "lng": "60.0667",
+    "id": "1860400027"
+  },
+  {
+    "city": "Qorasuv",
+    "city_ascii": "Qorasuv",
+    "admin_name": "Andijon",
+    "lat": "40.7222",
+    "lng": "72.8872",
+    "id": "1860791531"
+  },
+  {
+    "city": "Nurota",
+    "city_ascii": "Nurota",
+    "admin_name": "Navoiy",
+    "lat": "40.5650",
+    "lng": "65.6850",
+    "id": "1860266981"
+  },
+  {
+    "city": "Buloqboshi",
+    "city_ascii": "Buloqboshi",
+    "admin_name": "Andijon",
+    "lat": "40.6222",
+    "lng": "72.5028",
+    "id": "1860281423"
+  },
+  {
+    "city": "Qo‘rg‘ontepa",
+    "city_ascii": "Qo`rg`ontepa",
+    "admin_name": "Andijon",
+    "lat": "40.7336",
+    "lng": "72.7583",
+    "id": "1860268246"
+  },
+  {
+    "city": "Keles",
+    "city_ascii": "Keles",
+    "admin_name": "Toshkent",
+    "lat": "41.4033",
+    "lng": "69.2067",
+    "id": "1860903282"
+  },
+  {
+    "city": "To‘raqo‘rg‘on",
+    "city_ascii": "To`raqo`rg`on",
+    "admin_name": "Namangan",
+    "lat": "41.0000",
+    "lng": "71.5158",
+    "id": "1860185154"
+  },
+  {
+    "city": "Pop",
+    "city_ascii": "Pop",
+    "admin_name": "Namangan",
+    "lat": "40.8736",
+    "lng": "71.1089",
+    "id": "1860055055"
+  },
+  {
+    "city": "Uychi",
+    "city_ascii": "Uychi",
+    "admin_name": "Namangan",
+    "lat": "41.0294",
+    "lng": "71.8483",
+    "id": "1860657866"
+  },
+  {
+    "city": "Bulung’ur Shahri",
+    "city_ascii": "Bulung'ur Shahri",
+    "admin_name": "Samarqand",
+    "lat": "39.7600",
+    "lng": "67.2700",
+    "id": "1860452420"
+  },
+  {
+    "city": "Sherobod",
+    "city_ascii": "Sherobod",
+    "admin_name": "Surxondaryo",
+    "lat": "37.6667",
+    "lng": "67.0000",
+    "id": "1860350024"
+  },
+  {
+    "city": "Oltinko‘l",
+    "city_ascii": "Oltinko`l",
+    "admin_name": "Qoraqalpog‘iston",
+    "lat": "43.0758",
+    "lng": "58.9067",
+    "id": "1860833822"
+  },
+  {
+    "city": "Qibray",
+    "city_ascii": "Qibray",
+    "admin_name": "Toshkent",
+    "lat": "41.3897",
+    "lng": "69.4650",
+    "id": "1860400736"
+  },
+  {
+    "city": "Boysun",
+    "city_ascii": "Boysun",
+    "admin_name": "Surxondaryo",
+    "lat": "38.2000",
+    "lng": "67.2000",
+    "id": "1860052863"
+  },
+  {
+    "city": "Gurlan",
+    "city_ascii": "Gurlan",
+    "admin_name": "Xorazm",
+    "lat": "41.8500",
+    "lng": "60.4000",
+    "id": "1860136766"
+  },
+  {
+    "city": "Xovos",
+    "city_ascii": "Xovos",
+    "admin_name": "Sirdaryo",
+    "lat": "40.2197",
+    "lng": "68.8400",
+    "id": "1860506724"
+  },
+  {
+    "city": "Zomin Shaharchasi",
+    "city_ascii": "Zomin Shaharchasi",
+    "admin_name": "Jizzax",
+    "lat": "39.9631",
+    "lng": "68.3939",
+    "id": "1860079464"
+  },
+  {
+    "city": "Haqqulobod",
+    "city_ascii": "Haqqulobod",
+    "admin_name": "Namangan",
+    "lat": "40.9061",
+    "lng": "72.1194",
+    "id": "1860543628"
+  },
+  {
+    "city": "Uchquduq Shahri",
+    "city_ascii": "Uchquduq Shahri",
+    "admin_name": "Navoiy",
+    "lat": "42.1567",
+    "lng": "63.5556",
+    "id": "1860459881"
+  },
+  {
+    "city": "Iskandar",
+    "city_ascii": "Iskandar",
+    "admin_name": "Toshkent",
+    "lat": "41.5581",
+    "lng": "69.7047",
+    "id": "1860285858"
+  },
+  {
+    "city": "Dardoq",
+    "city_ascii": "Dardoq",
+    "admin_name": "Andijon",
+    "lat": "40.8156",
+    "lng": "72.8311",
+    "id": "1860913698"
+  },
+  {
+    "city": "Poytug‘",
+    "city_ascii": "Poytug`",
+    "admin_name": "Andijon",
+    "lat": "40.9000",
+    "lng": "72.2500",
+    "id": "1860067682"
+  },
+  {
+    "city": "Oltiariq",
+    "city_ascii": "Oltiariq",
+    "admin_name": "Farg‘ona",
+    "lat": "40.3917",
+    "lng": "71.4767",
+    "id": "1860439845"
+  },
+  {
+    "city": "Salor",
+    "city_ascii": "Salor",
+    "admin_name": "Toshkent",
+    "lat": "41.3833",
+    "lng": "69.3583",
+    "id": "1860292312"
+  },
+  {
+    "city": "Baliqchi",
+    "city_ascii": "Baliqchi",
+    "admin_name": "Andijon",
+    "lat": "40.9000",
+    "lng": "71.8528",
+    "id": "1860683125"
+  },
+  {
+    "city": "Sho‘rchi",
+    "city_ascii": "Sho`rchi",
+    "admin_name": "Surxondaryo",
+    "lat": "38.0111",
+    "lng": "67.7875",
+    "id": "1860901035"
+  },
+  {
+    "city": "Yaypan",
+    "city_ascii": "Yaypan",
+    "admin_name": "Farg‘ona",
+    "lat": "40.3758",
+    "lng": "70.8156",
+    "id": "1860703672"
+  },
+  {
+    "city": "G’allaorol Shahri",
+    "city_ascii": "G'allaorol Shahri",
+    "admin_name": "Jizzax",
+    "lat": "40.0214",
+    "lng": "67.5975",
+    "id": "1860986830"
+  },
+  {
+    "city": "G‘uzor",
+    "city_ascii": "G`uzor",
+    "admin_name": "Qashqadaryo",
+    "lat": "38.6208",
+    "lng": "66.2481",
+    "id": "1860850796"
+  },
+  {
+    "city": "Chinobod",
+    "city_ascii": "Chinobod",
+    "admin_name": "Andijon",
+    "lat": "40.8767",
+    "lng": "71.9725",
+    "id": "1860184702"
+  },
+  {
+    "city": "Jalolquduq",
+    "city_ascii": "Jalolquduq",
+    "admin_name": "Andijon",
+    "lat": "40.7194",
+    "lng": "72.6428",
+    "id": "1860303427"
+  },
+  {
+    "city": "Paxtakor Shahri",
+    "city_ascii": "Paxtakor Shahri",
+    "admin_name": "Jizzax",
+    "lat": "40.3153",
+    "lng": "67.9544",
+    "id": "1860664894"
+  },
+  {
+    "city": "Chiroqchi",
+    "city_ascii": "Chiroqchi",
+    "admin_name": "Qashqadaryo",
+    "lat": "39.0336",
+    "lng": "66.5739",
+    "id": "1860377999"
+  },
+  {
+    "city": "Chinoz",
+    "city_ascii": "Chinoz",
+    "admin_name": "Toshkent",
+    "lat": "40.9375",
+    "lng": "68.7578",
+    "id": "1860346487"
+  },
+  {
+    "city": "Yangi Marg‘ilon",
+    "city_ascii": "Yangi Marg`ilon",
+    "admin_name": "Farg‘ona",
+    "lat": "40.4311",
+    "lng": "71.7183",
+    "id": "1860305931"
+  },
+  {
+    "city": "Beshariq",
+    "city_ascii": "Beshariq",
+    "admin_name": "Farg‘ona",
+    "lat": "40.4358",
+    "lng": "70.6103",
+    "id": "1860775601"
+  },
+  {
+    "city": "Jarqo‘rg‘on",
+    "city_ascii": "Jarqo`rg`on",
+    "admin_name": "Surxondaryo",
+    "lat": "37.5083",
+    "lng": "67.4167",
+    "id": "1860148120"
+  },
+  {
+    "city": "Qorako‘l Shahri",
+    "city_ascii": "Qorako`l Shahri",
+    "admin_name": "Buxoro",
+    "lat": "39.5028",
+    "lng": "63.8556",
+    "id": "1860899143"
+  },
+  {
+    "city": "Bo‘ka",
+    "city_ascii": "Bo`ka",
+    "admin_name": "Toshkent",
+    "lat": "40.8136",
+    "lng": "69.2019",
+    "id": "1860263265"
+  },
+  {
+    "city": "G‘azalkent",
+    "city_ascii": "G`azalkent",
+    "admin_name": "Toshkent",
+    "lat": "41.5625",
+    "lng": "69.7750",
+    "id": "1860474160"
+  },
+  {
+    "city": "Juma Shahri",
+    "city_ascii": "Juma Shahri",
+    "admin_name": "Samarqand",
+    "lat": "39.7161",
+    "lng": "66.6642",
+    "id": "1860861355"
+  },
+  {
+    "city": "Karmana",
+    "city_ascii": "Karmana",
+    "admin_name": "Navoiy",
+    "lat": "40.1422",
+    "lng": "65.3625",
+    "id": "1860118561"
+  },
+  {
+    "city": "Chelak",
+    "city_ascii": "Chelak",
+    "admin_name": "Samarqand",
+    "lat": "39.9203",
+    "lng": "66.8611",
+    "id": "1860308280"
+  },
+  {
+    "city": "Yakkabog‘",
+    "city_ascii": "Yakkabog`",
+    "admin_name": "Qashqadaryo",
+    "lat": "38.9800",
+    "lng": "66.6800",
+    "id": "1860608586"
+  },
+  {
+    "city": "Xo‘jaobod",
+    "city_ascii": "Xo`jaobod",
+    "admin_name": "Andijon",
+    "lat": "40.6653",
+    "lng": "72.5667",
+    "id": "1860459703"
+  },
+  {
+    "city": "Sultonobod",
+    "city_ascii": "Sultonobod",
+    "admin_name": "Andijon",
+    "lat": "40.7644",
+    "lng": "72.9764",
+    "id": "1860591797"
+  },
+  {
+    "city": "Krasnogorskiy",
+    "city_ascii": "Krasnogorskiy",
+    "admin_name": "Toshkent",
+    "lat": "41.1542",
+    "lng": "69.6697",
+    "id": "1860769739"
+  },
+  {
+    "city": "Shovot",
+    "city_ascii": "Shovot",
+    "admin_name": "Xorazm",
+    "lat": "41.6500",
+    "lng": "60.3000",
+    "id": "1860224573"
+  },
+  {
+    "city": "Beshkent Shahri",
+    "city_ascii": "Beshkent Shahri",
+    "admin_name": "Qashqadaryo",
+    "lat": "38.8167",
+    "lng": "65.6500",
+    "id": "1860873640"
+  },
+  {
+    "city": "Shirin",
+    "city_ascii": "Shirin",
+    "admin_name": "Sirdaryo",
+    "lat": "40.2269",
+    "lng": "69.1344",
+    "id": "1860820392"
+  },
+  {
+    "city": "Hazorasp",
+    "city_ascii": "Hazorasp",
+    "admin_name": "Xorazm",
+    "lat": "41.3167",
+    "lng": "61.0667",
+    "id": "1860504639"
+  },
+  {
+    "city": "Qo’shko’pir",
+    "city_ascii": "Qo'shko'pir",
+    "admin_name": "Xorazm",
+    "lat": "41.5333",
+    "lng": "60.3500",
+    "id": "1860996001"
+  },
+  {
+    "city": "Toshloq",
+    "city_ascii": "Toshloq",
+    "admin_name": "Farg‘ona",
+    "lat": "40.4808",
+    "lng": "71.7608",
+    "id": "1860363369"
+  },
+  {
+    "city": "Do’stlik Shahri",
+    "city_ascii": "Do'stlik Shahri",
+    "admin_name": "Jizzax",
+    "lat": "40.5247",
+    "lng": "68.0358",
+    "id": "1860352571"
+  },
+  {
+    "city": "Vobkent Shahri",
+    "city_ascii": "Vobkent Shahri",
+    "admin_name": "Buxoro",
+    "lat": "40.0333",
+    "lng": "64.5167",
+    "id": "1860136901"
+  },
+  {
+    "city": "Baxt",
+    "city_ascii": "Baxt",
+    "admin_name": "Sirdaryo",
+    "lat": "40.7139",
+    "lng": "68.6933",
+    "id": "1860344342"
+  },
+  {
+    "city": "Jomboy Shahri",
+    "city_ascii": "Jomboy Shahri",
+    "admin_name": "Samarqand",
+    "lat": "39.6989",
+    "lng": "67.0933",
+    "id": "1860586927"
+  },
+  {
+    "city": "Taxtako‘pir",
+    "city_ascii": "Taxtako`pir",
+    "admin_name": "Qoraqalpog‘iston",
+    "lat": "43.0225",
+    "lng": "60.2886",
+    "id": "1860617096"
+  },
+  {
+    "city": "Yangirabot",
+    "city_ascii": "Yangirabot",
+    "admin_name": "Navoiy",
+    "lat": "40.0372",
+    "lng": "65.9653",
+    "id": "1860058903"
+  },
+  {
+    "city": "Yangi Mirishkor",
+    "city_ascii": "Yangi Mirishkor",
+    "admin_name": "Qashqadaryo",
+    "lat": "38.8514",
+    "lng": "65.2778",
+    "id": "1860618656"
+  },
+  {
+    "city": "Druzhba",
+    "city_ascii": "Druzhba",
+    "admin_name": "Xorazm",
+    "lat": "41.2222",
+    "lng": "61.3067",
+    "id": "1860072225"
+  },
+  {
+    "city": "Burbaliq",
+    "city_ascii": "Burbaliq",
+    "admin_name": "Farg‘ona",
+    "lat": "40.3247",
+    "lng": "71.3692",
+    "id": "1860496270"
+  },
+  {
+    "city": "Do‘stobod",
+    "city_ascii": "Do`stobod",
+    "admin_name": "Toshkent",
+    "lat": "40.8564",
+    "lng": "68.9281",
+    "id": "1860923500"
+  },
+  {
+    "city": "Vodil",
+    "city_ascii": "Vodil",
+    "admin_name": "Farg‘ona",
+    "lat": "40.1789",
+    "lng": "71.7297",
+    "id": "1860396622"
+  },
+  {
+    "city": "Sardoba",
+    "city_ascii": "Sardoba",
+    "admin_name": "Sirdaryo",
+    "lat": "40.5422",
+    "lng": "68.4125",
+    "id": "1860363244"
+  },
+  {
+    "city": "Ishtixon Shahri",
+    "city_ascii": "Ishtixon Shahri",
+    "admin_name": "Samarqand",
+    "lat": "39.9664",
+    "lng": "66.4861",
+    "id": "1860693720"
+  },
+  {
+    "city": "Gagarin Shahri",
+    "city_ascii": "Gagarin Shahri",
+    "admin_name": "Jizzax",
+    "lat": "40.6619",
+    "lng": "68.1722",
+    "id": "1860088960"
+  },
+  {
+    "city": "Kimyogarlar",
+    "city_ascii": "Kimyogarlar",
+    "admin_name": "Samarqand",
+    "lat": "39.6672",
+    "lng": "66.8461",
+    "id": "1860415259"
+  },
+  {
+    "city": "Qumqo‘rg‘on",
+    "city_ascii": "Qumqo`rg`on",
+    "admin_name": "Surxondaryo",
+    "lat": "37.8278",
+    "lng": "67.5972",
+    "id": "1860294369"
+  },
+  {
+    "city": "Tinchlik",
+    "city_ascii": "Tinchlik",
+    "admin_name": "Farg‘ona",
+    "lat": "40.4264",
+    "lng": "71.4956",
+    "id": "1860903091"
+  },
+  {
+    "city": "Uzun",
+    "city_ascii": "Uzun",
+    "admin_name": "Surxondaryo",
+    "lat": "38.3667",
+    "lng": "68.0056",
+    "id": "1860948605"
+  },
+  {
+    "city": "Bo‘ston",
+    "city_ascii": "Bo`ston",
+    "admin_name": "Qoraqalpog‘iston",
+    "lat": "41.8500",
+    "lng": "60.9333",
+    "id": "1860795913"
+  },
+  {
+    "city": "Romitan Shahri",
+    "city_ascii": "Romitan Shahri",
+    "admin_name": "Buxoro",
+    "lat": "39.9333",
+    "lng": "64.3833",
+    "id": "1860913419"
+  },
+  {
+    "city": "Sariosiyo",
+    "city_ascii": "Sariosiyo",
+    "admin_name": "Surxondaryo",
+    "lat": "38.4133",
+    "lng": "67.9572",
+    "id": "1860882708"
+  },
+  {
+    "city": "O‘nhayot",
+    "city_ascii": "O`nhayot",
+    "admin_name": "Namangan",
+    "lat": "41.0103",
+    "lng": "71.7614",
+    "id": "1860318016"
+  },
+  {
+    "city": "Shofirkon Shahri",
+    "city_ascii": "Shofirkon Shahri",
+    "admin_name": "Buxoro",
+    "lat": "40.1167",
+    "lng": "64.5000",
+    "id": "1860579364"
+  },
+  {
+    "city": "Boyovut",
+    "city_ascii": "Boyovut",
+    "admin_name": "Sirdaryo",
+    "lat": "40.2822",
+    "lng": "69.0183",
+    "id": "1860318919"
+  },
+  {
+    "city": "Toyloq Qishlog’i",
+    "city_ascii": "Toyloq Qishlog'i",
+    "admin_name": "Samarqand",
+    "lat": "39.6014",
+    "lng": "67.0908",
+    "id": "1860817167"
+  },
+  {
+    "city": "Sariq",
+    "city_ascii": "Sariq",
+    "admin_name": "Surxondaryo",
+    "lat": "37.6722",
+    "lng": "67.2375",
+    "id": "1860642236"
+  },
+  {
+    "city": "Marhamat",
+    "city_ascii": "Marhamat",
+    "admin_name": "Andijon",
+    "lat": "40.5000",
+    "lng": "72.3333",
+    "id": "1860259161"
+  },
+  {
+    "city": "Mŭynoq",
+    "city_ascii": "Muynoq",
+    "admin_name": "Qoraqalpog‘iston",
+    "lat": "43.7667",
+    "lng": "59.0333",
+    "id": "1860204414"
+  },
+  {
+    "city": "Nishon Tumani",
+    "city_ascii": "Nishon Tumani",
+    "admin_name": "Qashqadaryo",
+    "lat": "38.6558",
+    "lng": "65.6994",
+    "id": "1860315743"
+  },
+  {
+    "city": "Charxin",
+    "city_ascii": "Charxin",
+    "admin_name": "Samarqand",
+    "lat": "39.6967",
+    "lng": "66.7686",
+    "id": "1860828377"
+  },
+  {
+    "city": "Ŭrtaowul",
+    "city_ascii": "Urtaowul",
+    "admin_name": "Toshkent",
+    "lat": "41.1908",
+    "lng": "69.1494",
+    "id": "1860578331"
+  },
+  {
+    "city": "Bag‘dod",
+    "city_ascii": "Bag`dod",
+    "admin_name": "Farg‘ona",
+    "lat": "40.4606",
+    "lng": "71.2214",
+    "id": "1860308372"
+  },
+  {
+    "city": "Yozyovon",
+    "city_ascii": "Yozyovon",
+    "admin_name": "Farg‘ona",
+    "lat": "40.6619",
+    "lng": "71.7431",
+    "id": "1860299143"
+  },
+  {
+    "city": "Loyish Shaharchasi",
+    "city_ascii": "Loyish Shaharchasi",
+    "admin_name": "Samarqand",
+    "lat": "39.8839",
+    "lng": "66.7481",
+    "id": "1860150334"
+  },
+  {
+    "city": "Galaosiyo Shahri",
+    "city_ascii": "Galaosiyo Shahri",
+    "admin_name": "Buxoro",
+    "lat": "39.8500",
+    "lng": "64.4500",
+    "id": "1860860569"
+  },
+  {
+    "city": "Eski Arab",
+    "city_ascii": "Eski Arab",
+    "admin_name": "Farg‘ona",
+    "lat": "40.3686",
+    "lng": "71.4231",
+    "id": "1860690514"
+  },
+  {
+    "city": "Kegeyli Shahar",
+    "city_ascii": "Kegeyli Shahar",
+    "admin_name": "Qoraqalpog‘iston",
+    "lat": "42.7767",
+    "lng": "59.6078",
+    "id": "1860388394"
+  },
+  {
+    "city": "Payariq Shahri",
+    "city_ascii": "Payariq Shahri",
+    "admin_name": "Samarqand",
+    "lat": "39.9892",
+    "lng": "66.8458",
+    "id": "1860124573"
+  },
+  {
+    "city": "Qorao‘zak",
+    "city_ascii": "Qorao`zak",
+    "admin_name": "Qoraqalpog‘iston",
+    "lat": "43.0275",
+    "lng": "60.0125",
+    "id": "1860367424"
+  },
+  {
+    "city": "G’oliblar Qishlog’i",
+    "city_ascii": "G'oliblar Qishlog'i",
+    "admin_name": "Jizzax",
+    "lat": "40.4953",
+    "lng": "67.8778",
+    "id": "1860811696"
+  },
+  {
+    "city": "Qiziltepa",
+    "city_ascii": "Qiziltepa",
+    "admin_name": "Navoiy",
+    "lat": "40.0361",
+    "lng": "64.8503",
+    "id": "1860348538"
+  },
+  {
+    "city": "Paxtaobod",
+    "city_ascii": "Paxtaobod",
+    "admin_name": "Sirdaryo",
+    "lat": "40.3453",
+    "lng": "68.1925",
+    "id": "1860473254"
+  },
+  {
+    "city": "Kuyganyor",
+    "city_ascii": "Kuyganyor",
+    "admin_name": "Andijon",
+    "lat": "40.8611",
+    "lng": "72.3111",
+    "id": "1860676676"
+  },
+  {
+    "city": "Andijon",
+    "city_ascii": "Andijon",
+    "admin_name": "Andijon",
+    "lat": "40.6444",
+    "lng": "72.3639",
+    "id": "1860676293"
+  },
+  {
+    "city": "Yangiariq",
+    "city_ascii": "Yangiariq",
+    "admin_name": "Xorazm",
+    "lat": "41.3628",
+    "lng": "60.6075",
+    "id": "1860360954"
+  },
+  {
+    "city": "Gulbahor",
+    "city_ascii": "Gulbahor",
+    "admin_name": "Toshkent",
+    "lat": "41.0747",
+    "lng": "69.0275",
+    "id": "1860823540"
+  },
+  {
+    "city": "Oqqo‘rg‘on",
+    "city_ascii": "Oqqo`rg`on",
+    "admin_name": "Toshkent",
+    "lat": "40.8764",
+    "lng": "69.0453",
+    "id": "1860153212"
+  },
+  {
+    "city": "Qorashina",
+    "city_ascii": "Qorashina",
+    "admin_name": "Qashqadaryo",
+    "lat": "38.3394",
+    "lng": "66.5619",
+    "id": "1860549169"
+  },
+  {
+    "city": "Ziyodin Shaharchasi",
+    "city_ascii": "Ziyodin Shaharchasi",
+    "admin_name": "Samarqand",
+    "lat": "40.0342",
+    "lng": "65.6547",
+    "id": "1860117701"
+  },
+  {
+    "city": "Payshamba Shahri",
+    "city_ascii": "Payshamba Shahri",
+    "admin_name": "Samarqand",
+    "lat": "40.0078",
+    "lng": "66.2372",
+    "id": "1860071345"
+  },
+  {
+    "city": "Yangiqo‘rg‘on",
+    "city_ascii": "Yangiqo`rg`on",
+    "admin_name": "Namangan",
+    "lat": "41.1872",
+    "lng": "71.7333",
+    "id": "1860687497"
+  },
+  {
+    "city": "Dang‘ara",
+    "city_ascii": "Dang`ara",
+    "admin_name": "Farg‘ona",
+    "lat": "40.5831",
+    "lng": "70.9100",
+    "id": "1860878962"
+  },
+  {
+    "city": "Sharg‘un",
+    "city_ascii": "Sharg`un",
+    "admin_name": "Surxondaryo",
+    "lat": "38.4600",
+    "lng": "67.9669",
+    "id": "1860470094"
+  },
+  {
+    "city": "Eski Yakkabog‘",
+    "city_ascii": "Eski Yakkabog`",
+    "admin_name": "Qashqadaryo",
+    "lat": "38.9314",
+    "lng": "66.8389",
+    "id": "1860248125"
+  },
+  {
+    "city": "Tallimarjon Shahri",
+    "city_ascii": "Tallimarjon Shahri",
+    "admin_name": "Qashqadaryo",
+    "lat": "38.2967",
+    "lng": "65.5533",
+    "id": "1860832901"
+  },
+  {
+    "city": "Bog’ot",
+    "city_ascii": "Bog'ot",
+    "admin_name": "Xorazm",
+    "lat": "41.3500",
+    "lng": "60.8167",
+    "id": "1860558228"
+  },
+  {
+    "city": "Shumanay",
+    "city_ascii": "Shumanay",
+    "admin_name": "Qoraqalpog‘iston",
+    "lat": "42.6333",
+    "lng": "58.9167",
+    "id": "1860689478"
+  },
+  {
+    "city": "Usmat Shaharchasi",
+    "city_ascii": "Usmat Shaharchasi",
+    "admin_name": "Jizzax",
+    "lat": "39.7386",
+    "lng": "67.6433",
+    "id": "1860775970"
+  },
+  {
+    "city": "Dehqonobod",
+    "city_ascii": "Dehqonobod",
+    "admin_name": "Sirdaryo",
+    "lat": "40.5314",
+    "lng": "69.0342",
+    "id": "1860018395"
+  },
+  {
+    "city": "Nuriston",
+    "city_ascii": "Nuriston",
+    "admin_name": "Qashqadaryo",
+    "lat": "38.4892",
+    "lng": "65.6464",
+    "id": "1860752520"
+  },
+  {
+    "city": "Qanliko‘l",
+    "city_ascii": "Qanliko`l",
+    "admin_name": "Qoraqalpog‘iston",
+    "lat": "42.8333",
+    "lng": "59.0000",
+    "id": "1860774875"
+  },
+  {
+    "city": "Uchtepa Qishlog’i",
+    "city_ascii": "Uchtepa Qishlog'i",
+    "admin_name": "Jizzax",
+    "lat": "40.2050",
+    "lng": "67.9011",
+    "id": "1860078852"
+  },
+  {
+    "city": "Bandixon",
+    "city_ascii": "Bandixon",
+    "admin_name": "Surxondaryo",
+    "lat": "37.8614",
+    "lng": "67.3861",
+    "id": "1860730095"
+  },
+  {
+    "city": "Jomasho‘y",
+    "city_ascii": "Jomasho`y",
+    "admin_name": "Namangan",
+    "lat": "40.8633",
+    "lng": "71.4597",
+    "id": "1860251898"
+  },
+  {
+    "city": "Shohimardon",
+    "city_ascii": "Shohimardon",
+    "admin_name": "Farg‘ona",
+    "lat": "39.9833",
+    "lng": "71.8000",
+    "id": "1860836599"
+  },
+  {
+    "city": "Xishrov",
+    "city_ascii": "Xishrov",
+    "admin_name": "Samarqand",
+    "lat": "39.6383",
+    "lng": "66.8897",
+    "id": "1860278182"
+  },
+  {
+    "city": "Oyim",
+    "city_ascii": "Oyim",
+    "admin_name": "Andijon",
+    "lat": "40.8242",
+    "lng": "72.7414",
+    "id": "1860819147"
+  },
+  {
+    "city": "Ingichka",
+    "city_ascii": "Ingichka",
+    "admin_name": "Samarqand",
+    "lat": "39.7389",
+    "lng": "65.9922",
+    "id": "1860688085"
+  },
+  {
+    "city": "Nurobod Shahri",
+    "city_ascii": "Nurobod Shahri",
+    "admin_name": "Samarqand",
+    "lat": "39.6086",
+    "lng": "66.2867",
+    "id": "1860030602"
+  },
+  {
+    "city": "Bo‘z",
+    "city_ascii": "Bo`z",
+    "admin_name": "Andijon",
+    "lat": "40.6833",
+    "lng": "71.9167",
+    "id": "1860854695"
+  },
+  {
+    "city": "Xalqobod",
+    "city_ascii": "Xalqobod",
+    "admin_name": "Surxondaryo",
+    "lat": "37.4597",
+    "lng": "66.9222",
+    "id": "1860446608"
+  },
+  {
+    "city": "Qorovulbozor",
+    "city_ascii": "Qorovulbozor",
+    "admin_name": "Buxoro",
+    "lat": "39.5000",
+    "lng": "64.8000",
+    "id": "1860000615"
+  },
+  {
+    "city": "Zarbdor Shaharchasi",
+    "city_ascii": "Zarbdor Shaharchasi",
+    "admin_name": "Jizzax",
+    "lat": "40.0747",
+    "lng": "68.1683",
+    "id": "1860740472"
+  },
+  {
+    "city": "Dahbed",
+    "city_ascii": "Dahbed",
+    "admin_name": "Samarqand",
+    "lat": "39.7636",
+    "lng": "66.9131",
+    "id": "1860321921"
+  },
+  {
+    "city": "Qahramon",
+    "city_ascii": "Qahramon",
+    "admin_name": "Sirdaryo",
+    "lat": "40.3050",
+    "lng": "68.6017",
+    "id": "1860810536"
+  },
+  {
+    "city": "Yangiobod",
+    "city_ascii": "Yangiobod",
+    "admin_name": "Toshkent",
+    "lat": "41.1192",
+    "lng": "70.0942",
+    "id": "1860896994"
+  },
+  {
+    "city": "Angor",
+    "city_ascii": "Angor",
+    "admin_name": "Surxondaryo",
+    "lat": "37.4639",
+    "lng": "67.1500",
+    "id": "1860931614"
+  },
+  {
+    "city": "G‘ozg‘on",
+    "city_ascii": "G`ozg`on",
+    "admin_name": "Navoiy",
+    "lat": "40.5944",
+    "lng": "65.4964",
+    "id": "1860129710"
+  },
+  {
+    "city": "Jondor Shaharchasi",
+    "city_ascii": "Jondor Shaharchasi",
+    "admin_name": "Buxoro",
+    "lat": "39.7333",
+    "lng": "64.1833",
+    "id": "1860971461"
+  },
+  {
+    "city": "Qoravul",
+    "city_ascii": "Qoravul",
+    "admin_name": "Xorazm",
+    "lat": "41.5569",
+    "lng": "60.5914",
+    "id": "1860000815"
+  },
+  {
+    "city": "Qorovul",
+    "city_ascii": "Qorovul",
+    "admin_name": "Xorazm",
+    "lat": "41.5538",
+    "lng": "60.5823",
+    "id": "1860937148"
+  },
+  {
+    "city": "Tŭytepa",
+    "city_ascii": "Tuytepa",
+    "admin_name": "Toshkent",
+    "lat": "41.0428",
+    "lng": "69.3572",
+    "id": "1860436043"
+  }
+]

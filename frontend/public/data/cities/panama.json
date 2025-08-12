@@ -1,0 +1,298 @@
+[
+  {
+    "city": "Panama City",
+    "city_ascii": "Panama City",
+    "admin_name": "Panamá",
+    "lat": "8.9711",
+    "lng": "-79.5347",
+    "id": "1591672475"
+  },
+  {
+    "city": "San Miguelito",
+    "city_ascii": "San Miguelito",
+    "admin_name": "Panamá",
+    "lat": "9.0503",
+    "lng": "-79.4707",
+    "id": "1591394184"
+  },
+  {
+    "city": "David",
+    "city_ascii": "David",
+    "admin_name": "Chiriquí",
+    "lat": "8.4333",
+    "lng": "-82.4333",
+    "id": "1591487342"
+  },
+  {
+    "city": "Colón",
+    "city_ascii": "Colon",
+    "admin_name": "Colón",
+    "lat": "9.3650",
+    "lng": "-79.8750",
+    "id": "1591599922"
+  },
+  {
+    "city": "Tocumen",
+    "city_ascii": "Tocumen",
+    "admin_name": "Panamá",
+    "lat": "9.0894",
+    "lng": "-79.3831",
+    "id": "1591862635"
+  },
+  {
+    "city": "La Chorrera",
+    "city_ascii": "La Chorrera",
+    "admin_name": "Panamá Oeste",
+    "lat": "8.8792",
+    "lng": "-79.7822",
+    "id": "1591982720"
+  },
+  {
+    "city": "Balboa Heights",
+    "city_ascii": "Balboa Heights",
+    "admin_name": "Panamá",
+    "lat": "8.9500",
+    "lng": "-79.5500",
+    "id": "1591234164"
+  },
+  {
+    "city": "Chilibre",
+    "city_ascii": "Chilibre",
+    "admin_name": "Panamá",
+    "lat": "9.1540",
+    "lng": "-79.6202",
+    "id": "1591081204"
+  },
+  {
+    "city": "Pacora",
+    "city_ascii": "Pacora",
+    "admin_name": "Panamá",
+    "lat": "9.0800",
+    "lng": "-79.2800",
+    "id": "1591023850"
+  },
+  {
+    "city": "Aguadulce",
+    "city_ascii": "Aguadulce",
+    "admin_name": "Coclé",
+    "lat": "8.2415",
+    "lng": "-80.5398",
+    "id": "1591589017"
+  },
+  {
+    "city": "Santiago",
+    "city_ascii": "Santiago",
+    "admin_name": "Veraguas",
+    "lat": "8.1004",
+    "lng": "-80.9833",
+    "id": "1591231138"
+  },
+  {
+    "city": "Alcalde Díaz",
+    "city_ascii": "Alcalde Diaz",
+    "admin_name": "Panamá",
+    "lat": "9.1227",
+    "lng": "-79.5567",
+    "id": "1591462898"
+  },
+  {
+    "city": "Arraiján",
+    "city_ascii": "Arraijan",
+    "admin_name": "Panamá Oeste",
+    "lat": "8.9398",
+    "lng": "-79.6404",
+    "id": "1591458943"
+  },
+  {
+    "city": "Cativá",
+    "city_ascii": "Cativa",
+    "admin_name": "Colón",
+    "lat": "9.3624",
+    "lng": "-79.8357",
+    "id": "1591118642"
+  },
+  {
+    "city": "Kusapín",
+    "city_ascii": "Kusapin",
+    "admin_name": "Ngäbe-Buglé",
+    "lat": "9.1800",
+    "lng": "-81.8900",
+    "id": "1591073084"
+  },
+  {
+    "city": "Changuinola",
+    "city_ascii": "Changuinola",
+    "admin_name": "Bocas del Toro",
+    "lat": "9.4333",
+    "lng": "-82.5167",
+    "id": "1591849136"
+  },
+  {
+    "city": "Ancón",
+    "city_ascii": "Ancon",
+    "admin_name": "Panamá",
+    "lat": "8.9627",
+    "lng": "-79.5474",
+    "id": "1591827249"
+  },
+  {
+    "city": "Nuevo Arraiján",
+    "city_ascii": "Nuevo Arraijan",
+    "admin_name": "Panamá Oeste",
+    "lat": "8.9200",
+    "lng": "-79.7200",
+    "id": "1591824667"
+  },
+  {
+    "city": "Penonomé",
+    "city_ascii": "Penonome",
+    "admin_name": "Coclé",
+    "lat": "8.5187",
+    "lng": "-80.3553",
+    "id": "1591602960"
+  },
+  {
+    "city": "Chepo",
+    "city_ascii": "Chepo",
+    "admin_name": "Panamá",
+    "lat": "9.1678",
+    "lng": "-79.0935",
+    "id": "1591679968"
+  },
+  {
+    "city": "Puerto Armuelles",
+    "city_ascii": "Puerto Armuelles",
+    "admin_name": "Chiriquí",
+    "lat": "8.2833",
+    "lng": "-82.8667",
+    "id": "1591562054"
+  },
+  {
+    "city": "El Coco",
+    "city_ascii": "El Coco",
+    "admin_name": "Panamá Oeste",
+    "lat": "8.8701",
+    "lng": "-79.8041",
+    "id": "1591500996"
+  },
+  {
+    "city": "Sabanitas",
+    "city_ascii": "Sabanitas",
+    "admin_name": "Colón",
+    "lat": "9.3452",
+    "lng": "-79.8054",
+    "id": "1591407052"
+  },
+  {
+    "city": "Bajo Boquete",
+    "city_ascii": "Bajo Boquete",
+    "admin_name": "Chiriquí",
+    "lat": "8.7800",
+    "lng": "-82.4400",
+    "id": "1591141139"
+  },
+  {
+    "city": "Puerto Caimito",
+    "city_ascii": "Puerto Caimito",
+    "admin_name": "Panamá Oeste",
+    "lat": "8.8739",
+    "lng": "-79.7157",
+    "id": "1591589350"
+  },
+  {
+    "city": "Puerto Pilón",
+    "city_ascii": "Puerto Pilon",
+    "admin_name": "Colón",
+    "lat": "9.3632",
+    "lng": "-79.7933",
+    "id": "1591571377"
+  },
+  {
+    "city": "Bocas del Toro",
+    "city_ascii": "Bocas del Toro",
+    "admin_name": "Bocas del Toro",
+    "lat": "9.3333",
+    "lng": "-82.2500",
+    "id": "1591037947"
+  },
+  {
+    "city": "Almirante",
+    "city_ascii": "Almirante",
+    "admin_name": "Bocas del Toro",
+    "lat": "9.3000",
+    "lng": "-82.4000",
+    "id": "1591293829"
+  },
+  {
+    "city": "Paso Canoas",
+    "city_ascii": "Paso Canoas",
+    "admin_name": "Chiriquí",
+    "lat": "8.5333",
+    "lng": "-82.8333",
+    "id": "1591880725"
+  },
+  {
+    "city": "Las Tablas",
+    "city_ascii": "Las Tablas",
+    "admin_name": "Los Santos",
+    "lat": "7.7667",
+    "lng": "-80.2833",
+    "id": "1591472114"
+  },
+  {
+    "city": "La Palma",
+    "city_ascii": "La Palma",
+    "admin_name": "Darién",
+    "lat": "8.3982",
+    "lng": "-78.1402",
+    "id": "1591177082"
+  },
+  {
+    "city": "Jaqué",
+    "city_ascii": "Jaque",
+    "admin_name": "Darién",
+    "lat": "7.5190",
+    "lng": "-78.1660",
+    "id": "1591579329"
+  },
+  {
+    "city": "Buabidi",
+    "city_ascii": "Buabidi",
+    "admin_name": "Ngäbe-Buglé",
+    "lat": "8.4667",
+    "lng": "-81.7000",
+    "id": "1591495919"
+  },
+  {
+    "city": "Chitré",
+    "city_ascii": "Chitre",
+    "admin_name": "Herrera",
+    "lat": "7.9667",
+    "lng": "-80.4333",
+    "id": "1591257375"
+  },
+  {
+    "city": "Gaigirgordub",
+    "city_ascii": "Gaigirgordub",
+    "admin_name": "Guna Yala",
+    "lat": "9.5583",
+    "lng": "-78.9483",
+    "id": "1591425685"
+  },
+  {
+    "city": "Unión Chocó",
+    "city_ascii": "Union Choco",
+    "admin_name": "Emberá-Wounaan",
+    "lat": "8.0778",
+    "lng": "-77.5583",
+    "id": "1591671914"
+  },
+  {
+    "city": "Sieyik",
+    "city_ascii": "Sieyik",
+    "admin_name": "Naso Tjër Di",
+    "lat": "9.3833",
+    "lng": "-82.6522",
+    "id": "1591986999"
+  }
+]

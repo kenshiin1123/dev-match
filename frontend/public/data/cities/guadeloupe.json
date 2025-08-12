@@ -1,0 +1,18 @@
+[
+  {
+    "city": "Pointe-à-Pitre",
+    "city_ascii": "Pointe-a-Pitre",
+    "admin_name": "",
+    "lat": "16.2411",
+    "lng": "-61.5331",
+    "id": "1312460524"
+  },
+  {
+    "city": "Basse-Terre",
+    "city_ascii": "Basse-Terre",
+    "admin_name": "",
+    "lat": "16.0104",
+    "lng": "-61.7055",
+    "id": "1312938008"
+  }
+]

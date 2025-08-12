@@ -1,0 +1,50 @@
+[
+  {
+    "city": "Port-Vila",
+    "city_ascii": "Port-Vila",
+    "admin_name": "Shefa",
+    "lat": "-17.7333",
+    "lng": "168.3167",
+    "id": "1548805075"
+  },
+  {
+    "city": "Luganville",
+    "city_ascii": "Luganville",
+    "admin_name": "Sanma",
+    "lat": "-15.5333",
+    "lng": "167.1667",
+    "id": "1548569362"
+  },
+  {
+    "city": "Isangel",
+    "city_ascii": "Isangel",
+    "admin_name": "Tafea",
+    "lat": "-19.5300",
+    "lng": "169.2800",
+    "id": "1548941443"
+  },
+  {
+    "city": "Lakatoro",
+    "city_ascii": "Lakatoro",
+    "admin_name": "Malampa",
+    "lat": "-16.1069",
+    "lng": "167.4208",
+    "id": "1548761183"
+  },
+  {
+    "city": "Sola",
+    "city_ascii": "Sola",
+    "admin_name": "Torba",
+    "lat": "-13.8750",
+    "lng": "167.5500",
+    "id": "1548600754"
+  },
+  {
+    "city": "Saratamata",
+    "city_ascii": "Saratamata",
+    "admin_name": "Penama",
+    "lat": "-15.2875",
+    "lng": "167.9903",
+    "id": "1548907051"
+  }
+]

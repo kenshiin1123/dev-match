@@ -1,0 +1,162 @@
+[
+  {
+    "city": "Lomé",
+    "city_ascii": "Lome",
+    "admin_name": "Maritime",
+    "lat": "6.1308",
+    "lng": "1.2153",
+    "id": "1768409132"
+  },
+  {
+    "city": "Sokodé",
+    "city_ascii": "Sokode",
+    "admin_name": "Centrale",
+    "lat": "8.9833",
+    "lng": "1.1333",
+    "id": "1768875145"
+  },
+  {
+    "city": "Atakpamé",
+    "city_ascii": "Atakpame",
+    "admin_name": "Plateaux",
+    "lat": "7.5269",
+    "lng": "1.1267",
+    "id": "1768070717"
+  },
+  {
+    "city": "Kpalimé",
+    "city_ascii": "Kpalime",
+    "admin_name": "Plateaux",
+    "lat": "6.9000",
+    "lng": "0.6333",
+    "id": "1768253626"
+  },
+  {
+    "city": "Dapaong",
+    "city_ascii": "Dapaong",
+    "admin_name": "Savanes",
+    "lat": "10.8667",
+    "lng": "0.2000",
+    "id": "1768366976"
+  },
+  {
+    "city": "Tsévié",
+    "city_ascii": "Tsevie",
+    "admin_name": "Maritime",
+    "lat": "6.4333",
+    "lng": "1.2167",
+    "id": "1768281903"
+  },
+  {
+    "city": "Notsé",
+    "city_ascii": "Notse",
+    "admin_name": "Plateaux",
+    "lat": "6.9483",
+    "lng": "1.1681",
+    "id": "1768108332"
+  },
+  {
+    "city": "Sansanné-Mango",
+    "city_ascii": "Sansanne-Mango",
+    "admin_name": "Savanes",
+    "lat": "10.3556",
+    "lng": "0.4756",
+    "id": "1768815814"
+  },
+  {
+    "city": "Tabligbo",
+    "city_ascii": "Tabligbo",
+    "admin_name": "Maritime",
+    "lat": "6.5833",
+    "lng": "1.5000",
+    "id": "1768943625"
+  },
+  {
+    "city": "Sotouboua",
+    "city_ascii": "Sotouboua",
+    "admin_name": "Centrale",
+    "lat": "8.5667",
+    "lng": "0.9833",
+    "id": "1768355631"
+  },
+  {
+    "city": "Aného",
+    "city_ascii": "Aneho",
+    "admin_name": "Maritime",
+    "lat": "6.2333",
+    "lng": "1.6000",
+    "id": "1768922287"
+  },
+  {
+    "city": "Badou",
+    "city_ascii": "Badou",
+    "admin_name": "Plateaux",
+    "lat": "7.5833",
+    "lng": "0.6000",
+    "id": "1768728398"
+  },
+  {
+    "city": "Niamtougou",
+    "city_ascii": "Niamtougou",
+    "admin_name": "Kara",
+    "lat": "9.7667",
+    "lng": "1.1000",
+    "id": "1768703422"
+  },
+  {
+    "city": "Bassar",
+    "city_ascii": "Bassar",
+    "admin_name": "Kara",
+    "lat": "9.2500",
+    "lng": "0.7833",
+    "id": "1768050143"
+  },
+  {
+    "city": "Bafilo",
+    "city_ascii": "Bafilo",
+    "admin_name": "Kara",
+    "lat": "9.3500",
+    "lng": "1.2667",
+    "id": "1768588000"
+  },
+  {
+    "city": "Afanyangan",
+    "city_ascii": "Afanyangan",
+    "admin_name": "Maritime",
+    "lat": "6.4833",
+    "lng": "1.6500",
+    "id": "1768926605"
+  },
+  {
+    "city": "Kévé",
+    "city_ascii": "Keve",
+    "admin_name": "Maritime",
+    "lat": "6.4278",
+    "lng": "0.9245",
+    "id": "1768316152"
+  },
+  {
+    "city": "Blitta",
+    "city_ascii": "Blitta",
+    "admin_name": "Centrale",
+    "lat": "8.3234",
+    "lng": "0.9859",
+    "id": "1768095993"
+  },
+  {
+    "city": "Sirka",
+    "city_ascii": "Sirka",
+    "admin_name": "Kara",
+    "lat": "9.5719",
+    "lng": "1.3183",
+    "id": "1768994330"
+  },
+  {
+    "city": "Kara",
+    "city_ascii": "Kara",
+    "admin_name": "Kara",
+    "lat": "9.5511",
+    "lng": "1.1861",
+    "id": "1768768827"
+  }
+]

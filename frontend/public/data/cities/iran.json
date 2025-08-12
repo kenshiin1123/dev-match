@@ -1,0 +1,4010 @@
+[
+  {
+    "city": "Tehran",
+    "city_ascii": "Tehran",
+    "admin_name": "Tehrān",
+    "lat": "35.6889",
+    "lng": "51.3897",
+    "id": "1364305026"
+  },
+  {
+    "city": "Mashhad",
+    "city_ascii": "Mashhad",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "36.3264",
+    "lng": "59.5433",
+    "id": "1364123206"
+  },
+  {
+    "city": "Eşfahān",
+    "city_ascii": "Esfahan",
+    "admin_name": "Eşfahān",
+    "lat": "32.6653",
+    "lng": "51.6703",
+    "id": "1364023865"
+  },
+  {
+    "city": "Karaj",
+    "city_ascii": "Karaj",
+    "admin_name": "Alborz",
+    "lat": "35.8292",
+    "lng": "50.9675",
+    "id": "1364258511"
+  },
+  {
+    "city": "Shīrāz",
+    "city_ascii": "Shiraz",
+    "admin_name": "Fārs",
+    "lat": "29.6100",
+    "lng": "52.5425",
+    "id": "1364432238"
+  },
+  {
+    "city": "Tabrīz",
+    "city_ascii": "Tabriz",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "38.0817",
+    "lng": "46.2992",
+    "id": "1364141756"
+  },
+  {
+    "city": "Ahvāz",
+    "city_ascii": "Ahvaz",
+    "admin_name": "Khūzestān",
+    "lat": "31.3047",
+    "lng": "48.6783",
+    "id": "1364350188"
+  },
+  {
+    "city": "Qom",
+    "city_ascii": "Qom",
+    "admin_name": "Qom",
+    "lat": "34.6400",
+    "lng": "50.8764",
+    "id": "1364701633"
+  },
+  {
+    "city": "Kermānshāh",
+    "city_ascii": "Kermanshah",
+    "admin_name": "Kermānshāh",
+    "lat": "34.3369",
+    "lng": "47.0911",
+    "id": "1364535690"
+  },
+  {
+    "city": "Kermān",
+    "city_ascii": "Kerman",
+    "admin_name": "Kermān",
+    "lat": "30.2625",
+    "lng": "57.0575",
+    "id": "1364554896"
+  },
+  {
+    "city": "Orūmīyeh",
+    "city_ascii": "Orumiyeh",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "37.5439",
+    "lng": "45.0647",
+    "id": "1364158221"
+  },
+  {
+    "city": "Borvāyeh-ye Al Bū ‘Azīz",
+    "city_ascii": "Borvayeh-ye Al Bu `Aziz",
+    "admin_name": "Khūzestān",
+    "lat": "31.6283",
+    "lng": "48.6147",
+    "id": "1364441069"
+  },
+  {
+    "city": "Rasht",
+    "city_ascii": "Rasht",
+    "admin_name": "Gīlān",
+    "lat": "37.2744",
+    "lng": "49.5889",
+    "id": "1364630382"
+  },
+  {
+    "city": "Bahār",
+    "city_ascii": "Bahar",
+    "admin_name": "Hamadān",
+    "lat": "34.9078",
+    "lng": "48.4394",
+    "id": "1364891653"
+  },
+  {
+    "city": "Zāhedān",
+    "city_ascii": "Zahedan",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "29.5025",
+    "lng": "60.8558",
+    "id": "1364072353"
+  },
+  {
+    "city": "Hamadān",
+    "city_ascii": "Hamadan",
+    "admin_name": "Hamadān",
+    "lat": "34.8064",
+    "lng": "48.5161",
+    "id": "1364126377"
+  },
+  {
+    "city": "Yazd",
+    "city_ascii": "Yazd",
+    "admin_name": "Yazd",
+    "lat": "31.8822",
+    "lng": "54.3397",
+    "id": "1364429875"
+  },
+  {
+    "city": "Ardabīl",
+    "city_ascii": "Ardabil",
+    "admin_name": "Ardabīl",
+    "lat": "38.2517",
+    "lng": "48.2975",
+    "id": "1364437616"
+  },
+  {
+    "city": "Bandar ‘Abbās",
+    "city_ascii": "Bandar `Abbas",
+    "admin_name": "Hormozgān",
+    "lat": "27.1961",
+    "lng": "56.2878",
+    "id": "1364120623"
+  },
+  {
+    "city": "Arāk",
+    "city_ascii": "Arak",
+    "admin_name": "Markazī",
+    "lat": "34.0914",
+    "lng": "49.6933",
+    "id": "1364624691"
+  },
+  {
+    "city": "Eslāmshahr",
+    "city_ascii": "Eslamshahr",
+    "admin_name": "Tehrān",
+    "lat": "35.5386",
+    "lng": "51.2228",
+    "id": "1364870126"
+  },
+  {
+    "city": "Sanandaj",
+    "city_ascii": "Sanandaj",
+    "admin_name": "Kordestān",
+    "lat": "35.3114",
+    "lng": "46.9961",
+    "id": "1364178783"
+  },
+  {
+    "city": "Qazvīn",
+    "city_ascii": "Qazvin",
+    "admin_name": "Qazvīn",
+    "lat": "36.2886",
+    "lng": "50.0069",
+    "id": "1364073420"
+  },
+  {
+    "city": "Zanjān",
+    "city_ascii": "Zanjan",
+    "admin_name": "Zanjān",
+    "lat": "36.6864",
+    "lng": "48.4953",
+    "id": "1364312712"
+  },
+  {
+    "city": "Gorgān",
+    "city_ascii": "Gorgan",
+    "admin_name": "Golestān",
+    "lat": "36.8369",
+    "lng": "54.4372",
+    "id": "1364802450"
+  },
+  {
+    "city": "Shahrīār",
+    "city_ascii": "Shahriar",
+    "admin_name": "Tehrān",
+    "lat": "35.6531",
+    "lng": "51.0600",
+    "id": "1364482289"
+  },
+  {
+    "city": "Shahr-e Qods",
+    "city_ascii": "Shahr-e Qods",
+    "admin_name": "Tehrān",
+    "lat": "35.7103",
+    "lng": "51.1131",
+    "id": "1364272235"
+  },
+  {
+    "city": "Kāshān",
+    "city_ascii": "Kashan",
+    "admin_name": "Eşfahān",
+    "lat": "33.9825",
+    "lng": "51.4325",
+    "id": "1364006067"
+  },
+  {
+    "city": "Malārd",
+    "city_ascii": "Malard",
+    "admin_name": "Tehrān",
+    "lat": "35.6806",
+    "lng": "50.9783",
+    "id": "1364376065"
+  },
+  {
+    "city": "Marāgheh",
+    "city_ascii": "Maragheh",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "37.3894",
+    "lng": "46.2378",
+    "id": "1364532780"
+  },
+  {
+    "city": "Sartā",
+    "city_ascii": "Sarta",
+    "admin_name": "Māzandarān",
+    "lat": "36.4486",
+    "lng": "53.3233",
+    "id": "1364143380"
+  },
+  {
+    "city": "Dezfūl",
+    "city_ascii": "Dezful",
+    "admin_name": "Khūzestān",
+    "lat": "32.3786",
+    "lng": "48.4144",
+    "id": "1364663520"
+  },
+  {
+    "city": "Bābol",
+    "city_ascii": "Babol",
+    "admin_name": "Māzandarān",
+    "lat": "36.5475",
+    "lng": "52.6783",
+    "id": "1364476070"
+  },
+  {
+    "city": "Qā’em Shahr",
+    "city_ascii": "Qa'em Shahr",
+    "admin_name": "Māzandarān",
+    "lat": "36.4636",
+    "lng": "52.8581",
+    "id": "1364170406"
+  },
+  {
+    "city": "Khomeynī Shahr",
+    "city_ascii": "Khomeyni Shahr",
+    "admin_name": "Eşfahān",
+    "lat": "32.6803",
+    "lng": "51.5361",
+    "id": "1364403465"
+  },
+  {
+    "city": "Sabzevār",
+    "city_ascii": "Sabzevar",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "36.2125",
+    "lng": "57.6764",
+    "id": "1364379130"
+  },
+  {
+    "city": "Andīmeshk",
+    "city_ascii": "Andimeshk",
+    "admin_name": "Khūzestān",
+    "lat": "32.4714",
+    "lng": "48.3489",
+    "id": "1364453657"
+  },
+  {
+    "city": "Āmol",
+    "city_ascii": "Amol",
+    "admin_name": "Māzandarān",
+    "lat": "36.4703",
+    "lng": "52.3467",
+    "id": "1364107935"
+  },
+  {
+    "city": "Pākdasht",
+    "city_ascii": "Pakdasht",
+    "admin_name": "Tehrān",
+    "lat": "35.4828",
+    "lng": "51.6814",
+    "id": "1364370088"
+  },
+  {
+    "city": "Najafābād",
+    "city_ascii": "Najafabad",
+    "admin_name": "Eşfahān",
+    "lat": "32.6331",
+    "lng": "51.3650",
+    "id": "1364053850"
+  },
+  {
+    "city": "Borūjerd",
+    "city_ascii": "Borujerd",
+    "admin_name": "Lorestān",
+    "lat": "33.9111",
+    "lng": "48.7522",
+    "id": "1364855573"
+  },
+  {
+    "city": "Madan",
+    "city_ascii": "Madan",
+    "admin_name": "Khūzestān",
+    "lat": "30.3469",
+    "lng": "48.2825",
+    "id": "1364708556"
+  },
+  {
+    "city": "Qarchak",
+    "city_ascii": "Qarchak",
+    "admin_name": "Tehrān",
+    "lat": "35.4267",
+    "lng": "51.5842",
+    "id": "1364173799"
+  },
+  {
+    "city": "Bojnūrd",
+    "city_ascii": "Bojnurd",
+    "admin_name": "Khorāsān-e Shomālī",
+    "lat": "37.4722",
+    "lng": "57.3289",
+    "id": "1364981174"
+  },
+  {
+    "city": "Varāmīn",
+    "city_ascii": "Varamin",
+    "admin_name": "Tehrān",
+    "lat": "35.3503",
+    "lng": "51.6364",
+    "id": "1364275103"
+  },
+  {
+    "city": "Bandar-e Būshehr",
+    "city_ascii": "Bandar-e Bushehr",
+    "admin_name": "Būshehr",
+    "lat": "28.9264",
+    "lng": "50.8514",
+    "id": "1364483819"
+  },
+  {
+    "city": "Neyshābūr",
+    "city_ascii": "Neyshabur",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "36.2200",
+    "lng": "58.8200",
+    "id": "1364706573"
+  },
+  {
+    "city": "Sāveh",
+    "city_ascii": "Saveh",
+    "admin_name": "Markazī",
+    "lat": "35.0278",
+    "lng": "50.3611",
+    "id": "1364844111"
+  },
+  {
+    "city": "Bīrjand",
+    "city_ascii": "Birjand",
+    "admin_name": "Khorāsān-e Jonūbī",
+    "lat": "32.8781",
+    "lng": "59.2161",
+    "id": "1364897698"
+  },
+  {
+    "city": "Nasīm Shahr",
+    "city_ascii": "Nasim Shahr",
+    "admin_name": "Tehrān",
+    "lat": "35.5617",
+    "lng": "51.1617",
+    "id": "1364571196"
+  },
+  {
+    "city": "Khorramābād",
+    "city_ascii": "Khorramabad",
+    "admin_name": "Lorestān",
+    "lat": "33.4875",
+    "lng": "48.3561",
+    "id": "1364548806"
+  },
+  {
+    "city": "Khowy",
+    "city_ascii": "Khowy",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "38.5464",
+    "lng": "44.9542",
+    "id": "1364186788"
+  },
+  {
+    "city": "Būkān",
+    "city_ascii": "Bukan",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "36.5150",
+    "lng": "46.2075",
+    "id": "1364530447"
+  },
+  {
+    "city": "Shahr-e Kord",
+    "city_ascii": "Shahr-e Kord",
+    "admin_name": "Chahār Maḩāl va Bakhtīārī",
+    "lat": "32.3322",
+    "lng": "50.8564",
+    "id": "1364643377"
+  },
+  {
+    "city": "Semnān",
+    "city_ascii": "Semnan",
+    "admin_name": "Semnān",
+    "lat": "35.5811",
+    "lng": "53.3833",
+    "id": "1364417512"
+  },
+  {
+    "city": "Fardīs",
+    "city_ascii": "Fardis",
+    "admin_name": "Alborz",
+    "lat": "35.7300",
+    "lng": "50.9822",
+    "id": "1364967800"
+  },
+  {
+    "city": "Sīrjān",
+    "city_ascii": "Sirjan",
+    "admin_name": "Kermān",
+    "lat": "29.4370",
+    "lng": "55.6802",
+    "id": "1364204506"
+  },
+  {
+    "city": "Shāhīn Shahr",
+    "city_ascii": "Shahin Shahr",
+    "admin_name": "Eşfahān",
+    "lat": "32.8606",
+    "lng": "51.5531",
+    "id": "1364921034"
+  },
+  {
+    "city": "Malāyer",
+    "city_ascii": "Malayer",
+    "admin_name": "Hamadān",
+    "lat": "34.3000",
+    "lng": "48.8178",
+    "id": "1364030346"
+  },
+  {
+    "city": "Mahābād",
+    "city_ascii": "Mahabad",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "36.7678",
+    "lng": "45.7339",
+    "id": "1364192213"
+  },
+  {
+    "city": "Saqqez",
+    "city_ascii": "Saqqez",
+    "admin_name": "Kordestān",
+    "lat": "36.2411",
+    "lng": "46.2706",
+    "id": "1364098155"
+  },
+  {
+    "city": "Shāhrūd",
+    "city_ascii": "Shahrud",
+    "admin_name": "Semnān",
+    "lat": "36.4133",
+    "lng": "54.9781",
+    "id": "1364363854"
+  },
+  {
+    "city": "Khodābandeh",
+    "city_ascii": "Khodabandeh",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "36.0000",
+    "lng": "48.4167",
+    "id": "1364935327"
+  },
+  {
+    "city": "Bandar-e Māhshahr",
+    "city_ascii": "Bandar-e Mahshahr",
+    "admin_name": "Khūzestān",
+    "lat": "30.5567",
+    "lng": "49.1897",
+    "id": "1364956793"
+  },
+  {
+    "city": "Rafsanjān",
+    "city_ascii": "Rafsanjan",
+    "admin_name": "Kermān",
+    "lat": "30.3983",
+    "lng": "55.9919",
+    "id": "1364354751"
+  },
+  {
+    "city": "Borāzjān",
+    "city_ascii": "Borazjan",
+    "admin_name": "Būshehr",
+    "lat": "29.2694",
+    "lng": "51.2200",
+    "id": "1364720199"
+  },
+  {
+    "city": "Gonbad-e Kāvūs",
+    "city_ascii": "Gonbad-e Kavus",
+    "admin_name": "Golestān",
+    "lat": "37.2436",
+    "lng": "55.1658",
+    "id": "1364336980"
+  },
+  {
+    "city": "Marvdasht",
+    "city_ascii": "Marvdasht",
+    "admin_name": "Fārs",
+    "lat": "29.8786",
+    "lng": "52.8067",
+    "id": "1364881808"
+  },
+  {
+    "city": "Qūchān",
+    "city_ascii": "Quchan",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "37.1060",
+    "lng": "58.5095",
+    "id": "1364255116"
+  },
+  {
+    "city": "Jahrom",
+    "city_ascii": "Jahrom",
+    "admin_name": "Fārs",
+    "lat": "28.5147",
+    "lng": "53.5731",
+    "id": "1364271412"
+  },
+  {
+    "city": "Kamālshahr",
+    "city_ascii": "Kamalshahr",
+    "admin_name": "Alborz",
+    "lat": "35.8658",
+    "lng": "50.8717",
+    "id": "1364102350"
+  },
+  {
+    "city": "Torbat-e Ḩeydarīyeh",
+    "city_ascii": "Torbat-e Heydariyeh",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "35.2872",
+    "lng": "59.2219",
+    "id": "1364398113"
+  },
+  {
+    "city": "Marīvān",
+    "city_ascii": "Marivan",
+    "admin_name": "Kordestān",
+    "lat": "35.5217",
+    "lng": "46.1806",
+    "id": "1364680490"
+  },
+  {
+    "city": "Shahreẕā",
+    "city_ascii": "Shahreza",
+    "admin_name": "Eşfahān",
+    "lat": "32.0122",
+    "lng": "51.8594",
+    "id": "1364242660"
+  },
+  {
+    "city": "Zābol",
+    "city_ascii": "Zabol",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "31.0339",
+    "lng": "61.4878",
+    "id": "1364485195"
+  },
+  {
+    "city": "Khorramshahr",
+    "city_ascii": "Khorramshahr",
+    "admin_name": "Khūzestān",
+    "lat": "30.4394",
+    "lng": "48.1817",
+    "id": "1364111149"
+  },
+  {
+    "city": "Marand",
+    "city_ascii": "Marand",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "38.4308",
+    "lng": "45.7742",
+    "id": "1364567639"
+  },
+  {
+    "city": "Jīroft",
+    "city_ascii": "Jiroft",
+    "admin_name": "Kermān",
+    "lat": "28.6797",
+    "lng": "57.7447",
+    "id": "1364826721"
+  },
+  {
+    "city": "Salmās",
+    "city_ascii": "Salmas",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "38.2028",
+    "lng": "44.7669",
+    "id": "1364204147"
+  },
+  {
+    "city": "Bam",
+    "city_ascii": "Bam",
+    "admin_name": "Kermān",
+    "lat": "29.0994",
+    "lng": "58.3436",
+    "id": "1364697653"
+  },
+  {
+    "city": "Behbahān",
+    "city_ascii": "Behbahan",
+    "admin_name": "Khūzestān",
+    "lat": "30.5942",
+    "lng": "50.2433",
+    "id": "1364393434"
+  },
+  {
+    "city": "Dorūd",
+    "city_ascii": "Dorud",
+    "admin_name": "Lorestān",
+    "lat": "33.4994",
+    "lng": "49.0531",
+    "id": "1364662084"
+  },
+  {
+    "city": "Naz̧arābād",
+    "city_ascii": "Nazarabad",
+    "admin_name": "Alborz",
+    "lat": "35.9561",
+    "lng": "50.6044",
+    "id": "1364796337"
+  },
+  {
+    "city": "Moḩammad Shahr",
+    "city_ascii": "Mohammad Shahr",
+    "admin_name": "Alborz",
+    "lat": "35.7533",
+    "lng": "50.9014",
+    "id": "1364247384"
+  },
+  {
+    "city": "Bandar-e Anzalī",
+    "city_ascii": "Bandar-e Anzali",
+    "admin_name": "Gīlān",
+    "lat": "37.4708",
+    "lng": "49.4700",
+    "id": "1364759228"
+  },
+  {
+    "city": "Īrānshahr",
+    "city_ascii": "Iranshahr",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "27.1978",
+    "lng": "60.6836",
+    "id": "1364413748"
+  },
+  {
+    "city": "Fasā",
+    "city_ascii": "Fasa",
+    "admin_name": "Fārs",
+    "lat": "28.9503",
+    "lng": "53.6272",
+    "id": "1364549592"
+  },
+  {
+    "city": "Bāneh",
+    "city_ascii": "Baneh",
+    "admin_name": "Kordestān",
+    "lat": "35.9969",
+    "lng": "45.8853",
+    "id": "1364786972"
+  },
+  {
+    "city": "Yāsūj",
+    "city_ascii": "Yasuj",
+    "admin_name": "Kohgīlūyeh va Bowyer Aḩmad",
+    "lat": "30.6672",
+    "lng": "51.5797",
+    "id": "1364652740"
+  },
+  {
+    "city": "Chābahār",
+    "city_ascii": "Chabahar",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "25.2928",
+    "lng": "60.6497",
+    "id": "1364525124"
+  },
+  {
+    "city": "Robāţ Karīm",
+    "city_ascii": "Robat Karim",
+    "admin_name": "Tehrān",
+    "lat": "35.4819",
+    "lng": "51.0808",
+    "id": "1364282464"
+  },
+  {
+    "city": "Kāshmar",
+    "city_ascii": "Kashmar",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "35.2447",
+    "lng": "58.4608",
+    "id": "1364144807"
+  },
+  {
+    "city": "Shūshtar",
+    "city_ascii": "Shushtar",
+    "admin_name": "Khūzestān",
+    "lat": "32.0450",
+    "lng": "48.8594",
+    "id": "1364856875"
+  },
+  {
+    "city": "Ahar",
+    "city_ascii": "Ahar",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "38.4797",
+    "lng": "47.0669",
+    "id": "1364602437"
+  },
+  {
+    "city": "Masjed Soleymān",
+    "city_ascii": "Masjed Soleyman",
+    "admin_name": "Khūzestān",
+    "lat": "31.9600",
+    "lng": "49.2881",
+    "id": "1364152430"
+  },
+  {
+    "city": "Torbat-e Jām",
+    "city_ascii": "Torbat-e Jam",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "35.2431",
+    "lng": "60.6250",
+    "id": "1364064948"
+  },
+  {
+    "city": "Abhar",
+    "city_ascii": "Abhar",
+    "admin_name": "Zanjān",
+    "lat": "36.1464",
+    "lng": "49.2225",
+    "id": "1364688687"
+  },
+  {
+    "city": "Mīāneh",
+    "city_ascii": "Mianeh",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "37.4233",
+    "lng": "47.7136",
+    "id": "1364529047"
+  },
+  {
+    "city": "Do Gonbadān",
+    "city_ascii": "Do Gonbadan",
+    "admin_name": "Kohgīlūyeh va Bowyer Aḩmad",
+    "lat": "30.3600",
+    "lng": "50.7839",
+    "id": "1364102646"
+  },
+  {
+    "city": "Kāzerūn",
+    "city_ascii": "Kazerun",
+    "admin_name": "Fārs",
+    "lat": "29.6156",
+    "lng": "51.6567",
+    "id": "1364311345"
+  },
+  {
+    "city": "Behshahr",
+    "city_ascii": "Behshahr",
+    "admin_name": "Māzandarān",
+    "lat": "36.6936",
+    "lng": "53.5531",
+    "id": "1364001181"
+  },
+  {
+    "city": "Alvand",
+    "city_ascii": "Alvand",
+    "admin_name": "Qazvīn",
+    "lat": "36.1867",
+    "lng": "50.0639",
+    "id": "1364589535"
+  },
+  {
+    "city": "Pīrānshahr",
+    "city_ascii": "Piranshahr",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "36.6956",
+    "lng": "45.1456",
+    "id": "1364699746"
+  },
+  {
+    "city": "Eslāmābād-e Gharb",
+    "city_ascii": "Eslamabad-e Gharb",
+    "admin_name": "Kermānshāh",
+    "lat": "34.1103",
+    "lng": "46.5275",
+    "id": "1364997109"
+  },
+  {
+    "city": "Kūhdasht",
+    "city_ascii": "Kuhdasht",
+    "admin_name": "Lorestān",
+    "lat": "33.5294",
+    "lng": "47.6092",
+    "id": "1364140008"
+  },
+  {
+    "city": "Fūlād Shahr",
+    "city_ascii": "Fulad Shahr",
+    "admin_name": "Eşfahān",
+    "lat": "32.4906",
+    "lng": "51.4211",
+    "id": "1364042346"
+  },
+  {
+    "city": "Khowrāsgān",
+    "city_ascii": "Khowrasgan",
+    "admin_name": "Eşfahān",
+    "lat": "32.6528",
+    "lng": "51.7589",
+    "id": "1364514942"
+  },
+  {
+    "city": "Tajrīsh",
+    "city_ascii": "Tajrish",
+    "admin_name": "Tehrān",
+    "lat": "35.8056",
+    "lng": "51.4381",
+    "id": "1364307632"
+  },
+  {
+    "city": "Shīrvān",
+    "city_ascii": "Shirvan",
+    "admin_name": "Khorāsān-e Shomālī",
+    "lat": "37.4019",
+    "lng": "57.9281",
+    "id": "1364402242"
+  },
+  {
+    "city": "Meybod",
+    "city_ascii": "Meybod",
+    "admin_name": "Yazd",
+    "lat": "32.2456",
+    "lng": "54.0153",
+    "id": "1364977923"
+  },
+  {
+    "city": "Tākestān",
+    "city_ascii": "Takestan",
+    "admin_name": "Qazvīn",
+    "lat": "36.0672",
+    "lng": "49.6958",
+    "id": "1364488107"
+  },
+  {
+    "city": "Langarūd",
+    "city_ascii": "Langarud",
+    "admin_name": "Gīlān",
+    "lat": "37.1911",
+    "lng": "50.1556",
+    "id": "1364215543"
+  },
+  {
+    "city": "Būmahen",
+    "city_ascii": "Bumahen",
+    "admin_name": "Tehrān",
+    "lat": "35.7322",
+    "lng": "51.8672",
+    "id": "1364656518"
+  },
+  {
+    "city": "Bahārestān",
+    "city_ascii": "Baharestan",
+    "admin_name": "Eşfahān",
+    "lat": "32.4867",
+    "lng": "51.7808",
+    "id": "1364254559"
+  },
+  {
+    "city": "Alīgūdarz",
+    "city_ascii": "Aligudarz",
+    "admin_name": "Lorestān",
+    "lat": "33.4025",
+    "lng": "49.6903",
+    "id": "1364252948"
+  },
+  {
+    "city": "Bandar-e Emām Khomeynī",
+    "city_ascii": "Bandar-e Emam Khomeyni",
+    "admin_name": "Khūzestān",
+    "lat": "30.5491",
+    "lng": "49.0586",
+    "id": "1364420942"
+  },
+  {
+    "city": "Bandar Emām",
+    "city_ascii": "Bandar Emam",
+    "admin_name": "Khūzestān",
+    "lat": "30.5058",
+    "lng": "49.0742",
+    "id": "1364872870"
+  },
+  {
+    "city": "Qorveh",
+    "city_ascii": "Qorveh",
+    "admin_name": "Kordestān",
+    "lat": "35.1678",
+    "lng": "47.8008",
+    "id": "1364464987"
+  },
+  {
+    "city": "Shūsh",
+    "city_ascii": "Shush",
+    "admin_name": "Khūzestān",
+    "lat": "32.1947",
+    "lng": "48.2475",
+    "id": "1364876336"
+  },
+  {
+    "city": "Nahāvand",
+    "city_ascii": "Nahavand",
+    "admin_name": "Hamadān",
+    "lat": "34.1928",
+    "lng": "48.3731",
+    "id": "1364090972"
+  },
+  {
+    "city": "Bonāb",
+    "city_ascii": "Bonab",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "37.3383",
+    "lng": "46.0539",
+    "id": "1364781552"
+  },
+  {
+    "city": "Ardakān",
+    "city_ascii": "Ardakan",
+    "admin_name": "Yazd",
+    "lat": "32.3094",
+    "lng": "54.0186",
+    "id": "1364447507"
+  },
+  {
+    "city": "Rāmhormoz",
+    "city_ascii": "Ramhormoz",
+    "admin_name": "Khūzestān",
+    "lat": "31.2753",
+    "lng": "49.6044",
+    "id": "1364637975"
+  },
+  {
+    "city": "Meshgīn Shahr",
+    "city_ascii": "Meshgin Shahr",
+    "admin_name": "Ardabīl",
+    "lat": "38.3906",
+    "lng": "47.6742",
+    "id": "1364069293"
+  },
+  {
+    "city": "Bandar-e Genāveh",
+    "city_ascii": "Bandar-e Genaveh",
+    "admin_name": "Būshehr",
+    "lat": "29.5808",
+    "lng": "50.5172",
+    "id": "1364268734"
+  },
+  {
+    "city": "Naqadeh",
+    "city_ascii": "Naqadeh",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "36.9547",
+    "lng": "45.3881",
+    "id": "1364695268"
+  },
+  {
+    "city": "Khomeyn",
+    "city_ascii": "Khomeyn",
+    "admin_name": "Markazī",
+    "lat": "33.6422",
+    "lng": "50.0789",
+    "id": "1364717218"
+  },
+  {
+    "city": "Omīdīyeh",
+    "city_ascii": "Omidiyeh",
+    "admin_name": "Khūzestān",
+    "lat": "30.7583",
+    "lng": "49.7050",
+    "id": "1364604697"
+  },
+  {
+    "city": "Ārān Bīdgol",
+    "city_ascii": "Aran Bidgol",
+    "admin_name": "Eşfahān",
+    "lat": "34.0589",
+    "lng": "51.4817",
+    "id": "1364946839"
+  },
+  {
+    "city": "Bāqershahr",
+    "city_ascii": "Baqershahr",
+    "admin_name": "Tehrān",
+    "lat": "35.5344",
+    "lng": "51.4058",
+    "id": "1364526843"
+  },
+  {
+    "city": "Māhdāsht",
+    "city_ascii": "Mahdasht",
+    "admin_name": "Tehrān",
+    "lat": "35.7278",
+    "lng": "50.8089",
+    "id": "1364057697"
+  },
+  {
+    "city": "Mobārakeh",
+    "city_ascii": "Mobarakeh",
+    "admin_name": "Eşfahān",
+    "lat": "32.3494",
+    "lng": "51.5000",
+    "id": "1364110841"
+  },
+  {
+    "city": "Meshkīn Dasht",
+    "city_ascii": "Meshkin Dasht",
+    "admin_name": "Tehrān",
+    "lat": "35.7514",
+    "lng": "50.9397",
+    "id": "1364951738"
+  },
+  {
+    "city": "Nekā",
+    "city_ascii": "Neka",
+    "admin_name": "Māzandarān",
+    "lat": "36.6500",
+    "lng": "53.2972",
+    "id": "1364860857"
+  },
+  {
+    "city": "Kangān",
+    "city_ascii": "Kangan",
+    "admin_name": "Būshehr",
+    "lat": "27.8392",
+    "lng": "52.0608",
+    "id": "1364748225"
+  },
+  {
+    "city": "Ābyek",
+    "city_ascii": "Abyek",
+    "admin_name": "Qazvīn",
+    "lat": "36.0411",
+    "lng": "50.5306",
+    "id": "1364192974"
+  },
+  {
+    "city": "Sarāvān",
+    "city_ascii": "Saravan",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "27.3708",
+    "lng": "62.3325",
+    "id": "1364931043"
+  },
+  {
+    "city": "Bābolsar",
+    "city_ascii": "Babolsar",
+    "admin_name": "Māzandarān",
+    "lat": "36.7006",
+    "lng": "52.6500",
+    "id": "1364000970"
+  },
+  {
+    "city": "Esfarāyen",
+    "city_ascii": "Esfarayen",
+    "admin_name": "Khorāsān-e Shomālī",
+    "lat": "37.0706",
+    "lng": "57.5056",
+    "id": "1364743408"
+  },
+  {
+    "city": "Dāmghān",
+    "city_ascii": "Damghan",
+    "admin_name": "Semnān",
+    "lat": "36.1642",
+    "lng": "54.3408",
+    "id": "1364099760"
+  },
+  {
+    "city": "Zarand",
+    "city_ascii": "Zarand",
+    "admin_name": "Kermān",
+    "lat": "30.8108",
+    "lng": "56.5658",
+    "id": "1364870175"
+  },
+  {
+    "city": "Borūjen",
+    "city_ascii": "Borujen",
+    "admin_name": "Chahār Maḩāl va Bakhtīārī",
+    "lat": "31.9719",
+    "lng": "51.2917",
+    "id": "1364420894"
+  },
+  {
+    "city": "Dehdasht",
+    "city_ascii": "Dehdasht",
+    "admin_name": "Kohgīlūyeh va Bowyer Aḩmad",
+    "lat": "30.7964",
+    "lng": "50.5658",
+    "id": "1364380325"
+  },
+  {
+    "city": "Khāsh",
+    "city_ascii": "Khash",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "28.2200",
+    "lng": "61.2114",
+    "id": "1364052913"
+  },
+  {
+    "city": "Tāybād",
+    "city_ascii": "Taybad",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "34.7408",
+    "lng": "60.7792",
+    "id": "1364220425"
+  },
+  {
+    "city": "Kūt-e ‘Abdollāh",
+    "city_ascii": "Kut-e `Abdollah",
+    "admin_name": "Khūzestān",
+    "lat": "31.2447",
+    "lng": "48.6594",
+    "id": "1364936018"
+  },
+  {
+    "city": "Zarrīn Shahr",
+    "city_ascii": "Zarrin Shahr",
+    "admin_name": "Eşfahān",
+    "lat": "32.3889",
+    "lng": "51.3733",
+    "id": "1364248651"
+  },
+  {
+    "city": "Asadābād",
+    "city_ascii": "Asadabad",
+    "admin_name": "Hamadān",
+    "lat": "34.7825",
+    "lng": "48.1219",
+    "id": "1364818060"
+  },
+  {
+    "city": "Hashtgerd",
+    "city_ascii": "Hashtgerd",
+    "admin_name": "Alborz",
+    "lat": "35.9628",
+    "lng": "50.6794",
+    "id": "1364175828"
+  },
+  {
+    "city": "Tonekābon",
+    "city_ascii": "Tonekabon",
+    "admin_name": "Māzandarān",
+    "lat": "36.8153",
+    "lng": "50.8711",
+    "id": "1364647913"
+  },
+  {
+    "city": "Khorramdarreh",
+    "city_ascii": "Khorramdarreh",
+    "admin_name": "Zanjān",
+    "lat": "36.2061",
+    "lng": "49.2003",
+    "id": "1364890040"
+  },
+  {
+    "city": "Eqbālīyeh",
+    "city_ascii": "Eqbaliyeh",
+    "admin_name": "Qazvīn",
+    "lat": "36.2306",
+    "lng": "49.9225",
+    "id": "1364700294"
+  },
+  {
+    "city": "Javānrūd",
+    "city_ascii": "Javanrud",
+    "admin_name": "Kermānshāh",
+    "lat": "34.8078",
+    "lng": "46.4939",
+    "id": "1364422541"
+  },
+  {
+    "city": "Hashtpar",
+    "city_ascii": "Hashtpar",
+    "admin_name": "Gīlān",
+    "lat": "37.7975",
+    "lng": "48.9042",
+    "id": "1364496739"
+  },
+  {
+    "city": "Şabbāshahr",
+    "city_ascii": "Sabbashahr",
+    "admin_name": "Tehrān",
+    "lat": "35.5817",
+    "lng": "51.1119",
+    "id": "1364361684"
+  },
+  {
+    "city": "Bandar-e Torkaman",
+    "city_ascii": "Bandar-e Torkaman",
+    "admin_name": "Golestān",
+    "lat": "36.9014",
+    "lng": "54.0736",
+    "id": "1364842482"
+  },
+  {
+    "city": "Chenārān",
+    "city_ascii": "Chenaran",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "36.6406",
+    "lng": "59.1186",
+    "id": "1364764236"
+  },
+  {
+    "city": "Bījār",
+    "city_ascii": "Bijar",
+    "admin_name": "Kordestān",
+    "lat": "35.8729",
+    "lng": "47.5993",
+    "id": "1364131066"
+  },
+  {
+    "city": "‘Alīābād-e Katūl",
+    "city_ascii": "`Aliabad-e Katul",
+    "admin_name": "Golestān",
+    "lat": "36.9075",
+    "lng": "54.8667",
+    "id": "1364000152"
+  },
+  {
+    "city": "Kahnūj",
+    "city_ascii": "Kahnuj",
+    "admin_name": "Kermān",
+    "lat": "27.9406",
+    "lng": "57.6992",
+    "id": "1364808068"
+  },
+  {
+    "city": "Sūsangerd",
+    "city_ascii": "Susangerd",
+    "admin_name": "Khūzestān",
+    "lat": "31.5569",
+    "lng": "48.1894",
+    "id": "1364486333"
+  },
+  {
+    "city": "Tūyserkān",
+    "city_ascii": "Tuyserkan",
+    "admin_name": "Hamadān",
+    "lat": "34.5528",
+    "lng": "48.4417",
+    "id": "1364054847"
+  },
+  {
+    "city": "Chahār Dangeh",
+    "city_ascii": "Chahar Dangeh",
+    "admin_name": "Tehrān",
+    "lat": "35.6056",
+    "lng": "51.3092",
+    "id": "1364382390"
+  },
+  {
+    "city": "Neyrīz",
+    "city_ascii": "Neyriz",
+    "admin_name": "Fārs",
+    "lat": "29.1928",
+    "lng": "54.3197",
+    "id": "1364086742"
+  },
+  {
+    "city": "Nowshahr",
+    "city_ascii": "Nowshahr",
+    "admin_name": "Māzandarān",
+    "lat": "36.6475",
+    "lng": "51.4931",
+    "id": "1364005247"
+  },
+  {
+    "city": "Garmsār",
+    "city_ascii": "Garmsar",
+    "admin_name": "Semnān",
+    "lat": "35.2206",
+    "lng": "52.3389",
+    "id": "1364421762"
+  },
+  {
+    "city": "Damāvand",
+    "city_ascii": "Damavand",
+    "admin_name": "Tehrān",
+    "lat": "35.6961",
+    "lng": "52.0467",
+    "id": "1364517775"
+  },
+  {
+    "city": "Golpāyegān",
+    "city_ascii": "Golpayegan",
+    "admin_name": "Eşfahān",
+    "lat": "33.4508",
+    "lng": "50.2817",
+    "id": "1364867790"
+  },
+  {
+    "city": "Aznā",
+    "city_ascii": "Azna",
+    "admin_name": "Lorestān",
+    "lat": "33.4597",
+    "lng": "49.4547",
+    "id": "1364854218"
+  },
+  {
+    "city": "Şowme‘eh Sarā",
+    "city_ascii": "Sowme`eh Sara",
+    "admin_name": "Gīlān",
+    "lat": "37.3000",
+    "lng": "49.3142",
+    "id": "1364571093"
+  },
+  {
+    "city": "Sardasht",
+    "city_ascii": "Sardasht",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "36.1553",
+    "lng": "45.4800",
+    "id": "1364996546"
+  },
+  {
+    "city": "Bāfq",
+    "city_ascii": "Bafq",
+    "admin_name": "Yazd",
+    "lat": "31.6050",
+    "lng": "55.4056",
+    "id": "1364201689"
+  },
+  {
+    "city": "Āstāneh-ye Ashrafīyeh",
+    "city_ascii": "Astaneh-ye Ashrafiyeh",
+    "admin_name": "Gīlān",
+    "lat": "37.2658",
+    "lng": "49.9431",
+    "id": "1364719159"
+  },
+  {
+    "city": "Āz̄arshahr",
+    "city_ascii": "Azarshahr",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "37.7628",
+    "lng": "45.9758",
+    "id": "1364106517"
+  },
+  {
+    "city": "Eqlīd",
+    "city_ascii": "Eqlid",
+    "admin_name": "Fārs",
+    "lat": "30.8928",
+    "lng": "52.6889",
+    "id": "1364072821"
+  },
+  {
+    "city": "Sonqor",
+    "city_ascii": "Sonqor",
+    "admin_name": "Kermānshāh",
+    "lat": "34.7828",
+    "lng": "47.5983",
+    "id": "1364821189"
+  },
+  {
+    "city": "Harsīn",
+    "city_ascii": "Harsin",
+    "admin_name": "Kermānshāh",
+    "lat": "34.2706",
+    "lng": "47.5803",
+    "id": "1364489959"
+  },
+  {
+    "city": "Shahr-e Bābak",
+    "city_ascii": "Shahr-e Babak",
+    "admin_name": "Kermān",
+    "lat": "30.1214",
+    "lng": "55.1228",
+    "id": "1364844587"
+  },
+  {
+    "city": "Āzādshahr",
+    "city_ascii": "Azadshahr",
+    "admin_name": "Golestān",
+    "lat": "37.0869",
+    "lng": "55.1742",
+    "id": "1364038403"
+  },
+  {
+    "city": "Takāb",
+    "city_ascii": "Takab",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "36.4008",
+    "lng": "47.1108",
+    "id": "1364000025"
+  },
+  {
+    "city": "Konārak",
+    "city_ascii": "Konarak",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "25.3589",
+    "lng": "60.3992",
+    "id": "1364254379"
+  },
+  {
+    "city": "Maḩallāt",
+    "city_ascii": "Mahallat",
+    "admin_name": "Markazī",
+    "lat": "33.9056",
+    "lng": "50.4572",
+    "id": "1364764045"
+  },
+  {
+    "city": "Darcheh",
+    "city_ascii": "Darcheh",
+    "admin_name": "Eşfahān",
+    "lat": "32.6131",
+    "lng": "51.5531",
+    "id": "1364123646"
+  },
+  {
+    "city": "Qā’en",
+    "city_ascii": "Qa'en",
+    "admin_name": "Khorāsān-e Jonūbī",
+    "lat": "33.7333",
+    "lng": "59.1811",
+    "id": "1364089791"
+  },
+  {
+    "city": "Sarakhs",
+    "city_ascii": "Sarakhs",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "36.5425",
+    "lng": "61.1589",
+    "id": "1364504156"
+  },
+  {
+    "city": "Sarāb",
+    "city_ascii": "Sarab",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "37.9422",
+    "lng": "47.5361",
+    "id": "1364335741"
+  },
+  {
+    "city": "Shādegān",
+    "city_ascii": "Shadegan",
+    "admin_name": "Khūzestān",
+    "lat": "30.6492",
+    "lng": "48.6653",
+    "id": "1364528377"
+  },
+  {
+    "city": "Dowlatābād",
+    "city_ascii": "Dowlatabad",
+    "admin_name": "Eşfahān",
+    "lat": "32.8003",
+    "lng": "51.6958",
+    "id": "1364977743"
+  },
+  {
+    "city": "Delījān",
+    "city_ascii": "Delijan",
+    "admin_name": "Markazī",
+    "lat": "33.9903",
+    "lng": "50.6836",
+    "id": "1364920781"
+  },
+  {
+    "city": "Gonābād",
+    "city_ascii": "Gonabad",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "34.3575",
+    "lng": "58.6783",
+    "id": "1364339411"
+  },
+  {
+    "city": "Khowrmūj",
+    "city_ascii": "Khowrmuj",
+    "admin_name": "Būshehr",
+    "lat": "28.6572",
+    "lng": "51.3811",
+    "id": "1364920877"
+  },
+  {
+    "city": "Qeshm",
+    "city_ascii": "Qeshm",
+    "admin_name": "Hormozgān",
+    "lat": "26.9494",
+    "lng": "56.2681",
+    "id": "1364691339"
+  },
+  {
+    "city": "Lordegān",
+    "city_ascii": "Lordegan",
+    "admin_name": "Chahār Maḩāl va Bakhtīārī",
+    "lat": "31.5094",
+    "lng": "50.8344",
+    "id": "1364124062"
+  },
+  {
+    "city": "Kord Kūy",
+    "city_ascii": "Kord Kuy",
+    "admin_name": "Golestān",
+    "lat": "36.7931",
+    "lng": "54.1122",
+    "id": "1364990124"
+  },
+  {
+    "city": "Kīsh",
+    "city_ascii": "Kish",
+    "admin_name": "Hormozgān",
+    "lat": "26.5553",
+    "lng": "53.9850",
+    "id": "1364815176"
+  },
+  {
+    "city": "Ţabas",
+    "city_ascii": "Tabas",
+    "admin_name": "Khorāsān-e Jonūbī",
+    "lat": "33.5961",
+    "lng": "56.9281",
+    "id": "1364599694"
+  },
+  {
+    "city": "Farīmān",
+    "city_ascii": "Fariman",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "35.7011",
+    "lng": "59.8464",
+    "id": "1364504660"
+  },
+  {
+    "city": "Khalkhāl",
+    "city_ascii": "Khalkhal",
+    "admin_name": "Ardabīl",
+    "lat": "37.6147",
+    "lng": "48.5314",
+    "id": "1364932128"
+  },
+  {
+    "city": "Fereydūn Kenār",
+    "city_ascii": "Fereydun Kenar",
+    "admin_name": "Māzandarān",
+    "lat": "36.6850",
+    "lng": "52.5208",
+    "id": "1364024073"
+  },
+  {
+    "city": "Rūdsar",
+    "city_ascii": "Rudsar",
+    "admin_name": "Gīlān",
+    "lat": "37.1444",
+    "lng": "50.2936",
+    "id": "1364240467"
+  },
+  {
+    "city": "Falāvarjān",
+    "city_ascii": "Falavarjan",
+    "admin_name": "Eşfahān",
+    "lat": "32.5558",
+    "lng": "51.5106",
+    "id": "1364269609"
+  },
+  {
+    "city": "Kahrīzak",
+    "city_ascii": "Kahrizak",
+    "admin_name": "Tehrān",
+    "lat": "35.5169",
+    "lng": "51.3603",
+    "id": "1364597116"
+  },
+  {
+    "city": "Dargaz",
+    "city_ascii": "Dargaz",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "37.4425",
+    "lng": "59.1072",
+    "id": "1364647948"
+  },
+  {
+    "city": "Estahbān",
+    "city_ascii": "Estahban",
+    "admin_name": "Fārs",
+    "lat": "29.1269",
+    "lng": "54.0394",
+    "id": "1364912385"
+  },
+  {
+    "city": "Kalāleh",
+    "city_ascii": "Kalaleh",
+    "admin_name": "Golestān",
+    "lat": "37.3789",
+    "lng": "55.4889",
+    "id": "1364463106"
+  },
+  {
+    "city": "Rāmsar",
+    "city_ascii": "Ramsar",
+    "admin_name": "Māzandarān",
+    "lat": "36.9225",
+    "lng": "50.6431",
+    "id": "1364587162"
+  },
+  {
+    "city": "Şaḩneh",
+    "city_ascii": "Sahneh",
+    "admin_name": "Kermānshāh",
+    "lat": "34.4819",
+    "lng": "47.6900",
+    "id": "1364060244"
+  },
+  {
+    "city": "Khodābandeh",
+    "city_ascii": "Khodabandeh",
+    "admin_name": "Zanjān",
+    "lat": "36.1194",
+    "lng": "48.5917",
+    "id": "1364020796"
+  },
+  {
+    "city": "Sarpol-e Z̄ahāb",
+    "city_ascii": "Sarpol-e Zahab",
+    "admin_name": "Kermānshāh",
+    "lat": "34.4589",
+    "lng": "45.8614",
+    "id": "1364372222"
+  },
+  {
+    "city": "Bāft",
+    "city_ascii": "Baft",
+    "admin_name": "Kermān",
+    "lat": "29.2350",
+    "lng": "56.5989",
+    "id": "1364013464"
+  },
+  {
+    "city": "Gerāsh",
+    "city_ascii": "Gerash",
+    "admin_name": "Fārs",
+    "lat": "27.6667",
+    "lng": "54.1411",
+    "id": "1364856957"
+  },
+  {
+    "city": "Shāhīn Dezh",
+    "city_ascii": "Shahin Dezh",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "36.6806",
+    "lng": "46.5681",
+    "id": "1364208028"
+  },
+  {
+    "city": "Dīvāndarreh",
+    "city_ascii": "Divandarreh",
+    "admin_name": "Kordestān",
+    "lat": "35.9158",
+    "lng": "47.0228",
+    "id": "1364126275"
+  },
+  {
+    "city": "‘Ajab Shīr",
+    "city_ascii": "`Ajab Shir",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "37.4833",
+    "lng": "45.8911",
+    "id": "1364433724"
+  },
+  {
+    "city": "Aleshtar",
+    "city_ascii": "Aleshtar",
+    "admin_name": "Lorestān",
+    "lat": "33.8653",
+    "lng": "48.2622",
+    "id": "1364420866"
+  },
+  {
+    "city": "Khvāf",
+    "city_ascii": "Khvaf",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "34.5711",
+    "lng": "60.1439",
+    "id": "1364404057"
+  },
+  {
+    "city": "Dehlorān",
+    "city_ascii": "Dehloran",
+    "admin_name": "Īlām",
+    "lat": "32.6892",
+    "lng": "47.2689",
+    "id": "1364480030"
+  },
+  {
+    "city": "Oshnavīyeh",
+    "city_ascii": "Oshnaviyeh",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "37.0364",
+    "lng": "45.0956",
+    "id": "1364910470"
+  },
+  {
+    "city": "Shahrābād",
+    "city_ascii": "Shahrabad",
+    "admin_name": "Tehrān",
+    "lat": "35.6883",
+    "lng": "50.8397",
+    "id": "1364740129"
+  },
+  {
+    "city": "Zarqān",
+    "city_ascii": "Zarqan",
+    "admin_name": "Fārs",
+    "lat": "29.7683",
+    "lng": "52.7186",
+    "id": "1364934865"
+  },
+  {
+    "city": "Farrokh Shahr",
+    "city_ascii": "Farrokh Shahr",
+    "admin_name": "Chahār Maḩāl va Bakhtīārī",
+    "lat": "32.2733",
+    "lng": "50.9800",
+    "id": "1364423135"
+  },
+  {
+    "city": "Kavār",
+    "city_ascii": "Kavar",
+    "admin_name": "Fārs",
+    "lat": "29.2017",
+    "lng": "52.6917",
+    "id": "1364873386"
+  },
+  {
+    "city": "Jam",
+    "city_ascii": "Jam",
+    "admin_name": "Būshehr",
+    "lat": "27.8211",
+    "lng": "52.3306",
+    "id": "1364586053"
+  },
+  {
+    "city": "Eyvān",
+    "city_ascii": "Eyvan",
+    "admin_name": "Īlām",
+    "lat": "33.8278",
+    "lng": "46.3061",
+    "id": "1364070633"
+  },
+  {
+    "city": "Fārsān",
+    "city_ascii": "Farsan",
+    "admin_name": "Chahār Maḩāl va Bakhtīārī",
+    "lat": "32.2550",
+    "lng": "50.5631",
+    "id": "1364887348"
+  },
+  {
+    "city": "Amīr Kolā",
+    "city_ascii": "Amir Kola",
+    "admin_name": "Māzandarān",
+    "lat": "36.5967",
+    "lng": "52.6658",
+    "id": "1364208987"
+  },
+  {
+    "city": "Bandar-e Lengeh",
+    "city_ascii": "Bandar-e Lengeh",
+    "admin_name": "Hormozgān",
+    "lat": "26.5594",
+    "lng": "54.8850",
+    "id": "1364154507"
+  },
+  {
+    "city": "Mīnūdasht",
+    "city_ascii": "Minudasht",
+    "admin_name": "Golestān",
+    "lat": "37.2306",
+    "lng": "55.3736",
+    "id": "1364374243"
+  },
+  {
+    "city": "Qahderījān",
+    "city_ascii": "Qahderijan",
+    "admin_name": "Eşfahān",
+    "lat": "32.5772",
+    "lng": "51.4539",
+    "id": "1364015114"
+  },
+  {
+    "city": "Eshtehārd",
+    "city_ascii": "Eshtehard",
+    "admin_name": "Alborz",
+    "lat": "35.7250",
+    "lng": "50.3650",
+    "id": "1364749382"
+  },
+  {
+    "city": "Bāzeh Kalāgh",
+    "city_ascii": "Bazeh Kalagh",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "36.5325",
+    "lng": "59.3636",
+    "id": "1364000965"
+  },
+  {
+    "city": "Chahchaheh",
+    "city_ascii": "Chahchaheh",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "36.5325",
+    "lng": "59.3636",
+    "id": "1364288291"
+  },
+  {
+    "city": "Bozmargī",
+    "city_ascii": "Bozmargi",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "36.5325",
+    "lng": "59.3636",
+    "id": "1364142429"
+  },
+  {
+    "city": "Kalāteh-ye Mīr Āb",
+    "city_ascii": "Kalateh-ye Mir Ab",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "36.5325",
+    "lng": "59.3636",
+    "id": "1364575634"
+  },
+  {
+    "city": "Sardrūd",
+    "city_ascii": "Sardrud",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "38.0267",
+    "lng": "46.1528",
+    "id": "1364669564"
+  },
+  {
+    "city": "Karahrūd",
+    "city_ascii": "Karahrud",
+    "admin_name": "Markazī",
+    "lat": "34.0628",
+    "lng": "49.6461",
+    "id": "1364671095"
+  },
+  {
+    "city": "Lāmerd",
+    "city_ascii": "Lamerd",
+    "admin_name": "Fārs",
+    "lat": "27.3336",
+    "lng": "53.1886",
+    "id": "1364138178"
+  },
+  {
+    "city": "Hendījān",
+    "city_ascii": "Hendijan",
+    "admin_name": "Khūzestān",
+    "lat": "30.2383",
+    "lng": "49.7075",
+    "id": "1364511493"
+  },
+  {
+    "city": "Germī",
+    "city_ascii": "Germi",
+    "admin_name": "Ardabīl",
+    "lat": "39.0297",
+    "lng": "48.0803",
+    "id": "1364702813"
+  },
+  {
+    "city": "Ferdows",
+    "city_ascii": "Ferdows",
+    "admin_name": "Khorāsān-e Jonūbī",
+    "lat": "34.0192",
+    "lng": "58.1731",
+    "id": "1364726731"
+  },
+  {
+    "city": "Rūdehen",
+    "city_ascii": "Rudehen",
+    "admin_name": "Tehrān",
+    "lat": "35.7356",
+    "lng": "51.9072",
+    "id": "1364001385"
+  },
+  {
+    "city": "Bardaskan",
+    "city_ascii": "Bardaskan",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "35.2625",
+    "lng": "57.9703",
+    "id": "1364509063"
+  },
+  {
+    "city": "Hādīshahr",
+    "city_ascii": "Hadishahr",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "38.8400",
+    "lng": "45.6647",
+    "id": "1364264141"
+  },
+  {
+    "city": "Fūman",
+    "city_ascii": "Fuman",
+    "admin_name": "Gīlān",
+    "lat": "37.2242",
+    "lng": "49.3125",
+    "id": "1364180869"
+  },
+  {
+    "city": "Abarkūh",
+    "city_ascii": "Abarkuh",
+    "admin_name": "Yazd",
+    "lat": "31.1256",
+    "lng": "53.2625",
+    "id": "1364624357"
+  },
+  {
+    "city": "Malekān",
+    "city_ascii": "Malekan",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "37.1428",
+    "lng": "46.1053",
+    "id": "1364475423"
+  },
+  {
+    "city": "Şafāshahr",
+    "city_ascii": "Safashahr",
+    "admin_name": "Fārs",
+    "lat": "30.6133",
+    "lng": "53.1928",
+    "id": "1364976274"
+  },
+  {
+    "city": "Qā’emīyeh",
+    "city_ascii": "Qa'emiyeh",
+    "admin_name": "Fārs",
+    "lat": "29.8525",
+    "lng": "51.5842",
+    "id": "1364710224"
+  },
+  {
+    "city": "Qarah Ẕīā’ od Dīn",
+    "city_ascii": "Qarah Zia' od Din",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "38.8900",
+    "lng": "45.0283",
+    "id": "1364834159"
+  },
+  {
+    "city": "Poldokhtar",
+    "city_ascii": "Poldokhtar",
+    "admin_name": "Lorestān",
+    "lat": "33.1489",
+    "lng": "47.7164",
+    "id": "1364688613"
+  },
+  {
+    "city": "Bāgh-e Malek",
+    "city_ascii": "Bagh-e Malek",
+    "admin_name": "Khūzestān",
+    "lat": "31.5247",
+    "lng": "49.8869",
+    "id": "1364455619"
+  },
+  {
+    "city": "Semīrom",
+    "city_ascii": "Semirom",
+    "admin_name": "Eşfahān",
+    "lat": "31.4094",
+    "lng": "51.5736",
+    "id": "1364089259"
+  },
+  {
+    "city": "Dehgolān",
+    "city_ascii": "Dehgolan",
+    "admin_name": "Kordestān",
+    "lat": "35.2778",
+    "lng": "47.4175",
+    "id": "1364387900"
+  },
+  {
+    "city": "Pāveh",
+    "city_ascii": "Paveh",
+    "admin_name": "Kermānshāh",
+    "lat": "35.0433",
+    "lng": "46.3550",
+    "id": "1364382725"
+  },
+  {
+    "city": "Bandar-e Deylam",
+    "city_ascii": "Bandar-e Deylam",
+    "admin_name": "Būshehr",
+    "lat": "30.0550",
+    "lng": "50.1653",
+    "id": "1364497361"
+  },
+  {
+    "city": "Shāhedshahr",
+    "city_ascii": "Shahedshahr",
+    "admin_name": "Tehrān",
+    "lat": "35.5731",
+    "lng": "51.0869",
+    "id": "1364463020"
+  },
+  {
+    "city": "Showţ",
+    "city_ascii": "Showt",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "39.2197",
+    "lng": "44.7722",
+    "id": "1364959512"
+  },
+  {
+    "city": "Bardsīr",
+    "city_ascii": "Bardsir",
+    "admin_name": "Kermān",
+    "lat": "29.9275",
+    "lng": "56.5764",
+    "id": "1364465140"
+  },
+  {
+    "city": "Āshkhāneh",
+    "city_ascii": "Ashkhaneh",
+    "admin_name": "Khorāsān-e Shomālī",
+    "lat": "37.5578",
+    "lng": "56.9258",
+    "id": "1364197462"
+  },
+  {
+    "city": "Rāmshīr",
+    "city_ascii": "Ramshir",
+    "admin_name": "Khūzestān",
+    "lat": "30.8936",
+    "lng": "49.4086",
+    "id": "1364250700"
+  },
+  {
+    "city": "Ravānsar",
+    "city_ascii": "Ravansar",
+    "admin_name": "Kermānshāh",
+    "lat": "34.7156",
+    "lng": "46.6519",
+    "id": "1364582269"
+  },
+  {
+    "city": "Mahdīshahr",
+    "city_ascii": "Mahdishahr",
+    "admin_name": "Semnān",
+    "lat": "35.7144",
+    "lng": "53.3569",
+    "id": "1364801554"
+  },
+  {
+    "city": "Gaz",
+    "city_ascii": "Gaz",
+    "admin_name": "Eşfahān",
+    "lat": "32.8061",
+    "lng": "51.6206",
+    "id": "1364058076"
+  },
+  {
+    "city": "Gotvand",
+    "city_ascii": "Gotvand",
+    "admin_name": "Khūzestān",
+    "lat": "32.2433",
+    "lng": "48.8136",
+    "id": "1364528412"
+  },
+  {
+    "city": "Deyr",
+    "city_ascii": "Deyr",
+    "admin_name": "Būshehr",
+    "lat": "27.8403",
+    "lng": "51.9400",
+    "id": "1364059934"
+  },
+  {
+    "city": "Gālīkesh",
+    "city_ascii": "Galikesh",
+    "admin_name": "Golestān",
+    "lat": "37.2728",
+    "lng": "55.4328",
+    "id": "1364497413"
+  },
+  {
+    "city": "Sheybān",
+    "city_ascii": "Sheyban",
+    "admin_name": "Khūzestān",
+    "lat": "31.4061",
+    "lng": "48.7944",
+    "id": "1364776996"
+  },
+  {
+    "city": "Kelīshād va Sūdarjān",
+    "city_ascii": "Kelishad va Sudarjan",
+    "admin_name": "Eşfahān",
+    "lat": "32.5489",
+    "lng": "51.5286",
+    "id": "1364528827"
+  },
+  {
+    "city": "‘Ālī Shahr",
+    "city_ascii": "`Ali Shahr",
+    "admin_name": "Būshehr",
+    "lat": "28.9269",
+    "lng": "51.0653",
+    "id": "1364067141"
+  },
+  {
+    "city": "Baravāt",
+    "city_ascii": "Baravat",
+    "admin_name": "Kermān",
+    "lat": "29.0656",
+    "lng": "58.4039",
+    "id": "1364538524"
+  },
+  {
+    "city": "Rāvar",
+    "city_ascii": "Ravar",
+    "admin_name": "Kermān",
+    "lat": "31.2633",
+    "lng": "56.8072",
+    "id": "1364603087"
+  },
+  {
+    "city": "Garmdarreh",
+    "city_ascii": "Garmdarreh",
+    "admin_name": "Alborz",
+    "lat": "35.7478",
+    "lng": "51.0678",
+    "id": "1364748189"
+  },
+  {
+    "city": "Goldasht",
+    "city_ascii": "Goldasht",
+    "admin_name": "Eşfahān",
+    "lat": "32.6244",
+    "lng": "51.4383",
+    "id": "1364824865"
+  },
+  {
+    "city": "Gīlān-e Gharb",
+    "city_ascii": "Gilan-e Gharb",
+    "admin_name": "Kermānshāh",
+    "lat": "34.1406",
+    "lng": "45.9183",
+    "id": "1364195329"
+  },
+  {
+    "city": "Shabestar",
+    "city_ascii": "Shabestar",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "38.1800",
+    "lng": "45.7031",
+    "id": "1364001665"
+  },
+  {
+    "city": "Ḩamīdīyeh",
+    "city_ascii": "Hamidiyeh",
+    "admin_name": "Khūzestān",
+    "lat": "31.4811",
+    "lng": "48.4350",
+    "id": "1364148663"
+  },
+  {
+    "city": "Khosrowshahr",
+    "city_ascii": "Khosrowshahr",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "37.9514",
+    "lng": "46.0508",
+    "id": "1364295244"
+  },
+  {
+    "city": "Darreh Shahr",
+    "city_ascii": "Darreh Shahr",
+    "admin_name": "Īlām",
+    "lat": "33.1431",
+    "lng": "47.3794",
+    "id": "1364154593"
+  },
+  {
+    "city": "Ma’mūnīyeh",
+    "city_ascii": "Ma'muniyeh",
+    "admin_name": "Markazī",
+    "lat": "35.3050",
+    "lng": "50.4975",
+    "id": "1364067553"
+  },
+  {
+    "city": "Hafshejān",
+    "city_ascii": "Hafshejan",
+    "admin_name": "Chahār Maḩāl va Bakhtīārī",
+    "lat": "32.2253",
+    "lng": "50.7961",
+    "id": "1364919018"
+  },
+  {
+    "city": "Galūgāh",
+    "city_ascii": "Galugah",
+    "admin_name": "Māzandarān",
+    "lat": "36.7269",
+    "lng": "53.8089",
+    "id": "1364928073"
+  },
+  {
+    "city": "Shāzand",
+    "city_ascii": "Shazand",
+    "admin_name": "Markazī",
+    "lat": "33.9292",
+    "lng": "49.4103",
+    "id": "1364700789"
+  },
+  {
+    "city": "Ţorqabeh",
+    "city_ascii": "Torqabeh",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "36.3142",
+    "lng": "59.3725",
+    "id": "1364331013"
+  },
+  {
+    "city": "Bandar-e Gaz",
+    "city_ascii": "Bandar-e Gaz",
+    "admin_name": "Golestān",
+    "lat": "36.7739",
+    "lng": "53.9481",
+    "id": "1364226344"
+  },
+  {
+    "city": "Moḩammadābād",
+    "city_ascii": "Mohammadabad",
+    "admin_name": "Kermān",
+    "lat": "28.6517",
+    "lng": "59.0158",
+    "id": "1364372718"
+  },
+  {
+    "city": "Hashtrūd",
+    "city_ascii": "Hashtrud",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "37.4758",
+    "lng": "47.0497",
+    "id": "1364790184"
+  },
+  {
+    "city": "Khvānsār",
+    "city_ascii": "Khvansar",
+    "admin_name": "Eşfahān",
+    "lat": "33.2208",
+    "lng": "50.3153",
+    "id": "1364250256"
+  },
+  {
+    "city": "Farāshband",
+    "city_ascii": "Farashband",
+    "admin_name": "Fārs",
+    "lat": "28.8617",
+    "lng": "52.0936",
+    "id": "1364248167"
+  },
+  {
+    "city": "Khowrzūq",
+    "city_ascii": "Khowrzuq",
+    "admin_name": "Eşfahān",
+    "lat": "32.7783",
+    "lng": "51.6478",
+    "id": "1364753903"
+  },
+  {
+    "city": "Evaz",
+    "city_ascii": "Evaz",
+    "admin_name": "Fārs",
+    "lat": "27.7600",
+    "lng": "54.0067",
+    "id": "1364440193"
+  },
+  {
+    "city": "Sīāhkal",
+    "city_ascii": "Siahkal",
+    "admin_name": "Gīlān",
+    "lat": "37.1536",
+    "lng": "49.8711",
+    "id": "1364607008"
+  },
+  {
+    "city": "Līkak",
+    "city_ascii": "Likak",
+    "admin_name": "Kohgīlūyeh va Bowyer Aḩmad",
+    "lat": "30.8928",
+    "lng": "50.0928",
+    "id": "1364865107"
+  },
+  {
+    "city": "Maḩmūdābād Nemūneh",
+    "city_ascii": "Mahmudabad Nemuneh",
+    "admin_name": "Qazvīn",
+    "lat": "36.2903",
+    "lng": "49.8994",
+    "id": "1364599190"
+  },
+  {
+    "city": "Jājarm",
+    "city_ascii": "Jajarm",
+    "admin_name": "Khorāsān-e Shomālī",
+    "lat": "36.9500",
+    "lng": "56.3800",
+    "id": "1364569834"
+  },
+  {
+    "city": "Hoveyzeh",
+    "city_ascii": "Hoveyzeh",
+    "admin_name": "Khūzestān",
+    "lat": "31.4606",
+    "lng": "48.0781",
+    "id": "1364073949"
+  },
+  {
+    "city": "Abrīsham",
+    "city_ascii": "Abrisham",
+    "admin_name": "Eşfahān",
+    "lat": "32.5675",
+    "lng": "51.5733",
+    "id": "1364088280"
+  },
+  {
+    "city": "Mahājerān-e Kamar",
+    "city_ascii": "Mahajeran-e Kamar",
+    "admin_name": "Markazī",
+    "lat": "34.0486",
+    "lng": "49.4311",
+    "id": "1364396330"
+  },
+  {
+    "city": "Khonj",
+    "city_ascii": "Khonj",
+    "admin_name": "Fārs",
+    "lat": "27.8897",
+    "lng": "53.4308",
+    "id": "1364328098"
+  },
+  {
+    "city": "Kabūdarāhang",
+    "city_ascii": "Kabudarahang",
+    "admin_name": "Hamadān",
+    "lat": "35.2069",
+    "lng": "48.7228",
+    "id": "1364143684"
+  },
+  {
+    "city": "Bandar-e Kong",
+    "city_ascii": "Bandar-e Kong",
+    "admin_name": "Hormozgān",
+    "lat": "26.5947",
+    "lng": "54.9381",
+    "id": "1364767646"
+  },
+  {
+    "city": "Gomīshān",
+    "city_ascii": "Gomishan",
+    "admin_name": "Golestān",
+    "lat": "37.0700",
+    "lng": "54.0769",
+    "id": "1364412693"
+  },
+  {
+    "city": "Ashkezar",
+    "city_ascii": "Ashkezar",
+    "admin_name": "Yazd",
+    "lat": "31.9997",
+    "lng": "54.2075",
+    "id": "1364544757"
+  },
+  {
+    "city": "Āb Pakhsh",
+    "city_ascii": "Ab Pakhsh",
+    "admin_name": "Būshehr",
+    "lat": "29.3611",
+    "lng": "51.0717",
+    "id": "1364462555"
+  },
+  {
+    "city": "Nakhl-e Taqī",
+    "city_ascii": "Nakhl-e Taqi",
+    "admin_name": "Būshehr",
+    "lat": "27.5003",
+    "lng": "52.5822",
+    "id": "1364288724"
+  },
+  {
+    "city": "Choghādak",
+    "city_ascii": "Choghadak",
+    "admin_name": "Būshehr",
+    "lat": "28.9858",
+    "lng": "51.0392",
+    "id": "1364637540"
+  },
+  {
+    "city": "Kherāmeh",
+    "city_ascii": "Kherameh",
+    "admin_name": "Fārs",
+    "lat": "29.4992",
+    "lng": "53.3131",
+    "id": "1364200979"
+  },
+  {
+    "city": "Qaşr-e Shīrīn",
+    "city_ascii": "Qasr-e Shirin",
+    "admin_name": "Kermānshāh",
+    "lat": "34.5117",
+    "lng": "45.5792",
+    "id": "1364110689"
+  },
+  {
+    "city": "Taft",
+    "city_ascii": "Taft",
+    "admin_name": "Yazd",
+    "lat": "31.7494",
+    "lng": "54.2089",
+    "id": "1364828948"
+  },
+  {
+    "city": "Oskū",
+    "city_ascii": "Osku",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "37.9161",
+    "lng": "46.1244",
+    "id": "1364247640"
+  },
+  {
+    "city": "Gerd Farāmarz Shāhedīyeh",
+    "city_ascii": "Gerd Faramarz Shahediyeh",
+    "admin_name": "Yazd",
+    "lat": "31.9417",
+    "lng": "54.2677",
+    "id": "1364448828"
+  },
+  {
+    "city": "Abrandābād-e Shāhedīyeh",
+    "city_ascii": "Abrandabad-e Shahediyeh",
+    "admin_name": "Yazd",
+    "lat": "31.9383",
+    "lng": "54.2786",
+    "id": "1364301778"
+  },
+  {
+    "city": "Nehbandān",
+    "city_ascii": "Nehbandan",
+    "admin_name": "Khorāsān-e Jonūbī",
+    "lat": "31.5411",
+    "lng": "60.0397",
+    "id": "1364475715"
+  },
+  {
+    "city": "Sarvestān",
+    "city_ascii": "Sarvestan",
+    "admin_name": "Fārs",
+    "lat": "29.2739",
+    "lng": "53.2203",
+    "id": "1364001043"
+  },
+  {
+    "city": "‘Anbarābād",
+    "city_ascii": "`Anbarabad",
+    "admin_name": "Kermān",
+    "lat": "28.4794",
+    "lng": "57.8414",
+    "id": "1364601735"
+  },
+  {
+    "city": "Lavāsān",
+    "city_ascii": "Lavasan",
+    "admin_name": "Tehrān",
+    "lat": "35.8208",
+    "lng": "51.6342",
+    "id": "1364266184"
+  },
+  {
+    "city": "Feyẕābād",
+    "city_ascii": "Feyzabad",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "35.0183",
+    "lng": "58.7839",
+    "id": "1364181999"
+  },
+  {
+    "city": "Bīdestān",
+    "city_ascii": "Bidestan",
+    "admin_name": "Qazvīn",
+    "lat": "36.2308",
+    "lng": "50.1236",
+    "id": "1364097069"
+  },
+  {
+    "city": "Dīzīcheh",
+    "city_ascii": "Dizicheh",
+    "admin_name": "Eşfahān",
+    "lat": "32.3869",
+    "lng": "51.5122",
+    "id": "1364315138"
+  },
+  {
+    "city": "Seyah Cheshmeh",
+    "city_ascii": "Seyah Cheshmeh",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "39.0619",
+    "lng": "44.3825",
+    "id": "1364268650"
+  },
+  {
+    "city": "Dastgerd",
+    "city_ascii": "Dastgerd",
+    "admin_name": "Eşfahān",
+    "lat": "32.8008",
+    "lng": "51.6647",
+    "id": "1364996387"
+  },
+  {
+    "city": "Nīkshahr",
+    "city_ascii": "Nikshahr",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "26.2253",
+    "lng": "60.2167",
+    "id": "1364780885"
+  },
+  {
+    "city": "Arsanjān",
+    "city_ascii": "Arsanjan",
+    "admin_name": "Fārs",
+    "lat": "29.9142",
+    "lng": "53.3058",
+    "id": "1364977336"
+  },
+  {
+    "city": "Mehrān",
+    "city_ascii": "Mehran",
+    "admin_name": "Īlām",
+    "lat": "33.1208",
+    "lng": "46.1642",
+    "id": "1364360817"
+  },
+  {
+    "city": "Mollās̄ānī",
+    "city_ascii": "Mollasani",
+    "admin_name": "Khūzestān",
+    "lat": "31.5850",
+    "lng": "48.8850",
+    "id": "1364336091"
+  },
+  {
+    "city": "Sedeh Lanjān",
+    "city_ascii": "Sedeh Lanjan",
+    "admin_name": "Eşfahān",
+    "lat": "32.3786",
+    "lng": "51.3178",
+    "id": "1364171855"
+  },
+  {
+    "city": "Sīmīn Shahr",
+    "city_ascii": "Simin Shahr",
+    "admin_name": "Golestān",
+    "lat": "37.0264",
+    "lng": "54.2214",
+    "id": "1364161152"
+  },
+  {
+    "city": "Sa‘ādat Shahr",
+    "city_ascii": "Sa`adat Shahr",
+    "admin_name": "Fārs",
+    "lat": "30.0772",
+    "lng": "53.1328",
+    "id": "1364794226"
+  },
+  {
+    "city": "Dehāqān",
+    "city_ascii": "Dehaqan",
+    "admin_name": "Eşfahān",
+    "lat": "31.9386",
+    "lng": "51.6475",
+    "id": "1364614039"
+  },
+  {
+    "city": "Jāsk",
+    "city_ascii": "Jask",
+    "admin_name": "Hormozgān",
+    "lat": "25.6531",
+    "lng": "57.7817",
+    "id": "1364208450"
+  },
+  {
+    "city": "Īlkhchī",
+    "city_ascii": "Ilkhchi",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "37.9373",
+    "lng": "45.9790",
+    "id": "1364345674"
+  },
+  {
+    "city": "Īlkhechī",
+    "city_ascii": "Ilkhechi",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "37.9358",
+    "lng": "45.9794",
+    "id": "1364079327"
+  },
+  {
+    "city": "Tafresh",
+    "city_ascii": "Tafresh",
+    "admin_name": "Markazī",
+    "lat": "34.6942",
+    "lng": "50.0211",
+    "id": "1364000242"
+  },
+  {
+    "city": "Boshrūyeh",
+    "city_ascii": "Boshruyeh",
+    "admin_name": "Khorāsān-e Jonūbī",
+    "lat": "33.8681",
+    "lng": "57.4286",
+    "id": "1364726619"
+  },
+  {
+    "city": "Bīleh Savār",
+    "city_ascii": "Bileh Savar",
+    "admin_name": "Ardabīl",
+    "lat": "39.3794",
+    "lng": "48.3542",
+    "id": "1364239600"
+  },
+  {
+    "city": "Haftkel",
+    "city_ascii": "Haftkel",
+    "admin_name": "Khūzestān",
+    "lat": "31.4444",
+    "lng": "49.5314",
+    "id": "1364566639"
+  },
+  {
+    "city": "Ardestān",
+    "city_ascii": "Ardestan",
+    "admin_name": "Eşfahān",
+    "lat": "33.3731",
+    "lng": "52.3689",
+    "id": "1364684540"
+  },
+  {
+    "city": "Tīrān",
+    "city_ascii": "Tiran",
+    "admin_name": "Eşfahān",
+    "lat": "32.7039",
+    "lng": "51.1525",
+    "id": "1364233124"
+  },
+  {
+    "city": "Manūjān",
+    "city_ascii": "Manujan",
+    "admin_name": "Kermān",
+    "lat": "27.4031",
+    "lng": "57.4917",
+    "id": "1364733657"
+  },
+  {
+    "city": "Manjīl",
+    "city_ascii": "Manjil",
+    "admin_name": "Gīlān",
+    "lat": "36.7447",
+    "lng": "49.4014",
+    "id": "1364624018"
+  },
+  {
+    "city": "Chamgardān",
+    "city_ascii": "Chamgardan",
+    "admin_name": "Eşfahān",
+    "lat": "32.3931",
+    "lng": "51.3392",
+    "id": "1364112093"
+  },
+  {
+    "city": "Anār",
+    "city_ascii": "Anar",
+    "admin_name": "Kermān",
+    "lat": "30.8656",
+    "lng": "55.2703",
+    "id": "1364013146"
+  },
+  {
+    "city": "Morteẕá Gerd",
+    "city_ascii": "Morteza Gerd",
+    "admin_name": "Tehrān",
+    "lat": "35.6022",
+    "lng": "51.3486",
+    "id": "1364878476"
+  },
+  {
+    "city": "Bandar-e Khamīr",
+    "city_ascii": "Bandar-e Khamir",
+    "admin_name": "Hormozgān",
+    "lat": "26.9533",
+    "lng": "55.5853",
+    "id": "1364051515"
+  },
+  {
+    "city": "Veys",
+    "city_ascii": "Veys",
+    "admin_name": "Khūzestān",
+    "lat": "31.4861",
+    "lng": "48.8747",
+    "id": "1364127242"
+  },
+  {
+    "city": "Shāl",
+    "city_ascii": "Shal",
+    "admin_name": "Qazvīn",
+    "lat": "35.8992",
+    "lng": "49.7689",
+    "id": "1364939972"
+  },
+  {
+    "city": "Charām",
+    "city_ascii": "Charam",
+    "admin_name": "Kohgīlūyeh va Bowyer Aḩmad",
+    "lat": "30.7461",
+    "lng": "50.7461",
+    "id": "1364997839"
+  },
+  {
+    "city": "Ahram",
+    "city_ascii": "Ahram",
+    "admin_name": "Būshehr",
+    "lat": "28.8828",
+    "lng": "51.2756",
+    "id": "1364866540"
+  },
+  {
+    "city": "Amlash",
+    "city_ascii": "Amlash",
+    "admin_name": "Gīlān",
+    "lat": "37.0944",
+    "lng": "50.1928",
+    "id": "1364041120"
+  },
+  {
+    "city": "Lālejīn",
+    "city_ascii": "Lalejin",
+    "admin_name": "Hamadān",
+    "lat": "34.9742",
+    "lng": "48.4756",
+    "id": "1364688538"
+  },
+  {
+    "city": "Neqāb",
+    "city_ascii": "Neqab",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "36.7108",
+    "lng": "57.4100",
+    "id": "1364003209"
+  },
+  {
+    "city": "Sepīdān",
+    "city_ascii": "Sepidan",
+    "admin_name": "Fārs",
+    "lat": "30.2594",
+    "lng": "51.9853",
+    "id": "1364046715"
+  },
+  {
+    "city": "Dargahān",
+    "city_ascii": "Dargahan",
+    "admin_name": "Hormozgān",
+    "lat": "26.9667",
+    "lng": "56.0708",
+    "id": "1364735795"
+  },
+  {
+    "city": "Jūnqān",
+    "city_ascii": "Junqan",
+    "admin_name": "Chahār Maḩāl va Bakhtīārī",
+    "lat": "32.1522",
+    "lng": "50.6911",
+    "id": "1364198008"
+  },
+  {
+    "city": "Razan",
+    "city_ascii": "Razan",
+    "admin_name": "Hamadān",
+    "lat": "35.3925",
+    "lng": "49.0331",
+    "id": "1364076890"
+  },
+  {
+    "city": "Naţanz",
+    "city_ascii": "Natanz",
+    "admin_name": "Eşfahān",
+    "lat": "33.5072",
+    "lng": "51.9136",
+    "id": "1364002460"
+  },
+  {
+    "city": "Kīāshahr",
+    "city_ascii": "Kiashahr",
+    "admin_name": "Gīlān",
+    "lat": "37.4214",
+    "lng": "49.9408",
+    "id": "1364362691"
+  },
+  {
+    "city": "Fāmenīn",
+    "city_ascii": "Famenin",
+    "admin_name": "Hamadān",
+    "lat": "35.1139",
+    "lng": "48.9725",
+    "id": "1364228108"
+  },
+  {
+    "city": "Shāndīz",
+    "city_ascii": "Shandiz",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "36.3961",
+    "lng": "59.3092",
+    "id": "1364668748"
+  },
+  {
+    "city": "Hīdaj",
+    "city_ascii": "Hidaj",
+    "admin_name": "Zanjān",
+    "lat": "36.2558",
+    "lng": "49.1314",
+    "id": "1364864435"
+  },
+  {
+    "city": "Dowbarān",
+    "city_ascii": "Dowbaran",
+    "admin_name": "Fārs",
+    "lat": "28.4050",
+    "lng": "54.1878",
+    "id": "1364470614"
+  },
+  {
+    "city": "Sarāyān",
+    "city_ascii": "Sarayan",
+    "admin_name": "Khorāsān-e Jonūbī",
+    "lat": "33.8636",
+    "lng": "58.5211",
+    "id": "1364790905"
+  },
+  {
+    "city": "Rostamābād",
+    "city_ascii": "Rostamabad",
+    "admin_name": "Gīlān",
+    "lat": "36.8994",
+    "lng": "49.4931",
+    "id": "1364326640"
+  },
+  {
+    "city": "Namīn",
+    "city_ascii": "Namin",
+    "admin_name": "Ardabīl",
+    "lat": "38.4264",
+    "lng": "48.4822",
+    "id": "1364085966"
+  },
+  {
+    "city": "Jannat Shahr",
+    "city_ascii": "Jannat Shahr",
+    "admin_name": "Fārs",
+    "lat": "28.6550",
+    "lng": "54.6844",
+    "id": "1364043305"
+  },
+  {
+    "city": "Sūrān",
+    "city_ascii": "Suran",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "27.2883",
+    "lng": "61.9997",
+    "id": "1364461163"
+  },
+  {
+    "city": "Bandar-e ‘Asalūyeh",
+    "city_ascii": "Bandar-e `Asaluyeh",
+    "admin_name": "Būshehr",
+    "lat": "27.4744",
+    "lng": "52.6114",
+    "id": "1364542336"
+  },
+  {
+    "city": "Kharv-e Soflá",
+    "city_ascii": "Kharv-e Sofla",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "36.1422",
+    "lng": "59.0158",
+    "id": "1364830111"
+  },
+  {
+    "city": "Fereydūnshahr",
+    "city_ascii": "Fereydunshahr",
+    "admin_name": "Eşfahān",
+    "lat": "32.9419",
+    "lng": "50.1203",
+    "id": "1364461971"
+  },
+  {
+    "city": "Kalārdasht",
+    "city_ascii": "Kalardasht",
+    "admin_name": "Māzandarān",
+    "lat": "36.5056",
+    "lng": "51.1589",
+    "id": "1364243164"
+  },
+  {
+    "city": "Zehak",
+    "city_ascii": "Zehak",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "30.8933",
+    "lng": "61.6789",
+    "id": "1364240166"
+  },
+  {
+    "city": "Farādonbeh",
+    "city_ascii": "Faradonbeh",
+    "admin_name": "Chahār Maḩāl va Bakhtīārī",
+    "lat": "32.0064",
+    "lng": "51.2175",
+    "id": "1364199475"
+  },
+  {
+    "city": "Rābor",
+    "city_ascii": "Rabor",
+    "admin_name": "Kermān",
+    "lat": "29.2903",
+    "lng": "56.9133",
+    "id": "1364476007"
+  },
+  {
+    "city": "Qal‘eh Ganj",
+    "city_ascii": "Qal`eh Ganj",
+    "admin_name": "Kermān",
+    "lat": "27.5250",
+    "lng": "57.8800",
+    "id": "1364072799"
+  },
+  {
+    "city": "Fannūj",
+    "city_ascii": "Fannuj",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "26.5753",
+    "lng": "59.6403",
+    "id": "1364947990"
+  },
+  {
+    "city": "Lowshān",
+    "city_ascii": "Lowshan",
+    "admin_name": "Gīlān",
+    "lat": "36.6278",
+    "lng": "49.5114",
+    "id": "1364318823"
+  },
+  {
+    "city": "Shahr-e Herāt",
+    "city_ascii": "Shahr-e Herat",
+    "admin_name": "Yazd",
+    "lat": "30.0547",
+    "lng": "54.3717",
+    "id": "1364330823"
+  },
+  {
+    "city": "Ben",
+    "city_ascii": "Ben",
+    "admin_name": "Chahār Maḩāl va Bakhtīārī",
+    "lat": "32.5447",
+    "lng": "50.7475",
+    "id": "1364428326"
+  },
+  {
+    "city": "Khomām",
+    "city_ascii": "Khomam",
+    "admin_name": "Gīlān",
+    "lat": "37.3911",
+    "lng": "49.6597",
+    "id": "1364567758"
+  },
+  {
+    "city": "Landeh",
+    "city_ascii": "Landeh",
+    "admin_name": "Kohgīlūyeh va Bowyer Aḩmad",
+    "lat": "30.9808",
+    "lng": "50.4214",
+    "id": "1364576368"
+  },
+  {
+    "city": "Varzaneh",
+    "city_ascii": "Varzaneh",
+    "admin_name": "Eşfahān",
+    "lat": "32.4197",
+    "lng": "52.6478",
+    "id": "1364732883"
+  },
+  {
+    "city": "Bāsmenj",
+    "city_ascii": "Basmenj",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "37.9961",
+    "lng": "46.4722",
+    "id": "1364033031"
+  },
+  {
+    "city": "Sangar",
+    "city_ascii": "Sangar",
+    "admin_name": "Gīlān",
+    "lat": "37.1797",
+    "lng": "49.6942",
+    "id": "1364837477"
+  },
+  {
+    "city": "Nāysar",
+    "city_ascii": "Naysar",
+    "admin_name": "Kordestān",
+    "lat": "35.3267",
+    "lng": "47.0686",
+    "id": "1364980803"
+  },
+  {
+    "city": "Eyvānekey",
+    "city_ascii": "Eyvanekey",
+    "admin_name": "Semnān",
+    "lat": "35.3444",
+    "lng": "52.0714",
+    "id": "1364816027"
+  },
+  {
+    "city": "Sangān",
+    "city_ascii": "Sangan",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "34.3961",
+    "lng": "60.2572",
+    "id": "1364471861"
+  },
+  {
+    "city": "Sarābleh",
+    "city_ascii": "Sarableh",
+    "admin_name": "Īlām",
+    "lat": "33.7683",
+    "lng": "46.5619",
+    "id": "1364153811"
+  },
+  {
+    "city": "Kalā Chāy",
+    "city_ascii": "Kala Chay",
+    "admin_name": "Gīlān",
+    "lat": "37.0789",
+    "lng": "50.3953",
+    "id": "1364325067"
+  },
+  {
+    "city": "Asfarvarīn",
+    "city_ascii": "Asfarvarin",
+    "admin_name": "Qazvīn",
+    "lat": "35.9331",
+    "lng": "49.7469",
+    "id": "1364597620"
+  },
+  {
+    "city": "Reẕvānshahr",
+    "city_ascii": "Rezvanshahr",
+    "admin_name": "Gīlān",
+    "lat": "37.5481",
+    "lng": "49.1356",
+    "id": "1364695165"
+  },
+  {
+    "city": "Sūreshjān",
+    "city_ascii": "Sureshjan",
+    "admin_name": "Chahār Maḩāl va Bakhtīārī",
+    "lat": "32.3167",
+    "lng": "50.6764",
+    "id": "1364345684"
+  },
+  {
+    "city": "Charmahīn",
+    "city_ascii": "Charmahin",
+    "admin_name": "Eşfahān",
+    "lat": "32.3333",
+    "lng": "51.1897",
+    "id": "1364383489"
+  },
+  {
+    "city": "Senjān",
+    "city_ascii": "Senjan",
+    "admin_name": "Markazī",
+    "lat": "34.0506",
+    "lng": "49.6214",
+    "id": "1364156071"
+  },
+  {
+    "city": "Zābolī",
+    "city_ascii": "Zaboli",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "27.1283",
+    "lng": "61.6722",
+    "id": "1364807796"
+  },
+  {
+    "city": "Bampūr",
+    "city_ascii": "Bampur",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "27.1950",
+    "lng": "60.4547",
+    "id": "1364531120"
+  },
+  {
+    "city": "Boldājī",
+    "city_ascii": "Boldaji",
+    "admin_name": "Chahār Maḩāl va Bakhtīārī",
+    "lat": "31.9356",
+    "lng": "51.0544",
+    "id": "1364062486"
+  },
+  {
+    "city": "Arakvāz-e Malekshāhī",
+    "city_ascii": "Arakvaz-e Malekshahi",
+    "admin_name": "Īlām",
+    "lat": "33.3847",
+    "lng": "46.5997",
+    "id": "1364625820"
+  },
+  {
+    "city": "Mamqān",
+    "city_ascii": "Mamqan",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "37.8458",
+    "lng": "45.9719",
+    "id": "1364475727"
+  },
+  {
+    "city": "Bajestān",
+    "city_ascii": "Bajestan",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "34.5178",
+    "lng": "58.1844",
+    "id": "1364026409"
+  },
+  {
+    "city": "Zārach",
+    "city_ascii": "Zarach",
+    "admin_name": "Yazd",
+    "lat": "31.9908",
+    "lng": "54.2319",
+    "id": "1364790492"
+  },
+  {
+    "city": "Rostam Kolā",
+    "city_ascii": "Rostam Kola",
+    "admin_name": "Māzandarān",
+    "lat": "36.6789",
+    "lng": "53.4297",
+    "id": "1364863300"
+  },
+  {
+    "city": "Qaşr-e Qand",
+    "city_ascii": "Qasr-e Qand",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "26.2356",
+    "lng": "60.7408",
+    "id": "1364737765"
+  },
+  {
+    "city": "Khorramābād",
+    "city_ascii": "Khorramabad",
+    "admin_name": "Māzandarān",
+    "lat": "36.7822",
+    "lng": "50.8714",
+    "id": "1364053905"
+  },
+  {
+    "city": "Poldasht",
+    "city_ascii": "Poldasht",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "39.3447",
+    "lng": "45.0681",
+    "id": "1364811524"
+  },
+  {
+    "city": "Kashaf",
+    "city_ascii": "Kashaf",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "36.3678",
+    "lng": "59.5767",
+    "id": "1364712972"
+  },
+  {
+    "city": "Kūshk",
+    "city_ascii": "Kushk",
+    "admin_name": "Eşfahān",
+    "lat": "32.6419",
+    "lng": "51.4997",
+    "id": "1364515692"
+  },
+  {
+    "city": "Lavandevīl",
+    "city_ascii": "Lavandevil",
+    "admin_name": "Gīlān",
+    "lat": "38.3089",
+    "lng": "48.8703",
+    "id": "1364485386"
+  },
+  {
+    "city": "Vaḩdattīyeh",
+    "city_ascii": "Vahdattiyeh",
+    "admin_name": "Būshehr",
+    "lat": "29.4842",
+    "lng": "51.2319",
+    "id": "1364485087"
+  },
+  {
+    "city": "Hamadānak",
+    "city_ascii": "Hamadanak",
+    "admin_name": "Tehrān",
+    "lat": "35.5422",
+    "lng": "51.1383",
+    "id": "1364169657"
+  },
+  {
+    "city": "Sarāb-e Tāveh-ye ‘Olyā",
+    "city_ascii": "Sarab-e Taveh-ye `Olya",
+    "admin_name": "Kohgīlūyeh va Bowyer Aḩmad",
+    "lat": "30.5981",
+    "lng": "51.5761",
+    "id": "1364078533"
+  },
+  {
+    "city": "Chamestān",
+    "city_ascii": "Chamestan",
+    "admin_name": "Māzandarān",
+    "lat": "36.4792",
+    "lng": "52.1194",
+    "id": "1364361980"
+  },
+  {
+    "city": "Shahmīrzād",
+    "city_ascii": "Shahmirzad",
+    "admin_name": "Semnān",
+    "lat": "35.7700",
+    "lng": "53.3336",
+    "id": "1364136501"
+  },
+  {
+    "city": "Arvand Kenār",
+    "city_ascii": "Arvand Kenar",
+    "admin_name": "Khūzestān",
+    "lat": "29.9789",
+    "lng": "48.5206",
+    "id": "1364710033"
+  },
+  {
+    "city": "Arvand Kenār",
+    "city_ascii": "Arvand Kenar",
+    "admin_name": "Khūzestān",
+    "lat": "29.9786",
+    "lng": "48.5189",
+    "id": "1364278589"
+  },
+  {
+    "city": "Kārīz",
+    "city_ascii": "Kariz",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "34.8117",
+    "lng": "60.8239",
+    "id": "1364756203"
+  },
+  {
+    "city": "Şā’īn Qal‘eh",
+    "city_ascii": "Sa'in Qal`eh",
+    "admin_name": "Zanjān",
+    "lat": "36.3044",
+    "lng": "49.0722",
+    "id": "1364854942"
+  },
+  {
+    "city": "Ḩaşşeh",
+    "city_ascii": "Hasseh",
+    "admin_name": "Eşfahān",
+    "lat": "32.7067",
+    "lng": "51.7556",
+    "id": "1364425032"
+  },
+  {
+    "city": "Garmeh",
+    "city_ascii": "Garmeh",
+    "admin_name": "Khorāsān-e Shomālī",
+    "lat": "36.9864",
+    "lng": "56.2881",
+    "id": "1364001152"
+  },
+  {
+    "city": "Qaşr-e Qomsheh",
+    "city_ascii": "Qasr-e Qomsheh",
+    "admin_name": "Fārs",
+    "lat": "29.7756",
+    "lng": "52.4417",
+    "id": "1364885265"
+  },
+  {
+    "city": "Khān Bebīn",
+    "city_ascii": "Khan Bebin",
+    "admin_name": "Golestān",
+    "lat": "37.0097",
+    "lng": "54.9858",
+    "id": "1364836717"
+  },
+  {
+    "city": "Shamsābād",
+    "city_ascii": "Shamsabad",
+    "admin_name": "Khūzestān",
+    "lat": "32.2978",
+    "lng": "48.4283",
+    "id": "1364349532"
+  },
+  {
+    "city": "Pīr Bakrān",
+    "city_ascii": "Pir Bakran",
+    "admin_name": "Eşfahān",
+    "lat": "32.4678",
+    "lng": "51.5556",
+    "id": "1364421592"
+  },
+  {
+    "city": "Gol Tappeh",
+    "city_ascii": "Gol Tappeh",
+    "admin_name": "Tehrān",
+    "lat": "35.4867",
+    "lng": "51.5650",
+    "id": "1364945991"
+  },
+  {
+    "city": "Maryānaj",
+    "city_ascii": "Maryanaj",
+    "admin_name": "Hamadān",
+    "lat": "34.8308",
+    "lng": "48.4603",
+    "id": "1364941323"
+  },
+  {
+    "city": "Qal‘eh Chan‘ān",
+    "city_ascii": "Qal`eh Chan`an",
+    "admin_name": "Khūzestān",
+    "lat": "31.2403",
+    "lng": "48.7011",
+    "id": "1364626383"
+  },
+  {
+    "city": "Bāsht",
+    "city_ascii": "Basht",
+    "admin_name": "Kohgīlūyeh va Bowyer Aḩmad",
+    "lat": "30.3611",
+    "lng": "51.1558",
+    "id": "1364527291"
+  },
+  {
+    "city": "Kūhbanān",
+    "city_ascii": "Kuhbanan",
+    "admin_name": "Kermān",
+    "lat": "31.4100",
+    "lng": "56.2825",
+    "id": "1364489300"
+  },
+  {
+    "city": "Deh Bakrī",
+    "city_ascii": "Deh Bakri",
+    "admin_name": "Kermān",
+    "lat": "29.0478",
+    "lng": "57.9119",
+    "id": "1364001986"
+  },
+  {
+    "city": "Asālem",
+    "city_ascii": "Asalem",
+    "admin_name": "Gīlān",
+    "lat": "37.7211",
+    "lng": "48.9583",
+    "id": "1364809710"
+  },
+  {
+    "city": "Qal‘eh Tall",
+    "city_ascii": "Qal`eh Tall",
+    "admin_name": "Khūzestān",
+    "lat": "31.6331",
+    "lng": "49.8897",
+    "id": "1364980286"
+  },
+  {
+    "city": "Darb-e Behesht",
+    "city_ascii": "Darb-e Behesht",
+    "admin_name": "Kermān",
+    "lat": "29.2331",
+    "lng": "57.3397",
+    "id": "1364349317"
+  },
+  {
+    "city": "Dakhān",
+    "city_ascii": "Dakhan",
+    "admin_name": "Markazī",
+    "lat": "35.1250",
+    "lng": "49.5175",
+    "id": "1364442935"
+  },
+  {
+    "city": "Lasht-e Neshā",
+    "city_ascii": "Lasht-e Nesha",
+    "admin_name": "Gīlān",
+    "lat": "37.3608",
+    "lng": "49.8611",
+    "id": "1364211135"
+  },
+  {
+    "city": "Herīs",
+    "city_ascii": "Heris",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "38.2475",
+    "lng": "47.1164",
+    "id": "1364732749"
+  },
+  {
+    "city": "Bāghīn",
+    "city_ascii": "Baghin",
+    "admin_name": "Kermān",
+    "lat": "30.1839",
+    "lng": "56.8075",
+    "id": "1364307046"
+  },
+  {
+    "city": "Hachīrūd",
+    "city_ascii": "Hachirud",
+    "admin_name": "Māzandarān",
+    "lat": "36.6856",
+    "lng": "51.3450",
+    "id": "1364613179"
+  },
+  {
+    "city": "Nūkān",
+    "city_ascii": "Nukan",
+    "admin_name": "Kermānshāh",
+    "lat": "34.3608",
+    "lng": "47.1725",
+    "id": "1364395040"
+  },
+  {
+    "city": "Shahrak-e Enqelāb",
+    "city_ascii": "Shahrak-e Enqelab",
+    "admin_name": "Tehrān",
+    "lat": "35.5156",
+    "lng": "51.6867",
+    "id": "1364192859"
+  },
+  {
+    "city": "Qārī Kolā-ye Araţeh",
+    "city_ascii": "Qari Kola-ye Arateh",
+    "admin_name": "Māzandarān",
+    "lat": "36.4917",
+    "lng": "52.9531",
+    "id": "1364710926"
+  },
+  {
+    "city": "Dalgān",
+    "city_ascii": "Dalgan",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "27.4825",
+    "lng": "59.4464",
+    "id": "1364617875"
+  },
+  {
+    "city": "Rāyen",
+    "city_ascii": "Rayen",
+    "admin_name": "Kermān",
+    "lat": "29.5981",
+    "lng": "57.4383",
+    "id": "1364046368"
+  },
+  {
+    "city": "Meymand",
+    "city_ascii": "Meymand",
+    "admin_name": "Fārs",
+    "lat": "28.8683",
+    "lng": "52.7525",
+    "id": "1364554931"
+  },
+  {
+    "city": "Rāsak",
+    "city_ascii": "Rasak",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "26.2356",
+    "lng": "61.4014",
+    "id": "1364728682"
+  },
+  {
+    "city": "Ardal",
+    "city_ascii": "Ardal",
+    "admin_name": "Chahār Maḩāl va Bakhtīārī",
+    "lat": "31.9986",
+    "lng": "50.6622",
+    "id": "1364019952"
+  },
+  {
+    "city": "Mashhad Rīzeh",
+    "city_ascii": "Mashhad Rizeh",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "34.7947",
+    "lng": "60.5144",
+    "id": "1364459506"
+  },
+  {
+    "city": "Kūcheşfahān",
+    "city_ascii": "Kuchesfahan",
+    "admin_name": "Gīlān",
+    "lat": "37.2783",
+    "lng": "49.7728",
+    "id": "1364862389"
+  },
+  {
+    "city": "Galleh Dār",
+    "city_ascii": "Galleh Dar",
+    "admin_name": "Fārs",
+    "lat": "27.6578",
+    "lng": "52.6594",
+    "id": "1364264493"
+  },
+  {
+    "city": "Maḩalleh-ye Shīrīnū",
+    "city_ascii": "Mahalleh-ye Shirinu",
+    "admin_name": "Būshehr",
+    "lat": "27.6256",
+    "lng": "52.4750",
+    "id": "1364055893"
+  },
+  {
+    "city": "Şūfīān",
+    "city_ascii": "Sufian",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "38.2775",
+    "lng": "45.9808",
+    "id": "1364080315"
+  },
+  {
+    "city": "Bastak",
+    "city_ascii": "Bastak",
+    "admin_name": "Hormozgān",
+    "lat": "27.1953",
+    "lng": "54.3678",
+    "id": "1364136861"
+  },
+  {
+    "city": "Sorkheh",
+    "city_ascii": "Sorkheh",
+    "admin_name": "Semnān",
+    "lat": "35.4644",
+    "lng": "53.2086",
+    "id": "1364888685"
+  },
+  {
+    "city": "Mīāndasht",
+    "city_ascii": "Miandasht",
+    "admin_name": "Eşfahān",
+    "lat": "33.0758",
+    "lng": "50.1631",
+    "id": "1364540083"
+  },
+  {
+    "city": "Ţālkhvoncheh",
+    "city_ascii": "Talkhvoncheh",
+    "admin_name": "Eşfahān",
+    "lat": "32.2622",
+    "lng": "51.5603",
+    "id": "1364903302"
+  },
+  {
+    "city": "Ḩeşārcheh-ye Pā’īn",
+    "city_ascii": "Hesarcheh-ye Pa'in",
+    "admin_name": "Khorāsān-e Shomālī",
+    "lat": "38.1800",
+    "lng": "56.4500",
+    "id": "1364449078"
+  },
+  {
+    "city": "Bavānāt",
+    "city_ascii": "Bavanat",
+    "admin_name": "Fārs",
+    "lat": "30.4717",
+    "lng": "53.6261",
+    "id": "1364321545"
+  },
+  {
+    "city": "Zāhed Shahr",
+    "city_ascii": "Zahed Shahr",
+    "admin_name": "Fārs",
+    "lat": "28.7461",
+    "lng": "53.8039",
+    "id": "1364093059"
+  },
+  {
+    "city": "Qahjāvarestān",
+    "city_ascii": "Qahjavarestan",
+    "admin_name": "Eşfahān",
+    "lat": "32.7044",
+    "lng": "51.8336",
+    "id": "1364849715"
+  },
+  {
+    "city": "Gorgāb",
+    "city_ascii": "Gorgab",
+    "admin_name": "Eşfahān",
+    "lat": "32.8661",
+    "lng": "51.5972",
+    "id": "1364220852"
+  },
+  {
+    "city": "Salmānshahr",
+    "city_ascii": "Salmanshahr",
+    "admin_name": "Māzandarān",
+    "lat": "36.7058",
+    "lng": "51.1975",
+    "id": "1364942661"
+  },
+  {
+    "city": "Khesht",
+    "city_ascii": "Khesht",
+    "admin_name": "Fārs",
+    "lat": "29.5633",
+    "lng": "51.3350",
+    "id": "1364677033"
+  },
+  {
+    "city": "Qorveh",
+    "city_ascii": "Qorveh",
+    "admin_name": "Hamadān",
+    "lat": "35.3089",
+    "lng": "49.1011",
+    "id": "1364833615"
+  },
+  {
+    "city": "Shahrak-e Ja‘farīyeh",
+    "city_ascii": "Shahrak-e Ja`fariyeh",
+    "admin_name": "Tehrān",
+    "lat": "35.6617",
+    "lng": "50.9947",
+    "id": "1364186940"
+  },
+  {
+    "city": "Dānesfahān",
+    "city_ascii": "Danesfahan",
+    "admin_name": "Qazvīn",
+    "lat": "35.8117",
+    "lng": "49.7431",
+    "id": "1364115128"
+  },
+  {
+    "city": "Chahār Borj-e Qadīm",
+    "city_ascii": "Chahar Borj-e Qadim",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "37.1256",
+    "lng": "45.9783",
+    "id": "1364251992"
+  },
+  {
+    "city": "Ja‘farīyeh",
+    "city_ascii": "Ja`fariyeh",
+    "admin_name": "Qom",
+    "lat": "34.7739",
+    "lng": "50.5164",
+    "id": "1364571429"
+  },
+  {
+    "city": "Marvast",
+    "city_ascii": "Marvast",
+    "admin_name": "Yazd",
+    "lat": "30.4775",
+    "lng": "54.2128",
+    "id": "1364747499"
+  },
+  {
+    "city": "Shahr-e Majlesī",
+    "city_ascii": "Shahr-e Majlesi",
+    "admin_name": "Eşfahān",
+    "lat": "32.1936",
+    "lng": "51.5006",
+    "id": "1364778024"
+  },
+  {
+    "city": "Mīrjāveh",
+    "city_ascii": "Mirjaveh",
+    "admin_name": "Sīstān va Balūchestān",
+    "lat": "29.0147",
+    "lng": "61.4503",
+    "id": "1364020318"
+  },
+  {
+    "city": "Dowlatābād",
+    "city_ascii": "Dowlatabad",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "35.2842",
+    "lng": "59.5225",
+    "id": "1364947262"
+  },
+  {
+    "city": "Kaleybar",
+    "city_ascii": "Kaleybar",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "38.8664",
+    "lng": "47.0406",
+    "id": "1364048675"
+  },
+  {
+    "city": "Moḩammad Yār",
+    "city_ascii": "Mohammad Yar",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "36.9819",
+    "lng": "45.5222",
+    "id": "1364495024"
+  },
+  {
+    "city": "Mīlājerd",
+    "city_ascii": "Milajerd",
+    "admin_name": "Markazī",
+    "lat": "34.6214",
+    "lng": "49.2081",
+    "id": "1364310563"
+  },
+  {
+    "city": "Abūz̄ar-e Ghaffārī",
+    "city_ascii": "Abuzar-e Ghaffari",
+    "admin_name": "Khūzestān",
+    "lat": "32.1806",
+    "lng": "48.2778",
+    "id": "1364552962"
+  },
+  {
+    "city": "Joghtāy",
+    "city_ascii": "Joghtay",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "36.6383",
+    "lng": "57.0717",
+    "id": "1364200718"
+  },
+  {
+    "city": "Jūraqān",
+    "city_ascii": "Juraqan",
+    "admin_name": "Hamadān",
+    "lat": "34.8850",
+    "lng": "48.5561",
+    "id": "1364272105"
+  },
+  {
+    "city": "Bahābād",
+    "city_ascii": "Bahabad",
+    "admin_name": "Yazd",
+    "lat": "31.8706",
+    "lng": "56.0253",
+    "id": "1364142040"
+  },
+  {
+    "city": "Sūrak",
+    "city_ascii": "Surak",
+    "admin_name": "Māzandarān",
+    "lat": "36.5939",
+    "lng": "53.2086",
+    "id": "1364175111"
+  },
+  {
+    "city": "Golbāf",
+    "city_ascii": "Golbaf",
+    "admin_name": "Kermān",
+    "lat": "29.8828",
+    "lng": "57.7322",
+    "id": "1364424557"
+  },
+  {
+    "city": "Ḩorr-e Rīāḩī",
+    "city_ascii": "Horr-e Riahi",
+    "admin_name": "Khūzestān",
+    "lat": "32.1444",
+    "lng": "48.3906",
+    "id": "1364177562"
+  },
+  {
+    "city": "Nashtīfān",
+    "city_ascii": "Nashtifan",
+    "admin_name": "Khorāsān-e Raẕavī",
+    "lat": "34.4350",
+    "lng": "60.1811",
+    "id": "1364386254"
+  },
+  {
+    "city": "Eshkanān",
+    "city_ascii": "Eshkanan",
+    "admin_name": "Fārs",
+    "lat": "27.2264",
+    "lng": "53.6064",
+    "id": "1364207310"
+  },
+  {
+    "city": "Zeydābād",
+    "city_ascii": "Zeydabad",
+    "admin_name": "Kermān",
+    "lat": "29.6008",
+    "lng": "55.5367",
+    "id": "1364403810"
+  },
+  {
+    "city": "Banārūyeh",
+    "city_ascii": "Banaruyeh",
+    "admin_name": "Fārs",
+    "lat": "28.0864",
+    "lng": "54.0481",
+    "id": "1364350931"
+  },
+  {
+    "city": "Shahr-e Pīr",
+    "city_ascii": "Shahr-e Pir",
+    "admin_name": "Fārs",
+    "lat": "28.3122",
+    "lng": "54.3328",
+    "id": "1364616917"
+  },
+  {
+    "city": "Bīdkhūn",
+    "city_ascii": "Bidkhun",
+    "admin_name": "Būshehr",
+    "lat": "27.4803",
+    "lng": "52.6681",
+    "id": "1364276019"
+  },
+  {
+    "city": "Pā’īn Chāf",
+    "city_ascii": "Pa'in Chaf",
+    "admin_name": "Gīlān",
+    "lat": "37.2294",
+    "lng": "50.2544",
+    "id": "1364982101"
+  },
+  {
+    "city": "Moslem Ebn-e ‘Aqīl",
+    "city_ascii": "Moslem Ebn-e `Aqil",
+    "admin_name": "Khūzestān",
+    "lat": "32.0561",
+    "lng": "48.3056",
+    "id": "1364327815"
+  },
+  {
+    "city": "Jolfā",
+    "city_ascii": "Jolfa",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "38.9386",
+    "lng": "45.6253",
+    "id": "1364456740"
+  },
+  {
+    "city": "Komījān",
+    "city_ascii": "Komijan",
+    "admin_name": "Markazī",
+    "lat": "34.7181",
+    "lng": "49.3250",
+    "id": "1364723077"
+  },
+  {
+    "city": "Āshtīān",
+    "city_ascii": "Ashtian",
+    "admin_name": "Markazī",
+    "lat": "34.5222",
+    "lng": "50.0069",
+    "id": "1364425405"
+  },
+  {
+    "city": "Banak",
+    "city_ascii": "Banak",
+    "admin_name": "Būshehr",
+    "lat": "27.8714",
+    "lng": "52.0272",
+    "id": "1364681484"
+  },
+  {
+    "city": "Sarbīsheh",
+    "city_ascii": "Sarbisheh",
+    "admin_name": "Khorāsān-e Jonūbī",
+    "lat": "32.5775",
+    "lng": "59.7961",
+    "id": "1364184817"
+  },
+  {
+    "city": "Pardanjān",
+    "city_ascii": "Pardanjan",
+    "admin_name": "Chahār Maḩāl va Bakhtīārī",
+    "lat": "32.2539",
+    "lng": "50.5975",
+    "id": "1364000864"
+  },
+  {
+    "city": "Azandarīān",
+    "city_ascii": "Azandarian",
+    "admin_name": "Hamadān",
+    "lat": "34.5036",
+    "lng": "48.6906",
+    "id": "1364125839"
+  },
+  {
+    "city": "Marāveh Tappeh",
+    "city_ascii": "Maraveh Tappeh",
+    "admin_name": "Golestān",
+    "lat": "37.9031",
+    "lng": "55.9567",
+    "id": "1364721495"
+  },
+  {
+    "city": "Sa‘īdī",
+    "city_ascii": "Sa`idi",
+    "admin_name": "Kermān",
+    "lat": "30.3364",
+    "lng": "57.0994",
+    "id": "1364002523"
+  },
+  {
+    "city": "Shahrak-e Pārs",
+    "city_ascii": "Shahrak-e Pars",
+    "admin_name": "Tehrān",
+    "lat": "35.6075",
+    "lng": "51.3797",
+    "id": "1364466925"
+  },
+  {
+    "city": "Seyyedān",
+    "city_ascii": "Seyyedan",
+    "admin_name": "Fārs",
+    "lat": "30.0019",
+    "lng": "53.0033",
+    "id": "1364707291"
+  },
+  {
+    "city": "Kond Rūd",
+    "city_ascii": "Kond Rud",
+    "admin_name": "Āz̄arbāyjān-e Sharqī",
+    "lat": "38.0094",
+    "lng": "46.4778",
+    "id": "1364907132"
+  },
+  {
+    "city": "Nalās",
+    "city_ascii": "Nalas",
+    "admin_name": "Āz̄arbāyjān-e Gharbī",
+    "lat": "36.2631",
+    "lng": "45.4933",
+    "id": "1364132708"
+  },
+  {
+    "city": "Sārī",
+    "city_ascii": "Sari",
+    "admin_name": "Māzandarān",
+    "lat": "36.5633",
+    "lng": "53.0601",
+    "id": "1364501878"
+  },
+  {
+    "city": "Īlām",
+    "city_ascii": "Ilam",
+    "admin_name": "Īlām",
+    "lat": "33.6374",
+    "lng": "46.4227",
+    "id": "1364655025"
+  }
+]

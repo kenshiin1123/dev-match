@@ -1,0 +1,1482 @@
+[
+  {
+    "city": "Athens",
+    "city_ascii": "Athens",
+    "admin_name": "Attikí",
+    "lat": "37.9842",
+    "lng": "23.7281",
+    "id": "1300715560"
+  },
+  {
+    "city": "Thessaloníki",
+    "city_ascii": "Thessaloniki",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.6403",
+    "lng": "22.9356",
+    "id": "1300397999"
+  },
+  {
+    "city": "Piraeus",
+    "city_ascii": "Piraeus",
+    "admin_name": "Attikí",
+    "lat": "37.9430",
+    "lng": "23.6469",
+    "id": "1300458367"
+  },
+  {
+    "city": "Týrnavos",
+    "city_ascii": "Tyrnavos",
+    "admin_name": "Thessalía",
+    "lat": "39.7333",
+    "lng": "22.2833",
+    "id": "1300449251"
+  },
+  {
+    "city": "Irákleio",
+    "city_ascii": "Irakleio",
+    "admin_name": "Kríti",
+    "lat": "35.3403",
+    "lng": "25.1344",
+    "id": "1300777854"
+  },
+  {
+    "city": "Pátra",
+    "city_ascii": "Patra",
+    "admin_name": "Dytikí Elláda",
+    "lat": "38.2500",
+    "lng": "21.7333",
+    "id": "1300201099"
+  },
+  {
+    "city": "Peristéri",
+    "city_ascii": "Peristeri",
+    "admin_name": "Attikí",
+    "lat": "38.0167",
+    "lng": "23.6833",
+    "id": "1300302779"
+  },
+  {
+    "city": "Lárisa",
+    "city_ascii": "Larisa",
+    "admin_name": "Thessalía",
+    "lat": "39.6417",
+    "lng": "22.4167",
+    "id": "1300003141"
+  },
+  {
+    "city": "Acharnés",
+    "city_ascii": "Acharnes",
+    "admin_name": "Attikí",
+    "lat": "38.0833",
+    "lng": "23.7333",
+    "id": "1300526257"
+  },
+  {
+    "city": "Kallithéa",
+    "city_ascii": "Kallithea",
+    "admin_name": "Attikí",
+    "lat": "37.9500",
+    "lng": "23.7000",
+    "id": "1300675902"
+  },
+  {
+    "city": "Kalamariá",
+    "city_ascii": "Kalamaria",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.5833",
+    "lng": "22.9500",
+    "id": "1300268108"
+  },
+  {
+    "city": "Glyfáda",
+    "city_ascii": "Glyfada",
+    "admin_name": "Attikí",
+    "lat": "37.8667",
+    "lng": "23.7500",
+    "id": "1300003373"
+  },
+  {
+    "city": "Níkaia",
+    "city_ascii": "Nikaia",
+    "admin_name": "Attikí",
+    "lat": "37.9667",
+    "lng": "23.6333",
+    "id": "1300155901"
+  },
+  {
+    "city": "Vólos",
+    "city_ascii": "Volos",
+    "admin_name": "Thessalía",
+    "lat": "39.3667",
+    "lng": "22.9333",
+    "id": "1300109851"
+  },
+  {
+    "city": "Ílion",
+    "city_ascii": "Ilion",
+    "admin_name": "Attikí",
+    "lat": "38.0333",
+    "lng": "23.7000",
+    "id": "1300000001"
+  },
+  {
+    "city": "Évosmos",
+    "city_ascii": "Evosmos",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.6689",
+    "lng": "22.9083",
+    "id": "1300891029"
+  },
+  {
+    "city": "Chalándri",
+    "city_ascii": "Chalandri",
+    "admin_name": "Attikí",
+    "lat": "38.0167",
+    "lng": "23.8000",
+    "id": "1300443208"
+  },
+  {
+    "city": "Ilioúpoli",
+    "city_ascii": "Ilioupoli",
+    "admin_name": "Attikí",
+    "lat": "37.9333",
+    "lng": "23.7500",
+    "id": "1300079206"
+  },
+  {
+    "city": "Keratsíni",
+    "city_ascii": "Keratsini",
+    "admin_name": "Attikí",
+    "lat": "37.9667",
+    "lng": "23.6167",
+    "id": "1300341321"
+  },
+  {
+    "city": "Néa Smýrni",
+    "city_ascii": "Nea Smyrni",
+    "admin_name": "Attikí",
+    "lat": "37.9500",
+    "lng": "23.7167",
+    "id": "1300609999"
+  },
+  {
+    "city": "Maroúsi",
+    "city_ascii": "Marousi",
+    "admin_name": "Attikí",
+    "lat": "38.0500",
+    "lng": "23.8000",
+    "id": "1300017523"
+  },
+  {
+    "city": "Ágios Dimítrios",
+    "city_ascii": "Agios Dimitrios",
+    "admin_name": "Attikí",
+    "lat": "37.9333",
+    "lng": "23.7333",
+    "id": "1300159419"
+  },
+  {
+    "city": "Zográfos",
+    "city_ascii": "Zografos",
+    "admin_name": "Attikí",
+    "lat": "37.9783",
+    "lng": "23.7717",
+    "id": "1300851737"
+  },
+  {
+    "city": "Kavála",
+    "city_ascii": "Kavala",
+    "admin_name": "Anatolikí Makedonía kai Thráki",
+    "lat": "40.9333",
+    "lng": "24.4000",
+    "id": "1300398756"
+  },
+  {
+    "city": "Aigáleo",
+    "city_ascii": "Aigaleo",
+    "admin_name": "Attikí",
+    "lat": "37.9920",
+    "lng": "23.6780",
+    "id": "1300067899"
+  },
+  {
+    "city": "Ioánnina",
+    "city_ascii": "Ioannina",
+    "admin_name": "Ípeiros",
+    "lat": "39.6636",
+    "lng": "20.8522",
+    "id": "1300317204"
+  },
+  {
+    "city": "Palaió Fáliro",
+    "city_ascii": "Palaio Faliro",
+    "admin_name": "Attikí",
+    "lat": "37.9333",
+    "lng": "23.7000",
+    "id": "1300258604"
+  },
+  {
+    "city": "Néa Ionía",
+    "city_ascii": "Nea Ionia",
+    "admin_name": "Attikí",
+    "lat": "38.0333",
+    "lng": "23.7500",
+    "id": "1300842760"
+  },
+  {
+    "city": "Agía Paraskeví",
+    "city_ascii": "Agia Paraskevi",
+    "admin_name": "Attikí",
+    "lat": "38.0117",
+    "lng": "23.8200",
+    "id": "1300253630"
+  },
+  {
+    "city": "Tríkala",
+    "city_ascii": "Trikala",
+    "admin_name": "Thessalía",
+    "lat": "39.5500",
+    "lng": "21.7667",
+    "id": "1300446578"
+  },
+  {
+    "city": "Korydallós",
+    "city_ascii": "Korydallos",
+    "admin_name": "Attikí",
+    "lat": "37.9833",
+    "lng": "23.6500",
+    "id": "1300198192"
+  },
+  {
+    "city": "Petroúpoli",
+    "city_ascii": "Petroupoli",
+    "admin_name": "Attikí",
+    "lat": "38.0333",
+    "lng": "23.6833",
+    "id": "1300960002"
+  },
+  {
+    "city": "Pallíni",
+    "city_ascii": "Pallini",
+    "admin_name": "Attikí",
+    "lat": "38.0000",
+    "lng": "23.8833",
+    "id": "1300243974"
+  },
+  {
+    "city": "Kateríni",
+    "city_ascii": "Katerini",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.2667",
+    "lng": "22.5000",
+    "id": "1300524464"
+  },
+  {
+    "city": "Výronas",
+    "city_ascii": "Vyronas",
+    "admin_name": "Attikí",
+    "lat": "37.9617",
+    "lng": "23.7533",
+    "id": "1300508500"
+  },
+  {
+    "city": "Chalkída",
+    "city_ascii": "Chalkida",
+    "admin_name": "Stereá Elláda",
+    "lat": "38.4625",
+    "lng": "23.5950",
+    "id": "1300585149"
+  },
+  {
+    "city": "Xánthi",
+    "city_ascii": "Xanthi",
+    "admin_name": "Anatolikí Makedonía kai Thráki",
+    "lat": "41.1333",
+    "lng": "24.8833",
+    "id": "1300051191"
+  },
+  {
+    "city": "Sérres",
+    "city_ascii": "Serres",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "41.0833",
+    "lng": "23.5500",
+    "id": "1300726987"
+  },
+  {
+    "city": "Galátsi",
+    "city_ascii": "Galatsi",
+    "admin_name": "Attikí",
+    "lat": "38.0167",
+    "lng": "23.7500",
+    "id": "1300322310"
+  },
+  {
+    "city": "Ródos",
+    "city_ascii": "Rodos",
+    "admin_name": "Nótio Aigaío",
+    "lat": "36.4412",
+    "lng": "28.2225",
+    "id": "1300944675"
+  },
+  {
+    "city": "Kardítsa",
+    "city_ascii": "Karditsa",
+    "admin_name": "Thessalía",
+    "lat": "39.3667",
+    "lng": "21.9167",
+    "id": "1300471729"
+  },
+  {
+    "city": "Thérmi",
+    "city_ascii": "Thermi",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.5500",
+    "lng": "23.0167",
+    "id": "1300794818"
+  },
+  {
+    "city": "Chaniá",
+    "city_ascii": "Chania",
+    "admin_name": "Kríti",
+    "lat": "35.5167",
+    "lng": "24.0167",
+    "id": "1300233408"
+  },
+  {
+    "city": "Agrínio",
+    "city_ascii": "Agrinio",
+    "admin_name": "Dytikí Elláda",
+    "lat": "38.6167",
+    "lng": "21.4000",
+    "id": "1300351677"
+  },
+  {
+    "city": "Irákleio",
+    "city_ascii": "Irakleio",
+    "admin_name": "Attikí",
+    "lat": "38.0500",
+    "lng": "23.7667",
+    "id": "1300476566"
+  },
+  {
+    "city": "Lamía",
+    "city_ascii": "Lamia",
+    "admin_name": "Stereá Elláda",
+    "lat": "38.9000",
+    "lng": "22.4333",
+    "id": "1300400935"
+  },
+  {
+    "city": "Kifisiá",
+    "city_ascii": "Kifisia",
+    "admin_name": "Attikí",
+    "lat": "38.0833",
+    "lng": "23.8167",
+    "id": "1300808003"
+  },
+  {
+    "city": "Chaïdári",
+    "city_ascii": "Chaidari",
+    "admin_name": "Attikí",
+    "lat": "38.0167",
+    "lng": "23.6500",
+    "id": "1300077260"
+  },
+  {
+    "city": "Stavroúpoli",
+    "city_ascii": "Stavroupoli",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.6667",
+    "lng": "22.9333",
+    "id": "1300659280"
+  },
+  {
+    "city": "Pýrgos",
+    "city_ascii": "Pyrgos",
+    "admin_name": "Dytikí Elláda",
+    "lat": "37.6667",
+    "lng": "21.4333",
+    "id": "1300188949"
+  },
+  {
+    "city": "Dráma",
+    "city_ascii": "Drama",
+    "admin_name": "Anatolikí Makedonía kai Thráki",
+    "lat": "41.1500",
+    "lng": "24.1467",
+    "id": "1300779088"
+  },
+  {
+    "city": "Vergína",
+    "city_ascii": "Vergina",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.5203",
+    "lng": "22.2019",
+    "id": "1300807660"
+  },
+  {
+    "city": "Véroia",
+    "city_ascii": "Veroia",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.5167",
+    "lng": "22.2000",
+    "id": "1300354522"
+  },
+  {
+    "city": "Álimos",
+    "city_ascii": "Alimos",
+    "admin_name": "Attikí",
+    "lat": "37.9167",
+    "lng": "23.7167",
+    "id": "1300088630"
+  },
+  {
+    "city": "Zákynthos",
+    "city_ascii": "Zakynthos",
+    "admin_name": "Ionía Nísia",
+    "lat": "37.8000",
+    "lng": "20.7500",
+    "id": "1300442690"
+  },
+  {
+    "city": "Oraiókastro",
+    "city_ascii": "Oraiokastro",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.7333",
+    "lng": "22.9167",
+    "id": "1300041149"
+  },
+  {
+    "city": "Alexandroúpoli",
+    "city_ascii": "Alexandroupoli",
+    "admin_name": "Anatolikí Makedonía kai Thráki",
+    "lat": "40.8500",
+    "lng": "25.8667",
+    "id": "1300949419"
+  },
+  {
+    "city": "Komotiní",
+    "city_ascii": "Komotini",
+    "admin_name": "Anatolikí Makedonía kai Thráki",
+    "lat": "41.1219",
+    "lng": "25.4042",
+    "id": "1300373048"
+  },
+  {
+    "city": "Kalamáta",
+    "city_ascii": "Kalamata",
+    "admin_name": "Pelopónnisos",
+    "lat": "37.0378",
+    "lng": "22.1111",
+    "id": "1300638148"
+  },
+  {
+    "city": "Lagkadás",
+    "city_ascii": "Lagkadas",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.7500",
+    "lng": "23.0667",
+    "id": "1300163444"
+  },
+  {
+    "city": "Pylaía",
+    "city_ascii": "Pylaia",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.6000",
+    "lng": "22.9833",
+    "id": "1300241123"
+  },
+  {
+    "city": "Ampelókipoi",
+    "city_ascii": "Ampelokipoi",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.6500",
+    "lng": "22.9167",
+    "id": "1300184728"
+  },
+  {
+    "city": "Sykiés",
+    "city_ascii": "Sykies",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.6500",
+    "lng": "22.9500",
+    "id": "1300810764"
+  },
+  {
+    "city": "Áno Liósia",
+    "city_ascii": "Ano Liosia",
+    "admin_name": "Attikí",
+    "lat": "38.0833",
+    "lng": "23.7000",
+    "id": "1300536018"
+  },
+  {
+    "city": "Kozáni",
+    "city_ascii": "Kozani",
+    "admin_name": "Dytikí Makedonía",
+    "lat": "40.3000",
+    "lng": "21.7833",
+    "id": "1300407295"
+  },
+  {
+    "city": "Argyroúpoli",
+    "city_ascii": "Argyroupoli",
+    "admin_name": "Attikí",
+    "lat": "37.9000",
+    "lng": "23.7500",
+    "id": "1300735599"
+  },
+  {
+    "city": "Vrilíssia",
+    "city_ascii": "Vrilissia",
+    "admin_name": "Attikí",
+    "lat": "38.0333",
+    "lng": "23.8333",
+    "id": "1300600750"
+  },
+  {
+    "city": "Ágioi Anárgyroi",
+    "city_ascii": "Agioi Anargyroi",
+    "admin_name": "Attikí",
+    "lat": "38.0267",
+    "lng": "23.7183",
+    "id": "1300220121"
+  },
+  {
+    "city": "Ptolemaḯda",
+    "city_ascii": "Ptolemaida",
+    "admin_name": "Dytikí Makedonía",
+    "lat": "40.5167",
+    "lng": "21.6833",
+    "id": "1300255989"
+  },
+  {
+    "city": "Orestiáda",
+    "city_ascii": "Orestiada",
+    "admin_name": "Anatolikí Makedonía kai Thráki",
+    "lat": "41.5000",
+    "lng": "26.5333",
+    "id": "1300874812"
+  },
+  {
+    "city": "Voúla",
+    "city_ascii": "Voula",
+    "admin_name": "Attikí",
+    "lat": "37.8500",
+    "lng": "23.7500",
+    "id": "1300243686"
+  },
+  {
+    "city": "Asprópyrgos",
+    "city_ascii": "Aspropyrgos",
+    "admin_name": "Attikí",
+    "lat": "38.0667",
+    "lng": "23.5833",
+    "id": "1300057241"
+  },
+  {
+    "city": "Marathónas",
+    "city_ascii": "Marathonas",
+    "admin_name": "Attikí",
+    "lat": "38.1500",
+    "lng": "23.9500",
+    "id": "1300766363"
+  },
+  {
+    "city": "Cholargós",
+    "city_ascii": "Cholargos",
+    "admin_name": "Attikí",
+    "lat": "38.0000",
+    "lng": "23.8000",
+    "id": "1300207995"
+  },
+  {
+    "city": "Kórinthos",
+    "city_ascii": "Korinthos",
+    "admin_name": "Pelopónnisos",
+    "lat": "37.9386",
+    "lng": "22.9272",
+    "id": "1300348183"
+  },
+  {
+    "city": "Giannitsá",
+    "city_ascii": "Giannitsa",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.7833",
+    "lng": "22.4000",
+    "id": "1300157319"
+  },
+  {
+    "city": "Trípoli",
+    "city_ascii": "Tripoli",
+    "admin_name": "Pelopónnisos",
+    "lat": "37.5167",
+    "lng": "22.3833",
+    "id": "1300131630"
+  },
+  {
+    "city": "Salamína",
+    "city_ascii": "Salamina",
+    "admin_name": "Attikí",
+    "lat": "37.9667",
+    "lng": "23.5000",
+    "id": "1300019459"
+  },
+  {
+    "city": "Metamórfosi",
+    "city_ascii": "Metamorfosi",
+    "admin_name": "Attikí",
+    "lat": "38.0500",
+    "lng": "23.7500",
+    "id": "1300945079"
+  },
+  {
+    "city": "Gérakas",
+    "city_ascii": "Gerakas",
+    "admin_name": "Attikí",
+    "lat": "38.0333",
+    "lng": "23.8500",
+    "id": "1300462849"
+  },
+  {
+    "city": "Livadeiá",
+    "city_ascii": "Livadeia",
+    "admin_name": "Stereá Elláda",
+    "lat": "38.4333",
+    "lng": "22.8667",
+    "id": "1300871430"
+  },
+  {
+    "city": "Kamateró",
+    "city_ascii": "Kamatero",
+    "admin_name": "Attikí",
+    "lat": "38.0597",
+    "lng": "23.7120",
+    "id": "1300483452"
+  },
+  {
+    "city": "Paianía",
+    "city_ascii": "Paiania",
+    "admin_name": "Attikí",
+    "lat": "37.9500",
+    "lng": "23.8500",
+    "id": "1300888494"
+  },
+  {
+    "city": "Chíos",
+    "city_ascii": "Chios",
+    "admin_name": "Vóreio Aigaío",
+    "lat": "38.3725",
+    "lng": "26.1375",
+    "id": "1300169896"
+  },
+  {
+    "city": "Agía Varvára",
+    "city_ascii": "Agia Varvara",
+    "admin_name": "Attikí",
+    "lat": "38.0000",
+    "lng": "23.6500",
+    "id": "1300465012"
+  },
+  {
+    "city": "Amaliáda",
+    "city_ascii": "Amaliada",
+    "admin_name": "Dytikí Elláda",
+    "lat": "37.8000",
+    "lng": "21.3500",
+    "id": "1300074645"
+  },
+  {
+    "city": "Kaisarianí",
+    "city_ascii": "Kaisariani",
+    "admin_name": "Attikí",
+    "lat": "37.9683",
+    "lng": "23.7583",
+    "id": "1300742537"
+  },
+  {
+    "city": "Mytilíni",
+    "city_ascii": "Mytilini",
+    "admin_name": "Vóreio Aigaío",
+    "lat": "39.1000",
+    "lng": "26.5500",
+    "id": "1300101706"
+  },
+  {
+    "city": "Pérama",
+    "city_ascii": "Perama",
+    "admin_name": "Attikí",
+    "lat": "37.9667",
+    "lng": "23.5667",
+    "id": "1300559034"
+  },
+  {
+    "city": "Elassóna",
+    "city_ascii": "Elassona",
+    "admin_name": "Thessalía",
+    "lat": "39.8833",
+    "lng": "22.1833",
+    "id": "1300625964"
+  },
+  {
+    "city": "Moscháto",
+    "city_ascii": "Moschato",
+    "admin_name": "Attikí",
+    "lat": "37.9500",
+    "lng": "23.6667",
+    "id": "1300869464"
+  },
+  {
+    "city": "Néa Filadélfeia",
+    "city_ascii": "Nea Filadelfeia",
+    "admin_name": "Attikí",
+    "lat": "38.0367",
+    "lng": "23.7367",
+    "id": "1300810075"
+  },
+  {
+    "city": "Elefsína",
+    "city_ascii": "Elefsina",
+    "admin_name": "Attikí",
+    "lat": "38.0333",
+    "lng": "23.5333",
+    "id": "1300591853"
+  },
+  {
+    "city": "Réthymno",
+    "city_ascii": "Rethymno",
+    "admin_name": "Kríti",
+    "lat": "35.3689",
+    "lng": "24.4739",
+    "id": "1300036161"
+  },
+  {
+    "city": "Melíssia",
+    "city_ascii": "Melissia",
+    "admin_name": "Attikí",
+    "lat": "38.0500",
+    "lng": "23.8333",
+    "id": "1300481194"
+  },
+  {
+    "city": "Argostóli",
+    "city_ascii": "Argostoli",
+    "admin_name": "Ionía Nísia",
+    "lat": "38.1733",
+    "lng": "20.4908",
+    "id": "1300532537"
+  },
+  {
+    "city": "Kérkyra",
+    "city_ascii": "Kerkyra",
+    "admin_name": "Ionía Nísia",
+    "lat": "39.6239",
+    "lng": "19.9214",
+    "id": "1300093403"
+  },
+  {
+    "city": "Dáfni",
+    "city_ascii": "Dafni",
+    "admin_name": "Attikí",
+    "lat": "37.9500",
+    "lng": "23.7333",
+    "id": "1300695604"
+  },
+  {
+    "city": "Lefkáda",
+    "city_ascii": "Lefkada",
+    "admin_name": "Ionía Nísia",
+    "lat": "38.7167",
+    "lng": "20.6500",
+    "id": "1300961833"
+  },
+  {
+    "city": "Árgos",
+    "city_ascii": "Argos",
+    "admin_name": "Pelopónnisos",
+    "lat": "37.6167",
+    "lng": "22.7167",
+    "id": "1300389064"
+  },
+  {
+    "city": "Artémida",
+    "city_ascii": "Artemida",
+    "admin_name": "Attikí",
+    "lat": "37.9667",
+    "lng": "24.0000",
+    "id": "1300514768"
+  },
+  {
+    "city": "Árta",
+    "city_ascii": "Arta",
+    "admin_name": "Ípeiros",
+    "lat": "39.1650",
+    "lng": "20.9875",
+    "id": "1300006848"
+  },
+  {
+    "city": "Ágios Nikólaos",
+    "city_ascii": "Agios Nikolaos",
+    "admin_name": "Kríti",
+    "lat": "35.1833",
+    "lng": "25.7167",
+    "id": "1300945111"
+  },
+  {
+    "city": "Áno Sýros",
+    "city_ascii": "Ano Syros",
+    "admin_name": "Nótio Aigaío",
+    "lat": "37.4333",
+    "lng": "24.9167",
+    "id": "1300291821"
+  },
+  {
+    "city": "Grevená",
+    "city_ascii": "Grevena",
+    "admin_name": "Dytikí Makedonía",
+    "lat": "40.0850",
+    "lng": "21.4275",
+    "id": "1300453596"
+  },
+  {
+    "city": "Polýgyros",
+    "city_ascii": "Polygyros",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.3667",
+    "lng": "23.4333",
+    "id": "1300297120"
+  },
+  {
+    "city": "Péfki",
+    "city_ascii": "Pefki",
+    "admin_name": "Attikí",
+    "lat": "38.0667",
+    "lng": "23.8000",
+    "id": "1300609636"
+  },
+  {
+    "city": "Gázi",
+    "city_ascii": "Gazi",
+    "admin_name": "Kríti",
+    "lat": "35.3250",
+    "lng": "25.0667",
+    "id": "1300208558"
+  },
+  {
+    "city": "Aígio",
+    "city_ascii": "Aigio",
+    "admin_name": "Dytikí Elláda",
+    "lat": "38.2506",
+    "lng": "22.0811",
+    "id": "1300238679"
+  },
+  {
+    "city": "Koropí",
+    "city_ascii": "Koropi",
+    "admin_name": "Attikí",
+    "lat": "37.9000",
+    "lng": "23.8733",
+    "id": "1300178029"
+  },
+  {
+    "city": "Thebes",
+    "city_ascii": "Thebes",
+    "admin_name": "Stereá Elláda",
+    "lat": "38.3208",
+    "lng": "23.3178",
+    "id": "1300138276"
+  },
+  {
+    "city": "Aridaía",
+    "city_ascii": "Aridaia",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.9667",
+    "lng": "22.0500",
+    "id": "1300115599"
+  },
+  {
+    "city": "Néa Erythraía",
+    "city_ascii": "Nea Erythraia",
+    "admin_name": "Attikí",
+    "lat": "38.0833",
+    "lng": "23.8167",
+    "id": "1300372430"
+  },
+  {
+    "city": "Skýdra",
+    "city_ascii": "Skydra",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.7667",
+    "lng": "22.1500",
+    "id": "1300086862"
+  },
+  {
+    "city": "Néa Mákri",
+    "city_ascii": "Nea Makri",
+    "admin_name": "Attikí",
+    "lat": "38.0833",
+    "lng": "23.9833",
+    "id": "1300420365"
+  },
+  {
+    "city": "Chortiátis",
+    "city_ascii": "Chortiatis",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.6333",
+    "lng": "23.0167",
+    "id": "1300693781"
+  },
+  {
+    "city": "Édessa",
+    "city_ascii": "Edessa",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.8000",
+    "lng": "22.0500",
+    "id": "1300917524"
+  },
+  {
+    "city": "Náousa",
+    "city_ascii": "Naousa",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.6333",
+    "lng": "22.0667",
+    "id": "1300524747"
+  },
+  {
+    "city": "Flórina",
+    "city_ascii": "Florina",
+    "admin_name": "Dytikí Makedonía",
+    "lat": "40.7833",
+    "lng": "21.4000",
+    "id": "1300644565"
+  },
+  {
+    "city": "Panórama",
+    "city_ascii": "Panorama",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.5833",
+    "lng": "23.0333",
+    "id": "1300530276"
+  },
+  {
+    "city": "Peraía",
+    "city_ascii": "Peraia",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.5000",
+    "lng": "22.9250",
+    "id": "1300107891"
+  },
+  {
+    "city": "Vári",
+    "city_ascii": "Vari",
+    "admin_name": "Attikí",
+    "lat": "37.8333",
+    "lng": "23.8000",
+    "id": "1300867950"
+  },
+  {
+    "city": "Ellinikó",
+    "city_ascii": "Elliniko",
+    "admin_name": "Attikí",
+    "lat": "37.8667",
+    "lng": "23.7333",
+    "id": "1300674194"
+  },
+  {
+    "city": "Kalývia Thorikoú",
+    "city_ascii": "Kalyvia Thorikou",
+    "admin_name": "Attikí",
+    "lat": "37.8333",
+    "lng": "23.9167",
+    "id": "1300423873"
+  },
+  {
+    "city": "Efkarpía",
+    "city_ascii": "Efkarpia",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.6833",
+    "lng": "22.9500",
+    "id": "1300091524"
+  },
+  {
+    "city": "Ágios Ioánnis Réntis",
+    "city_ascii": "Agios Ioannis Rentis",
+    "admin_name": "Attikí",
+    "lat": "37.9667",
+    "lng": "23.6667",
+    "id": "1300655205"
+  },
+  {
+    "city": "Chrysoúpoli",
+    "city_ascii": "Chrysoupoli",
+    "admin_name": "Anatolikí Makedonía kai Thráki",
+    "lat": "40.9833",
+    "lng": "24.7000",
+    "id": "1300208248"
+  },
+  {
+    "city": "Néa Alikarnassós",
+    "city_ascii": "Nea Alikarnassos",
+    "admin_name": "Kríti",
+    "lat": "35.3167",
+    "lng": "25.1833",
+    "id": "1300433837"
+  },
+  {
+    "city": "Rafína",
+    "city_ascii": "Rafina",
+    "admin_name": "Attikí",
+    "lat": "38.0167",
+    "lng": "24.0000",
+    "id": "1300557701"
+  },
+  {
+    "city": "Náfplio",
+    "city_ascii": "Nafplio",
+    "admin_name": "Pelopónnisos",
+    "lat": "37.5658",
+    "lng": "22.8000",
+    "id": "1300744950"
+  },
+  {
+    "city": "Préveza",
+    "city_ascii": "Preveza",
+    "admin_name": "Ípeiros",
+    "lat": "38.9575",
+    "lng": "20.7517",
+    "id": "1300933723"
+  },
+  {
+    "city": "Távros",
+    "city_ascii": "Tavros",
+    "admin_name": "Attikí",
+    "lat": "37.9667",
+    "lng": "23.6950",
+    "id": "1300889563"
+  },
+  {
+    "city": "Papágos",
+    "city_ascii": "Papagos",
+    "admin_name": "Attikí",
+    "lat": "37.9900",
+    "lng": "23.7933",
+    "id": "1300697009"
+  },
+  {
+    "city": "Mégara",
+    "city_ascii": "Megara",
+    "admin_name": "Attikí",
+    "lat": "37.9964",
+    "lng": "23.3444",
+    "id": "1300371579"
+  },
+  {
+    "city": "Drapetsóna",
+    "city_ascii": "Drapetsona",
+    "admin_name": "Attikí",
+    "lat": "37.9467",
+    "lng": "23.6250",
+    "id": "1300537061"
+  },
+  {
+    "city": "Péfka",
+    "city_ascii": "Pefka",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.6500",
+    "lng": "22.9833",
+    "id": "1300266645"
+  },
+  {
+    "city": "Ermoúpoli",
+    "city_ascii": "Ermoupoli",
+    "admin_name": "Nótio Aigaío",
+    "lat": "37.4333",
+    "lng": "24.9167",
+    "id": "1300072209"
+  },
+  {
+    "city": "Spáta",
+    "city_ascii": "Spata",
+    "admin_name": "Attikí",
+    "lat": "37.9667",
+    "lng": "23.9167",
+    "id": "1300805467"
+  },
+  {
+    "city": "Mesolóngi",
+    "city_ascii": "Mesolongi",
+    "admin_name": "Dytikí Elláda",
+    "lat": "38.3692",
+    "lng": "21.4278",
+    "id": "1300632495"
+  },
+  {
+    "city": "Alexándreia",
+    "city_ascii": "Alexandreia",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.6333",
+    "lng": "22.4500",
+    "id": "1300981589"
+  },
+  {
+    "city": "Ialysós",
+    "city_ascii": "Ialysos",
+    "admin_name": "Nótio Aigaío",
+    "lat": "36.4167",
+    "lng": "28.1500",
+    "id": "1300674720"
+  },
+  {
+    "city": "Kastoriá",
+    "city_ascii": "Kastoria",
+    "admin_name": "Dytikí Makedonía",
+    "lat": "40.5167",
+    "lng": "21.2667",
+    "id": "1300839562"
+  },
+  {
+    "city": "Sámos",
+    "city_ascii": "Samos",
+    "admin_name": "Vóreio Aigaío",
+    "lat": "37.7475",
+    "lng": "26.9825",
+    "id": "1300591291"
+  },
+  {
+    "city": "Mándra",
+    "city_ascii": "Mandra",
+    "admin_name": "Attikí",
+    "lat": "38.0667",
+    "lng": "23.5000",
+    "id": "1300840026"
+  },
+  {
+    "city": "Ierápetra",
+    "city_ascii": "Ierapetra",
+    "admin_name": "Kríti",
+    "lat": "35.0117",
+    "lng": "25.7414",
+    "id": "1300968251"
+  },
+  {
+    "city": "Giánnouli",
+    "city_ascii": "Giannouli",
+    "admin_name": "Thessalía",
+    "lat": "39.6667",
+    "lng": "22.4000",
+    "id": "1300795531"
+  },
+  {
+    "city": "Kilkís",
+    "city_ascii": "Kilkis",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.9833",
+    "lng": "22.8667",
+    "id": "1300726797"
+  },
+  {
+    "city": "Anatolí",
+    "city_ascii": "Anatoli",
+    "admin_name": "Ípeiros",
+    "lat": "39.6333",
+    "lng": "20.8667",
+    "id": "1300401701"
+  },
+  {
+    "city": "Xylókastro",
+    "city_ascii": "Xylokastro",
+    "admin_name": "Pelopónnisos",
+    "lat": "38.0667",
+    "lng": "22.6333",
+    "id": "1300956672"
+  },
+  {
+    "city": "Glyká Nerá",
+    "city_ascii": "Glyka Nera",
+    "admin_name": "Attikí",
+    "lat": "37.9917",
+    "lng": "23.8483",
+    "id": "1300485873"
+  },
+  {
+    "city": "Kalampáka",
+    "city_ascii": "Kalampaka",
+    "admin_name": "Thessalía",
+    "lat": "39.7081",
+    "lng": "21.6284",
+    "id": "1300028482"
+  },
+  {
+    "city": "Polýkastro",
+    "city_ascii": "Polykastro",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "41.0000",
+    "lng": "22.5667",
+    "id": "1300678089"
+  },
+  {
+    "city": "Náfpaktos",
+    "city_ascii": "Nafpaktos",
+    "admin_name": "Dytikí Elláda",
+    "lat": "38.3939",
+    "lng": "21.8306",
+    "id": "1300883211"
+  },
+  {
+    "city": "Néo Psychikó",
+    "city_ascii": "Neo Psychiko",
+    "admin_name": "Attikí",
+    "lat": "38.0000",
+    "lng": "23.7833",
+    "id": "1300242593"
+  },
+  {
+    "city": "Néo Vouprásio",
+    "city_ascii": "Neo Vouprasio",
+    "admin_name": "Dytikí Elláda",
+    "lat": "38.0333",
+    "lng": "21.3667",
+    "id": "1300787231"
+  },
+  {
+    "city": "Skilloúnta",
+    "city_ascii": "Skillounta",
+    "admin_name": "Dytikí Elláda",
+    "lat": "37.6061",
+    "lng": "21.6870",
+    "id": "1300958571"
+  },
+  {
+    "city": "Ymittós",
+    "city_ascii": "Ymittos",
+    "admin_name": "Attikí",
+    "lat": "37.9500",
+    "lng": "23.7333",
+    "id": "1300545458"
+  },
+  {
+    "city": "Néo Karlovási",
+    "city_ascii": "Neo Karlovasi",
+    "admin_name": "Vóreio Aigaío",
+    "lat": "37.7833",
+    "lng": "26.7000",
+    "id": "1300578595"
+  },
+  {
+    "city": "Vochaïkó",
+    "city_ascii": "Vochaiko",
+    "admin_name": "Pelopónnisos",
+    "lat": "37.9333",
+    "lng": "22.8000",
+    "id": "1300171316"
+  },
+  {
+    "city": "Fílippoi",
+    "city_ascii": "Filippoi",
+    "admin_name": "Anatolikí Makedonía kai Thráki",
+    "lat": "41.0167",
+    "lng": "24.2833",
+    "id": "1300991511"
+  },
+  {
+    "city": "Tympáki",
+    "city_ascii": "Tympaki",
+    "admin_name": "Kríti",
+    "lat": "35.0667",
+    "lng": "24.7667",
+    "id": "1300790482"
+  },
+  {
+    "city": "Irákleia",
+    "city_ascii": "Irakleia",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "41.1833",
+    "lng": "23.2833",
+    "id": "1300994104"
+  },
+  {
+    "city": "Epanomí",
+    "city_ascii": "Epanomi",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.4333",
+    "lng": "22.9333",
+    "id": "1300802037"
+  },
+  {
+    "city": "Zefýri",
+    "city_ascii": "Zefyri",
+    "admin_name": "Attikí",
+    "lat": "38.0667",
+    "lng": "23.7167",
+    "id": "1300050699"
+  },
+  {
+    "city": "Lágos",
+    "city_ascii": "Lagos",
+    "admin_name": "Anatolikí Makedonía kai Thráki",
+    "lat": "41.0667",
+    "lng": "24.9833",
+    "id": "1300461284"
+  },
+  {
+    "city": "Lykóvrysi",
+    "city_ascii": "Lykovrysi",
+    "admin_name": "Attikí",
+    "lat": "38.0667",
+    "lng": "23.7833",
+    "id": "1300868556"
+  },
+  {
+    "city": "Kálymnos",
+    "city_ascii": "Kalymnos",
+    "admin_name": "Nótio Aigaío",
+    "lat": "36.9900",
+    "lng": "26.9850",
+    "id": "1300286595"
+  },
+  {
+    "city": "Kranídi",
+    "city_ascii": "Kranidi",
+    "admin_name": "Pelopónnisos",
+    "lat": "37.3800",
+    "lng": "23.1590",
+    "id": "1300426839"
+  },
+  {
+    "city": "Psychikó",
+    "city_ascii": "Psychiko",
+    "admin_name": "Attikí",
+    "lat": "38.0167",
+    "lng": "23.7667",
+    "id": "1300684253"
+  },
+  {
+    "city": "Vasiliká",
+    "city_ascii": "Vasilika",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.4800",
+    "lng": "23.1367",
+    "id": "1300657610"
+  },
+  {
+    "city": "Fársala",
+    "city_ascii": "Farsala",
+    "admin_name": "Thessalía",
+    "lat": "39.3000",
+    "lng": "22.3833",
+    "id": "1300870783"
+  },
+  {
+    "city": "Koufália",
+    "city_ascii": "Koufalia",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.7783",
+    "lng": "22.5767",
+    "id": "1300114101"
+  },
+  {
+    "city": "Kiáto",
+    "city_ascii": "Kiato",
+    "admin_name": "Pelopónnisos",
+    "lat": "38.0117",
+    "lng": "22.7467",
+    "id": "1300543493"
+  },
+  {
+    "city": "Kalávryta",
+    "city_ascii": "Kalavryta",
+    "admin_name": "Dytikí Elláda",
+    "lat": "38.0333",
+    "lng": "22.1167",
+    "id": "1300322011"
+  },
+  {
+    "city": "Domokós",
+    "city_ascii": "Domokos",
+    "admin_name": "Stereá Elláda",
+    "lat": "39.1333",
+    "lng": "22.3000",
+    "id": "1300007625"
+  },
+  {
+    "city": "Amfilochía",
+    "city_ascii": "Amfilochia",
+    "admin_name": "Dytikí Elláda",
+    "lat": "38.8500",
+    "lng": "21.1667",
+    "id": "1300058250"
+  },
+  {
+    "city": "Chalástra",
+    "city_ascii": "Chalastra",
+    "admin_name": "Kentrikí Makedonía",
+    "lat": "40.6333",
+    "lng": "22.7333",
+    "id": "1300506159"
+  },
+  {
+    "city": "Messíni",
+    "city_ascii": "Messini",
+    "admin_name": "Pelopónnisos",
+    "lat": "37.0500",
+    "lng": "22.0000",
+    "id": "1300524059"
+  },
+  {
+    "city": "Kos",
+    "city_ascii": "Kos",
+    "admin_name": "Nótio Aigaío",
+    "lat": "36.8500",
+    "lng": "27.2333",
+    "id": "1300683758"
+  },
+  {
+    "city": "Zacháro",
+    "city_ascii": "Zacharo",
+    "admin_name": "Dytikí Elláda",
+    "lat": "37.4833",
+    "lng": "21.6500",
+    "id": "1300553045"
+  },
+  {
+    "city": "Didymóteicho",
+    "city_ascii": "Didymoteicho",
+    "admin_name": "Anatolikí Makedonía kai Thráki",
+    "lat": "41.3500",
+    "lng": "26.5000",
+    "id": "1300999441"
+  },
+  {
+    "city": "Arkalochóri",
+    "city_ascii": "Arkalochori",
+    "admin_name": "Kríti",
+    "lat": "35.1441",
+    "lng": "25.2606",
+    "id": "1300946693"
+  },
+  {
+    "city": "Mýrina",
+    "city_ascii": "Myrina",
+    "admin_name": "Vóreio Aigaío",
+    "lat": "39.8833",
+    "lng": "25.0667",
+    "id": "1300592029"
+  },
+  {
+    "city": "Spárti",
+    "city_ascii": "Sparti",
+    "admin_name": "Pelopónnisos",
+    "lat": "37.0739",
+    "lng": "22.4294",
+    "id": "1300989189"
+  },
+  {
+    "city": "Siteía",
+    "city_ascii": "Siteia",
+    "admin_name": "Kríti",
+    "lat": "35.2000",
+    "lng": "26.1000",
+    "id": "1300275780"
+  }
+]

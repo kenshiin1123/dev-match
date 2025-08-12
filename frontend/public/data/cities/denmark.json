@@ -1,0 +1,626 @@
+[
+  {
+    "city": "Copenhagen",
+    "city_ascii": "Copenhagen",
+    "admin_name": "Hovedstaden",
+    "lat": "55.6805",
+    "lng": "12.5615",
+    "id": "1208763942"
+  },
+  {
+    "city": "Aarhus",
+    "city_ascii": "Aarhus",
+    "admin_name": "Midtjylland",
+    "lat": "56.1572",
+    "lng": "10.2107",
+    "id": "1208841031"
+  },
+  {
+    "city": "Odense",
+    "city_ascii": "Odense",
+    "admin_name": "Syddanmark",
+    "lat": "55.4004",
+    "lng": "10.3833",
+    "id": "1208194249"
+  },
+  {
+    "city": "Aalborg",
+    "city_ascii": "Aalborg",
+    "admin_name": "Nordjylland",
+    "lat": "57.0337",
+    "lng": "9.9166",
+    "id": "1208789278"
+  },
+  {
+    "city": "Esbjerg",
+    "city_ascii": "Esbjerg",
+    "admin_name": "Syddanmark",
+    "lat": "55.4670",
+    "lng": "8.4500",
+    "id": "1208757169"
+  },
+  {
+    "city": "Randers",
+    "city_ascii": "Randers",
+    "admin_name": "Midtjylland",
+    "lat": "56.4607",
+    "lng": "10.0364",
+    "id": "1208640875"
+  },
+  {
+    "city": "Horsens",
+    "city_ascii": "Horsens",
+    "admin_name": "Midtjylland",
+    "lat": "55.8657",
+    "lng": "9.8735",
+    "id": "1208409201"
+  },
+  {
+    "city": "Kolding",
+    "city_ascii": "Kolding",
+    "admin_name": "Syddanmark",
+    "lat": "55.4929",
+    "lng": "9.4681",
+    "id": "1208123784"
+  },
+  {
+    "city": "Vejle",
+    "city_ascii": "Vejle",
+    "admin_name": "Syddanmark",
+    "lat": "55.7090",
+    "lng": "9.5350",
+    "id": "1208585023"
+  },
+  {
+    "city": "Roskilde",
+    "city_ascii": "Roskilde",
+    "admin_name": "Sjælland",
+    "lat": "55.6500",
+    "lng": "12.0833",
+    "id": "1208722269"
+  },
+  {
+    "city": "Herning",
+    "city_ascii": "Herning",
+    "admin_name": "Midtjylland",
+    "lat": "56.1333",
+    "lng": "8.9833",
+    "id": "1208998892"
+  },
+  {
+    "city": "Silkeborg",
+    "city_ascii": "Silkeborg",
+    "admin_name": "Midtjylland",
+    "lat": "56.1701",
+    "lng": "9.5652",
+    "id": "1208628878"
+  },
+  {
+    "city": "Hørsholm",
+    "city_ascii": "Horsholm",
+    "admin_name": "Hovedstaden",
+    "lat": "55.8810",
+    "lng": "12.5011",
+    "id": "1208318126"
+  },
+  {
+    "city": "Helsingør",
+    "city_ascii": "Helsingor",
+    "admin_name": "Hovedstaden",
+    "lat": "56.0294",
+    "lng": "12.5863",
+    "id": "1208042763"
+  },
+  {
+    "city": "Næstved",
+    "city_ascii": "Naestved",
+    "admin_name": "Sjælland",
+    "lat": "55.2249",
+    "lng": "11.7842",
+    "id": "1208208658"
+  },
+  {
+    "city": "Viborg",
+    "city_ascii": "Viborg",
+    "admin_name": "Midtjylland",
+    "lat": "56.4333",
+    "lng": "9.4000",
+    "id": "1208606810"
+  },
+  {
+    "city": "Fredericia",
+    "city_ascii": "Fredericia",
+    "admin_name": "Syddanmark",
+    "lat": "55.5758",
+    "lng": "9.7617",
+    "id": "1208515471"
+  },
+  {
+    "city": "Køge",
+    "city_ascii": "Koge",
+    "admin_name": "Sjælland",
+    "lat": "55.4600",
+    "lng": "12.1834",
+    "id": "1208980613"
+  },
+  {
+    "city": "Holstebro",
+    "city_ascii": "Holstebro",
+    "admin_name": "Midtjylland",
+    "lat": "56.3595",
+    "lng": "8.6208",
+    "id": "1208971642"
+  },
+  {
+    "city": "Taastrup",
+    "city_ascii": "Taastrup",
+    "admin_name": "Hovedstaden",
+    "lat": "55.6475",
+    "lng": "12.3120",
+    "id": "1208068405"
+  },
+  {
+    "city": "Hillerød",
+    "city_ascii": "Hillerod",
+    "admin_name": "Hovedstaden",
+    "lat": "55.9333",
+    "lng": "12.3167",
+    "id": "1208278269"
+  },
+  {
+    "city": "Slagelse",
+    "city_ascii": "Slagelse",
+    "admin_name": "Sjælland",
+    "lat": "55.4027",
+    "lng": "11.3541",
+    "id": "1208687791"
+  },
+  {
+    "city": "Holbæk",
+    "city_ascii": "Holbaek",
+    "admin_name": "Sjælland",
+    "lat": "55.7135",
+    "lng": "11.7169",
+    "id": "1208012089"
+  },
+  {
+    "city": "Sønderborg",
+    "city_ascii": "Sonderborg",
+    "admin_name": "Syddanmark",
+    "lat": "54.9106",
+    "lng": "9.7928",
+    "id": "1208870577"
+  },
+  {
+    "city": "Svendborg",
+    "city_ascii": "Svendborg",
+    "admin_name": "Syddanmark",
+    "lat": "55.0704",
+    "lng": "10.6167",
+    "id": "1208924964"
+  },
+  {
+    "city": "Hjørring",
+    "city_ascii": "Hjorring",
+    "admin_name": "Nordjylland",
+    "lat": "57.4663",
+    "lng": "9.9889",
+    "id": "1208371956"
+  },
+  {
+    "city": "Nørresundby",
+    "city_ascii": "Norresundby",
+    "admin_name": "Nordjylland",
+    "lat": "57.0483",
+    "lng": "9.9352",
+    "id": "1208465908"
+  },
+  {
+    "city": "Ringsted",
+    "city_ascii": "Ringsted",
+    "admin_name": "Sjælland",
+    "lat": "55.4411",
+    "lng": "11.8094",
+    "id": "1208027536"
+  },
+  {
+    "city": "Frederikshavn",
+    "city_ascii": "Frederikshavn",
+    "admin_name": "Nordjylland",
+    "lat": "57.4337",
+    "lng": "10.5333",
+    "id": "1208910213"
+  },
+  {
+    "city": "Haderslev",
+    "city_ascii": "Haderslev",
+    "admin_name": "Syddanmark",
+    "lat": "55.2524",
+    "lng": "9.4893",
+    "id": "1208309317"
+  },
+  {
+    "city": "Birkerød",
+    "city_ascii": "Birkerod",
+    "admin_name": "Hovedstaden",
+    "lat": "55.8423",
+    "lng": "12.4335",
+    "id": "1208853307"
+  },
+  {
+    "city": "Farum",
+    "city_ascii": "Farum",
+    "admin_name": "Hovedstaden",
+    "lat": "55.8099",
+    "lng": "12.3623",
+    "id": "1208077125"
+  },
+  {
+    "city": "Skive",
+    "city_ascii": "Skive",
+    "admin_name": "Midtjylland",
+    "lat": "56.5638",
+    "lng": "9.0402",
+    "id": "1208791354"
+  },
+  {
+    "city": "Nykøbing Falster",
+    "city_ascii": "Nykobing Falster",
+    "admin_name": "Sjælland",
+    "lat": "54.7655",
+    "lng": "11.8751",
+    "id": "1208336770"
+  },
+  {
+    "city": "Skanderborg",
+    "city_ascii": "Skanderborg",
+    "admin_name": "Midtjylland",
+    "lat": "56.0313",
+    "lng": "9.9317",
+    "id": "1208582614"
+  },
+  {
+    "city": "Smørumnedre",
+    "city_ascii": "Smorumnedre",
+    "admin_name": "Hovedstaden",
+    "lat": "55.7423",
+    "lng": "12.3028",
+    "id": "1208922799"
+  },
+  {
+    "city": "Nyborg",
+    "city_ascii": "Nyborg",
+    "admin_name": "Syddanmark",
+    "lat": "55.3058",
+    "lng": "10.8034",
+    "id": "1208199099"
+  },
+  {
+    "city": "Vordingborg",
+    "city_ascii": "Vordingborg",
+    "admin_name": "Sjælland",
+    "lat": "55.0104",
+    "lng": "11.9039",
+    "id": "1208237699"
+  },
+  {
+    "city": "Solrød Strand",
+    "city_ascii": "Solrod Strand",
+    "admin_name": "Sjælland",
+    "lat": "55.5364",
+    "lng": "12.2252",
+    "id": "1208504827"
+  },
+  {
+    "city": "Frederikssund",
+    "city_ascii": "Frederikssund",
+    "admin_name": "Hovedstaden",
+    "lat": "55.8389",
+    "lng": "12.0676",
+    "id": "1208511565"
+  },
+  {
+    "city": "Lillerød",
+    "city_ascii": "Lillerod",
+    "admin_name": "Hovedstaden",
+    "lat": "55.8687",
+    "lng": "12.3458",
+    "id": "1208644794"
+  },
+  {
+    "city": "Middelfart",
+    "city_ascii": "Middelfart",
+    "admin_name": "Syddanmark",
+    "lat": "55.4992",
+    "lng": "9.7445",
+    "id": "1208896567"
+  },
+  {
+    "city": "Kalundborg",
+    "city_ascii": "Kalundborg",
+    "admin_name": "Sjælland",
+    "lat": "55.6820",
+    "lng": "11.1004",
+    "id": "1208716084"
+  },
+  {
+    "city": "Ikast",
+    "city_ascii": "Ikast",
+    "admin_name": "Midtjylland",
+    "lat": "56.1367",
+    "lng": "9.1600",
+    "id": "1208187034"
+  },
+  {
+    "city": "Aabenraa",
+    "city_ascii": "Aabenraa",
+    "admin_name": "Syddanmark",
+    "lat": "55.0362",
+    "lng": "9.4180",
+    "id": "1208000017"
+  },
+  {
+    "city": "Hedehusene",
+    "city_ascii": "Hedehusene",
+    "admin_name": "Hovedstaden",
+    "lat": "55.6470",
+    "lng": "12.1936",
+    "id": "1208482999"
+  },
+  {
+    "city": "Korsør",
+    "city_ascii": "Korsor",
+    "admin_name": "Sjælland",
+    "lat": "55.3266",
+    "lng": "11.1500",
+    "id": "1208142065"
+  },
+  {
+    "city": "Grenaa",
+    "city_ascii": "Grenaa",
+    "admin_name": "Midtjylland",
+    "lat": "56.4128",
+    "lng": "10.8956",
+    "id": "1208961865"
+  },
+  {
+    "city": "Varde",
+    "city_ascii": "Varde",
+    "admin_name": "Syddanmark",
+    "lat": "55.6216",
+    "lng": "8.4807",
+    "id": "1208411481"
+  },
+  {
+    "city": "Rønne",
+    "city_ascii": "Ronne",
+    "admin_name": "Hovedstaden",
+    "lat": "55.1009",
+    "lng": "14.7066",
+    "id": "1208734482"
+  },
+  {
+    "city": "Thisted",
+    "city_ascii": "Thisted",
+    "admin_name": "Nordjylland",
+    "lat": "56.9588",
+    "lng": "8.6964",
+    "id": "1208324421"
+  },
+  {
+    "city": "Værløse",
+    "city_ascii": "Vaerlose",
+    "admin_name": "Hovedstaden",
+    "lat": "55.7825",
+    "lng": "12.3686",
+    "id": "1208862489"
+  },
+  {
+    "city": "Odder",
+    "city_ascii": "Odder",
+    "admin_name": "Midtjylland",
+    "lat": "55.9772",
+    "lng": "10.1683",
+    "id": "1208566393"
+  },
+  {
+    "city": "Brønderslev",
+    "city_ascii": "Bronderslev",
+    "admin_name": "Nordjylland",
+    "lat": "57.2651",
+    "lng": "9.9599",
+    "id": "1208825509"
+  },
+  {
+    "city": "Brødslev",
+    "city_ascii": "Brodslev",
+    "admin_name": "Nordjylland",
+    "lat": "57.2694",
+    "lng": "9.9472",
+    "id": "1208799567"
+  },
+  {
+    "city": "Frederiksværk",
+    "city_ascii": "Frederiksvaerk",
+    "admin_name": "Hovedstaden",
+    "lat": "55.9677",
+    "lng": "12.0215",
+    "id": "1208825906"
+  },
+  {
+    "city": "Hedensted",
+    "city_ascii": "Hedensted",
+    "admin_name": "Midtjylland",
+    "lat": "55.7701",
+    "lng": "9.6967",
+    "id": "1208990844"
+  },
+  {
+    "city": "Nakskov",
+    "city_ascii": "Nakskov",
+    "admin_name": "Sjælland",
+    "lat": "54.8373",
+    "lng": "11.1284",
+    "id": "1208341545"
+  },
+  {
+    "city": "Dragør",
+    "city_ascii": "Dragor",
+    "admin_name": "Hovedstaden",
+    "lat": "55.5946",
+    "lng": "12.6690",
+    "id": "1208259300"
+  },
+  {
+    "city": "Haslev",
+    "city_ascii": "Haslev",
+    "admin_name": "Sjælland",
+    "lat": "55.3179",
+    "lng": "11.9740",
+    "id": "1208160409"
+  },
+  {
+    "city": "Hobro",
+    "city_ascii": "Hobro",
+    "admin_name": "Nordjylland",
+    "lat": "56.6381",
+    "lng": "9.7953",
+    "id": "1208783800"
+  },
+  {
+    "city": "Jyllinge",
+    "city_ascii": "Jyllinge",
+    "admin_name": "Sjælland",
+    "lat": "55.7584",
+    "lng": "12.1123",
+    "id": "1208809285"
+  },
+  {
+    "city": "Lystrup",
+    "city_ascii": "Lystrup",
+    "admin_name": "Midtjylland",
+    "lat": "56.2375",
+    "lng": "10.2378",
+    "id": "1208253128"
+  },
+  {
+    "city": "Vejen",
+    "city_ascii": "Vejen",
+    "admin_name": "Syddanmark",
+    "lat": "55.4812",
+    "lng": "9.1379",
+    "id": "1208664706"
+  },
+  {
+    "city": "Struer",
+    "city_ascii": "Struer",
+    "admin_name": "Midtjylland",
+    "lat": "56.4862",
+    "lng": "8.6044",
+    "id": "1208269003"
+  },
+  {
+    "city": "Ringkøbing",
+    "city_ascii": "Ringkobing",
+    "admin_name": "Midtjylland",
+    "lat": "56.0864",
+    "lng": "8.2487",
+    "id": "1208388471"
+  },
+  {
+    "city": "Humlebæk",
+    "city_ascii": "Humlebaek",
+    "admin_name": "Hovedstaden",
+    "lat": "55.9613",
+    "lng": "12.5324",
+    "id": "1208928560"
+  },
+  {
+    "city": "Støvring",
+    "city_ascii": "Stovring",
+    "admin_name": "Nordjylland",
+    "lat": "56.8909",
+    "lng": "9.8310",
+    "id": "1208267923"
+  },
+  {
+    "city": "Galten",
+    "city_ascii": "Galten",
+    "admin_name": "Midtjylland",
+    "lat": "56.1590",
+    "lng": "9.9169",
+    "id": "1208075108"
+  },
+  {
+    "city": "Nykøbing Mors",
+    "city_ascii": "Nykobing Mors",
+    "admin_name": "Nordjylland",
+    "lat": "56.7917",
+    "lng": "8.8499",
+    "id": "1208071660"
+  },
+  {
+    "city": "Fredensborg",
+    "city_ascii": "Fredensborg",
+    "admin_name": "Hovedstaden",
+    "lat": "55.9735",
+    "lng": "12.4039",
+    "id": "1208706314"
+  },
+  {
+    "city": "Helsinge",
+    "city_ascii": "Helsinge",
+    "admin_name": "Hovedstaden",
+    "lat": "56.0197",
+    "lng": "12.1990",
+    "id": "1208143944"
+  },
+  {
+    "city": "Sæby",
+    "city_ascii": "Saeby",
+    "admin_name": "Nordjylland",
+    "lat": "57.3319",
+    "lng": "10.5225",
+    "id": "1208138927"
+  },
+  {
+    "city": "Måløv",
+    "city_ascii": "Malov",
+    "admin_name": "Hovedstaden",
+    "lat": "55.7553",
+    "lng": "12.3233",
+    "id": "1208253795"
+  },
+  {
+    "city": "Aars",
+    "city_ascii": "Aars",
+    "admin_name": "Nordjylland",
+    "lat": "56.8038",
+    "lng": "9.5158",
+    "id": "1208910632"
+  },
+  {
+    "city": "Løgten",
+    "city_ascii": "Logten",
+    "admin_name": "Midtjylland",
+    "lat": "56.2746",
+    "lng": "10.3118",
+    "id": "1208851373"
+  },
+  {
+    "city": "Hundested",
+    "city_ascii": "Hundested",
+    "admin_name": "Hovedstaden",
+    "lat": "55.9667",
+    "lng": "11.8667",
+    "id": "1208594151"
+  },
+  {
+    "city": "Sorø",
+    "city_ascii": "Soro",
+    "admin_name": "Sjælland",
+    "lat": "55.4330",
+    "lng": "11.5667",
+    "id": "1208841384"
+  }
+]

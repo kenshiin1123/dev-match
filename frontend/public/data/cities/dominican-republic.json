@@ -1,0 +1,1154 @@
+[
+  {
+    "city": "Santiago",
+    "city_ascii": "Santiago",
+    "admin_name": "Cibao Norte",
+    "lat": "19.4572",
+    "lng": "-70.6889",
+    "id": "1214985348"
+  },
+  {
+    "city": "Santo Domingo",
+    "city_ascii": "Santo Domingo",
+    "admin_name": "Ozama",
+    "lat": "18.4764",
+    "lng": "-69.8933",
+    "id": "1214636202"
+  },
+  {
+    "city": "Santo Domingo Este",
+    "city_ascii": "Santo Domingo Este",
+    "admin_name": "Ozama",
+    "lat": "18.4855",
+    "lng": "-69.8734",
+    "id": "1214664832"
+  },
+  {
+    "city": "Puerto Plata",
+    "city_ascii": "Puerto Plata",
+    "admin_name": "Cibao Norte",
+    "lat": "19.8000",
+    "lng": "-70.6833",
+    "id": "1214279422"
+  },
+  {
+    "city": "Los Alcarrizos",
+    "city_ascii": "Los Alcarrizos",
+    "admin_name": "Ozama",
+    "lat": "18.5167",
+    "lng": "-70.0167",
+    "id": "1214807042"
+  },
+  {
+    "city": "Higüey",
+    "city_ascii": "Higuey",
+    "admin_name": "Yuma",
+    "lat": "18.6181",
+    "lng": "-68.7111",
+    "id": "1214313712"
+  },
+  {
+    "city": "San Cristóbal",
+    "city_ascii": "San Cristobal",
+    "admin_name": "Valdesia",
+    "lat": "18.4167",
+    "lng": "-70.1333",
+    "id": "1214335207"
+  },
+  {
+    "city": "La Vega",
+    "city_ascii": "La Vega",
+    "admin_name": "Cibao Sur",
+    "lat": "19.2200",
+    "lng": "-70.5300",
+    "id": "1214691060"
+  },
+  {
+    "city": "San Pedro de Macorís",
+    "city_ascii": "San Pedro de Macoris",
+    "admin_name": "Higuamo",
+    "lat": "18.4572",
+    "lng": "-69.3061",
+    "id": "1214233006"
+  },
+  {
+    "city": "San Francisco de Macorís",
+    "city_ascii": "San Francisco de Macoris",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.3000",
+    "lng": "-70.2500",
+    "id": "1214710545"
+  },
+  {
+    "city": "Bávaro",
+    "city_ascii": "Bavaro",
+    "admin_name": "Yuma",
+    "lat": "18.7170",
+    "lng": "-68.4500",
+    "id": "1214902144"
+  },
+  {
+    "city": "Baní",
+    "city_ascii": "Bani",
+    "admin_name": "Valdesia",
+    "lat": "18.2900",
+    "lng": "-70.3300",
+    "id": "1214720035"
+  },
+  {
+    "city": "Boca Chica",
+    "city_ascii": "Boca Chica",
+    "admin_name": "Ozama",
+    "lat": "18.4539",
+    "lng": "-69.6064",
+    "id": "1214362164"
+  },
+  {
+    "city": "La Romana",
+    "city_ascii": "La Romana",
+    "admin_name": "Yuma",
+    "lat": "18.4300",
+    "lng": "-68.9700",
+    "id": "1214760518"
+  },
+  {
+    "city": "Pantanal",
+    "city_ascii": "Pantanal",
+    "admin_name": "Yuma",
+    "lat": "18.5586",
+    "lng": "-68.3694",
+    "id": "1214144437"
+  },
+  {
+    "city": "San Juan",
+    "city_ascii": "San Juan",
+    "admin_name": "El Valle",
+    "lat": "18.8100",
+    "lng": "-71.2300",
+    "id": "1214608846"
+  },
+  {
+    "city": "Gurabo al Medio",
+    "city_ascii": "Gurabo al Medio",
+    "admin_name": "Cibao Norte",
+    "lat": "19.4739",
+    "lng": "-70.6727",
+    "id": "1214621911"
+  },
+  {
+    "city": "Bonao",
+    "city_ascii": "Bonao",
+    "admin_name": "Cibao Sur",
+    "lat": "18.9500",
+    "lng": "-70.4100",
+    "id": "1214793175"
+  },
+  {
+    "city": "Los Minas",
+    "city_ascii": "Los Minas",
+    "admin_name": "Ozama",
+    "lat": "18.4989",
+    "lng": "-69.8576",
+    "id": "1214457470"
+  },
+  {
+    "city": "Moca",
+    "city_ascii": "Moca",
+    "admin_name": "Cibao Norte",
+    "lat": "19.3833",
+    "lng": "-70.5167",
+    "id": "1214863528"
+  },
+  {
+    "city": "Azua",
+    "city_ascii": "Azua",
+    "admin_name": "Valdesia",
+    "lat": "18.4600",
+    "lng": "-70.7400",
+    "id": "1214004418"
+  },
+  {
+    "city": "Villa Altagracia",
+    "city_ascii": "Villa Altagracia",
+    "admin_name": "Valdesia",
+    "lat": "18.6700",
+    "lng": "-70.1700",
+    "id": "1214414901"
+  },
+  {
+    "city": "Barahona",
+    "city_ascii": "Barahona",
+    "admin_name": "Enriquillo",
+    "lat": "18.2079",
+    "lng": "-71.0996",
+    "id": "1214900129"
+  },
+  {
+    "city": "Nagua",
+    "city_ascii": "Nagua",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.3800",
+    "lng": "-69.8500",
+    "id": "1214449469"
+  },
+  {
+    "city": "Mao",
+    "city_ascii": "Mao",
+    "admin_name": "Cibao Noroeste",
+    "lat": "19.5667",
+    "lng": "-71.0833",
+    "id": "1214217168"
+  },
+  {
+    "city": "Cotuí",
+    "city_ascii": "Cotui",
+    "admin_name": "Cibao Sur",
+    "lat": "19.0600",
+    "lng": "-70.1500",
+    "id": "1214299029"
+  },
+  {
+    "city": "Pedro Brand",
+    "city_ascii": "Pedro Brand",
+    "admin_name": "Ozama",
+    "lat": "18.5667",
+    "lng": "-70.0911",
+    "id": "1214244231"
+  },
+  {
+    "city": "Jarabacoa",
+    "city_ascii": "Jarabacoa",
+    "admin_name": "Cibao Sur",
+    "lat": "19.1167",
+    "lng": "-70.6333",
+    "id": "1214381692"
+  },
+  {
+    "city": "El Seibo",
+    "city_ascii": "El Seibo",
+    "admin_name": "Yuma",
+    "lat": "18.7700",
+    "lng": "-69.0400",
+    "id": "1214331828"
+  },
+  {
+    "city": "Esperanza",
+    "city_ascii": "Esperanza",
+    "admin_name": "Cibao Noroeste",
+    "lat": "19.5800",
+    "lng": "-70.9900",
+    "id": "1214737056"
+  },
+  {
+    "city": "Hato Mayor",
+    "city_ascii": "Hato Mayor",
+    "admin_name": "Higuamo",
+    "lat": "18.7670",
+    "lng": "-69.2670",
+    "id": "1214232592"
+  },
+  {
+    "city": "Consuelito",
+    "city_ascii": "Consuelito",
+    "admin_name": "Higuamo",
+    "lat": "18.6124",
+    "lng": "-69.2577",
+    "id": "1214750136"
+  },
+  {
+    "city": "Constanza",
+    "city_ascii": "Constanza",
+    "admin_name": "Cibao Sur",
+    "lat": "18.9100",
+    "lng": "-70.7500",
+    "id": "1214705132"
+  },
+  {
+    "city": "Samaná",
+    "city_ascii": "Samana",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.2053",
+    "lng": "-69.3364",
+    "id": "1214655701"
+  },
+  {
+    "city": "San Luis",
+    "city_ascii": "San Luis",
+    "admin_name": "Ozama",
+    "lat": "18.5473",
+    "lng": "-69.8019",
+    "id": "1214702688"
+  },
+  {
+    "city": "Yamasá",
+    "city_ascii": "Yamasa",
+    "admin_name": "Higuamo",
+    "lat": "18.7667",
+    "lng": "-70.0167",
+    "id": "1214920883"
+  },
+  {
+    "city": "Tamboril",
+    "city_ascii": "Tamboril",
+    "admin_name": "Cibao Norte",
+    "lat": "19.4800",
+    "lng": "-70.6000",
+    "id": "1214621539"
+  },
+  {
+    "city": "Sosúa",
+    "city_ascii": "Sosua",
+    "admin_name": "Cibao Norte",
+    "lat": "19.7500",
+    "lng": "-70.5200",
+    "id": "1214995511"
+  },
+  {
+    "city": "La Caleta",
+    "city_ascii": "La Caleta",
+    "admin_name": "Ozama",
+    "lat": "18.4500",
+    "lng": "-69.6833",
+    "id": "1214671781"
+  },
+  {
+    "city": "Puñal",
+    "city_ascii": "Punal",
+    "admin_name": "Cibao Norte",
+    "lat": "19.4000",
+    "lng": "-70.6167",
+    "id": "1214351229"
+  },
+  {
+    "city": "Las Matas de Farfán",
+    "city_ascii": "Las Matas de Farfan",
+    "admin_name": "El Valle",
+    "lat": "18.8700",
+    "lng": "-71.5200",
+    "id": "1214559824"
+  },
+  {
+    "city": "Guerra",
+    "city_ascii": "Guerra",
+    "admin_name": "Ozama",
+    "lat": "18.5500",
+    "lng": "-69.7000",
+    "id": "1214475992"
+  },
+  {
+    "city": "Yaguate",
+    "city_ascii": "Yaguate",
+    "admin_name": "Valdesia",
+    "lat": "18.3300",
+    "lng": "-70.1800",
+    "id": "1214644367"
+  },
+  {
+    "city": "Villa Bisonó",
+    "city_ascii": "Villa Bisono",
+    "admin_name": "Cibao Norte",
+    "lat": "19.5600",
+    "lng": "-70.8700",
+    "id": "1214712836"
+  },
+  {
+    "city": "Padre Las Casas",
+    "city_ascii": "Padre Las Casas",
+    "admin_name": "Valdesia",
+    "lat": "18.7317",
+    "lng": "-70.9392",
+    "id": "1214352050"
+  },
+  {
+    "city": "Salcedo",
+    "city_ascii": "Salcedo",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.3780",
+    "lng": "-70.4180",
+    "id": "1214901060"
+  },
+  {
+    "city": "San José de Ocoa",
+    "city_ascii": "San Jose de Ocoa",
+    "admin_name": "Valdesia",
+    "lat": "18.5500",
+    "lng": "-70.5000",
+    "id": "1214866446"
+  },
+  {
+    "city": "La Mata",
+    "city_ascii": "La Mata",
+    "admin_name": "Cibao Sur",
+    "lat": "19.1000",
+    "lng": "-70.1681",
+    "id": "1214121582"
+  },
+  {
+    "city": "San José de Las Matas",
+    "city_ascii": "San Jose de Las Matas",
+    "admin_name": "Cibao Norte",
+    "lat": "19.3300",
+    "lng": "-70.9300",
+    "id": "1214663551"
+  },
+  {
+    "city": "Guayacanes",
+    "city_ascii": "Guayacanes",
+    "admin_name": "Higuamo",
+    "lat": "18.4186",
+    "lng": "-69.4582",
+    "id": "1214783973"
+  },
+  {
+    "city": "Gaspar Hernández",
+    "city_ascii": "Gaspar Hernandez",
+    "admin_name": "Cibao Norte",
+    "lat": "19.6200",
+    "lng": "-70.2800",
+    "id": "1214413891"
+  },
+  {
+    "city": "Monte Plata",
+    "city_ascii": "Monte Plata",
+    "admin_name": "Higuamo",
+    "lat": "18.8100",
+    "lng": "-69.7900",
+    "id": "1214856228"
+  },
+  {
+    "city": "Villa González",
+    "city_ascii": "Villa Gonzalez",
+    "admin_name": "Cibao Norte",
+    "lat": "19.5333",
+    "lng": "-70.7833",
+    "id": "1214737930"
+  },
+  {
+    "city": "Neiba",
+    "city_ascii": "Neiba",
+    "admin_name": "Enriquillo",
+    "lat": "18.4900",
+    "lng": "-71.4200",
+    "id": "1214562502"
+  },
+  {
+    "city": "San Lorenzo de Guayubín",
+    "city_ascii": "San Lorenzo de Guayubin",
+    "admin_name": "Cibao Noroeste",
+    "lat": "19.6200",
+    "lng": "-71.3300",
+    "id": "1214005862"
+  },
+  {
+    "city": "Matanzas",
+    "city_ascii": "Matanzas",
+    "admin_name": "Valdesia",
+    "lat": "18.2430",
+    "lng": "-70.4177",
+    "id": "1214252982"
+  },
+  {
+    "city": "Sabaneta",
+    "city_ascii": "Sabaneta",
+    "admin_name": "Cibao Noroeste",
+    "lat": "19.4833",
+    "lng": "-71.3500",
+    "id": "1214181927"
+  },
+  {
+    "city": "Río Verde Arriba",
+    "city_ascii": "Rio Verde Arriba",
+    "admin_name": "Cibao Sur",
+    "lat": "19.3200",
+    "lng": "-70.5700",
+    "id": "1214786012"
+  },
+  {
+    "city": "Villa Riva",
+    "city_ascii": "Villa Riva",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.1800",
+    "lng": "-69.9200",
+    "id": "1214066811"
+  },
+  {
+    "city": "Bayaguana",
+    "city_ascii": "Bayaguana",
+    "admin_name": "Higuamo",
+    "lat": "18.7600",
+    "lng": "-69.6400",
+    "id": "1214513210"
+  },
+  {
+    "city": "Sabana Grande de Boyá",
+    "city_ascii": "Sabana Grande de Boya",
+    "admin_name": "Higuamo",
+    "lat": "18.9500",
+    "lng": "-69.8000",
+    "id": "1214983415"
+  },
+  {
+    "city": "Cambita Garabitos",
+    "city_ascii": "Cambita Garabitos",
+    "admin_name": "Valdesia",
+    "lat": "18.4500",
+    "lng": "-70.2000",
+    "id": "1214509517"
+  },
+  {
+    "city": "San Gregorio de Nigua",
+    "city_ascii": "San Gregorio de Nigua",
+    "admin_name": "Valdesia",
+    "lat": "18.3800",
+    "lng": "-70.0800",
+    "id": "1214954643"
+  },
+  {
+    "city": "Jima Abajo",
+    "city_ascii": "Jima Abajo",
+    "admin_name": "Cibao Sur",
+    "lat": "19.1300",
+    "lng": "-70.3800",
+    "id": "1214366277"
+  },
+  {
+    "city": "Dajabón",
+    "city_ascii": "Dajabon",
+    "admin_name": "Cibao Noroeste",
+    "lat": "19.5667",
+    "lng": "-71.7100",
+    "id": "1214367800"
+  },
+  {
+    "city": "Comendador",
+    "city_ascii": "Comendador",
+    "admin_name": "El Valle",
+    "lat": "18.8833",
+    "lng": "-71.7000",
+    "id": "1214626724"
+  },
+  {
+    "city": "Tenares",
+    "city_ascii": "Tenares",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.3700",
+    "lng": "-70.3500",
+    "id": "1214033722"
+  },
+  {
+    "city": "Nizao",
+    "city_ascii": "Nizao",
+    "admin_name": "Valdesia",
+    "lat": "18.2500",
+    "lng": "-70.2000",
+    "id": "1214110366"
+  },
+  {
+    "city": "Tamayo",
+    "city_ascii": "Tamayo",
+    "admin_name": "Enriquillo",
+    "lat": "18.4000",
+    "lng": "-71.2000",
+    "id": "1214403049"
+  },
+  {
+    "city": "Licey al Medio",
+    "city_ascii": "Licey al Medio",
+    "admin_name": "Cibao Norte",
+    "lat": "19.4300",
+    "lng": "-70.6200",
+    "id": "1214865144"
+  },
+  {
+    "city": "Villa Tapia",
+    "city_ascii": "Villa Tapia",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.3000",
+    "lng": "-70.4200",
+    "id": "1214090755"
+  },
+  {
+    "city": "Monte Cristi",
+    "city_ascii": "Monte Cristi",
+    "admin_name": "Cibao Noroeste",
+    "lat": "19.8667",
+    "lng": "-71.6500",
+    "id": "1214970157"
+  },
+  {
+    "city": "Sánchez",
+    "city_ascii": "Sanchez",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.2289",
+    "lng": "-69.6119",
+    "id": "1214869405"
+  },
+  {
+    "city": "El Factor",
+    "city_ascii": "El Factor",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.3200",
+    "lng": "-69.8800",
+    "id": "1214790750"
+  },
+  {
+    "city": "Cabrera",
+    "city_ascii": "Cabrera",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.6426",
+    "lng": "-69.9049",
+    "id": "1214117944"
+  },
+  {
+    "city": "Laguna Salada",
+    "city_ascii": "Laguna Salada",
+    "admin_name": "Cibao Noroeste",
+    "lat": "19.6500",
+    "lng": "-71.0833",
+    "id": "1214529360"
+  },
+  {
+    "city": "Maimón",
+    "city_ascii": "Maimon",
+    "admin_name": "Cibao Sur",
+    "lat": "18.7700",
+    "lng": "-70.3300",
+    "id": "1214149201"
+  },
+  {
+    "city": "Yásica Arriba",
+    "city_ascii": "Yasica Arriba",
+    "admin_name": "Cibao Norte",
+    "lat": "19.6333",
+    "lng": "-70.6000",
+    "id": "1214961311"
+  },
+  {
+    "city": "Los Llanos",
+    "city_ascii": "Los Llanos",
+    "admin_name": "Higuamo",
+    "lat": "18.6200",
+    "lng": "-69.5000",
+    "id": "1214827487"
+  },
+  {
+    "city": "Fantino",
+    "city_ascii": "Fantino",
+    "admin_name": "Cibao Sur",
+    "lat": "19.1200",
+    "lng": "-70.3000",
+    "id": "1214690546"
+  },
+  {
+    "city": "Imbert",
+    "city_ascii": "Imbert",
+    "admin_name": "Cibao Norte",
+    "lat": "19.7500",
+    "lng": "-70.8300",
+    "id": "1214841886"
+  },
+  {
+    "city": "San Rafael del Yuma",
+    "city_ascii": "San Rafael del Yuma",
+    "admin_name": "Yuma",
+    "lat": "18.4333",
+    "lng": "-68.6667",
+    "id": "1214650912"
+  },
+  {
+    "city": "Vicente Noble",
+    "city_ascii": "Vicente Noble",
+    "admin_name": "Enriquillo",
+    "lat": "18.3833",
+    "lng": "-71.1833",
+    "id": "1214778645"
+  },
+  {
+    "city": "San Víctor Abajo",
+    "city_ascii": "San Victor Abajo",
+    "admin_name": "Cibao Norte",
+    "lat": "19.4500",
+    "lng": "-70.5300",
+    "id": "1214414391"
+  },
+  {
+    "city": "Piedra Blanca",
+    "city_ascii": "Piedra Blanca",
+    "admin_name": "Cibao Sur",
+    "lat": "18.8438",
+    "lng": "-70.3157",
+    "id": "1214843839"
+  },
+  {
+    "city": "Esperalvillo",
+    "city_ascii": "Esperalvillo",
+    "admin_name": "Higuamo",
+    "lat": "18.8200",
+    "lng": "-70.0300",
+    "id": "1214132473"
+  },
+  {
+    "city": "Cercado Abajo",
+    "city_ascii": "Cercado Abajo",
+    "admin_name": "El Valle",
+    "lat": "18.7300",
+    "lng": "-71.5200",
+    "id": "1214618384"
+  },
+  {
+    "city": "Miches",
+    "city_ascii": "Miches",
+    "admin_name": "Yuma",
+    "lat": "18.9800",
+    "lng": "-69.0500",
+    "id": "1214377408"
+  },
+  {
+    "city": "Jicomé",
+    "city_ascii": "Jicome",
+    "admin_name": "Cibao Noroeste",
+    "lat": "19.6500",
+    "lng": "-70.9500",
+    "id": "1214269436"
+  },
+  {
+    "city": "Río Grande",
+    "city_ascii": "Rio Grande",
+    "admin_name": "Cibao Norte",
+    "lat": "19.7300",
+    "lng": "-70.8000",
+    "id": "1214092035"
+  },
+  {
+    "city": "Quisqueya",
+    "city_ascii": "Quisqueya",
+    "admin_name": "Higuamo",
+    "lat": "18.5542",
+    "lng": "-69.4056",
+    "id": "1214538768"
+  },
+  {
+    "city": "Altamira",
+    "city_ascii": "Altamira",
+    "admin_name": "Cibao Norte",
+    "lat": "19.6667",
+    "lng": "-70.8333",
+    "id": "1214514689"
+  },
+  {
+    "city": "Las Terrenas",
+    "city_ascii": "Las Terrenas",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.3200",
+    "lng": "-69.5300",
+    "id": "1214125963"
+  },
+  {
+    "city": "Pimentel",
+    "city_ascii": "Pimentel",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.1833",
+    "lng": "-70.1000",
+    "id": "1214665602"
+  },
+  {
+    "city": "Tábara Arriba",
+    "city_ascii": "Tabara Arriba",
+    "admin_name": "Valdesia",
+    "lat": "18.5667",
+    "lng": "-70.8833",
+    "id": "1214703827"
+  },
+  {
+    "city": "Yayas de Viajama",
+    "city_ascii": "Yayas de Viajama",
+    "admin_name": "Valdesia",
+    "lat": "18.6000",
+    "lng": "-70.9200",
+    "id": "1214963330"
+  },
+  {
+    "city": "Villa Isabela",
+    "city_ascii": "Villa Isabela",
+    "admin_name": "Cibao Norte",
+    "lat": "19.8200",
+    "lng": "-71.0500",
+    "id": "1214019421"
+  },
+  {
+    "city": "Santo Tomás de Jánico",
+    "city_ascii": "Santo Tomas de Janico",
+    "admin_name": "Cibao Norte",
+    "lat": "19.3261",
+    "lng": "-70.8150",
+    "id": "1214364807"
+  },
+  {
+    "city": "Guaymate",
+    "city_ascii": "Guaymate",
+    "admin_name": "Yuma",
+    "lat": "18.5800",
+    "lng": "-68.9800",
+    "id": "1214081912"
+  },
+  {
+    "city": "Luperón",
+    "city_ascii": "Luperon",
+    "admin_name": "Cibao Norte",
+    "lat": "19.9000",
+    "lng": "-70.9500",
+    "id": "1214308542"
+  },
+  {
+    "city": "Cayetano Germosén",
+    "city_ascii": "Cayetano Germosen",
+    "admin_name": "Cibao Norte",
+    "lat": "19.3300",
+    "lng": "-70.4800",
+    "id": "1214204194"
+  },
+  {
+    "city": "Sabana de La Mar",
+    "city_ascii": "Sabana de La Mar",
+    "admin_name": "Higuamo",
+    "lat": "19.0700",
+    "lng": "-69.3900",
+    "id": "1214759253"
+  },
+  {
+    "city": "Cenoví",
+    "city_ascii": "Cenovi",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.2500",
+    "lng": "-70.3700",
+    "id": "1214125293"
+  },
+  {
+    "city": "Castillo",
+    "city_ascii": "Castillo",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.2200",
+    "lng": "-70.0300",
+    "id": "1214863705"
+  },
+  {
+    "city": "Galván",
+    "city_ascii": "Galvan",
+    "admin_name": "Enriquillo",
+    "lat": "18.5039",
+    "lng": "-71.3400",
+    "id": "1214696051"
+  },
+  {
+    "city": "Loma de Cabrera",
+    "city_ascii": "Loma de Cabrera",
+    "admin_name": "Cibao Noroeste",
+    "lat": "19.4220",
+    "lng": "-71.6150",
+    "id": "1214366417"
+  },
+  {
+    "city": "Sabana Grande de Palenque",
+    "city_ascii": "Sabana Grande de Palenque",
+    "admin_name": "Valdesia",
+    "lat": "18.2700",
+    "lng": "-70.1500",
+    "id": "1214912665"
+  },
+  {
+    "city": "Jamao al Norte",
+    "city_ascii": "Jamao al Norte",
+    "admin_name": "Cibao Norte",
+    "lat": "19.6500",
+    "lng": "-70.6167",
+    "id": "1214314716"
+  },
+  {
+    "city": "Paraíso",
+    "city_ascii": "Paraiso",
+    "admin_name": "Enriquillo",
+    "lat": "18.0000",
+    "lng": "-71.1667",
+    "id": "1214707712"
+  },
+  {
+    "city": "Peralta",
+    "city_ascii": "Peralta",
+    "admin_name": "Valdesia",
+    "lat": "18.5167",
+    "lng": "-70.7833",
+    "id": "1214056600"
+  },
+  {
+    "city": "Río San Juan",
+    "city_ascii": "Rio San Juan",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.6400",
+    "lng": "-70.0800",
+    "id": "1214629665"
+  },
+  {
+    "city": "Castañuelas",
+    "city_ascii": "Castanuelas",
+    "admin_name": "Cibao Noroeste",
+    "lat": "19.7000",
+    "lng": "-71.5000",
+    "id": "1214540220"
+  },
+  {
+    "city": "Cabral",
+    "city_ascii": "Cabral",
+    "admin_name": "Enriquillo",
+    "lat": "18.2500",
+    "lng": "-71.2167",
+    "id": "1214056250"
+  },
+  {
+    "city": "Las Guáranas",
+    "city_ascii": "Las Guaranas",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.2000",
+    "lng": "-70.2200",
+    "id": "1214326778"
+  },
+  {
+    "city": "Cabarete",
+    "city_ascii": "Cabarete",
+    "admin_name": "Cibao Norte",
+    "lat": "19.7511",
+    "lng": "-70.4083",
+    "id": "1214941065"
+  },
+  {
+    "city": "Villa Vásquez",
+    "city_ascii": "Villa Vasquez",
+    "admin_name": "Cibao Noroeste",
+    "lat": "19.7400",
+    "lng": "-71.4500",
+    "id": "1214796601"
+  },
+  {
+    "city": "Arenoso",
+    "city_ascii": "Arenoso",
+    "admin_name": "Cibao Nordeste",
+    "lat": "19.1800",
+    "lng": "-69.8500",
+    "id": "1214932555"
+  },
+  {
+    "city": "Pedernales",
+    "city_ascii": "Pedernales",
+    "admin_name": "Enriquillo",
+    "lat": "18.0333",
+    "lng": "-71.7500",
+    "id": "1214415453"
+  },
+  {
+    "city": "Sabana Iglesia",
+    "city_ascii": "Sabana Iglesia",
+    "admin_name": "Cibao Norte",
+    "lat": "19.3300",
+    "lng": "-70.7500",
+    "id": "1214409279"
+  },
+  {
+    "city": "Enriquillo",
+    "city_ascii": "Enriquillo",
+    "admin_name": "Enriquillo",
+    "lat": "17.9000",
+    "lng": "-71.2333",
+    "id": "1214173250"
+  },
+  {
+    "city": "Juan de Herrera",
+    "city_ascii": "Juan de Herrera",
+    "admin_name": "El Valle",
+    "lat": "18.8667",
+    "lng": "-71.2333",
+    "id": "1214992695"
+  },
+  {
+    "city": "Los Hidalgos",
+    "city_ascii": "Los Hidalgos",
+    "admin_name": "Cibao Norte",
+    "lat": "19.7300",
+    "lng": "-71.0300",
+    "id": "1214268175"
+  },
+  {
+    "city": "Cevicos",
+    "city_ascii": "Cevicos",
+    "admin_name": "Cibao Sur",
+    "lat": "19.0045",
+    "lng": "-69.9790",
+    "id": "1214401810"
+  },
+  {
+    "city": "Los Bellosos",
+    "city_ascii": "Los Bellosos",
+    "admin_name": "Cibao Norte",
+    "lat": "19.8333",
+    "lng": "-71.0167",
+    "id": "1214104845"
+  },
+  {
+    "city": "Vallejuelo",
+    "city_ascii": "Vallejuelo",
+    "admin_name": "El Valle",
+    "lat": "18.6500",
+    "lng": "-71.3300",
+    "id": "1214441701"
+  },
+  {
+    "city": "Duvergé",
+    "city_ascii": "Duverge",
+    "admin_name": "Enriquillo",
+    "lat": "18.3188",
+    "lng": "-71.5945",
+    "id": "1214710572"
+  },
+  {
+    "city": "Baitoa",
+    "city_ascii": "Baitoa",
+    "admin_name": "Cibao Sur",
+    "lat": "19.3200",
+    "lng": "-70.7000",
+    "id": "1214626953"
+  },
+  {
+    "city": "Monción",
+    "city_ascii": "Moncion",
+    "admin_name": "Cibao Noroeste",
+    "lat": "19.4167",
+    "lng": "-71.1667",
+    "id": "1214972514"
+  },
+  {
+    "city": "Jimaní",
+    "city_ascii": "Jimani",
+    "admin_name": "Enriquillo",
+    "lat": "18.4833",
+    "lng": "-71.8500",
+    "id": "1214388193"
+  },
+  {
+    "city": "Sabana Yegua",
+    "city_ascii": "Sabana Yegua",
+    "admin_name": "Valdesia",
+    "lat": "18.7167",
+    "lng": "-71.0167",
+    "id": "1214338368"
+  },
+  {
+    "city": "Las Charcas",
+    "city_ascii": "Las Charcas",
+    "admin_name": "Valdesia",
+    "lat": "18.4500",
+    "lng": "-70.6200",
+    "id": "1214615572"
+  },
+  {
+    "city": "Pueblo Viejo",
+    "city_ascii": "Pueblo Viejo",
+    "admin_name": "Valdesia",
+    "lat": "18.4000",
+    "lng": "-70.7667",
+    "id": "1214567482"
+  },
+  {
+    "city": "Los Almácigos",
+    "city_ascii": "Los Almacigos",
+    "admin_name": "Cibao Noroeste",
+    "lat": "19.4083",
+    "lng": "-71.4417",
+    "id": "1214526672"
+  },
+  {
+    "city": "Villa Jaragua",
+    "city_ascii": "Villa Jaragua",
+    "admin_name": "Enriquillo",
+    "lat": "18.4800",
+    "lng": "-71.5000",
+    "id": "1214346241"
+  },
+  {
+    "city": "Hondo Valle",
+    "city_ascii": "Hondo Valle",
+    "admin_name": "El Valle",
+    "lat": "18.7200",
+    "lng": "-71.7000",
+    "id": "1214315752"
+  },
+  {
+    "city": "Las Matas de Santa Cruz",
+    "city_ascii": "Las Matas de Santa Cruz",
+    "admin_name": "Cibao Noroeste",
+    "lat": "19.6700",
+    "lng": "-71.5000",
+    "id": "1214200513"
+  },
+  {
+    "city": "Sabaneta de Yásica",
+    "city_ascii": "Sabaneta de Yasica",
+    "admin_name": "Cibao Norte",
+    "lat": "19.6667",
+    "lng": "-70.3833",
+    "id": "1214622077"
+  },
+  {
+    "city": "Rancho Arriba",
+    "city_ascii": "Rancho Arriba",
+    "admin_name": "Valdesia",
+    "lat": "18.7147",
+    "lng": "-70.4618",
+    "id": "1214914352"
+  },
+  {
+    "city": "Bohechío",
+    "city_ascii": "Bohechio",
+    "admin_name": "El Valle",
+    "lat": "18.7700",
+    "lng": "-70.9800",
+    "id": "1214699842"
+  },
+  {
+    "city": "El Cacao",
+    "city_ascii": "El Cacao",
+    "admin_name": "Valdesia",
+    "lat": "18.5200",
+    "lng": "-70.3000",
+    "id": "1214839567"
+  },
+  {
+    "city": "Maizal",
+    "city_ascii": "Maizal",
+    "admin_name": "Cibao Noroeste",
+    "lat": "19.6500",
+    "lng": "-71.0300",
+    "id": "1214473100"
+  },
+  {
+    "city": "Pepillo Salcedo",
+    "city_ascii": "Pepillo Salcedo",
+    "admin_name": "Cibao Noroeste",
+    "lat": "19.7000",
+    "lng": "-71.7500",
+    "id": "1214570640"
+  },
+  {
+    "city": "La Ciénaga",
+    "city_ascii": "La Cienaga",
+    "admin_name": "Enriquillo",
+    "lat": "18.0700",
+    "lng": "-71.1000",
+    "id": "1214998565"
+  },
+  {
+    "city": "Ramón Santana",
+    "city_ascii": "Ramon Santana",
+    "admin_name": "Higuamo",
+    "lat": "18.5500",
+    "lng": "-69.1833",
+    "id": "1214143135"
+  }
+]

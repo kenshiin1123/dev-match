@@ -1,0 +1,586 @@
+[
+  {
+    "city": "Kathmandu",
+    "city_ascii": "Kathmandu",
+    "admin_name": "",
+    "lat": "27.7100",
+    "lng": "85.3200",
+    "id": "1524589448"
+  },
+  {
+    "city": "Bharatpur",
+    "city_ascii": "Bharatpur",
+    "admin_name": "",
+    "lat": "27.6833",
+    "lng": "84.4333",
+    "id": "1524780273"
+  },
+  {
+    "city": "Pokhara",
+    "city_ascii": "Pokhara",
+    "admin_name": "Gaṇḍakī",
+    "lat": "28.2097",
+    "lng": "83.9853",
+    "id": "1524416084"
+  },
+  {
+    "city": "Birāṭnagar",
+    "city_ascii": "Biratnagar",
+    "admin_name": "Province Number One",
+    "lat": "26.4833",
+    "lng": "87.2833",
+    "id": "1524520011"
+  },
+  {
+    "city": "Buḍhānilkanṭha",
+    "city_ascii": "Budhanilkantha",
+    "admin_name": "",
+    "lat": "27.7758",
+    "lng": "85.3619",
+    "id": "1524541414"
+  },
+  {
+    "city": "Ghorāhī",
+    "city_ascii": "Ghorahi",
+    "admin_name": "Lumbinī",
+    "lat": "28.0408",
+    "lng": "82.4861",
+    "id": "1524494654"
+  },
+  {
+    "city": "Birgañj",
+    "city_ascii": "Birganj",
+    "admin_name": "",
+    "lat": "27.0000",
+    "lng": "84.8667",
+    "id": "1524676691"
+  },
+  {
+    "city": "Tokha",
+    "city_ascii": "Tokha",
+    "admin_name": "",
+    "lat": "27.7500",
+    "lng": "85.3333",
+    "id": "1524599626"
+  },
+  {
+    "city": "Butwāl",
+    "city_ascii": "Butwal",
+    "admin_name": "Lumbinī",
+    "lat": "27.7000",
+    "lng": "83.4500",
+    "id": "1524843250"
+  },
+  {
+    "city": "Dharān",
+    "city_ascii": "Dharan",
+    "admin_name": "",
+    "lat": "26.8167",
+    "lng": "87.2667",
+    "id": "1524888375"
+  },
+  {
+    "city": "Lahān",
+    "city_ascii": "Lahan",
+    "admin_name": "",
+    "lat": "26.7167",
+    "lng": "86.4833",
+    "id": "1524293418"
+  },
+  {
+    "city": "Dhangaḍhi̇̄",
+    "city_ascii": "Dhangadhi",
+    "admin_name": "",
+    "lat": "28.7056",
+    "lng": "80.5750",
+    "id": "1524561456"
+  },
+  {
+    "city": "Janakpur",
+    "city_ascii": "Janakpur",
+    "admin_name": "Madhesh",
+    "lat": "26.7122",
+    "lng": "85.9217",
+    "id": "1524563587"
+  },
+  {
+    "city": "Heṭauḍā",
+    "city_ascii": "Hetauda",
+    "admin_name": "Bāgmatī",
+    "lat": "27.4167",
+    "lng": "85.0333",
+    "id": "1524551914"
+  },
+  {
+    "city": "Bhaktapur",
+    "city_ascii": "Bhaktapur",
+    "admin_name": "",
+    "lat": "27.6722",
+    "lng": "85.4278",
+    "id": "1524449093"
+  },
+  {
+    "city": "Godāwari̇̄",
+    "city_ascii": "Godawari",
+    "admin_name": "Sudūrpashchim",
+    "lat": "28.9100",
+    "lng": "80.5900",
+    "id": "1524020578"
+  },
+  {
+    "city": "Īṭahari̇̄",
+    "city_ascii": "Itahari",
+    "admin_name": "",
+    "lat": "26.6667",
+    "lng": "87.2833",
+    "id": "1524696654"
+  },
+  {
+    "city": "Sanwal",
+    "city_ascii": "Sanwal",
+    "admin_name": "Lumbinī",
+    "lat": "27.6300",
+    "lng": "83.6500",
+    "id": "1524197976"
+  },
+  {
+    "city": "Nepālgañj",
+    "city_ascii": "Nepalganj",
+    "admin_name": "",
+    "lat": "28.0500",
+    "lng": "81.6167",
+    "id": "1524207917"
+  },
+  {
+    "city": "Ratnanagar",
+    "city_ascii": "Ratnanagar",
+    "admin_name": "",
+    "lat": "27.5833",
+    "lng": "84.5000",
+    "id": "1524017473"
+  },
+  {
+    "city": "Bardi̇̄bās",
+    "city_ascii": "Bardibas",
+    "admin_name": "",
+    "lat": "26.9917",
+    "lng": "85.8917",
+    "id": "1524003789"
+  },
+  {
+    "city": "Banepā",
+    "city_ascii": "Banepa",
+    "admin_name": "",
+    "lat": "27.6333",
+    "lng": "85.5167",
+    "id": "1524404748"
+  },
+  {
+    "city": "Kirtipur",
+    "city_ascii": "Kirtipur",
+    "admin_name": "",
+    "lat": "27.6667",
+    "lng": "85.2833",
+    "id": "1524402867"
+  },
+  {
+    "city": "Bhairāhawā",
+    "city_ascii": "Bhairahawa",
+    "admin_name": "Lumbinī",
+    "lat": "27.5000",
+    "lng": "83.4500",
+    "id": "1524444140"
+  },
+  {
+    "city": "Tilakpur",
+    "city_ascii": "Tilakpur",
+    "admin_name": "",
+    "lat": "28.5278",
+    "lng": "81.1189",
+    "id": "1524027768"
+  },
+  {
+    "city": "Gulariyā",
+    "city_ascii": "Gulariya",
+    "admin_name": "",
+    "lat": "28.2056",
+    "lng": "81.3472",
+    "id": "1524608654"
+  },
+  {
+    "city": "Gorkhā",
+    "city_ascii": "Gorkha",
+    "admin_name": "Karṇālī",
+    "lat": "28.0000",
+    "lng": "84.6333",
+    "id": "1524733316"
+  },
+  {
+    "city": "Bhajani",
+    "city_ascii": "Bhajani",
+    "admin_name": "",
+    "lat": "28.4924",
+    "lng": "80.9753",
+    "id": "1524835482"
+  },
+  {
+    "city": "Tulsīpur",
+    "city_ascii": "Tulsipur",
+    "admin_name": "Lumbinī",
+    "lat": "28.1278",
+    "lng": "82.2956",
+    "id": "1524921574"
+  },
+  {
+    "city": "Wāliṅ",
+    "city_ascii": "Walin",
+    "admin_name": "",
+    "lat": "27.9889",
+    "lng": "83.7675",
+    "id": "1524405522"
+  },
+  {
+    "city": "Simraungaḍh",
+    "city_ascii": "Simraungadh",
+    "admin_name": "",
+    "lat": "26.8893",
+    "lng": "85.1168",
+    "id": "1524001163"
+  },
+  {
+    "city": "Birendranagar",
+    "city_ascii": "Birendranagar",
+    "admin_name": "Karṇālī",
+    "lat": "28.6000",
+    "lng": "81.6333",
+    "id": "1524574121"
+  },
+  {
+    "city": "Kalaiyā",
+    "city_ascii": "Kalaiya",
+    "admin_name": "",
+    "lat": "27.0333",
+    "lng": "85.0000",
+    "id": "1524196942"
+  },
+  {
+    "city": "Pā̃chkhāl",
+    "city_ascii": "Pachkhal",
+    "admin_name": "",
+    "lat": "27.6500",
+    "lng": "85.6167",
+    "id": "1524811458"
+  },
+  {
+    "city": "Tinpiple",
+    "city_ascii": "Tinpiple",
+    "admin_name": "",
+    "lat": "27.6283",
+    "lng": "85.6136",
+    "id": "1524388860"
+  },
+  {
+    "city": "Galkot",
+    "city_ascii": "Galkot",
+    "admin_name": "",
+    "lat": "28.2500",
+    "lng": "83.4200",
+    "id": "1524020706"
+  },
+  {
+    "city": "Shambhunāth",
+    "city_ascii": "Shambhunath",
+    "admin_name": "Madhesh",
+    "lat": "26.6316",
+    "lng": "86.6951",
+    "id": "1524032035"
+  },
+  {
+    "city": "Hanumānnagar",
+    "city_ascii": "Hanumannagar",
+    "admin_name": "",
+    "lat": "26.5394",
+    "lng": "86.7483",
+    "id": "1524363655"
+  },
+  {
+    "city": "Ratnapur",
+    "city_ascii": "Ratnapur",
+    "admin_name": "",
+    "lat": "27.8500",
+    "lng": "83.8667",
+    "id": "1524009803"
+  },
+  {
+    "city": "Gaur",
+    "city_ascii": "Gaur",
+    "admin_name": "",
+    "lat": "26.7644",
+    "lng": "85.2783",
+    "id": "1524560237"
+  },
+  {
+    "city": "Bārhadashi̇̄",
+    "city_ascii": "Barhadashi",
+    "admin_name": "",
+    "lat": "26.5500",
+    "lng": "87.9200",
+    "id": "1524013222"
+  },
+  {
+    "city": "Musikoṭ-Khalaṅgā",
+    "city_ascii": "Musikot-Khalanga",
+    "admin_name": "",
+    "lat": "28.6291",
+    "lng": "82.4554",
+    "id": "1524443799"
+  },
+  {
+    "city": "Udaypur Gaḍhi̇̄",
+    "city_ascii": "Udaypur Gadhi",
+    "admin_name": "",
+    "lat": "26.9333",
+    "lng": "86.5167",
+    "id": "1524108057"
+  },
+  {
+    "city": "Bāglung",
+    "city_ascii": "Baglung",
+    "admin_name": "Gaṇḍakī",
+    "lat": "28.2667",
+    "lng": "83.6000",
+    "id": "1524266307"
+  },
+  {
+    "city": "Shikharpur",
+    "city_ascii": "Shikharpur",
+    "admin_name": "",
+    "lat": "27.7467",
+    "lng": "85.5097",
+    "id": "1524315710"
+  },
+  {
+    "city": "Pālpā",
+    "city_ascii": "Palpa",
+    "admin_name": "",
+    "lat": "27.8667",
+    "lng": "83.5500",
+    "id": "1524400922"
+  },
+  {
+    "city": "Siraha",
+    "city_ascii": "Siraha",
+    "admin_name": "",
+    "lat": "26.6528",
+    "lng": "86.2069",
+    "id": "1524369856"
+  },
+  {
+    "city": "Panauti",
+    "city_ascii": "Panauti",
+    "admin_name": "",
+    "lat": "27.5844",
+    "lng": "85.5147",
+    "id": "1524203755"
+  },
+  {
+    "city": "Bidur",
+    "city_ascii": "Bidur",
+    "admin_name": "",
+    "lat": "27.8961",
+    "lng": "85.1456",
+    "id": "1524355084"
+  },
+  {
+    "city": "Khā̃dbāri̇̄",
+    "city_ascii": "Khadbari",
+    "admin_name": "",
+    "lat": "27.3667",
+    "lng": "87.2167",
+    "id": "1524504106"
+  },
+  {
+    "city": "Malaṅgawā",
+    "city_ascii": "Malangawa",
+    "admin_name": "",
+    "lat": "26.8667",
+    "lng": "85.5667",
+    "id": "1524985987"
+  },
+  {
+    "city": "Dakṣiṇkāli̇̄",
+    "city_ascii": "Daksinkali",
+    "admin_name": "",
+    "lat": "27.6089",
+    "lng": "85.2672",
+    "id": "1524170564"
+  },
+  {
+    "city": "Jaleshwar",
+    "city_ascii": "Jaleshwar",
+    "admin_name": "",
+    "lat": "26.6500",
+    "lng": "85.8000",
+    "id": "1524945108"
+  },
+  {
+    "city": "Bhairi̇̄",
+    "city_ascii": "Bhairi",
+    "admin_name": "",
+    "lat": "28.9300",
+    "lng": "81.6300",
+    "id": "1524022332"
+  },
+  {
+    "city": "Dadeldhurā",
+    "city_ascii": "Dadeldhura",
+    "admin_name": "Sudūrpashchim",
+    "lat": "29.3000",
+    "lng": "80.6000",
+    "id": "1524639464"
+  },
+  {
+    "city": "Bhadrapur",
+    "city_ascii": "Bhadrapur",
+    "admin_name": "",
+    "lat": "26.5419",
+    "lng": "88.0944",
+    "id": "1524000201"
+  },
+  {
+    "city": "Barīkot",
+    "city_ascii": "Barikot",
+    "admin_name": "Karṇālī",
+    "lat": "29.0400",
+    "lng": "82.3300",
+    "id": "1524411277"
+  },
+  {
+    "city": "Īlām",
+    "city_ascii": "Ilam",
+    "admin_name": "",
+    "lat": "26.9080",
+    "lng": "87.9260",
+    "id": "1524034598"
+  },
+  {
+    "city": "Rājgaḍh",
+    "city_ascii": "Rajgadh",
+    "admin_name": "",
+    "lat": "26.5000",
+    "lng": "87.9333",
+    "id": "1524013031"
+  },
+  {
+    "city": "Rāmechhāp",
+    "city_ascii": "Ramechhap",
+    "admin_name": "",
+    "lat": "27.3260",
+    "lng": "86.0870",
+    "id": "1524628973"
+  },
+  {
+    "city": "Bhimphedi",
+    "city_ascii": "Bhimphedi",
+    "admin_name": "",
+    "lat": "27.5510",
+    "lng": "85.1300",
+    "id": "1524596923"
+  },
+  {
+    "city": "Salyan",
+    "city_ascii": "Salyan",
+    "admin_name": "",
+    "lat": "28.3500",
+    "lng": "82.1833",
+    "id": "1524828921"
+  },
+  {
+    "city": "Iṭaharā",
+    "city_ascii": "Itahara",
+    "admin_name": "",
+    "lat": "26.5500",
+    "lng": "87.6200",
+    "id": "1524010413"
+  },
+  {
+    "city": "Bandipur",
+    "city_ascii": "Bandipur",
+    "admin_name": "",
+    "lat": "27.9381",
+    "lng": "84.4069",
+    "id": "1524589061"
+  },
+  {
+    "city": "Pragatinagar",
+    "city_ascii": "Pragatinagar",
+    "admin_name": "",
+    "lat": "27.6667",
+    "lng": "84.1833",
+    "id": "1524028516"
+  },
+  {
+    "city": "Libānggaon",
+    "city_ascii": "Libanggaon",
+    "admin_name": "Lumbinī",
+    "lat": "28.3000",
+    "lng": "82.6333",
+    "id": "1524465146"
+  },
+  {
+    "city": "Manahari",
+    "city_ascii": "Manahari",
+    "admin_name": "",
+    "lat": "27.5500",
+    "lng": "84.7900",
+    "id": "1524017214"
+  },
+  {
+    "city": "Sarkeghāṭ",
+    "city_ascii": "Sarkeghat",
+    "admin_name": "Karṇālī",
+    "lat": "29.7833",
+    "lng": "81.9333",
+    "id": "1524035735"
+  },
+  {
+    "city": "Haraiyā",
+    "city_ascii": "Haraiya",
+    "admin_name": "",
+    "lat": "27.0900",
+    "lng": "85.0900",
+    "id": "1524137444"
+  },
+  {
+    "city": "Amritpur",
+    "city_ascii": "Amritpur",
+    "admin_name": "",
+    "lat": "28.1196",
+    "lng": "81.5965",
+    "id": "1524026946"
+  },
+  {
+    "city": "Jumlā",
+    "city_ascii": "Jumla",
+    "admin_name": "",
+    "lat": "29.2500",
+    "lng": "82.2167",
+    "id": "1524473131"
+  },
+  {
+    "city": "Kalaun",
+    "city_ascii": "Kalaun",
+    "admin_name": "Sudūrpashchim",
+    "lat": "29.8400",
+    "lng": "80.5400",
+    "id": "1524035219"
+  },
+  {
+    "city": "Jitpur",
+    "city_ascii": "Jitpur",
+    "admin_name": "",
+    "lat": "27.6666",
+    "lng": "85.3333",
+    "id": "1524593184"
+  }
+]

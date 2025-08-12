@@ -1,0 +1,1298 @@
+[
+  {
+    "city": "Taichung",
+    "city_ascii": "Taichung",
+    "admin_name": "Taichung",
+    "lat": "24.1439",
+    "lng": "120.6794",
+    "id": "1158689622"
+  },
+  {
+    "city": "Kaohsiung",
+    "city_ascii": "Kaohsiung",
+    "admin_name": "Kaohsiung",
+    "lat": "22.6150",
+    "lng": "120.2975",
+    "id": "1158331334"
+  },
+  {
+    "city": "Taipei",
+    "city_ascii": "Taipei",
+    "admin_name": "Taipei",
+    "lat": "25.0375",
+    "lng": "121.5625",
+    "id": "1158881289"
+  },
+  {
+    "city": "Tainan",
+    "city_ascii": "Tainan",
+    "admin_name": "Tainan",
+    "lat": "22.9833",
+    "lng": "120.1833",
+    "id": "1158061376"
+  },
+  {
+    "city": "Hsinchu",
+    "city_ascii": "Hsinchu",
+    "admin_name": "Hsinchu",
+    "lat": "24.8167",
+    "lng": "120.9833",
+    "id": "1158276420"
+  },
+  {
+    "city": "Taoyuan District",
+    "city_ascii": "Taoyuan District",
+    "admin_name": "Taoyuan",
+    "lat": "24.9913",
+    "lng": "121.3143",
+    "id": "1158127875"
+  },
+  {
+    "city": "Keelung",
+    "city_ascii": "Keelung",
+    "admin_name": "Keelung",
+    "lat": "25.1333",
+    "lng": "121.7333",
+    "id": "1158820647"
+  },
+  {
+    "city": "Chiayi",
+    "city_ascii": "Chiayi",
+    "admin_name": "Chiayi",
+    "lat": "23.4800",
+    "lng": "120.4497",
+    "id": "1158867217"
+  },
+  {
+    "city": "Changhua",
+    "city_ascii": "Changhua",
+    "admin_name": "Changhua",
+    "lat": "24.0667",
+    "lng": "120.5333",
+    "id": "1158439005"
+  },
+  {
+    "city": "Zhubei",
+    "city_ascii": "Zhubei",
+    "admin_name": "Hsinchu",
+    "lat": "24.8333",
+    "lng": "121.0119",
+    "id": "1158417233"
+  },
+  {
+    "city": "Pingtung",
+    "city_ascii": "Pingtung",
+    "admin_name": "Pingtung",
+    "lat": "22.6761",
+    "lng": "120.4942",
+    "id": "1158209038"
+  },
+  {
+    "city": "Yuanlin",
+    "city_ascii": "Yuanlin",
+    "admin_name": "Changhua",
+    "lat": "23.9611",
+    "lng": "120.5736",
+    "id": "1158630209"
+  },
+  {
+    "city": "Douliu",
+    "city_ascii": "Douliu",
+    "admin_name": "Yunlin",
+    "lat": "23.7075",
+    "lng": "120.5439",
+    "id": "1158732750"
+  },
+  {
+    "city": "Toufen",
+    "city_ascii": "Toufen",
+    "admin_name": "Miaoli",
+    "lat": "24.6832",
+    "lng": "120.9072",
+    "id": "1158996229"
+  },
+  {
+    "city": "Taitung",
+    "city_ascii": "Taitung",
+    "admin_name": "Taitung",
+    "lat": "22.7583",
+    "lng": "121.1444",
+    "id": "1158804050"
+  },
+  {
+    "city": "Hualien",
+    "city_ascii": "Hualien",
+    "admin_name": "Hualien",
+    "lat": "23.9722",
+    "lng": "121.6064",
+    "id": "1158174293"
+  },
+  {
+    "city": "Nantou",
+    "city_ascii": "Nantou",
+    "admin_name": "Nantou",
+    "lat": "23.9167",
+    "lng": "120.6833",
+    "id": "1158112865"
+  },
+  {
+    "city": "Caotun",
+    "city_ascii": "Caotun",
+    "admin_name": "Nantou",
+    "lat": "23.9830",
+    "lng": "120.7326",
+    "id": "1158910060"
+  },
+  {
+    "city": "Zhudong",
+    "city_ascii": "Zhudong",
+    "admin_name": "Hsinchu",
+    "lat": "24.7366",
+    "lng": "121.0916",
+    "id": "1158713693"
+  },
+  {
+    "city": "Zhunan",
+    "city_ascii": "Zhunan",
+    "admin_name": "Miaoli",
+    "lat": "24.6833",
+    "lng": "120.8833",
+    "id": "1158606269"
+  },
+  {
+    "city": "Hemei",
+    "city_ascii": "Hemei",
+    "admin_name": "Changhua",
+    "lat": "24.1167",
+    "lng": "120.5000",
+    "id": "1158367413"
+  },
+  {
+    "city": "Miaoli",
+    "city_ascii": "Miaoli",
+    "admin_name": "Miaoli",
+    "lat": "24.5700",
+    "lng": "120.8200",
+    "id": "1158446494"
+  },
+  {
+    "city": "Lugang",
+    "city_ascii": "Lugang",
+    "admin_name": "Changhua",
+    "lat": "24.0500",
+    "lng": "120.4333",
+    "id": "1158025426"
+  },
+  {
+    "city": "Ji’an",
+    "city_ascii": "Ji'an",
+    "admin_name": "Hualien",
+    "lat": "23.9500",
+    "lng": "121.5722",
+    "id": "1158376537"
+  },
+  {
+    "city": "Hukou",
+    "city_ascii": "Hukou",
+    "admin_name": "Hsinchu",
+    "lat": "24.9000",
+    "lng": "121.0500",
+    "id": "1158167962"
+  },
+  {
+    "city": "Puli",
+    "city_ascii": "Puli",
+    "admin_name": "Nantou",
+    "lat": "23.9667",
+    "lng": "120.9667",
+    "id": "1158109634"
+  },
+  {
+    "city": "Minxiong",
+    "city_ascii": "Minxiong",
+    "admin_name": "Chiayi",
+    "lat": "23.5504",
+    "lng": "120.4457",
+    "id": "1158122397"
+  },
+  {
+    "city": "Huwei",
+    "city_ascii": "Huwei",
+    "admin_name": "Yunlin",
+    "lat": "23.7200",
+    "lng": "120.4354",
+    "id": "1158896051"
+  },
+  {
+    "city": "Luodong",
+    "city_ascii": "Luodong",
+    "admin_name": "Yilan",
+    "lat": "24.6753",
+    "lng": "121.7711",
+    "id": "1158251407"
+  },
+  {
+    "city": "Magong",
+    "city_ascii": "Magong",
+    "admin_name": "Penghu",
+    "lat": "23.5667",
+    "lng": "119.5833",
+    "id": "1158297836"
+  },
+  {
+    "city": "Xinfeng",
+    "city_ascii": "Xinfeng",
+    "admin_name": "Hsinchu",
+    "lat": "24.9167",
+    "lng": "121.0000",
+    "id": "1158988377"
+  },
+  {
+    "city": "Xihu",
+    "city_ascii": "Xihu",
+    "admin_name": "Changhua",
+    "lat": "23.9594",
+    "lng": "120.4800",
+    "id": "1158658057"
+  },
+  {
+    "city": "Chaozhou",
+    "city_ascii": "Chaozhou",
+    "admin_name": "Pingtung",
+    "lat": "22.5500",
+    "lng": "120.5333",
+    "id": "1158670506"
+  },
+  {
+    "city": "Dongshan",
+    "city_ascii": "Dongshan",
+    "admin_name": "Yilan",
+    "lat": "24.6319",
+    "lng": "121.7539",
+    "id": "1158216051"
+  },
+  {
+    "city": "Neibu",
+    "city_ascii": "Neibu",
+    "admin_name": "Pingtung",
+    "lat": "22.6500",
+    "lng": "120.5875",
+    "id": "1158113958"
+  },
+  {
+    "city": "Zhushan",
+    "city_ascii": "Zhushan",
+    "admin_name": "Nantou",
+    "lat": "23.6889",
+    "lng": "120.7289",
+    "id": "1158343390"
+  },
+  {
+    "city": "Mailiao",
+    "city_ascii": "Mailiao",
+    "admin_name": "Yunlin",
+    "lat": "23.7500",
+    "lng": "120.2500",
+    "id": "1158170590"
+  },
+  {
+    "city": "Wandan",
+    "city_ascii": "Wandan",
+    "admin_name": "Pingtung",
+    "lat": "22.5897",
+    "lng": "120.4851",
+    "id": "1158350878"
+  },
+  {
+    "city": "Erlin",
+    "city_ascii": "Erlin",
+    "admin_name": "Changhua",
+    "lat": "23.9229",
+    "lng": "120.4091",
+    "id": "1158369594"
+  },
+  {
+    "city": "Shuishang",
+    "city_ascii": "Shuishang",
+    "admin_name": "Chiayi",
+    "lat": "23.4319",
+    "lng": "120.4147",
+    "id": "1158996361"
+  },
+  {
+    "city": "Donggang",
+    "city_ascii": "Donggang",
+    "admin_name": "Pingtung",
+    "lat": "22.4667",
+    "lng": "120.4544",
+    "id": "1158526053"
+  },
+  {
+    "city": "Fuxing",
+    "city_ascii": "Fuxing",
+    "admin_name": "Changhua",
+    "lat": "24.0341",
+    "lng": "120.4235",
+    "id": "1158324066"
+  },
+  {
+    "city": "Xiluo",
+    "city_ascii": "Xiluo",
+    "admin_name": "Yunlin",
+    "lat": "23.7827",
+    "lng": "120.4551",
+    "id": "1158315546"
+  },
+  {
+    "city": "Huatan",
+    "city_ascii": "Huatan",
+    "admin_name": "Changhua",
+    "lat": "24.0316",
+    "lng": "120.5579",
+    "id": "1158596327"
+  },
+  {
+    "city": "Yuanli",
+    "city_ascii": "Yuanli",
+    "admin_name": "Miaoli",
+    "lat": "24.4168",
+    "lng": "120.6830",
+    "id": "1158991714"
+  },
+  {
+    "city": "Dounan",
+    "city_ascii": "Dounan",
+    "admin_name": "Yunlin",
+    "lat": "23.6833",
+    "lng": "120.4833",
+    "id": "1158926049"
+  },
+  {
+    "city": "Zhongbu",
+    "city_ascii": "Zhongbu",
+    "admin_name": "Chiayi",
+    "lat": "23.4082",
+    "lng": "120.5343",
+    "id": "1158600763"
+  },
+  {
+    "city": "Jincheng",
+    "city_ascii": "Jincheng",
+    "admin_name": "Kinmen",
+    "lat": "24.4167",
+    "lng": "118.3167",
+    "id": "1158376441"
+  },
+  {
+    "city": "Shetou",
+    "city_ascii": "Shetou",
+    "admin_name": "Changhua",
+    "lat": "23.9076",
+    "lng": "120.5992",
+    "id": "1158243856"
+  },
+  {
+    "city": "Pozi",
+    "city_ascii": "Pozi",
+    "admin_name": "Chiayi",
+    "lat": "23.4611",
+    "lng": "120.2420",
+    "id": "1158227287"
+  },
+  {
+    "city": "Wujie",
+    "city_ascii": "Wujie",
+    "admin_name": "Yilan",
+    "lat": "24.7000",
+    "lng": "121.7833",
+    "id": "1158382320"
+  },
+  {
+    "city": "Dacun",
+    "city_ascii": "Dacun",
+    "admin_name": "Changhua",
+    "lat": "23.9911",
+    "lng": "120.5394",
+    "id": "1158383737"
+  },
+  {
+    "city": "Tianzhong",
+    "city_ascii": "Tianzhong",
+    "admin_name": "Changhua",
+    "lat": "23.8595",
+    "lng": "120.5878",
+    "id": "1158841017"
+  },
+  {
+    "city": "Taibao",
+    "city_ascii": "Taibao",
+    "admin_name": "Chiayi",
+    "lat": "23.4500",
+    "lng": "120.3333",
+    "id": "1158657404"
+  },
+  {
+    "city": "Xiushui",
+    "city_ascii": "Xiushui",
+    "admin_name": "Changhua",
+    "lat": "24.0356",
+    "lng": "120.5037",
+    "id": "1158521382"
+  },
+  {
+    "city": "Shengang",
+    "city_ascii": "Shengang",
+    "admin_name": "Changhua",
+    "lat": "24.1648",
+    "lng": "120.4886",
+    "id": "1158213803"
+  },
+  {
+    "city": "Beigang",
+    "city_ascii": "Beigang",
+    "admin_name": "Yunlin",
+    "lat": "23.5667",
+    "lng": "120.3000",
+    "id": "1158593332"
+  },
+  {
+    "city": "Shenghu",
+    "city_ascii": "Shenghu",
+    "admin_name": "Yilan",
+    "lat": "24.5961",
+    "lng": "121.8511",
+    "id": "1158962773"
+  },
+  {
+    "city": "Su’ao",
+    "city_ascii": "Su'ao",
+    "admin_name": "Yilan",
+    "lat": "24.5961",
+    "lng": "121.8511",
+    "id": "1158318130"
+  },
+  {
+    "city": "Mingjian",
+    "city_ascii": "Mingjian",
+    "admin_name": "Nantou",
+    "lat": "23.8510",
+    "lng": "120.6775",
+    "id": "1158386968"
+  },
+  {
+    "city": "Yongjing",
+    "city_ascii": "Yongjing",
+    "admin_name": "Changhua",
+    "lat": "23.9223",
+    "lng": "120.5356",
+    "id": "1158242366"
+  },
+  {
+    "city": "Jiaoxi",
+    "city_ascii": "Jiaoxi",
+    "admin_name": "Yilan",
+    "lat": "24.8167",
+    "lng": "121.7667",
+    "id": "1158494243"
+  },
+  {
+    "city": "Houlong",
+    "city_ascii": "Houlong",
+    "admin_name": "Miaoli",
+    "lat": "24.6167",
+    "lng": "120.7833",
+    "id": "1158090050"
+  },
+  {
+    "city": "Zhuqi",
+    "city_ascii": "Zhuqi",
+    "admin_name": "Chiayi",
+    "lat": "23.5065",
+    "lng": "120.6021",
+    "id": "1158917918"
+  },
+  {
+    "city": "Buxin",
+    "city_ascii": "Buxin",
+    "admin_name": "Changhua",
+    "lat": "23.9523",
+    "lng": "120.5349",
+    "id": "1158336542"
+  },
+  {
+    "city": "Beidou",
+    "city_ascii": "Beidou",
+    "admin_name": "Changhua",
+    "lat": "23.8747",
+    "lng": "120.5248",
+    "id": "1158581171"
+  },
+  {
+    "city": "Xinbu",
+    "city_ascii": "Xinbu",
+    "admin_name": "Hsinchu",
+    "lat": "24.8478",
+    "lng": "121.0956",
+    "id": "1158924907"
+  },
+  {
+    "city": "Xinyuan",
+    "city_ascii": "Xinyuan",
+    "admin_name": "Pingtung",
+    "lat": "22.5149",
+    "lng": "120.4470",
+    "id": "1158820437"
+  },
+  {
+    "city": "Waiyuanshan",
+    "city_ascii": "Waiyuanshan",
+    "admin_name": "Yilan",
+    "lat": "24.7443",
+    "lng": "121.6684",
+    "id": "1158844891"
+  },
+  {
+    "city": "Tongxiao",
+    "city_ascii": "Tongxiao",
+    "admin_name": "Miaoli",
+    "lat": "24.4833",
+    "lng": "120.6833",
+    "id": "1158427043"
+  },
+  {
+    "city": "Fangyuan",
+    "city_ascii": "Fangyuan",
+    "admin_name": "Changhua",
+    "lat": "23.9250",
+    "lng": "120.3158",
+    "id": "1158966656"
+  },
+  {
+    "city": "Buyan",
+    "city_ascii": "Buyan",
+    "admin_name": "Changhua",
+    "lat": "23.9961",
+    "lng": "120.4618",
+    "id": "1158864822"
+  },
+  {
+    "city": "Gongguan",
+    "city_ascii": "Gongguan",
+    "admin_name": "Miaoli",
+    "lat": "24.5053",
+    "lng": "120.8447",
+    "id": "1158933960"
+  },
+  {
+    "city": "Xingang",
+    "city_ascii": "Xingang",
+    "admin_name": "Chiayi",
+    "lat": "23.5600",
+    "lng": "120.3500",
+    "id": "1158285063"
+  },
+  {
+    "city": "Gukeng",
+    "city_ascii": "Gukeng",
+    "admin_name": "Yunlin",
+    "lat": "23.6500",
+    "lng": "120.5667",
+    "id": "1158248475"
+  },
+  {
+    "city": "Dalin",
+    "city_ascii": "Dalin",
+    "admin_name": "Chiayi",
+    "lat": "23.5989",
+    "lng": "120.4700",
+    "id": "1158347421"
+  },
+  {
+    "city": "Hengchun",
+    "city_ascii": "Hengchun",
+    "admin_name": "Pingtung",
+    "lat": "22.0000",
+    "lng": "120.7500",
+    "id": "1158823887"
+  },
+  {
+    "city": "Pitou",
+    "city_ascii": "Pitou",
+    "admin_name": "Changhua",
+    "lat": "23.8775",
+    "lng": "120.4706",
+    "id": "1158054057"
+  },
+  {
+    "city": "Changzhi",
+    "city_ascii": "Changzhi",
+    "admin_name": "Pingtung",
+    "lat": "22.6833",
+    "lng": "120.5333",
+    "id": "1158049266"
+  },
+  {
+    "city": "Xizhou",
+    "city_ascii": "Xizhou",
+    "admin_name": "Changhua",
+    "lat": "24.1156",
+    "lng": "120.5350",
+    "id": "1158560698"
+  },
+  {
+    "city": "Toucheng",
+    "city_ascii": "Toucheng",
+    "admin_name": "Yilan",
+    "lat": "24.8500",
+    "lng": "121.8167",
+    "id": "1158073803"
+  },
+  {
+    "city": "Tuku",
+    "city_ascii": "Tuku",
+    "admin_name": "Yunlin",
+    "lat": "23.6911",
+    "lng": "120.3620",
+    "id": "1158715962"
+  },
+  {
+    "city": "Citong",
+    "city_ascii": "Citong",
+    "admin_name": "Yunlin",
+    "lat": "23.7729",
+    "lng": "120.5277",
+    "id": "1158010048"
+  },
+  {
+    "city": "Guanxi",
+    "city_ascii": "Guanxi",
+    "admin_name": "Hsinchu",
+    "lat": "24.8000",
+    "lng": "121.1833",
+    "id": "1158461658"
+  },
+  {
+    "city": "Tianwei",
+    "city_ascii": "Tianwei",
+    "admin_name": "Changhua",
+    "lat": "23.9023",
+    "lng": "120.5214",
+    "id": "1158880346"
+  },
+  {
+    "city": "Ligang",
+    "city_ascii": "Ligang",
+    "admin_name": "Pingtung",
+    "lat": "22.8011",
+    "lng": "120.5070",
+    "id": "1158548477"
+  },
+  {
+    "city": "Budai",
+    "city_ascii": "Budai",
+    "admin_name": "Chiayi",
+    "lat": "23.3600",
+    "lng": "120.1700",
+    "id": "1158993335"
+  },
+  {
+    "city": "Erlun",
+    "city_ascii": "Erlun",
+    "admin_name": "Yunlin",
+    "lat": "23.7910",
+    "lng": "120.3954",
+    "id": "1158955964"
+  },
+  {
+    "city": "Kouhu",
+    "city_ascii": "Kouhu",
+    "admin_name": "Yunlin",
+    "lat": "23.5763",
+    "lng": "120.1725",
+    "id": "1158470096"
+  },
+  {
+    "city": "Zhuangwei",
+    "city_ascii": "Zhuangwei",
+    "admin_name": "Yilan",
+    "lat": "24.7702",
+    "lng": "121.8023",
+    "id": "1158013111"
+  },
+  {
+    "city": "Yanbu",
+    "city_ascii": "Yanbu",
+    "admin_name": "Pingtung",
+    "lat": "22.7544",
+    "lng": "120.5724",
+    "id": "1158818026"
+  },
+  {
+    "city": "Yuanchang",
+    "city_ascii": "Yuanchang",
+    "admin_name": "Yunlin",
+    "lat": "23.6420",
+    "lng": "120.3229",
+    "id": "1158471732"
+  },
+  {
+    "city": "Dongshi",
+    "city_ascii": "Dongshi",
+    "admin_name": "Chiayi",
+    "lat": "23.4748",
+    "lng": "120.1769",
+    "id": "1158540364"
+  },
+  {
+    "city": "Shuilin",
+    "city_ascii": "Shuilin",
+    "admin_name": "Yunlin",
+    "lat": "23.5662",
+    "lng": "120.2340",
+    "id": "1158354409"
+  },
+  {
+    "city": "Lunbei",
+    "city_ascii": "Lunbei",
+    "admin_name": "Yunlin",
+    "lat": "23.7789",
+    "lng": "120.3331",
+    "id": "1158459635"
+  },
+  {
+    "city": "Fangliao",
+    "city_ascii": "Fangliao",
+    "admin_name": "Pingtung",
+    "lat": "22.3656",
+    "lng": "120.5936",
+    "id": "1158243044"
+  },
+  {
+    "city": "Gaoshu",
+    "city_ascii": "Gaoshu",
+    "admin_name": "Pingtung",
+    "lat": "22.8202",
+    "lng": "120.5979",
+    "id": "1158803250"
+  },
+  {
+    "city": "Fenyuan",
+    "city_ascii": "Fenyuan",
+    "admin_name": "Changhua",
+    "lat": "24.0154",
+    "lng": "120.6274",
+    "id": "1158373673"
+  },
+  {
+    "city": "Yuli",
+    "city_ascii": "Yuli",
+    "admin_name": "Hualien",
+    "lat": "23.3875",
+    "lng": "121.3764",
+    "id": "1158695945"
+  },
+  {
+    "city": "Taixi",
+    "city_ascii": "Taixi",
+    "admin_name": "Yunlin",
+    "lat": "23.7000",
+    "lng": "120.2000",
+    "id": "1158631451"
+  },
+  {
+    "city": "Jiuru",
+    "city_ascii": "Jiuru",
+    "admin_name": "Pingtung",
+    "lat": "22.7333",
+    "lng": "120.4833",
+    "id": "1158362617"
+  },
+  {
+    "city": "Sihu",
+    "city_ascii": "Sihu",
+    "admin_name": "Yunlin",
+    "lat": "23.6411",
+    "lng": "120.2010",
+    "id": "1158387036"
+  },
+  {
+    "city": "Sanxing",
+    "city_ascii": "Sanxing",
+    "admin_name": "Yilan",
+    "lat": "24.6739",
+    "lng": "121.6631",
+    "id": "1158866259"
+  },
+  {
+    "city": "Xincheng",
+    "city_ascii": "Xincheng",
+    "admin_name": "Hualien",
+    "lat": "24.0514",
+    "lng": "121.6083",
+    "id": "1158118718"
+  },
+  {
+    "city": "Xionglin",
+    "city_ascii": "Xionglin",
+    "admin_name": "Hsinchu",
+    "lat": "24.7742",
+    "lng": "121.0964",
+    "id": "1158057150"
+  },
+  {
+    "city": "Wanluan",
+    "city_ascii": "Wanluan",
+    "admin_name": "Pingtung",
+    "lat": "22.5727",
+    "lng": "120.5678",
+    "id": "1158436916"
+  },
+  {
+    "city": "Dapi",
+    "city_ascii": "Dapi",
+    "admin_name": "Yunlin",
+    "lat": "23.6494",
+    "lng": "120.4254",
+    "id": "1158141217"
+  },
+  {
+    "city": "Meishan",
+    "city_ascii": "Meishan",
+    "admin_name": "Chiayi",
+    "lat": "23.5607",
+    "lng": "120.6296",
+    "id": "1158732853"
+  },
+  {
+    "city": "Jiadong",
+    "city_ascii": "Jiadong",
+    "admin_name": "Pingtung",
+    "lat": "22.4305",
+    "lng": "120.5471",
+    "id": "1158867196"
+  },
+  {
+    "city": "Guoxing",
+    "city_ascii": "Guoxing",
+    "admin_name": "Nantou",
+    "lat": "24.0550",
+    "lng": "120.8700",
+    "id": "1158237846"
+  },
+  {
+    "city": "Shoufeng",
+    "city_ascii": "Shoufeng",
+    "admin_name": "Hualien",
+    "lat": "23.8667",
+    "lng": "121.5167",
+    "id": "1158349952"
+  },
+  {
+    "city": "Yizhu",
+    "city_ascii": "Yizhu",
+    "admin_name": "Chiayi",
+    "lat": "23.3565",
+    "lng": "120.2235",
+    "id": "1158909827"
+  },
+  {
+    "city": "Xiulin",
+    "city_ascii": "Xiulin",
+    "admin_name": "Hualien",
+    "lat": "24.2167",
+    "lng": "121.5333",
+    "id": "1158906306"
+  },
+  {
+    "city": "Linnei",
+    "city_ascii": "Linnei",
+    "admin_name": "Yunlin",
+    "lat": "23.7591",
+    "lng": "120.6184",
+    "id": "1158497555"
+  },
+  {
+    "city": "Beinan",
+    "city_ascii": "Beinan",
+    "admin_name": "Taitung",
+    "lat": "22.7833",
+    "lng": "121.1167",
+    "id": "1158487727"
+  },
+  {
+    "city": "Tongluo",
+    "city_ascii": "Tongluo",
+    "admin_name": "Miaoli",
+    "lat": "24.4833",
+    "lng": "120.7833",
+    "id": "1158194331"
+  },
+  {
+    "city": "Lugu",
+    "city_ascii": "Lugu",
+    "admin_name": "Nantou",
+    "lat": "23.7500",
+    "lng": "120.7330",
+    "id": "1158744613"
+  },
+  {
+    "city": "Linbian",
+    "city_ascii": "Linbian",
+    "admin_name": "Pingtung",
+    "lat": "22.4333",
+    "lng": "120.5167",
+    "id": "1158632383"
+  },
+  {
+    "city": "Xianxi",
+    "city_ascii": "Xianxi",
+    "admin_name": "Changhua",
+    "lat": "24.1334",
+    "lng": "120.4589",
+    "id": "1158894536"
+  },
+  {
+    "city": "Shuili",
+    "city_ascii": "Shuili",
+    "admin_name": "Nantou",
+    "lat": "23.7989",
+    "lng": "120.8553",
+    "id": "1158589365"
+  },
+  {
+    "city": "Zhutian",
+    "city_ascii": "Zhutian",
+    "admin_name": "Pingtung",
+    "lat": "22.5890",
+    "lng": "120.5303",
+    "id": "1158857379"
+  },
+  {
+    "city": "Renai",
+    "city_ascii": "Renai",
+    "admin_name": "Nantou",
+    "lat": "24.0462",
+    "lng": "121.1304",
+    "id": "1158608821"
+  },
+  {
+    "city": "Xinyi",
+    "city_ascii": "Xinyi",
+    "admin_name": "Nantou",
+    "lat": "23.6624",
+    "lng": "121.0157",
+    "id": "1158120220"
+  },
+  {
+    "city": "Zhuolan",
+    "city_ascii": "Zhuolan",
+    "admin_name": "Miaoli",
+    "lat": "24.3222",
+    "lng": "120.8447",
+    "id": "1158259553"
+  },
+  {
+    "city": "Dacheng",
+    "city_ascii": "Dacheng",
+    "admin_name": "Changhua",
+    "lat": "23.8483",
+    "lng": "120.3089",
+    "id": "1158751898"
+  },
+  {
+    "city": "Kanding",
+    "city_ascii": "Kanding",
+    "admin_name": "Pingtung",
+    "lat": "22.5194",
+    "lng": "120.5032",
+    "id": "1158898818"
+  },
+  {
+    "city": "Sanyi",
+    "city_ascii": "Sanyi",
+    "admin_name": "Miaoli",
+    "lat": "24.4167",
+    "lng": "120.7667",
+    "id": "1158612872"
+  },
+  {
+    "city": "Yuchi",
+    "city_ascii": "Yuchi",
+    "admin_name": "Nantou",
+    "lat": "23.9000",
+    "lng": "120.9333",
+    "id": "1158195284"
+  },
+  {
+    "city": "Lucao",
+    "city_ascii": "Lucao",
+    "admin_name": "Chiayi",
+    "lat": "23.4133",
+    "lng": "120.3092",
+    "id": "1158141608"
+  },
+  {
+    "city": "Baoshan",
+    "city_ascii": "Baoshan",
+    "admin_name": "Hsinchu",
+    "lat": "24.7428",
+    "lng": "120.9991",
+    "id": "1158298805"
+  },
+  {
+    "city": "Zhutang",
+    "city_ascii": "Zhutang",
+    "admin_name": "Changhua",
+    "lat": "23.8528",
+    "lng": "120.4114",
+    "id": "1158953082"
+  },
+  {
+    "city": "Ershui",
+    "city_ascii": "Ershui",
+    "admin_name": "Changhua",
+    "lat": "23.8167",
+    "lng": "120.6167",
+    "id": "1158555502"
+  },
+  {
+    "city": "Zhongliao",
+    "city_ascii": "Zhongliao",
+    "admin_name": "Nantou",
+    "lat": "23.9039",
+    "lng": "120.7819",
+    "id": "1158905637"
+  },
+  {
+    "city": "Xikou",
+    "city_ascii": "Xikou",
+    "admin_name": "Chiayi",
+    "lat": "23.5947",
+    "lng": "120.3948",
+    "id": "1158767756"
+  },
+  {
+    "city": "Dongshicuo",
+    "city_ascii": "Dongshicuo",
+    "admin_name": "Yunlin",
+    "lat": "23.7021",
+    "lng": "120.2556",
+    "id": "1158664791"
+  },
+  {
+    "city": "Chenggong",
+    "city_ascii": "Chenggong",
+    "admin_name": "Taitung",
+    "lat": "23.1167",
+    "lng": "121.3500",
+    "id": "1158560266"
+  },
+  {
+    "city": "Dahu",
+    "city_ascii": "Dahu",
+    "admin_name": "Miaoli",
+    "lat": "24.3978",
+    "lng": "120.8486",
+    "id": "1158685093"
+  },
+  {
+    "city": "Hengshan",
+    "city_ascii": "Hengshan",
+    "admin_name": "Hsinchu",
+    "lat": "24.7100",
+    "lng": "121.1369",
+    "id": "1158018380"
+  },
+  {
+    "city": "Baozhong",
+    "city_ascii": "Baozhong",
+    "admin_name": "Yunlin",
+    "lat": "23.6956",
+    "lng": "120.3117",
+    "id": "1158849280"
+  },
+  {
+    "city": "Kuangfu",
+    "city_ascii": "Kuangfu",
+    "admin_name": "Hualien",
+    "lat": "23.6351",
+    "lng": "121.4228",
+    "id": "1158283390"
+  },
+  {
+    "city": "Zaoqiao",
+    "city_ascii": "Zaoqiao",
+    "admin_name": "Miaoli",
+    "lat": "24.6500",
+    "lng": "120.8667",
+    "id": "1158591801"
+  },
+  {
+    "city": "Fanlu",
+    "city_ascii": "Fanlu",
+    "admin_name": "Chiayi",
+    "lat": "23.4494",
+    "lng": "120.6033",
+    "id": "1158910013"
+  },
+  {
+    "city": "Ruisui",
+    "city_ascii": "Ruisui",
+    "admin_name": "Hualien",
+    "lat": "23.4333",
+    "lng": "121.5000",
+    "id": "1158003251"
+  },
+  {
+    "city": "Taimali",
+    "city_ascii": "Taimali",
+    "admin_name": "Taitung",
+    "lat": "22.6167",
+    "lng": "121.0000",
+    "id": "1158802426"
+  },
+  {
+    "city": "Fenglin",
+    "city_ascii": "Fenglin",
+    "admin_name": "Hualien",
+    "lat": "23.7500",
+    "lng": "121.4333",
+    "id": "1158018865"
+  },
+  {
+    "city": "Linluo",
+    "city_ascii": "Linluo",
+    "admin_name": "Pingtung",
+    "lat": "22.6506",
+    "lng": "120.5271",
+    "id": "1158226688"
+  },
+  {
+    "city": "Jiji",
+    "city_ascii": "Jiji",
+    "admin_name": "Nantou",
+    "lat": "23.8300",
+    "lng": "120.7830",
+    "id": "1158172698"
+  },
+  {
+    "city": "Nanzhou",
+    "city_ascii": "Nanzhou",
+    "admin_name": "Pingtung",
+    "lat": "22.4789",
+    "lng": "120.5156",
+    "id": "1158433128"
+  },
+  {
+    "city": "Touwu",
+    "city_ascii": "Touwu",
+    "admin_name": "Miaoli",
+    "lat": "24.5833",
+    "lng": "120.8500",
+    "id": "1158275134"
+  },
+  {
+    "city": "Fuli",
+    "city_ascii": "Fuli",
+    "admin_name": "Hualien",
+    "lat": "23.1333",
+    "lng": "121.2833",
+    "id": "1158634303"
+  },
+  {
+    "city": "Jianshi",
+    "city_ascii": "Jianshi",
+    "admin_name": "Hsinchu",
+    "lat": "24.7053",
+    "lng": "121.2014",
+    "id": "1158994660"
+  },
+  {
+    "city": "Jinshui",
+    "city_ascii": "Jinshui",
+    "admin_name": "Hsinchu",
+    "lat": "24.5761",
+    "lng": "121.3081",
+    "id": "1158329082"
+  },
+  {
+    "city": "Xinpi",
+    "city_ascii": "Xinpi",
+    "admin_name": "Pingtung",
+    "lat": "22.4880",
+    "lng": "120.5814",
+    "id": "1158537415"
+  },
+  {
+    "city": "Nanzhuang",
+    "city_ascii": "Nanzhuang",
+    "admin_name": "Miaoli",
+    "lat": "24.5699",
+    "lng": "121.0157",
+    "id": "1158569080"
+  },
+  {
+    "city": "Beibu",
+    "city_ascii": "Beibu",
+    "admin_name": "Hsinchu",
+    "lat": "24.6639",
+    "lng": "121.0681",
+    "id": "1158656385"
+  },
+  {
+    "city": "Nangan",
+    "city_ascii": "Nangan",
+    "admin_name": "Lienchiang",
+    "lat": "26.1500",
+    "lng": "119.9333",
+    "id": "1158327079"
+  },
+  {
+    "city": "Pingzhen",
+    "city_ascii": "Pingzhen",
+    "admin_name": "Taoyuan",
+    "lat": "24.9439",
+    "lng": "121.2161",
+    "id": "1158047789"
+  },
+  {
+    "city": "Yilan",
+    "city_ascii": "Yilan",
+    "admin_name": "Yilan",
+    "lat": "24.7500",
+    "lng": "121.7500",
+    "id": "1158534780"
+  },
+  {
+    "city": "Zhongli",
+    "city_ascii": "Zhongli",
+    "admin_name": "Taoyuan",
+    "lat": "24.9650",
+    "lng": "121.2168",
+    "id": "1158025380"
+  },
+  {
+    "city": "Yangmei",
+    "city_ascii": "Yangmei",
+    "admin_name": "Taoyuan",
+    "lat": "24.9167",
+    "lng": "121.1500",
+    "id": "1158247880"
+  },
+  {
+    "city": "Banqiao",
+    "city_ascii": "Banqiao",
+    "admin_name": "New Taipei",
+    "lat": "25.0143",
+    "lng": "121.4672",
+    "id": "1158987347"
+  },
+  {
+    "city": "Bade",
+    "city_ascii": "Bade",
+    "admin_name": "Taoyuan",
+    "lat": "24.9575",
+    "lng": "121.2989",
+    "id": "1158126203"
+  }
+]

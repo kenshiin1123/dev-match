@@ -1,0 +1,130 @@
+[
+  {
+    "city": "Malabo",
+    "city_ascii": "Malabo",
+    "admin_name": "Bioko Norte",
+    "lat": "3.7456",
+    "lng": "8.7744",
+    "id": "1226861333"
+  },
+  {
+    "city": "Bata",
+    "city_ascii": "Bata",
+    "admin_name": "Litoral",
+    "lat": "1.8650",
+    "lng": "9.7700",
+    "id": "1226528087"
+  },
+  {
+    "city": "Sevilla de Niefang",
+    "city_ascii": "Sevilla de Niefang",
+    "admin_name": "Centro Sur",
+    "lat": "1.8500",
+    "lng": "10.2500",
+    "id": "1226184611"
+  },
+  {
+    "city": "Ebebiyín",
+    "city_ascii": "Ebebiyin",
+    "admin_name": "Kié-Ntem",
+    "lat": "2.1500",
+    "lng": "11.3167",
+    "id": "1226449195"
+  },
+  {
+    "city": "Santiago de Baney",
+    "city_ascii": "Santiago de Baney",
+    "admin_name": "Bioko Norte",
+    "lat": "3.7000",
+    "lng": "8.9167",
+    "id": "1226687832"
+  },
+  {
+    "city": "Añisoc",
+    "city_ascii": "Anisoc",
+    "admin_name": "Wele-Nzas",
+    "lat": "1.8500",
+    "lng": "10.7667",
+    "id": "1226309663"
+  },
+  {
+    "city": "Bengonbeyene",
+    "city_ascii": "Bengonbeyene",
+    "admin_name": "Wele-Nzas",
+    "lat": "1.6931",
+    "lng": "11.0342",
+    "id": "1226996248"
+  },
+  {
+    "city": "Mbini",
+    "city_ascii": "Mbini",
+    "admin_name": "Litoral",
+    "lat": "1.5833",
+    "lng": "9.6167",
+    "id": "1226662822"
+  },
+  {
+    "city": "Aconibe",
+    "city_ascii": "Aconibe",
+    "admin_name": "Wele-Nzas",
+    "lat": "1.3000",
+    "lng": "10.9333",
+    "id": "1226173790"
+  },
+  {
+    "city": "Rebola",
+    "city_ascii": "Rebola",
+    "admin_name": "Bioko Norte",
+    "lat": "3.7192",
+    "lng": "8.8531",
+    "id": "1226355446"
+  },
+  {
+    "city": "Luba",
+    "city_ascii": "Luba",
+    "admin_name": "Bioko Sur",
+    "lat": "3.4500",
+    "lng": "8.5500",
+    "id": "1226278217"
+  },
+  {
+    "city": "Mongomo",
+    "city_ascii": "Mongomo",
+    "admin_name": "Wele-Nzas",
+    "lat": "1.6287",
+    "lng": "11.3168",
+    "id": "1226565454"
+  },
+  {
+    "city": "Palé",
+    "city_ascii": "Pale",
+    "admin_name": "Annobón",
+    "lat": "-1.4069",
+    "lng": "5.6322",
+    "id": "1226970205"
+  },
+  {
+    "city": "Evinayong",
+    "city_ascii": "Evinayong",
+    "admin_name": "Centro Sur",
+    "lat": "1.4500",
+    "lng": "10.5667",
+    "id": "1226336138"
+  },
+  {
+    "city": "Djibloho",
+    "city_ascii": "Djibloho",
+    "admin_name": "Djibloho",
+    "lat": "1.5889",
+    "lng": "10.8225",
+    "id": "1226998379"
+  },
+  {
+    "city": "Calatrava",
+    "city_ascii": "Calatrava",
+    "admin_name": "Litoral",
+    "lat": "1.1164",
+    "lng": "9.4186",
+    "id": "1226322426"
+  }
+]

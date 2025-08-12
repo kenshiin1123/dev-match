@@ -1,0 +1,202 @@
+[
+  {
+    "city": "Tbilisi",
+    "city_ascii": "Tbilisi",
+    "admin_name": "Tbilisi",
+    "lat": "41.7225",
+    "lng": "44.7925",
+    "id": "1268203191"
+  },
+  {
+    "city": "Batumi",
+    "city_ascii": "Batumi",
+    "admin_name": "Ajaria",
+    "lat": "41.6458",
+    "lng": "41.6417",
+    "id": "1268193611"
+  },
+  {
+    "city": "Kutaisi",
+    "city_ascii": "Kutaisi",
+    "admin_name": "Imereti",
+    "lat": "42.2717",
+    "lng": "42.7056",
+    "id": "1268369835"
+  },
+  {
+    "city": "Rustavi",
+    "city_ascii": "Rustavi",
+    "admin_name": "Kvemo Kartli",
+    "lat": "41.5436",
+    "lng": "45.0117",
+    "id": "1268562807"
+  },
+  {
+    "city": "Sokhumi",
+    "city_ascii": "Sokhumi",
+    "admin_name": "Abkhazia",
+    "lat": "43.0000",
+    "lng": "41.0167",
+    "id": "1268394475"
+  },
+  {
+    "city": "Iormughanlo",
+    "city_ascii": "Iormughanlo",
+    "admin_name": "K’akheti",
+    "lat": "41.5999",
+    "lng": "45.5278",
+    "id": "1268988289"
+  },
+  {
+    "city": "Gori",
+    "city_ascii": "Gori",
+    "admin_name": "Shida Kartli",
+    "lat": "41.9817",
+    "lng": "44.1124",
+    "id": "1268442763"
+  },
+  {
+    "city": "Poti",
+    "city_ascii": "Poti",
+    "admin_name": "Samegrelo-Zemo Svaneti",
+    "lat": "42.1500",
+    "lng": "41.6667",
+    "id": "1268764439"
+  },
+  {
+    "city": "Zugdidi",
+    "city_ascii": "Zugdidi",
+    "admin_name": "Samegrelo-Zemo Svaneti",
+    "lat": "42.5081",
+    "lng": "41.8725",
+    "id": "1268300325"
+  },
+  {
+    "city": "Tskhinvali",
+    "city_ascii": "Tskhinvali",
+    "admin_name": "Shida Kartli",
+    "lat": "42.2257",
+    "lng": "43.9701",
+    "id": "1268142653"
+  },
+  {
+    "city": "Kobuleti",
+    "city_ascii": "Kobuleti",
+    "admin_name": "Ajaria",
+    "lat": "41.8214",
+    "lng": "41.7792",
+    "id": "1268789492"
+  },
+  {
+    "city": "Marneuli",
+    "city_ascii": "Marneuli",
+    "admin_name": "Kvemo Kartli",
+    "lat": "41.4872",
+    "lng": "44.7981",
+    "id": "1268246632"
+  },
+  {
+    "city": "Khashuri",
+    "city_ascii": "Khashuri",
+    "admin_name": "Shida Kartli",
+    "lat": "41.9975",
+    "lng": "43.5986",
+    "id": "1268805813"
+  },
+  {
+    "city": "Samtredia",
+    "city_ascii": "Samtredia",
+    "admin_name": "Imereti",
+    "lat": "42.1625",
+    "lng": "42.3417",
+    "id": "1268722261"
+  },
+  {
+    "city": "Senaki",
+    "city_ascii": "Senaki",
+    "admin_name": "Samegrelo-Zemo Svaneti",
+    "lat": "42.2689",
+    "lng": "42.0678",
+    "id": "1268594062"
+  },
+  {
+    "city": "Zest’aponi",
+    "city_ascii": "Zest'aponi",
+    "admin_name": "Imereti",
+    "lat": "42.1092",
+    "lng": "43.0360",
+    "id": "1268512465"
+  },
+  {
+    "city": "Telavi",
+    "city_ascii": "Telavi",
+    "admin_name": "K’akheti",
+    "lat": "41.9169",
+    "lng": "45.4764",
+    "id": "1268806987"
+  },
+  {
+    "city": "Chiatura",
+    "city_ascii": "Chiatura",
+    "admin_name": "Imereti",
+    "lat": "42.2894",
+    "lng": "43.2836",
+    "id": "1268109210"
+  },
+  {
+    "city": "Kaspi",
+    "city_ascii": "Kaspi",
+    "admin_name": "Shida Kartli",
+    "lat": "41.9244",
+    "lng": "44.4189",
+    "id": "1268997310"
+  },
+  {
+    "city": "Borjomi",
+    "city_ascii": "Borjomi",
+    "admin_name": "Samtskhe-Javakheti",
+    "lat": "41.8417",
+    "lng": "43.3828",
+    "id": "1268485704"
+  },
+  {
+    "city": "Sagarejo",
+    "city_ascii": "Sagarejo",
+    "admin_name": "K’akheti",
+    "lat": "41.7369",
+    "lng": "45.3258",
+    "id": "1268647899"
+  },
+  {
+    "city": "Akhaltsikhe",
+    "city_ascii": "Akhaltsikhe",
+    "admin_name": "Samtskhe-Javakheti",
+    "lat": "41.6389",
+    "lng": "42.9861",
+    "id": "1268352935"
+  },
+  {
+    "city": "Mtskheta",
+    "city_ascii": "Mtskheta",
+    "admin_name": "Mtskheta Mtianeti",
+    "lat": "41.8431",
+    "lng": "44.7194",
+    "id": "1268173120"
+  },
+  {
+    "city": "Ambrolauri",
+    "city_ascii": "Ambrolauri",
+    "admin_name": "Rach’a-Lechkhumi da Kvemo Svaneti",
+    "lat": "42.5194",
+    "lng": "43.1500",
+    "id": "1268370586"
+  },
+  {
+    "city": "Ozurgeti",
+    "city_ascii": "Ozurgeti",
+    "admin_name": "Guria",
+    "lat": "41.9230",
+    "lng": "42.0050",
+    "id": "1268276279"
+  }
+]

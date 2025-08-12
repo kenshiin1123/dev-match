@@ -1,0 +1,74 @@
+[
+  {
+    "city": "Suva",
+    "city_ascii": "Suva",
+    "admin_name": "Rewa",
+    "lat": "-18.1333",
+    "lng": "178.4333",
+    "id": "1242615095"
+  },
+  {
+    "city": "Nadi",
+    "city_ascii": "Nadi",
+    "admin_name": "Ba",
+    "lat": "-17.8000",
+    "lng": "177.4167",
+    "id": "1242357822"
+  },
+  {
+    "city": "Nausori",
+    "city_ascii": "Nausori",
+    "admin_name": "Tailevu",
+    "lat": "-18.0244",
+    "lng": "178.5454",
+    "id": "1242640119"
+  },
+  {
+    "city": "Lautoka",
+    "city_ascii": "Lautoka",
+    "admin_name": "Ba",
+    "lat": "-17.6242",
+    "lng": "177.4528",
+    "id": "1242457077"
+  },
+  {
+    "city": "Labasa",
+    "city_ascii": "Labasa",
+    "admin_name": "Macuata",
+    "lat": "-16.4333",
+    "lng": "179.3667",
+    "id": "1242740801"
+  },
+  {
+    "city": "Lami",
+    "city_ascii": "Lami",
+    "admin_name": "Rewa",
+    "lat": "-18.1167",
+    "lng": "178.4167",
+    "id": "1242263735"
+  },
+  {
+    "city": "Nakasi",
+    "city_ascii": "Nakasi",
+    "admin_name": "Naitasiri",
+    "lat": "-18.0708",
+    "lng": "178.5214",
+    "id": "1242908509"
+  },
+  {
+    "city": "Ba",
+    "city_ascii": "Ba",
+    "admin_name": "Ba",
+    "lat": "-17.5333",
+    "lng": "177.6833",
+    "id": "1242193764"
+  },
+  {
+    "city": "Sigatoka",
+    "city_ascii": "Sigatoka",
+    "admin_name": "Nadroga and Navosa",
+    "lat": "-18.1500",
+    "lng": "177.5000",
+    "id": "1242813237"
+  }
+]

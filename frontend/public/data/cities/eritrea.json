@@ -1,0 +1,130 @@
+[
+  {
+    "city": "Asmara",
+    "city_ascii": "Asmara",
+    "admin_name": "Ma’ĭkel",
+    "lat": "15.3358",
+    "lng": "38.9411",
+    "id": "1232791236"
+  },
+  {
+    "city": "Keren",
+    "city_ascii": "Keren",
+    "admin_name": "‘Anseba",
+    "lat": "15.7778",
+    "lng": "38.4581",
+    "id": "1232693598"
+  },
+  {
+    "city": "Gwelej",
+    "city_ascii": "Gwelej",
+    "admin_name": "Gash-Barka",
+    "lat": "14.7500",
+    "lng": "36.7167",
+    "id": "1232869245"
+  },
+  {
+    "city": "Assab",
+    "city_ascii": "Assab",
+    "admin_name": "Debubawi K’eyyĭḥ Baḥri",
+    "lat": "13.0078",
+    "lng": "42.7411",
+    "id": "1232396238"
+  },
+  {
+    "city": "Massawa",
+    "city_ascii": "Massawa",
+    "admin_name": "Semienawi K’eyyĭḥ Baḥri",
+    "lat": "15.6097",
+    "lng": "39.4500",
+    "id": "1232344222"
+  },
+  {
+    "city": "Mendefera",
+    "city_ascii": "Mendefera",
+    "admin_name": "Debub",
+    "lat": "14.8833",
+    "lng": "38.8167",
+    "id": "1232751882"
+  },
+  {
+    "city": "Dbarwa",
+    "city_ascii": "Dbarwa",
+    "admin_name": "Debub",
+    "lat": "15.1000",
+    "lng": "38.8333",
+    "id": "1232218993"
+  },
+  {
+    "city": "Barentu",
+    "city_ascii": "Barentu",
+    "admin_name": "Gash-Barka",
+    "lat": "15.1167",
+    "lng": "37.6000",
+    "id": "1232695352"
+  },
+  {
+    "city": "Bēylul",
+    "city_ascii": "Beylul",
+    "admin_name": "Debubawi K’eyyĭḥ Baḥri",
+    "lat": "13.2639",
+    "lng": "42.3347",
+    "id": "1232983964"
+  },
+  {
+    "city": "Adi Keyh",
+    "city_ascii": "Adi Keyh",
+    "admin_name": "Ma’ĭkel",
+    "lat": "14.8333",
+    "lng": "39.3667",
+    "id": "1232384326"
+  },
+  {
+    "city": "Ghinda’e",
+    "city_ascii": "Ghinda'e",
+    "admin_name": "Semienawi K’eyyĭḥ Baḥri",
+    "lat": "15.4500",
+    "lng": "39.0833",
+    "id": "1232629758"
+  },
+  {
+    "city": "Edd",
+    "city_ascii": "Edd",
+    "admin_name": "Debubawi K’eyyĭḥ Baḥri",
+    "lat": "13.9333",
+    "lng": "41.7000",
+    "id": "1232211688"
+  },
+  {
+    "city": "Dek’emhāre",
+    "city_ascii": "Dek'emhare",
+    "admin_name": "Debub",
+    "lat": "15.0667",
+    "lng": "39.0333",
+    "id": "1232763839"
+  },
+  {
+    "city": "Ak’ordat",
+    "city_ascii": "Ak'ordat",
+    "admin_name": "Gash-Barka",
+    "lat": "15.5500",
+    "lng": "37.8833",
+    "id": "1232800240"
+  },
+  {
+    "city": "Nefasīt",
+    "city_ascii": "Nefasit",
+    "admin_name": "Semienawi K’eyyĭḥ Baḥri",
+    "lat": "15.3333",
+    "lng": "39.0619",
+    "id": "1232567577"
+  },
+  {
+    "city": "Teseney",
+    "city_ascii": "Teseney",
+    "admin_name": "Gash-Barka",
+    "lat": "15.1100",
+    "lng": "36.6575",
+    "id": "1232609825"
+  }
+]

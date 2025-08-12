@@ -1,0 +1,330 @@
+[
+  {
+    "city": "Lusaka",
+    "city_ascii": "Lusaka",
+    "admin_name": "Lusaka",
+    "lat": "-15.4167",
+    "lng": "28.2833",
+    "id": "1894157390"
+  },
+  {
+    "city": "Kitwe",
+    "city_ascii": "Kitwe",
+    "admin_name": "Copperbelt",
+    "lat": "-12.8167",
+    "lng": "28.2000",
+    "id": "1894321752"
+  },
+  {
+    "city": "Ndola",
+    "city_ascii": "Ndola",
+    "admin_name": "Copperbelt",
+    "lat": "-12.9689",
+    "lng": "28.6325",
+    "id": "1894032745"
+  },
+  {
+    "city": "Chipata",
+    "city_ascii": "Chipata",
+    "admin_name": "Eastern",
+    "lat": "-13.6453",
+    "lng": "32.6464",
+    "id": "1894816262"
+  },
+  {
+    "city": "Kabwe",
+    "city_ascii": "Kabwe",
+    "admin_name": "Central",
+    "lat": "-14.4333",
+    "lng": "28.4500",
+    "id": "1894711746"
+  },
+  {
+    "city": "Chingola",
+    "city_ascii": "Chingola",
+    "admin_name": "Copperbelt",
+    "lat": "-12.5333",
+    "lng": "27.8500",
+    "id": "1894202007"
+  },
+  {
+    "city": "Kafue",
+    "city_ascii": "Kafue",
+    "admin_name": "Lusaka",
+    "lat": "-15.7667",
+    "lng": "28.1833",
+    "id": "1894930695"
+  },
+  {
+    "city": "Mongu",
+    "city_ascii": "Mongu",
+    "admin_name": "Western",
+    "lat": "-15.2775",
+    "lng": "23.1319",
+    "id": "1894761291"
+  },
+  {
+    "city": "Luanshya",
+    "city_ascii": "Luanshya",
+    "admin_name": "Copperbelt",
+    "lat": "-13.1333",
+    "lng": "28.4000",
+    "id": "1894410334"
+  },
+  {
+    "city": "Mufulira",
+    "city_ascii": "Mufulira",
+    "admin_name": "Copperbelt",
+    "lat": "-12.5356",
+    "lng": "28.2419",
+    "id": "1894907880"
+  },
+  {
+    "city": "Kashikishi",
+    "city_ascii": "Kashikishi",
+    "admin_name": "Luapula",
+    "lat": "-9.3000",
+    "lng": "28.7167",
+    "id": "1894795016"
+  },
+  {
+    "city": "Nchelenge",
+    "city_ascii": "Nchelenge",
+    "admin_name": "Luapula",
+    "lat": "-9.3533",
+    "lng": "28.7403",
+    "id": "1894890604"
+  },
+  {
+    "city": "Livingstone",
+    "city_ascii": "Livingstone",
+    "admin_name": "Southern",
+    "lat": "-17.8500",
+    "lng": "25.8667",
+    "id": "1894634581"
+  },
+  {
+    "city": "Mansa",
+    "city_ascii": "Mansa",
+    "admin_name": "Luapula",
+    "lat": "-11.2000",
+    "lng": "28.8833",
+    "id": "1894038366"
+  },
+  {
+    "city": "Bwana Mkubwa",
+    "city_ascii": "Bwana Mkubwa",
+    "admin_name": "Copperbelt",
+    "lat": "-12.9833",
+    "lng": "28.7000",
+    "id": "1894858787"
+  },
+  {
+    "city": "Kasempa",
+    "city_ascii": "Kasempa",
+    "admin_name": "North-Western",
+    "lat": "-13.4550",
+    "lng": "25.8350",
+    "id": "1894152710"
+  },
+  {
+    "city": "Kasama",
+    "city_ascii": "Kasama",
+    "admin_name": "Northern",
+    "lat": "-10.2117",
+    "lng": "31.1783",
+    "id": "1894305215"
+  },
+  {
+    "city": "Mporokoso",
+    "city_ascii": "Mporokoso",
+    "admin_name": "Northern",
+    "lat": "-9.3833",
+    "lng": "30.1000",
+    "id": "1894882927"
+  },
+  {
+    "city": "Solwezi",
+    "city_ascii": "Solwezi",
+    "admin_name": "North-Western",
+    "lat": "-12.1433",
+    "lng": "26.3858",
+    "id": "1894777820"
+  },
+  {
+    "city": "Chililabombwe",
+    "city_ascii": "Chililabombwe",
+    "admin_name": "Copperbelt",
+    "lat": "-12.3667",
+    "lng": "27.8278",
+    "id": "1894950283"
+  },
+  {
+    "city": "Chirundu",
+    "city_ascii": "Chirundu",
+    "admin_name": "Southern",
+    "lat": "-16.0500",
+    "lng": "28.8333",
+    "id": "1894856417"
+  },
+  {
+    "city": "Mazabuka",
+    "city_ascii": "Mazabuka",
+    "admin_name": "Southern",
+    "lat": "-15.8467",
+    "lng": "27.7475",
+    "id": "1894390715"
+  },
+  {
+    "city": "Choma",
+    "city_ascii": "Choma",
+    "admin_name": "Southern",
+    "lat": "-16.7711",
+    "lng": "26.9922",
+    "id": "1894419971"
+  },
+  {
+    "city": "Mpika",
+    "city_ascii": "Mpika",
+    "admin_name": "Muchinga",
+    "lat": "-11.8300",
+    "lng": "31.4600",
+    "id": "1894224372"
+  },
+  {
+    "city": "Kawambwa",
+    "city_ascii": "Kawambwa",
+    "admin_name": "Luapula",
+    "lat": "-9.7914",
+    "lng": "29.0789",
+    "id": "1894964184"
+  },
+  {
+    "city": "Mbala",
+    "city_ascii": "Mbala",
+    "admin_name": "Northern",
+    "lat": "-8.8333",
+    "lng": "31.3833",
+    "id": "1894671312"
+  },
+  {
+    "city": "Sesheke",
+    "city_ascii": "Sesheke",
+    "admin_name": "Western",
+    "lat": "-17.4667",
+    "lng": "24.3000",
+    "id": "1894753767"
+  },
+  {
+    "city": "Mumbwa",
+    "city_ascii": "Mumbwa",
+    "admin_name": "Central",
+    "lat": "-14.9853",
+    "lng": "27.0619",
+    "id": "1894568812"
+  },
+  {
+    "city": "Mwinilunga",
+    "city_ascii": "Mwinilunga",
+    "admin_name": "North-Western",
+    "lat": "-11.7172",
+    "lng": "24.4289",
+    "id": "1894210586"
+  },
+  {
+    "city": "Chinsali",
+    "city_ascii": "Chinsali",
+    "admin_name": "Muchinga",
+    "lat": "-10.5522",
+    "lng": "32.0692",
+    "id": "1894041491"
+  },
+  {
+    "city": "Kapiri Mposhi",
+    "city_ascii": "Kapiri Mposhi",
+    "admin_name": "Central",
+    "lat": "-13.9772",
+    "lng": "28.6847",
+    "id": "1894676779"
+  },
+  {
+    "city": "Kaoma",
+    "city_ascii": "Kaoma",
+    "admin_name": "Western",
+    "lat": "-14.8000",
+    "lng": "24.8000",
+    "id": "1894846267"
+  },
+  {
+    "city": "Chifubu",
+    "city_ascii": "Chifubu",
+    "admin_name": "Copperbelt",
+    "lat": "-12.9333",
+    "lng": "28.6167",
+    "id": "1894511606"
+  },
+  {
+    "city": "Chilonga",
+    "city_ascii": "Chilonga",
+    "admin_name": "Muchinga",
+    "lat": "-12.0244",
+    "lng": "31.3364",
+    "id": "1894544626"
+  },
+  {
+    "city": "Lundazi",
+    "city_ascii": "Lundazi",
+    "admin_name": "Eastern",
+    "lat": "-12.3000",
+    "lng": "33.1833",
+    "id": "1894277247"
+  },
+  {
+    "city": "Nakonde",
+    "city_ascii": "Nakonde",
+    "admin_name": "Muchinga",
+    "lat": "-9.3314",
+    "lng": "32.7548",
+    "id": "1894139781"
+  },
+  {
+    "city": "Senanga",
+    "city_ascii": "Senanga",
+    "admin_name": "Western",
+    "lat": "-16.1167",
+    "lng": "23.2667",
+    "id": "1894742251"
+  },
+  {
+    "city": "Kalabo",
+    "city_ascii": "Kalabo",
+    "admin_name": "Western",
+    "lat": "-14.9911",
+    "lng": "22.6789",
+    "id": "1894966417"
+  },
+  {
+    "city": "Zambezi",
+    "city_ascii": "Zambezi",
+    "admin_name": "North-Western",
+    "lat": "-13.5500",
+    "lng": "23.1167",
+    "id": "1894660797"
+  },
+  {
+    "city": "Lukulu",
+    "city_ascii": "Lukulu",
+    "admin_name": "Western",
+    "lat": "-14.4083",
+    "lng": "23.2667",
+    "id": "1894281443"
+  },
+  {
+    "city": "Nyimba",
+    "city_ascii": "Nyimba",
+    "admin_name": "Eastern",
+    "lat": "-14.5495",
+    "lng": "30.8100",
+    "id": "1894088472"
+  }
+]

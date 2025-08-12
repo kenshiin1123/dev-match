@@ -1,0 +1,314 @@
+[
+  {
+    "city": "Harare",
+    "city_ascii": "Harare",
+    "admin_name": "Harare",
+    "lat": "-17.8292",
+    "lng": "31.0522",
+    "id": "1716196799"
+  },
+  {
+    "city": "Bulawayo",
+    "city_ascii": "Bulawayo",
+    "admin_name": "Bulawayo",
+    "lat": "-20.1700",
+    "lng": "28.5800",
+    "id": "1716032632"
+  },
+  {
+    "city": "Chitungwiza",
+    "city_ascii": "Chitungwiza",
+    "admin_name": "Harare",
+    "lat": "-17.9939",
+    "lng": "31.0481",
+    "id": "1716688236"
+  },
+  {
+    "city": "Mutare",
+    "city_ascii": "Mutare",
+    "admin_name": "Manicaland",
+    "lat": "-18.9667",
+    "lng": "32.6333",
+    "id": "1716060405"
+  },
+  {
+    "city": "Gweru",
+    "city_ascii": "Gweru",
+    "admin_name": "Midlands",
+    "lat": "-19.4614",
+    "lng": "29.8022",
+    "id": "1716621481"
+  },
+  {
+    "city": "Kwekwe",
+    "city_ascii": "Kwekwe",
+    "admin_name": "Midlands",
+    "lat": "-18.9167",
+    "lng": "29.8167",
+    "id": "1716327793"
+  },
+  {
+    "city": "Kadoma",
+    "city_ascii": "Kadoma",
+    "admin_name": "Mashonaland West",
+    "lat": "-18.3400",
+    "lng": "29.9000",
+    "id": "1716398005"
+  },
+  {
+    "city": "Nkayi",
+    "city_ascii": "Nkayi",
+    "admin_name": "Matabeleland North",
+    "lat": "-19.0000",
+    "lng": "28.9000",
+    "id": "1716871686"
+  },
+  {
+    "city": "Ruwa",
+    "city_ascii": "Ruwa",
+    "admin_name": "Mashonaland East",
+    "lat": "-17.8897",
+    "lng": "31.2447",
+    "id": "1716489136"
+  },
+  {
+    "city": "Chinhoyi",
+    "city_ascii": "Chinhoyi",
+    "admin_name": "Mashonaland West",
+    "lat": "-17.3497",
+    "lng": "30.1944",
+    "id": "1716523245"
+  },
+  {
+    "city": "Masvingo",
+    "city_ascii": "Masvingo",
+    "admin_name": "Masvingo",
+    "lat": "-20.0744",
+    "lng": "30.8328",
+    "id": "1716049475"
+  },
+  {
+    "city": "Norton",
+    "city_ascii": "Norton",
+    "admin_name": "Mashonaland West",
+    "lat": "-17.8833",
+    "lng": "30.7000",
+    "id": "1716209195"
+  },
+  {
+    "city": "Marondera",
+    "city_ascii": "Marondera",
+    "admin_name": "Mashonaland East",
+    "lat": "-18.1897",
+    "lng": "31.5467",
+    "id": "1716375676"
+  },
+  {
+    "city": "Chegutu",
+    "city_ascii": "Chegutu",
+    "admin_name": "Mashonaland West",
+    "lat": "-18.1400",
+    "lng": "30.1500",
+    "id": "1716242569"
+  },
+  {
+    "city": "Zvishavane",
+    "city_ascii": "Zvishavane",
+    "admin_name": "Masvingo",
+    "lat": "-20.3333",
+    "lng": "30.0333",
+    "id": "1716895095"
+  },
+  {
+    "city": "Beitbridge",
+    "city_ascii": "Beitbridge",
+    "admin_name": "Matabeleland South",
+    "lat": "-22.2167",
+    "lng": "30.0000",
+    "id": "1716929295"
+  },
+  {
+    "city": "Bindura",
+    "city_ascii": "Bindura",
+    "admin_name": "Mashonaland Central",
+    "lat": "-17.3000",
+    "lng": "31.3333",
+    "id": "1716331687"
+  },
+  {
+    "city": "Sakubva",
+    "city_ascii": "Sakubva",
+    "admin_name": "Manicaland",
+    "lat": "-18.9833",
+    "lng": "32.6500",
+    "id": "1716474556"
+  },
+  {
+    "city": "Redcliff",
+    "city_ascii": "Redcliff",
+    "admin_name": "Midlands",
+    "lat": "-19.0333",
+    "lng": "29.7833",
+    "id": "1716966753"
+  },
+  {
+    "city": "Chiredzi",
+    "city_ascii": "Chiredzi",
+    "admin_name": "Masvingo",
+    "lat": "-21.0389",
+    "lng": "31.6778",
+    "id": "1716636761"
+  },
+  {
+    "city": "Rusape",
+    "city_ascii": "Rusape",
+    "admin_name": "Manicaland",
+    "lat": "-18.5367",
+    "lng": "32.1247",
+    "id": "1716672253"
+  },
+  {
+    "city": "Victoria Falls",
+    "city_ascii": "Victoria Falls",
+    "admin_name": "Matabeleland North",
+    "lat": "-17.9333",
+    "lng": "25.8333",
+    "id": "1716149447"
+  },
+  {
+    "city": "Chipinge",
+    "city_ascii": "Chipinge",
+    "admin_name": "Manicaland",
+    "lat": "-20.2000",
+    "lng": "32.6200",
+    "id": "1716863573"
+  },
+  {
+    "city": "Karoi",
+    "city_ascii": "Karoi",
+    "admin_name": "Mashonaland West",
+    "lat": "-16.8100",
+    "lng": "29.7000",
+    "id": "1716627056"
+  },
+  {
+    "city": "Mukumbura",
+    "city_ascii": "Mukumbura",
+    "admin_name": "Mashonaland Central",
+    "lat": "-16.2000",
+    "lng": "31.6833",
+    "id": "1716579075"
+  },
+  {
+    "city": "Kariba",
+    "city_ascii": "Kariba",
+    "admin_name": "Mashonaland West",
+    "lat": "-16.5167",
+    "lng": "28.8000",
+    "id": "1716563536"
+  },
+  {
+    "city": "Gwanda",
+    "city_ascii": "Gwanda",
+    "admin_name": "Matabeleland South",
+    "lat": "-20.9389",
+    "lng": "29.0186",
+    "id": "1716612305"
+  },
+  {
+    "city": "Shurugwi",
+    "city_ascii": "Shurugwi",
+    "admin_name": "Midlands",
+    "lat": "-19.6667",
+    "lng": "30.0000",
+    "id": "1716870364"
+  },
+  {
+    "city": "Hwange",
+    "city_ascii": "Hwange",
+    "admin_name": "Matabeleland North",
+    "lat": "-18.3647",
+    "lng": "26.5000",
+    "id": "1716416748"
+  },
+  {
+    "city": "Murehwa",
+    "city_ascii": "Murehwa",
+    "admin_name": "Mashonaland East",
+    "lat": "-17.6500",
+    "lng": "31.7833",
+    "id": "1716334846"
+  },
+  {
+    "city": "Mvurwi",
+    "city_ascii": "Mvurwi",
+    "admin_name": "Mashonaland Central",
+    "lat": "-17.0167",
+    "lng": "30.8500",
+    "id": "1716745701"
+  },
+  {
+    "city": "Kezi",
+    "city_ascii": "Kezi",
+    "admin_name": "Matabeleland South",
+    "lat": "-20.9167",
+    "lng": "28.4667",
+    "id": "1716107111"
+  },
+  {
+    "city": "Plumtree",
+    "city_ascii": "Plumtree",
+    "admin_name": "Matabeleland South",
+    "lat": "-20.4781",
+    "lng": "27.7972",
+    "id": "1716916272"
+  },
+  {
+    "city": "Mutoko",
+    "city_ascii": "Mutoko",
+    "admin_name": "Mashonaland East",
+    "lat": "-17.4000",
+    "lng": "32.2167",
+    "id": "1716834609"
+  },
+  {
+    "city": "Mhangura",
+    "city_ascii": "Mhangura",
+    "admin_name": "Mashonaland West",
+    "lat": "-16.9000",
+    "lng": "30.1500",
+    "id": "1716361764"
+  },
+  {
+    "city": "Chivhu",
+    "city_ascii": "Chivhu",
+    "admin_name": "Mashonaland East",
+    "lat": "-19.0000",
+    "lng": "30.9000",
+    "id": "1716626042"
+  },
+  {
+    "city": "Mazoe",
+    "city_ascii": "Mazoe",
+    "admin_name": "Mashonaland Central",
+    "lat": "-17.5167",
+    "lng": "30.9667",
+    "id": "1716608716"
+  },
+  {
+    "city": "Shamva",
+    "city_ascii": "Shamva",
+    "admin_name": "Mashonaland Central",
+    "lat": "-17.3167",
+    "lng": "31.5500",
+    "id": "1716210091"
+  },
+  {
+    "city": "Lupane",
+    "city_ascii": "Lupane",
+    "admin_name": "Matabeleland North",
+    "lat": "-18.9315",
+    "lng": "27.8070",
+    "id": "1716206606"
+  }
+]

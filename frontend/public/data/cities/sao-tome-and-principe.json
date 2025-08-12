@@ -1,0 +1,58 @@
+[
+  {
+    "city": "São Tomé",
+    "city_ascii": "Sao Tome",
+    "admin_name": "Água Grande",
+    "lat": "0.3361",
+    "lng": "6.7306",
+    "id": "1678301324"
+  },
+  {
+    "city": "Trindade",
+    "city_ascii": "Trindade",
+    "admin_name": "Mé-Zóchi",
+    "lat": "0.3000",
+    "lng": "6.6833",
+    "id": "1678096936"
+  },
+  {
+    "city": "Santana",
+    "city_ascii": "Santana",
+    "admin_name": "Cantagalo",
+    "lat": "0.2583",
+    "lng": "6.7417",
+    "id": "1678081464"
+  },
+  {
+    "city": "Neves",
+    "city_ascii": "Neves",
+    "admin_name": "Lembá",
+    "lat": "0.3592",
+    "lng": "6.5517",
+    "id": "1678563060"
+  },
+  {
+    "city": "Guadalupe",
+    "city_ascii": "Guadalupe",
+    "admin_name": "Lobata",
+    "lat": "0.3800",
+    "lng": "6.6381",
+    "id": "1678998597"
+  },
+  {
+    "city": "São João dos Angolares",
+    "city_ascii": "Sao Joao dos Angolares",
+    "admin_name": "Caué",
+    "lat": "0.1333",
+    "lng": "6.6500",
+    "id": "1678826533"
+  },
+  {
+    "city": "Santo António",
+    "city_ascii": "Santo Antonio",
+    "admin_name": "Príncipe",
+    "lat": "1.6367",
+    "lng": "7.4178",
+    "id": "1678729743"
+  }
+]

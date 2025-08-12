@@ -1,0 +1,850 @@
+[
+  {
+    "city": "Vienna",
+    "city_ascii": "Vienna",
+    "admin_name": "Wien",
+    "lat": "48.2083",
+    "lng": "16.3725",
+    "id": "1040261752"
+  },
+  {
+    "city": "Graz",
+    "city_ascii": "Graz",
+    "admin_name": "Steiermark",
+    "lat": "47.0708",
+    "lng": "15.4386",
+    "id": "1040184559"
+  },
+  {
+    "city": "Linz",
+    "city_ascii": "Linz",
+    "admin_name": "Oberösterreich",
+    "lat": "48.3058",
+    "lng": "14.2864",
+    "id": "1040261171"
+  },
+  {
+    "city": "Lochau",
+    "city_ascii": "Lochau",
+    "admin_name": "Vorarlberg",
+    "lat": "47.5167",
+    "lng": "9.7500",
+    "id": "1040573398"
+  },
+  {
+    "city": "Salzburg",
+    "city_ascii": "Salzburg",
+    "admin_name": "Salzburg",
+    "lat": "47.8000",
+    "lng": "13.0450",
+    "id": "1040312147"
+  },
+  {
+    "city": "Innsbruck",
+    "city_ascii": "Innsbruck",
+    "admin_name": "Tirol",
+    "lat": "47.2683",
+    "lng": "11.3933",
+    "id": "1040038924"
+  },
+  {
+    "city": "Klagenfurt",
+    "city_ascii": "Klagenfurt",
+    "admin_name": "Kärnten",
+    "lat": "46.6167",
+    "lng": "14.3000",
+    "id": "1040149651"
+  },
+  {
+    "city": "Wels",
+    "city_ascii": "Wels",
+    "admin_name": "Oberösterreich",
+    "lat": "48.1500",
+    "lng": "14.0167",
+    "id": "1040833210"
+  },
+  {
+    "city": "Villach",
+    "city_ascii": "Villach",
+    "admin_name": "Kärnten",
+    "lat": "46.6167",
+    "lng": "13.8500",
+    "id": "1040202364"
+  },
+  {
+    "city": "Sankt Pölten",
+    "city_ascii": "Sankt Polten",
+    "admin_name": "Niederösterreich",
+    "lat": "48.2000",
+    "lng": "15.6167",
+    "id": "1040313109"
+  },
+  {
+    "city": "Krems an der Donau",
+    "city_ascii": "Krems an der Donau",
+    "admin_name": "Niederösterreich",
+    "lat": "48.4167",
+    "lng": "15.6167",
+    "id": "1040577668"
+  },
+  {
+    "city": "Dornbirn",
+    "city_ascii": "Dornbirn",
+    "admin_name": "Vorarlberg",
+    "lat": "47.4139",
+    "lng": "9.7444",
+    "id": "1040508998"
+  },
+  {
+    "city": "Wiener Neustadt",
+    "city_ascii": "Wiener Neustadt",
+    "admin_name": "Niederösterreich",
+    "lat": "47.8089",
+    "lng": "16.2325",
+    "id": "1040389518"
+  },
+  {
+    "city": "Steyr",
+    "city_ascii": "Steyr",
+    "admin_name": "Oberösterreich",
+    "lat": "48.0333",
+    "lng": "14.4167",
+    "id": "1040132113"
+  },
+  {
+    "city": "Feldkirch",
+    "city_ascii": "Feldkirch",
+    "admin_name": "Vorarlberg",
+    "lat": "47.2381",
+    "lng": "9.5983",
+    "id": "1040999967"
+  },
+  {
+    "city": "Bregenz",
+    "city_ascii": "Bregenz",
+    "admin_name": "Vorarlberg",
+    "lat": "47.5050",
+    "lng": "9.7492",
+    "id": "1040174258"
+  },
+  {
+    "city": "Leonding",
+    "city_ascii": "Leonding",
+    "admin_name": "Oberösterreich",
+    "lat": "48.2667",
+    "lng": "14.2500",
+    "id": "1040991026"
+  },
+  {
+    "city": "Klosterneuburg",
+    "city_ascii": "Klosterneuburg",
+    "admin_name": "Niederösterreich",
+    "lat": "48.3042",
+    "lng": "16.3167",
+    "id": "1040735965"
+  },
+  {
+    "city": "Baden",
+    "city_ascii": "Baden",
+    "admin_name": "Niederösterreich",
+    "lat": "48.0075",
+    "lng": "16.2344",
+    "id": "1040765350"
+  },
+  {
+    "city": "Wolfsberg",
+    "city_ascii": "Wolfsberg",
+    "admin_name": "Kärnten",
+    "lat": "46.8500",
+    "lng": "14.8333",
+    "id": "1040360550"
+  },
+  {
+    "city": "Leoben",
+    "city_ascii": "Leoben",
+    "admin_name": "Steiermark",
+    "lat": "47.3817",
+    "lng": "15.0972",
+    "id": "1040591429"
+  },
+  {
+    "city": "Traun",
+    "city_ascii": "Traun",
+    "admin_name": "Oberösterreich",
+    "lat": "48.2217",
+    "lng": "14.2397",
+    "id": "1040684469"
+  },
+  {
+    "city": "Lustenau",
+    "city_ascii": "Lustenau",
+    "admin_name": "Vorarlberg",
+    "lat": "47.4297",
+    "lng": "9.6597",
+    "id": "1040745157"
+  },
+  {
+    "city": "Amstetten",
+    "city_ascii": "Amstetten",
+    "admin_name": "Niederösterreich",
+    "lat": "48.1167",
+    "lng": "14.8667",
+    "id": "1040466200"
+  },
+  {
+    "city": "Kapfenberg",
+    "city_ascii": "Kapfenberg",
+    "admin_name": "Steiermark",
+    "lat": "47.4333",
+    "lng": "15.2833",
+    "id": "1040864298"
+  },
+  {
+    "city": "Hallein",
+    "city_ascii": "Hallein",
+    "admin_name": "Salzburg",
+    "lat": "47.6831",
+    "lng": "13.0969",
+    "id": "1040821146"
+  },
+  {
+    "city": "Mödling",
+    "city_ascii": "Modling",
+    "admin_name": "Niederösterreich",
+    "lat": "48.0833",
+    "lng": "16.2667",
+    "id": "1040024396"
+  },
+  {
+    "city": "Kufstein",
+    "city_ascii": "Kufstein",
+    "admin_name": "Tirol",
+    "lat": "47.5833",
+    "lng": "12.1667",
+    "id": "1040156374"
+  },
+  {
+    "city": "Traiskirchen",
+    "city_ascii": "Traiskirchen",
+    "admin_name": "Niederösterreich",
+    "lat": "48.0167",
+    "lng": "16.3000",
+    "id": "1040581289"
+  },
+  {
+    "city": "Ansfelden",
+    "city_ascii": "Ansfelden",
+    "admin_name": "Oberösterreich",
+    "lat": "48.2083",
+    "lng": "14.2889",
+    "id": "1040496902"
+  },
+  {
+    "city": "Schwechat",
+    "city_ascii": "Schwechat",
+    "admin_name": "Niederösterreich",
+    "lat": "48.1411",
+    "lng": "16.4786",
+    "id": "1040189871"
+  },
+  {
+    "city": "Braunau am Inn",
+    "city_ascii": "Braunau am Inn",
+    "admin_name": "Oberösterreich",
+    "lat": "48.2583",
+    "lng": "13.0350",
+    "id": "1040852989"
+  },
+  {
+    "city": "Hohenems",
+    "city_ascii": "Hohenems",
+    "admin_name": "Vorarlberg",
+    "lat": "47.3667",
+    "lng": "9.6667",
+    "id": "1040845678"
+  },
+  {
+    "city": "Stockerau",
+    "city_ascii": "Stockerau",
+    "admin_name": "Niederösterreich",
+    "lat": "48.3833",
+    "lng": "16.2167",
+    "id": "1040718812"
+  },
+  {
+    "city": "Saalfelden am Steinernen Meer",
+    "city_ascii": "Saalfelden am Steinernen Meer",
+    "admin_name": "Salzburg",
+    "lat": "47.4269",
+    "lng": "12.8483",
+    "id": "1040716716"
+  },
+  {
+    "city": "Telfs",
+    "city_ascii": "Telfs",
+    "admin_name": "Tirol",
+    "lat": "47.2833",
+    "lng": "11.0667",
+    "id": "1040393855"
+  },
+  {
+    "city": "Bruck an der Mur",
+    "city_ascii": "Bruck an der Mur",
+    "admin_name": "Steiermark",
+    "lat": "47.4167",
+    "lng": "15.2667",
+    "id": "1040863751"
+  },
+  {
+    "city": "Spittal an der Drau",
+    "city_ascii": "Spittal an der Drau",
+    "admin_name": "Kärnten",
+    "lat": "46.7833",
+    "lng": "13.4833",
+    "id": "1040131621"
+  },
+  {
+    "city": "Perchtoldsdorf",
+    "city_ascii": "Perchtoldsdorf",
+    "admin_name": "Niederösterreich",
+    "lat": "48.1167",
+    "lng": "16.2667",
+    "id": "1040055191"
+  },
+  {
+    "city": "Bludenz",
+    "city_ascii": "Bludenz",
+    "admin_name": "Vorarlberg",
+    "lat": "47.1333",
+    "lng": "9.8167",
+    "id": "1040404083"
+  },
+  {
+    "city": "Ternitz",
+    "city_ascii": "Ternitz",
+    "admin_name": "Niederösterreich",
+    "lat": "47.7167",
+    "lng": "16.0333",
+    "id": "1040196639"
+  },
+  {
+    "city": "Eisenstadt",
+    "city_ascii": "Eisenstadt",
+    "admin_name": "Burgenland",
+    "lat": "47.8500",
+    "lng": "16.5167",
+    "id": "1040751740"
+  },
+  {
+    "city": "Feldkirchen",
+    "city_ascii": "Feldkirchen",
+    "admin_name": "Kärnten",
+    "lat": "46.7167",
+    "lng": "14.1000",
+    "id": "1040318480"
+  },
+  {
+    "city": "Bad Ischl",
+    "city_ascii": "Bad Ischl",
+    "admin_name": "Oberösterreich",
+    "lat": "47.7203",
+    "lng": "13.6333",
+    "id": "1040620508"
+  },
+  {
+    "city": "Hall in Tirol",
+    "city_ascii": "Hall in Tirol",
+    "admin_name": "Tirol",
+    "lat": "47.2833",
+    "lng": "11.5000",
+    "id": "1040200365"
+  },
+  {
+    "city": "Wörgl",
+    "city_ascii": "Worgl",
+    "admin_name": "Tirol",
+    "lat": "47.4833",
+    "lng": "12.0667",
+    "id": "1040228921"
+  },
+  {
+    "city": "Schwaz",
+    "city_ascii": "Schwaz",
+    "admin_name": "Tirol",
+    "lat": "47.3500",
+    "lng": "11.7000",
+    "id": "1040919527"
+  },
+  {
+    "city": "Marchtrenk",
+    "city_ascii": "Marchtrenk",
+    "admin_name": "Oberösterreich",
+    "lat": "48.1917",
+    "lng": "14.1106",
+    "id": "1040791234"
+  },
+  {
+    "city": "Hard",
+    "city_ascii": "Hard",
+    "admin_name": "Vorarlberg",
+    "lat": "47.4667",
+    "lng": "9.6667",
+    "id": "1040681347"
+  },
+  {
+    "city": "Feldbach",
+    "city_ascii": "Feldbach",
+    "admin_name": "Steiermark",
+    "lat": "46.9500",
+    "lng": "15.8833",
+    "id": "1040342228"
+  },
+  {
+    "city": "Gmunden",
+    "city_ascii": "Gmunden",
+    "admin_name": "Oberösterreich",
+    "lat": "47.9181",
+    "lng": "13.7994",
+    "id": "1040670341"
+  },
+  {
+    "city": "Leibnitz",
+    "city_ascii": "Leibnitz",
+    "admin_name": "Steiermark",
+    "lat": "46.7831",
+    "lng": "15.5450",
+    "id": "1040580132"
+  },
+  {
+    "city": "Korneuburg",
+    "city_ascii": "Korneuburg",
+    "admin_name": "Niederösterreich",
+    "lat": "48.3453",
+    "lng": "16.3331",
+    "id": "1040595988"
+  },
+  {
+    "city": "Neunkirchen",
+    "city_ascii": "Neunkirchen",
+    "admin_name": "Niederösterreich",
+    "lat": "47.7333",
+    "lng": "16.0833",
+    "id": "1040203057"
+  },
+  {
+    "city": "Knittelfeld",
+    "city_ascii": "Knittelfeld",
+    "admin_name": "Steiermark",
+    "lat": "47.2150",
+    "lng": "14.8294",
+    "id": "1040186382"
+  },
+  {
+    "city": "Sankt Veit an der Glan",
+    "city_ascii": "Sankt Veit an der Glan",
+    "admin_name": "Kärnten",
+    "lat": "46.7667",
+    "lng": "14.3667",
+    "id": "1040281881"
+  },
+  {
+    "city": "Vöcklabruck",
+    "city_ascii": "Vocklabruck",
+    "admin_name": "Oberösterreich",
+    "lat": "48.0086",
+    "lng": "13.6558",
+    "id": "1040721177"
+  },
+  {
+    "city": "Mistelbach",
+    "city_ascii": "Mistelbach",
+    "admin_name": "Niederösterreich",
+    "lat": "48.5667",
+    "lng": "16.5667",
+    "id": "1040942506"
+  },
+  {
+    "city": "Enns",
+    "city_ascii": "Enns",
+    "admin_name": "Oberösterreich",
+    "lat": "48.2167",
+    "lng": "14.4750",
+    "id": "1040630607"
+  },
+  {
+    "city": "Lienz",
+    "city_ascii": "Lienz",
+    "admin_name": "Tirol",
+    "lat": "46.8297",
+    "lng": "12.7697",
+    "id": "1040923905"
+  },
+  {
+    "city": "Ried im Innkreis",
+    "city_ascii": "Ried im Innkreis",
+    "admin_name": "Oberösterreich",
+    "lat": "48.2100",
+    "lng": "13.4894",
+    "id": "1040700214"
+  },
+  {
+    "city": "Brunn am Gebirge",
+    "city_ascii": "Brunn am Gebirge",
+    "admin_name": "Niederösterreich",
+    "lat": "48.1000",
+    "lng": "16.2833",
+    "id": "1040836072"
+  },
+  {
+    "city": "Rankweil",
+    "city_ascii": "Rankweil",
+    "admin_name": "Vorarlberg",
+    "lat": "47.2667",
+    "lng": "9.6500",
+    "id": "1040449499"
+  },
+  {
+    "city": "Bad Vöslau",
+    "city_ascii": "Bad Voslau",
+    "admin_name": "Niederösterreich",
+    "lat": "47.9667",
+    "lng": "16.2167",
+    "id": "1040153986"
+  },
+  {
+    "city": "Groß-Enzersdorf",
+    "city_ascii": "Gross-Enzersdorf",
+    "admin_name": "Niederösterreich",
+    "lat": "48.2000",
+    "lng": "16.5500",
+    "id": "1040341836"
+  },
+  {
+    "city": "Deutschlandsberg",
+    "city_ascii": "Deutschlandsberg",
+    "admin_name": "Steiermark",
+    "lat": "46.8161",
+    "lng": "15.2150",
+    "id": "1040677286"
+  },
+  {
+    "city": "Hollabrunn",
+    "city_ascii": "Hollabrunn",
+    "admin_name": "Niederösterreich",
+    "lat": "48.5667",
+    "lng": "16.1000",
+    "id": "1040573324"
+  },
+  {
+    "city": "Weiz",
+    "city_ascii": "Weiz",
+    "admin_name": "Steiermark",
+    "lat": "47.2169",
+    "lng": "15.6331",
+    "id": "1040504116"
+  },
+  {
+    "city": "Götzis",
+    "city_ascii": "Gotzis",
+    "admin_name": "Vorarlberg",
+    "lat": "47.3331",
+    "lng": "9.6333",
+    "id": "1040768534"
+  },
+  {
+    "city": "Gänserndorf",
+    "city_ascii": "Ganserndorf",
+    "admin_name": "Niederösterreich",
+    "lat": "48.3406",
+    "lng": "16.7175",
+    "id": "1040375279"
+  },
+  {
+    "city": "Waidhofen an der Ybbs",
+    "city_ascii": "Waidhofen an der Ybbs",
+    "admin_name": "Niederösterreich",
+    "lat": "47.9667",
+    "lng": "14.7667",
+    "id": "1040615361"
+  },
+  {
+    "city": "Sankt Johann im Pongau",
+    "city_ascii": "Sankt Johann im Pongau",
+    "admin_name": "Salzburg",
+    "lat": "47.3500",
+    "lng": "13.2000",
+    "id": "1040330095"
+  },
+  {
+    "city": "Gerasdorf bei Wien",
+    "city_ascii": "Gerasdorf bei Wien",
+    "admin_name": "Niederösterreich",
+    "lat": "48.2950",
+    "lng": "16.4675",
+    "id": "1040814671"
+  },
+  {
+    "city": "Trofaiach",
+    "city_ascii": "Trofaiach",
+    "admin_name": "Steiermark",
+    "lat": "47.4260",
+    "lng": "15.0067",
+    "id": "1040300354"
+  },
+  {
+    "city": "Völkermarkt",
+    "city_ascii": "Volkermarkt",
+    "admin_name": "Kärnten",
+    "lat": "46.6667",
+    "lng": "14.6333",
+    "id": "1040264683"
+  },
+  {
+    "city": "Ebreichsdorf",
+    "city_ascii": "Ebreichsdorf",
+    "admin_name": "Niederösterreich",
+    "lat": "47.9667",
+    "lng": "16.4000",
+    "id": "1040140481"
+  },
+  {
+    "city": "Seekirchen am Wallersee",
+    "city_ascii": "",
+    "admin_name": "Salzburg",
+    "lat": "47.9000",
+    "lng": "13.1333",
+    "id": "1040999982"
+  },
+  {
+    "city": "Gleisdorf",
+    "city_ascii": "Gleisdorf",
+    "admin_name": "Steiermark",
+    "lat": "47.1039",
+    "lng": "15.7083",
+    "id": "1040059456"
+  },
+  {
+    "city": "Zwettl",
+    "city_ascii": "Zwettl",
+    "admin_name": "Niederösterreich",
+    "lat": "48.6033",
+    "lng": "15.1689",
+    "id": "1040676174"
+  },
+  {
+    "city": "Bischofshofen",
+    "city_ascii": "Bischofshofen",
+    "admin_name": "Salzburg",
+    "lat": "47.4172",
+    "lng": "13.2194",
+    "id": "1040799035"
+  },
+  {
+    "city": "Imst",
+    "city_ascii": "Imst",
+    "admin_name": "Tirol",
+    "lat": "47.2394",
+    "lng": "10.7381",
+    "id": "1040504243"
+  },
+  {
+    "city": "Lauterach",
+    "city_ascii": "Lauterach",
+    "admin_name": "Vorarlberg",
+    "lat": "47.4772",
+    "lng": "9.7314",
+    "id": "1040609359"
+  },
+  {
+    "city": "Strasshof an der Nordbahn",
+    "city_ascii": "Strasshof an der Nordbahn",
+    "admin_name": "Niederösterreich",
+    "lat": "48.3194",
+    "lng": "16.6475",
+    "id": "1040365922"
+  },
+  {
+    "city": "Sankt Andrä",
+    "city_ascii": "Sankt Andra",
+    "admin_name": "Kärnten",
+    "lat": "46.7667",
+    "lng": "14.8167",
+    "id": "1040740376"
+  },
+  {
+    "city": "Köflach",
+    "city_ascii": "Koflach",
+    "admin_name": "Steiermark",
+    "lat": "47.0667",
+    "lng": "15.0833",
+    "id": "1040578038"
+  },
+  {
+    "city": "Laakirchen",
+    "city_ascii": "Laakirchen",
+    "admin_name": "Oberösterreich",
+    "lat": "47.9828",
+    "lng": "13.8242",
+    "id": "1040055619"
+  },
+  {
+    "city": "Altmünster",
+    "city_ascii": "Altmunster",
+    "admin_name": "Oberösterreich",
+    "lat": "47.9014",
+    "lng": "13.7514",
+    "id": "1040325018"
+  },
+  {
+    "city": "Zell am See",
+    "city_ascii": "Zell am See",
+    "admin_name": "Salzburg",
+    "lat": "47.3167",
+    "lng": "12.8000",
+    "id": "1040352901"
+  },
+  {
+    "city": "Sankt Johann in Tirol",
+    "city_ascii": "Sankt Johann in Tirol",
+    "admin_name": "Tirol",
+    "lat": "47.5225",
+    "lng": "12.4256",
+    "id": "1040232004"
+  },
+  {
+    "city": "Purkersdorf",
+    "city_ascii": "Purkersdorf",
+    "admin_name": "Niederösterreich",
+    "lat": "48.2092",
+    "lng": "16.1792",
+    "id": "1040636796"
+  },
+  {
+    "city": "Judenburg",
+    "city_ascii": "Judenburg",
+    "admin_name": "Steiermark",
+    "lat": "47.1725",
+    "lng": "14.6603",
+    "id": "1040723538"
+  },
+  {
+    "city": "Perg",
+    "city_ascii": "Perg",
+    "admin_name": "Oberösterreich",
+    "lat": "48.2503",
+    "lng": "14.6336",
+    "id": "1040523501"
+  },
+  {
+    "city": "Wiener Neudorf",
+    "city_ascii": "Wiener Neudorf",
+    "admin_name": "Niederösterreich",
+    "lat": "48.0833",
+    "lng": "16.3167",
+    "id": "1040799859"
+  },
+  {
+    "city": "Voitsberg",
+    "city_ascii": "Voitsberg",
+    "admin_name": "Steiermark",
+    "lat": "47.0333",
+    "lng": "15.1500",
+    "id": "1040639919"
+  },
+  {
+    "city": "Sierning",
+    "city_ascii": "Sierning",
+    "admin_name": "Oberösterreich",
+    "lat": "48.0447",
+    "lng": "14.3100",
+    "id": "1040285076"
+  },
+  {
+    "city": "Sankt Valentin",
+    "city_ascii": "Sankt Valentin",
+    "admin_name": "Niederösterreich",
+    "lat": "48.1667",
+    "lng": "14.5333",
+    "id": "1040852174"
+  },
+  {
+    "city": "Rum",
+    "city_ascii": "Rum",
+    "admin_name": "Tirol",
+    "lat": "47.2872",
+    "lng": "11.4581",
+    "id": "1040726454"
+  },
+  {
+    "city": "Guntramsdorf",
+    "city_ascii": "Guntramsdorf",
+    "admin_name": "Niederösterreich",
+    "lat": "48.0500",
+    "lng": "16.3167",
+    "id": "1040104912"
+  },
+  {
+    "city": "Berndorf",
+    "city_ascii": "Berndorf",
+    "admin_name": "Niederösterreich",
+    "lat": "47.9428",
+    "lng": "16.1036",
+    "id": "1040660595"
+  },
+  {
+    "city": "Velden am Wörthersee",
+    "city_ascii": "Velden am Worthersee",
+    "admin_name": "Kärnten",
+    "lat": "46.6000",
+    "lng": "14.0333",
+    "id": "1040535411"
+  },
+  {
+    "city": "Attnang-Puchheim",
+    "city_ascii": "Attnang-Puchheim",
+    "admin_name": "Oberösterreich",
+    "lat": "48.0167",
+    "lng": "13.7197",
+    "id": "1040023749"
+  },
+  {
+    "city": "Maria Enzersdorf",
+    "city_ascii": "Maria Enzersdorf",
+    "admin_name": "Niederösterreich",
+    "lat": "48.1000",
+    "lng": "16.2833",
+    "id": "1040889264"
+  },
+  {
+    "city": "Engerwitzdorf",
+    "city_ascii": "Engerwitzdorf",
+    "admin_name": "Oberösterreich",
+    "lat": "48.3397",
+    "lng": "14.4256",
+    "id": "1040013380"
+  },
+  {
+    "city": "Stainz",
+    "city_ascii": "Stainz",
+    "admin_name": "Steiermark",
+    "lat": "46.8833",
+    "lng": "15.2667",
+    "id": "1040766288"
+  },
+  {
+    "city": "Deutsch-Wagram",
+    "city_ascii": "Deutsch-Wagram",
+    "admin_name": "Niederösterreich",
+    "lat": "48.3000",
+    "lng": "16.5667",
+    "id": "1040363748"
+  },
+  {
+    "city": "Fürstenfeld",
+    "city_ascii": "Furstenfeld",
+    "admin_name": "Steiermark",
+    "lat": "47.0500",
+    "lng": "16.0833",
+    "id": "1040284464"
+  }
+]

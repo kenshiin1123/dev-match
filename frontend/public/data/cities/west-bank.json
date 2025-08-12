@@ -1,0 +1,146 @@
+[
+  {
+    "city": "Hebron",
+    "city_ascii": "Hebron",
+    "admin_name": "",
+    "lat": "31.5293",
+    "lng": "35.0938",
+    "id": "1934166495"
+  },
+  {
+    "city": "Nāblus",
+    "city_ascii": "Nablus",
+    "admin_name": "",
+    "lat": "32.2199",
+    "lng": "35.2636",
+    "id": "1934360634"
+  },
+  {
+    "city": "Ţūlkarm",
+    "city_ascii": "Tulkarm",
+    "admin_name": "",
+    "lat": "32.3104",
+    "lng": "35.0286",
+    "id": "1934334760"
+  },
+  {
+    "city": "Yattir",
+    "city_ascii": "Yattir",
+    "admin_name": "",
+    "lat": "31.4333",
+    "lng": "35.0833",
+    "id": "1934947354"
+  },
+  {
+    "city": "Qalqīlyah",
+    "city_ascii": "Qalqilyah",
+    "admin_name": "",
+    "lat": "32.1897",
+    "lng": "34.9706",
+    "id": "1934513064"
+  },
+  {
+    "city": "Janīn",
+    "city_ascii": "Janin",
+    "admin_name": "",
+    "lat": "32.4594",
+    "lng": "35.3009",
+    "id": "1934524373"
+  },
+  {
+    "city": "Ramallah",
+    "city_ascii": "Ramallah",
+    "admin_name": "",
+    "lat": "31.9026",
+    "lng": "35.1955",
+    "id": "1934604374"
+  },
+  {
+    "city": "Az̧ Z̧āhirīyah",
+    "city_ascii": "Az Zahiriyah",
+    "admin_name": "",
+    "lat": "31.4097",
+    "lng": "34.9733",
+    "id": "1934407195"
+  },
+  {
+    "city": "Bethlehem",
+    "city_ascii": "Bethlehem",
+    "admin_name": "",
+    "lat": "31.7049",
+    "lng": "35.2038",
+    "id": "1934388150"
+  },
+  {
+    "city": "Baytūnyā",
+    "city_ascii": "Baytunya",
+    "admin_name": "",
+    "lat": "31.8966",
+    "lng": "35.1705",
+    "id": "1934209318"
+  },
+  {
+    "city": "Idhnā",
+    "city_ascii": "Idhna",
+    "admin_name": "",
+    "lat": "31.5587",
+    "lng": "34.9744",
+    "id": "1934524225"
+  },
+  {
+    "city": "Qabāţīyah",
+    "city_ascii": "Qabatiyah",
+    "admin_name": "",
+    "lat": "32.4104",
+    "lng": "35.2809",
+    "id": "1934173704"
+  },
+  {
+    "city": "Jericho",
+    "city_ascii": "Jericho",
+    "admin_name": "",
+    "lat": "31.8571",
+    "lng": "35.4603",
+    "id": "1934197330"
+  },
+  {
+    "city": "Bayt Ūmmar",
+    "city_ascii": "Bayt Ummar",
+    "admin_name": "",
+    "lat": "31.6233",
+    "lng": "35.1045",
+    "id": "1934976309"
+  },
+  {
+    "city": "Ya‘bad",
+    "city_ascii": "Ya`bad",
+    "admin_name": "",
+    "lat": "32.4457",
+    "lng": "35.1682",
+    "id": "1934942551"
+  },
+  {
+    "city": "Bayt Jālā",
+    "city_ascii": "Bayt Jala",
+    "admin_name": "",
+    "lat": "31.7155",
+    "lng": "35.1879",
+    "id": "1934810558"
+  },
+  {
+    "city": "Bayt Sāḩūr",
+    "city_ascii": "Bayt Sahur",
+    "admin_name": "",
+    "lat": "31.7009",
+    "lng": "35.2263",
+    "id": "1934945594"
+  },
+  {
+    "city": "Abū Dīs",
+    "city_ascii": "Abu Dis",
+    "admin_name": "",
+    "lat": "31.7622",
+    "lng": "35.2617",
+    "id": "1934018131"
+  }
+]

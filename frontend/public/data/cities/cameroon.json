@@ -1,0 +1,722 @@
+[
+  {
+    "city": "Douala",
+    "city_ascii": "Douala",
+    "admin_name": "Littoral",
+    "lat": "4.0500",
+    "lng": "9.7000",
+    "id": "1120494607"
+  },
+  {
+    "city": "Yaoundé",
+    "city_ascii": "Yaounde",
+    "admin_name": "Centre",
+    "lat": "3.8667",
+    "lng": "11.5167",
+    "id": "1120298240"
+  },
+  {
+    "city": "Garoua",
+    "city_ascii": "Garoua",
+    "admin_name": "Nord",
+    "lat": "9.3000",
+    "lng": "13.4000",
+    "id": "1120803808"
+  },
+  {
+    "city": "Bamenda",
+    "city_ascii": "Bamenda",
+    "admin_name": "North-West",
+    "lat": "5.9614",
+    "lng": "10.1517",
+    "id": "1120909610"
+  },
+  {
+    "city": "Bafoussam",
+    "city_ascii": "Bafoussam",
+    "admin_name": "Ouest",
+    "lat": "5.4667",
+    "lng": "10.4167",
+    "id": "1120435460"
+  },
+  {
+    "city": "Maroua",
+    "city_ascii": "Maroua",
+    "admin_name": "Extrême-Nord",
+    "lat": "10.5971",
+    "lng": "14.3157",
+    "id": "1120956931"
+  },
+  {
+    "city": "Ngaoundéré",
+    "city_ascii": "Ngaoundere",
+    "admin_name": "Adamaoua",
+    "lat": "7.3167",
+    "lng": "13.5833",
+    "id": "1120011020"
+  },
+  {
+    "city": "Nkongsamba",
+    "city_ascii": "Nkongsamba",
+    "admin_name": "Littoral",
+    "lat": "4.9500",
+    "lng": "9.9333",
+    "id": "1120972098"
+  },
+  {
+    "city": "Bibémi",
+    "city_ascii": "Bibemi",
+    "admin_name": "Nord",
+    "lat": "9.3167",
+    "lng": "13.8833",
+    "id": "1120285705"
+  },
+  {
+    "city": "Buea",
+    "city_ascii": "Buea",
+    "admin_name": "South-West",
+    "lat": "4.1667",
+    "lng": "9.2333",
+    "id": "1120497849"
+  },
+  {
+    "city": "Kousséri",
+    "city_ascii": "Kousseri",
+    "admin_name": "Extrême-Nord",
+    "lat": "12.0833",
+    "lng": "15.0333",
+    "id": "1120996697"
+  },
+  {
+    "city": "Bogo",
+    "city_ascii": "Bogo",
+    "admin_name": "Extrême-Nord",
+    "lat": "10.7340",
+    "lng": "14.6080",
+    "id": "1120371347"
+  },
+  {
+    "city": "Bertoua",
+    "city_ascii": "Bertoua",
+    "admin_name": "Est",
+    "lat": "4.5833",
+    "lng": "13.6833",
+    "id": "1120406967"
+  },
+  {
+    "city": "Widekum",
+    "city_ascii": "Widekum",
+    "admin_name": "North-West",
+    "lat": "5.8717",
+    "lng": "9.7706",
+    "id": "1120813839"
+  },
+  {
+    "city": "Maga",
+    "city_ascii": "Maga",
+    "admin_name": "Extrême-Nord",
+    "lat": "10.8500",
+    "lng": "14.9333",
+    "id": "1120666970"
+  },
+  {
+    "city": "Foumban",
+    "city_ascii": "Foumban",
+    "admin_name": "Ouest",
+    "lat": "5.7167",
+    "lng": "10.9167",
+    "id": "1120088650"
+  },
+  {
+    "city": "Bafut",
+    "city_ascii": "Bafut",
+    "admin_name": "North-West",
+    "lat": "6.0833",
+    "lng": "10.1000",
+    "id": "1120828506"
+  },
+  {
+    "city": "Kumbo",
+    "city_ascii": "Kumbo",
+    "admin_name": "North-West",
+    "lat": "6.2050",
+    "lng": "10.6850",
+    "id": "1120679288"
+  },
+  {
+    "city": "Eséka",
+    "city_ascii": "Eseka",
+    "admin_name": "Centre",
+    "lat": "3.6500",
+    "lng": "10.7667",
+    "id": "1120064220"
+  },
+  {
+    "city": "Tiko",
+    "city_ascii": "Tiko",
+    "admin_name": "South-West",
+    "lat": "4.0750",
+    "lng": "9.3600",
+    "id": "1120287576"
+  },
+  {
+    "city": "Ébolowa",
+    "city_ascii": "Ebolowa",
+    "admin_name": "Sud",
+    "lat": "2.9167",
+    "lng": "11.1500",
+    "id": "1120924207"
+  },
+  {
+    "city": "Dschang",
+    "city_ascii": "Dschang",
+    "admin_name": "Ouest",
+    "lat": "5.4500",
+    "lng": "10.0667",
+    "id": "1120569504"
+  },
+  {
+    "city": "Edéa",
+    "city_ascii": "Edea",
+    "admin_name": "Littoral",
+    "lat": "3.8000",
+    "lng": "10.1333",
+    "id": "1120546542"
+  },
+  {
+    "city": "Tibati",
+    "city_ascii": "Tibati",
+    "admin_name": "Adamaoua",
+    "lat": "6.4667",
+    "lng": "12.6333",
+    "id": "1120299131"
+  },
+  {
+    "city": "Melong",
+    "city_ascii": "Melong",
+    "admin_name": "Littoral",
+    "lat": "5.1211",
+    "lng": "9.9528",
+    "id": "1120198694"
+  },
+  {
+    "city": "Bafia",
+    "city_ascii": "Bafia",
+    "admin_name": "Centre",
+    "lat": "4.7500",
+    "lng": "11.2167",
+    "id": "1120310806"
+  },
+  {
+    "city": "Guider",
+    "city_ascii": "Guider",
+    "admin_name": "Nord",
+    "lat": "9.9342",
+    "lng": "13.9486",
+    "id": "1120662630"
+  },
+  {
+    "city": "Sangmélima",
+    "city_ascii": "Sangmelima",
+    "admin_name": "Sud",
+    "lat": "2.9333",
+    "lng": "11.9833",
+    "id": "1120387598"
+  },
+  {
+    "city": "Mbalmayo",
+    "city_ascii": "Mbalmayo",
+    "admin_name": "Centre",
+    "lat": "3.5167",
+    "lng": "11.5000",
+    "id": "1120049681"
+  },
+  {
+    "city": "Kribi",
+    "city_ascii": "Kribi",
+    "admin_name": "Sud",
+    "lat": "2.9350",
+    "lng": "9.9100",
+    "id": "1120360100"
+  },
+  {
+    "city": "Foumbot",
+    "city_ascii": "Foumbot",
+    "admin_name": "Ouest",
+    "lat": "5.5000",
+    "lng": "10.6333",
+    "id": "1120775025"
+  },
+  {
+    "city": "Mora",
+    "city_ascii": "Mora",
+    "admin_name": "Extrême-Nord",
+    "lat": "11.0500",
+    "lng": "14.1500",
+    "id": "1120392077"
+  },
+  {
+    "city": "Baham",
+    "city_ascii": "Baham",
+    "admin_name": "Ouest",
+    "lat": "5.3333",
+    "lng": "10.4000",
+    "id": "1120072101"
+  },
+  {
+    "city": "Mbouda",
+    "city_ascii": "Mbouda",
+    "admin_name": "Ouest",
+    "lat": "5.6333",
+    "lng": "10.2500",
+    "id": "1120195491"
+  },
+  {
+    "city": "Akonolinga",
+    "city_ascii": "Akonolinga",
+    "admin_name": "Centre",
+    "lat": "3.7667",
+    "lng": "12.2500",
+    "id": "1120103788"
+  },
+  {
+    "city": "Loum",
+    "city_ascii": "Loum",
+    "admin_name": "Littoral",
+    "lat": "4.7180",
+    "lng": "9.7300",
+    "id": "1120110128"
+  },
+  {
+    "city": "Baba I",
+    "city_ascii": "Baba I",
+    "admin_name": "North-West",
+    "lat": "6.0622",
+    "lng": "10.4903",
+    "id": "1120222398"
+  },
+  {
+    "city": "Yagoua",
+    "city_ascii": "Yagoua",
+    "admin_name": "Extrême-Nord",
+    "lat": "10.3428",
+    "lng": "15.2406",
+    "id": "1120388576"
+  },
+  {
+    "city": "Meïganga",
+    "city_ascii": "Meiganga",
+    "admin_name": "Adamaoua",
+    "lat": "6.5300",
+    "lng": "14.3700",
+    "id": "1120789508"
+  },
+  {
+    "city": "Ambam",
+    "city_ascii": "Ambam",
+    "admin_name": "Sud",
+    "lat": "2.3833",
+    "lng": "11.2833",
+    "id": "1120379198"
+  },
+  {
+    "city": "Mokolo",
+    "city_ascii": "Mokolo",
+    "admin_name": "Extrême-Nord",
+    "lat": "10.7400",
+    "lng": "13.8000",
+    "id": "1120289631"
+  },
+  {
+    "city": "Bamessing",
+    "city_ascii": "Bamessing",
+    "admin_name": "North-West",
+    "lat": "5.9847",
+    "lng": "10.3603",
+    "id": "1120344122"
+  },
+  {
+    "city": "Obala",
+    "city_ascii": "Obala",
+    "admin_name": "Centre",
+    "lat": "4.1667",
+    "lng": "11.5333",
+    "id": "1120045790"
+  },
+  {
+    "city": "Bamendjou",
+    "city_ascii": "Bamendjou",
+    "admin_name": "Ouest",
+    "lat": "5.4000",
+    "lng": "10.3167",
+    "id": "1120189135"
+  },
+  {
+    "city": "Monatélé",
+    "city_ascii": "Monatele",
+    "admin_name": "Centre",
+    "lat": "4.2667",
+    "lng": "11.2000",
+    "id": "1120594177"
+  },
+  {
+    "city": "Mamfe",
+    "city_ascii": "Mamfe",
+    "admin_name": "South-West",
+    "lat": "5.7667",
+    "lng": "9.2833",
+    "id": "1120298819"
+  },
+  {
+    "city": "Ngaoundal",
+    "city_ascii": "Ngaoundal",
+    "admin_name": "Adamaoua",
+    "lat": "6.5000",
+    "lng": "13.2667",
+    "id": "1120312039"
+  },
+  {
+    "city": "Biwong",
+    "city_ascii": "Biwong",
+    "admin_name": "Sud",
+    "lat": "3.1333",
+    "lng": "11.1500",
+    "id": "1120534976"
+  },
+  {
+    "city": "Batouri",
+    "city_ascii": "Batouri",
+    "admin_name": "Est",
+    "lat": "4.4333",
+    "lng": "14.3667",
+    "id": "1120380999"
+  },
+  {
+    "city": "Bafang",
+    "city_ascii": "Bafang",
+    "admin_name": "Ouest",
+    "lat": "5.1500",
+    "lng": "10.1833",
+    "id": "1120889812"
+  },
+  {
+    "city": "Batcha",
+    "city_ascii": "Batcha",
+    "admin_name": "Ouest",
+    "lat": "5.1500",
+    "lng": "10.1833",
+    "id": "1120337666"
+  },
+  {
+    "city": "Messaména",
+    "city_ascii": "Messamena",
+    "admin_name": "Est",
+    "lat": "3.7333",
+    "lng": "12.8333",
+    "id": "1120403736"
+  },
+  {
+    "city": "Kumba",
+    "city_ascii": "Kumba",
+    "admin_name": "South-West",
+    "lat": "4.6333",
+    "lng": "9.4500",
+    "id": "1120492761"
+  },
+  {
+    "city": "Kaelé",
+    "city_ascii": "Kaele",
+    "admin_name": "Extrême-Nord",
+    "lat": "10.1000",
+    "lng": "14.4500",
+    "id": "1120553788"
+  },
+  {
+    "city": "Nanga Eboko",
+    "city_ascii": "Nanga Eboko",
+    "admin_name": "Centre",
+    "lat": "4.6708",
+    "lng": "12.3731",
+    "id": "1120540405"
+  },
+  {
+    "city": "Mbanga",
+    "city_ascii": "Mbanga",
+    "admin_name": "Littoral",
+    "lat": "4.5092",
+    "lng": "9.5681",
+    "id": "1120507574"
+  },
+  {
+    "city": "Manjo",
+    "city_ascii": "Manjo",
+    "admin_name": "Littoral",
+    "lat": "4.8500",
+    "lng": "9.8167",
+    "id": "1120935317"
+  },
+  {
+    "city": "Figuil",
+    "city_ascii": "Figuil",
+    "admin_name": "Nord",
+    "lat": "9.7667",
+    "lng": "13.9667",
+    "id": "1120977247"
+  },
+  {
+    "city": "Pitoa",
+    "city_ascii": "Pitoa",
+    "admin_name": "Nord",
+    "lat": "9.3833",
+    "lng": "13.5333",
+    "id": "1120762308"
+  },
+  {
+    "city": "Lagdo",
+    "city_ascii": "Lagdo",
+    "admin_name": "Nord",
+    "lat": "9.0500",
+    "lng": "13.7333",
+    "id": "1120762160"
+  },
+  {
+    "city": "Nguti",
+    "city_ascii": "Nguti",
+    "admin_name": "South-West",
+    "lat": "5.3167",
+    "lng": "9.4167",
+    "id": "1120701627"
+  },
+  {
+    "city": "Limbe",
+    "city_ascii": "Limbe",
+    "admin_name": "South-West",
+    "lat": "4.0167",
+    "lng": "9.2167",
+    "id": "1120635273"
+  },
+  {
+    "city": "Bamessi",
+    "city_ascii": "Bamessi",
+    "admin_name": "North-West",
+    "lat": "6.0333",
+    "lng": "10.5792",
+    "id": "1120836103"
+  },
+  {
+    "city": "Kalfou",
+    "city_ascii": "Kalfou",
+    "admin_name": "Extrême-Nord",
+    "lat": "10.2833",
+    "lng": "14.9333",
+    "id": "1120297396"
+  },
+  {
+    "city": "Wum",
+    "city_ascii": "Wum",
+    "admin_name": "North-West",
+    "lat": "6.3833",
+    "lng": "10.0667",
+    "id": "1120557987"
+  },
+  {
+    "city": "Yokadouma",
+    "city_ascii": "Yokadouma",
+    "admin_name": "Est",
+    "lat": "3.5167",
+    "lng": "15.0500",
+    "id": "1120416546"
+  },
+  {
+    "city": "Touboro",
+    "city_ascii": "Touboro",
+    "admin_name": "Nord",
+    "lat": "7.7708",
+    "lng": "15.3567",
+    "id": "1120000456"
+  },
+  {
+    "city": "Ayos",
+    "city_ascii": "Ayos",
+    "admin_name": "Centre",
+    "lat": "3.9069",
+    "lng": "12.5272",
+    "id": "1120902688"
+  },
+  {
+    "city": "Garoua Boulaï",
+    "city_ascii": "Garoua Boulai",
+    "admin_name": "Est",
+    "lat": "5.8833",
+    "lng": "14.5500",
+    "id": "1120290274"
+  },
+  {
+    "city": "Bélabo",
+    "city_ascii": "Belabo",
+    "admin_name": "Est",
+    "lat": "4.9333",
+    "lng": "13.3000",
+    "id": "1120106572"
+  },
+  {
+    "city": "Mbandjok",
+    "city_ascii": "Mbandjok",
+    "admin_name": "Centre",
+    "lat": "4.4500",
+    "lng": "11.9000",
+    "id": "1120826552"
+  },
+  {
+    "city": "Bambalang",
+    "city_ascii": "Bambalang",
+    "admin_name": "North-West",
+    "lat": "5.8867",
+    "lng": "10.5331",
+    "id": "1120261303"
+  },
+  {
+    "city": "Kekem",
+    "city_ascii": "Kekem",
+    "admin_name": "Ouest",
+    "lat": "5.1667",
+    "lng": "10.0333",
+    "id": "1120134625"
+  },
+  {
+    "city": "Nkoteng",
+    "city_ascii": "Nkoteng",
+    "admin_name": "Centre",
+    "lat": "4.5167",
+    "lng": "12.0333",
+    "id": "1120935035"
+  },
+  {
+    "city": "Bamukumbit",
+    "city_ascii": "Bamukumbit",
+    "admin_name": "North-West",
+    "lat": "5.8167",
+    "lng": "10.4167",
+    "id": "1120063479"
+  },
+  {
+    "city": "Bamumkumbit",
+    "city_ascii": "Bamumkumbit",
+    "admin_name": "Ouest",
+    "lat": "5.8167",
+    "lng": "10.4167",
+    "id": "1120980462"
+  },
+  {
+    "city": "Abong Mbang",
+    "city_ascii": "Abong Mbang",
+    "admin_name": "Est",
+    "lat": "3.9833",
+    "lng": "13.1667",
+    "id": "1120726386"
+  },
+  {
+    "city": "Bafanji",
+    "city_ascii": "Bafanji",
+    "admin_name": "North-West",
+    "lat": "5.8361",
+    "lng": "10.4000",
+    "id": "1120039159"
+  },
+  {
+    "city": "Diang",
+    "city_ascii": "Diang",
+    "admin_name": "Est",
+    "lat": "4.5833",
+    "lng": "13.3500",
+    "id": "1120665597"
+  },
+  {
+    "city": "Ngoulemakong",
+    "city_ascii": "Ngoulemakong",
+    "admin_name": "Sud",
+    "lat": "3.0833",
+    "lng": "11.4333",
+    "id": "1120215656"
+  },
+  {
+    "city": "Yoko",
+    "city_ascii": "Yoko",
+    "admin_name": "Centre",
+    "lat": "5.5924",
+    "lng": "12.3158",
+    "id": "1120361153"
+  },
+  {
+    "city": "Ngou",
+    "city_ascii": "Ngou",
+    "admin_name": "Ouest",
+    "lat": "5.2000",
+    "lng": "10.3833",
+    "id": "1120597405"
+  },
+  {
+    "city": "Tefam",
+    "city_ascii": "Tefam",
+    "admin_name": "Ouest",
+    "lat": "5.2667",
+    "lng": "10.4667",
+    "id": "1120869867"
+  },
+  {
+    "city": "Mfou",
+    "city_ascii": "Mfou",
+    "admin_name": "Centre",
+    "lat": "3.9600",
+    "lng": "11.9300",
+    "id": "1120739101"
+  },
+  {
+    "city": "Balikumbat",
+    "city_ascii": "Balikumbat",
+    "admin_name": "North-West",
+    "lat": "5.8928",
+    "lng": "10.3597",
+    "id": "1120000865"
+  },
+  {
+    "city": "Akom II",
+    "city_ascii": "Akom II",
+    "admin_name": "Sud",
+    "lat": "2.7833",
+    "lng": "10.5667",
+    "id": "1120706800"
+  },
+  {
+    "city": "Olamzé",
+    "city_ascii": "Olamze",
+    "admin_name": "Sud",
+    "lat": "2.2167",
+    "lng": "11.0833",
+    "id": "1120708879"
+  },
+  {
+    "city": "Akono",
+    "city_ascii": "Akono",
+    "admin_name": "Centre",
+    "lat": "3.4997",
+    "lng": "11.3267",
+    "id": "1120866423"
+  },
+  {
+    "city": "Kontcha",
+    "city_ascii": "Kontcha",
+    "admin_name": "Adamaoua",
+    "lat": "7.9667",
+    "lng": "12.2333",
+    "id": "1120016766"
+  },
+  {
+    "city": "Aiyomojok",
+    "city_ascii": "Aiyomojok",
+    "admin_name": "South-West",
+    "lat": "5.7504",
+    "lng": "8.9833",
+    "id": "1120658014"
+  }
+]

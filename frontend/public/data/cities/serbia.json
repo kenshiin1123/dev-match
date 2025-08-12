@@ -1,0 +1,1338 @@
+[
+  {
+    "city": "Belgrade",
+    "city_ascii": "Belgrade",
+    "admin_name": "Beograd",
+    "lat": "44.8178",
+    "lng": "20.4569",
+    "id": "1688374696"
+  },
+  {
+    "city": "Novi Sad",
+    "city_ascii": "Novi Sad",
+    "admin_name": "Novi Sad",
+    "lat": "45.2542",
+    "lng": "19.8425",
+    "id": "1688169087"
+  },
+  {
+    "city": "Niš",
+    "city_ascii": "Nis",
+    "admin_name": "Niš",
+    "lat": "43.3192",
+    "lng": "21.8961",
+    "id": "1688661068"
+  },
+  {
+    "city": "Zemun",
+    "city_ascii": "Zemun",
+    "admin_name": "Beograd",
+    "lat": "44.8500",
+    "lng": "20.4000",
+    "id": "1688453076"
+  },
+  {
+    "city": "Kragujevac",
+    "city_ascii": "Kragujevac",
+    "admin_name": "Kragujevac",
+    "lat": "44.0142",
+    "lng": "20.9394",
+    "id": "1688832387"
+  },
+  {
+    "city": "Šabac",
+    "city_ascii": "Sabac",
+    "admin_name": "Šabac",
+    "lat": "44.7558",
+    "lng": "19.6939",
+    "id": "1688640421"
+  },
+  {
+    "city": "Smederevo",
+    "city_ascii": "Smederevo",
+    "admin_name": "Smederevo",
+    "lat": "44.6633",
+    "lng": "20.9289",
+    "id": "1688344019"
+  },
+  {
+    "city": "Valjevo",
+    "city_ascii": "Valjevo",
+    "admin_name": "Valjevo",
+    "lat": "44.2708",
+    "lng": "19.8866",
+    "id": "1688926375"
+  },
+  {
+    "city": "Loznica",
+    "city_ascii": "Loznica",
+    "admin_name": "Loznica",
+    "lat": "44.5333",
+    "lng": "19.2258",
+    "id": "1688071221"
+  },
+  {
+    "city": "Pančevo",
+    "city_ascii": "Pancevo",
+    "admin_name": "Pančevo",
+    "lat": "44.8739",
+    "lng": "20.6519",
+    "id": "1688356974"
+  },
+  {
+    "city": "Sremska Mitrovica",
+    "city_ascii": "Sremska Mitrovica",
+    "admin_name": "Sremska Mitrovica",
+    "lat": "44.9661",
+    "lng": "19.6106",
+    "id": "1688974283"
+  },
+  {
+    "city": "Stara Pazova",
+    "city_ascii": "Stara Pazova",
+    "admin_name": "Stara Pazova",
+    "lat": "44.9833",
+    "lng": "20.1667",
+    "id": "1688866909"
+  },
+  {
+    "city": "Čačak",
+    "city_ascii": "Cacak",
+    "admin_name": "Čačak",
+    "lat": "43.8914",
+    "lng": "20.3497",
+    "id": "1688216463"
+  },
+  {
+    "city": "Požarevac",
+    "city_ascii": "Pozarevac",
+    "admin_name": "Požarevac",
+    "lat": "44.6200",
+    "lng": "21.1897",
+    "id": "1688653137"
+  },
+  {
+    "city": "Zrenjanin",
+    "city_ascii": "Zrenjanin",
+    "admin_name": "Zrenjanin",
+    "lat": "45.3833",
+    "lng": "20.3894",
+    "id": "1688827840"
+  },
+  {
+    "city": "Kraljevo",
+    "city_ascii": "Kraljevo",
+    "admin_name": "Kraljevo",
+    "lat": "43.7234",
+    "lng": "20.6870",
+    "id": "1688625234"
+  },
+  {
+    "city": "Novi Pazar",
+    "city_ascii": "Novi Pazar",
+    "admin_name": "Novi Pazar",
+    "lat": "43.1500",
+    "lng": "20.5167",
+    "id": "1688435541"
+  },
+  {
+    "city": "Užice",
+    "city_ascii": "Uzice",
+    "admin_name": "Užice",
+    "lat": "43.8500",
+    "lng": "19.8500",
+    "id": "1688591624"
+  },
+  {
+    "city": "Kruševac",
+    "city_ascii": "Krusevac",
+    "admin_name": "Kruševac",
+    "lat": "43.5833",
+    "lng": "21.3267",
+    "id": "1688595236"
+  },
+  {
+    "city": "Lazarevac",
+    "city_ascii": "Lazarevac",
+    "admin_name": "Beograd",
+    "lat": "44.3828",
+    "lng": "20.2583",
+    "id": "1688828613"
+  },
+  {
+    "city": "Vranje",
+    "city_ascii": "Vranje",
+    "admin_name": "Vranje",
+    "lat": "42.5542",
+    "lng": "21.8972",
+    "id": "1688474456"
+  },
+  {
+    "city": "Ruma",
+    "city_ascii": "Ruma",
+    "admin_name": "Ruma",
+    "lat": "45.0031",
+    "lng": "19.8289",
+    "id": "1688037789"
+  },
+  {
+    "city": "Paraćin",
+    "city_ascii": "Paracin",
+    "admin_name": "Paraćin",
+    "lat": "43.8667",
+    "lng": "21.4167",
+    "id": "1688523885"
+  },
+  {
+    "city": "Sombor",
+    "city_ascii": "Sombor",
+    "admin_name": "Sombor",
+    "lat": "45.7833",
+    "lng": "19.1167",
+    "id": "1688575779"
+  },
+  {
+    "city": "Pirot",
+    "city_ascii": "Pirot",
+    "admin_name": "Pirot",
+    "lat": "43.1519",
+    "lng": "22.5850",
+    "id": "1688324137"
+  },
+  {
+    "city": "Mladenovac",
+    "city_ascii": "Mladenovac",
+    "admin_name": "Beograd",
+    "lat": "44.4418",
+    "lng": "20.6970",
+    "id": "1688838780"
+  },
+  {
+    "city": "Zaječar",
+    "city_ascii": "Zajecar",
+    "admin_name": "Zaječar",
+    "lat": "43.9042",
+    "lng": "22.2847",
+    "id": "1688564835"
+  },
+  {
+    "city": "Batajnica",
+    "city_ascii": "Batajnica",
+    "admin_name": "Beograd",
+    "lat": "44.9022",
+    "lng": "20.2814",
+    "id": "1688675083"
+  },
+  {
+    "city": "Inđija",
+    "city_ascii": "Indija",
+    "admin_name": "Inđija",
+    "lat": "45.0492",
+    "lng": "20.0792",
+    "id": "1688349740"
+  },
+  {
+    "city": "Aranđelovac",
+    "city_ascii": "Arandelovac",
+    "admin_name": "Aranđelovac",
+    "lat": "44.3042",
+    "lng": "20.5561",
+    "id": "1688854200"
+  },
+  {
+    "city": "Borča",
+    "city_ascii": "Borca",
+    "admin_name": "Beograd",
+    "lat": "44.8697",
+    "lng": "20.4541",
+    "id": "1688819875"
+  },
+  {
+    "city": "Surčin",
+    "city_ascii": "Surcin",
+    "admin_name": "Beograd",
+    "lat": "44.7944",
+    "lng": "20.2781",
+    "id": "1688106927"
+  },
+  {
+    "city": "Aleksinac",
+    "city_ascii": "Aleksinac",
+    "admin_name": "Aleksinac",
+    "lat": "43.5383",
+    "lng": "21.7047",
+    "id": "1688039133"
+  },
+  {
+    "city": "Smederevska Palanka",
+    "city_ascii": "Smederevska Palanka",
+    "admin_name": "Smederevska Palanka",
+    "lat": "44.3655",
+    "lng": "20.9587",
+    "id": "1688107292"
+  },
+  {
+    "city": "Bujanovac",
+    "city_ascii": "Bujanovac",
+    "admin_name": "Bujanovac",
+    "lat": "42.4667",
+    "lng": "21.7667",
+    "id": "1688743477"
+  },
+  {
+    "city": "Velika Plana",
+    "city_ascii": "Velika Plana",
+    "admin_name": "Velika Plana",
+    "lat": "44.3333",
+    "lng": "21.0833",
+    "id": "1688536735"
+  },
+  {
+    "city": "Gornji Milanovac",
+    "city_ascii": "Gornji Milanovac",
+    "admin_name": "Gornji Milanovac",
+    "lat": "44.0212",
+    "lng": "20.4560",
+    "id": "1688363978"
+  },
+  {
+    "city": "Prokuplje",
+    "city_ascii": "Prokuplje",
+    "admin_name": "Prokuplje",
+    "lat": "43.2339",
+    "lng": "21.5861",
+    "id": "1688111468"
+  },
+  {
+    "city": "Prijepolje",
+    "city_ascii": "Prijepolje",
+    "admin_name": "Prijepolje",
+    "lat": "43.5439",
+    "lng": "19.6514",
+    "id": "1688287067"
+  },
+  {
+    "city": "Vršac",
+    "city_ascii": "Vrsac",
+    "admin_name": "Vršac",
+    "lat": "45.1206",
+    "lng": "21.2986",
+    "id": "1688560040"
+  },
+  {
+    "city": "Kula",
+    "city_ascii": "Kula",
+    "admin_name": "Kula",
+    "lat": "45.6117",
+    "lng": "19.5292",
+    "id": "1688477275"
+  },
+  {
+    "city": "Negotin",
+    "city_ascii": "Negotin",
+    "admin_name": "Negotin",
+    "lat": "44.2167",
+    "lng": "22.5167",
+    "id": "1688309283"
+  },
+  {
+    "city": "Jagodina",
+    "city_ascii": "Jagodina",
+    "admin_name": "Jagodina",
+    "lat": "43.9750",
+    "lng": "21.2564",
+    "id": "1688452613"
+  },
+  {
+    "city": "Šid",
+    "city_ascii": "Sid",
+    "admin_name": "Šid",
+    "lat": "45.1283",
+    "lng": "19.2264",
+    "id": "1688899483"
+  },
+  {
+    "city": "Bor",
+    "city_ascii": "Bor",
+    "admin_name": "Bor",
+    "lat": "44.1303",
+    "lng": "22.1036",
+    "id": "1688966590"
+  },
+  {
+    "city": "Petrovaradin",
+    "city_ascii": "Petrovaradin",
+    "admin_name": "Novi Sad",
+    "lat": "45.2500",
+    "lng": "19.8667",
+    "id": "1688320028"
+  },
+  {
+    "city": "Kovin",
+    "city_ascii": "Kovin",
+    "admin_name": "Kovin",
+    "lat": "44.7475",
+    "lng": "20.9761",
+    "id": "1688830508"
+  },
+  {
+    "city": "Tutin",
+    "city_ascii": "Tutin",
+    "admin_name": "Tutin",
+    "lat": "42.9875",
+    "lng": "20.3256",
+    "id": "1688161411"
+  },
+  {
+    "city": "Knjaževac",
+    "city_ascii": "Knjazevac",
+    "admin_name": "Knjaževac",
+    "lat": "43.5000",
+    "lng": "22.4333",
+    "id": "1688849183"
+  },
+  {
+    "city": "Petrovac na Mlavi",
+    "city_ascii": "Petrovac na Mlavi",
+    "admin_name": "Petrovac na Mlavi",
+    "lat": "44.3783",
+    "lng": "21.4194",
+    "id": "1688674789"
+  },
+  {
+    "city": "Bečej",
+    "city_ascii": "Becej",
+    "admin_name": "Bečej",
+    "lat": "45.6167",
+    "lng": "20.0333",
+    "id": "1688492797"
+  },
+  {
+    "city": "Subotica",
+    "city_ascii": "Subotica",
+    "admin_name": "Subotica",
+    "lat": "46.1003",
+    "lng": "19.6656",
+    "id": "1688081964"
+  },
+  {
+    "city": "Vlasotince",
+    "city_ascii": "Vlasotince",
+    "admin_name": "Vlasotince",
+    "lat": "42.9667",
+    "lng": "22.1333",
+    "id": "1688116678"
+  },
+  {
+    "city": "Kikinda",
+    "city_ascii": "Kikinda",
+    "admin_name": "Kikinda",
+    "lat": "45.8333",
+    "lng": "20.4500",
+    "id": "1688358284"
+  },
+  {
+    "city": "Ivanjica",
+    "city_ascii": "Ivanjica",
+    "admin_name": "Ivanjica",
+    "lat": "43.5811",
+    "lng": "20.2297",
+    "id": "1688450536"
+  },
+  {
+    "city": "Kaluđerica",
+    "city_ascii": "Kaluderica",
+    "admin_name": "Beograd",
+    "lat": "44.7500",
+    "lng": "20.5500",
+    "id": "1688075114"
+  },
+  {
+    "city": "Aleksandrovac",
+    "city_ascii": "Aleksandrovac",
+    "admin_name": "Aleksandrovac",
+    "lat": "43.4553",
+    "lng": "21.0514",
+    "id": "1688573505"
+  },
+  {
+    "city": "Bajina Bašta",
+    "city_ascii": "Bajina Basta",
+    "admin_name": "Bajina Bašta",
+    "lat": "43.9731",
+    "lng": "19.5597",
+    "id": "1688643521"
+  },
+  {
+    "city": "Temerin",
+    "city_ascii": "Temerin",
+    "admin_name": "Temerin",
+    "lat": "45.4167",
+    "lng": "19.8833",
+    "id": "1688171551"
+  },
+  {
+    "city": "Bačka Palanka",
+    "city_ascii": "Backa Palanka",
+    "admin_name": "Bačka Palanka",
+    "lat": "45.2500",
+    "lng": "19.4000",
+    "id": "1688918464"
+  },
+  {
+    "city": "Raška",
+    "city_ascii": "Raska",
+    "admin_name": "Raška",
+    "lat": "43.2856",
+    "lng": "20.6092",
+    "id": "1688129790"
+  },
+  {
+    "city": "Vrbas",
+    "city_ascii": "Vrbas",
+    "admin_name": "Vrbas",
+    "lat": "45.5667",
+    "lng": "19.6500",
+    "id": "1688145915"
+  },
+  {
+    "city": "Svilajnac",
+    "city_ascii": "Svilajnac",
+    "admin_name": "Svilajnac",
+    "lat": "44.2167",
+    "lng": "21.2000",
+    "id": "1688007802"
+  },
+  {
+    "city": "Apatin",
+    "city_ascii": "Apatin",
+    "admin_name": "Apatin",
+    "lat": "45.6667",
+    "lng": "18.9833",
+    "id": "1688081748"
+  },
+  {
+    "city": "Despotovac",
+    "city_ascii": "Despotovac",
+    "admin_name": "Despotovac",
+    "lat": "44.0833",
+    "lng": "21.4333",
+    "id": "1688388893"
+  },
+  {
+    "city": "Topola",
+    "city_ascii": "Topola",
+    "admin_name": "Topola",
+    "lat": "44.2525",
+    "lng": "20.6761",
+    "id": "1688000008"
+  },
+  {
+    "city": "Surdulica",
+    "city_ascii": "Surdulica",
+    "admin_name": "Surdulica",
+    "lat": "42.6950",
+    "lng": "22.1672",
+    "id": "1688920744"
+  },
+  {
+    "city": "Lebane",
+    "city_ascii": "Lebane",
+    "admin_name": "Lebane",
+    "lat": "42.9167",
+    "lng": "21.7333",
+    "id": "1688169172"
+  },
+  {
+    "city": "Sremčica",
+    "city_ascii": "Sremcica",
+    "admin_name": "Beograd",
+    "lat": "44.6767",
+    "lng": "20.3910",
+    "id": "1688138353"
+  },
+  {
+    "city": "Vladičin Han",
+    "city_ascii": "Vladicin Han",
+    "admin_name": "Vladičin Han",
+    "lat": "42.7000",
+    "lng": "22.0667",
+    "id": "1688664018"
+  },
+  {
+    "city": "Leskovac",
+    "city_ascii": "Leskovac",
+    "admin_name": "Leskovac",
+    "lat": "42.9981",
+    "lng": "21.9461",
+    "id": "1688752541"
+  },
+  {
+    "city": "Lučani",
+    "city_ascii": "Lucani",
+    "admin_name": "Lučani",
+    "lat": "43.8667",
+    "lng": "20.1333",
+    "id": "1688437278"
+  },
+  {
+    "city": "Kladovo",
+    "city_ascii": "Kladovo",
+    "admin_name": "Kladovo",
+    "lat": "44.6039",
+    "lng": "22.6072",
+    "id": "1688823592"
+  },
+  {
+    "city": "Senta",
+    "city_ascii": "Senta",
+    "admin_name": "Senta",
+    "lat": "45.9314",
+    "lng": "20.0900",
+    "id": "1688368364"
+  },
+  {
+    "city": "Pećinci",
+    "city_ascii": "Pecinci",
+    "admin_name": "Pećinci",
+    "lat": "44.9089",
+    "lng": "19.9664",
+    "id": "1688856329"
+  },
+  {
+    "city": "Veternik",
+    "city_ascii": "Veternik",
+    "admin_name": "",
+    "lat": "45.2533",
+    "lng": "19.7608",
+    "id": "1688644381"
+  },
+  {
+    "city": "Arilje",
+    "city_ascii": "Arilje",
+    "admin_name": "Arilje",
+    "lat": "43.7531",
+    "lng": "20.0956",
+    "id": "1688798017"
+  },
+  {
+    "city": "Majdanpek",
+    "city_ascii": "Majdanpek",
+    "admin_name": "Majdanpek",
+    "lat": "44.4167",
+    "lng": "21.9333",
+    "id": "1688109331"
+  },
+  {
+    "city": "Futog",
+    "city_ascii": "Futog",
+    "admin_name": "",
+    "lat": "45.2333",
+    "lng": "19.7167",
+    "id": "1688141881"
+  },
+  {
+    "city": "Varvarin",
+    "city_ascii": "Varvarin",
+    "admin_name": "Varvarin",
+    "lat": "43.7167",
+    "lng": "21.3667",
+    "id": "1688871979"
+  },
+  {
+    "city": "Veliko Gradište",
+    "city_ascii": "Veliko Gradiste",
+    "admin_name": "Veliko Gradište",
+    "lat": "44.7500",
+    "lng": "21.5167",
+    "id": "1688050059"
+  },
+  {
+    "city": "Vladimirci",
+    "city_ascii": "Vladimirci",
+    "admin_name": "Vladimirci",
+    "lat": "44.6167",
+    "lng": "19.7833",
+    "id": "1688070989"
+  },
+  {
+    "city": "Krupanj",
+    "city_ascii": "Krupanj",
+    "admin_name": "Krupanj",
+    "lat": "44.3667",
+    "lng": "19.3667",
+    "id": "1688954602"
+  },
+  {
+    "city": "Trstenik",
+    "city_ascii": "Trstenik",
+    "admin_name": "Trstenik",
+    "lat": "43.6186",
+    "lng": "20.9972",
+    "id": "1688148503"
+  },
+  {
+    "city": "Nova Pazova",
+    "city_ascii": "Nova Pazova",
+    "admin_name": "",
+    "lat": "44.9500",
+    "lng": "20.2167",
+    "id": "1688348841"
+  },
+  {
+    "city": "Žitorađa",
+    "city_ascii": "Zitorada",
+    "admin_name": "Žitorađa",
+    "lat": "43.1833",
+    "lng": "21.7167",
+    "id": "1688262057"
+  },
+  {
+    "city": "Brus",
+    "city_ascii": "Brus",
+    "admin_name": "Brus",
+    "lat": "43.3836",
+    "lng": "21.0336",
+    "id": "1688936225"
+  },
+  {
+    "city": "Kuršumlija",
+    "city_ascii": "Kursumlija",
+    "admin_name": "Kuršumlija",
+    "lat": "43.1408",
+    "lng": "21.2678",
+    "id": "1688343996"
+  },
+  {
+    "city": "Titel",
+    "city_ascii": "Titel",
+    "admin_name": "Titel",
+    "lat": "45.2000",
+    "lng": "20.3000",
+    "id": "1688633486"
+  },
+  {
+    "city": "Kučevo",
+    "city_ascii": "Kucevo",
+    "admin_name": "Kučevo",
+    "lat": "44.4833",
+    "lng": "21.6667",
+    "id": "1688495771"
+  },
+  {
+    "city": "Lajkovac",
+    "city_ascii": "Lajkovac",
+    "admin_name": "Lajkovac",
+    "lat": "44.3667",
+    "lng": "20.1667",
+    "id": "1688900219"
+  },
+  {
+    "city": "Čajetina",
+    "city_ascii": "Cajetina",
+    "admin_name": "Čajetina",
+    "lat": "43.7500",
+    "lng": "19.7167",
+    "id": "1688018668"
+  },
+  {
+    "city": "Srbobran",
+    "city_ascii": "Srbobran",
+    "admin_name": "Srbobran",
+    "lat": "45.5333",
+    "lng": "19.7833",
+    "id": "1688431448"
+  },
+  {
+    "city": "Mionica",
+    "city_ascii": "Mionica",
+    "admin_name": "Mionica",
+    "lat": "44.2500",
+    "lng": "20.0833",
+    "id": "1688862283"
+  },
+  {
+    "city": "Svrljig",
+    "city_ascii": "Svrljig",
+    "admin_name": "Svrljig",
+    "lat": "43.4167",
+    "lng": "22.1167",
+    "id": "1688519603"
+  },
+  {
+    "city": "Knić",
+    "city_ascii": "Knic",
+    "admin_name": "Knić",
+    "lat": "43.9167",
+    "lng": "20.7167",
+    "id": "1688545619"
+  },
+  {
+    "city": "Sremska Kamenica",
+    "city_ascii": "Sremska Kamenica",
+    "admin_name": "",
+    "lat": "45.2206",
+    "lng": "19.8392",
+    "id": "1688087765"
+  },
+  {
+    "city": "Niška Banja",
+    "city_ascii": "Niska Banja",
+    "admin_name": "Niš",
+    "lat": "43.2943",
+    "lng": "22.0099",
+    "id": "1688095113"
+  },
+  {
+    "city": "Sjenica",
+    "city_ascii": "Sjenica",
+    "admin_name": "Sjenica",
+    "lat": "43.2667",
+    "lng": "20.0000",
+    "id": "1688303533"
+  },
+  {
+    "city": "Merošina",
+    "city_ascii": "Merosina",
+    "admin_name": "Merošina",
+    "lat": "43.2833",
+    "lng": "21.7167",
+    "id": "1688733340"
+  },
+  {
+    "city": "Kostolac",
+    "city_ascii": "Kostolac",
+    "admin_name": "Požarevac",
+    "lat": "44.7167",
+    "lng": "21.1667",
+    "id": "1688162450"
+  },
+  {
+    "city": "Nova Varoš",
+    "city_ascii": "Nova Varos",
+    "admin_name": "Nova Varoš",
+    "lat": "43.4667",
+    "lng": "19.8203",
+    "id": "1688051556"
+  },
+  {
+    "city": "Žitište",
+    "city_ascii": "Zitiste",
+    "admin_name": "Žitište",
+    "lat": "45.4833",
+    "lng": "20.5500",
+    "id": "1688363591"
+  },
+  {
+    "city": "Novi Bečej",
+    "city_ascii": "Novi Becej",
+    "admin_name": "Novi Bečej",
+    "lat": "45.6000",
+    "lng": "20.1167",
+    "id": "1688588712"
+  },
+  {
+    "city": "Osečina",
+    "city_ascii": "Osecina",
+    "admin_name": "Osečina",
+    "lat": "44.3667",
+    "lng": "19.6000",
+    "id": "1688862457"
+  },
+  {
+    "city": "Bela Palanka",
+    "city_ascii": "Bela Palanka",
+    "admin_name": "Bela Palanka",
+    "lat": "43.2178",
+    "lng": "22.3067",
+    "id": "1688276422"
+  },
+  {
+    "city": "Kosjerić",
+    "city_ascii": "Kosjeric",
+    "admin_name": "Kosjerić",
+    "lat": "44.0000",
+    "lng": "19.9167",
+    "id": "1688365764"
+  },
+  {
+    "city": "Bačka Topola",
+    "city_ascii": "Backa Topola",
+    "admin_name": "Bačka Topola",
+    "lat": "45.8167",
+    "lng": "19.6333",
+    "id": "1688533352"
+  },
+  {
+    "city": "Batočina",
+    "city_ascii": "Batocina",
+    "admin_name": "Batočina",
+    "lat": "44.1500",
+    "lng": "21.0833",
+    "id": "1688299986"
+  },
+  {
+    "city": "Blace",
+    "city_ascii": "Blace",
+    "admin_name": "Blace",
+    "lat": "43.2906",
+    "lng": "21.2847",
+    "id": "1688233004"
+  },
+  {
+    "city": "Rača",
+    "city_ascii": "Raca",
+    "admin_name": "Rača",
+    "lat": "44.2333",
+    "lng": "20.9833",
+    "id": "1688403125"
+  },
+  {
+    "city": "Malo Crniće",
+    "city_ascii": "Malo Crnice",
+    "admin_name": "Malo Crniće",
+    "lat": "44.5667",
+    "lng": "21.2833",
+    "id": "1688544172"
+  },
+  {
+    "city": "Kać",
+    "city_ascii": "Kac",
+    "admin_name": "",
+    "lat": "45.3000",
+    "lng": "19.9500",
+    "id": "1688942926"
+  },
+  {
+    "city": "Rekovac",
+    "city_ascii": "Rekovac",
+    "admin_name": "Rekovac",
+    "lat": "43.8667",
+    "lng": "21.1333",
+    "id": "1688955843"
+  },
+  {
+    "city": "Ugrinovci",
+    "city_ascii": "Ugrinovci",
+    "admin_name": "Beograd",
+    "lat": "44.8763",
+    "lng": "20.1876",
+    "id": "1688470425"
+  },
+  {
+    "city": "Bela Crkva",
+    "city_ascii": "Bela Crkva",
+    "admin_name": "Bela Crkva",
+    "lat": "44.8975",
+    "lng": "21.4172",
+    "id": "1688101335"
+  },
+  {
+    "city": "Laćarak",
+    "city_ascii": "Lacarak",
+    "admin_name": "",
+    "lat": "45.0022",
+    "lng": "19.5686",
+    "id": "1688011323"
+  },
+  {
+    "city": "Ada",
+    "city_ascii": "Ada",
+    "admin_name": "Ada",
+    "lat": "45.8000",
+    "lng": "20.1333",
+    "id": "1688687750"
+  },
+  {
+    "city": "Sečanj",
+    "city_ascii": "Secanj",
+    "admin_name": "Sečanj",
+    "lat": "45.3667",
+    "lng": "20.7725",
+    "id": "1688905613"
+  },
+  {
+    "city": "Vrnjačka Banja",
+    "city_ascii": "Vrnjacka Banja",
+    "admin_name": "Vrnjačka Banja",
+    "lat": "43.6167",
+    "lng": "20.9000",
+    "id": "1688549018"
+  },
+  {
+    "city": "Kanjiža",
+    "city_ascii": "Kanjiza",
+    "admin_name": "Kanjiža",
+    "lat": "46.0667",
+    "lng": "20.0500",
+    "id": "1688731968"
+  },
+  {
+    "city": "Ćuprija",
+    "city_ascii": "Cuprija",
+    "admin_name": "Ćuprija",
+    "lat": "43.9231",
+    "lng": "21.3686",
+    "id": "1688642855"
+  },
+  {
+    "city": "Ćićevac",
+    "city_ascii": "Cicevac",
+    "admin_name": "Ćićevac",
+    "lat": "43.7167",
+    "lng": "21.4500",
+    "id": "1688834584"
+  },
+  {
+    "city": "Novi Banovci",
+    "city_ascii": "Novi Banovci",
+    "admin_name": "",
+    "lat": "44.9500",
+    "lng": "20.2833",
+    "id": "1688687724"
+  },
+  {
+    "city": "Padinska Skela",
+    "city_ascii": "Padinska Skela",
+    "admin_name": "Beograd",
+    "lat": "44.9429",
+    "lng": "20.4255",
+    "id": "1688172132"
+  },
+  {
+    "city": "Žabalj",
+    "city_ascii": "Zabalj",
+    "admin_name": "Žabalj",
+    "lat": "45.3667",
+    "lng": "20.0667",
+    "id": "1688662344"
+  },
+  {
+    "city": "Ražanj",
+    "city_ascii": "Razanj",
+    "admin_name": "Ražanj",
+    "lat": "43.6667",
+    "lng": "21.5500",
+    "id": "1688323517"
+  },
+  {
+    "city": "Crvenka",
+    "city_ascii": "Crvenka",
+    "admin_name": "",
+    "lat": "45.6583",
+    "lng": "19.4556",
+    "id": "1688952283"
+  },
+  {
+    "city": "Sremski Karlovci",
+    "city_ascii": "Sremski Karlovci",
+    "admin_name": "Sremski Karlovci",
+    "lat": "45.2000",
+    "lng": "19.9333",
+    "id": "1688215764"
+  },
+  {
+    "city": "Dobanovci",
+    "city_ascii": "Dobanovci",
+    "admin_name": "Beograd",
+    "lat": "44.8228",
+    "lng": "20.2219",
+    "id": "1688744235"
+  },
+  {
+    "city": "Gadžin Han",
+    "city_ascii": "Gadzin Han",
+    "admin_name": "Gadžin Han",
+    "lat": "43.2203",
+    "lng": "22.0258",
+    "id": "1688569895"
+  },
+  {
+    "city": "Golubac",
+    "city_ascii": "Golubac",
+    "admin_name": "Golubac",
+    "lat": "44.6530",
+    "lng": "21.6320",
+    "id": "1688460377"
+  },
+  {
+    "city": "Nova Crnja",
+    "city_ascii": "Nova Crnja",
+    "admin_name": "Nova Crnja",
+    "lat": "45.6667",
+    "lng": "20.6000",
+    "id": "1688294163"
+  },
+  {
+    "city": "Beočin",
+    "city_ascii": "Beocin",
+    "admin_name": "Beočin",
+    "lat": "45.1922",
+    "lng": "19.7203",
+    "id": "1688152997"
+  },
+  {
+    "city": "Dimitrovgrad",
+    "city_ascii": "Dimitrovgrad",
+    "admin_name": "Dimitrovgrad",
+    "lat": "43.0167",
+    "lng": "22.7833",
+    "id": "1688139023"
+  },
+  {
+    "city": "Sokobanja",
+    "city_ascii": "Sokobanja",
+    "admin_name": "Sokobanja",
+    "lat": "43.6394",
+    "lng": "21.8694",
+    "id": "1688282797"
+  },
+  {
+    "city": "Odžaci",
+    "city_ascii": "Odzaci",
+    "admin_name": "Odžaci",
+    "lat": "45.5167",
+    "lng": "19.2667",
+    "id": "1688373834"
+  },
+  {
+    "city": "Bački Petrovac",
+    "city_ascii": "Backi Petrovac",
+    "admin_name": "Bački Petrovac",
+    "lat": "45.3606",
+    "lng": "19.5917",
+    "id": "1688400393"
+  },
+  {
+    "city": "Lapovo",
+    "city_ascii": "Lapovo",
+    "admin_name": "Lapovo",
+    "lat": "44.1833",
+    "lng": "21.1000",
+    "id": "1688267080"
+  },
+  {
+    "city": "Bogatić",
+    "city_ascii": "Bogatic",
+    "admin_name": "Bogatić",
+    "lat": "44.8333",
+    "lng": "19.4833",
+    "id": "1688635508"
+  },
+  {
+    "city": "Medveđa",
+    "city_ascii": "Medveda",
+    "admin_name": "Medveđa",
+    "lat": "42.8333",
+    "lng": "21.5833",
+    "id": "1688014462"
+  },
+  {
+    "city": "Ub",
+    "city_ascii": "Ub",
+    "admin_name": "Ub",
+    "lat": "44.4500",
+    "lng": "20.0667",
+    "id": "1688701954"
+  },
+  {
+    "city": "Bač",
+    "city_ascii": "Bac",
+    "admin_name": "Bač",
+    "lat": "45.3833",
+    "lng": "19.2333",
+    "id": "1688168992"
+  },
+  {
+    "city": "Novi Kneževac",
+    "city_ascii": "Novi Knezevac",
+    "admin_name": "Novi Kneževac",
+    "lat": "46.0500",
+    "lng": "20.1000",
+    "id": "1688706489"
+  },
+  {
+    "city": "Mali Iđoš",
+    "city_ascii": "Mali Idos",
+    "admin_name": "Mali Iđoš",
+    "lat": "45.7069",
+    "lng": "19.6644",
+    "id": "1688501809"
+  },
+  {
+    "city": "Kovačica",
+    "city_ascii": "Kovacica",
+    "admin_name": "Kovačica",
+    "lat": "45.1117",
+    "lng": "20.6214",
+    "id": "1688530993"
+  },
+  {
+    "city": "Irig",
+    "city_ascii": "Irig",
+    "admin_name": "Irig",
+    "lat": "45.1011",
+    "lng": "19.8583",
+    "id": "1688660485"
+  },
+  {
+    "city": "Čoka",
+    "city_ascii": "Coka",
+    "admin_name": "Čoka",
+    "lat": "45.9333",
+    "lng": "20.1500",
+    "id": "1688200508"
+  },
+  {
+    "city": "Opovo",
+    "city_ascii": "Opovo",
+    "admin_name": "Opovo",
+    "lat": "45.0514",
+    "lng": "20.4247",
+    "id": "1688371736"
+  },
+  {
+    "city": "Plandište",
+    "city_ascii": "Plandiste",
+    "admin_name": "Plandište",
+    "lat": "45.2269",
+    "lng": "21.1217",
+    "id": "1688176320"
+  },
+  {
+    "city": "Alibunar",
+    "city_ascii": "Alibunar",
+    "admin_name": "Alibunar",
+    "lat": "45.0808",
+    "lng": "20.9658",
+    "id": "1688248362"
+  },
+  {
+    "city": "Crna Trava",
+    "city_ascii": "Crna Trava",
+    "admin_name": "Crna Trava",
+    "lat": "42.8101",
+    "lng": "22.2990",
+    "id": "1688208441"
+  },
+  {
+    "city": "Bosilegrad",
+    "city_ascii": "Bosilegrad",
+    "admin_name": "Bosilegrad",
+    "lat": "42.5005",
+    "lng": "22.4728",
+    "id": "1688870763"
+  },
+  {
+    "city": "Žagubica",
+    "city_ascii": "Zagubica",
+    "admin_name": "Žagubica",
+    "lat": "44.1979",
+    "lng": "21.7902",
+    "id": "1688849472"
+  },
+  {
+    "city": "Požega",
+    "city_ascii": "Pozega",
+    "admin_name": "Požega",
+    "lat": "43.8459",
+    "lng": "20.0368",
+    "id": "1688211541"
+  },
+  {
+    "city": "Doljevac",
+    "city_ascii": "Doljevac",
+    "admin_name": "Doljevac",
+    "lat": "43.1968",
+    "lng": "21.8334",
+    "id": "1688354392"
+  },
+  {
+    "city": "Boljevac",
+    "city_ascii": "Boljevac",
+    "admin_name": "Boljevac",
+    "lat": "43.8247",
+    "lng": "21.9519",
+    "id": "1688076013"
+  },
+  {
+    "city": "Ljubovija",
+    "city_ascii": "Ljubovija",
+    "admin_name": "Ljubovija",
+    "lat": "44.1869",
+    "lng": "19.3728",
+    "id": "1688274240"
+  },
+  {
+    "city": "Babušnica",
+    "city_ascii": "Babusnica",
+    "admin_name": "Babušnica",
+    "lat": "43.0680",
+    "lng": "22.4115",
+    "id": "1688685780"
+  },
+  {
+    "city": "Preševo",
+    "city_ascii": "Presevo",
+    "admin_name": "Preševo",
+    "lat": "42.3067",
+    "lng": "21.6500",
+    "id": "1688970219"
+  },
+  {
+    "city": "Ljig",
+    "city_ascii": "Ljig",
+    "admin_name": "Ljig",
+    "lat": "44.2213",
+    "lng": "20.2375",
+    "id": "1688555007"
+  },
+  {
+    "city": "Mali Zvornik",
+    "city_ascii": "Mali Zvornik",
+    "admin_name": "Mali Zvornik",
+    "lat": "44.3992",
+    "lng": "19.1214",
+    "id": "1688513998"
+  },
+  {
+    "city": "Priboj",
+    "city_ascii": "Priboj",
+    "admin_name": "Priboj",
+    "lat": "43.5836",
+    "lng": "19.5258",
+    "id": "1688522811"
+  },
+  {
+    "city": "Bojnik",
+    "city_ascii": "Bojnik",
+    "admin_name": "Bojnik",
+    "lat": "43.0142",
+    "lng": "21.7180",
+    "id": "1688559807"
+  },
+  {
+    "city": "Koceljeva",
+    "city_ascii": "Koceljeva",
+    "admin_name": "Koceljeva",
+    "lat": "44.4708",
+    "lng": "19.8070",
+    "id": "1688585119"
+  },
+  {
+    "city": "Žabari",
+    "city_ascii": "Zabari",
+    "admin_name": "Žabari",
+    "lat": "44.3562",
+    "lng": "21.2143",
+    "id": "1688661944"
+  },
+  {
+    "city": "Trgovište",
+    "city_ascii": "Trgoviste",
+    "admin_name": "Trgovište",
+    "lat": "42.3514",
+    "lng": "22.0921",
+    "id": "1688150657"
+  }
+]

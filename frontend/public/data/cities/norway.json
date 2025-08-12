@@ -1,0 +1,994 @@
+[
+  {
+    "city": "Oslo",
+    "city_ascii": "Oslo",
+    "admin_name": "Oslo",
+    "lat": "59.9133",
+    "lng": "10.7389",
+    "id": "1578324706"
+  },
+  {
+    "city": "Bergen",
+    "city_ascii": "Bergen",
+    "admin_name": "Vestland",
+    "lat": "60.3925",
+    "lng": "5.3233",
+    "id": "1578465701"
+  },
+  {
+    "city": "Trondheim",
+    "city_ascii": "Trondheim",
+    "admin_name": "Trøndelag",
+    "lat": "63.4400",
+    "lng": "10.4000",
+    "id": "1578633461"
+  },
+  {
+    "city": "Stavanger",
+    "city_ascii": "Stavanger",
+    "admin_name": "Rogaland",
+    "lat": "58.9700",
+    "lng": "5.7314",
+    "id": "1578801684"
+  },
+  {
+    "city": "Sandvika",
+    "city_ascii": "Sandvika",
+    "admin_name": "Viken",
+    "lat": "59.8900",
+    "lng": "10.5264",
+    "id": "1578704639"
+  },
+  {
+    "city": "Drammen",
+    "city_ascii": "Drammen",
+    "admin_name": "Viken",
+    "lat": "59.7439",
+    "lng": "10.2045",
+    "id": "1578937195"
+  },
+  {
+    "city": "Sandefjord",
+    "city_ascii": "Sandefjord",
+    "admin_name": "Vestfold og Telemark",
+    "lat": "59.1288",
+    "lng": "10.2197",
+    "id": "1578389701"
+  },
+  {
+    "city": "Kristiansand",
+    "city_ascii": "Kristiansand",
+    "admin_name": "Agder",
+    "lat": "58.1467",
+    "lng": "7.9956",
+    "id": "1578642977"
+  },
+  {
+    "city": "Fredrikstad",
+    "city_ascii": "Fredrikstad",
+    "admin_name": "Viken",
+    "lat": "59.2181",
+    "lng": "10.9298",
+    "id": "1578625656"
+  },
+  {
+    "city": "Nordre Fåle",
+    "city_ascii": "Nordre Fale",
+    "admin_name": "Viken",
+    "lat": "59.7500",
+    "lng": "10.8667",
+    "id": "1578002015"
+  },
+  {
+    "city": "Asker",
+    "city_ascii": "Asker",
+    "admin_name": "Viken",
+    "lat": "59.8331",
+    "lng": "10.4392",
+    "id": "1578961890"
+  },
+  {
+    "city": "Sandnes",
+    "city_ascii": "Sandnes",
+    "admin_name": "Rogaland",
+    "lat": "58.8500",
+    "lng": "5.7333",
+    "id": "1578525190"
+  },
+  {
+    "city": "Tønsberg",
+    "city_ascii": "Tonsberg",
+    "admin_name": "Vestfold og Telemark",
+    "lat": "59.2981",
+    "lng": "10.4236",
+    "id": "1578658467"
+  },
+  {
+    "city": "Sarpsborg",
+    "city_ascii": "Sarpsborg",
+    "admin_name": "Viken",
+    "lat": "59.2839",
+    "lng": "11.1096",
+    "id": "1578097769"
+  },
+  {
+    "city": "Ålesund",
+    "city_ascii": "Alesund",
+    "admin_name": "Møre og Romsdal",
+    "lat": "62.4723",
+    "lng": "6.1549",
+    "id": "1578050516"
+  },
+  {
+    "city": "Skien",
+    "city_ascii": "Skien",
+    "admin_name": "Vestfold og Telemark",
+    "lat": "59.2096",
+    "lng": "9.6090",
+    "id": "1578807356"
+  },
+  {
+    "city": "Lørenskog",
+    "city_ascii": "Lorenskog",
+    "admin_name": "Viken",
+    "lat": "59.8989",
+    "lng": "10.9642",
+    "id": "1578059629"
+  },
+  {
+    "city": "Arendal",
+    "city_ascii": "Arendal",
+    "admin_name": "Agder",
+    "lat": "58.4617",
+    "lng": "8.7721",
+    "id": "1578533046"
+  },
+  {
+    "city": "Haugesund",
+    "city_ascii": "Haugesund",
+    "admin_name": "Rogaland",
+    "lat": "59.4164",
+    "lng": "5.2700",
+    "id": "1578805813"
+  },
+  {
+    "city": "Bodø",
+    "city_ascii": "Bodo",
+    "admin_name": "Nordland",
+    "lat": "67.2827",
+    "lng": "14.3751",
+    "id": "1578023501"
+  },
+  {
+    "city": "Tromsø",
+    "city_ascii": "Tromso",
+    "admin_name": "Troms og Finnmark",
+    "lat": "69.6517",
+    "lng": "18.9556",
+    "id": "1578188822"
+  },
+  {
+    "city": "Porsgrunn",
+    "city_ascii": "Porsgrunn",
+    "admin_name": "Vestfold og Telemark",
+    "lat": "59.1419",
+    "lng": "9.6568",
+    "id": "1578150916"
+  },
+  {
+    "city": "Ringsaker",
+    "city_ascii": "Ringsaker",
+    "admin_name": "Innlandet",
+    "lat": "60.9000",
+    "lng": "10.7333",
+    "id": "1578611812"
+  },
+  {
+    "city": "Halden",
+    "city_ascii": "Halden",
+    "admin_name": "Viken",
+    "lat": "59.1500",
+    "lng": "11.3833",
+    "id": "1578441478"
+  },
+  {
+    "city": "Askøy",
+    "city_ascii": "Askoy",
+    "admin_name": "Vestland",
+    "lat": "60.4000",
+    "lng": "5.1833",
+    "id": "1578869945"
+  },
+  {
+    "city": "Ski",
+    "city_ascii": "Ski",
+    "admin_name": "Viken",
+    "lat": "59.7167",
+    "lng": "10.8333",
+    "id": "1578776384"
+  },
+  {
+    "city": "Lier",
+    "city_ascii": "Lier",
+    "admin_name": "Viken",
+    "lat": "59.8675",
+    "lng": "10.2142",
+    "id": "1578874426"
+  },
+  {
+    "city": "Hamar",
+    "city_ascii": "Hamar",
+    "admin_name": "Innlandet",
+    "lat": "60.7944",
+    "lng": "11.0678",
+    "id": "1578111692"
+  },
+  {
+    "city": "Oppegård",
+    "city_ascii": "Oppegard",
+    "admin_name": "Viken",
+    "lat": "59.7797",
+    "lng": "10.7519",
+    "id": "1578023739"
+  },
+  {
+    "city": "Nittedal",
+    "city_ascii": "Nittedal",
+    "admin_name": "Viken",
+    "lat": "60.0731",
+    "lng": "10.8722",
+    "id": "1578894489"
+  },
+  {
+    "city": "Harstad",
+    "city_ascii": "Harstad",
+    "admin_name": "Troms og Finnmark",
+    "lat": "68.7989",
+    "lng": "16.5314",
+    "id": "1578844884"
+  },
+  {
+    "city": "Kongsberg",
+    "city_ascii": "Kongsberg",
+    "admin_name": "Viken",
+    "lat": "59.6500",
+    "lng": "9.6500",
+    "id": "1578035378"
+  },
+  {
+    "city": "Sand",
+    "city_ascii": "Sand",
+    "admin_name": "Vestfold og Telemark",
+    "lat": "59.0886",
+    "lng": "10.4317",
+    "id": "1578001129"
+  },
+  {
+    "city": "Eidsvoll",
+    "city_ascii": "Eidsvoll",
+    "admin_name": "Viken",
+    "lat": "60.3167",
+    "lng": "11.2333",
+    "id": "1578516896"
+  },
+  {
+    "city": "Larvik",
+    "city_ascii": "Larvik",
+    "admin_name": "Vestfold og Telemark",
+    "lat": "59.0532",
+    "lng": "10.0271",
+    "id": "1578938550"
+  },
+  {
+    "city": "Stjørdal",
+    "city_ascii": "Stjordal",
+    "admin_name": "Trøndelag",
+    "lat": "63.4703",
+    "lng": "10.9122",
+    "id": "1578420419"
+  },
+  {
+    "city": "Borre",
+    "city_ascii": "Borre",
+    "admin_name": "Vestfold og Telemark",
+    "lat": "59.3819",
+    "lng": "10.4380",
+    "id": "1578001449"
+  },
+  {
+    "city": "Helleland",
+    "city_ascii": "Helleland",
+    "admin_name": "Rogaland",
+    "lat": "58.8333",
+    "lng": "5.6000",
+    "id": "1578920333"
+  },
+  {
+    "city": "Røyken",
+    "city_ascii": "Royken",
+    "admin_name": "Viken",
+    "lat": "59.7336",
+    "lng": "10.4289",
+    "id": "1578092486"
+  },
+  {
+    "city": "Nøtterøy",
+    "city_ascii": "Notteroy",
+    "admin_name": "Vestfold og Telemark",
+    "lat": "59.2011",
+    "lng": "10.4078",
+    "id": "1578114950"
+  },
+  {
+    "city": "Nedre Eiker",
+    "city_ascii": "Nedre Eiker",
+    "admin_name": "Viken",
+    "lat": "59.7667",
+    "lng": "10.0333",
+    "id": "1578585975"
+  },
+  {
+    "city": "Stange",
+    "city_ascii": "Stange",
+    "admin_name": "Innlandet",
+    "lat": "60.7167",
+    "lng": "11.1833",
+    "id": "1578696237"
+  },
+  {
+    "city": "Molde",
+    "city_ascii": "Molde",
+    "admin_name": "Møre og Romsdal",
+    "lat": "62.7375",
+    "lng": "7.1631",
+    "id": "1578540727"
+  },
+  {
+    "city": "Ås",
+    "city_ascii": "As",
+    "admin_name": "Viken",
+    "lat": "59.6667",
+    "lng": "10.8000",
+    "id": "1578160935"
+  },
+  {
+    "city": "Kleppe",
+    "city_ascii": "Kleppe",
+    "admin_name": "Rogaland",
+    "lat": "58.7667",
+    "lng": "5.6667",
+    "id": "1578765733"
+  },
+  {
+    "city": "Gjøvik",
+    "city_ascii": "Gjovik",
+    "admin_name": "Innlandet",
+    "lat": "60.7957",
+    "lng": "10.6916",
+    "id": "1578892271"
+  },
+  {
+    "city": "Lillehammer",
+    "city_ascii": "Lillehammer",
+    "admin_name": "Innlandet",
+    "lat": "61.1161",
+    "lng": "10.4578",
+    "id": "1578724478"
+  },
+  {
+    "city": "Horten",
+    "city_ascii": "Horten",
+    "admin_name": "Vestfold og Telemark",
+    "lat": "59.4172",
+    "lng": "10.4834",
+    "id": "1578000515"
+  },
+  {
+    "city": "Frøyland",
+    "city_ascii": "Froyland",
+    "admin_name": "Rogaland",
+    "lat": "58.9167",
+    "lng": "5.8500",
+    "id": "1578422189"
+  },
+  {
+    "city": "Høyland",
+    "city_ascii": "Hoyland",
+    "admin_name": "Rogaland",
+    "lat": "58.6833",
+    "lng": "5.5833",
+    "id": "1578521396"
+  },
+  {
+    "city": "Nesoddtangen",
+    "city_ascii": "Nesoddtangen",
+    "admin_name": "Viken",
+    "lat": "59.8086",
+    "lng": "10.6556",
+    "id": "1578569253"
+  },
+  {
+    "city": "Time",
+    "city_ascii": "Time",
+    "admin_name": "Rogaland",
+    "lat": "58.7333",
+    "lng": "5.7000",
+    "id": "1578972107"
+  },
+  {
+    "city": "Os",
+    "city_ascii": "Os",
+    "admin_name": "Vestland",
+    "lat": "60.1835",
+    "lng": "5.4666",
+    "id": "1578224963"
+  },
+  {
+    "city": "Stord",
+    "city_ascii": "Stord",
+    "admin_name": "Vestland",
+    "lat": "59.7738",
+    "lng": "5.4903",
+    "id": "1578682657"
+  },
+  {
+    "city": "Mo i Rana",
+    "city_ascii": "Mo i Rana",
+    "admin_name": "Nordland",
+    "lat": "66.3167",
+    "lng": "14.1667",
+    "id": "1578067925"
+  },
+  {
+    "city": "Kristiansund",
+    "city_ascii": "Kristiansund",
+    "admin_name": "Møre og Romsdal",
+    "lat": "63.1105",
+    "lng": "7.7279",
+    "id": "1578717143"
+  },
+  {
+    "city": "Åsane",
+    "city_ascii": "Asane",
+    "admin_name": "Vestland",
+    "lat": "60.4744",
+    "lng": "5.3250",
+    "id": "1578429276"
+  },
+  {
+    "city": "Kosvik",
+    "city_ascii": "Kosvik",
+    "admin_name": "Agder",
+    "lat": "58.1500",
+    "lng": "8.0667",
+    "id": "1578433332"
+  },
+  {
+    "city": "Tromsdalen",
+    "city_ascii": "Tromsdalen",
+    "admin_name": "Troms og Finnmark",
+    "lat": "69.6500",
+    "lng": "19.0167",
+    "id": "1578517782"
+  },
+  {
+    "city": "Hønefoss",
+    "city_ascii": "Honefoss",
+    "admin_name": "Viken",
+    "lat": "60.1667",
+    "lng": "10.3000",
+    "id": "1578754019"
+  },
+  {
+    "city": "Rygge",
+    "city_ascii": "Rygge",
+    "admin_name": "Viken",
+    "lat": "59.3747",
+    "lng": "10.7147",
+    "id": "1578903321"
+  },
+  {
+    "city": "Voss",
+    "city_ascii": "Voss",
+    "admin_name": "Vestland",
+    "lat": "60.7025",
+    "lng": "6.4231",
+    "id": "1578803539"
+  },
+  {
+    "city": "Frogn",
+    "city_ascii": "Frogn",
+    "admin_name": "Viken",
+    "lat": "59.6989",
+    "lng": "10.6553",
+    "id": "1578001728"
+  },
+  {
+    "city": "Lindås",
+    "city_ascii": "Lindas",
+    "admin_name": "Vestland",
+    "lat": "60.7381",
+    "lng": "5.1600",
+    "id": "1578074399"
+  },
+  {
+    "city": "Nannestad",
+    "city_ascii": "Nannestad",
+    "admin_name": "Viken",
+    "lat": "60.2456",
+    "lng": "10.9528",
+    "id": "1578500041"
+  },
+  {
+    "city": "Alta",
+    "city_ascii": "Alta",
+    "admin_name": "Troms og Finnmark",
+    "lat": "69.9686",
+    "lng": "23.2714",
+    "id": "1578308187"
+  },
+  {
+    "city": "Vennesla",
+    "city_ascii": "Vennesla",
+    "admin_name": "Agder",
+    "lat": "58.3106",
+    "lng": "7.8569",
+    "id": "1578283395"
+  },
+  {
+    "city": "Verdal",
+    "city_ascii": "Verdal",
+    "admin_name": "Trøndelag",
+    "lat": "63.7922",
+    "lng": "11.4817",
+    "id": "1578893544"
+  },
+  {
+    "city": "Malvik",
+    "city_ascii": "Malvik",
+    "admin_name": "Trøndelag",
+    "lat": "63.4333",
+    "lng": "10.6833",
+    "id": "1578696010"
+  },
+  {
+    "city": "Askim",
+    "city_ascii": "Askim",
+    "admin_name": "Viken",
+    "lat": "59.5832",
+    "lng": "11.1629",
+    "id": "1578155881"
+  },
+  {
+    "city": "Bamble",
+    "city_ascii": "Bamble",
+    "admin_name": "Vestfold og Telemark",
+    "lat": "59.0197",
+    "lng": "9.5608",
+    "id": "1578030718"
+  },
+  {
+    "city": "Leirvik",
+    "city_ascii": "Leirvik",
+    "admin_name": "Vestland",
+    "lat": "59.7800",
+    "lng": "5.4994",
+    "id": "1578908792"
+  },
+  {
+    "city": "Narvik",
+    "city_ascii": "Narvik",
+    "admin_name": "Nordland",
+    "lat": "68.4383",
+    "lng": "17.4278",
+    "id": "1578744025"
+  },
+  {
+    "city": "Gran",
+    "city_ascii": "Gran",
+    "admin_name": "Innlandet",
+    "lat": "60.3667",
+    "lng": "10.5667",
+    "id": "1578913505"
+  },
+  {
+    "city": "Strand",
+    "city_ascii": "Strand",
+    "admin_name": "Rogaland",
+    "lat": "59.0500",
+    "lng": "5.9333",
+    "id": "1578528180"
+  },
+  {
+    "city": "Drøbak",
+    "city_ascii": "Drobak",
+    "admin_name": "Viken",
+    "lat": "59.6667",
+    "lng": "10.6333",
+    "id": "1578855474"
+  },
+  {
+    "city": "Fåberg",
+    "city_ascii": "Faberg",
+    "admin_name": "Innlandet",
+    "lat": "61.1667",
+    "lng": "10.4000",
+    "id": "1578605281"
+  },
+  {
+    "city": "Grimstad",
+    "city_ascii": "Grimstad",
+    "admin_name": "Agder",
+    "lat": "58.3405",
+    "lng": "8.5934",
+    "id": "1578703293"
+  },
+  {
+    "city": "Vestby",
+    "city_ascii": "Vestby",
+    "admin_name": "Viken",
+    "lat": "59.6051",
+    "lng": "10.7524",
+    "id": "1578197278"
+  },
+  {
+    "city": "Stjørdalshalsen",
+    "city_ascii": "Stjordalshalsen",
+    "admin_name": "Trøndelag",
+    "lat": "63.4667",
+    "lng": "10.9333",
+    "id": "1578486368"
+  },
+  {
+    "city": "Steinkjer",
+    "city_ascii": "Steinkjer",
+    "admin_name": "Trøndelag",
+    "lat": "64.0147",
+    "lng": "11.4942",
+    "id": "1578642047"
+  },
+  {
+    "city": "Sørum",
+    "city_ascii": "Sorum",
+    "admin_name": "Viken",
+    "lat": "60.0000",
+    "lng": "11.2333",
+    "id": "1578429477"
+  },
+  {
+    "city": "Bryne",
+    "city_ascii": "Bryne",
+    "admin_name": "Rogaland",
+    "lat": "58.7333",
+    "lng": "5.6500",
+    "id": "1578311049"
+  },
+  {
+    "city": "Sogndal",
+    "city_ascii": "Sogndal",
+    "admin_name": "Vestland",
+    "lat": "61.2315",
+    "lng": "7.1027",
+    "id": "1578132527"
+  },
+  {
+    "city": "Bømlo",
+    "city_ascii": "Bomlo",
+    "admin_name": "Vestland",
+    "lat": "59.6000",
+    "lng": "5.2167",
+    "id": "1578231177"
+  },
+  {
+    "city": "Kongsvinger",
+    "city_ascii": "Kongsvinger",
+    "admin_name": "Innlandet",
+    "lat": "60.1905",
+    "lng": "11.9977",
+    "id": "1578097529"
+  },
+  {
+    "city": "Randaberg",
+    "city_ascii": "Randaberg",
+    "admin_name": "Rogaland",
+    "lat": "58.9994",
+    "lng": "5.6186",
+    "id": "1578935358"
+  },
+  {
+    "city": "Stokke",
+    "city_ascii": "Stokke",
+    "admin_name": "Vestfold og Telemark",
+    "lat": "59.2236",
+    "lng": "10.3002",
+    "id": "1578002148"
+  },
+  {
+    "city": "Elverum",
+    "city_ascii": "Elverum",
+    "admin_name": "Innlandet",
+    "lat": "60.8833",
+    "lng": "11.5667",
+    "id": "1578144824"
+  },
+  {
+    "city": "Egersund",
+    "city_ascii": "Egersund",
+    "admin_name": "Rogaland",
+    "lat": "58.4500",
+    "lng": "6.0067",
+    "id": "1578432421"
+  },
+  {
+    "city": "Lenvik",
+    "city_ascii": "Lenvik",
+    "admin_name": "Troms og Finnmark",
+    "lat": "69.3836",
+    "lng": "17.9675",
+    "id": "1578586323"
+  },
+  {
+    "city": "Kopervik",
+    "city_ascii": "Kopervik",
+    "admin_name": "Rogaland",
+    "lat": "59.2833",
+    "lng": "5.3000",
+    "id": "1578682439"
+  },
+  {
+    "city": "Tysvær",
+    "city_ascii": "Tysvaer",
+    "admin_name": "Rogaland",
+    "lat": "59.3319",
+    "lng": "5.4897",
+    "id": "1578779090"
+  },
+  {
+    "city": "Enebakk",
+    "city_ascii": "Enebakk",
+    "admin_name": "Viken",
+    "lat": "59.7639",
+    "lng": "11.1444",
+    "id": "1578782892"
+  },
+  {
+    "city": "Søgne",
+    "city_ascii": "Sogne",
+    "admin_name": "Agder",
+    "lat": "58.0942",
+    "lng": "7.7725",
+    "id": "1578522567"
+  },
+  {
+    "city": "Lommedalen",
+    "city_ascii": "Lommedalen",
+    "admin_name": "Viken",
+    "lat": "59.9500",
+    "lng": "10.4667",
+    "id": "1578002364"
+  },
+  {
+    "city": "Mandal",
+    "city_ascii": "Mandal",
+    "admin_name": "Agder",
+    "lat": "58.0333",
+    "lng": "7.4500",
+    "id": "1578061147"
+  },
+  {
+    "city": "Brumunddal",
+    "city_ascii": "Brumunddal",
+    "admin_name": "Innlandet",
+    "lat": "60.8833",
+    "lng": "10.9333",
+    "id": "1578939363"
+  },
+  {
+    "city": "Volda",
+    "city_ascii": "Volda",
+    "admin_name": "Møre og Romsdal",
+    "lat": "62.1500",
+    "lng": "6.1000",
+    "id": "1578903172"
+  },
+  {
+    "city": "Ørsta",
+    "city_ascii": "Orsta",
+    "admin_name": "Møre og Romsdal",
+    "lat": "62.2000",
+    "lng": "6.1500",
+    "id": "1578873602"
+  },
+  {
+    "city": "Lyngdal",
+    "city_ascii": "Lyngdal",
+    "admin_name": "Agder",
+    "lat": "58.1333",
+    "lng": "7.0833",
+    "id": "1578630529"
+  },
+  {
+    "city": "Kragerø",
+    "city_ascii": "Kragero",
+    "admin_name": "Vestfold og Telemark",
+    "lat": "58.8869",
+    "lng": "9.3469",
+    "id": "1578172535"
+  },
+  {
+    "city": "Førde",
+    "city_ascii": "Forde",
+    "admin_name": "Vestland",
+    "lat": "61.4519",
+    "lng": "5.8569",
+    "id": "1578914241"
+  },
+  {
+    "city": "Levanger",
+    "city_ascii": "Levanger",
+    "admin_name": "Trøndelag",
+    "lat": "63.7464",
+    "lng": "11.2996",
+    "id": "1578010304"
+  },
+  {
+    "city": "Eidsberg",
+    "city_ascii": "Eidsberg",
+    "admin_name": "Viken",
+    "lat": "59.5000",
+    "lng": "11.3833",
+    "id": "1578040271"
+  },
+  {
+    "city": "Farsund",
+    "city_ascii": "Farsund",
+    "admin_name": "Agder",
+    "lat": "58.0833",
+    "lng": "6.8000",
+    "id": "1578528519"
+  },
+  {
+    "city": "Sande",
+    "city_ascii": "Sande",
+    "admin_name": "Vestfold og Telemark",
+    "lat": "59.5936",
+    "lng": "10.2076",
+    "id": "1578002266"
+  },
+  {
+    "city": "Mosjøen",
+    "city_ascii": "Mosjoen",
+    "admin_name": "Nordland",
+    "lat": "65.8333",
+    "lng": "13.2000",
+    "id": "1578980285"
+  },
+  {
+    "city": "Frøn",
+    "city_ascii": "Fron",
+    "admin_name": "Oslo",
+    "lat": "59.9347",
+    "lng": "10.7089",
+    "id": "1578000579"
+  },
+  {
+    "city": "Fauske",
+    "city_ascii": "Fauske",
+    "admin_name": "Nordland",
+    "lat": "67.2627",
+    "lng": "15.3913",
+    "id": "1578904094"
+  },
+  {
+    "city": "Lunner",
+    "city_ascii": "Lunner",
+    "admin_name": "Viken",
+    "lat": "60.2528",
+    "lng": "10.6672",
+    "id": "1578195993"
+  },
+  {
+    "city": "Notodden",
+    "city_ascii": "Notodden",
+    "admin_name": "Vestfold og Telemark",
+    "lat": "59.5594",
+    "lng": "9.2585",
+    "id": "1578892380"
+  },
+  {
+    "city": "Florø",
+    "city_ascii": "Floro",
+    "admin_name": "Vestland",
+    "lat": "61.5986",
+    "lng": "5.0172",
+    "id": "1578596650"
+  },
+  {
+    "city": "Ulstein",
+    "city_ascii": "Ulstein",
+    "admin_name": "Møre og Romsdal",
+    "lat": "62.3564",
+    "lng": "5.8539",
+    "id": "1578619519"
+  },
+  {
+    "city": "Kaldsletta",
+    "city_ascii": "Kaldsletta",
+    "admin_name": "Troms og Finnmark",
+    "lat": "69.6167",
+    "lng": "18.9500",
+    "id": "1578543345"
+  },
+  {
+    "city": "Namsos",
+    "city_ascii": "Namsos",
+    "admin_name": "Trøndelag",
+    "lat": "64.4670",
+    "lng": "11.4940",
+    "id": "1578576567"
+  },
+  {
+    "city": "Hammerfest",
+    "city_ascii": "Hammerfest",
+    "admin_name": "Troms og Finnmark",
+    "lat": "70.6634",
+    "lng": "23.6821",
+    "id": "1578368356"
+  },
+  {
+    "city": "Moss",
+    "city_ascii": "Moss",
+    "admin_name": "Viken",
+    "lat": "59.4339",
+    "lng": "10.6575",
+    "id": "1578386435"
+  },
+  {
+    "city": "Vadsø",
+    "city_ascii": "Vadso",
+    "admin_name": "Troms og Finnmark",
+    "lat": "70.0733",
+    "lng": "29.7497",
+    "id": "1578863149"
+  },
+  {
+    "city": "Vossevangen",
+    "city_ascii": "Vossevangen",
+    "admin_name": "Vestland",
+    "lat": "60.6300",
+    "lng": "6.4410",
+    "id": "1578107030"
+  },
+  {
+    "city": "Svolvær",
+    "city_ascii": "Svolvaer",
+    "admin_name": "Nordland",
+    "lat": "68.2333",
+    "lng": "14.5667",
+    "id": "1578516140"
+  },
+  {
+    "city": "Finnsnes",
+    "city_ascii": "Finnsnes",
+    "admin_name": "Troms og Finnmark",
+    "lat": "69.2406",
+    "lng": "18.0086",
+    "id": "1578015471"
+  },
+  {
+    "city": "Kirkenes",
+    "city_ascii": "Kirkenes",
+    "admin_name": "Troms og Finnmark",
+    "lat": "69.7271",
+    "lng": "30.0451",
+    "id": "1578657312"
+  },
+  {
+    "city": "Rørvik",
+    "city_ascii": "Rorvik",
+    "admin_name": "Trøndelag",
+    "lat": "64.8680",
+    "lng": "11.2053",
+    "id": "1578785320"
+  }
+]

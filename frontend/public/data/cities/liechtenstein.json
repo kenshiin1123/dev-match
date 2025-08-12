@@ -1,0 +1,90 @@
+[
+  {
+    "city": "Schaan",
+    "city_ascii": "Schaan",
+    "admin_name": "Schaan",
+    "lat": "47.1667",
+    "lng": "9.5097",
+    "id": "1438982330"
+  },
+  {
+    "city": "Vaduz",
+    "city_ascii": "Vaduz",
+    "admin_name": "Vaduz",
+    "lat": "47.1406",
+    "lng": "9.5222",
+    "id": "1438317747"
+  },
+  {
+    "city": "Triesen",
+    "city_ascii": "Triesen",
+    "admin_name": "Triesen",
+    "lat": "47.1000",
+    "lng": "9.5333",
+    "id": "1438826448"
+  },
+  {
+    "city": "Balzers",
+    "city_ascii": "Balzers",
+    "admin_name": "Balzers",
+    "lat": "47.0667",
+    "lng": "9.5000",
+    "id": "1438263000"
+  },
+  {
+    "city": "Eschen",
+    "city_ascii": "Eschen",
+    "admin_name": "Eschen",
+    "lat": "47.2167",
+    "lng": "9.5167",
+    "id": "1438692471"
+  },
+  {
+    "city": "Mauren",
+    "city_ascii": "Mauren",
+    "admin_name": "Mauren",
+    "lat": "47.2167",
+    "lng": "9.5333",
+    "id": "1438767966"
+  },
+  {
+    "city": "Triesenberg",
+    "city_ascii": "Triesenberg",
+    "admin_name": "Triesenberg",
+    "lat": "47.1181",
+    "lng": "9.5433",
+    "id": "1438813592"
+  },
+  {
+    "city": "Ruggell",
+    "city_ascii": "Ruggell",
+    "admin_name": "Ruggell",
+    "lat": "47.2433",
+    "lng": "9.5300",
+    "id": "1438787609"
+  },
+  {
+    "city": "Gamprin",
+    "city_ascii": "Gamprin",
+    "admin_name": "Gamprin",
+    "lat": "47.2167",
+    "lng": "9.5000",
+    "id": "1438568521"
+  },
+  {
+    "city": "Schellenberg",
+    "city_ascii": "Schellenberg",
+    "admin_name": "Schellenberg",
+    "lat": "47.2336",
+    "lng": "9.5481",
+    "id": "1438649917"
+  },
+  {
+    "city": "Planken",
+    "city_ascii": "Planken",
+    "admin_name": "Planken",
+    "lat": "47.1833",
+    "lng": "9.5333",
+    "id": "1438419168"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "city": "Nouméa",
+    "city_ascii": "Noumea",
+    "admin_name": "Province Sud",
+    "lat": "-22.2625",
+    "lng": "166.4443",
+    "id": "1540958092"
+  },
+  {
+    "city": "Dumbéa",
+    "city_ascii": "Dumbea",
+    "admin_name": "Province Sud",
+    "lat": "-22.1576",
+    "lng": "166.4572",
+    "id": "1540079351"
+  },
+  {
+    "city": "Mont-Dore",
+    "city_ascii": "Mont-Dore",
+    "admin_name": "Province Sud",
+    "lat": "-22.2833",
+    "lng": "166.5833",
+    "id": "1540939524"
+  },
+  {
+    "city": "Païta",
+    "city_ascii": "Paita",
+    "admin_name": "Province Sud",
+    "lat": "-22.1289",
+    "lng": "166.3690",
+    "id": "1540983323"
+  },
+  {
+    "city": "Koné",
+    "city_ascii": "Kone",
+    "admin_name": "Province Nord",
+    "lat": "-21.0590",
+    "lng": "164.8518",
+    "id": "1540397627"
+  },
+  {
+    "city": "Wé",
+    "city_ascii": "We",
+    "admin_name": "Province Îles",
+    "lat": "-20.9000",
+    "lng": "167.2667",
+    "id": "1540672599"
+  }
+]

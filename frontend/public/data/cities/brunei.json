@@ -1,0 +1,50 @@
+[
+  {
+    "city": "Bandar Seri Begawan",
+    "city_ascii": "Bandar Seri Begawan",
+    "admin_name": "Brunei dan Muara",
+    "lat": "4.8903",
+    "lng": "114.9422",
+    "id": "1096465895"
+  },
+  {
+    "city": "Seria",
+    "city_ascii": "Seria",
+    "admin_name": "Belait",
+    "lat": "4.6141",
+    "lng": "114.3302",
+    "id": "1096351415"
+  },
+  {
+    "city": "Tutong",
+    "city_ascii": "Tutong",
+    "admin_name": "Tutong",
+    "lat": "4.8067",
+    "lng": "114.6592",
+    "id": "1096181037"
+  },
+  {
+    "city": "Kampong Tunah Jambu",
+    "city_ascii": "Kampong Tunah Jambu",
+    "admin_name": "Brunei dan Muara",
+    "lat": "4.9957",
+    "lng": "115.0019",
+    "id": "1096755570"
+  },
+  {
+    "city": "Kuala Belait",
+    "city_ascii": "Kuala Belait",
+    "admin_name": "Belait",
+    "lat": "4.5828",
+    "lng": "114.1918",
+    "id": "1096999548"
+  },
+  {
+    "city": "Bangar",
+    "city_ascii": "Bangar",
+    "admin_name": "Temburong",
+    "lat": "4.7086",
+    "lng": "115.0739",
+    "id": "1096321221"
+  }
+]

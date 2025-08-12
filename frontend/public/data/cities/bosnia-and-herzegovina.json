@@ -1,0 +1,586 @@
+[
+  {
+    "city": "Sarajevo",
+    "city_ascii": "Sarajevo",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.8564",
+    "lng": "18.4131",
+    "id": "1070966777"
+  },
+  {
+    "city": "Banja Luka",
+    "city_ascii": "Banja Luka",
+    "admin_name": "Srpska, Republika",
+    "lat": "44.7725",
+    "lng": "17.1925",
+    "id": "1070859064"
+  },
+  {
+    "city": "Bijeljina",
+    "city_ascii": "Bijeljina",
+    "admin_name": "Srpska, Republika",
+    "lat": "44.7567",
+    "lng": "19.2156",
+    "id": "1070522751"
+  },
+  {
+    "city": "Tuzla",
+    "city_ascii": "Tuzla",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.5384",
+    "lng": "18.6671",
+    "id": "1070117835"
+  },
+  {
+    "city": "Mostar",
+    "city_ascii": "Mostar",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.3436",
+    "lng": "17.8075",
+    "id": "1070000220"
+  },
+  {
+    "city": "Prijedor",
+    "city_ascii": "Prijedor",
+    "admin_name": "Srpska, Republika",
+    "lat": "44.9808",
+    "lng": "16.7133",
+    "id": "1070565353"
+  },
+  {
+    "city": "Zenica",
+    "city_ascii": "Zenica",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.2017",
+    "lng": "17.9039",
+    "id": "1070047832"
+  },
+  {
+    "city": "Doboj",
+    "city_ascii": "Doboj",
+    "admin_name": "Srpska, Republika",
+    "lat": "44.7333",
+    "lng": "18.1333",
+    "id": "1070396173"
+  },
+  {
+    "city": "Ilidža",
+    "city_ascii": "Ilidza",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.8331",
+    "lng": "18.3039",
+    "id": "1070286664"
+  },
+  {
+    "city": "Cazin",
+    "city_ascii": "Cazin",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.9667",
+    "lng": "15.9333",
+    "id": "1070442076"
+  },
+  {
+    "city": "Zvornik",
+    "city_ascii": "Zvornik",
+    "admin_name": "Srpska, Republika",
+    "lat": "44.3833",
+    "lng": "19.1000",
+    "id": "1070289722"
+  },
+  {
+    "city": "Živinice",
+    "city_ascii": "Zivinice",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.4493",
+    "lng": "18.6498",
+    "id": "1070042260"
+  },
+  {
+    "city": "Bihać",
+    "city_ascii": "Bihac",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.8147",
+    "lng": "15.8692",
+    "id": "1070788265"
+  },
+  {
+    "city": "Travnik",
+    "city_ascii": "Travnik",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.2264",
+    "lng": "17.6597",
+    "id": "1070285988"
+  },
+  {
+    "city": "Lukavac",
+    "city_ascii": "Lukavac",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.5333",
+    "lng": "18.5333",
+    "id": "1070273413"
+  },
+  {
+    "city": "Gračanica",
+    "city_ascii": "Gracanica",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.7031",
+    "lng": "18.3101",
+    "id": "1070355903"
+  },
+  {
+    "city": "Tešanj",
+    "city_ascii": "Tesanj",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.6119",
+    "lng": "17.9855",
+    "id": "1070677914"
+  },
+  {
+    "city": "Visoko",
+    "city_ascii": "Visoko",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.9894",
+    "lng": "18.1806",
+    "id": "1070751775"
+  },
+  {
+    "city": "Brčko",
+    "city_ascii": "Brcko",
+    "admin_name": "Brcko District",
+    "lat": "44.8783",
+    "lng": "18.8092",
+    "id": "1070370826"
+  },
+  {
+    "city": "Srebrenik",
+    "city_ascii": "Srebrenik",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.7082",
+    "lng": "18.4883",
+    "id": "1070982884"
+  },
+  {
+    "city": "Gradačac",
+    "city_ascii": "Gradacac",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.8785",
+    "lng": "18.4276",
+    "id": "1070347743"
+  },
+  {
+    "city": "Donji Kakanj",
+    "city_ascii": "Donji Kakanj",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.1311",
+    "lng": "18.0972",
+    "id": "1070449997"
+  },
+  {
+    "city": "Stara Gora",
+    "city_ascii": "Stara Gora",
+    "admin_name": "Srpska, Republika",
+    "lat": "43.7538",
+    "lng": "18.3689",
+    "id": "1070280725"
+  },
+  {
+    "city": "Bugojno",
+    "city_ascii": "Bugojno",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.0500",
+    "lng": "17.4500",
+    "id": "1070311249"
+  },
+  {
+    "city": "Maglaj",
+    "city_ascii": "Maglaj",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.5478",
+    "lng": "18.1000",
+    "id": "1070332906"
+  },
+  {
+    "city": "Žepče",
+    "city_ascii": "Zepce",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.4333",
+    "lng": "18.0333",
+    "id": "1070466847"
+  },
+  {
+    "city": "Trebinje",
+    "city_ascii": "Trebinje",
+    "admin_name": "Srpska, Republika",
+    "lat": "42.7089",
+    "lng": "18.3217",
+    "id": "1070826374"
+  },
+  {
+    "city": "Široki Brijeg",
+    "city_ascii": "Siroki Brijeg",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.3667",
+    "lng": "17.5833",
+    "id": "1070206343"
+  },
+  {
+    "city": "Ljubuški",
+    "city_ascii": "Ljubuski",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.1981",
+    "lng": "17.5467",
+    "id": "1070105515"
+  },
+  {
+    "city": "Čapljina",
+    "city_ascii": "Capljina",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.1100",
+    "lng": "17.7000",
+    "id": "1070896558"
+  },
+  {
+    "city": "Vogošća",
+    "city_ascii": "Vogosca",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.9000",
+    "lng": "18.3500",
+    "id": "1070046911"
+  },
+  {
+    "city": "Vitez",
+    "city_ascii": "Vitez",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.1585",
+    "lng": "17.7885",
+    "id": "1070182317"
+  },
+  {
+    "city": "Novi Travnik",
+    "city_ascii": "Novi Travnik",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.1748",
+    "lng": "17.6634",
+    "id": "1070493406"
+  },
+  {
+    "city": "Hadžići",
+    "city_ascii": "Hadzici",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.8236",
+    "lng": "18.2211",
+    "id": "1070884568"
+  },
+  {
+    "city": "Gornji Vakuf",
+    "city_ascii": "Gornji Vakuf",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.9333",
+    "lng": "17.5833",
+    "id": "1070657723"
+  },
+  {
+    "city": "Pale",
+    "city_ascii": "Pale",
+    "admin_name": "Srpska, Republika",
+    "lat": "43.8167",
+    "lng": "18.5667",
+    "id": "1070691989"
+  },
+  {
+    "city": "Kiseljak",
+    "city_ascii": "Kiseljak",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.9500",
+    "lng": "18.0833",
+    "id": "1070130357"
+  },
+  {
+    "city": "Posušje",
+    "city_ascii": "Posusje",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.4722",
+    "lng": "17.3267",
+    "id": "1070546280"
+  },
+  {
+    "city": "Bratunac",
+    "city_ascii": "Bratunac",
+    "admin_name": "Srpska, Republika",
+    "lat": "44.1839",
+    "lng": "19.3308",
+    "id": "1070077267"
+  },
+  {
+    "city": "Orašje",
+    "city_ascii": "Orasje",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "45.0336",
+    "lng": "18.6933",
+    "id": "1070394809"
+  },
+  {
+    "city": "Ilijaš",
+    "city_ascii": "Ilijas",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.9583",
+    "lng": "18.2667",
+    "id": "1070041396"
+  },
+  {
+    "city": "Odžak",
+    "city_ascii": "Odzak",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "45.0246",
+    "lng": "18.3211",
+    "id": "1070191800"
+  },
+  {
+    "city": "Ključ",
+    "city_ascii": "Kljuc",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.5333",
+    "lng": "16.7667",
+    "id": "1070860636"
+  },
+  {
+    "city": "Busovača",
+    "city_ascii": "Busovaca",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.0978",
+    "lng": "17.8783",
+    "id": "1070855809"
+  },
+  {
+    "city": "Čitluk",
+    "city_ascii": "Citluk",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.2286",
+    "lng": "17.7008",
+    "id": "1070415308"
+  },
+  {
+    "city": "Banovići",
+    "city_ascii": "Banovici",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.4089",
+    "lng": "18.5287",
+    "id": "1070705661"
+  },
+  {
+    "city": "Sanski Most",
+    "city_ascii": "Sanski Most",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.7667",
+    "lng": "16.6667",
+    "id": "1070675252"
+  },
+  {
+    "city": "Brod",
+    "city_ascii": "Brod",
+    "admin_name": "Srpska, Republika",
+    "lat": "45.1333",
+    "lng": "17.9833",
+    "id": "1070523557"
+  },
+  {
+    "city": "Lopare",
+    "city_ascii": "Lopare",
+    "admin_name": "Srpska, Republika",
+    "lat": "44.6350",
+    "lng": "18.8433",
+    "id": "1070563075"
+  },
+  {
+    "city": "Stolac",
+    "city_ascii": "Stolac",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.0839",
+    "lng": "17.9592",
+    "id": "1070102395"
+  },
+  {
+    "city": "Breza",
+    "city_ascii": "Breza",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.0210",
+    "lng": "18.2610",
+    "id": "1070229008"
+  },
+  {
+    "city": "Donji Vakuf",
+    "city_ascii": "Donji Vakuf",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.1500",
+    "lng": "17.4000",
+    "id": "1070953048"
+  },
+  {
+    "city": "Srebrenica",
+    "city_ascii": "Srebrenica",
+    "admin_name": "Srpska, Republika",
+    "lat": "44.1000",
+    "lng": "19.3000",
+    "id": "1070120847"
+  },
+  {
+    "city": "Derventa",
+    "city_ascii": "Derventa",
+    "admin_name": "Srpska, Republika",
+    "lat": "44.9800",
+    "lng": "17.9100",
+    "id": "1070137362"
+  },
+  {
+    "city": "Goražde",
+    "city_ascii": "Gorazde",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.6667",
+    "lng": "18.9778",
+    "id": "1070619970"
+  },
+  {
+    "city": "Fojnica",
+    "city_ascii": "Fojnica",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.9595",
+    "lng": "17.9029",
+    "id": "1070762647"
+  },
+  {
+    "city": "Kladanj",
+    "city_ascii": "Kladanj",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.2267",
+    "lng": "18.6927",
+    "id": "1070838044"
+  },
+  {
+    "city": "Foča",
+    "city_ascii": "Foca",
+    "admin_name": "Srpska, Republika",
+    "lat": "43.5000",
+    "lng": "18.7833",
+    "id": "1070603568"
+  },
+  {
+    "city": "Sapna",
+    "city_ascii": "Sapna",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.4917",
+    "lng": "19.0028",
+    "id": "1070454621"
+  },
+  {
+    "city": "Jajce",
+    "city_ascii": "Jajce",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.3417",
+    "lng": "17.2694",
+    "id": "1070282607"
+  },
+  {
+    "city": "Vlasenica",
+    "city_ascii": "Vlasenica",
+    "admin_name": "Srpska, Republika",
+    "lat": "44.1833",
+    "lng": "18.9333",
+    "id": "1070030908"
+  },
+  {
+    "city": "Milići",
+    "city_ascii": "Milici",
+    "admin_name": "Srpska, Republika",
+    "lat": "44.1703",
+    "lng": "19.0919",
+    "id": "1070895202"
+  },
+  {
+    "city": "Gradiška",
+    "city_ascii": "Gradiska",
+    "admin_name": "Srpska, Republika",
+    "lat": "45.1458",
+    "lng": "17.2539",
+    "id": "1070385329"
+  },
+  {
+    "city": "Bileća",
+    "city_ascii": "Bileca",
+    "admin_name": "Srpska, Republika",
+    "lat": "42.8667",
+    "lng": "18.4333",
+    "id": "1070591645"
+  },
+  {
+    "city": "Rogatica",
+    "city_ascii": "Rogatica",
+    "admin_name": "Srpska, Republika",
+    "lat": "43.7989",
+    "lng": "19.0036",
+    "id": "1070557878"
+  },
+  {
+    "city": "Jablanica",
+    "city_ascii": "Jablanica",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.6620",
+    "lng": "17.7618",
+    "id": "1070524039"
+  },
+  {
+    "city": "Čelić",
+    "city_ascii": "Celic",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.7211",
+    "lng": "18.8203",
+    "id": "1070994771"
+  },
+  {
+    "city": "Bosanska Krupa",
+    "city_ascii": "Bosanska Krupa",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.8833",
+    "lng": "16.1500",
+    "id": "1070449050"
+  },
+  {
+    "city": "Olovo",
+    "city_ascii": "Olovo",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.1277",
+    "lng": "18.5807",
+    "id": "1070868071"
+  },
+  {
+    "city": "Novi Grad",
+    "city_ascii": "Novi Grad",
+    "admin_name": "Srpska, Republika",
+    "lat": "45.0481",
+    "lng": "16.3769",
+    "id": "1070654182"
+  },
+  {
+    "city": "Vareš",
+    "city_ascii": "Vares",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "44.1644",
+    "lng": "18.3283",
+    "id": "1070474354"
+  },
+  {
+    "city": "Livno",
+    "city_ascii": "Livno",
+    "admin_name": "Bosnia and Herzegovina, Federation of",
+    "lat": "43.8269",
+    "lng": "17.0081",
+    "id": "1070523528"
+  },
+  {
+    "city": "Gacko",
+    "city_ascii": "Gacko",
+    "admin_name": "Srpska, Republika",
+    "lat": "43.1667",
+    "lng": "18.5333",
+    "id": "1070762752"
+  }
+]

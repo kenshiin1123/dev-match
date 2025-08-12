@@ -1,0 +1,994 @@
+[
+  {
+    "city": "Baku",
+    "city_ascii": "Baku",
+    "admin_name": "Bakı",
+    "lat": "40.3667",
+    "lng": "49.8352",
+    "id": "1031946365"
+  },
+  {
+    "city": "Sumqayıt",
+    "city_ascii": "Sumqayit",
+    "admin_name": "Sumqayıt",
+    "lat": "40.5961",
+    "lng": "49.6700",
+    "id": "1031630283"
+  },
+  {
+    "city": "Gəncə",
+    "city_ascii": "Ganca",
+    "admin_name": "Gəncə",
+    "lat": "40.6828",
+    "lng": "46.3606",
+    "id": "1031197327"
+  },
+  {
+    "city": "Mingəçevir",
+    "city_ascii": "Mingacevir",
+    "admin_name": "Mingəçevir",
+    "lat": "40.7700",
+    "lng": "47.0489",
+    "id": "1031509213"
+  },
+  {
+    "city": "Xırdalan",
+    "city_ascii": "Xirdalan",
+    "admin_name": "Abşeron",
+    "lat": "40.4486",
+    "lng": "49.7564",
+    "id": "1031145251"
+  },
+  {
+    "city": "Naxçıvan",
+    "city_ascii": "Naxcivan",
+    "admin_name": "Naxçıvan",
+    "lat": "39.2089",
+    "lng": "45.4122",
+    "id": "1031943755"
+  },
+  {
+    "city": "Şatrovka",
+    "city_ascii": "Satrovka",
+    "admin_name": "Salyan",
+    "lat": "39.8290",
+    "lng": "48.9478",
+    "id": "1031501191"
+  },
+  {
+    "city": "Qaraçuxur",
+    "city_ascii": "Qaracuxur",
+    "admin_name": "Bakı",
+    "lat": "40.3969",
+    "lng": "49.9733",
+    "id": "1031616606"
+  },
+  {
+    "city": "Hövsan",
+    "city_ascii": "Hovsan",
+    "admin_name": "Bakı",
+    "lat": "40.3753",
+    "lng": "50.0839",
+    "id": "1031396152"
+  },
+  {
+    "city": "Bakıxanov",
+    "city_ascii": "Bakixanov",
+    "admin_name": "Bakı",
+    "lat": "40.4217",
+    "lng": "49.9644",
+    "id": "1031114052"
+  },
+  {
+    "city": "Şirvan",
+    "city_ascii": "Sirvan",
+    "admin_name": "Şirvan",
+    "lat": "39.9323",
+    "lng": "48.9203",
+    "id": "1031478213"
+  },
+  {
+    "city": "Şəki",
+    "city_ascii": "Saki",
+    "admin_name": "Şəki",
+    "lat": "41.1919",
+    "lng": "47.1706",
+    "id": "1031619846"
+  },
+  {
+    "city": "Yevlax",
+    "city_ascii": "Yevlax",
+    "admin_name": "Yevlax",
+    "lat": "40.6172",
+    "lng": "47.1500",
+    "id": "1031581655"
+  },
+  {
+    "city": "Binə",
+    "city_ascii": "Bina",
+    "admin_name": "Bakı",
+    "lat": "40.4500",
+    "lng": "50.0833",
+    "id": "1031124487"
+  },
+  {
+    "city": "M.Ə. Rəsulzadə",
+    "city_ascii": "M.A. Rasulzada",
+    "admin_name": "Bakı",
+    "lat": "40.4344",
+    "lng": "49.8336",
+    "id": "1031204213"
+  },
+  {
+    "city": "Lənkəran",
+    "city_ascii": "Lankaran",
+    "admin_name": "Lənkəran",
+    "lat": "38.7536",
+    "lng": "48.8511",
+    "id": "1031218031"
+  },
+  {
+    "city": "Xankəndi",
+    "city_ascii": "Xankandi",
+    "admin_name": "Xankəndi",
+    "lat": "39.8153",
+    "lng": "46.7519",
+    "id": "1031053512"
+  },
+  {
+    "city": "Biləcəri",
+    "city_ascii": "Bilacari",
+    "admin_name": "Bakı",
+    "lat": "40.4444",
+    "lng": "49.8057",
+    "id": "1031718088"
+  },
+  {
+    "city": "Maştağa",
+    "city_ascii": "Mastaga",
+    "admin_name": "Bakı",
+    "lat": "40.5286",
+    "lng": "50.0103",
+    "id": "1031769792"
+  },
+  {
+    "city": "Ağcabədi",
+    "city_ascii": "Agcabadi",
+    "admin_name": "Ağcabədi",
+    "lat": "40.0489",
+    "lng": "47.4502",
+    "id": "1031860893"
+  },
+  {
+    "city": "Şəmkir",
+    "city_ascii": "Samkir",
+    "admin_name": "Şəmkir",
+    "lat": "40.8297",
+    "lng": "46.0189",
+    "id": "1031776445"
+  },
+  {
+    "city": "Xaçmaz",
+    "city_ascii": "Xacmaz",
+    "admin_name": "Xaçmaz",
+    "lat": "41.4681",
+    "lng": "48.8028",
+    "id": "1031335433"
+  },
+  {
+    "city": "Şamaxı",
+    "city_ascii": "Samaxi",
+    "admin_name": "Şamaxı",
+    "lat": "40.6339",
+    "lng": "48.6392",
+    "id": "1031286384"
+  },
+  {
+    "city": "Bərdə",
+    "city_ascii": "Barda",
+    "admin_name": "Bərdə",
+    "lat": "40.3831",
+    "lng": "47.1186",
+    "id": "1031495701"
+  },
+  {
+    "city": "Quba",
+    "city_ascii": "Quba",
+    "admin_name": "Quba",
+    "lat": "41.3611",
+    "lng": "48.5134",
+    "id": "1031078072"
+  },
+  {
+    "city": "Göygöl",
+    "city_ascii": "Goygol",
+    "admin_name": "Göygöl",
+    "lat": "40.5858",
+    "lng": "46.3189",
+    "id": "1031823379"
+  },
+  {
+    "city": "Binəqədi",
+    "city_ascii": "Binaqadi",
+    "admin_name": "Bakı",
+    "lat": "40.4758",
+    "lng": "49.8222",
+    "id": "1031506159"
+  },
+  {
+    "city": "Göyçay",
+    "city_ascii": "Goycay",
+    "admin_name": "Göyçay",
+    "lat": "40.6553",
+    "lng": "47.7389",
+    "id": "1031227222"
+  },
+  {
+    "city": "Lökbatan",
+    "city_ascii": "Lokbatan",
+    "admin_name": "Bakı",
+    "lat": "40.3272",
+    "lng": "49.7300",
+    "id": "1031329823"
+  },
+  {
+    "city": "Qazax",
+    "city_ascii": "Qazax",
+    "admin_name": "Qazax",
+    "lat": "41.0933",
+    "lng": "45.3661",
+    "id": "1031240282"
+  },
+  {
+    "city": "Mərdəkan",
+    "city_ascii": "Mardakan",
+    "admin_name": "Bakı",
+    "lat": "40.4918",
+    "lng": "50.1429",
+    "id": "1031262332"
+  },
+  {
+    "city": "Buzovna",
+    "city_ascii": "Buzovna",
+    "admin_name": "Bakı",
+    "lat": "40.5167",
+    "lng": "50.1167",
+    "id": "1031797928"
+  },
+  {
+    "city": "İmişli",
+    "city_ascii": "Imisli",
+    "admin_name": "İmişli",
+    "lat": "39.8697",
+    "lng": "48.0600",
+    "id": "1031686599"
+  },
+  {
+    "city": "Zaqatala",
+    "city_ascii": "Zaqatala",
+    "admin_name": "Zaqatala",
+    "lat": "41.6336",
+    "lng": "46.6433",
+    "id": "1031500858"
+  },
+  {
+    "city": "Sabirabad",
+    "city_ascii": "Sabirabad",
+    "admin_name": "Sabirabad",
+    "lat": "40.0053",
+    "lng": "48.4719",
+    "id": "1031302623"
+  },
+  {
+    "city": "Salyan",
+    "city_ascii": "Salyan",
+    "admin_name": "Salyan",
+    "lat": "39.5961",
+    "lng": "48.9847",
+    "id": "1031301869"
+  },
+  {
+    "city": "Ağdaş",
+    "city_ascii": "Agdas",
+    "admin_name": "Ağdaş",
+    "lat": "40.6500",
+    "lng": "47.4833",
+    "id": "1031916654"
+  },
+  {
+    "city": "Əmircan",
+    "city_ascii": "Amircan",
+    "admin_name": "Bakı",
+    "lat": "40.4264",
+    "lng": "49.9836",
+    "id": "1031561618"
+  },
+  {
+    "city": "Hacıqabul",
+    "city_ascii": "Haciqabul",
+    "admin_name": "Hacıqabul",
+    "lat": "40.0387",
+    "lng": "48.9429",
+    "id": "1031015845"
+  },
+  {
+    "city": "Cəlilabad",
+    "city_ascii": "Calilabad",
+    "admin_name": "Cəlilabad",
+    "lat": "39.2042",
+    "lng": "48.4958",
+    "id": "1031242117"
+  },
+  {
+    "city": "Keşlə",
+    "city_ascii": "Kesla",
+    "admin_name": "Bakı",
+    "lat": "40.3978",
+    "lng": "49.8986",
+    "id": "1031163051"
+  },
+  {
+    "city": "Zabrat",
+    "city_ascii": "Zabrat",
+    "admin_name": "Bakı",
+    "lat": "40.4775",
+    "lng": "49.9417",
+    "id": "1031886161"
+  },
+  {
+    "city": "Sabunçu",
+    "city_ascii": "Sabuncu",
+    "admin_name": "Bakı",
+    "lat": "40.4425",
+    "lng": "49.9481",
+    "id": "1031621781"
+  },
+  {
+    "city": "Sahil",
+    "city_ascii": "Sahil",
+    "admin_name": "Bakı",
+    "lat": "40.2239",
+    "lng": "49.5760",
+    "id": "1031499506"
+  },
+  {
+    "city": "Hacı Zeynalabdin",
+    "city_ascii": "Haci Zeynalabdin",
+    "admin_name": "Sumqayıt",
+    "lat": "40.6242",
+    "lng": "49.5575",
+    "id": "1031256738"
+  },
+  {
+    "city": "İsmayıllı",
+    "city_ascii": "Ismayilli",
+    "admin_name": "İsmayıllı",
+    "lat": "40.7847",
+    "lng": "48.1514",
+    "id": "1031380246"
+  },
+  {
+    "city": "Ağsu",
+    "city_ascii": "Agsu",
+    "admin_name": "Ağsu",
+    "lat": "40.5703",
+    "lng": "48.4009",
+    "id": "1031748204"
+  },
+  {
+    "city": "Ağstafa",
+    "city_ascii": "Agstafa",
+    "admin_name": "Ağstafa",
+    "lat": "41.1189",
+    "lng": "45.4539",
+    "id": "1031889683"
+  },
+  {
+    "city": "Biləsuvar",
+    "city_ascii": "Bilasuvar",
+    "admin_name": "Biləsuvar",
+    "lat": "39.4553",
+    "lng": "48.5458",
+    "id": "1031149283"
+  },
+  {
+    "city": "Siyəzən",
+    "city_ascii": "Siyazan",
+    "admin_name": "Siyəzən",
+    "lat": "41.0783",
+    "lng": "49.1061",
+    "id": "1031277547"
+  },
+  {
+    "city": "Saatlı",
+    "city_ascii": "Saatli",
+    "admin_name": "Saatlı",
+    "lat": "39.9311",
+    "lng": "48.3697",
+    "id": "1031713436"
+  },
+  {
+    "city": "Bülbülə",
+    "city_ascii": "Bulbula",
+    "admin_name": "Bakı",
+    "lat": "40.4364",
+    "lng": "49.9731",
+    "id": "1031446987"
+  },
+  {
+    "city": "Hindarx",
+    "city_ascii": "Hindarx",
+    "admin_name": "Ağcabədi",
+    "lat": "40.0675",
+    "lng": "47.2058",
+    "id": "1031830681"
+  },
+  {
+    "city": "Astara",
+    "city_ascii": "Astara",
+    "admin_name": "Astara",
+    "lat": "38.4400",
+    "lng": "48.8750",
+    "id": "1031376971"
+  },
+  {
+    "city": "Qusar",
+    "city_ascii": "Qusar",
+    "admin_name": "Qusar",
+    "lat": "41.4219",
+    "lng": "48.4214",
+    "id": "1031059559"
+  },
+  {
+    "city": "Yeni Suraxanı",
+    "city_ascii": "Yeni Suraxani",
+    "admin_name": "Bakı",
+    "lat": "40.4303",
+    "lng": "50.0360",
+    "id": "1031627896"
+  },
+  {
+    "city": "Qazyan",
+    "city_ascii": "Qazyan",
+    "admin_name": "Ucar",
+    "lat": "40.4302",
+    "lng": "47.6779",
+    "id": "1031879880"
+  },
+  {
+    "city": "Ərkivan",
+    "city_ascii": "Arkivan",
+    "admin_name": "Masallı",
+    "lat": "39.0171",
+    "lng": "48.6431",
+    "id": "1031692548"
+  },
+  {
+    "city": "Kürdəmir",
+    "city_ascii": "Kurdamir",
+    "admin_name": "Kürdəmir",
+    "lat": "40.3383",
+    "lng": "48.1608",
+    "id": "1031160110"
+  },
+  {
+    "city": "Şüvəlan",
+    "city_ascii": "Suvalan",
+    "admin_name": "Bakı",
+    "lat": "40.4843",
+    "lng": "50.1840",
+    "id": "1031090215"
+  },
+  {
+    "city": "Masallı",
+    "city_ascii": "Masalli",
+    "admin_name": "Masallı",
+    "lat": "39.0324",
+    "lng": "48.6722",
+    "id": "1031126416"
+  },
+  {
+    "city": "Qobustan",
+    "city_ascii": "Qobustan",
+    "admin_name": "Bakı",
+    "lat": "40.0824",
+    "lng": "49.4120",
+    "id": "1031778275"
+  },
+  {
+    "city": "Ucar",
+    "city_ascii": "Ucar",
+    "admin_name": "Ucar",
+    "lat": "40.5183",
+    "lng": "47.6542",
+    "id": "1031822434"
+  },
+  {
+    "city": "Neftçala",
+    "city_ascii": "Neftcala",
+    "admin_name": "Neftçala",
+    "lat": "39.3791",
+    "lng": "49.2486",
+    "id": "1031299249"
+  },
+  {
+    "city": "Nehrəm",
+    "city_ascii": "Nehram",
+    "admin_name": "Babək",
+    "lat": "39.1160",
+    "lng": "45.4617",
+    "id": "1031344559"
+  },
+  {
+    "city": "Pirallahı",
+    "city_ascii": "Pirallahi",
+    "admin_name": "Bakı",
+    "lat": "40.4708",
+    "lng": "50.3217",
+    "id": "1031058715"
+  },
+  {
+    "city": "Tovuz",
+    "city_ascii": "Tovuz",
+    "admin_name": "Tovuz",
+    "lat": "40.9924",
+    "lng": "45.6167",
+    "id": "1031405942"
+  },
+  {
+    "city": "Baş Göynük",
+    "city_ascii": "Bas Goynuk",
+    "admin_name": "Şəki",
+    "lat": "41.3258",
+    "lng": "47.1136",
+    "id": "1031767565"
+  },
+  {
+    "city": "Quzanlı",
+    "city_ascii": "Quzanli",
+    "admin_name": "Ağdam",
+    "lat": "40.1591",
+    "lng": "47.1653",
+    "id": "1031479140"
+  },
+  {
+    "city": "Corat",
+    "city_ascii": "Corat",
+    "admin_name": "Sumqayıt",
+    "lat": "40.5739",
+    "lng": "49.7036",
+    "id": "1031974785"
+  },
+  {
+    "city": "Qazmalar",
+    "city_ascii": "Qazmalar",
+    "admin_name": "Qəbələ",
+    "lat": "40.9814",
+    "lng": "47.8458",
+    "id": "1031242200"
+  },
+  {
+    "city": "Ələt",
+    "city_ascii": "Alat",
+    "admin_name": "Bakı",
+    "lat": "39.9483",
+    "lng": "49.4067",
+    "id": "1031947328"
+  },
+  {
+    "city": "Tərtər",
+    "city_ascii": "Tartar",
+    "admin_name": "Tərtər",
+    "lat": "40.3353",
+    "lng": "46.9303",
+    "id": "1031622673"
+  },
+  {
+    "city": "Culfa",
+    "city_ascii": "Culfa",
+    "admin_name": "Culfa",
+    "lat": "38.9558",
+    "lng": "45.6308",
+    "id": "1031031472"
+  },
+  {
+    "city": "Beyləqan",
+    "city_ascii": "Beylaqan",
+    "admin_name": "Beyləqan",
+    "lat": "39.7692",
+    "lng": "47.6156",
+    "id": "1031681050"
+  },
+  {
+    "city": "Badamdar",
+    "city_ascii": "Badamdar",
+    "admin_name": "Bakı",
+    "lat": "40.3394",
+    "lng": "49.8039",
+    "id": "1031708980"
+  },
+  {
+    "city": "Balaxanı",
+    "city_ascii": "Balaxani",
+    "admin_name": "Bakı",
+    "lat": "40.4625",
+    "lng": "49.9189",
+    "id": "1031357692"
+  },
+  {
+    "city": "Liman",
+    "city_ascii": "Liman",
+    "admin_name": "Lənkəran",
+    "lat": "38.8733",
+    "lng": "48.8139",
+    "id": "1031959844"
+  },
+  {
+    "city": "Qax",
+    "city_ascii": "Qax",
+    "admin_name": "Qax",
+    "lat": "41.4194",
+    "lng": "46.9181",
+    "id": "1031852971"
+  },
+  {
+    "city": "Zirə",
+    "city_ascii": "Zira",
+    "admin_name": "Bakı",
+    "lat": "40.3661",
+    "lng": "50.2920",
+    "id": "1031736351"
+  },
+  {
+    "city": "Əhmədli",
+    "city_ascii": "Ahmadli",
+    "admin_name": "Bakı",
+    "lat": "40.3839",
+    "lng": "49.9475",
+    "id": "1031512571"
+  },
+  {
+    "city": "Xudat",
+    "city_ascii": "Xudat",
+    "admin_name": "Xaçmaz",
+    "lat": "41.6339",
+    "lng": "48.6772",
+    "id": "1031218803"
+  },
+  {
+    "city": "Əliabad",
+    "city_ascii": "Aliabad",
+    "admin_name": "Zaqatala",
+    "lat": "41.4829",
+    "lng": "46.6348",
+    "id": "1031807683"
+  },
+  {
+    "city": "Saray",
+    "city_ascii": "Saray",
+    "admin_name": "Abşeron",
+    "lat": "40.5330",
+    "lng": "49.7168",
+    "id": "1031418404"
+  },
+  {
+    "city": "Daşkəsən",
+    "city_ascii": "Daskasan",
+    "admin_name": "Daşkəsən",
+    "lat": "40.5209",
+    "lng": "46.0814",
+    "id": "1031479797"
+  },
+  {
+    "city": "Ordubad",
+    "city_ascii": "Ordubad",
+    "admin_name": "Ordubad",
+    "lat": "38.9047",
+    "lng": "46.0231",
+    "id": "1031853196"
+  },
+  {
+    "city": "Samux",
+    "city_ascii": "Samux",
+    "admin_name": "Samux",
+    "lat": "40.7642",
+    "lng": "46.4083",
+    "id": "1031600567"
+  },
+  {
+    "city": "Qovlar",
+    "city_ascii": "Qovlar",
+    "admin_name": "Tovuz",
+    "lat": "40.9419",
+    "lng": "45.7358",
+    "id": "1031341144"
+  },
+  {
+    "city": "Türkan",
+    "city_ascii": "Turkan",
+    "admin_name": "Bakı",
+    "lat": "40.3646",
+    "lng": "50.2208",
+    "id": "1031514825"
+  },
+  {
+    "city": "Naftalan",
+    "city_ascii": "Naftalan",
+    "admin_name": "Naftalan",
+    "lat": "40.5058",
+    "lng": "46.8192",
+    "id": "1031441683"
+  },
+  {
+    "city": "Göytəpə",
+    "city_ascii": "Goytapa",
+    "admin_name": "Cəlilabad",
+    "lat": "39.1167",
+    "lng": "48.5953",
+    "id": "1031848361"
+  },
+  {
+    "city": "Boladı",
+    "city_ascii": "Boladi",
+    "admin_name": "Lənkəran",
+    "lat": "38.8904",
+    "lng": "48.7658",
+    "id": "1031481861"
+  },
+  {
+    "city": "Aşağı Ayıblı",
+    "city_ascii": "Asagi Ayibli",
+    "admin_name": "Tovuz",
+    "lat": "40.9347",
+    "lng": "45.8261",
+    "id": "1031116600"
+  },
+  {
+    "city": "Vəndam",
+    "city_ascii": "Vandam",
+    "admin_name": "Qəbələ",
+    "lat": "40.9460",
+    "lng": "47.9436",
+    "id": "1031489928"
+  },
+  {
+    "city": "Əliabad",
+    "city_ascii": "Aliabad",
+    "admin_name": "Naxçıvan",
+    "lat": "39.2286",
+    "lng": "45.3982",
+    "id": "1031850856"
+  },
+  {
+    "city": "Sədərək",
+    "city_ascii": "Sadarak",
+    "admin_name": "Sədərək",
+    "lat": "39.7143",
+    "lng": "44.8846",
+    "id": "1031675404"
+  },
+  {
+    "city": "Gədəbəy",
+    "city_ascii": "Gadabay",
+    "admin_name": "Gədəbəy",
+    "lat": "40.5706",
+    "lng": "45.8123",
+    "id": "1031444480"
+  },
+  {
+    "city": "Qızılhacılı",
+    "city_ascii": "Qizilhacili",
+    "admin_name": "Goranboy",
+    "lat": "40.5772",
+    "lng": "46.8578",
+    "id": "1031235526"
+  },
+  {
+    "city": "Aşağı Quşçu",
+    "city_ascii": "Asagi Quscu",
+    "admin_name": "Tovuz",
+    "lat": "40.9571",
+    "lng": "45.6804",
+    "id": "1031427640"
+  },
+  {
+    "city": "Zərdab",
+    "city_ascii": "Zardab",
+    "admin_name": "Zərdab",
+    "lat": "40.2199",
+    "lng": "47.7100",
+    "id": "1031852579"
+  },
+  {
+    "city": "Yardımlı",
+    "city_ascii": "Yardimli",
+    "admin_name": "Yardımlı",
+    "lat": "38.9078",
+    "lng": "48.2406",
+    "id": "1031745676"
+  },
+  {
+    "city": "Goranboy",
+    "city_ascii": "Goranboy",
+    "admin_name": "Goranboy",
+    "lat": "40.6100",
+    "lng": "46.7872",
+    "id": "1031383465"
+  },
+  {
+    "city": "Lerik",
+    "city_ascii": "Lerik",
+    "admin_name": "Lerik",
+    "lat": "38.7753",
+    "lng": "48.4153",
+    "id": "1031887331"
+  },
+  {
+    "city": "Oğuz",
+    "city_ascii": "Oguz",
+    "admin_name": "Oğuz",
+    "lat": "41.0708",
+    "lng": "47.4583",
+    "id": "1031370337"
+  },
+  {
+    "city": "Cəbrayıl",
+    "city_ascii": "Cabrayil",
+    "admin_name": "Cəbrayıl",
+    "lat": "39.4000",
+    "lng": "47.0261",
+    "id": "1031379235"
+  },
+  {
+    "city": "Xocavənd",
+    "city_ascii": "Xocavand",
+    "admin_name": "Xocavənd",
+    "lat": "39.7950",
+    "lng": "47.1117",
+    "id": "1031454735"
+  },
+  {
+    "city": "Babək",
+    "city_ascii": "Babak",
+    "admin_name": "Babək",
+    "lat": "39.1519",
+    "lng": "45.4417",
+    "id": "1031598031"
+  },
+  {
+    "city": "Şuşa",
+    "city_ascii": "Susa",
+    "admin_name": "Şuşa",
+    "lat": "39.7602",
+    "lng": "46.7504",
+    "id": "1031808614"
+  },
+  {
+    "city": "Qıvraq",
+    "city_ascii": "Qivraq",
+    "admin_name": "Kəngərli",
+    "lat": "39.3994",
+    "lng": "45.1151",
+    "id": "1031050255"
+  },
+  {
+    "city": "Qobustan",
+    "city_ascii": "Qobustan",
+    "admin_name": "Qobustan",
+    "lat": "40.5336",
+    "lng": "48.9282",
+    "id": "1031385198"
+  },
+  {
+    "city": "Ağdam",
+    "city_ascii": "Agdam",
+    "admin_name": "Ağdam",
+    "lat": "39.9833",
+    "lng": "46.9167",
+    "id": "1031176858"
+  },
+  {
+    "city": "Füzuli",
+    "city_ascii": "Fuzuli",
+    "admin_name": "Füzuli",
+    "lat": "39.6003",
+    "lng": "47.1431",
+    "id": "1031872322"
+  },
+  {
+    "city": "Şahbuz",
+    "city_ascii": "Sahbuz",
+    "admin_name": "Şahbuz",
+    "lat": "39.4073",
+    "lng": "45.5733",
+    "id": "1031323095"
+  },
+  {
+    "city": "Laçın",
+    "city_ascii": "Lacin",
+    "admin_name": "Laçın",
+    "lat": "39.6408",
+    "lng": "46.5469",
+    "id": "1031245091"
+  },
+  {
+    "city": "Heydərabad",
+    "city_ascii": "Heydarabad",
+    "admin_name": "Sədərək",
+    "lat": "39.7229",
+    "lng": "44.8485",
+    "id": "1031540160"
+  },
+  {
+    "city": "Balakən",
+    "city_ascii": "Balakan",
+    "admin_name": "Balakən",
+    "lat": "41.7186",
+    "lng": "46.4165",
+    "id": "1031370082"
+  },
+  {
+    "city": "Xızı",
+    "city_ascii": "Xizi",
+    "admin_name": "Xızı",
+    "lat": "40.9111",
+    "lng": "49.0694",
+    "id": "1031409125"
+  },
+  {
+    "city": "Xocalı",
+    "city_ascii": "Xocali",
+    "admin_name": "Xocalı",
+    "lat": "39.9131",
+    "lng": "46.7903",
+    "id": "1031237556"
+  },
+  {
+    "city": "Ağdam",
+    "city_ascii": "Agdam",
+    "admin_name": "Tovuz",
+    "lat": "40.9053",
+    "lng": "45.5564",
+    "id": "1031834023"
+  },
+  {
+    "city": "Qubadlı",
+    "city_ascii": "Qubadli",
+    "admin_name": "Qubadlı",
+    "lat": "39.3439",
+    "lng": "46.5797",
+    "id": "1031526251"
+  },
+  {
+    "city": "Kəlbəcər",
+    "city_ascii": "Kalbacar",
+    "admin_name": "Kəlbəcər",
+    "lat": "40.1098",
+    "lng": "46.0445",
+    "id": "1031212922"
+  },
+  {
+    "city": "Dəvəçi",
+    "city_ascii": "Davaci",
+    "admin_name": "Şabran",
+    "lat": "41.2012",
+    "lng": "48.9871",
+    "id": "1031053363"
+  },
+  {
+    "city": "Şərur",
+    "city_ascii": "Sarur",
+    "admin_name": "Şərur",
+    "lat": "39.5544",
+    "lng": "44.9826",
+    "id": "1031386825"
+  },
+  {
+    "city": "Qəbələ",
+    "city_ascii": "Qabala",
+    "admin_name": "Qəbələ",
+    "lat": "40.9825",
+    "lng": "47.8491",
+    "id": "1031787201"
+  }
+]

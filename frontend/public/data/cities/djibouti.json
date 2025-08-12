@@ -1,0 +1,50 @@
+[
+  {
+    "city": "Djibouti",
+    "city_ascii": "Djibouti",
+    "admin_name": "Djibouti",
+    "lat": "11.5944",
+    "lng": "43.1481",
+    "id": "1262028958"
+  },
+  {
+    "city": "Ali Sabieh",
+    "city_ascii": "Ali Sabieh",
+    "admin_name": "Ali Sabieh",
+    "lat": "11.1500",
+    "lng": "42.7167",
+    "id": "1262104228"
+  },
+  {
+    "city": "Dikhil",
+    "city_ascii": "Dikhil",
+    "admin_name": "Dikhil",
+    "lat": "11.1167",
+    "lng": "42.3667",
+    "id": "1262950337"
+  },
+  {
+    "city": "Obock",
+    "city_ascii": "Obock",
+    "admin_name": "Obock",
+    "lat": "11.9667",
+    "lng": "43.2833",
+    "id": "1262002221"
+  },
+  {
+    "city": "Tadjourah",
+    "city_ascii": "Tadjourah",
+    "admin_name": "Tadjourah",
+    "lat": "11.7833",
+    "lng": "42.8833",
+    "id": "1262504958"
+  },
+  {
+    "city": "Arta",
+    "city_ascii": "Arta",
+    "admin_name": "Arta",
+    "lat": "11.5236",
+    "lng": "42.8472",
+    "id": "1262889858"
+  }
+]

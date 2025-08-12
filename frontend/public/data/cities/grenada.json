@@ -1,0 +1,18 @@
+[
+  {
+    "city": "Saint George’s",
+    "city_ascii": "Saint George's",
+    "admin_name": "Saint George",
+    "lat": "12.0500",
+    "lng": "-61.7500",
+    "id": "1308891766"
+  },
+  {
+    "city": "Saint David’s",
+    "city_ascii": "Saint David's",
+    "admin_name": "Saint David",
+    "lat": "12.0444",
+    "lng": "-61.6806",
+    "id": "1308183777"
+  }
+]

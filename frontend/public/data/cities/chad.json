@@ -1,0 +1,362 @@
+[
+  {
+    "city": "N’Djamena",
+    "city_ascii": "N'Djamena",
+    "admin_name": "N’Djamena",
+    "lat": "12.1053",
+    "lng": "15.0447",
+    "id": "1148708596"
+  },
+  {
+    "city": "Moundou",
+    "city_ascii": "Moundou",
+    "admin_name": "Logone Occidental",
+    "lat": "8.5667",
+    "lng": "16.0833",
+    "id": "1148369114"
+  },
+  {
+    "city": "Sarh",
+    "city_ascii": "Sarh",
+    "admin_name": "Moyen-Chari",
+    "lat": "9.1500",
+    "lng": "18.3833",
+    "id": "1148442794"
+  },
+  {
+    "city": "Yao",
+    "city_ascii": "Yao",
+    "admin_name": "Batha",
+    "lat": "12.8508",
+    "lng": "17.5608",
+    "id": "1148655909"
+  },
+  {
+    "city": "Léré",
+    "city_ascii": "Lere",
+    "admin_name": "Mayo-Kebbi-Ouest",
+    "lat": "9.6572",
+    "lng": "14.2283",
+    "id": "1148428566"
+  },
+  {
+    "city": "Abéché",
+    "city_ascii": "Abeche",
+    "admin_name": "Ouaddaï",
+    "lat": "13.8331",
+    "lng": "20.8347",
+    "id": "1148461151"
+  },
+  {
+    "city": "Moussoro",
+    "city_ascii": "Moussoro",
+    "admin_name": "Barh-El-Gazel",
+    "lat": "13.6431",
+    "lng": "16.4919",
+    "id": "1148918270"
+  },
+  {
+    "city": "Goz-Beida",
+    "city_ascii": "Goz-Beida",
+    "admin_name": "Sila",
+    "lat": "12.2236",
+    "lng": "21.4144",
+    "id": "1148101824"
+  },
+  {
+    "city": "Chèddra",
+    "city_ascii": "Cheddra",
+    "admin_name": "Barh-El-Gazel",
+    "lat": "13.4428",
+    "lng": "16.0508",
+    "id": "1148029349"
+  },
+  {
+    "city": "Déressia",
+    "city_ascii": "Deressia",
+    "admin_name": "Tandjilé",
+    "lat": "9.7603",
+    "lng": "16.2697",
+    "id": "1148460531"
+  },
+  {
+    "city": "Mao",
+    "city_ascii": "Mao",
+    "admin_name": "Kanem",
+    "lat": "14.1194",
+    "lng": "15.3133",
+    "id": "1148740154"
+  },
+  {
+    "city": "Faya",
+    "city_ascii": "Faya",
+    "admin_name": "Borkou",
+    "lat": "17.9169",
+    "lng": "19.1167",
+    "id": "1148095016"
+  },
+  {
+    "city": "Koumra",
+    "city_ascii": "Koumra",
+    "admin_name": "Mandoul",
+    "lat": "8.9100",
+    "lng": "17.5500",
+    "id": "1148599298"
+  },
+  {
+    "city": "Kelo",
+    "city_ascii": "Kelo",
+    "admin_name": "Tandjilé",
+    "lat": "9.3100",
+    "lng": "15.8100",
+    "id": "1148149571"
+  },
+  {
+    "city": "Pala Oua",
+    "city_ascii": "Pala Oua",
+    "admin_name": "Mayo-Kebbi-Ouest",
+    "lat": "9.3625",
+    "lng": "14.9106",
+    "id": "1148631807"
+  },
+  {
+    "city": "Am-Timan",
+    "city_ascii": "Am-Timan",
+    "admin_name": "Salamat",
+    "lat": "11.0333",
+    "lng": "20.2833",
+    "id": "1148823427"
+  },
+  {
+    "city": "Ati",
+    "city_ascii": "Ati",
+    "admin_name": "Batha",
+    "lat": "13.2133",
+    "lng": "18.3381",
+    "id": "1148642108"
+  },
+  {
+    "city": "Iriba",
+    "city_ascii": "Iriba",
+    "admin_name": "Wadi-Fira",
+    "lat": "15.1167",
+    "lng": "22.2500",
+    "id": "1148106836"
+  },
+  {
+    "city": "Bongor",
+    "city_ascii": "Bongor",
+    "admin_name": "Mayo-Kebbi-Est",
+    "lat": "10.2806",
+    "lng": "15.3722",
+    "id": "1148833900"
+  },
+  {
+    "city": "Mongo",
+    "city_ascii": "Mongo",
+    "admin_name": "Guéra",
+    "lat": "12.1837",
+    "lng": "18.7000",
+    "id": "1148891648"
+  },
+  {
+    "city": "Oum Hadjer",
+    "city_ascii": "Oum Hadjer",
+    "admin_name": "Batha",
+    "lat": "13.2944",
+    "lng": "19.6914",
+    "id": "1148641107"
+  },
+  {
+    "city": "Doba",
+    "city_ascii": "Doba",
+    "admin_name": "Logone Oriental",
+    "lat": "8.6600",
+    "lng": "16.8500",
+    "id": "1148367091"
+  },
+  {
+    "city": "Fada",
+    "city_ascii": "Fada",
+    "admin_name": "Ennedi-Ouest",
+    "lat": "17.1833",
+    "lng": "21.5833",
+    "id": "1148787282"
+  },
+  {
+    "city": "Amdjarass",
+    "city_ascii": "Amdjarass",
+    "admin_name": "Ennedi-Est",
+    "lat": "16.0658",
+    "lng": "22.8431",
+    "id": "1148268495"
+  },
+  {
+    "city": "Laï",
+    "city_ascii": "Lai",
+    "admin_name": "Tandjilé",
+    "lat": "9.4000",
+    "lng": "16.3000",
+    "id": "1148360693"
+  },
+  {
+    "city": "Massaguet",
+    "city_ascii": "Massaguet",
+    "admin_name": "Hadjer-Lamis",
+    "lat": "12.4742",
+    "lng": "15.4428",
+    "id": "1148369489"
+  },
+  {
+    "city": "Bitkine",
+    "city_ascii": "Bitkine",
+    "admin_name": "Guéra",
+    "lat": "11.9817",
+    "lng": "18.2125",
+    "id": "1148547709"
+  },
+  {
+    "city": "Dourbali",
+    "city_ascii": "Dourbali",
+    "admin_name": "Chari-Baguirmi",
+    "lat": "11.8050",
+    "lng": "15.8647",
+    "id": "1148000062"
+  },
+  {
+    "city": "Guelendeng",
+    "city_ascii": "Guelendeng",
+    "admin_name": "Mayo-Kebbi-Est",
+    "lat": "10.9183",
+    "lng": "15.5486",
+    "id": "1148777607"
+  },
+  {
+    "city": "Massakory",
+    "city_ascii": "Massakory",
+    "admin_name": "Hadjer-Lamis",
+    "lat": "13.0000",
+    "lng": "15.7333",
+    "id": "1148908311"
+  },
+  {
+    "city": "Kyabé",
+    "city_ascii": "Kyabe",
+    "admin_name": "Moyen-Chari",
+    "lat": "9.4514",
+    "lng": "18.9447",
+    "id": "1148010568"
+  },
+  {
+    "city": "Bokoro",
+    "city_ascii": "Bokoro",
+    "admin_name": "Hadjer-Lamis",
+    "lat": "12.3667",
+    "lng": "17.0500",
+    "id": "1148118704"
+  },
+  {
+    "city": "Béré",
+    "city_ascii": "Bere",
+    "admin_name": "Tandjilé",
+    "lat": "9.3156",
+    "lng": "16.1597",
+    "id": "1148449680"
+  },
+  {
+    "city": "Bousso",
+    "city_ascii": "Bousso",
+    "admin_name": "Chari-Baguirmi",
+    "lat": "10.4825",
+    "lng": "16.7161",
+    "id": "1148720066"
+  },
+  {
+    "city": "Fianga",
+    "city_ascii": "Fianga",
+    "admin_name": "Mayo-Kebbi-Est",
+    "lat": "9.9153",
+    "lng": "15.1375",
+    "id": "1148228151"
+  },
+  {
+    "city": "Mata",
+    "city_ascii": "Mata",
+    "admin_name": "Ouaddaï",
+    "lat": "14.0436",
+    "lng": "21.1611",
+    "id": "1148342501"
+  },
+  {
+    "city": "Adré",
+    "city_ascii": "Adre",
+    "admin_name": "Ouaddaï",
+    "lat": "13.4667",
+    "lng": "22.2000",
+    "id": "1148372250"
+  },
+  {
+    "city": "Benoy",
+    "city_ascii": "Benoy",
+    "admin_name": "Logone Occidental",
+    "lat": "8.9908",
+    "lng": "16.3169",
+    "id": "1148969711"
+  },
+  {
+    "city": "Biltine",
+    "city_ascii": "Biltine",
+    "admin_name": "Wadi-Fira",
+    "lat": "14.5275",
+    "lng": "20.9267",
+    "id": "1148086843"
+  },
+  {
+    "city": "Mangalmé",
+    "city_ascii": "Mangalme",
+    "admin_name": "Guéra",
+    "lat": "12.3547",
+    "lng": "19.6139",
+    "id": "1148616441"
+  },
+  {
+    "city": "Bol",
+    "city_ascii": "Bol",
+    "admin_name": "Lac",
+    "lat": "13.4600",
+    "lng": "14.7400",
+    "id": "1148232209"
+  },
+  {
+    "city": "Zouar",
+    "city_ascii": "Zouar",
+    "admin_name": "Tibesti",
+    "lat": "20.4500",
+    "lng": "16.5167",
+    "id": "1148690803"
+  },
+  {
+    "city": "Massenya",
+    "city_ascii": "Massenya",
+    "admin_name": "Chari-Baguirmi",
+    "lat": "11.4000",
+    "lng": "16.1667",
+    "id": "1148928302"
+  },
+  {
+    "city": "Pala",
+    "city_ascii": "Pala",
+    "admin_name": "Mayo-Kebbi-Ouest",
+    "lat": "9.3646",
+    "lng": "14.9073",
+    "id": "1148687410"
+  },
+  {
+    "city": "Bardaï",
+    "city_ascii": "Bardai",
+    "admin_name": "Tibesti",
+    "lat": "21.3533",
+    "lng": "17.0003",
+    "id": "1148071351"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "city": "Kuwait City",
+    "city_ascii": "Kuwait City",
+    "admin_name": "Al ‘Āşimah",
+    "lat": "29.3697",
+    "lng": "47.9783",
+    "id": "1414102075"
+  },
+  {
+    "city": "Al Jahrā’",
+    "city_ascii": "Al Jahra'",
+    "admin_name": "Al Jahrā’",
+    "lat": "29.3500",
+    "lng": "47.6833",
+    "id": "1414182001"
+  },
+  {
+    "city": "Abū Ḩulayfah",
+    "city_ascii": "Abu Hulayfah",
+    "admin_name": "Al Aḩmadī",
+    "lat": "29.1322",
+    "lng": "48.1261",
+    "id": "1414456826"
+  },
+  {
+    "city": "Al Aḩmadī",
+    "city_ascii": "Al Ahmadi",
+    "admin_name": "Al Aḩmadī",
+    "lat": "29.0769",
+    "lng": "48.0838",
+    "id": "1414024487"
+  },
+  {
+    "city": "Ar Riqqah",
+    "city_ascii": "Ar Riqqah",
+    "admin_name": "Al Aḩmadī",
+    "lat": "29.1489",
+    "lng": "48.1057",
+    "id": "1414927245"
+  }
+]

@@ -1,0 +1,754 @@
+[
+  {
+    "city": "Bishkek",
+    "city_ascii": "Bishkek",
+    "admin_name": "Bishkek",
+    "lat": "42.8667",
+    "lng": "74.5667",
+    "id": "1417191971"
+  },
+  {
+    "city": "Osh",
+    "city_ascii": "Osh",
+    "admin_name": "Osh",
+    "lat": "40.5333",
+    "lng": "72.7833",
+    "id": "1417797596"
+  },
+  {
+    "city": "Jalal-Abad",
+    "city_ascii": "Jalal-Abad",
+    "admin_name": "Jalal-Abad",
+    "lat": "40.9375",
+    "lng": "72.9861",
+    "id": "1417653652"
+  },
+  {
+    "city": "Karakol",
+    "city_ascii": "Karakol",
+    "admin_name": "Ysyk-Köl",
+    "lat": "42.4906",
+    "lng": "78.3936",
+    "id": "1417269527"
+  },
+  {
+    "city": "Balykchy",
+    "city_ascii": "Balykchy",
+    "admin_name": "Ysyk-Köl",
+    "lat": "42.4603",
+    "lng": "76.1872",
+    "id": "1417967917"
+  },
+  {
+    "city": "Tokmok",
+    "city_ascii": "Tokmok",
+    "admin_name": "Chüy",
+    "lat": "42.8390",
+    "lng": "75.2910",
+    "id": "1417875875"
+  },
+  {
+    "city": "Kyzyl-Kyya",
+    "city_ascii": "Kyzyl-Kyya",
+    "admin_name": "Batken",
+    "lat": "40.2667",
+    "lng": "72.0500",
+    "id": "1417902733"
+  },
+  {
+    "city": "Özgön",
+    "city_ascii": "Ozgon",
+    "admin_name": "Osh",
+    "lat": "40.7667",
+    "lng": "73.3000",
+    "id": "1417087485"
+  },
+  {
+    "city": "Kara-Balta",
+    "city_ascii": "Kara-Balta",
+    "admin_name": "Chüy",
+    "lat": "42.8306",
+    "lng": "73.8857",
+    "id": "1417201811"
+  },
+  {
+    "city": "Bazar-Korgon",
+    "city_ascii": "Bazar-Korgon",
+    "admin_name": "Jalal-Abad",
+    "lat": "41.0376",
+    "lng": "72.7459",
+    "id": "1417672814"
+  },
+  {
+    "city": "Talas",
+    "city_ascii": "Talas",
+    "admin_name": "Talas",
+    "lat": "42.5184",
+    "lng": "72.2429",
+    "id": "1417698287"
+  },
+  {
+    "city": "Naryn",
+    "city_ascii": "Naryn",
+    "admin_name": "Naryn",
+    "lat": "41.4333",
+    "lng": "76.0000",
+    "id": "1417466970"
+  },
+  {
+    "city": "Isfana",
+    "city_ascii": "Isfana",
+    "admin_name": "Batken",
+    "lat": "39.8389",
+    "lng": "69.5276",
+    "id": "1417781894"
+  },
+  {
+    "city": "Aravan",
+    "city_ascii": "Aravan",
+    "admin_name": "Osh",
+    "lat": "40.5161",
+    "lng": "72.4996",
+    "id": "1417417400"
+  },
+  {
+    "city": "Sokuluk",
+    "city_ascii": "Sokuluk",
+    "admin_name": "Chüy",
+    "lat": "42.8540",
+    "lng": "74.3026",
+    "id": "1417050744"
+  },
+  {
+    "city": "Suzak",
+    "city_ascii": "Suzak",
+    "admin_name": "Jalal-Abad",
+    "lat": "40.8982",
+    "lng": "72.9048",
+    "id": "1417055245"
+  },
+  {
+    "city": "Batken",
+    "city_ascii": "Batken",
+    "admin_name": "Batken",
+    "lat": "40.0625",
+    "lng": "70.8194",
+    "id": "1417022726"
+  },
+  {
+    "city": "Iradan",
+    "city_ascii": "Iradan",
+    "admin_name": "Batken",
+    "lat": "40.2667",
+    "lng": "72.1000",
+    "id": "1417514470"
+  },
+  {
+    "city": "Kant",
+    "city_ascii": "Kant",
+    "admin_name": "Chüy",
+    "lat": "42.8833",
+    "lng": "74.8500",
+    "id": "1417254104"
+  },
+  {
+    "city": "Novopokrovka",
+    "city_ascii": "Novopokrovka",
+    "admin_name": "Chüy",
+    "lat": "42.8686",
+    "lng": "74.7368",
+    "id": "1417819015"
+  },
+  {
+    "city": "Belovodskoe",
+    "city_ascii": "Belovodskoe",
+    "admin_name": "Chüy",
+    "lat": "42.8333",
+    "lng": "74.1167",
+    "id": "1417996342"
+  },
+  {
+    "city": "Shark",
+    "city_ascii": "Shark",
+    "admin_name": "Osh",
+    "lat": "40.5569",
+    "lng": "72.8264",
+    "id": "1417396850"
+  },
+  {
+    "city": "Jangy-Nookat",
+    "city_ascii": "Jangy-Nookat",
+    "admin_name": "Osh",
+    "lat": "40.2500",
+    "lng": "72.5500",
+    "id": "1417565816"
+  },
+  {
+    "city": "Kara-Suu",
+    "city_ascii": "Kara-Suu",
+    "admin_name": "Osh",
+    "lat": "40.7000",
+    "lng": "72.8833",
+    "id": "1417321617"
+  },
+  {
+    "city": "Lebedinovka",
+    "city_ascii": "Lebedinovka",
+    "admin_name": "Chüy",
+    "lat": "42.8800",
+    "lng": "74.6800",
+    "id": "1417855889"
+  },
+  {
+    "city": "Toktogul",
+    "city_ascii": "Toktogul",
+    "admin_name": "Jalal-Abad",
+    "lat": "41.8826",
+    "lng": "72.9372",
+    "id": "1417791878"
+  },
+  {
+    "city": "Kurshab",
+    "city_ascii": "Kurshab",
+    "admin_name": "Osh",
+    "lat": "40.6664",
+    "lng": "73.1367",
+    "id": "1417161123"
+  },
+  {
+    "city": "Kashkar-Kyshtak",
+    "city_ascii": "Kashkar-Kyshtak",
+    "admin_name": "Osh",
+    "lat": "40.6223",
+    "lng": "72.8310",
+    "id": "1417542891"
+  },
+  {
+    "city": "Mayluu-Suu",
+    "city_ascii": "Mayluu-Suu",
+    "admin_name": "Jalal-Abad",
+    "lat": "41.2457",
+    "lng": "72.4480",
+    "id": "1417039122"
+  },
+  {
+    "city": "Voyenno-Antonovka",
+    "city_ascii": "Voyenno-Antonovka",
+    "admin_name": "Chüy",
+    "lat": "42.8738",
+    "lng": "74.4406",
+    "id": "1417044107"
+  },
+  {
+    "city": "Massy",
+    "city_ascii": "Massy",
+    "admin_name": "Jalal-Abad",
+    "lat": "41.0640",
+    "lng": "72.6375",
+    "id": "1417666567"
+  },
+  {
+    "city": "Tash-Kömür",
+    "city_ascii": "Tash-Komur",
+    "admin_name": "Jalal-Abad",
+    "lat": "41.3461",
+    "lng": "72.2171",
+    "id": "1417242124"
+  },
+  {
+    "city": "Kara-Köl",
+    "city_ascii": "Kara-Kol",
+    "admin_name": "Jalal-Abad",
+    "lat": "41.6333",
+    "lng": "72.6667",
+    "id": "1417090900"
+  },
+  {
+    "city": "Novopavlovka",
+    "city_ascii": "Novopavlovka",
+    "admin_name": "Chüy",
+    "lat": "42.8700",
+    "lng": "74.4800",
+    "id": "1417769741"
+  },
+  {
+    "city": "Eski-Nookat",
+    "city_ascii": "Eski-Nookat",
+    "admin_name": "Osh",
+    "lat": "40.2713",
+    "lng": "72.6131",
+    "id": "1417348189"
+  },
+  {
+    "city": "Ivanovka",
+    "city_ascii": "Ivanovka",
+    "admin_name": "Chüy",
+    "lat": "42.8878",
+    "lng": "75.0850",
+    "id": "1417486254"
+  },
+  {
+    "city": "Myrza-Ake",
+    "city_ascii": "Myrza-Ake",
+    "admin_name": "Osh",
+    "lat": "40.7529",
+    "lng": "73.4153",
+    "id": "1417504242"
+  },
+  {
+    "city": "Kara-Kulja",
+    "city_ascii": "Kara-Kulja",
+    "admin_name": "Osh",
+    "lat": "40.6322",
+    "lng": "73.5925",
+    "id": "1417892733"
+  },
+  {
+    "city": "Kyzyl-Suu",
+    "city_ascii": "Kyzyl-Suu",
+    "admin_name": "Ysyk-Köl",
+    "lat": "42.3421",
+    "lng": "78.0064",
+    "id": "1417060130"
+  },
+  {
+    "city": "Ala-Buka",
+    "city_ascii": "Ala-Buka",
+    "admin_name": "Jalal-Abad",
+    "lat": "41.4083",
+    "lng": "71.4806",
+    "id": "1417329927"
+  },
+  {
+    "city": "Kochkor-Ata",
+    "city_ascii": "Kochkor-Ata",
+    "admin_name": "Jalal-Abad",
+    "lat": "41.0358",
+    "lng": "72.4814",
+    "id": "1417211654"
+  },
+  {
+    "city": "Uch-Korgon",
+    "city_ascii": "Uch-Korgon",
+    "admin_name": "Batken",
+    "lat": "40.2288",
+    "lng": "72.0592",
+    "id": "1417468277"
+  },
+  {
+    "city": "At-Bashy",
+    "city_ascii": "At-Bashy",
+    "admin_name": "Naryn",
+    "lat": "41.1725",
+    "lng": "75.7968",
+    "id": "1417188010"
+  },
+  {
+    "city": "Aleksandrovka",
+    "city_ascii": "Aleksandrovka",
+    "admin_name": "Chüy",
+    "lat": "42.8524",
+    "lng": "74.2224",
+    "id": "1417705377"
+  },
+  {
+    "city": "Bökönbaev",
+    "city_ascii": "Bokonbaev",
+    "admin_name": "Ysyk-Köl",
+    "lat": "42.1100",
+    "lng": "76.9900",
+    "id": "1417321497"
+  },
+  {
+    "city": "Kerben",
+    "city_ascii": "Kerben",
+    "admin_name": "Jalal-Abad",
+    "lat": "41.5000",
+    "lng": "71.7500",
+    "id": "1417321910"
+  },
+  {
+    "city": "Teploklyuchenka",
+    "city_ascii": "Teploklyuchenka",
+    "admin_name": "Ysyk-Köl",
+    "lat": "42.4995",
+    "lng": "78.5270",
+    "id": "1417699860"
+  },
+  {
+    "city": "Frunze",
+    "city_ascii": "Frunze",
+    "admin_name": "Batken",
+    "lat": "40.1233",
+    "lng": "71.7221",
+    "id": "1417652388"
+  },
+  {
+    "city": "Gülchö",
+    "city_ascii": "Gulcho",
+    "admin_name": "Osh",
+    "lat": "40.3138",
+    "lng": "73.4442",
+    "id": "1417801725"
+  },
+  {
+    "city": "Kyzyl-Adyr",
+    "city_ascii": "Kyzyl-Adyr",
+    "admin_name": "Talas",
+    "lat": "42.6200",
+    "lng": "71.5900",
+    "id": "1417891810"
+  },
+  {
+    "city": "Dyykan-Kyshtak",
+    "city_ascii": "Dyykan-Kyshtak",
+    "admin_name": "Osh",
+    "lat": "40.5160",
+    "lng": "72.7869",
+    "id": "1417644014"
+  },
+  {
+    "city": "Sülüktü",
+    "city_ascii": "Suluktu",
+    "admin_name": "Batken",
+    "lat": "39.9365",
+    "lng": "69.5678",
+    "id": "1417013156"
+  },
+  {
+    "city": "Sovetskoe",
+    "city_ascii": "Sovetskoe",
+    "admin_name": "Jalal-Abad",
+    "lat": "41.0518",
+    "lng": "72.7397",
+    "id": "1417936909"
+  },
+  {
+    "city": "Kara-Kyshtak",
+    "city_ascii": "Kara-Kyshtak",
+    "admin_name": "Batken",
+    "lat": "40.1187",
+    "lng": "72.1005",
+    "id": "1417214210"
+  },
+  {
+    "city": "Chüy",
+    "city_ascii": "Chuy",
+    "admin_name": "Chüy",
+    "lat": "42.8197",
+    "lng": "75.2823",
+    "id": "1417150707"
+  },
+  {
+    "city": "Tüp",
+    "city_ascii": "Tup",
+    "admin_name": "Ysyk-Köl",
+    "lat": "42.7276",
+    "lng": "78.3648",
+    "id": "1417469504"
+  },
+  {
+    "city": "Shamaldy-Say",
+    "city_ascii": "Shamaldy-Say",
+    "admin_name": "Jalal-Abad",
+    "lat": "41.2006",
+    "lng": "72.1789",
+    "id": "1417191406"
+  },
+  {
+    "city": "Kök-Janggak",
+    "city_ascii": "Kok-Janggak",
+    "admin_name": "Jalal-Abad",
+    "lat": "41.0307",
+    "lng": "73.2058",
+    "id": "1417546126"
+  },
+  {
+    "city": "Nariman",
+    "city_ascii": "Nariman",
+    "admin_name": "Osh",
+    "lat": "40.5972",
+    "lng": "72.7946",
+    "id": "1417394679"
+  },
+  {
+    "city": "Kyzyl-Kyshtak",
+    "city_ascii": "Kyzyl-Kyshtak",
+    "admin_name": "Osh",
+    "lat": "40.5382",
+    "lng": "72.7768",
+    "id": "1417327031"
+  },
+  {
+    "city": "Alamedin",
+    "city_ascii": "Alamedin",
+    "admin_name": "Chüy",
+    "lat": "42.8900",
+    "lng": "74.6300",
+    "id": "1417392357"
+  },
+  {
+    "city": "Jangy-Kyshtak",
+    "city_ascii": "Jangy-Kyshtak",
+    "admin_name": "Osh",
+    "lat": "40.5500",
+    "lng": "72.7306",
+    "id": "1417218150"
+  },
+  {
+    "city": "Cholpon-Ata",
+    "city_ascii": "Cholpon-Ata",
+    "admin_name": "Ysyk-Köl",
+    "lat": "42.6494",
+    "lng": "77.0822",
+    "id": "1417433118"
+  },
+  {
+    "city": "Bek-Abad",
+    "city_ascii": "Bek-Abad",
+    "admin_name": "Jalal-Abad",
+    "lat": "40.8472",
+    "lng": "72.9714",
+    "id": "1417546505"
+  },
+  {
+    "city": "Buzhum",
+    "city_ascii": "Buzhum",
+    "admin_name": "Batken",
+    "lat": "40.0048",
+    "lng": "70.8352",
+    "id": "1417101582"
+  },
+  {
+    "city": "Kochkor",
+    "city_ascii": "Kochkor",
+    "admin_name": "Naryn",
+    "lat": "42.2155",
+    "lng": "75.7566",
+    "id": "1417678105"
+  },
+  {
+    "city": "Naryn",
+    "city_ascii": "Naryn",
+    "admin_name": "Jalal-Abad",
+    "lat": "41.1328",
+    "lng": "72.0816",
+    "id": "1417067867"
+  },
+  {
+    "city": "Arslanbob",
+    "city_ascii": "Arslanbob",
+    "admin_name": "Jalal-Abad",
+    "lat": "41.3382",
+    "lng": "72.9291",
+    "id": "1417741770"
+  },
+  {
+    "city": "Kazarman",
+    "city_ascii": "Kazarman",
+    "admin_name": "Jalal-Abad",
+    "lat": "41.4045",
+    "lng": "74.0283",
+    "id": "1417532863"
+  },
+  {
+    "city": "Imeni Chapayeva",
+    "city_ascii": "Imeni Chapayeva",
+    "admin_name": "Osh",
+    "lat": "40.2778",
+    "lng": "72.6361",
+    "id": "1417692191"
+  },
+  {
+    "city": "Petrovka",
+    "city_ascii": "Petrovka",
+    "admin_name": "Chüy",
+    "lat": "42.8392",
+    "lng": "74.0203",
+    "id": "1417874854"
+  },
+  {
+    "city": "Kara-Tash",
+    "city_ascii": "Kara-Tash",
+    "admin_name": "Osh",
+    "lat": "40.2165",
+    "lng": "72.6244",
+    "id": "1417239790"
+  },
+  {
+    "city": "Gülbaar",
+    "city_ascii": "Gulbaar",
+    "admin_name": "Osh",
+    "lat": "40.4874",
+    "lng": "72.6525",
+    "id": "1417638911"
+  },
+  {
+    "city": "Baetov",
+    "city_ascii": "Baetov",
+    "admin_name": "Naryn",
+    "lat": "41.2667",
+    "lng": "74.9570",
+    "id": "1417491170"
+  },
+  {
+    "city": "Leninskoe",
+    "city_ascii": "Leninskoe",
+    "admin_name": "Chüy",
+    "lat": "42.9706",
+    "lng": "74.6625",
+    "id": "1417027549"
+  },
+  {
+    "city": "Maevka",
+    "city_ascii": "Maevka",
+    "admin_name": "Chüy",
+    "lat": "42.9093",
+    "lng": "74.5685",
+    "id": "1417086380"
+  },
+  {
+    "city": "Kemin",
+    "city_ascii": "Kemin",
+    "admin_name": "Chüy",
+    "lat": "42.7846",
+    "lng": "75.6892",
+    "id": "1417700356"
+  },
+  {
+    "city": "Aydarken",
+    "city_ascii": "Aydarken",
+    "admin_name": "Batken",
+    "lat": "39.9333",
+    "lng": "71.3333",
+    "id": "1417865074"
+  },
+  {
+    "city": "Chong-Aryk",
+    "city_ascii": "Chong-Aryk",
+    "admin_name": "Bishkek",
+    "lat": "42.8172",
+    "lng": "74.5809",
+    "id": "1417195703"
+  },
+  {
+    "city": "Kulundu",
+    "city_ascii": "Kulundu",
+    "admin_name": "Batken",
+    "lat": "40.1069",
+    "lng": "69.6431",
+    "id": "1417968397"
+  },
+  {
+    "city": "Ak-Suu",
+    "city_ascii": "Ak-Suu",
+    "admin_name": "Chüy",
+    "lat": "42.8092",
+    "lng": "74.1001",
+    "id": "1417410777"
+  },
+  {
+    "city": "Kayyngdy",
+    "city_ascii": "Kayyngdy",
+    "admin_name": "Chüy",
+    "lat": "42.8247",
+    "lng": "73.6758",
+    "id": "1417817372"
+  },
+  {
+    "city": "Barskoon",
+    "city_ascii": "Barskoon",
+    "admin_name": "Ysyk-Köl",
+    "lat": "42.1579",
+    "lng": "77.6036",
+    "id": "1417800599"
+  },
+  {
+    "city": "Anan’evo",
+    "city_ascii": "Anan'evo",
+    "admin_name": "Ysyk-Köl",
+    "lat": "42.7364",
+    "lng": "77.6738",
+    "id": "1417852557"
+  },
+  {
+    "city": "Tepe-Korgon",
+    "city_ascii": "Tepe-Korgon",
+    "admin_name": "Osh",
+    "lat": "40.5928",
+    "lng": "72.3956",
+    "id": "1417409618"
+  },
+  {
+    "city": "Kara-Bak",
+    "city_ascii": "Kara-Bak",
+    "admin_name": "Batken",
+    "lat": "40.1583",
+    "lng": "70.8167",
+    "id": "1417932246"
+  },
+  {
+    "city": "Ladan Kara",
+    "city_ascii": "Ladan Kara",
+    "admin_name": "Jalal-Abad",
+    "lat": "40.9185",
+    "lng": "72.9486",
+    "id": "1417039175"
+  },
+  {
+    "city": "Shopokov",
+    "city_ascii": "Shopokov",
+    "admin_name": "Chüy",
+    "lat": "42.8547",
+    "lng": "74.3422",
+    "id": "1417801567"
+  },
+  {
+    "city": "Karavan",
+    "city_ascii": "Karavan",
+    "admin_name": "Batken",
+    "lat": "40.2951",
+    "lng": "72.1863",
+    "id": "1417081845"
+  },
+  {
+    "city": "Panfilovka",
+    "city_ascii": "Panfilovka",
+    "admin_name": "Chüy",
+    "lat": "42.7917",
+    "lng": "73.6778",
+    "id": "1417300619"
+  },
+  {
+    "city": "Vostochnyy",
+    "city_ascii": "Vostochnyy",
+    "admin_name": "Batken",
+    "lat": "39.9222",
+    "lng": "69.6486",
+    "id": "1417634598"
+  },
+  {
+    "city": "Sadovoye",
+    "city_ascii": "Sadovoye",
+    "admin_name": "Chüy",
+    "lat": "42.8539",
+    "lng": "74.1725",
+    "id": "1417165744"
+  },
+  {
+    "city": "Pokrovka",
+    "city_ascii": "Pokrovka",
+    "admin_name": "Talas",
+    "lat": "42.7500",
+    "lng": "71.6000",
+    "id": "1417837155"
+  },
+  {
+    "city": "Saruu",
+    "city_ascii": "Saruu",
+    "admin_name": "Ysyk-Köl",
+    "lat": "42.3207",
+    "lng": "77.9176",
+    "id": "1417333637"
+  }
+]

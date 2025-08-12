@@ -1,0 +1,242 @@
+[
+  {
+    "city": "Kigali",
+    "city_ascii": "Kigali",
+    "admin_name": "Kigali",
+    "lat": "-1.9536",
+    "lng": "30.0606",
+    "id": "1646923541"
+  },
+  {
+    "city": "Muhanga",
+    "city_ascii": "Muhanga",
+    "admin_name": "Southern Province",
+    "lat": "-2.0845",
+    "lng": "29.7527",
+    "id": "1646187395"
+  },
+  {
+    "city": "Ruhengeri",
+    "city_ascii": "Ruhengeri",
+    "admin_name": "Northern Province",
+    "lat": "-1.5000",
+    "lng": "29.6333",
+    "id": "1646793543"
+  },
+  {
+    "city": "Gitarama",
+    "city_ascii": "Gitarama",
+    "admin_name": "Southern Province",
+    "lat": "-2.0696",
+    "lng": "29.7600",
+    "id": "1646038255"
+  },
+  {
+    "city": "Kabarore",
+    "city_ascii": "Kabarore",
+    "admin_name": "Eastern Province",
+    "lat": "-1.6306",
+    "lng": "30.3787",
+    "id": "1646082974"
+  },
+  {
+    "city": "Cyuve",
+    "city_ascii": "Cyuve",
+    "admin_name": "Northern Province",
+    "lat": "-1.4833",
+    "lng": "29.6500",
+    "id": "1646622705"
+  },
+  {
+    "city": "Gisenyi",
+    "city_ascii": "Gisenyi",
+    "admin_name": "Western Province",
+    "lat": "-1.7000",
+    "lng": "29.2500",
+    "id": "1646226936"
+  },
+  {
+    "city": "Gahini",
+    "city_ascii": "Gahini",
+    "admin_name": "Eastern Province",
+    "lat": "-1.8244",
+    "lng": "30.5175",
+    "id": "1646407608"
+  },
+  {
+    "city": "Cyanika I",
+    "city_ascii": "Cyanika I",
+    "admin_name": "Northern Province",
+    "lat": "-1.3444",
+    "lng": "29.7422",
+    "id": "1646641105"
+  },
+  {
+    "city": "Shyorongi",
+    "city_ascii": "Shyorongi",
+    "admin_name": "Northern Province",
+    "lat": "-1.8555",
+    "lng": "29.9702",
+    "id": "1646339704"
+  },
+  {
+    "city": "Gatunda",
+    "city_ascii": "Gatunda",
+    "admin_name": "Eastern Province",
+    "lat": "-1.4350",
+    "lng": "30.0211",
+    "id": "1646499404"
+  },
+  {
+    "city": "Rubengera",
+    "city_ascii": "Rubengera",
+    "admin_name": "Western Province",
+    "lat": "-2.0519",
+    "lng": "29.4144",
+    "id": "1646153886"
+  },
+  {
+    "city": "Bugarama",
+    "city_ascii": "Bugarama",
+    "admin_name": "Western Province",
+    "lat": "-2.6972",
+    "lng": "29.0083",
+    "id": "1646110055"
+  },
+  {
+    "city": "Kabuga",
+    "city_ascii": "Kabuga",
+    "admin_name": "Kigali",
+    "lat": "-1.9765",
+    "lng": "30.2247",
+    "id": "1646271073"
+  },
+  {
+    "city": "Ngororero",
+    "city_ascii": "Ngororero",
+    "admin_name": "Western Province",
+    "lat": "-1.8650",
+    "lng": "29.6250",
+    "id": "1646903610"
+  },
+  {
+    "city": "Byumba",
+    "city_ascii": "Byumba",
+    "admin_name": "Northern Province",
+    "lat": "-1.5794",
+    "lng": "30.0694",
+    "id": "1646868980"
+  },
+  {
+    "city": "Nyamata",
+    "city_ascii": "Nyamata",
+    "admin_name": "Eastern Province",
+    "lat": "-2.1569",
+    "lng": "30.0932",
+    "id": "1646130280"
+  },
+  {
+    "city": "Save",
+    "city_ascii": "Save",
+    "admin_name": "Southern Province",
+    "lat": "-2.5461",
+    "lng": "29.7721",
+    "id": "1646484647"
+  },
+  {
+    "city": "Ndora",
+    "city_ascii": "Ndora",
+    "admin_name": "Southern Province",
+    "lat": "-2.6033",
+    "lng": "29.8336",
+    "id": "1646457755"
+  },
+  {
+    "city": "Busogo",
+    "city_ascii": "Busogo",
+    "admin_name": "Northern Province",
+    "lat": "-1.5572",
+    "lng": "29.5442",
+    "id": "1646386740"
+  },
+  {
+    "city": "Cyangugu",
+    "city_ascii": "Cyangugu",
+    "admin_name": "Western Province",
+    "lat": "-2.4833",
+    "lng": "28.8967",
+    "id": "1646073091"
+  },
+  {
+    "city": "Kibeho",
+    "city_ascii": "Kibeho",
+    "admin_name": "Southern Province",
+    "lat": "-2.6333",
+    "lng": "29.5500",
+    "id": "1646397419"
+  },
+  {
+    "city": "Nyanza",
+    "city_ascii": "Nyanza",
+    "admin_name": "Southern Province",
+    "lat": "-2.3500",
+    "lng": "29.7333",
+    "id": "1646257566"
+  },
+  {
+    "city": "Butare",
+    "city_ascii": "Butare",
+    "admin_name": "Southern Province",
+    "lat": "-2.6000",
+    "lng": "29.7500",
+    "id": "1646348441"
+  },
+  {
+    "city": "Ruhango",
+    "city_ascii": "Ruhango",
+    "admin_name": "Southern Province",
+    "lat": "-2.2325",
+    "lng": "29.7803",
+    "id": "1646180341"
+  },
+  {
+    "city": "Rwamagana",
+    "city_ascii": "Rwamagana",
+    "admin_name": "Eastern Province",
+    "lat": "-1.9525",
+    "lng": "30.4378",
+    "id": "1646996571"
+  },
+  {
+    "city": "Murambi",
+    "city_ascii": "Murambi",
+    "admin_name": "Northern Province",
+    "lat": "-1.8112",
+    "lng": "30.0420",
+    "id": "1646072975"
+  },
+  {
+    "city": "Gikongoro",
+    "city_ascii": "Gikongoro",
+    "admin_name": "Southern Province",
+    "lat": "-2.4723",
+    "lng": "29.5815",
+    "id": "1646632562"
+  },
+  {
+    "city": "Kibuye",
+    "city_ascii": "Kibuye",
+    "admin_name": "Western Province",
+    "lat": "-2.0617",
+    "lng": "29.3483",
+    "id": "1646264461"
+  },
+  {
+    "city": "Kibungo",
+    "city_ascii": "Kibungo",
+    "admin_name": "Eastern Province",
+    "lat": "-2.1608",
+    "lng": "30.5442",
+    "id": "1646746155"
+  }
+]

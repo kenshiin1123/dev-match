@@ -1,0 +1,442 @@
+[
+  {
+    "city": "Montevideo",
+    "city_ascii": "Montevideo",
+    "admin_name": "Montevideo",
+    "lat": "-34.9056",
+    "lng": "-56.1842",
+    "id": "1858107000"
+  },
+  {
+    "city": "Maldonado",
+    "city_ascii": "Maldonado",
+    "admin_name": "Maldonado",
+    "lat": "-34.9000",
+    "lng": "-54.9500",
+    "id": "1858958595"
+  },
+  {
+    "city": "Ciudad de la Costa",
+    "city_ascii": "Ciudad de la Costa",
+    "admin_name": "Canelones",
+    "lat": "-34.8167",
+    "lng": "-55.9500",
+    "id": "1858042396"
+  },
+  {
+    "city": "Salto",
+    "city_ascii": "Salto",
+    "admin_name": "Salto",
+    "lat": "-31.3833",
+    "lng": "-57.9500",
+    "id": "1858575950"
+  },
+  {
+    "city": "Paysandú",
+    "city_ascii": "Paysandu",
+    "admin_name": "Paysandú",
+    "lat": "-32.3214",
+    "lng": "-58.0756",
+    "id": "1858756515"
+  },
+  {
+    "city": "Las Piedras",
+    "city_ascii": "Las Piedras",
+    "admin_name": "Canelones",
+    "lat": "-34.7167",
+    "lng": "-56.2167",
+    "id": "1858563314"
+  },
+  {
+    "city": "Rivera",
+    "city_ascii": "Rivera",
+    "admin_name": "Rivera",
+    "lat": "-30.9025",
+    "lng": "-55.5506",
+    "id": "1858819782"
+  },
+  {
+    "city": "Tacuarembó",
+    "city_ascii": "Tacuarembo",
+    "admin_name": "Tacuarembó",
+    "lat": "-31.7333",
+    "lng": "-55.9833",
+    "id": "1858952595"
+  },
+  {
+    "city": "Melo",
+    "city_ascii": "Melo",
+    "admin_name": "Cerro Largo",
+    "lat": "-32.3667",
+    "lng": "-54.1833",
+    "id": "1858600801"
+  },
+  {
+    "city": "Mercedes",
+    "city_ascii": "Mercedes",
+    "admin_name": "Soriano",
+    "lat": "-33.2500",
+    "lng": "-58.0333",
+    "id": "1858182538"
+  },
+  {
+    "city": "Artigas",
+    "city_ascii": "Artigas",
+    "admin_name": "Artigas",
+    "lat": "-30.4667",
+    "lng": "-56.4667",
+    "id": "1858646839"
+  },
+  {
+    "city": "Minas",
+    "city_ascii": "Minas",
+    "admin_name": "Lavalleja",
+    "lat": "-34.3667",
+    "lng": "-55.2333",
+    "id": "1858724823"
+  },
+  {
+    "city": "Ciudad del Plata",
+    "city_ascii": "Ciudad del Plata",
+    "admin_name": "San José",
+    "lat": "-34.7667",
+    "lng": "-56.3806",
+    "id": "1858720449"
+  },
+  {
+    "city": "San José",
+    "city_ascii": "San Jose",
+    "admin_name": "San José",
+    "lat": "-34.3333",
+    "lng": "-56.7167",
+    "id": "1858927597"
+  },
+  {
+    "city": "Durazno",
+    "city_ascii": "Durazno",
+    "admin_name": "Durazno",
+    "lat": "-33.3667",
+    "lng": "-56.5167",
+    "id": "1858006236"
+  },
+  {
+    "city": "Florida",
+    "city_ascii": "Florida",
+    "admin_name": "Florida",
+    "lat": "-34.1000",
+    "lng": "-56.2167",
+    "id": "1858077099"
+  },
+  {
+    "city": "Barros Blancos",
+    "city_ascii": "Barros Blancos",
+    "admin_name": "Canelones",
+    "lat": "-34.7542",
+    "lng": "-56.0042",
+    "id": "1858612587"
+  },
+  {
+    "city": "San Carlos",
+    "city_ascii": "San Carlos",
+    "admin_name": "Maldonado",
+    "lat": "-34.8000",
+    "lng": "-54.9167",
+    "id": "1858085265"
+  },
+  {
+    "city": "Colonia del Sacramento",
+    "city_ascii": "Colonia del Sacramento",
+    "admin_name": "Colonia",
+    "lat": "-34.4714",
+    "lng": "-57.8442",
+    "id": "1858338569"
+  },
+  {
+    "city": "Pando",
+    "city_ascii": "Pando",
+    "admin_name": "Canelones",
+    "lat": "-34.7167",
+    "lng": "-55.9583",
+    "id": "1858276269"
+  },
+  {
+    "city": "Treinta y Tres",
+    "city_ascii": "Treinta y Tres",
+    "admin_name": "Treinta y Tres",
+    "lat": "-33.2333",
+    "lng": "-54.3833",
+    "id": "1858879204"
+  },
+  {
+    "city": "Rocha",
+    "city_ascii": "Rocha",
+    "admin_name": "Rocha",
+    "lat": "-34.4833",
+    "lng": "-54.3500",
+    "id": "1858936449"
+  },
+  {
+    "city": "Fray Bentos",
+    "city_ascii": "Fray Bentos",
+    "admin_name": "Río Negro",
+    "lat": "-33.1333",
+    "lng": "-58.3000",
+    "id": "1858727525"
+  },
+  {
+    "city": "Trinidad",
+    "city_ascii": "Trinidad",
+    "admin_name": "Flores",
+    "lat": "-33.5333",
+    "lng": "-56.8833",
+    "id": "1858903609"
+  },
+  {
+    "city": "El Pinar",
+    "city_ascii": "El Pinar",
+    "admin_name": "Canelones",
+    "lat": "-34.7972",
+    "lng": "-55.9097",
+    "id": "1858554922"
+  },
+  {
+    "city": "La Paz",
+    "city_ascii": "La Paz",
+    "admin_name": "Canelones",
+    "lat": "-34.7617",
+    "lng": "-56.2233",
+    "id": "1858113046"
+  },
+  {
+    "city": "Canelones",
+    "city_ascii": "Canelones",
+    "admin_name": "Canelones",
+    "lat": "-34.5167",
+    "lng": "-56.2833",
+    "id": "1858741797"
+  },
+  {
+    "city": "Carmelo",
+    "city_ascii": "Carmelo",
+    "admin_name": "Colonia",
+    "lat": "-34.0000",
+    "lng": "-58.2833",
+    "id": "1858670999"
+  },
+  {
+    "city": "Dolores",
+    "city_ascii": "Dolores",
+    "admin_name": "Soriano",
+    "lat": "-33.5333",
+    "lng": "-58.2167",
+    "id": "1858369530"
+  },
+  {
+    "city": "Young",
+    "city_ascii": "Young",
+    "admin_name": "Río Negro",
+    "lat": "-32.7000",
+    "lng": "-57.6333",
+    "id": "1858448729"
+  },
+  {
+    "city": "Santa Lucía",
+    "city_ascii": "Santa Lucia",
+    "admin_name": "Canelones",
+    "lat": "-34.4525",
+    "lng": "-56.3964",
+    "id": "1858287723"
+  },
+  {
+    "city": "Progreso",
+    "city_ascii": "Progreso",
+    "admin_name": "Canelones",
+    "lat": "-34.6650",
+    "lng": "-56.2194",
+    "id": "1858245447"
+  },
+  {
+    "city": "Paso de Carrasco",
+    "city_ascii": "Paso de Carrasco",
+    "admin_name": "Canelones",
+    "lat": "-34.8714",
+    "lng": "-56.0272",
+    "id": "1858805647"
+  },
+  {
+    "city": "Río Branco",
+    "city_ascii": "Rio Branco",
+    "admin_name": "Cerro Largo",
+    "lat": "-32.5972",
+    "lng": "-53.3833",
+    "id": "1858289927"
+  },
+  {
+    "city": "Paso de los Toros",
+    "city_ascii": "Paso de los Toros",
+    "admin_name": "Durazno",
+    "lat": "-32.8112",
+    "lng": "-56.5086",
+    "id": "1858768851"
+  },
+  {
+    "city": "Juan L. Lacaze",
+    "city_ascii": "Juan L. Lacaze",
+    "admin_name": "Colonia",
+    "lat": "-34.4311",
+    "lng": "-57.4483",
+    "id": "1858599610"
+  },
+  {
+    "city": "Punta del Este",
+    "city_ascii": "Punta del Este",
+    "admin_name": "Maldonado",
+    "lat": "-34.9667",
+    "lng": "-54.9500",
+    "id": "1858267433"
+  },
+  {
+    "city": "Bella Unión",
+    "city_ascii": "Bella Union",
+    "admin_name": "Artigas",
+    "lat": "-30.2500",
+    "lng": "-57.5833",
+    "id": "1858883224"
+  },
+  {
+    "city": "Nueva Helvecia",
+    "city_ascii": "Nueva Helvecia",
+    "admin_name": "Colonia",
+    "lat": "-34.2833",
+    "lng": "-57.2000",
+    "id": "1858393787"
+  },
+  {
+    "city": "Libertad",
+    "city_ascii": "Libertad",
+    "admin_name": "San José",
+    "lat": "-34.6333",
+    "lng": "-56.6192",
+    "id": "1858652953"
+  },
+  {
+    "city": "Rosario",
+    "city_ascii": "Rosario",
+    "admin_name": "Colonia",
+    "lat": "-34.3139",
+    "lng": "-57.3525",
+    "id": "1858160603"
+  },
+  {
+    "city": "Nueva Palmira",
+    "city_ascii": "Nueva Palmira",
+    "admin_name": "Colonia",
+    "lat": "-33.8833",
+    "lng": "-58.4167",
+    "id": "1858193401"
+  },
+  {
+    "city": "Chuy",
+    "city_ascii": "Chuy",
+    "admin_name": "Rocha",
+    "lat": "-33.6964",
+    "lng": "-53.4600",
+    "id": "1858852364"
+  },
+  {
+    "city": "Colonia Nicolich",
+    "city_ascii": "Colonia Nicolich",
+    "admin_name": "Canelones",
+    "lat": "-34.8167",
+    "lng": "-56.0167",
+    "id": "1858537250"
+  },
+  {
+    "city": "Piriápolis",
+    "city_ascii": "Piriapolis",
+    "admin_name": "Maldonado",
+    "lat": "-34.9000",
+    "lng": "-55.2833",
+    "id": "1858127354"
+  },
+  {
+    "city": "Salinas",
+    "city_ascii": "Salinas",
+    "admin_name": "Canelones",
+    "lat": "-34.7833",
+    "lng": "-55.8333",
+    "id": "1858193593"
+  },
+  {
+    "city": "Nuevo Paysandú",
+    "city_ascii": "Nuevo Paysandu",
+    "admin_name": "Paysandú",
+    "lat": "-32.2667",
+    "lng": "-58.0667",
+    "id": "1858171895"
+  },
+  {
+    "city": "Lascano",
+    "city_ascii": "Lascano",
+    "admin_name": "Rocha",
+    "lat": "-33.6739",
+    "lng": "-54.2075",
+    "id": "1858593854"
+  },
+  {
+    "city": "Castillos",
+    "city_ascii": "Castillos",
+    "admin_name": "Rocha",
+    "lat": "-34.1989",
+    "lng": "-53.8575",
+    "id": "1858885344"
+  },
+  {
+    "city": "Tranqueras",
+    "city_ascii": "Tranqueras",
+    "admin_name": "Rivera",
+    "lat": "-31.1833",
+    "lng": "-55.7667",
+    "id": "1858727708"
+  },
+  {
+    "city": "Vergara",
+    "city_ascii": "Vergara",
+    "admin_name": "Treinta y Tres",
+    "lat": "-32.9500",
+    "lng": "-53.9333",
+    "id": "1858979569"
+  },
+  {
+    "city": "La Paloma",
+    "city_ascii": "La Paloma",
+    "admin_name": "Rocha",
+    "lat": "-34.6500",
+    "lng": "-54.1667",
+    "id": "1858559267"
+  },
+  {
+    "city": "Baltasar Brum",
+    "city_ascii": "Baltasar Brum",
+    "admin_name": "Artigas",
+    "lat": "-30.7167",
+    "lng": "-57.3333",
+    "id": "1858039985"
+  },
+  {
+    "city": "Aiguá",
+    "city_ascii": "Aigua",
+    "admin_name": "Maldonado",
+    "lat": "-34.2000",
+    "lng": "-54.7500",
+    "id": "1858068520"
+  },
+  {
+    "city": "José Batlle y Ordóñez",
+    "city_ascii": "Jose Batlle y Ordonez",
+    "admin_name": "Lavalleja",
+    "lat": "-33.4667",
+    "lng": "-55.1500",
+    "id": "1858852252"
+  }
+]

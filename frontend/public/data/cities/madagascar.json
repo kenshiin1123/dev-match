@@ -1,0 +1,6658 @@
+[
+  {
+    "city": "Antananarivo",
+    "city_ascii": "Antananarivo",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9100",
+    "lng": "47.5250",
+    "id": "1450978461"
+  },
+  {
+    "city": "Betsiboka",
+    "city_ascii": "Betsiboka",
+    "admin_name": "Mahajanga",
+    "lat": "-16.8667",
+    "lng": "46.9500",
+    "id": "1450524066"
+  },
+  {
+    "city": "Antsirabe",
+    "city_ascii": "Antsirabe",
+    "admin_name": "Antananarivo",
+    "lat": "-19.8667",
+    "lng": "47.0333",
+    "id": "1450791699"
+  },
+  {
+    "city": "Mahajanga",
+    "city_ascii": "Mahajanga",
+    "admin_name": "Mahajanga",
+    "lat": "-15.6700",
+    "lng": "46.3450",
+    "id": "1450421961"
+  },
+  {
+    "city": "Toamasina",
+    "city_ascii": "Toamasina",
+    "admin_name": "Toamasina",
+    "lat": "-18.1550",
+    "lng": "49.4100",
+    "id": "1450540529"
+  },
+  {
+    "city": "Fianarantsoa",
+    "city_ascii": "Fianarantsoa",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.4333",
+    "lng": "47.0833",
+    "id": "1450070223"
+  },
+  {
+    "city": "Toliara",
+    "city_ascii": "Toliara",
+    "admin_name": "Toliara",
+    "lat": "-23.3500",
+    "lng": "43.6667",
+    "id": "1450593748"
+  },
+  {
+    "city": "Antsiranana",
+    "city_ascii": "Antsiranana",
+    "admin_name": "Antsiranana",
+    "lat": "-12.2765",
+    "lng": "49.3115",
+    "id": "1450106928"
+  },
+  {
+    "city": "Ambovombe",
+    "city_ascii": "Ambovombe",
+    "admin_name": "Toliara",
+    "lat": "-25.1754",
+    "lng": "46.0882",
+    "id": "1450135666"
+  },
+  {
+    "city": "Ambohimangakely",
+    "city_ascii": "Ambohimangakely",
+    "admin_name": "Antananarivo",
+    "lat": "-18.8998",
+    "lng": "47.5931",
+    "id": "1450074776"
+  },
+  {
+    "city": "Sambava",
+    "city_ascii": "Sambava",
+    "admin_name": "Antsiranana",
+    "lat": "-14.2662",
+    "lng": "50.1666",
+    "id": "1450004590"
+  },
+  {
+    "city": "Antehiroka",
+    "city_ascii": "Antehiroka",
+    "admin_name": "Antananarivo",
+    "lat": "-18.8492",
+    "lng": "47.4828",
+    "id": "1450838187"
+  },
+  {
+    "city": "Belo Tsiribihina",
+    "city_ascii": "Belo Tsiribihina",
+    "admin_name": "Toliara",
+    "lat": "-19.7016",
+    "lng": "44.5465",
+    "id": "1450104370"
+  },
+  {
+    "city": "Imerintsiatosika",
+    "city_ascii": "Imerintsiatosika",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9804",
+    "lng": "47.3285",
+    "id": "1450857841"
+  },
+  {
+    "city": "Antalaha",
+    "city_ascii": "Antalaha",
+    "admin_name": "Antsiranana",
+    "lat": "-14.8833",
+    "lng": "50.2833",
+    "id": "1450649394"
+  },
+  {
+    "city": "Ankazoabokely",
+    "city_ascii": "Ankazoabokely",
+    "admin_name": "Toliara",
+    "lat": "-21.5031",
+    "lng": "45.2112",
+    "id": "1450489692"
+  },
+  {
+    "city": "Tôlan̈aro",
+    "city_ascii": "Tolanaro",
+    "admin_name": "Toliara",
+    "lat": "-25.0325",
+    "lng": "46.9833",
+    "id": "1450217836"
+  },
+  {
+    "city": "Madirovalo",
+    "city_ascii": "Madirovalo",
+    "admin_name": "Mahajanga",
+    "lat": "-16.4416",
+    "lng": "46.5456",
+    "id": "1450602387"
+  },
+  {
+    "city": "Ambilobe",
+    "city_ascii": "Ambilobe",
+    "admin_name": "Antsiranana",
+    "lat": "-13.1873",
+    "lng": "49.0524",
+    "id": "1450374226"
+  },
+  {
+    "city": "Analavory",
+    "city_ascii": "Analavory",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9741",
+    "lng": "46.7190",
+    "id": "1450643533"
+  },
+  {
+    "city": "Ambanja",
+    "city_ascii": "Ambanja",
+    "admin_name": "Antsiranana",
+    "lat": "-13.6786",
+    "lng": "48.4522",
+    "id": "1450987919"
+  },
+  {
+    "city": "Andoharanofotsy",
+    "city_ascii": "Andoharanofotsy",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9851",
+    "lng": "47.5364",
+    "id": "1450381707"
+  },
+  {
+    "city": "Antsalova",
+    "city_ascii": "Antsalova",
+    "admin_name": "Mahajanga",
+    "lat": "-18.6764",
+    "lng": "44.6227",
+    "id": "1450407330"
+  },
+  {
+    "city": "Ambahikily",
+    "city_ascii": "Ambahikily",
+    "admin_name": "Toliara",
+    "lat": "-21.6050",
+    "lng": "43.6748",
+    "id": "1450105131"
+  },
+  {
+    "city": "Antsinanantsena",
+    "city_ascii": "Antsinanantsena",
+    "admin_name": "Antananarivo",
+    "lat": "-18.8360",
+    "lng": "47.5564",
+    "id": "1450343987"
+  },
+  {
+    "city": "Moramanga",
+    "city_ascii": "Moramanga",
+    "admin_name": "Toamasina",
+    "lat": "-18.9480",
+    "lng": "48.2297",
+    "id": "1450998453"
+  },
+  {
+    "city": "Antanifotsy",
+    "city_ascii": "Antanifotsy",
+    "admin_name": "Antananarivo",
+    "lat": "-19.6641",
+    "lng": "47.3207",
+    "id": "1450226310"
+  },
+  {
+    "city": "Ankadinondry-Sakay",
+    "city_ascii": "Ankadinondry-Sakay",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9667",
+    "lng": "46.4500",
+    "id": "1450977196"
+  },
+  {
+    "city": "Morondava",
+    "city_ascii": "Morondava",
+    "admin_name": "Toliara",
+    "lat": "-20.2833",
+    "lng": "44.2833",
+    "id": "1450721607"
+  },
+  {
+    "city": "Ampanihy",
+    "city_ascii": "Ampanihy",
+    "admin_name": "Toliara",
+    "lat": "-24.6888",
+    "lng": "44.7483",
+    "id": "1450328270"
+  },
+  {
+    "city": "Ambohibary",
+    "city_ascii": "Ambohibary",
+    "admin_name": "Antananarivo",
+    "lat": "-19.6176",
+    "lng": "47.1398",
+    "id": "1450162671"
+  },
+  {
+    "city": "Tanjombato",
+    "city_ascii": "Tanjombato",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9603",
+    "lng": "47.5332",
+    "id": "1450363732"
+  },
+  {
+    "city": "Ampitatafika",
+    "city_ascii": "Ampitatafika",
+    "admin_name": "Fianarantsoa",
+    "lat": "-18.9388",
+    "lng": "47.4773",
+    "id": "1450438823"
+  },
+  {
+    "city": "Ejeda",
+    "city_ascii": "Ejeda",
+    "admin_name": "Toliara",
+    "lat": "-24.3415",
+    "lng": "44.5178",
+    "id": "1450979491"
+  },
+  {
+    "city": "Ambatondrazaka",
+    "city_ascii": "Ambatondrazaka",
+    "admin_name": "Toamasina",
+    "lat": "-17.8329",
+    "lng": "48.4167",
+    "id": "1450068349"
+  },
+  {
+    "city": "Saranambana",
+    "city_ascii": "Saranambana",
+    "admin_name": "Toamasina",
+    "lat": "-17.2730",
+    "lng": "49.1696",
+    "id": "1450668500"
+  },
+  {
+    "city": "Faratsiho",
+    "city_ascii": "Faratsiho",
+    "admin_name": "Antananarivo",
+    "lat": "-19.4064",
+    "lng": "46.9519",
+    "id": "1450194641"
+  },
+  {
+    "city": "Amboasary",
+    "city_ascii": "Amboasary",
+    "admin_name": "Toliara",
+    "lat": "-25.0364",
+    "lng": "46.3843",
+    "id": "1450064335"
+  },
+  {
+    "city": "Tsiroanomandidy",
+    "city_ascii": "Tsiroanomandidy",
+    "admin_name": "Antananarivo",
+    "lat": "-18.7698",
+    "lng": "46.0500",
+    "id": "1450080598"
+  },
+  {
+    "city": "Manakara",
+    "city_ascii": "Manakara",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.1455",
+    "lng": "48.0080",
+    "id": "1450925890"
+  },
+  {
+    "city": "Talata-maty",
+    "city_ascii": "Talata-maty",
+    "admin_name": "Antananarivo",
+    "lat": "-18.8402",
+    "lng": "47.4635",
+    "id": "1450675935"
+  },
+  {
+    "city": "Maroantsetra",
+    "city_ascii": "Maroantsetra",
+    "admin_name": "Toamasina",
+    "lat": "-15.4333",
+    "lng": "49.7333",
+    "id": "1450485257"
+  },
+  {
+    "city": "Morarano Chrome",
+    "city_ascii": "Morarano Chrome",
+    "admin_name": "Toamasina",
+    "lat": "-17.7613",
+    "lng": "48.1655",
+    "id": "1450652075"
+  },
+  {
+    "city": "Fenoarivo Atsinanana",
+    "city_ascii": "Fenoarivo Atsinanana",
+    "admin_name": "Toamasina",
+    "lat": "-17.3819",
+    "lng": "49.4090",
+    "id": "1450763584"
+  },
+  {
+    "city": "Ambohitrimanjaka",
+    "city_ascii": "Ambohitrimanjaka",
+    "admin_name": "Antananarivo",
+    "lat": "-18.8589",
+    "lng": "47.4422",
+    "id": "1450986963"
+  },
+  {
+    "city": "Ambositra",
+    "city_ascii": "Ambositra",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.5294",
+    "lng": "47.2425",
+    "id": "1450276194"
+  },
+  {
+    "city": "Soavinandriana",
+    "city_ascii": "Soavinandriana",
+    "admin_name": "Antananarivo",
+    "lat": "-19.1693",
+    "lng": "46.7401",
+    "id": "1450397314"
+  },
+  {
+    "city": "Matsoandakana",
+    "city_ascii": "Matsoandakana",
+    "admin_name": "Mahajanga",
+    "lat": "-15.0352",
+    "lng": "49.3220",
+    "id": "1450774810"
+  },
+  {
+    "city": "Benenitra",
+    "city_ascii": "Benenitra",
+    "admin_name": "Toliara",
+    "lat": "-23.4522",
+    "lng": "45.0808",
+    "id": "1450877393"
+  },
+  {
+    "city": "Ihosy",
+    "city_ascii": "Ihosy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.3996",
+    "lng": "46.1167",
+    "id": "1450600411"
+  },
+  {
+    "city": "Marovoay",
+    "city_ascii": "Marovoay",
+    "admin_name": "Mahajanga",
+    "lat": "-16.0995",
+    "lng": "46.6333",
+    "id": "1450283819"
+  },
+  {
+    "city": "Androka",
+    "city_ascii": "Androka",
+    "admin_name": "Toliara",
+    "lat": "-25.1302",
+    "lng": "44.4545",
+    "id": "1450742982"
+  },
+  {
+    "city": "Ambatomainty",
+    "city_ascii": "Ambatomainty",
+    "admin_name": "Toamasina",
+    "lat": "-17.6768",
+    "lng": "48.2166",
+    "id": "1450199483"
+  },
+  {
+    "city": "Vangaindrano",
+    "city_ascii": "Vangaindrano",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.3498",
+    "lng": "47.6047",
+    "id": "1450641606"
+  },
+  {
+    "city": "Antsohihy",
+    "city_ascii": "Antsohihy",
+    "admin_name": "Mahajanga",
+    "lat": "-14.8661",
+    "lng": "47.9834",
+    "id": "1450240411"
+  },
+  {
+    "city": "Mahanoro",
+    "city_ascii": "Mahanoro",
+    "admin_name": "Toamasina",
+    "lat": "-19.8990",
+    "lng": "48.8113",
+    "id": "1450211146"
+  },
+  {
+    "city": "Ambatofinandrahana",
+    "city_ascii": "Ambatofinandrahana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.5509",
+    "lng": "46.8030",
+    "id": "1450850777"
+  },
+  {
+    "city": "Andilamena",
+    "city_ascii": "Andilamena",
+    "admin_name": "Toamasina",
+    "lat": "-17.0131",
+    "lng": "48.5720",
+    "id": "1450560153"
+  },
+  {
+    "city": "Mandoto",
+    "city_ascii": "Mandoto",
+    "admin_name": "Antananarivo",
+    "lat": "-19.5746",
+    "lng": "46.2888",
+    "id": "1450317527"
+  },
+  {
+    "city": "Manazary",
+    "city_ascii": "Manazary",
+    "admin_name": "Antananarivo",
+    "lat": "-19.0482",
+    "lng": "46.8684",
+    "id": "1450957138"
+  },
+  {
+    "city": "Anosiala",
+    "city_ascii": "Anosiala",
+    "admin_name": "Antananarivo",
+    "lat": "-18.7833",
+    "lng": "47.4167",
+    "id": "1450613112"
+  },
+  {
+    "city": "Ikongo",
+    "city_ascii": "Ikongo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.8789",
+    "lng": "47.4350",
+    "id": "1450895695"
+  },
+  {
+    "city": "Vohipeno",
+    "city_ascii": "Vohipeno",
+    "admin_name": "Toamasina",
+    "lat": "-17.1648",
+    "lng": "49.2943",
+    "id": "1450859907"
+  },
+  {
+    "city": "Ampasina-Maningory",
+    "city_ascii": "Ampasina-Maningory",
+    "admin_name": "Toamasina",
+    "lat": "-17.2166",
+    "lng": "49.4064",
+    "id": "1450030003"
+  },
+  {
+    "city": "Ambohibary",
+    "city_ascii": "Ambohibary",
+    "admin_name": "Toamasina",
+    "lat": "-18.9075",
+    "lng": "48.2295",
+    "id": "1450987733"
+  },
+  {
+    "city": "Vavatenina",
+    "city_ascii": "Vavatenina",
+    "admin_name": "Toamasina",
+    "lat": "-17.4668",
+    "lng": "49.1963",
+    "id": "1450949458"
+  },
+  {
+    "city": "Mahabo",
+    "city_ascii": "Mahabo",
+    "admin_name": "Toliara",
+    "lat": "-20.3807",
+    "lng": "44.6654",
+    "id": "1450310874"
+  },
+  {
+    "city": "Mahasolo",
+    "city_ascii": "Mahasolo",
+    "admin_name": "Antananarivo",
+    "lat": "-19.1205",
+    "lng": "46.3644",
+    "id": "1450644716"
+  },
+  {
+    "city": "Mananara Avaratra",
+    "city_ascii": "Mananara Avaratra",
+    "admin_name": "Toamasina",
+    "lat": "-16.1684",
+    "lng": "49.7654",
+    "id": "1450802138"
+  },
+  {
+    "city": "Ikalamavony",
+    "city_ascii": "Ikalamavony",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.1617",
+    "lng": "46.5952",
+    "id": "1450926732"
+  },
+  {
+    "city": "Firavahana",
+    "city_ascii": "Firavahana",
+    "admin_name": "Antananarivo",
+    "lat": "-18.6460",
+    "lng": "46.8599",
+    "id": "1450613090"
+  },
+  {
+    "city": "Fotadrevo",
+    "city_ascii": "Fotadrevo",
+    "admin_name": "Toliara",
+    "lat": "-24.0571",
+    "lng": "45.0191",
+    "id": "1450481485"
+  },
+  {
+    "city": "Farafangana",
+    "city_ascii": "Farafangana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.8166",
+    "lng": "47.8332",
+    "id": "1450306255"
+  },
+  {
+    "city": "Andapa",
+    "city_ascii": "Andapa",
+    "admin_name": "Antsiranana",
+    "lat": "-14.6622",
+    "lng": "49.6528",
+    "id": "1450290201"
+  },
+  {
+    "city": "Betafo",
+    "city_ascii": "Betafo",
+    "admin_name": "Antananarivo",
+    "lat": "-19.8383",
+    "lng": "46.8558",
+    "id": "1450624332"
+  },
+  {
+    "city": "Ankazomiriotra",
+    "city_ascii": "Ankazomiriotra",
+    "admin_name": "Antananarivo",
+    "lat": "-19.6604",
+    "lng": "46.5348",
+    "id": "1450000270"
+  },
+  {
+    "city": "Maromandia",
+    "city_ascii": "Maromandia",
+    "admin_name": "Mahajanga",
+    "lat": "-14.2040",
+    "lng": "48.0828",
+    "id": "1450666158"
+  },
+  {
+    "city": "Mahasoabe",
+    "city_ascii": "Mahasoabe",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.5895",
+    "lng": "47.2204",
+    "id": "1450903895"
+  },
+  {
+    "city": "Amparafaravola",
+    "city_ascii": "Amparafaravola",
+    "admin_name": "Toamasina",
+    "lat": "-17.5858",
+    "lng": "48.2229",
+    "id": "1450596201"
+  },
+  {
+    "city": "Didy",
+    "city_ascii": "Didy",
+    "admin_name": "Toamasina",
+    "lat": "-18.1200",
+    "lng": "48.5515",
+    "id": "1450048536"
+  },
+  {
+    "city": "Ambodimanga II",
+    "city_ascii": "Ambodimanga II",
+    "admin_name": "Toamasina",
+    "lat": "-17.2667",
+    "lng": "49.1667",
+    "id": "1450874988"
+  },
+  {
+    "city": "Vohitromby",
+    "city_ascii": "Vohitromby",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.3085",
+    "lng": "47.5316",
+    "id": "1450355473"
+  },
+  {
+    "city": "Kiranomena",
+    "city_ascii": "Kiranomena",
+    "admin_name": "Antananarivo",
+    "lat": "-18.2955",
+    "lng": "46.0521",
+    "id": "1450873803"
+  },
+  {
+    "city": "Antsohimbondrona",
+    "city_ascii": "Antsohimbondrona",
+    "admin_name": "Antsiranana",
+    "lat": "-13.0910",
+    "lng": "48.8442",
+    "id": "1450655799"
+  },
+  {
+    "city": "Andriba",
+    "city_ascii": "Andriba",
+    "admin_name": "Mahajanga",
+    "lat": "-17.5977",
+    "lng": "46.9308",
+    "id": "1450511055"
+  },
+  {
+    "city": "Bekoratsaka",
+    "city_ascii": "Bekoratsaka",
+    "admin_name": "Mahajanga",
+    "lat": "-16.1083",
+    "lng": "47.4914",
+    "id": "1450752674"
+  },
+  {
+    "city": "Vohilava",
+    "city_ascii": "Vohilava",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.0776",
+    "lng": "48.0092",
+    "id": "1450947026"
+  },
+  {
+    "city": "Itampolo",
+    "city_ascii": "Itampolo",
+    "admin_name": "Toliara",
+    "lat": "-24.6829",
+    "lng": "43.9512",
+    "id": "1450567522"
+  },
+  {
+    "city": "Ambano",
+    "city_ascii": "Ambano",
+    "admin_name": "Antananarivo",
+    "lat": "-19.7968",
+    "lng": "47.0490",
+    "id": "1450997295"
+  },
+  {
+    "city": "Sakaraha",
+    "city_ascii": "Sakaraha",
+    "admin_name": "Toliara",
+    "lat": "-22.9075",
+    "lng": "44.5303",
+    "id": "1450732335"
+  },
+  {
+    "city": "Ambatomiady",
+    "city_ascii": "Ambatomiady",
+    "admin_name": "Antananarivo",
+    "lat": "-19.6939",
+    "lng": "47.4143",
+    "id": "1450424927"
+  },
+  {
+    "city": "Manaratsandry",
+    "city_ascii": "Manaratsandry",
+    "admin_name": "Mahajanga",
+    "lat": "-16.1880",
+    "lng": "46.5078",
+    "id": "1450445247"
+  },
+  {
+    "city": "Vohitrandriana",
+    "city_ascii": "Vohitrandriana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.7601",
+    "lng": "48.2652",
+    "id": "1450279828"
+  },
+  {
+    "city": "Andranovory",
+    "city_ascii": "Andranovory",
+    "admin_name": "Toliara",
+    "lat": "-23.1431",
+    "lng": "44.1520",
+    "id": "1450787147"
+  },
+  {
+    "city": "Andranomanelatra",
+    "city_ascii": "Andranomanelatra",
+    "admin_name": "Antananarivo",
+    "lat": "-19.7859",
+    "lng": "47.1043",
+    "id": "1450464375"
+  },
+  {
+    "city": "Tsitondroina",
+    "city_ascii": "Tsitondroina",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.3134",
+    "lng": "45.9940",
+    "id": "1450441433"
+  },
+  {
+    "city": "Ambinanitelo",
+    "city_ascii": "Ambinanitelo",
+    "admin_name": "Toamasina",
+    "lat": "-15.3495",
+    "lng": "49.5805",
+    "id": "1450149490"
+  },
+  {
+    "city": "Ambalavao",
+    "city_ascii": "Ambalavao",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.8295",
+    "lng": "46.9402",
+    "id": "1450812103"
+  },
+  {
+    "city": "Antsampandrano",
+    "city_ascii": "Antsampandrano",
+    "admin_name": "Antananarivo",
+    "lat": "-19.9200",
+    "lng": "47.5705",
+    "id": "1450559854"
+  },
+  {
+    "city": "Mananasy-Tsitakondaza",
+    "city_ascii": "Mananasy-Tsitakondaza",
+    "admin_name": "Antananarivo",
+    "lat": "-19.1481",
+    "lng": "46.6495",
+    "id": "1450104138"
+  },
+  {
+    "city": "Antsahalava",
+    "city_ascii": "Antsahalava",
+    "admin_name": "Antananarivo",
+    "lat": "-19.5835",
+    "lng": "47.4685",
+    "id": "1450903969"
+  },
+  {
+    "city": "Fandriana",
+    "city_ascii": "Fandriana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.2296",
+    "lng": "47.3745",
+    "id": "1450916986"
+  },
+  {
+    "city": "Andoharanomaitso",
+    "city_ascii": "Andoharanomaitso",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.4738",
+    "lng": "46.9628",
+    "id": "1450341443"
+  },
+  {
+    "city": "Fenoarivobe",
+    "city_ascii": "Fenoarivobe",
+    "admin_name": "Antananarivo",
+    "lat": "-18.4517",
+    "lng": "46.5640",
+    "id": "1450638055"
+  },
+  {
+    "city": "Mampikony",
+    "city_ascii": "Mampikony",
+    "admin_name": "Mahajanga",
+    "lat": "-16.0925",
+    "lng": "47.6460",
+    "id": "1450443116"
+  },
+  {
+    "city": "Ambatolampy",
+    "city_ascii": "Ambatolampy",
+    "admin_name": "Antananarivo",
+    "lat": "-19.3796",
+    "lng": "47.4335",
+    "id": "1450037305"
+  },
+  {
+    "city": "Arivonimamo",
+    "city_ascii": "Arivonimamo",
+    "admin_name": "Antananarivo",
+    "lat": "-19.0060",
+    "lng": "47.1802",
+    "id": "1450000014"
+  },
+  {
+    "city": "Tsinjoarivo",
+    "city_ascii": "Tsinjoarivo",
+    "admin_name": "Antananarivo",
+    "lat": "-19.6323",
+    "lng": "47.6828",
+    "id": "1450592265"
+  },
+  {
+    "city": "Sahavato",
+    "city_ascii": "Sahavato",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.5968",
+    "lng": "48.3245",
+    "id": "1450860730"
+  },
+  {
+    "city": "Imito",
+    "city_ascii": "Imito",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.4170",
+    "lng": "47.3181",
+    "id": "1450451117"
+  },
+  {
+    "city": "Sandrandahy",
+    "city_ascii": "Sandrandahy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.3432",
+    "lng": "47.2976",
+    "id": "1450900156"
+  },
+  {
+    "city": "Ambohijanahary",
+    "city_ascii": "Ambohijanahary",
+    "admin_name": "Toamasina",
+    "lat": "-17.4041",
+    "lng": "48.3821",
+    "id": "1450399017"
+  },
+  {
+    "city": "Tsinjoarivo",
+    "city_ascii": "Tsinjoarivo",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9337",
+    "lng": "46.3102",
+    "id": "1450298456"
+  },
+  {
+    "city": "Ambohitompoina",
+    "city_ascii": "Ambohitompoina",
+    "admin_name": "Antananarivo",
+    "lat": "-19.7569",
+    "lng": "47.5722",
+    "id": "1450129746"
+  },
+  {
+    "city": "Ampasimanolotra",
+    "city_ascii": "Ampasimanolotra",
+    "admin_name": "Toamasina",
+    "lat": "-18.8178",
+    "lng": "49.0726",
+    "id": "1450133972"
+  },
+  {
+    "city": "Ambodibonara",
+    "city_ascii": "Ambodibonara",
+    "admin_name": "Toamasina",
+    "lat": "-20.3137",
+    "lng": "48.5208",
+    "id": "1450738968"
+  },
+  {
+    "city": "Marolambo",
+    "city_ascii": "Marolambo",
+    "admin_name": "Toamasina",
+    "lat": "-20.0506",
+    "lng": "48.1335",
+    "id": "1450683142"
+  },
+  {
+    "city": "Behara",
+    "city_ascii": "Behara",
+    "admin_name": "Toliara",
+    "lat": "-24.9560",
+    "lng": "46.3897",
+    "id": "1450740958"
+  },
+  {
+    "city": "Ambohijanaka",
+    "city_ascii": "Ambohijanaka",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9981",
+    "lng": "47.5617",
+    "id": "1450475347"
+  },
+  {
+    "city": "Vohipaho",
+    "city_ascii": "Vohipaho",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.5521",
+    "lng": "47.5093",
+    "id": "1450398664"
+  },
+  {
+    "city": "Tsaravary",
+    "city_ascii": "Tsaravary",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.2455",
+    "lng": "48.2982",
+    "id": "1450274736"
+  },
+  {
+    "city": "Miandrarivo",
+    "city_ascii": "Miandrarivo",
+    "admin_name": "Antananarivo",
+    "lat": "-19.4392",
+    "lng": "46.7538",
+    "id": "1450672454"
+  },
+  {
+    "city": "Mandabe",
+    "city_ascii": "Mandabe",
+    "admin_name": "Toliara",
+    "lat": "-21.0489",
+    "lng": "44.9392",
+    "id": "1450718280"
+  },
+  {
+    "city": "Andranomavo",
+    "city_ascii": "Andranomavo",
+    "admin_name": "Mahajanga",
+    "lat": "-16.5757",
+    "lng": "45.5647",
+    "id": "1450968548"
+  },
+  {
+    "city": "Antsiatsiaka",
+    "city_ascii": "Antsiatsiaka",
+    "admin_name": "Toamasina",
+    "lat": "-17.0458",
+    "lng": "49.3727",
+    "id": "1450414497"
+  },
+  {
+    "city": "Alakamisy Itenina",
+    "city_ascii": "Alakamisy Itenina",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.6425",
+    "lng": "47.1598",
+    "id": "1450665249"
+  },
+  {
+    "city": "Ambinanisakana",
+    "city_ascii": "Ambinanisakana",
+    "admin_name": "Toamasina",
+    "lat": "-16.9884",
+    "lng": "49.4786",
+    "id": "1450453303"
+  },
+  {
+    "city": "Soanierana Ivongo",
+    "city_ascii": "Soanierana Ivongo",
+    "admin_name": "Toamasina",
+    "lat": "-16.9216",
+    "lng": "49.5857",
+    "id": "1450631531"
+  },
+  {
+    "city": "Ambodiangezoka",
+    "city_ascii": "Ambodiangezoka",
+    "admin_name": "Antsiranana",
+    "lat": "-14.5969",
+    "lng": "49.5103",
+    "id": "1450741103"
+  },
+  {
+    "city": "Beramanja",
+    "city_ascii": "Beramanja",
+    "admin_name": "Antsiranana",
+    "lat": "-13.3430",
+    "lng": "48.8767",
+    "id": "1450322357"
+  },
+  {
+    "city": "Anosipatrana",
+    "city_ascii": "Anosipatrana",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9258",
+    "lng": "47.4999",
+    "id": "1450506869"
+  },
+  {
+    "city": "Mahitsy",
+    "city_ascii": "Mahitsy",
+    "admin_name": "Antananarivo",
+    "lat": "-18.7464",
+    "lng": "47.3439",
+    "id": "1450344593"
+  },
+  {
+    "city": "Ambatomborona",
+    "city_ascii": "Ambatomborona",
+    "admin_name": "Antananarivo",
+    "lat": "-19.3011",
+    "lng": "47.1573",
+    "id": "1450670028"
+  },
+  {
+    "city": "Malaimbandy",
+    "city_ascii": "Malaimbandy",
+    "admin_name": "Toliara",
+    "lat": "-20.3463",
+    "lng": "45.5964",
+    "id": "1450415415"
+  },
+  {
+    "city": "Mahambo",
+    "city_ascii": "Mahambo",
+    "admin_name": "Toamasina",
+    "lat": "-17.4914",
+    "lng": "49.4498",
+    "id": "1450449223"
+  },
+  {
+    "city": "Ambatofotsy",
+    "city_ascii": "Ambatofotsy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.7620",
+    "lng": "47.4894",
+    "id": "1450519366"
+  },
+  {
+    "city": "Tsarazaza",
+    "city_ascii": "Tsarazaza",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.1333",
+    "lng": "47.2333",
+    "id": "1450665251"
+  },
+  {
+    "city": "Maevatanana",
+    "city_ascii": "Maevatanana",
+    "admin_name": "Mahajanga",
+    "lat": "-16.9470",
+    "lng": "46.8292",
+    "id": "1450402111"
+  },
+  {
+    "city": "Andasibe",
+    "city_ascii": "Andasibe",
+    "admin_name": "Toamasina",
+    "lat": "-17.3589",
+    "lng": "49.0781",
+    "id": "1450830509"
+  },
+  {
+    "city": "Maintirano",
+    "city_ascii": "Maintirano",
+    "admin_name": "Mahajanga",
+    "lat": "-18.0666",
+    "lng": "44.0167",
+    "id": "1450625023"
+  },
+  {
+    "city": "Fenoarivo",
+    "city_ascii": "Fenoarivo",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9344",
+    "lng": "47.4346",
+    "id": "1450445815"
+  },
+  {
+    "city": "Mananjary",
+    "city_ascii": "Mananjary",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.2167",
+    "lng": "48.3333",
+    "id": "1450681595"
+  },
+  {
+    "city": "Ampahana",
+    "city_ascii": "Ampahana",
+    "admin_name": "Antsiranana",
+    "lat": "-14.7617",
+    "lng": "50.2208",
+    "id": "1450937375"
+  },
+  {
+    "city": "Fidirana",
+    "city_ascii": "Fidirana",
+    "admin_name": "Antananarivo",
+    "lat": "-19.5095",
+    "lng": "46.5655",
+    "id": "1450335762"
+  },
+  {
+    "city": "Mahatalaky",
+    "city_ascii": "Mahatalaky",
+    "admin_name": "Toliara",
+    "lat": "-24.7908",
+    "lng": "47.0787",
+    "id": "1450981094"
+  },
+  {
+    "city": "Ankazomborona",
+    "city_ascii": "Ankazomborona",
+    "admin_name": "Mahajanga",
+    "lat": "-16.1163",
+    "lng": "46.7539",
+    "id": "1450164210"
+  },
+  {
+    "city": "Antsirabe Avaratra",
+    "city_ascii": "Antsirabe Avaratra",
+    "admin_name": "Antsiranana",
+    "lat": "-13.9746",
+    "lng": "49.9724",
+    "id": "1450349546"
+  },
+  {
+    "city": "Tsaratanana",
+    "city_ascii": "Tsaratanana",
+    "admin_name": "Mahajanga",
+    "lat": "-16.7978",
+    "lng": "47.6509",
+    "id": "1450412492"
+  },
+  {
+    "city": "Sahasoa",
+    "city_ascii": "Sahasoa",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.9480",
+    "lng": "45.9891",
+    "id": "1450687379"
+  },
+  {
+    "city": "Anivorano Avaratra",
+    "city_ascii": "Anivorano Avaratra",
+    "admin_name": "Antsiranana",
+    "lat": "-12.7410",
+    "lng": "49.2332",
+    "id": "1450739750"
+  },
+  {
+    "city": "Ambohimasina",
+    "city_ascii": "Ambohimasina",
+    "admin_name": "Antananarivo",
+    "lat": "-19.6506",
+    "lng": "46.7341",
+    "id": "1450467942"
+  },
+  {
+    "city": "Mahaiza",
+    "city_ascii": "Mahaiza",
+    "admin_name": "Antananarivo",
+    "lat": "-19.9016",
+    "lng": "46.8060",
+    "id": "1450126479"
+  },
+  {
+    "city": "Ambalamanasy II",
+    "city_ascii": "Ambalamanasy II",
+    "admin_name": "Antsiranana",
+    "lat": "-14.5255",
+    "lng": "49.5885",
+    "id": "1450605901"
+  },
+  {
+    "city": "Anjozorobe",
+    "city_ascii": "Anjozorobe",
+    "admin_name": "Antananarivo",
+    "lat": "-18.3952",
+    "lng": "47.8834",
+    "id": "1450597043"
+  },
+  {
+    "city": "Soamanandrariny",
+    "city_ascii": "Soamanandrariny",
+    "admin_name": "Antananarivo",
+    "lat": "-19.6510",
+    "lng": "47.2792",
+    "id": "1450764328"
+  },
+  {
+    "city": "Ambatotsipihina",
+    "city_ascii": "Ambatotsipihina",
+    "admin_name": "Antananarivo",
+    "lat": "-19.6514",
+    "lng": "47.7505",
+    "id": "1450556369"
+  },
+  {
+    "city": "Ambohimandroso",
+    "city_ascii": "Ambohimandroso",
+    "admin_name": "Antananarivo",
+    "lat": "-19.5239",
+    "lng": "47.4320",
+    "id": "1450713375"
+  },
+  {
+    "city": "Lopary",
+    "city_ascii": "Lopary",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.1973",
+    "lng": "47.6714",
+    "id": "1450854735"
+  },
+  {
+    "city": "Antanimieva",
+    "city_ascii": "Antanimieva",
+    "admin_name": "Toliara",
+    "lat": "-22.2457",
+    "lng": "43.7711",
+    "id": "1450718789"
+  },
+  {
+    "city": "Miarinarivo",
+    "city_ascii": "Miarinarivo",
+    "admin_name": "Toamasina",
+    "lat": "-17.6447",
+    "lng": "49.1723",
+    "id": "1450268766"
+  },
+  {
+    "city": "Tsiatosika",
+    "city_ascii": "Tsiatosika",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.2021",
+    "lng": "48.2257",
+    "id": "1450500490"
+  },
+  {
+    "city": "Antonibe",
+    "city_ascii": "Antonibe",
+    "admin_name": "Mahajanga",
+    "lat": "-15.1195",
+    "lng": "47.3928",
+    "id": "1450316334"
+  },
+  {
+    "city": "Ambohimahamasina",
+    "city_ascii": "Ambohimahamasina",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.9339",
+    "lng": "47.1858",
+    "id": "1450478240"
+  },
+  {
+    "city": "Miantso",
+    "city_ascii": "Miantso",
+    "admin_name": "Antananarivo",
+    "lat": "-18.7169",
+    "lng": "47.1323",
+    "id": "1450952879"
+  },
+  {
+    "city": "Antanimasaka",
+    "city_ascii": "Antanimasaka",
+    "admin_name": "Mahajanga",
+    "lat": "-16.2355",
+    "lng": "46.5121",
+    "id": "1450865141"
+  },
+  {
+    "city": "Ambohimiadana",
+    "city_ascii": "Ambohimiadana",
+    "admin_name": "Antananarivo",
+    "lat": "-19.2438",
+    "lng": "47.7758",
+    "id": "1450165876"
+  },
+  {
+    "city": "Tsaratanana",
+    "city_ascii": "Tsaratanana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.1788",
+    "lng": "47.6384",
+    "id": "1450726969"
+  },
+  {
+    "city": "Mangidy",
+    "city_ascii": "Mangidy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.2569",
+    "lng": "46.7952",
+    "id": "1450650738"
+  },
+  {
+    "city": "Ambohitrarivo",
+    "city_ascii": "Ambohitrarivo",
+    "admin_name": "Toamasina",
+    "lat": "-17.4772",
+    "lng": "48.3541",
+    "id": "1450446247"
+  },
+  {
+    "city": "Mahela",
+    "city_ascii": "Mahela",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.9687",
+    "lng": "48.4412",
+    "id": "1450069784"
+  },
+  {
+    "city": "Marovato",
+    "city_ascii": "Marovato",
+    "admin_name": "Mahajanga",
+    "lat": "-15.7830",
+    "lng": "48.0861",
+    "id": "1450492624"
+  },
+  {
+    "city": "Farahalana",
+    "city_ascii": "Farahalana",
+    "admin_name": "Antsiranana",
+    "lat": "-14.4272",
+    "lng": "50.1521",
+    "id": "1450865823"
+  },
+  {
+    "city": "Analamisampy",
+    "city_ascii": "Analamisampy",
+    "admin_name": "Toliara",
+    "lat": "-22.4767",
+    "lng": "43.6617",
+    "id": "1450834889"
+  },
+  {
+    "city": "Ambohitoaka",
+    "city_ascii": "Ambohitoaka",
+    "admin_name": "Mahajanga",
+    "lat": "-16.0053",
+    "lng": "47.6498",
+    "id": "1450398424"
+  },
+  {
+    "city": "Miantsoarivo",
+    "city_ascii": "Miantsoarivo",
+    "admin_name": "Antananarivo",
+    "lat": "-19.1964",
+    "lng": "47.4109",
+    "id": "1450237098"
+  },
+  {
+    "city": "Ankaramy",
+    "city_ascii": "Ankaramy",
+    "admin_name": "Mahajanga",
+    "lat": "-13.9809",
+    "lng": "48.1804",
+    "id": "1450209200"
+  },
+  {
+    "city": "Ankilizato",
+    "city_ascii": "Ankilizato",
+    "admin_name": "Toliara",
+    "lat": "-20.4088",
+    "lng": "45.0463",
+    "id": "1450796220"
+  },
+  {
+    "city": "Andalatanosy",
+    "city_ascii": "Andalatanosy",
+    "admin_name": "Toliara",
+    "lat": "-24.6713",
+    "lng": "45.5976",
+    "id": "1450638418"
+  },
+  {
+    "city": "Ivato",
+    "city_ascii": "Ivato",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.6332",
+    "lng": "47.1981",
+    "id": "1450605437"
+  },
+  {
+    "city": "Andoany",
+    "city_ascii": "Andoany",
+    "admin_name": "Antsiranana",
+    "lat": "-13.4000",
+    "lng": "48.2666",
+    "id": "1450689047"
+  },
+  {
+    "city": "Morombe",
+    "city_ascii": "Morombe",
+    "admin_name": "Toliara",
+    "lat": "-21.7391",
+    "lng": "43.3657",
+    "id": "1450018559"
+  },
+  {
+    "city": "Boriziny",
+    "city_ascii": "Boriziny",
+    "admin_name": "Mahajanga",
+    "lat": "-15.5602",
+    "lng": "47.6691",
+    "id": "1450881800"
+  },
+  {
+    "city": "Betsizaraina",
+    "city_ascii": "Betsizaraina",
+    "admin_name": "Toamasina",
+    "lat": "-19.9591",
+    "lng": "48.7554",
+    "id": "1450919460"
+  },
+  {
+    "city": "Ampasimanjeva",
+    "city_ascii": "Ampasimanjeva",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.7368",
+    "lng": "48.0384",
+    "id": "1450896480"
+  },
+  {
+    "city": "Manakambahiny",
+    "city_ascii": "Manakambahiny",
+    "admin_name": "Toamasina",
+    "lat": "-17.8593",
+    "lng": "48.2947",
+    "id": "1450199709"
+  },
+  {
+    "city": "Ambodimotso Atsimo",
+    "city_ascii": "Ambodimotso Atsimo",
+    "admin_name": "Mahajanga",
+    "lat": "-15.3803",
+    "lng": "48.5889",
+    "id": "1450354042"
+  },
+  {
+    "city": "Iarintsena",
+    "city_ascii": "Iarintsena",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.8279",
+    "lng": "46.8813",
+    "id": "1450516080"
+  },
+  {
+    "city": "Andranovorivato",
+    "city_ascii": "Andranovorivato",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.6293",
+    "lng": "46.9897",
+    "id": "1450284938"
+  },
+  {
+    "city": "Bemanonga",
+    "city_ascii": "Bemanonga",
+    "admin_name": "Toliara",
+    "lat": "-20.2920",
+    "lng": "44.3513",
+    "id": "1450905761"
+  },
+  {
+    "city": "Vohimasina",
+    "city_ascii": "Vohimasina",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.7766",
+    "lng": "48.1187",
+    "id": "1450287658"
+  },
+  {
+    "city": "Andilanatoby",
+    "city_ascii": "Andilanatoby",
+    "admin_name": "Toamasina",
+    "lat": "-17.9335",
+    "lng": "48.2366",
+    "id": "1450217709"
+  },
+  {
+    "city": "Alakamisy-Ambohimaha",
+    "city_ascii": "Alakamisy-Ambohimaha",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.3211",
+    "lng": "47.2240",
+    "id": "1450325718"
+  },
+  {
+    "city": "Ambalaroka",
+    "city_ascii": "Ambalaroka",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.1522",
+    "lng": "47.7293",
+    "id": "1450936637"
+  },
+  {
+    "city": "Jafaro",
+    "city_ascii": "Jafaro",
+    "admin_name": "Toliara",
+    "lat": "-24.9253",
+    "lng": "45.5191",
+    "id": "1450577279"
+  },
+  {
+    "city": "Ankiabe-Salohy",
+    "city_ascii": "Ankiabe-Salohy",
+    "admin_name": "Mahajanga",
+    "lat": "-15.6050",
+    "lng": "48.7201",
+    "id": "1450727399"
+  },
+  {
+    "city": "Antsakabary",
+    "city_ascii": "Antsakabary",
+    "admin_name": "Mahajanga",
+    "lat": "-15.0429",
+    "lng": "48.9283",
+    "id": "1450047713"
+  },
+  {
+    "city": "Ampanotokana",
+    "city_ascii": "Ampanotokana",
+    "admin_name": "Antananarivo",
+    "lat": "-18.7193",
+    "lng": "47.3079",
+    "id": "1450337048"
+  },
+  {
+    "city": "Ambatomanoina",
+    "city_ascii": "Ambatomanoina",
+    "admin_name": "Antananarivo",
+    "lat": "-18.3110",
+    "lng": "47.6253",
+    "id": "1450369214"
+  },
+  {
+    "city": "Lakato",
+    "city_ascii": "Lakato",
+    "admin_name": "Toamasina",
+    "lat": "-19.1775",
+    "lng": "48.4408",
+    "id": "1450863135"
+  },
+  {
+    "city": "Ambohitromby",
+    "city_ascii": "Ambohitromby",
+    "admin_name": "Antananarivo",
+    "lat": "-19.0439",
+    "lng": "46.4287",
+    "id": "1450386250"
+  },
+  {
+    "city": "Ambinanindrano",
+    "city_ascii": "Ambinanindrano",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.6791",
+    "lng": "47.5671",
+    "id": "1450392046"
+  },
+  {
+    "city": "Fierenana",
+    "city_ascii": "Fierenana",
+    "admin_name": "Antananarivo",
+    "lat": "-18.5428",
+    "lng": "45.8463",
+    "id": "1450253158"
+  },
+  {
+    "city": "Morafeno",
+    "city_ascii": "Morafeno",
+    "admin_name": "Mahajanga",
+    "lat": "-15.4902",
+    "lng": "48.2067",
+    "id": "1450032930"
+  },
+  {
+    "city": "Sitampiky",
+    "city_ascii": "Sitampiky",
+    "admin_name": "Mahajanga",
+    "lat": "-16.6758",
+    "lng": "46.1094",
+    "id": "1450688807"
+  },
+  {
+    "city": "Ambalavato",
+    "city_ascii": "Ambalavato",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.9693",
+    "lng": "47.4773",
+    "id": "1450281811"
+  },
+  {
+    "city": "Tongobory",
+    "city_ascii": "Tongobory",
+    "admin_name": "Toliara",
+    "lat": "-23.5317",
+    "lng": "44.3231",
+    "id": "1450220493"
+  },
+  {
+    "city": "Tsarasaotra",
+    "city_ascii": "Tsarasaotra",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.4394",
+    "lng": "47.2187",
+    "id": "1450387787"
+  },
+  {
+    "city": "Ambohipandrano",
+    "city_ascii": "Ambohipandrano",
+    "admin_name": "Antananarivo",
+    "lat": "-19.1451",
+    "lng": "47.3471",
+    "id": "1450475583"
+  },
+  {
+    "city": "Andolofotsy",
+    "city_ascii": "Andolofotsy",
+    "admin_name": "Antananarivo",
+    "lat": "-18.7493",
+    "lng": "46.6373",
+    "id": "1450054125"
+  },
+  {
+    "city": "Soanindrariny",
+    "city_ascii": "Soanindrariny",
+    "admin_name": "Antananarivo",
+    "lat": "-19.9069",
+    "lng": "47.2352",
+    "id": "1450013819"
+  },
+  {
+    "city": "Ankililoaka",
+    "city_ascii": "Ankililoaka",
+    "admin_name": "Toliara",
+    "lat": "-22.7674",
+    "lng": "43.6159",
+    "id": "1450496497"
+  },
+  {
+    "city": "Tsiamalao",
+    "city_ascii": "Tsiamalao",
+    "admin_name": "Mahajanga",
+    "lat": "-15.0346",
+    "lng": "48.4477",
+    "id": "1450394904"
+  },
+  {
+    "city": "Fiadanana",
+    "city_ascii": "Fiadanana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.4377",
+    "lng": "48.3807",
+    "id": "1450442831"
+  },
+  {
+    "city": "Antanambao",
+    "city_ascii": "Antanambao",
+    "admin_name": "Antananarivo",
+    "lat": "-19.6773",
+    "lng": "47.3391",
+    "id": "1450771777"
+  },
+  {
+    "city": "Sahamadio",
+    "city_ascii": "Sahamadio",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.5208",
+    "lng": "47.5766",
+    "id": "1450499923"
+  },
+  {
+    "city": "Miorimivalana",
+    "city_ascii": "Miorimivalana",
+    "admin_name": "Toamasina",
+    "lat": "-17.2219",
+    "lng": "49.2050",
+    "id": "1450765179"
+  },
+  {
+    "city": "Ambohimanambola",
+    "city_ascii": "Ambohimanambola",
+    "admin_name": "Antananarivo",
+    "lat": "-19.8049",
+    "lng": "46.6112",
+    "id": "1450223551"
+  },
+  {
+    "city": "Ampasimatera",
+    "city_ascii": "Ampasimatera",
+    "admin_name": "Mahajanga",
+    "lat": "-15.9339",
+    "lng": "47.7362",
+    "id": "1450446865"
+  },
+  {
+    "city": "Karianga",
+    "city_ascii": "Karianga",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.4291",
+    "lng": "47.3720",
+    "id": "1450185068"
+  },
+  {
+    "city": "Matanga",
+    "city_ascii": "Matanga",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.5238",
+    "lng": "47.5525",
+    "id": "1450994250"
+  },
+  {
+    "city": "Ankaraobato",
+    "city_ascii": "Ankaraobato",
+    "admin_name": "Antananarivo",
+    "lat": "-19.0000",
+    "lng": "47.5333",
+    "id": "1450653846"
+  },
+  {
+    "city": "Ambohimanga",
+    "city_ascii": "Ambohimanga",
+    "admin_name": "Antananarivo",
+    "lat": "-18.7333",
+    "lng": "47.5667",
+    "id": "1450695670"
+  },
+  {
+    "city": "Vinany",
+    "city_ascii": "Vinany",
+    "admin_name": "Antananarivo",
+    "lat": "-19.6139",
+    "lng": "46.4860",
+    "id": "1450526902"
+  },
+  {
+    "city": "Ambondro",
+    "city_ascii": "Ambondro",
+    "admin_name": "Toliara",
+    "lat": "-25.2500",
+    "lng": "45.8333",
+    "id": "1450087173"
+  },
+  {
+    "city": "Miandrivazo",
+    "city_ascii": "Miandrivazo",
+    "admin_name": "Toliara",
+    "lat": "-19.5239",
+    "lng": "45.4573",
+    "id": "1450332104"
+  },
+  {
+    "city": "Beforona",
+    "city_ascii": "Beforona",
+    "admin_name": "Toamasina",
+    "lat": "-18.9719",
+    "lng": "48.5759",
+    "id": "1450730932"
+  },
+  {
+    "city": "Alatsinainy-Bakaro",
+    "city_ascii": "Alatsinainy-Bakaro",
+    "admin_name": "Antananarivo",
+    "lat": "-19.3230",
+    "lng": "47.6813",
+    "id": "1450565382"
+  },
+  {
+    "city": "Mahaditra",
+    "city_ascii": "Mahaditra",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.7500",
+    "lng": "47.1000",
+    "id": "1450574593"
+  },
+  {
+    "city": "Ampasimena",
+    "city_ascii": "Ampasimena",
+    "admin_name": "Toliara",
+    "lat": "-24.3687",
+    "lng": "47.1630",
+    "id": "1450235896"
+  },
+  {
+    "city": "Mandrosohasina",
+    "city_ascii": "Mandrosohasina",
+    "admin_name": "Antananarivo",
+    "lat": "-19.5817",
+    "lng": "47.1709",
+    "id": "1450360215"
+  },
+  {
+    "city": "Ambalakirajy",
+    "city_ascii": "Ambalakirajy",
+    "admin_name": "Mahajanga",
+    "lat": "-15.7464",
+    "lng": "48.5184",
+    "id": "1450763595"
+  },
+  {
+    "city": "Rantabe",
+    "city_ascii": "Rantabe",
+    "admin_name": "Toamasina",
+    "lat": "-15.7023",
+    "lng": "49.6391",
+    "id": "1450394708"
+  },
+  {
+    "city": "Mandiavato",
+    "city_ascii": "Mandiavato",
+    "admin_name": "Antananarivo",
+    "lat": "-19.0925",
+    "lng": "47.0233",
+    "id": "1450557492"
+  },
+  {
+    "city": "Ambatosoratra",
+    "city_ascii": "Ambatosoratra",
+    "admin_name": "Toamasina",
+    "lat": "-17.6134",
+    "lng": "48.5140",
+    "id": "1450886984"
+  },
+  {
+    "city": "Antsampandrano",
+    "city_ascii": "Antsampandrano",
+    "admin_name": "Antananarivo",
+    "lat": "-19.5440",
+    "lng": "47.5921",
+    "id": "1450604562"
+  },
+  {
+    "city": "Tsararafa",
+    "city_ascii": "Tsararafa",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.7196",
+    "lng": "47.7996",
+    "id": "1450899440"
+  },
+  {
+    "city": "Analapatsy",
+    "city_ascii": "Analapatsy",
+    "admin_name": "Toliara",
+    "lat": "-24.2547",
+    "lng": "47.2061",
+    "id": "1450179269"
+  },
+  {
+    "city": "Tsarabaria",
+    "city_ascii": "Tsarabaria",
+    "admin_name": "Antsiranana",
+    "lat": "-13.7584",
+    "lng": "49.9466",
+    "id": "1450130867"
+  },
+  {
+    "city": "Soavina Antanety",
+    "city_ascii": "Soavina Antanety",
+    "admin_name": "Antananarivo",
+    "lat": "-19.7983",
+    "lng": "46.7362",
+    "id": "1450021851"
+  },
+  {
+    "city": "Bekatra Maromiandra",
+    "city_ascii": "Bekatra Maromiandra",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.0994",
+    "lng": "47.7187",
+    "id": "1450240946"
+  },
+  {
+    "city": "Vasiana",
+    "city_ascii": "Vasiana",
+    "admin_name": "Antananarivo",
+    "lat": "-19.6376",
+    "lng": "46.2352",
+    "id": "1450035563"
+  },
+  {
+    "city": "Ampefy",
+    "city_ascii": "Ampefy",
+    "admin_name": "Antananarivo",
+    "lat": "-19.0429",
+    "lng": "46.7344",
+    "id": "1450915627"
+  },
+  {
+    "city": "Doany",
+    "city_ascii": "Doany",
+    "admin_name": "Antsiranana",
+    "lat": "-14.3740",
+    "lng": "49.5196",
+    "id": "1450623389"
+  },
+  {
+    "city": "Nosy Varika",
+    "city_ascii": "Nosy Varika",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.5877",
+    "lng": "48.5354",
+    "id": "1450317495"
+  },
+  {
+    "city": "Andaingo Gara",
+    "city_ascii": "Andaingo Gara",
+    "admin_name": "Toamasina",
+    "lat": "-18.2177",
+    "lng": "48.2687",
+    "id": "1450562250"
+  },
+  {
+    "city": "Gogogogo",
+    "city_ascii": "Gogogogo",
+    "admin_name": "Toliara",
+    "lat": "-24.2659",
+    "lng": "44.8069",
+    "id": "1450629172"
+  },
+  {
+    "city": "Amboanana",
+    "city_ascii": "Amboanana",
+    "admin_name": "Antananarivo",
+    "lat": "-19.1336",
+    "lng": "47.1717",
+    "id": "1450418380"
+  },
+  {
+    "city": "Ambatomirahavavy",
+    "city_ascii": "Ambatomirahavavy",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9326",
+    "lng": "47.3818",
+    "id": "1450466321"
+  },
+  {
+    "city": "Ampanety",
+    "city_ascii": "Ampanety",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9667",
+    "lng": "47.4833",
+    "id": "1450696660"
+  },
+  {
+    "city": "Itaosy",
+    "city_ascii": "Itaosy",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9138",
+    "lng": "47.4712",
+    "id": "1450526917"
+  },
+  {
+    "city": "Befandriana Atsimo",
+    "city_ascii": "Befandriana Atsimo",
+    "admin_name": "Toliara",
+    "lat": "-22.1033",
+    "lng": "43.8927",
+    "id": "1450758154"
+  },
+  {
+    "city": "Ampataka",
+    "city_ascii": "Ampataka",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.3527",
+    "lng": "47.4650",
+    "id": "1450220197"
+  },
+  {
+    "city": "Anjahabe",
+    "city_ascii": "Anjahabe",
+    "admin_name": "Mahajanga",
+    "lat": "-16.3883",
+    "lng": "46.6318",
+    "id": "1450925843"
+  },
+  {
+    "city": "Ambalanirana",
+    "city_ascii": "Ambalanirana",
+    "admin_name": "Antananarivo",
+    "lat": "-18.7598",
+    "lng": "46.5139",
+    "id": "1450592549"
+  },
+  {
+    "city": "Ambatomena",
+    "city_ascii": "Ambatomena",
+    "admin_name": "Antananarivo",
+    "lat": "-19.8508",
+    "lng": "47.2534",
+    "id": "1450833007"
+  },
+  {
+    "city": "Mitsinjo",
+    "city_ascii": "Mitsinjo",
+    "admin_name": "Mahajanga",
+    "lat": "-16.0099",
+    "lng": "45.8703",
+    "id": "1450222035"
+  },
+  {
+    "city": "Belamoty",
+    "city_ascii": "Belamoty",
+    "admin_name": "Toliara",
+    "lat": "-23.5585",
+    "lng": "44.8091",
+    "id": "1450066289"
+  },
+  {
+    "city": "Vohimasy",
+    "city_ascii": "Vohimasy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.1067",
+    "lng": "47.7938",
+    "id": "1450885065"
+  },
+  {
+    "city": "Ifanirea",
+    "city_ascii": "Ifanirea",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.1924",
+    "lng": "47.4741",
+    "id": "1450435831"
+  },
+  {
+    "city": "Tanambe",
+    "city_ascii": "Tanambe",
+    "admin_name": "Toamasina",
+    "lat": "-17.3850",
+    "lng": "48.4523",
+    "id": "1450750659"
+  },
+  {
+    "city": "Ambodinonoka",
+    "city_ascii": "Ambodinonoka",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.9789",
+    "lng": "47.8864",
+    "id": "1450637374"
+  },
+  {
+    "city": "Miarinavaratra",
+    "city_ascii": "Miarinavaratra",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.2173",
+    "lng": "47.5020",
+    "id": "1450849602"
+  },
+  {
+    "city": "Ambatosia",
+    "city_ascii": "Ambatosia",
+    "admin_name": "Mahajanga",
+    "lat": "-14.6764",
+    "lng": "48.6592",
+    "id": "1450014138"
+  },
+  {
+    "city": "Mahazoarivo",
+    "city_ascii": "Mahazoarivo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.3254",
+    "lng": "47.5691",
+    "id": "1450077325"
+  },
+  {
+    "city": "Manantenina",
+    "city_ascii": "Manantenina",
+    "admin_name": "Toliara",
+    "lat": "-24.2815",
+    "lng": "47.3178",
+    "id": "1450085416"
+  },
+  {
+    "city": "Bezaha",
+    "city_ascii": "Bezaha",
+    "admin_name": "Toliara",
+    "lat": "-23.5007",
+    "lng": "44.5007",
+    "id": "1450987255"
+  },
+  {
+    "city": "Ranomena",
+    "city_ascii": "Ranomena",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.4259",
+    "lng": "47.2817",
+    "id": "1450229424"
+  },
+  {
+    "city": "Fihaonana",
+    "city_ascii": "Fihaonana",
+    "admin_name": "Antananarivo",
+    "lat": "-18.6061",
+    "lng": "47.2092",
+    "id": "1450022062"
+  },
+  {
+    "city": "Antotohazo",
+    "city_ascii": "Antotohazo",
+    "admin_name": "Antananarivo",
+    "lat": "-18.4600",
+    "lng": "47.0800",
+    "id": "1450165853"
+  },
+  {
+    "city": "Tsivory",
+    "city_ascii": "Tsivory",
+    "admin_name": "Toliara",
+    "lat": "-24.0727",
+    "lng": "46.0793",
+    "id": "1450216088"
+  },
+  {
+    "city": "Antombana",
+    "city_ascii": "Antombana",
+    "admin_name": "Antsiranana",
+    "lat": "-14.9927",
+    "lng": "50.1695",
+    "id": "1450620743"
+  },
+  {
+    "city": "Talata-Volonondry",
+    "city_ascii": "Talata-Volonondry",
+    "admin_name": "Antananarivo",
+    "lat": "-18.7501",
+    "lng": "47.6435",
+    "id": "1450123818"
+  },
+  {
+    "city": "Antanambao",
+    "city_ascii": "Antanambao",
+    "admin_name": "Antsiranana",
+    "lat": "-15.1669",
+    "lng": "50.3612",
+    "id": "1450199403"
+  },
+  {
+    "city": "Kiangara",
+    "city_ascii": "Kiangara",
+    "admin_name": "Antananarivo",
+    "lat": "-17.9717",
+    "lng": "47.0299",
+    "id": "1450262091"
+  },
+  {
+    "city": "Antsampanimahazo",
+    "city_ascii": "Antsampanimahazo",
+    "admin_name": "Antananarivo",
+    "lat": "-19.6836",
+    "lng": "47.1656",
+    "id": "1450189710"
+  },
+  {
+    "city": "Antanambe",
+    "city_ascii": "Antanambe",
+    "admin_name": "Toamasina",
+    "lat": "-16.4326",
+    "lng": "49.8482",
+    "id": "1450702701"
+  },
+  {
+    "city": "Manampatrana",
+    "city_ascii": "Manampatrana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.6500",
+    "lng": "47.5833",
+    "id": "1450823569"
+  },
+  {
+    "city": "Alakamisy",
+    "city_ascii": "Alakamisy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.2102",
+    "lng": "47.3080",
+    "id": "1450227437"
+  },
+  {
+    "city": "Maroteza",
+    "city_ascii": "Maroteza",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.2863",
+    "lng": "47.1904",
+    "id": "1450569140"
+  },
+  {
+    "city": "Bemahatazana-Belobaka",
+    "city_ascii": "Bemahatazana-Belobaka",
+    "admin_name": "Antananarivo",
+    "lat": "-19.3442",
+    "lng": "45.9972",
+    "id": "1450930842"
+  },
+  {
+    "city": "Vohilengo",
+    "city_ascii": "Vohilengo",
+    "admin_name": "Toamasina",
+    "lat": "-17.3000",
+    "lng": "49.4167",
+    "id": "1450602843"
+  },
+  {
+    "city": "Amboahangibe",
+    "city_ascii": "Amboahangibe",
+    "admin_name": "Antsiranana",
+    "lat": "-14.1441",
+    "lng": "49.8115",
+    "id": "1450703164"
+  },
+  {
+    "city": "Mahazoma",
+    "city_ascii": "Mahazoma",
+    "admin_name": "Mahajanga",
+    "lat": "-17.1689",
+    "lng": "46.5669",
+    "id": "1450338910"
+  },
+  {
+    "city": "Ambongo",
+    "city_ascii": "Ambongo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.4642",
+    "lng": "47.2795",
+    "id": "1450621707"
+  },
+  {
+    "city": "Alatsinainy Ialamarina",
+    "city_ascii": "Alatsinainy Ialamarina",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.5296",
+    "lng": "47.3046",
+    "id": "1450949627"
+  },
+  {
+    "city": "Analaiva",
+    "city_ascii": "Analaiva",
+    "admin_name": "Toliara",
+    "lat": "-20.3283",
+    "lng": "44.4983",
+    "id": "1450809706"
+  },
+  {
+    "city": "Maroaloka",
+    "city_ascii": "Maroaloka",
+    "admin_name": "Toliara",
+    "lat": "-25.1984",
+    "lng": "46.1902",
+    "id": "1450615223"
+  },
+  {
+    "city": "Belobaka",
+    "city_ascii": "Belobaka",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9950",
+    "lng": "45.6917",
+    "id": "1450102483"
+  },
+  {
+    "city": "Ankofa",
+    "city_ascii": "Ankofa",
+    "admin_name": "Toamasina",
+    "lat": "-15.3947",
+    "lng": "49.6462",
+    "id": "1450855797"
+  },
+  {
+    "city": "Matsakabanja",
+    "city_ascii": "Matsakabanja",
+    "admin_name": "Mahajanga",
+    "lat": "-15.9152",
+    "lng": "45.8357",
+    "id": "1450113608"
+  },
+  {
+    "city": "Ambovombe Afovoany",
+    "city_ascii": "Ambovombe Afovoany",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.7770",
+    "lng": "47.0749",
+    "id": "1450912618"
+  },
+  {
+    "city": "Tsianisiha",
+    "city_ascii": "Tsianisiha",
+    "admin_name": "Toliara",
+    "lat": "-22.9000",
+    "lng": "43.5833",
+    "id": "1450654837"
+  },
+  {
+    "city": "Beantake",
+    "city_ascii": "Beantake",
+    "admin_name": "Toliara",
+    "lat": "-23.8003",
+    "lng": "44.3078",
+    "id": "1450564654"
+  },
+  {
+    "city": "Behenjy",
+    "city_ascii": "Behenjy",
+    "admin_name": "Antananarivo",
+    "lat": "-19.2127",
+    "lng": "47.4909",
+    "id": "1450616391"
+  },
+  {
+    "city": "Tranoroa",
+    "city_ascii": "Tranoroa",
+    "admin_name": "Toliara",
+    "lat": "-24.6897",
+    "lng": "45.0419",
+    "id": "1450659939"
+  },
+  {
+    "city": "Manambaro",
+    "city_ascii": "Manambaro",
+    "admin_name": "Toliara",
+    "lat": "-25.0349",
+    "lng": "46.8087",
+    "id": "1450768903"
+  },
+  {
+    "city": "Ambohitralanana",
+    "city_ascii": "Ambohitralanana",
+    "admin_name": "Antsiranana",
+    "lat": "-15.2431",
+    "lng": "50.4455",
+    "id": "1450680382"
+  },
+  {
+    "city": "Fanandrana",
+    "city_ascii": "Fanandrana",
+    "admin_name": "Toamasina",
+    "lat": "-18.2585",
+    "lng": "49.2687",
+    "id": "1450388677"
+  },
+  {
+    "city": "Ambolomadinika",
+    "city_ascii": "Ambolomadinika",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.9645",
+    "lng": "47.4405",
+    "id": "1450992662"
+  },
+  {
+    "city": "Morarano-Gara",
+    "city_ascii": "Morarano-Gara",
+    "admin_name": "Toamasina",
+    "lat": "-18.6955",
+    "lng": "48.2720",
+    "id": "1450740976"
+  },
+  {
+    "city": "Ambatolahy",
+    "city_ascii": "Ambatolahy",
+    "admin_name": "Toliara",
+    "lat": "-20.0082",
+    "lng": "45.5385",
+    "id": "1450548076"
+  },
+  {
+    "city": "Anosiarivo",
+    "city_ascii": "Anosiarivo",
+    "admin_name": "Antananarivo",
+    "lat": "-19.9202",
+    "lng": "47.0389",
+    "id": "1450015265"
+  },
+  {
+    "city": "Betroka",
+    "city_ascii": "Betroka",
+    "admin_name": "Toliara",
+    "lat": "-23.2684",
+    "lng": "46.0963",
+    "id": "1450282495"
+  },
+  {
+    "city": "Ilaka Atsinanana",
+    "city_ascii": "Ilaka Atsinanana",
+    "admin_name": "Toamasina",
+    "lat": "-19.5503",
+    "lng": "48.8371",
+    "id": "1450972250"
+  },
+  {
+    "city": "Tsararivotra",
+    "city_ascii": "Tsararivotra",
+    "admin_name": "Antananarivo",
+    "lat": "-19.0688",
+    "lng": "47.5509",
+    "id": "1450649450"
+  },
+  {
+    "city": "Marosangy",
+    "city_ascii": "Marosangy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.0045",
+    "lng": "48.2867",
+    "id": "1450773413"
+  },
+  {
+    "city": "Tolongoina",
+    "city_ascii": "Tolongoina",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.5595",
+    "lng": "47.5127",
+    "id": "1450803657"
+  },
+  {
+    "city": "Etrotroka",
+    "city_ascii": "Etrotroka",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.8885",
+    "lng": "47.5880",
+    "id": "1450566502"
+  },
+  {
+    "city": "Ilakatra",
+    "city_ascii": "Ilakatra",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.3495",
+    "lng": "47.6696",
+    "id": "1450772547"
+  },
+  {
+    "city": "Ambila",
+    "city_ascii": "Ambila",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.0029",
+    "lng": "47.9721",
+    "id": "1450155551"
+  },
+  {
+    "city": "Marofoty",
+    "city_ascii": "Marofoty",
+    "admin_name": "Toliara",
+    "lat": "-22.9348",
+    "lng": "43.5408",
+    "id": "1450797893"
+  },
+  {
+    "city": "Ambohitrolomahitsy",
+    "city_ascii": "Ambohitrolomahitsy",
+    "admin_name": "Antananarivo",
+    "lat": "-18.7068",
+    "lng": "47.6821",
+    "id": "1450324872"
+  },
+  {
+    "city": "Lazarivo",
+    "city_ascii": "Lazarivo",
+    "admin_name": "Toliara",
+    "lat": "-23.8987",
+    "lng": "44.9567",
+    "id": "1450663627"
+  },
+  {
+    "city": "Milanoa",
+    "city_ascii": "Milanoa",
+    "admin_name": "Antsiranana",
+    "lat": "-13.5833",
+    "lng": "49.7833",
+    "id": "1450982964"
+  },
+  {
+    "city": "Isoanala",
+    "city_ascii": "Isoanala",
+    "admin_name": "Toliara",
+    "lat": "-23.8353",
+    "lng": "45.7145",
+    "id": "1450685823"
+  },
+  {
+    "city": "Amboanjo",
+    "city_ascii": "Amboanjo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.0041",
+    "lng": "47.8564",
+    "id": "1450091390"
+  },
+  {
+    "city": "Befotaka",
+    "city_ascii": "Befotaka",
+    "admin_name": "Mahajanga",
+    "lat": "-14.5306",
+    "lng": "48.0241",
+    "id": "1450777604"
+  },
+  {
+    "city": "Tsarahonenana",
+    "city_ascii": "Tsarahonenana",
+    "admin_name": "Mahajanga",
+    "lat": "-15.4785",
+    "lng": "48.4727",
+    "id": "1450021972"
+  },
+  {
+    "city": "Antanimora Atsinanana",
+    "city_ascii": "Antanimora Atsinanana",
+    "admin_name": "Toliara",
+    "lat": "-24.8152",
+    "lng": "45.6613",
+    "id": "1450178860"
+  },
+  {
+    "city": "Ankarongana",
+    "city_ascii": "Ankarongana",
+    "admin_name": "Mahajanga",
+    "lat": "-15.4124",
+    "lng": "48.9152",
+    "id": "1450971281"
+  },
+  {
+    "city": "Ambondromisotra",
+    "city_ascii": "Ambondromisotra",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.3350",
+    "lng": "46.9099",
+    "id": "1450889572"
+  },
+  {
+    "city": "Ambohitsimanova",
+    "city_ascii": "Ambohitsimanova",
+    "admin_name": "Antananarivo",
+    "lat": "-19.9570",
+    "lng": "47.1144",
+    "id": "1450894938"
+  },
+  {
+    "city": "Anosivelo",
+    "city_ascii": "Anosivelo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.7371",
+    "lng": "47.7803",
+    "id": "1450013354"
+  },
+  {
+    "city": "Manombo Atsimo",
+    "city_ascii": "Manombo Atsimo",
+    "admin_name": "Toliara",
+    "lat": "-22.9524",
+    "lng": "43.4748",
+    "id": "1450265584"
+  },
+  {
+    "city": "Sahamadio",
+    "city_ascii": "Sahamadio",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.3000",
+    "lng": "47.4000",
+    "id": "1450646070"
+  },
+  {
+    "city": "Anosibe-Ifanja",
+    "city_ascii": "Anosibe-Ifanja",
+    "admin_name": "Antananarivo",
+    "lat": "-18.8831",
+    "lng": "46.7518",
+    "id": "1450904435"
+  },
+  {
+    "city": "Beahitse",
+    "city_ascii": "Beahitse",
+    "admin_name": "Toliara",
+    "lat": "-24.1673",
+    "lng": "44.4421",
+    "id": "1450908001"
+  },
+  {
+    "city": "Antsahavaribe",
+    "city_ascii": "Antsahavaribe",
+    "admin_name": "Antsiranana",
+    "lat": "-14.0284",
+    "lng": "49.6664",
+    "id": "1450824727"
+  },
+  {
+    "city": "Ambohipihaonana",
+    "city_ascii": "Ambohipihaonana",
+    "admin_name": "Antananarivo",
+    "lat": "-19.4333",
+    "lng": "47.4167",
+    "id": "1450648421"
+  },
+  {
+    "city": "Mandritsara",
+    "city_ascii": "Mandritsara",
+    "admin_name": "Mahajanga",
+    "lat": "-15.8328",
+    "lng": "48.8166",
+    "id": "1450981137"
+  },
+  {
+    "city": "Ambolidibe Atsinanana",
+    "city_ascii": "Ambolidibe Atsinanana",
+    "admin_name": "Mahajanga",
+    "lat": "-15.0980",
+    "lng": "48.7898",
+    "id": "1450065794"
+  },
+  {
+    "city": "Sadabe",
+    "city_ascii": "Sadabe",
+    "admin_name": "Antananarivo",
+    "lat": "-18.6164",
+    "lng": "47.7098",
+    "id": "1450000063"
+  },
+  {
+    "city": "Analanampotsy",
+    "city_ascii": "Analanampotsy",
+    "admin_name": "Toamasina",
+    "lat": "-17.1667",
+    "lng": "49.4833",
+    "id": "1450341522"
+  },
+  {
+    "city": "Andranofasika",
+    "city_ascii": "Andranofasika",
+    "admin_name": "Mahajanga",
+    "lat": "-16.3351",
+    "lng": "46.8433",
+    "id": "1450575484"
+  },
+  {
+    "city": "Fetromby",
+    "city_ascii": "Fetromby",
+    "admin_name": "Toamasina",
+    "lat": "-18.6333",
+    "lng": "48.9000",
+    "id": "1450802139"
+  },
+  {
+    "city": "Antanambao Mahatsara",
+    "city_ascii": "Antanambao Mahatsara",
+    "admin_name": "Toamasina",
+    "lat": "-19.3134",
+    "lng": "48.7997",
+    "id": "1450169284"
+  },
+  {
+    "city": "Sabotsy",
+    "city_ascii": "Sabotsy",
+    "admin_name": "Antananarivo",
+    "lat": "-19.2285",
+    "lng": "47.6014",
+    "id": "1450925010"
+  },
+  {
+    "city": "Ambohimanambola",
+    "city_ascii": "Ambohimanambola",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9490",
+    "lng": "47.6187",
+    "id": "1450250431"
+  },
+  {
+    "city": "Sahatavy",
+    "city_ascii": "Sahatavy",
+    "admin_name": "Toamasina",
+    "lat": "-17.4514",
+    "lng": "48.9984",
+    "id": "1450831507"
+  },
+  {
+    "city": "Antsahanoro",
+    "city_ascii": "Antsahanoro",
+    "admin_name": "Antsiranana",
+    "lat": "-14.8369",
+    "lng": "50.1389",
+    "id": "1450717425"
+  },
+  {
+    "city": "Ambalabe",
+    "city_ascii": "Ambalabe",
+    "admin_name": "Antsiranana",
+    "lat": "-15.1644",
+    "lng": "50.4205",
+    "id": "1450947423"
+  },
+  {
+    "city": "Ampahimanga",
+    "city_ascii": "Ampahimanga",
+    "admin_name": "Antananarivo",
+    "lat": "-19.1046",
+    "lng": "47.2004",
+    "id": "1450235819"
+  },
+  {
+    "city": "Ambarakaraka",
+    "city_ascii": "Ambarakaraka",
+    "admin_name": "Antsiranana",
+    "lat": "-13.5088",
+    "lng": "48.8484",
+    "id": "1450875169"
+  },
+  {
+    "city": "Ranohira",
+    "city_ascii": "Ranohira",
+    "admin_name": "Toliara",
+    "lat": "-22.4842",
+    "lng": "45.3942",
+    "id": "1450777804"
+  },
+  {
+    "city": "Mahavelona",
+    "city_ascii": "Mahavelona",
+    "admin_name": "Antananarivo",
+    "lat": "-18.5138",
+    "lng": "47.2546",
+    "id": "1450216247"
+  },
+  {
+    "city": "Tsiningia",
+    "city_ascii": "Tsiningia",
+    "admin_name": "Mahajanga",
+    "lat": "-15.4784",
+    "lng": "47.4553",
+    "id": "1450406103"
+  },
+  {
+    "city": "Antindra",
+    "city_ascii": "Antindra",
+    "admin_name": "Antsiranana",
+    "lat": "-14.1337",
+    "lng": "49.8131",
+    "id": "1450679608"
+  },
+  {
+    "city": "Andapafito",
+    "city_ascii": "Andapafito",
+    "admin_name": "Toamasina",
+    "lat": "-16.9147",
+    "lng": "49.3762",
+    "id": "1450969130"
+  },
+  {
+    "city": "Vohilengo",
+    "city_ascii": "Vohilengo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.5438",
+    "lng": "47.6944",
+    "id": "1450242299"
+  },
+  {
+    "city": "Manompana",
+    "city_ascii": "Manompana",
+    "admin_name": "Toamasina",
+    "lat": "-16.6871",
+    "lng": "49.7385",
+    "id": "1450170559"
+  },
+  {
+    "city": "Bevonotra",
+    "city_ascii": "Bevonotra",
+    "admin_name": "Antsiranana",
+    "lat": "-14.0730",
+    "lng": "49.6093",
+    "id": "1450295554"
+  },
+  {
+    "city": "Betanty",
+    "city_ascii": "Betanty",
+    "admin_name": "Toliara",
+    "lat": "-25.5666",
+    "lng": "45.5272",
+    "id": "1450311726"
+  },
+  {
+    "city": "Mandrosonoro",
+    "city_ascii": "Mandrosonoro",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.5879",
+    "lng": "45.9832",
+    "id": "1450073615"
+  },
+  {
+    "city": "Ankazondandy",
+    "city_ascii": "Ankazondandy",
+    "admin_name": "Antananarivo",
+    "lat": "-18.6975",
+    "lng": "47.7966",
+    "id": "1450557561"
+  },
+  {
+    "city": "Androrangavola",
+    "city_ascii": "Androrangavola",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.5292",
+    "lng": "48.2371",
+    "id": "1450693503"
+  },
+  {
+    "city": "Fiadanana",
+    "city_ascii": "Fiadanana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.8740",
+    "lng": "47.1767",
+    "id": "1450506769"
+  },
+  {
+    "city": "Alarobia",
+    "city_ascii": "Alarobia",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9684",
+    "lng": "47.7352",
+    "id": "1450929281"
+  },
+  {
+    "city": "Inanantonana",
+    "city_ascii": "Inanantonana",
+    "admin_name": "Antananarivo",
+    "lat": "-19.6489",
+    "lng": "46.6193",
+    "id": "1450953986"
+  },
+  {
+    "city": "Ambalatany",
+    "city_ascii": "Ambalatany",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.5364",
+    "lng": "47.5881",
+    "id": "1450788430"
+  },
+  {
+    "city": "Andemaka",
+    "city_ascii": "Andemaka",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.2779",
+    "lng": "47.7522",
+    "id": "1450024135"
+  },
+  {
+    "city": "Vohiposa",
+    "city_ascii": "Vohiposa",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.9925",
+    "lng": "47.1623",
+    "id": "1450467200"
+  },
+  {
+    "city": "Anjangoveratra",
+    "city_ascii": "Anjangoveratra",
+    "admin_name": "Antsiranana",
+    "lat": "-14.1378",
+    "lng": "50.0583",
+    "id": "1450405493"
+  },
+  {
+    "city": "Leanja",
+    "city_ascii": "Leanja",
+    "admin_name": "Mahajanga",
+    "lat": "-15.5430",
+    "lng": "47.9186",
+    "id": "1450058429"
+  },
+  {
+    "city": "Fenoarivo",
+    "city_ascii": "Fenoarivo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.1246",
+    "lng": "47.5686",
+    "id": "1450612194"
+  },
+  {
+    "city": "Fenoarivo",
+    "city_ascii": "Fenoarivo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.8688",
+    "lng": "46.8754",
+    "id": "1450147550"
+  },
+  {
+    "city": "Bekitro",
+    "city_ascii": "Bekitro",
+    "admin_name": "Toliara",
+    "lat": "-24.5503",
+    "lng": "45.2991",
+    "id": "1450444164"
+  },
+  {
+    "city": "Ambohibe",
+    "city_ascii": "Ambohibe",
+    "admin_name": "Toamasina",
+    "lat": "-17.4346",
+    "lng": "49.1069",
+    "id": "1450755165"
+  },
+  {
+    "city": "Tangainony",
+    "city_ascii": "Tangainony",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.6945",
+    "lng": "47.7444",
+    "id": "1450508448"
+  },
+  {
+    "city": "Antsenavolo",
+    "city_ascii": "Antsenavolo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.3904",
+    "lng": "48.0465",
+    "id": "1450984218"
+  },
+  {
+    "city": "Analila",
+    "city_ascii": "Analila",
+    "admin_name": "Mahajanga",
+    "lat": "-14.4540",
+    "lng": "49.0474",
+    "id": "1450364545"
+  },
+  {
+    "city": "Mangabe",
+    "city_ascii": "Mangabe",
+    "admin_name": "Mahajanga",
+    "lat": "-16.7167",
+    "lng": "46.8167",
+    "id": "1450285321"
+  },
+  {
+    "city": "Ambohimalaza",
+    "city_ascii": "Ambohimalaza",
+    "admin_name": "Antananarivo",
+    "lat": "-18.8667",
+    "lng": "47.5833",
+    "id": "1450435158"
+  },
+  {
+    "city": "Antadinga",
+    "city_ascii": "Antadinga",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.1469",
+    "lng": "47.4276",
+    "id": "1450101676"
+  },
+  {
+    "city": "Ambohidrapeto",
+    "city_ascii": "Ambohidrapeto",
+    "admin_name": "Antananarivo",
+    "lat": "-18.8971",
+    "lng": "47.4804",
+    "id": "1450249621"
+  },
+  {
+    "city": "Androy",
+    "city_ascii": "Androy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.3350",
+    "lng": "47.2719",
+    "id": "1450421324"
+  },
+  {
+    "city": "Sahambala",
+    "city_ascii": "Sahambala",
+    "admin_name": "Toamasina",
+    "lat": "-17.9199",
+    "lng": "49.1574",
+    "id": "1450273239"
+  },
+  {
+    "city": "Vatomandry",
+    "city_ascii": "Vatomandry",
+    "admin_name": "Toamasina",
+    "lat": "-19.3279",
+    "lng": "48.9815",
+    "id": "1450604534"
+  },
+  {
+    "city": "Mandialaza",
+    "city_ascii": "Mandialaza",
+    "admin_name": "Toamasina",
+    "lat": "-18.6056",
+    "lng": "48.0310",
+    "id": "1450052263"
+  },
+  {
+    "city": "Ifanadiana",
+    "city_ascii": "Ifanadiana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.3036",
+    "lng": "47.6387",
+    "id": "1450233083"
+  },
+  {
+    "city": "Soavina",
+    "city_ascii": "Soavina",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9625",
+    "lng": "47.5010",
+    "id": "1450506005"
+  },
+  {
+    "city": "Marivorahona",
+    "city_ascii": "Marivorahona",
+    "admin_name": "Antsiranana",
+    "lat": "-13.0863",
+    "lng": "49.1041",
+    "id": "1450497444"
+  },
+  {
+    "city": "Isorana",
+    "city_ascii": "Isorana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.3239",
+    "lng": "46.9361",
+    "id": "1450788463"
+  },
+  {
+    "city": "Amboavory",
+    "city_ascii": "Amboavory",
+    "admin_name": "Toamasina",
+    "lat": "-17.3135",
+    "lng": "48.5061",
+    "id": "1450001958"
+  },
+  {
+    "city": "Manohisoa",
+    "city_ascii": "Manohisoa",
+    "admin_name": "Antananarivo",
+    "lat": "-19.7867",
+    "lng": "46.7924",
+    "id": "1450417871"
+  },
+  {
+    "city": "Andrakata",
+    "city_ascii": "Andrakata",
+    "admin_name": "Antsiranana",
+    "lat": "-14.6279",
+    "lng": "49.7177",
+    "id": "1450466560"
+  },
+  {
+    "city": "Ambongamarina",
+    "city_ascii": "Ambongamarina",
+    "admin_name": "Antananarivo",
+    "lat": "-18.3157",
+    "lng": "47.9439",
+    "id": "1450442766"
+  },
+  {
+    "city": "Anosy Avaratra",
+    "city_ascii": "Anosy Avaratra",
+    "admin_name": "Antananarivo",
+    "lat": "-18.8167",
+    "lng": "47.5500",
+    "id": "1450108069"
+  },
+  {
+    "city": "Mahaly",
+    "city_ascii": "Mahaly",
+    "admin_name": "Toliara",
+    "lat": "-24.1733",
+    "lng": "46.3495",
+    "id": "1450092739"
+  },
+  {
+    "city": "Imerimandroso",
+    "city_ascii": "Imerimandroso",
+    "admin_name": "Toamasina",
+    "lat": "-17.4299",
+    "lng": "48.5901",
+    "id": "1450128225"
+  },
+  {
+    "city": "Ambohimierambe-Andranofito",
+    "city_ascii": "Ambohimierambe-Andranofito",
+    "admin_name": "Antananarivo",
+    "lat": "-19.7909",
+    "lng": "47.4258",
+    "id": "1450911993"
+  },
+  {
+    "city": "Andondabe",
+    "city_ascii": "Andondabe",
+    "admin_name": "Toamasina",
+    "lat": "-17.7665",
+    "lng": "49.3793",
+    "id": "1450987708"
+  },
+  {
+    "city": "Manambondro",
+    "city_ascii": "Manambondro",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.7998",
+    "lng": "47.5450",
+    "id": "1450557454"
+  },
+  {
+    "city": "Milenaka",
+    "city_ascii": "Milenaka",
+    "admin_name": "Toliara",
+    "lat": "-22.8386",
+    "lng": "43.5849",
+    "id": "1450835609"
+  },
+  {
+    "city": "Soalala",
+    "city_ascii": "Soalala",
+    "admin_name": "Mahajanga",
+    "lat": "-16.1025",
+    "lng": "45.3267",
+    "id": "1450631176"
+  },
+  {
+    "city": "Ambodiriana",
+    "city_ascii": "Ambodiriana",
+    "admin_name": "Antananarivo",
+    "lat": "-19.5888",
+    "lng": "47.5319",
+    "id": "1450970500"
+  },
+  {
+    "city": "Befasy",
+    "city_ascii": "Befasy",
+    "admin_name": "Toliara",
+    "lat": "-20.5779",
+    "lng": "44.3600",
+    "id": "1450031681"
+  },
+  {
+    "city": "Kopoky",
+    "city_ascii": "Kopoky",
+    "admin_name": "Toliara",
+    "lat": "-25.2122",
+    "lng": "45.2095",
+    "id": "1450764380"
+  },
+  {
+    "city": "Ramainandro",
+    "city_ascii": "Ramainandro",
+    "admin_name": "Antananarivo",
+    "lat": "-19.2969",
+    "lng": "47.0040",
+    "id": "1450704256"
+  },
+  {
+    "city": "Ambinanindrano",
+    "city_ascii": "Ambinanindrano",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.6804",
+    "lng": "47.8027",
+    "id": "1450049097"
+  },
+  {
+    "city": "Analamary",
+    "city_ascii": "Analamary",
+    "admin_name": "Toliara",
+    "lat": "-24.2455",
+    "lng": "47.2196",
+    "id": "1450722054"
+  },
+  {
+    "city": "Ambatomanjaka",
+    "city_ascii": "Ambatomanjaka",
+    "admin_name": "Antananarivo",
+    "lat": "-18.8761",
+    "lng": "46.8658",
+    "id": "1450557644"
+  },
+  {
+    "city": "Andranovelona",
+    "city_ascii": "Andranovelona",
+    "admin_name": "Antananarivo",
+    "lat": "-19.6295",
+    "lng": "47.6204",
+    "id": "1450879443"
+  },
+  {
+    "city": "Ianantsony",
+    "city_ascii": "Ianantsony",
+    "admin_name": "Toliara",
+    "lat": "-23.5523",
+    "lng": "43.7603",
+    "id": "1450210749"
+  },
+  {
+    "city": "Imanombo",
+    "city_ascii": "Imanombo",
+    "admin_name": "Toliara",
+    "lat": "-24.4363",
+    "lng": "45.8257",
+    "id": "1450493019"
+  },
+  {
+    "city": "Beroy Atsimo",
+    "city_ascii": "Beroy Atsimo",
+    "admin_name": "Toliara",
+    "lat": "-24.0044",
+    "lng": "44.6642",
+    "id": "1450415670"
+  },
+  {
+    "city": "Alarobia Bemaha",
+    "city_ascii": "Alarobia Bemaha",
+    "admin_name": "Antananarivo",
+    "lat": "-20.2109",
+    "lng": "46.8881",
+    "id": "1450979840"
+  },
+  {
+    "city": "Talata Ampano",
+    "city_ascii": "Talata Ampano",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.5512",
+    "lng": "47.0340",
+    "id": "1450352718"
+  },
+  {
+    "city": "Ambatoharanana",
+    "city_ascii": "Ambatoharanana",
+    "admin_name": "Toamasina",
+    "lat": "-17.3424",
+    "lng": "49.1186",
+    "id": "1450149595"
+  },
+  {
+    "city": "Sahave",
+    "city_ascii": "Sahave",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.0793",
+    "lng": "47.1126",
+    "id": "1450964359"
+  },
+  {
+    "city": "Bevoay",
+    "city_ascii": "Bevoay",
+    "admin_name": "Toliara",
+    "lat": "-24.4833",
+    "lng": "47.0167",
+    "id": "1450951688"
+  },
+  {
+    "city": "Anahidrano",
+    "city_ascii": "Anahidrano",
+    "admin_name": "Mahajanga",
+    "lat": "-15.0162",
+    "lng": "47.8912",
+    "id": "1450053738"
+  },
+  {
+    "city": "Ambahive",
+    "city_ascii": "Ambahive",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.2000",
+    "lng": "47.7167",
+    "id": "1450201009"
+  },
+  {
+    "city": "Ifatsy",
+    "city_ascii": "Ifatsy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.3902",
+    "lng": "47.7359",
+    "id": "1450298054"
+  },
+  {
+    "city": "Ankisabe",
+    "city_ascii": "Ankisabe",
+    "admin_name": "Antananarivo",
+    "lat": "-19.2951",
+    "lng": "46.4812",
+    "id": "1450772097"
+  },
+  {
+    "city": "Anjoma-Ramartina",
+    "city_ascii": "Anjoma-Ramartina",
+    "admin_name": "Antananarivo",
+    "lat": "-19.6397",
+    "lng": "45.9543",
+    "id": "1450497768"
+  },
+  {
+    "city": "Lokomby",
+    "city_ascii": "Lokomby",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.1826",
+    "lng": "47.7463",
+    "id": "1450028790"
+  },
+  {
+    "city": "Behisatse",
+    "city_ascii": "Behisatse",
+    "admin_name": "Toliara",
+    "lat": "-21.8062",
+    "lng": "45.1226",
+    "id": "1450538114"
+  },
+  {
+    "city": "Iharan̈a",
+    "city_ascii": "Iharana",
+    "admin_name": "Antsiranana",
+    "lat": "-13.3750",
+    "lng": "50.0100",
+    "id": "1450849551"
+  },
+  {
+    "city": "Manandona",
+    "city_ascii": "Manandona",
+    "admin_name": "Antananarivo",
+    "lat": "-20.0553",
+    "lng": "47.0556",
+    "id": "1450309894"
+  },
+  {
+    "city": "Antanimenabaka",
+    "city_ascii": "Antanimenabaka",
+    "admin_name": "Toamasina",
+    "lat": "-16.9373",
+    "lng": "48.4913",
+    "id": "1450330628"
+  },
+  {
+    "city": "Marofototra",
+    "city_ascii": "Marofototra",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.8525",
+    "lng": "48.1546",
+    "id": "1450760830"
+  },
+  {
+    "city": "Tsiatajavona-Ankaratra",
+    "city_ascii": "Tsiatajavona-Ankaratra",
+    "admin_name": "Antananarivo",
+    "lat": "-19.3777",
+    "lng": "47.3319",
+    "id": "1450357089"
+  },
+  {
+    "city": "Antsoso",
+    "city_ascii": "Antsoso",
+    "admin_name": "Antananarivo",
+    "lat": "-19.8167",
+    "lng": "46.8667",
+    "id": "1450373078"
+  },
+  {
+    "city": "Ambesisika",
+    "city_ascii": "Ambesisika",
+    "admin_name": "Mahajanga",
+    "lat": "-16.5205",
+    "lng": "46.8544",
+    "id": "1450028481"
+  },
+  {
+    "city": "Ankilimivory",
+    "city_ascii": "Ankilimivory",
+    "admin_name": "Toliara",
+    "lat": "-24.4724",
+    "lng": "44.9772",
+    "id": "1450659823"
+  },
+  {
+    "city": "Antanifotsy",
+    "city_ascii": "Antanifotsy",
+    "admin_name": "Toamasina",
+    "lat": "-16.8667",
+    "lng": "49.6333",
+    "id": "1450612710"
+  },
+  {
+    "city": "Anororo",
+    "city_ascii": "Anororo",
+    "admin_name": "Toamasina",
+    "lat": "-17.5149",
+    "lng": "48.4353",
+    "id": "1450000237"
+  },
+  {
+    "city": "Vinanivao",
+    "city_ascii": "Vinanivao",
+    "admin_name": "Antsiranana",
+    "lat": "-15.8832",
+    "lng": "50.2746",
+    "id": "1450469991"
+  },
+  {
+    "city": "Sahakevo",
+    "city_ascii": "Sahakevo",
+    "admin_name": "Toamasina",
+    "lat": "-20.2703",
+    "lng": "47.8502",
+    "id": "1450256846"
+  },
+  {
+    "city": "Fiadanana",
+    "city_ascii": "Fiadanana",
+    "admin_name": "Antananarivo",
+    "lat": "-18.2250",
+    "lng": "46.8844",
+    "id": "1450707459"
+  },
+  {
+    "city": "Vohipeno",
+    "city_ascii": "Vohipeno",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.3569",
+    "lng": "47.8407",
+    "id": "1450599708"
+  },
+  {
+    "city": "Androrangavola",
+    "city_ascii": "Androrangavola",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.5037",
+    "lng": "47.7174",
+    "id": "1450623784"
+  },
+  {
+    "city": "Ankadinandriana",
+    "city_ascii": "Ankadinandriana",
+    "admin_name": "Antananarivo",
+    "lat": "-19.0586",
+    "lng": "47.6633",
+    "id": "1450861528"
+  },
+  {
+    "city": "Mahatsinjo",
+    "city_ascii": "Mahatsinjo",
+    "admin_name": "Mahajanga",
+    "lat": "-17.7487",
+    "lng": "47.0172",
+    "id": "1450180817"
+  },
+  {
+    "city": "Ranomafana",
+    "city_ascii": "Ranomafana",
+    "admin_name": "Toamasina",
+    "lat": "-18.9598",
+    "lng": "48.8460",
+    "id": "1450951573"
+  },
+  {
+    "city": "Mangamila",
+    "city_ascii": "Mangamila",
+    "admin_name": "Antananarivo",
+    "lat": "-18.5667",
+    "lng": "47.8667",
+    "id": "1450330746"
+  },
+  {
+    "city": "Solila",
+    "city_ascii": "Solila",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.4166",
+    "lng": "46.6174",
+    "id": "1450014035"
+  },
+  {
+    "city": "Iakora",
+    "city_ascii": "Iakora",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.1039",
+    "lng": "46.6566",
+    "id": "1450296994"
+  },
+  {
+    "city": "Marofinaritra",
+    "city_ascii": "Marofinaritra",
+    "admin_name": "Antsiranana",
+    "lat": "-15.0384",
+    "lng": "50.1171",
+    "id": "1450912826"
+  },
+  {
+    "city": "Merimandroso",
+    "city_ascii": "Merimandroso",
+    "admin_name": "Antananarivo",
+    "lat": "-18.7517",
+    "lng": "47.5162",
+    "id": "1450984411"
+  },
+  {
+    "city": "Ankaramena",
+    "city_ascii": "Ankaramena",
+    "admin_name": "Toliara",
+    "lat": "-25.0284",
+    "lng": "46.7572",
+    "id": "1450651511"
+  },
+  {
+    "city": "Ampohibe",
+    "city_ascii": "Ampohibe",
+    "admin_name": "Antsiranana",
+    "lat": "-15.0344",
+    "lng": "50.2969",
+    "id": "1450141886"
+  },
+  {
+    "city": "Mantaly",
+    "city_ascii": "Mantaly",
+    "admin_name": "Antsiranana",
+    "lat": "-13.1662",
+    "lng": "48.9647",
+    "id": "1450370610"
+  },
+  {
+    "city": "Belazao",
+    "city_ascii": "Belazao",
+    "admin_name": "Antananarivo",
+    "lat": "-19.8933",
+    "lng": "46.9659",
+    "id": "1450189336"
+  },
+  {
+    "city": "Ambohimanga Atsimo",
+    "city_ascii": "Ambohimanga Atsimo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.8783",
+    "lng": "47.5928",
+    "id": "1450661685"
+  },
+  {
+    "city": "Mahavanona",
+    "city_ascii": "Mahavanona",
+    "admin_name": "Antsiranana",
+    "lat": "-12.4643",
+    "lng": "49.3804",
+    "id": "1450051630"
+  },
+  {
+    "city": "Beronono",
+    "city_ascii": "Beronono",
+    "admin_name": "Antananarivo",
+    "lat": "-18.1884",
+    "lng": "47.5163",
+    "id": "1450727787"
+  },
+  {
+    "city": "Zazafotsy",
+    "city_ascii": "Zazafotsy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.2056",
+    "lng": "46.3611",
+    "id": "1450729734"
+  },
+  {
+    "city": "Antohobe",
+    "city_ascii": "Antohobe",
+    "admin_name": "Antananarivo",
+    "lat": "-19.7667",
+    "lng": "46.1833",
+    "id": "1450847933"
+  },
+  {
+    "city": "Beraketa",
+    "city_ascii": "Beraketa",
+    "admin_name": "Toliara",
+    "lat": "-24.1835",
+    "lng": "45.6861",
+    "id": "1450431295"
+  },
+  {
+    "city": "Ambahita",
+    "city_ascii": "Ambahita",
+    "admin_name": "Toliara",
+    "lat": "-24.0095",
+    "lng": "45.2604",
+    "id": "1450954940"
+  },
+  {
+    "city": "Mahavelona",
+    "city_ascii": "Mahavelona",
+    "admin_name": "Antananarivo",
+    "lat": "-19.1699",
+    "lng": "46.5235",
+    "id": "1450370479"
+  },
+  {
+    "city": "Marotsiraka",
+    "city_ascii": "Marotsiraka",
+    "admin_name": "Toliara",
+    "lat": "-24.2796",
+    "lng": "45.9850",
+    "id": "1450433936"
+  },
+  {
+    "city": "Mahajamba",
+    "city_ascii": "Mahajamba",
+    "admin_name": "Mahajanga",
+    "lat": "-15.7115",
+    "lng": "47.1110",
+    "id": "1450063476"
+  },
+  {
+    "city": "Ambatomarina",
+    "city_ascii": "Ambatomarina",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.5702",
+    "lng": "47.0175",
+    "id": "1450490728"
+  },
+  {
+    "city": "Antanambaobe",
+    "city_ascii": "Antanambaobe",
+    "admin_name": "Toamasina",
+    "lat": "-16.2500",
+    "lng": "49.6667",
+    "id": "1450819233"
+  },
+  {
+    "city": "Kalandy",
+    "city_ascii": "Kalandy",
+    "admin_name": "Mahajanga",
+    "lat": "-15.7454",
+    "lng": "48.7154",
+    "id": "1450827177"
+  },
+  {
+    "city": "Bekipay",
+    "city_ascii": "Bekipay",
+    "admin_name": "Mahajanga",
+    "lat": "-16.2564",
+    "lng": "46.1252",
+    "id": "1450117746"
+  },
+  {
+    "city": "Marokarima",
+    "city_ascii": "Marokarima",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.2210",
+    "lng": "48.1405",
+    "id": "1450279342"
+  },
+  {
+    "city": "Fiadanana",
+    "city_ascii": "Fiadanana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.3299",
+    "lng": "47.4016",
+    "id": "1450293178"
+  },
+  {
+    "city": "Mahatsinjony",
+    "city_ascii": "Mahatsinjony",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.4196",
+    "lng": "47.2035",
+    "id": "1450141568"
+  },
+  {
+    "city": "Vanono",
+    "city_ascii": "Vanono",
+    "admin_name": "Toamasina",
+    "lat": "-16.0397",
+    "lng": "49.4607",
+    "id": "1450232049"
+  },
+  {
+    "city": "Talata-Vohimena",
+    "city_ascii": "Talata-Vohimena",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.8609",
+    "lng": "46.9681",
+    "id": "1450903316"
+  },
+  {
+    "city": "Vatolatsaka",
+    "city_ascii": "Vatolatsaka",
+    "admin_name": "Toliara",
+    "lat": "-23.3180",
+    "lng": "44.3052",
+    "id": "1450731231"
+  },
+  {
+    "city": "Belambo",
+    "city_ascii": "Belambo",
+    "admin_name": "Antananarivo",
+    "lat": "-19.4070",
+    "lng": "47.5213",
+    "id": "1450624771"
+  },
+  {
+    "city": "Miarinarivo",
+    "city_ascii": "Miarinarivo",
+    "admin_name": "Toamasina",
+    "lat": "-16.6200",
+    "lng": "48.2446",
+    "id": "1450574333"
+  },
+  {
+    "city": "Beharona",
+    "city_ascii": "Beharona",
+    "admin_name": "Toliara",
+    "lat": "-21.5214",
+    "lng": "44.3046",
+    "id": "1450572601"
+  },
+  {
+    "city": "Ambohimitombo",
+    "city_ascii": "Ambohimitombo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.7173",
+    "lng": "47.4302",
+    "id": "1450710090"
+  },
+  {
+    "city": "Tsarahasina",
+    "city_ascii": "Tsarahasina",
+    "admin_name": "Mahajanga",
+    "lat": "-15.7719",
+    "lng": "47.5806",
+    "id": "1450231941"
+  },
+  {
+    "city": "Bevato",
+    "city_ascii": "Bevato",
+    "admin_name": "Antananarivo",
+    "lat": "-18.6913",
+    "lng": "46.2585",
+    "id": "1450827914"
+  },
+  {
+    "city": "Ankiliabo",
+    "city_ascii": "Ankiliabo",
+    "admin_name": "Toliara",
+    "lat": "-21.7130",
+    "lng": "43.8931",
+    "id": "1450311896"
+  },
+  {
+    "city": "Amborondra",
+    "city_ascii": "Amborondra",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.9180",
+    "lng": "47.7726",
+    "id": "1450089809"
+  },
+  {
+    "city": "Bealanana",
+    "city_ascii": "Bealanana",
+    "admin_name": "Antsiranana",
+    "lat": "-14.5451",
+    "lng": "48.7372",
+    "id": "1450073773"
+  },
+  {
+    "city": "Sahalanona",
+    "city_ascii": "Sahalanona",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.0551",
+    "lng": "47.6175",
+    "id": "1450696602"
+  },
+  {
+    "city": "Ambodihara",
+    "city_ascii": "Ambodihara",
+    "admin_name": "Mahajanga",
+    "lat": "-14.8099",
+    "lng": "48.9244",
+    "id": "1450973236"
+  },
+  {
+    "city": "Ambohimiera",
+    "city_ascii": "Ambohimiera",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.0551",
+    "lng": "47.5059",
+    "id": "1450697311"
+  },
+  {
+    "city": "Ampasinambo",
+    "city_ascii": "Ampasinambo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.5235",
+    "lng": "47.9923",
+    "id": "1450644953"
+  },
+  {
+    "city": "Amboasary-Gara",
+    "city_ascii": "Amboasary-Gara",
+    "admin_name": "Toamasina",
+    "lat": "-18.4436",
+    "lng": "48.2629",
+    "id": "1450032744"
+  },
+  {
+    "city": "Andasibe",
+    "city_ascii": "Andasibe",
+    "admin_name": "Toamasina",
+    "lat": "-18.9252",
+    "lng": "48.4187",
+    "id": "1450648431"
+  },
+  {
+    "city": "Ambodilazana",
+    "city_ascii": "Ambodilazana",
+    "admin_name": "Toamasina",
+    "lat": "-18.1000",
+    "lng": "49.1667",
+    "id": "1450502468"
+  },
+  {
+    "city": "Ambohidronono",
+    "city_ascii": "Ambohidronono",
+    "admin_name": "Toamasina",
+    "lat": "-18.7611",
+    "lng": "48.0264",
+    "id": "1450192899"
+  },
+  {
+    "city": "Mahaboboka",
+    "city_ascii": "Mahaboboka",
+    "admin_name": "Toliara",
+    "lat": "-22.8982",
+    "lng": "44.3430",
+    "id": "1450446461"
+  },
+  {
+    "city": "Betatao",
+    "city_ascii": "Betatao",
+    "admin_name": "Antananarivo",
+    "lat": "-18.2026",
+    "lng": "47.8886",
+    "id": "1450435049"
+  },
+  {
+    "city": "Miarinarivo",
+    "city_ascii": "Miarinarivo",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9608",
+    "lng": "46.9036",
+    "id": "1450403783"
+  },
+  {
+    "city": "Ampanavoana",
+    "city_ascii": "Ampanavoana",
+    "admin_name": "Antsiranana",
+    "lat": "-15.6878",
+    "lng": "50.3604",
+    "id": "1450838781"
+  },
+  {
+    "city": "Ambararata",
+    "city_ascii": "Ambararata",
+    "admin_name": "Mahajanga",
+    "lat": "-15.0408",
+    "lng": "48.5492",
+    "id": "1450169435"
+  },
+  {
+    "city": "Marovandrika",
+    "city_ascii": "Marovandrika",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.5191",
+    "lng": "47.6665",
+    "id": "1450169623"
+  },
+  {
+    "city": "Morafeno",
+    "city_ascii": "Morafeno",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.0974",
+    "lng": "48.1779",
+    "id": "1450422826"
+  },
+  {
+    "city": "Andreba",
+    "city_ascii": "Andreba",
+    "admin_name": "Mahajanga",
+    "lat": "-14.5971",
+    "lng": "48.1881",
+    "id": "1450633860"
+  },
+  {
+    "city": "Marovato",
+    "city_ascii": "Marovato",
+    "admin_name": "Toliara",
+    "lat": "-25.5290",
+    "lng": "45.2769",
+    "id": "1450393411"
+  },
+  {
+    "city": "Ampitasimo",
+    "city_ascii": "Ampitasimo",
+    "admin_name": "Toamasina",
+    "lat": "-17.7833",
+    "lng": "48.3833",
+    "id": "1450380832"
+  },
+  {
+    "city": "Ambohimahavelona",
+    "city_ascii": "Ambohimahavelona",
+    "admin_name": "Toliara",
+    "lat": "-23.4456",
+    "lng": "43.8966",
+    "id": "1450064416"
+  },
+  {
+    "city": "Isaka-Ivondro",
+    "city_ascii": "Isaka-Ivondro",
+    "admin_name": "Toliara",
+    "lat": "-24.7986",
+    "lng": "46.8647",
+    "id": "1450725316"
+  },
+  {
+    "city": "Ambodiampana",
+    "city_ascii": "Ambodiampana",
+    "admin_name": "Antsiranana",
+    "lat": "-14.5280",
+    "lng": "49.8533",
+    "id": "1450410168"
+  },
+  {
+    "city": "Andranomamy",
+    "city_ascii": "Andranomamy",
+    "admin_name": "Mahajanga",
+    "lat": "-16.5357",
+    "lng": "47.1242",
+    "id": "1450780614"
+  },
+  {
+    "city": "Ihorombe",
+    "city_ascii": "Ihorombe",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.0083",
+    "lng": "47.5315",
+    "id": "1450066210"
+  },
+  {
+    "city": "Mahatsinjo",
+    "city_ascii": "Mahatsinjo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.8125",
+    "lng": "47.4513",
+    "id": "1450644475"
+  },
+  {
+    "city": "Antongomena-Bevary",
+    "city_ascii": "Antongomena-Bevary",
+    "admin_name": "Mahajanga",
+    "lat": "-15.9549",
+    "lng": "45.9403",
+    "id": "1450046754"
+  },
+  {
+    "city": "Antsirabe Afovoany",
+    "city_ascii": "Antsirabe Afovoany",
+    "admin_name": "Mahajanga",
+    "lat": "-15.9574",
+    "lng": "48.9666",
+    "id": "1450923807"
+  },
+  {
+    "city": "Sahavalanina-Antenina",
+    "city_ascii": "Sahavalanina-Antenina",
+    "admin_name": "Toamasina",
+    "lat": "-16.5705",
+    "lng": "49.2493",
+    "id": "1450370161"
+  },
+  {
+    "city": "Belemoka",
+    "city_ascii": "Belemoka",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.7823",
+    "lng": "47.6060",
+    "id": "1450739147"
+  },
+  {
+    "city": "Mavorano",
+    "city_ascii": "Mavorano",
+    "admin_name": "Toliara",
+    "lat": "-21.7912",
+    "lng": "47.9456",
+    "id": "1450909135"
+  },
+  {
+    "city": "Evato",
+    "city_ascii": "Evato",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.6000",
+    "lng": "47.6833",
+    "id": "1450349321"
+  },
+  {
+    "city": "Tranovaho",
+    "city_ascii": "Tranovaho",
+    "admin_name": "Toliara",
+    "lat": "-25.3054",
+    "lng": "44.9762",
+    "id": "1450131232"
+  },
+  {
+    "city": "Amborompotsy",
+    "city_ascii": "Amborompotsy",
+    "admin_name": "Toliara",
+    "lat": "-24.6791",
+    "lng": "44.9507",
+    "id": "1450600717"
+  },
+  {
+    "city": "Ambalakindresy",
+    "city_ascii": "Ambalakindresy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.1664",
+    "lng": "47.3352",
+    "id": "1450729938"
+  },
+  {
+    "city": "Ambahoabe",
+    "city_ascii": "Ambahoabe",
+    "admin_name": "Toamasina",
+    "lat": "-16.7828",
+    "lng": "49.5207",
+    "id": "1450430279"
+  },
+  {
+    "city": "Vohitrindry",
+    "city_ascii": "Vohitrindry",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.3751",
+    "lng": "47.8362",
+    "id": "1450431689"
+  },
+  {
+    "city": "Befandriana",
+    "city_ascii": "Befandriana",
+    "admin_name": "Mahajanga",
+    "lat": "-15.2542",
+    "lng": "48.5425",
+    "id": "1450151702"
+  },
+  {
+    "city": "Ampanefena",
+    "city_ascii": "Ampanefena",
+    "admin_name": "Antsiranana",
+    "lat": "-13.8588",
+    "lng": "49.9449",
+    "id": "1450684282"
+  },
+  {
+    "city": "Ankilivalo",
+    "city_ascii": "Ankilivalo",
+    "admin_name": "Toliara",
+    "lat": "-20.2984",
+    "lng": "44.6361",
+    "id": "1450597906"
+  },
+  {
+    "city": "Anjiajia",
+    "city_ascii": "Anjiajia",
+    "admin_name": "Mahajanga",
+    "lat": "-16.4644",
+    "lng": "46.9572",
+    "id": "1450871087"
+  },
+  {
+    "city": "Ambatondrakalavao",
+    "city_ascii": "Ambatondrakalavao",
+    "admin_name": "Antananarivo",
+    "lat": "-19.4481",
+    "lng": "47.5078",
+    "id": "1450037495"
+  },
+  {
+    "city": "Kirano",
+    "city_ascii": "Kirano",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.8333",
+    "lng": "47.0500",
+    "id": "1450729863"
+  },
+  {
+    "city": "Sakoabe",
+    "city_ascii": "Sakoabe",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.1937",
+    "lng": "47.8396",
+    "id": "1450793349"
+  },
+  {
+    "city": "Maroviro",
+    "city_ascii": "Maroviro",
+    "admin_name": "Toliara",
+    "lat": "-21.2283",
+    "lng": "44.7418",
+    "id": "1450225913"
+  },
+  {
+    "city": "Ambakireny",
+    "city_ascii": "Ambakireny",
+    "admin_name": "Mahajanga",
+    "lat": "-17.6232",
+    "lng": "47.8439",
+    "id": "1450303775"
+  },
+  {
+    "city": "Tsiately",
+    "city_ascii": "Tsiately",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.3309",
+    "lng": "47.6101",
+    "id": "1450928724"
+  },
+  {
+    "city": "Ambohitsilaozana",
+    "city_ascii": "Ambohitsilaozana",
+    "admin_name": "Toamasina",
+    "lat": "-17.6994",
+    "lng": "48.4687",
+    "id": "1450224032"
+  },
+  {
+    "city": "Ambazoa",
+    "city_ascii": "Ambazoa",
+    "admin_name": "Toliara",
+    "lat": "-25.3147",
+    "lng": "45.8960",
+    "id": "1450252226"
+  },
+  {
+    "city": "Ambodisakoana",
+    "city_ascii": "Ambodisakoana",
+    "admin_name": "Mahajanga",
+    "lat": "-15.4058",
+    "lng": "47.9597",
+    "id": "1450641793"
+  },
+  {
+    "city": "Bemanevika",
+    "city_ascii": "Bemanevika",
+    "admin_name": "Antsiranana",
+    "lat": "-14.1403",
+    "lng": "50.1244",
+    "id": "1450530961"
+  },
+  {
+    "city": "Ambondrona",
+    "city_ascii": "Ambondrona",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.2683",
+    "lng": "46.9937",
+    "id": "1450002861"
+  },
+  {
+    "city": "Ambatolampy",
+    "city_ascii": "Ambatolampy",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9000",
+    "lng": "46.1167",
+    "id": "1450574788"
+  },
+  {
+    "city": "Bejofo",
+    "city_ascii": "Bejofo",
+    "admin_name": "Toamasina",
+    "lat": "-17.8362",
+    "lng": "48.2185",
+    "id": "1450197169"
+  },
+  {
+    "city": "Manambolo",
+    "city_ascii": "Manambolo",
+    "admin_name": "Toamasina",
+    "lat": "-15.2840",
+    "lng": "49.7099",
+    "id": "1450568646"
+  },
+  {
+    "city": "Mangindrano",
+    "city_ascii": "Mangindrano",
+    "admin_name": "Mahajanga",
+    "lat": "-14.2687",
+    "lng": "48.9592",
+    "id": "1450075192"
+  },
+  {
+    "city": "Ankilimalinika",
+    "city_ascii": "Ankilimalinika",
+    "admin_name": "Toliara",
+    "lat": "-22.9569",
+    "lng": "43.5642",
+    "id": "1450201063"
+  },
+  {
+    "city": "Sandrakatsy",
+    "city_ascii": "Sandrakatsy",
+    "admin_name": "Toamasina",
+    "lat": "-16.3397",
+    "lng": "49.6131",
+    "id": "1450889811"
+  },
+  {
+    "city": "Marojala",
+    "city_ascii": "Marojala",
+    "admin_name": "Antsiranana",
+    "lat": "-14.4680",
+    "lng": "50.0320",
+    "id": "1450598155"
+  },
+  {
+    "city": "Ilafy",
+    "city_ascii": "Ilafy",
+    "admin_name": "Toamasina",
+    "lat": "-17.8919",
+    "lng": "48.4145",
+    "id": "1450451732"
+  },
+  {
+    "city": "Morarano",
+    "city_ascii": "Morarano",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9120",
+    "lng": "47.3032",
+    "id": "1450596372"
+  },
+  {
+    "city": "Mandritsara",
+    "city_ascii": "Mandritsara",
+    "admin_name": "Antananarivo",
+    "lat": "-19.5500",
+    "lng": "47.0500",
+    "id": "1450508025"
+  },
+  {
+    "city": "Befeta",
+    "city_ascii": "Befeta",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.2304",
+    "lng": "47.0495",
+    "id": "1450865101"
+  },
+  {
+    "city": "Amboaboa",
+    "city_ascii": "Amboaboa",
+    "admin_name": "Mahajanga",
+    "lat": "-15.9448",
+    "lng": "48.7186",
+    "id": "1450226220"
+  },
+  {
+    "city": "Manambidala",
+    "city_ascii": "Manambidala",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.7500",
+    "lng": "47.2667",
+    "id": "1450982031"
+  },
+  {
+    "city": "Andohajango",
+    "city_ascii": "Andohajango",
+    "admin_name": "Mahajanga",
+    "lat": "-15.9098",
+    "lng": "48.4970",
+    "id": "1450979666"
+  },
+  {
+    "city": "Manalalondo",
+    "city_ascii": "Manalalondo",
+    "admin_name": "Antananarivo",
+    "lat": "-19.2544",
+    "lng": "47.1138",
+    "id": "1450712810"
+  },
+  {
+    "city": "Isalo",
+    "city_ascii": "Isalo",
+    "admin_name": "Toliara",
+    "lat": "-19.7370",
+    "lng": "45.4392",
+    "id": "1450249721"
+  },
+  {
+    "city": "Ambalarondra",
+    "city_ascii": "Ambalarondra",
+    "admin_name": "Toamasina",
+    "lat": "-18.4686",
+    "lng": "49.0013",
+    "id": "1450882593"
+  },
+  {
+    "city": "Sarahandrano",
+    "city_ascii": "Sarahandrano",
+    "admin_name": "Antsiranana",
+    "lat": "-14.8257",
+    "lng": "50.0235",
+    "id": "1450771441"
+  },
+  {
+    "city": "Antanandava",
+    "city_ascii": "Antanandava",
+    "admin_name": "Toamasina",
+    "lat": "-19.0926",
+    "lng": "47.9593",
+    "id": "1450889393"
+  },
+  {
+    "city": "Vohimarina",
+    "city_ascii": "Vohimarina",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.6321",
+    "lng": "46.9045",
+    "id": "1450330004"
+  },
+  {
+    "city": "Miary",
+    "city_ascii": "Miary",
+    "admin_name": "Toliara",
+    "lat": "-23.3061",
+    "lng": "43.7288",
+    "id": "1450255547"
+  },
+  {
+    "city": "Anjahambe",
+    "city_ascii": "Anjahambe",
+    "admin_name": "Toamasina",
+    "lat": "-17.3798",
+    "lng": "49.1433",
+    "id": "1450498223"
+  },
+  {
+    "city": "Ambatomainty",
+    "city_ascii": "Ambatomainty",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.8984",
+    "lng": "46.4476",
+    "id": "1450861894"
+  },
+  {
+    "city": "Ambinanynony",
+    "city_ascii": "Ambinanynony",
+    "admin_name": "Toamasina",
+    "lat": "-18.5926",
+    "lng": "49.1181",
+    "id": "1450742943"
+  },
+  {
+    "city": "Ampasimbe",
+    "city_ascii": "Ampasimbe",
+    "admin_name": "Toamasina",
+    "lat": "-16.8220",
+    "lng": "49.0029",
+    "id": "1450702079"
+  },
+  {
+    "city": "Ambolomoty",
+    "city_ascii": "Ambolomoty",
+    "admin_name": "Mahajanga",
+    "lat": "-16.1613",
+    "lng": "46.6990",
+    "id": "1450504467"
+  },
+  {
+    "city": "Fanambana",
+    "city_ascii": "Fanambana",
+    "admin_name": "Antsiranana",
+    "lat": "-13.5530",
+    "lng": "49.9890",
+    "id": "1450134019"
+  },
+  {
+    "city": "Ivoamba",
+    "city_ascii": "Ivoamba",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.3932",
+    "lng": "47.1554",
+    "id": "1450902002"
+  },
+  {
+    "city": "Ankafina Tsarafidy",
+    "city_ascii": "Ankafina Tsarafidy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.2000",
+    "lng": "47.2500",
+    "id": "1450188416"
+  },
+  {
+    "city": "Ambohimandroso",
+    "city_ascii": "Ambohimandroso",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.8886",
+    "lng": "46.9604",
+    "id": "1450921754"
+  },
+  {
+    "city": "Belobaka",
+    "city_ascii": "Belobaka",
+    "admin_name": "Mahajanga",
+    "lat": "-15.6906",
+    "lng": "46.4190",
+    "id": "1450381333"
+  },
+  {
+    "city": "Andonabe",
+    "city_ascii": "Andonabe",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.4619",
+    "lng": "47.9509",
+    "id": "1450863479"
+  },
+  {
+    "city": "Sorombo",
+    "city_ascii": "Sorombo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.1000",
+    "lng": "47.9167",
+    "id": "1450860360"
+  },
+  {
+    "city": "Itondy",
+    "city_ascii": "Itondy",
+    "admin_name": "Toliara",
+    "lat": "-19.0625",
+    "lng": "45.3477",
+    "id": "1450245222"
+  },
+  {
+    "city": "Iarinarivo",
+    "city_ascii": "Iarinarivo",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9167",
+    "lng": "47.4000",
+    "id": "1450317086"
+  },
+  {
+    "city": "Saharefo",
+    "city_ascii": "Saharefo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.6713",
+    "lng": "47.6888",
+    "id": "1450980044"
+  },
+  {
+    "city": "Vohindava",
+    "city_ascii": "Vohindava",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.4139",
+    "lng": "47.8634",
+    "id": "1450616288"
+  },
+  {
+    "city": "Beandrarezona",
+    "city_ascii": "Beandrarezona",
+    "admin_name": "Mahajanga",
+    "lat": "-14.4847",
+    "lng": "48.6802",
+    "id": "1450161594"
+  },
+  {
+    "city": "Andranovao",
+    "city_ascii": "Andranovao",
+    "admin_name": "Mahajanga",
+    "lat": "-17.6180",
+    "lng": "44.0616",
+    "id": "1450946654"
+  },
+  {
+    "city": "Sendrisoa",
+    "city_ascii": "Sendrisoa",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.0030",
+    "lng": "46.9529",
+    "id": "1450761173"
+  },
+  {
+    "city": "Maromiandra",
+    "city_ascii": "Maromiandra",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.7038",
+    "lng": "47.5196",
+    "id": "1450367644"
+  },
+  {
+    "city": "Ambalavero",
+    "city_ascii": "Ambalavero",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.8115",
+    "lng": "47.7827",
+    "id": "1450039308"
+  },
+  {
+    "city": "Bekapaika",
+    "city_ascii": "Bekapaika",
+    "admin_name": "Mahajanga",
+    "lat": "-16.7477",
+    "lng": "47.5571",
+    "id": "1450291034"
+  },
+  {
+    "city": "Anorombato",
+    "city_ascii": "Anorombato",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.0143",
+    "lng": "47.7915",
+    "id": "1450314536"
+  },
+  {
+    "city": "Ambaliha",
+    "city_ascii": "Ambaliha",
+    "admin_name": "Mahajanga",
+    "lat": "-14.5342",
+    "lng": "48.2196",
+    "id": "1450636460"
+  },
+  {
+    "city": "Ambohinamboarina",
+    "city_ascii": "Ambohinamboarina",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.0309",
+    "lng": "47.0501",
+    "id": "1450981724"
+  },
+  {
+    "city": "Anjanazana",
+    "city_ascii": "Anjanazana",
+    "admin_name": "Toamasina",
+    "lat": "-15.3845",
+    "lng": "49.7531",
+    "id": "1450456490"
+  },
+  {
+    "city": "Andrembesoa",
+    "city_ascii": "Andrembesoa",
+    "admin_name": "Antananarivo",
+    "lat": "-20.1484",
+    "lng": "46.6602",
+    "id": "1450749932"
+  },
+  {
+    "city": "Mahazoarivo",
+    "city_ascii": "Mahazoarivo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.3732",
+    "lng": "46.8228",
+    "id": "1450209264"
+  },
+  {
+    "city": "Anjiamangirana I",
+    "city_ascii": "Anjiamangirana I",
+    "admin_name": "Mahajanga",
+    "lat": "-15.1669",
+    "lng": "47.7786",
+    "id": "1450794562"
+  },
+  {
+    "city": "Nosiarina",
+    "city_ascii": "Nosiarina",
+    "admin_name": "Antsiranana",
+    "lat": "-14.2109",
+    "lng": "50.0438",
+    "id": "1450445188"
+  },
+  {
+    "city": "Antanamalaza",
+    "city_ascii": "Antanamalaza",
+    "admin_name": "Antananarivo",
+    "lat": "-19.4086",
+    "lng": "47.6452",
+    "id": "1450027793"
+  },
+  {
+    "city": "Andramy",
+    "city_ascii": "Andramy",
+    "admin_name": "Mahajanga",
+    "lat": "-17.9645",
+    "lng": "44.7851",
+    "id": "1450011952"
+  },
+  {
+    "city": "Basibasy",
+    "city_ascii": "Basibasy",
+    "admin_name": "Toliara",
+    "lat": "-22.1767",
+    "lng": "43.6595",
+    "id": "1450018880"
+  },
+  {
+    "city": "Ampondra",
+    "city_ascii": "Ampondra",
+    "admin_name": "Antsiranana",
+    "lat": "-13.4281",
+    "lng": "49.9666",
+    "id": "1450375253"
+  },
+  {
+    "city": "Antaritarika",
+    "city_ascii": "Antaritarika",
+    "admin_name": "Toliara",
+    "lat": "-25.3968",
+    "lng": "45.7581",
+    "id": "1450216620"
+  },
+  {
+    "city": "Befody",
+    "city_ascii": "Befody",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.7798",
+    "lng": "47.9367",
+    "id": "1450027552"
+  },
+  {
+    "city": "Maromby",
+    "city_ascii": "Maromby",
+    "admin_name": "Toliara",
+    "lat": "-24.3531",
+    "lng": "46.5765",
+    "id": "1450001423"
+  },
+  {
+    "city": "Belampona",
+    "city_ascii": "Belampona",
+    "admin_name": "Antsiranana",
+    "lat": "-14.6551",
+    "lng": "49.5652",
+    "id": "1450137921"
+  },
+  {
+    "city": "Mahazoarivo",
+    "city_ascii": "Mahazoarivo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.3957",
+    "lng": "47.4101",
+    "id": "1450097923"
+  },
+  {
+    "city": "Befandefa",
+    "city_ascii": "Befandefa",
+    "admin_name": "Toliara",
+    "lat": "-22.1460",
+    "lng": "43.3035",
+    "id": "1450026685"
+  },
+  {
+    "city": "Ambatofisaka II",
+    "city_ascii": "Ambatofisaka II",
+    "admin_name": "Toamasina",
+    "lat": "-20.0867",
+    "lng": "47.8967",
+    "id": "1450651839"
+  },
+  {
+    "city": "Soalandy",
+    "city_ascii": "Soalandy",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9997",
+    "lng": "47.4984",
+    "id": "1450453632"
+  },
+  {
+    "city": "Befotaka",
+    "city_ascii": "Befotaka",
+    "admin_name": "Toamasina",
+    "lat": "-17.0833",
+    "lng": "48.9667",
+    "id": "1450744693"
+  },
+  {
+    "city": "Isaka",
+    "city_ascii": "Isaka",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.1401",
+    "lng": "47.0172",
+    "id": "1450450756"
+  },
+  {
+    "city": "Ambohimahasoa",
+    "city_ascii": "Ambohimahasoa",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.1063",
+    "lng": "47.2146",
+    "id": "1450769257"
+  },
+  {
+    "city": "Mangabe",
+    "city_ascii": "Mangabe",
+    "admin_name": "Toamasina",
+    "lat": "-16.9202",
+    "lng": "49.4476",
+    "id": "1450932004"
+  },
+  {
+    "city": "Lamosina",
+    "city_ascii": "Lamosina",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.6330",
+    "lng": "46.8056",
+    "id": "1450091422"
+  },
+  {
+    "city": "Vohilava",
+    "city_ascii": "Vohilava",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.7011",
+    "lng": "48.3428",
+    "id": "1450900027"
+  },
+  {
+    "city": "Ramena",
+    "city_ascii": "Ramena",
+    "admin_name": "Antsiranana",
+    "lat": "-12.2421",
+    "lng": "49.3453",
+    "id": "1450441653"
+  },
+  {
+    "city": "Besalampy",
+    "city_ascii": "Besalampy",
+    "admin_name": "Mahajanga",
+    "lat": "-16.7495",
+    "lng": "44.4833",
+    "id": "1450740445"
+  },
+  {
+    "city": "Langarivo",
+    "city_ascii": "Langarivo",
+    "admin_name": "Antsiranana",
+    "lat": "-14.6034",
+    "lng": "50.0552",
+    "id": "1450358888"
+  },
+  {
+    "city": "Antsambalahy",
+    "city_ascii": "Antsambalahy",
+    "admin_name": "Antsiranana",
+    "lat": "-14.7709",
+    "lng": "49.9586",
+    "id": "1450620282"
+  },
+  {
+    "city": "Begogo",
+    "city_ascii": "Begogo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.4866",
+    "lng": "46.7147",
+    "id": "1450909068"
+  },
+  {
+    "city": "Ambinanin’i Sakaleona",
+    "city_ascii": "Ambinanin'i Sakaleona",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.5399",
+    "lng": "48.5487",
+    "id": "1450503143"
+  },
+  {
+    "city": "Antanandava",
+    "city_ascii": "Antanandava",
+    "admin_name": "Toamasina",
+    "lat": "-17.4536",
+    "lng": "48.6707",
+    "id": "1450418513"
+  },
+  {
+    "city": "Morafeno",
+    "city_ascii": "Morafeno",
+    "admin_name": "Antananarivo",
+    "lat": "-19.0911",
+    "lng": "47.0972",
+    "id": "1450482362"
+  },
+  {
+    "city": "Ambotaka",
+    "city_ascii": "Ambotaka",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.7520",
+    "lng": "48.0513",
+    "id": "1450933772"
+  },
+  {
+    "city": "Kalafotsy",
+    "city_ascii": "Kalafotsy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.2912",
+    "lng": "47.3149",
+    "id": "1450967361"
+  },
+  {
+    "city": "Antsoha",
+    "city_ascii": "Antsoha",
+    "admin_name": "Mahajanga",
+    "lat": "-15.8093",
+    "lng": "48.8245",
+    "id": "1450852008"
+  },
+  {
+    "city": "Maroambihy",
+    "city_ascii": "Maroambihy",
+    "admin_name": "Antsiranana",
+    "lat": "-14.5036",
+    "lng": "49.8593",
+    "id": "1450240187"
+  },
+  {
+    "city": "Voloina",
+    "city_ascii": "Voloina",
+    "admin_name": "Toamasina",
+    "lat": "-15.5680",
+    "lng": "49.6059",
+    "id": "1450914239"
+  },
+  {
+    "city": "Ambatomasina",
+    "city_ascii": "Ambatomasina",
+    "admin_name": "Antananarivo",
+    "lat": "-18.7167",
+    "lng": "47.4500",
+    "id": "1450692474"
+  },
+  {
+    "city": "Ambodiampana",
+    "city_ascii": "Ambodiampana",
+    "admin_name": "Toamasina",
+    "lat": "-16.8213",
+    "lng": "49.5617",
+    "id": "1450144383"
+  },
+  {
+    "city": "Antsakanalabe",
+    "city_ascii": "Antsakanalabe",
+    "admin_name": "Mahajanga",
+    "lat": "-15.4019",
+    "lng": "48.2846",
+    "id": "1450726016"
+  },
+  {
+    "city": "Antsahabe",
+    "city_ascii": "Antsahabe",
+    "admin_name": "Mahajanga",
+    "lat": "-14.8070",
+    "lng": "48.3812",
+    "id": "1450288533"
+  },
+  {
+    "city": "Antakotako",
+    "city_ascii": "Antakotako",
+    "admin_name": "Toamasina",
+    "lat": "-15.3310",
+    "lng": "49.8014",
+    "id": "1450258709"
+  },
+  {
+    "city": "Tsararano",
+    "city_ascii": "Tsararano",
+    "admin_name": "Mahajanga",
+    "lat": "-16.1790",
+    "lng": "46.6763",
+    "id": "1450799664"
+  },
+  {
+    "city": "Mahazony",
+    "city_ascii": "Mahazony",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.9942",
+    "lng": "47.0146",
+    "id": "1450926043"
+  },
+  {
+    "city": "Fotsialanana",
+    "city_ascii": "Fotsialanana",
+    "admin_name": "Toamasina",
+    "lat": "-16.9218",
+    "lng": "49.4823",
+    "id": "1450034980"
+  },
+  {
+    "city": "Ambinanindovoka",
+    "city_ascii": "Ambinanindovoka",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.9167",
+    "lng": "47.1000",
+    "id": "1450885987"
+  },
+  {
+    "city": "Ranomafana",
+    "city_ascii": "Ranomafana",
+    "admin_name": "Toliara",
+    "lat": "-24.5730",
+    "lng": "46.9643",
+    "id": "1450249574"
+  },
+  {
+    "city": "Ankavandra",
+    "city_ascii": "Ankavandra",
+    "admin_name": "Toliara",
+    "lat": "-18.7717",
+    "lng": "45.2935",
+    "id": "1450061634"
+  },
+  {
+    "city": "Manambolosy",
+    "city_ascii": "Manambolosy",
+    "admin_name": "Toamasina",
+    "lat": "-16.0435",
+    "lng": "49.6728",
+    "id": "1450154800"
+  },
+  {
+    "city": "Marotandrano",
+    "city_ascii": "Marotandrano",
+    "admin_name": "Mahajanga",
+    "lat": "-16.1795",
+    "lng": "48.8395",
+    "id": "1450460115"
+  },
+  {
+    "city": "Ambohidranandriana",
+    "city_ascii": "Ambohidranandriana",
+    "admin_name": "Antananarivo",
+    "lat": "-19.8983",
+    "lng": "47.1590",
+    "id": "1450724401"
+  },
+  {
+    "city": "Tsinjomitondraka",
+    "city_ascii": "Tsinjomitondraka",
+    "admin_name": "Mahajanga",
+    "lat": "-15.6591",
+    "lng": "47.1205",
+    "id": "1450831039"
+  },
+  {
+    "city": "Amporoforo",
+    "city_ascii": "Amporoforo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.4884",
+    "lng": "47.7925",
+    "id": "1450014103"
+  },
+  {
+    "city": "Ambodimangavolo",
+    "city_ascii": "Ambodimangavolo",
+    "admin_name": "Toamasina",
+    "lat": "-17.5255",
+    "lng": "48.9641",
+    "id": "1450962406"
+  },
+  {
+    "city": "Analamitsivalana",
+    "city_ascii": "Analamitsivalana",
+    "admin_name": "Toliara",
+    "lat": "-20.3160",
+    "lng": "44.6899",
+    "id": "1450477836"
+  },
+  {
+    "city": "Bevata",
+    "city_ascii": "Bevata",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.2833",
+    "lng": "47.2833",
+    "id": "1450498029"
+  },
+  {
+    "city": "Antsambahara",
+    "city_ascii": "Antsambahara",
+    "admin_name": "Antsiranana",
+    "lat": "-14.5041",
+    "lng": "49.9559",
+    "id": "1450544862"
+  },
+  {
+    "city": "Androndrona Anava",
+    "city_ascii": "Androndrona Anava",
+    "admin_name": "Toamasina",
+    "lat": "-15.7632",
+    "lng": "49.1979",
+    "id": "1450535448"
+  },
+  {
+    "city": "Sampona",
+    "city_ascii": "Sampona",
+    "admin_name": "Toliara",
+    "lat": "-25.1494",
+    "lng": "46.3086",
+    "id": "1450436674"
+  },
+  {
+    "city": "Marolinta",
+    "city_ascii": "Marolinta",
+    "admin_name": "Toliara",
+    "lat": "-25.1109",
+    "lng": "44.6286",
+    "id": "1450336468"
+  },
+  {
+    "city": "Andranomeva",
+    "city_ascii": "Andranomeva",
+    "admin_name": "Mahajanga",
+    "lat": "-15.7987",
+    "lng": "47.7667",
+    "id": "1450392051"
+  },
+  {
+    "city": "Miandrarivo",
+    "city_ascii": "Miandrarivo",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9429",
+    "lng": "45.9852",
+    "id": "1450648621"
+  },
+  {
+    "city": "Ambodimanary",
+    "city_ascii": "Ambodimanary",
+    "admin_name": "Mahajanga",
+    "lat": "-15.2334",
+    "lng": "48.0037",
+    "id": "1450651140"
+  },
+  {
+    "city": "Maroamalona",
+    "city_ascii": "Maroamalona",
+    "admin_name": "Mahajanga",
+    "lat": "-15.3690",
+    "lng": "48.6747",
+    "id": "1450211662"
+  },
+  {
+    "city": "Marovantaza",
+    "city_ascii": "Marovantaza",
+    "admin_name": "Mahajanga",
+    "lat": "-15.3831",
+    "lng": "47.6534",
+    "id": "1450960583"
+  },
+  {
+    "city": "Antanandava",
+    "city_ascii": "Antanandava",
+    "admin_name": "Mahajanga",
+    "lat": "-15.8639",
+    "lng": "48.8282",
+    "id": "1450365453"
+  },
+  {
+    "city": "Efatsy-Anandroza",
+    "city_ascii": "Efatsy-Anandroza",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.1146",
+    "lng": "47.6073",
+    "id": "1450536515"
+  },
+  {
+    "city": "Manandroy",
+    "city_ascii": "Manandroy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.1333",
+    "lng": "47.2620",
+    "id": "1450182639"
+  },
+  {
+    "city": "Tranomaro",
+    "city_ascii": "Tranomaro",
+    "admin_name": "Toliara",
+    "lat": "-24.5999",
+    "lng": "46.4746",
+    "id": "1450585965"
+  },
+  {
+    "city": "Vinaninkarena",
+    "city_ascii": "Vinaninkarena",
+    "admin_name": "Antananarivo",
+    "lat": "-19.9534",
+    "lng": "47.0428",
+    "id": "1450932095"
+  },
+  {
+    "city": "Soaserana",
+    "city_ascii": "Soaserana",
+    "admin_name": "Toliara",
+    "lat": "-21.1035",
+    "lng": "44.2226",
+    "id": "1450093331"
+  },
+  {
+    "city": "Soamanova",
+    "city_ascii": "Soamanova",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.2833",
+    "lng": "47.6000",
+    "id": "1450833054"
+  },
+  {
+    "city": "Ankasakasabe",
+    "city_ascii": "Ankasakasabe",
+    "admin_name": "Mahajanga",
+    "lat": "-16.3491",
+    "lng": "44.8530",
+    "id": "1450475974"
+  },
+  {
+    "city": "Ambohidanerana",
+    "city_ascii": "Ambohidanerana",
+    "admin_name": "Antananarivo",
+    "lat": "-19.2028",
+    "lng": "46.7785",
+    "id": "1450817535"
+  },
+  {
+    "city": "Antanandehibe",
+    "city_ascii": "Antanandehibe",
+    "admin_name": "Toamasina",
+    "lat": "-19.6774",
+    "lng": "48.3511",
+    "id": "1450710342"
+  },
+  {
+    "city": "Alakamisy Anativato",
+    "city_ascii": "Alakamisy Anativato",
+    "admin_name": "Antananarivo",
+    "lat": "-19.8788",
+    "lng": "46.9007",
+    "id": "1450915347"
+  },
+  {
+    "city": "Kelilalina",
+    "city_ascii": "Kelilalina",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.2843",
+    "lng": "47.5546",
+    "id": "1450902894"
+  },
+  {
+    "city": "Andovoranto",
+    "city_ascii": "Andovoranto",
+    "admin_name": "Toamasina",
+    "lat": "-18.9544",
+    "lng": "49.1094",
+    "id": "1450518984"
+  },
+  {
+    "city": "Ankarabato",
+    "city_ascii": "Ankarabato",
+    "admin_name": "Mahajanga",
+    "lat": "-16.1860",
+    "lng": "46.1870",
+    "id": "1450143070"
+  },
+  {
+    "city": "Ambohinihaonana",
+    "city_ascii": "Ambohinihaonana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.1965",
+    "lng": "47.9094",
+    "id": "1450959111"
+  },
+  {
+    "city": "Lohariandava",
+    "city_ascii": "Lohariandava",
+    "admin_name": "Toamasina",
+    "lat": "-18.7844",
+    "lng": "48.6772",
+    "id": "1450037075"
+  },
+  {
+    "city": "Anoviara",
+    "city_ascii": "Anoviara",
+    "admin_name": "Antsiranana",
+    "lat": "-14.7408",
+    "lng": "49.8324",
+    "id": "1450027060"
+  },
+  {
+    "city": "Betsiaka",
+    "city_ascii": "Betsiaka",
+    "admin_name": "Antsiranana",
+    "lat": "-13.1553",
+    "lng": "49.2350",
+    "id": "1450122670"
+  },
+  {
+    "city": "Antsaravibe",
+    "city_ascii": "Antsaravibe",
+    "admin_name": "Antsiranana",
+    "lat": "-13.0517",
+    "lng": "49.0189",
+    "id": "1450567658"
+  },
+  {
+    "city": "Ambato",
+    "city_ascii": "Ambato",
+    "admin_name": "Antananarivo",
+    "lat": "-18.5970",
+    "lng": "47.4962",
+    "id": "1450100718"
+  },
+  {
+    "city": "Mantasoa",
+    "city_ascii": "Mantasoa",
+    "admin_name": "Antananarivo",
+    "lat": "-19.0129",
+    "lng": "47.8342",
+    "id": "1450107085"
+  },
+  {
+    "city": "Ambohitromby",
+    "city_ascii": "Ambohitromby",
+    "admin_name": "Antananarivo",
+    "lat": "-18.4333",
+    "lng": "47.1500",
+    "id": "1450098921"
+  },
+  {
+    "city": "Ambolotarakely",
+    "city_ascii": "Ambolotarakely",
+    "admin_name": "Antananarivo",
+    "lat": "-18.2684",
+    "lng": "47.4147",
+    "id": "1450049599"
+  },
+  {
+    "city": "Marotaolana",
+    "city_ascii": "Marotaolana",
+    "admin_name": "Antsiranana",
+    "lat": "-14.0256",
+    "lng": "48.6143",
+    "id": "1450914081"
+  },
+  {
+    "city": "Antenetibe",
+    "city_ascii": "Antenetibe",
+    "admin_name": "Antananarivo",
+    "lat": "-18.7480",
+    "lng": "47.3261",
+    "id": "1450141547"
+  },
+  {
+    "city": "Andonabe Atsimo",
+    "city_ascii": "Andonabe Atsimo",
+    "admin_name": "Toamasina",
+    "lat": "-19.9240",
+    "lng": "48.1971",
+    "id": "1450506198"
+  },
+  {
+    "city": "Ambahy",
+    "city_ascii": "Ambahy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.7730",
+    "lng": "48.4768",
+    "id": "1450922020"
+  },
+  {
+    "city": "Manakana",
+    "city_ascii": "Manakana",
+    "admin_name": "Toamasina",
+    "lat": "-19.7655",
+    "lng": "48.3626",
+    "id": "1450745180"
+  },
+  {
+    "city": "Antsahadinta",
+    "city_ascii": "Antsahadinta",
+    "admin_name": "Antananarivo",
+    "lat": "-19.0190",
+    "lng": "47.4481",
+    "id": "1450776872"
+  },
+  {
+    "city": "Fasintsara",
+    "city_ascii": "Fasintsara",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.7165",
+    "lng": "47.6908",
+    "id": "1450084613"
+  },
+  {
+    "city": "Ambalavao",
+    "city_ascii": "Ambalavao",
+    "admin_name": "Antananarivo",
+    "lat": "-19.0980",
+    "lng": "47.5284",
+    "id": "1450481528"
+  },
+  {
+    "city": "Ankily",
+    "city_ascii": "Ankily",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.3837",
+    "lng": "46.0956",
+    "id": "1450223255"
+  },
+  {
+    "city": "Marondry",
+    "city_ascii": "Marondry",
+    "admin_name": "Antananarivo",
+    "lat": "-18.4167",
+    "lng": "47.0000",
+    "id": "1450307187"
+  },
+  {
+    "city": "Antanananivo",
+    "city_ascii": "Antanananivo",
+    "admin_name": "Toamasina",
+    "lat": "-16.2831",
+    "lng": "49.7182",
+    "id": "1450237966"
+  },
+  {
+    "city": "Namorona",
+    "city_ascii": "Namorona",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.6427",
+    "lng": "48.1853",
+    "id": "1450195610"
+  },
+  {
+    "city": "Soahany",
+    "city_ascii": "Soahany",
+    "admin_name": "Mahajanga",
+    "lat": "-18.6757",
+    "lng": "44.2131",
+    "id": "1450252746"
+  },
+  {
+    "city": "Belavabary",
+    "city_ascii": "Belavabary",
+    "admin_name": "Toamasina",
+    "lat": "-18.8200",
+    "lng": "48.0081",
+    "id": "1450323665"
+  },
+  {
+    "city": "Mahabako",
+    "city_ascii": "Mahabako",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.7490",
+    "lng": "47.7141",
+    "id": "1450602617"
+  },
+  {
+    "city": "Boanamary",
+    "city_ascii": "Boanamary",
+    "admin_name": "Mahajanga",
+    "lat": "-15.8325",
+    "lng": "46.3205",
+    "id": "1450000246"
+  },
+  {
+    "city": "Morafeno",
+    "city_ascii": "Morafeno",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.2033",
+    "lng": "47.2881",
+    "id": "1450789290"
+  },
+  {
+    "city": "Esira",
+    "city_ascii": "Esira",
+    "admin_name": "Toliara",
+    "lat": "-24.3311",
+    "lng": "46.7066",
+    "id": "1450103451"
+  },
+  {
+    "city": "Sandravinany",
+    "city_ascii": "Sandravinany",
+    "admin_name": "Fianarantsoa",
+    "lat": "-24.0406",
+    "lng": "47.4416",
+    "id": "1450455975"
+  },
+  {
+    "city": "Bedidy",
+    "city_ascii": "Bedidy",
+    "admin_name": "Mahajanga",
+    "lat": "-17.4701",
+    "lng": "48.0232",
+    "id": "1450144441"
+  },
+  {
+    "city": "Vohitrafeno",
+    "city_ascii": "Vohitrafeno",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.6667",
+    "lng": "47.2167",
+    "id": "1450638566"
+  },
+  {
+    "city": "Daraina",
+    "city_ascii": "Daraina",
+    "admin_name": "Antsiranana",
+    "lat": "-13.2048",
+    "lng": "49.6617",
+    "id": "1450505379"
+  },
+  {
+    "city": "Masiaboay",
+    "city_ascii": "Masiaboay",
+    "admin_name": "Toliara",
+    "lat": "-23.9002",
+    "lng": "44.4638",
+    "id": "1450226801"
+  },
+  {
+    "city": "Ambatomivary",
+    "city_ascii": "Ambatomivary",
+    "admin_name": "Toliara",
+    "lat": "-23.8414",
+    "lng": "45.5703",
+    "id": "1450847805"
+  },
+  {
+    "city": "Ambodisikidy",
+    "city_ascii": "Ambodisikidy",
+    "admin_name": "Mahajanga",
+    "lat": "-14.2486",
+    "lng": "48.4804",
+    "id": "1450041005"
+  },
+  {
+    "city": "Ambohimiarivo",
+    "city_ascii": "Ambohimiarivo",
+    "admin_name": "Antananarivo",
+    "lat": "-19.8535",
+    "lng": "47.1574",
+    "id": "1450510741"
+  },
+  {
+    "city": "Bekodoka",
+    "city_ascii": "Bekodoka",
+    "admin_name": "Mahajanga",
+    "lat": "-16.9695",
+    "lng": "45.1045",
+    "id": "1450176213"
+  },
+  {
+    "city": "Maroharatra",
+    "city_ascii": "Maroharatra",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.7306",
+    "lng": "47.7681",
+    "id": "1450765892"
+  },
+  {
+    "city": "Ambararatabe",
+    "city_ascii": "Ambararatabe",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9865",
+    "lng": "46.1909",
+    "id": "1450180554"
+  },
+  {
+    "city": "Ambatomifanongoa",
+    "city_ascii": "Ambatomifanongoa",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.2612",
+    "lng": "46.9326",
+    "id": "1450751314"
+  },
+  {
+    "city": "Ambohitrambo",
+    "city_ascii": "Ambohitrambo",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9167",
+    "lng": "47.1833",
+    "id": "1450876774"
+  },
+  {
+    "city": "Ebelo",
+    "city_ascii": "Ebelo",
+    "admin_name": "Toliara",
+    "lat": "-24.4825",
+    "lng": "46.0284",
+    "id": "1450395346"
+  },
+  {
+    "city": "Tsararano",
+    "city_ascii": "Tsararano",
+    "admin_name": "Mahajanga",
+    "lat": "-17.3443",
+    "lng": "46.3513",
+    "id": "1450417123"
+  },
+  {
+    "city": "Analalava",
+    "city_ascii": "Analalava",
+    "admin_name": "Mahajanga",
+    "lat": "-14.6333",
+    "lng": "47.7500",
+    "id": "1450593312"
+  },
+  {
+    "city": "Lohafary",
+    "city_ascii": "Lohafary",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.2552",
+    "lng": "47.4276",
+    "id": "1450370124"
+  },
+  {
+    "city": "Vatana",
+    "city_ascii": "Vatana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.2323",
+    "lng": "47.7464",
+    "id": "1450089974"
+  },
+  {
+    "city": "Antsoantany",
+    "city_ascii": "Antsoantany",
+    "admin_name": "Antananarivo",
+    "lat": "-19.7221",
+    "lng": "47.1657",
+    "id": "1450425748"
+  },
+  {
+    "city": "Ambovonomby",
+    "city_ascii": "Ambovonomby",
+    "admin_name": "Mahajanga",
+    "lat": "-14.4132",
+    "lng": "49.0156",
+    "id": "1450681597"
+  },
+  {
+    "city": "Isahara",
+    "city_ascii": "Isahara",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.7200",
+    "lng": "47.3554",
+    "id": "1450953236"
+  },
+  {
+    "city": "Ambodivoara",
+    "city_ascii": "Ambodivoara",
+    "admin_name": "Antsiranana",
+    "lat": "-14.3394",
+    "lng": "49.9794",
+    "id": "1450201923"
+  },
+  {
+    "city": "Vodiriana",
+    "city_ascii": "Vodiriana",
+    "admin_name": "Toamasina",
+    "lat": "-19.1832",
+    "lng": "48.5711",
+    "id": "1450696407"
+  },
+  {
+    "city": "Ambohimahazo",
+    "city_ascii": "Ambohimahazo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.6878",
+    "lng": "47.0695",
+    "id": "1450127672"
+  },
+  {
+    "city": "Ambodimadiro",
+    "city_ascii": "Ambodimadiro",
+    "admin_name": "Mahajanga",
+    "lat": "-14.5298",
+    "lng": "48.0013",
+    "id": "1450696030"
+  },
+  {
+    "city": "Andranambolava",
+    "city_ascii": "Andranambolava",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.9082",
+    "lng": "48.2756",
+    "id": "1450035681"
+  },
+  {
+    "city": "Marosakoa",
+    "city_ascii": "Marosakoa",
+    "admin_name": "Mahajanga",
+    "lat": "-16.1742",
+    "lng": "46.7525",
+    "id": "1450329712"
+  },
+  {
+    "city": "Amborompotsy",
+    "city_ascii": "Amborompotsy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.6067",
+    "lng": "46.2462",
+    "id": "1450347473"
+  },
+  {
+    "city": "Soavimbahoaka",
+    "city_ascii": "Soavimbahoaka",
+    "admin_name": "Antananarivo",
+    "lat": "-18.6796",
+    "lng": "46.1006",
+    "id": "1450132575"
+  },
+  {
+    "city": "Erada",
+    "city_ascii": "Erada",
+    "admin_name": "Toliara",
+    "lat": "-25.2858",
+    "lng": "45.9479",
+    "id": "1450445001"
+  },
+  {
+    "city": "Mahabe",
+    "city_ascii": "Mahabe",
+    "admin_name": "Mahajanga",
+    "lat": "-17.0844",
+    "lng": "45.3234",
+    "id": "1450085572"
+  },
+  {
+    "city": "Mahabo-Mananivo",
+    "city_ascii": "Mahabo-Mananivo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.1852",
+    "lng": "47.6787",
+    "id": "1450871023"
+  },
+  {
+    "city": "Miary-Taheza",
+    "city_ascii": "Miary-Taheza",
+    "admin_name": "Toliara",
+    "lat": "-23.1360",
+    "lng": "44.6272",
+    "id": "1450731758"
+  },
+  {
+    "city": "Ankadindambo",
+    "city_ascii": "Ankadindambo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.3767",
+    "lng": "47.1247",
+    "id": "1450657492"
+  },
+  {
+    "city": "Antaretra",
+    "city_ascii": "Antaretra",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.0792",
+    "lng": "47.8503",
+    "id": "1450713889"
+  },
+  {
+    "city": "Betrandraka",
+    "city_ascii": "Betrandraka",
+    "admin_name": "Mahajanga",
+    "lat": "-17.0365",
+    "lng": "47.5524",
+    "id": "1450299932"
+  },
+  {
+    "city": "Amparihy",
+    "city_ascii": "Amparihy",
+    "admin_name": "Mahajanga",
+    "lat": "-15.6745",
+    "lng": "47.1245",
+    "id": "1450241299"
+  },
+  {
+    "city": "Tanamarina",
+    "city_ascii": "Tanamarina",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.5717",
+    "lng": "45.9365",
+    "id": "1450528963"
+  },
+  {
+    "city": "Sahanivotry-Manandona",
+    "city_ascii": "Sahanivotry-Manandona",
+    "admin_name": "Antananarivo",
+    "lat": "-20.1210",
+    "lng": "47.0778",
+    "id": "1450219332"
+  },
+  {
+    "city": "Andranomenatsa",
+    "city_ascii": "Andranomenatsa",
+    "admin_name": "Toliara",
+    "lat": "-23.2500",
+    "lng": "44.6167",
+    "id": "1450593069"
+  },
+  {
+    "city": "Ambodimandresy",
+    "city_ascii": "Ambodimandresy",
+    "admin_name": "Mahajanga",
+    "lat": "-14.7853",
+    "lng": "48.0976",
+    "id": "1450907900"
+  },
+  {
+    "city": "Anontsibe-Sakalava",
+    "city_ascii": "Anontsibe-Sakalava",
+    "admin_name": "Toliara",
+    "lat": "-21.3765",
+    "lng": "44.4679",
+    "id": "1450810340"
+  },
+  {
+    "city": "Amparihitsokatra",
+    "city_ascii": "Amparihitsokatra",
+    "admin_name": "Toamasina",
+    "lat": "-17.5286",
+    "lng": "48.5728",
+    "id": "1450080667"
+  },
+  {
+    "city": "Ambatolava",
+    "city_ascii": "Ambatolava",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.5667",
+    "lng": "47.3000",
+    "id": "1450777650"
+  },
+  {
+    "city": "Ankerana",
+    "city_ascii": "Ankerana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.0310",
+    "lng": "47.1276",
+    "id": "1450047742"
+  },
+  {
+    "city": "Sihanamaro",
+    "city_ascii": "Sihanamaro",
+    "admin_name": "Toliara",
+    "lat": "-25.1789",
+    "lng": "45.7733",
+    "id": "1450305004"
+  },
+  {
+    "city": "Vinanitelo",
+    "city_ascii": "Vinanitelo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.7167",
+    "lng": "47.2667",
+    "id": "1450114171"
+  },
+  {
+    "city": "Vinanitelo",
+    "city_ascii": "Vinanitelo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.0142",
+    "lng": "47.7390",
+    "id": "1450156601"
+  },
+  {
+    "city": "Ifarantsa",
+    "city_ascii": "Ifarantsa",
+    "admin_name": "Toliara",
+    "lat": "-24.9329",
+    "lng": "46.8630",
+    "id": "1450270852"
+  },
+  {
+    "city": "Miarinarivo",
+    "city_ascii": "Miarinarivo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.0877",
+    "lng": "47.0576",
+    "id": "1450277014"
+  },
+  {
+    "city": "Ampasimazava",
+    "city_ascii": "Ampasimazava",
+    "admin_name": "Toamasina",
+    "lat": "-17.6806",
+    "lng": "49.1375",
+    "id": "1450568333"
+  },
+  {
+    "city": "Vohitany",
+    "city_ascii": "Vohitany",
+    "admin_name": "Toliara",
+    "lat": "-24.1441",
+    "lng": "44.7602",
+    "id": "1450985540"
+  },
+  {
+    "city": "Vohitsaoka",
+    "city_ascii": "Vohitsaoka",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.0357",
+    "lng": "46.7262",
+    "id": "1450660197"
+  },
+  {
+    "city": "Andranopasy",
+    "city_ascii": "Andranopasy",
+    "admin_name": "Toliara",
+    "lat": "-21.2799",
+    "lng": "43.7354",
+    "id": "1450818607"
+  },
+  {
+    "city": "Beheloka",
+    "city_ascii": "Beheloka",
+    "admin_name": "Toliara",
+    "lat": "-23.9122",
+    "lng": "43.6689",
+    "id": "1450950058"
+  },
+  {
+    "city": "Ankirondro",
+    "city_ascii": "Ankirondro",
+    "admin_name": "Toliara",
+    "lat": "-19.6453",
+    "lng": "44.5930",
+    "id": "1450343397"
+  },
+  {
+    "city": "Tamponala",
+    "city_ascii": "Tamponala",
+    "admin_name": "Antananarivo",
+    "lat": "-19.3042",
+    "lng": "46.4078",
+    "id": "1450730146"
+  },
+  {
+    "city": "Ambatolahy",
+    "city_ascii": "Ambatolahy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.5268",
+    "lng": "46.0083",
+    "id": "1450502699"
+  },
+  {
+    "city": "Katsepy",
+    "city_ascii": "Katsepy",
+    "admin_name": "Mahajanga",
+    "lat": "-15.7617",
+    "lng": "46.2442",
+    "id": "1450252014"
+  },
+  {
+    "city": "Vondrozo",
+    "city_ascii": "Vondrozo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.8208",
+    "lng": "47.3198",
+    "id": "1450832366"
+  },
+  {
+    "city": "Tanambao-Daoud",
+    "city_ascii": "Tanambao-Daoud",
+    "admin_name": "Antsiranana",
+    "lat": "-13.9862",
+    "lng": "50.1129",
+    "id": "1450000216"
+  },
+  {
+    "city": "Sahatona-Tamboharivo",
+    "city_ascii": "Sahatona-Tamboharivo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.9623",
+    "lng": "47.0988",
+    "id": "1450124769"
+  },
+  {
+    "city": "Beanana",
+    "city_ascii": "Beanana",
+    "admin_name": "Toamasina",
+    "lat": "-17.3730",
+    "lng": "48.4315",
+    "id": "1450709349"
+  },
+  {
+    "city": "Soatanana",
+    "city_ascii": "Soatanana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.3833",
+    "lng": "46.9167",
+    "id": "1450865191"
+  },
+  {
+    "city": "Ampitahana",
+    "city_ascii": "Ampitahana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.0452",
+    "lng": "47.1844",
+    "id": "1450688601"
+  },
+  {
+    "city": "Anosimparihy",
+    "city_ascii": "Anosimparihy",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.5061",
+    "lng": "47.9925",
+    "id": "1450447380"
+  },
+  {
+    "city": "Ambalanjanakomby",
+    "city_ascii": "Ambalanjanakomby",
+    "admin_name": "Mahajanga",
+    "lat": "-16.6981",
+    "lng": "47.0700",
+    "id": "1450821290"
+  },
+  {
+    "city": "Zoma-Bealoka",
+    "city_ascii": "Zoma-Bealoka",
+    "admin_name": "Antananarivo",
+    "lat": "-18.8523",
+    "lng": "47.0575",
+    "id": "1450875060"
+  },
+  {
+    "city": "Jangany",
+    "city_ascii": "Jangany",
+    "admin_name": "Toliara",
+    "lat": "-22.8611",
+    "lng": "45.7922",
+    "id": "1450631726"
+  },
+  {
+    "city": "Ianapera",
+    "city_ascii": "Ianapera",
+    "admin_name": "Toliara",
+    "lat": "-23.6208",
+    "lng": "45.1427",
+    "id": "1450881994"
+  },
+  {
+    "city": "Ambahatrazo",
+    "city_ascii": "Ambahatrazo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.8586",
+    "lng": "47.9047",
+    "id": "1450118510"
+  },
+  {
+    "city": "Fanjakana",
+    "city_ascii": "Fanjakana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.1814",
+    "lng": "46.8898",
+    "id": "1450594461"
+  },
+  {
+    "city": "Miadanandriana",
+    "city_ascii": "Miadanandriana",
+    "admin_name": "Antananarivo",
+    "lat": "-19.0361",
+    "lng": "47.7923",
+    "id": "1450763578"
+  },
+  {
+    "city": "Ankazotsifantatra",
+    "city_ascii": "Ankazotsifantatra",
+    "admin_name": "Toamasina",
+    "lat": "-19.9862",
+    "lng": "48.5011",
+    "id": "1450068487"
+  },
+  {
+    "city": "Ambodiriana",
+    "city_ascii": "Ambodiriana",
+    "admin_name": "Toamasina",
+    "lat": "-17.9372",
+    "lng": "49.2735",
+    "id": "1450447808"
+  },
+  {
+    "city": "Anjahamana",
+    "city_ascii": "Anjahamana",
+    "admin_name": "Toamasina",
+    "lat": "-18.3495",
+    "lng": "48.9718",
+    "id": "1450772038"
+  },
+  {
+    "city": "Djangoa",
+    "city_ascii": "Djangoa",
+    "admin_name": "Antsiranana",
+    "lat": "-13.7981",
+    "lng": "48.3365",
+    "id": "1450339137"
+  },
+  {
+    "city": "Ambinanintromby",
+    "city_ascii": "Ambinanintromby",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.6729",
+    "lng": "47.5240",
+    "id": "1450658500"
+  },
+  {
+    "city": "Tsaramasoandro",
+    "city_ascii": "Tsaramasoandro",
+    "admin_name": "Antananarivo",
+    "lat": "-17.9606",
+    "lng": "47.2147",
+    "id": "1450116713"
+  },
+  {
+    "city": "Andrainjato",
+    "city_ascii": "Andrainjato",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.4683",
+    "lng": "47.1153",
+    "id": "1450000119"
+  },
+  {
+    "city": "Fandrandava",
+    "city_ascii": "Fandrandava",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.5210",
+    "lng": "47.2440",
+    "id": "1450327142"
+  },
+  {
+    "city": "Ranomafana",
+    "city_ascii": "Ranomafana",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.2592",
+    "lng": "47.4544",
+    "id": "1450503373"
+  },
+  {
+    "city": "Fitampito",
+    "city_ascii": "Fitampito",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.9626",
+    "lng": "46.3075",
+    "id": "1450283134"
+  },
+  {
+    "city": "Ankadimanga",
+    "city_ascii": "Ankadimanga",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9856",
+    "lng": "47.7568",
+    "id": "1450905081"
+  },
+  {
+    "city": "Analaroa",
+    "city_ascii": "Analaroa",
+    "admin_name": "Antananarivo",
+    "lat": "-18.4080",
+    "lng": "47.7074",
+    "id": "1450569110"
+  },
+  {
+    "city": "Talata-Angavo",
+    "city_ascii": "Talata-Angavo",
+    "admin_name": "Antananarivo",
+    "lat": "-18.2064",
+    "lng": "47.0977",
+    "id": "1450226833"
+  },
+  {
+    "city": "Tanamarina-Sakay",
+    "city_ascii": "Tanamarina-Sakay",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.4689",
+    "lng": "46.6050",
+    "id": "1450821166"
+  },
+  {
+    "city": "Bemarivo",
+    "city_ascii": "Bemarivo",
+    "admin_name": "Mahajanga",
+    "lat": "-17.8060",
+    "lng": "44.7076",
+    "id": "1450296334"
+  },
+  {
+    "city": "Andilana Avaratra",
+    "city_ascii": "Andilana Avaratra",
+    "admin_name": "Toamasina",
+    "lat": "-17.3576",
+    "lng": "48.5446",
+    "id": "1450556942"
+  },
+  {
+    "city": "Ampasimpotsy-Gara",
+    "city_ascii": "Ampasimpotsy-Gara",
+    "admin_name": "Toamasina",
+    "lat": "-18.9618",
+    "lng": "48.3403",
+    "id": "1450245275"
+  },
+  {
+    "city": "Maropaika",
+    "city_ascii": "Maropaika",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.7088",
+    "lng": "46.9758",
+    "id": "1450971910"
+  },
+  {
+    "city": "Morafeno",
+    "city_ascii": "Morafeno",
+    "admin_name": "Antsiranana",
+    "lat": "-14.3695",
+    "lng": "50.0450",
+    "id": "1450000007"
+  },
+  {
+    "city": "Soamahamanina",
+    "city_ascii": "Soamahamanina",
+    "admin_name": "Antananarivo",
+    "lat": "-18.9885",
+    "lng": "47.0163",
+    "id": "1450133053"
+  },
+  {
+    "city": "Ambodivoanio",
+    "city_ascii": "Ambodivoanio",
+    "admin_name": "Toamasina",
+    "lat": "-16.1834",
+    "lng": "49.6574",
+    "id": "1450736682"
+  },
+  {
+    "city": "Tsimafana",
+    "city_ascii": "Tsimafana",
+    "admin_name": "Toliara",
+    "lat": "-19.7219",
+    "lng": "44.5841",
+    "id": "1450437916"
+  },
+  {
+    "city": "Sahatsiho-Ambohimanjaka",
+    "city_ascii": "Sahatsiho-Ambohimanjaka",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.2020",
+    "lng": "47.0907",
+    "id": "1450389505"
+  },
+  {
+    "city": "Ranopiso",
+    "city_ascii": "Ranopiso",
+    "admin_name": "Toliara",
+    "lat": "-25.0548",
+    "lng": "46.6846",
+    "id": "1450426168"
+  },
+  {
+    "city": "Ivandrika",
+    "city_ascii": "Ivandrika",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.8738",
+    "lng": "47.7259",
+    "id": "1450375529"
+  },
+  {
+    "city": "Marotolana",
+    "city_ascii": "Marotolana",
+    "admin_name": "Mahajanga",
+    "lat": "-14.6086",
+    "lng": "49.0275",
+    "id": "1450171691"
+  },
+  {
+    "city": "Ambatoria",
+    "city_ascii": "Ambatoria",
+    "admin_name": "Mahajanga",
+    "lat": "-14.4611",
+    "lng": "48.9523",
+    "id": "1450620872"
+  },
+  {
+    "city": "Lanivo",
+    "city_ascii": "Lanivo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.2940",
+    "lng": "47.8148",
+    "id": "1450578324"
+  },
+  {
+    "city": "Sarasambo",
+    "city_ascii": "Sarasambo",
+    "admin_name": "Toliara",
+    "lat": "-25.1081",
+    "lng": "46.7884",
+    "id": "1450151247"
+  },
+  {
+    "city": "Antambohobe",
+    "city_ascii": "Antambohobe",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.3119",
+    "lng": "46.7751",
+    "id": "1450913351"
+  },
+  {
+    "city": "Ambalajia",
+    "city_ascii": "Ambalajia",
+    "admin_name": "Mahajanga",
+    "lat": "-17.4965",
+    "lng": "46.1206",
+    "id": "1450290586"
+  },
+  {
+    "city": "Nato",
+    "city_ascii": "Nato",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.3089",
+    "lng": "47.8296",
+    "id": "1450079364"
+  },
+  {
+    "city": "Mahamaibe",
+    "city_ascii": "Mahamaibe",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.7551",
+    "lng": "47.8857",
+    "id": "1450492223"
+  },
+  {
+    "city": "Mitanty",
+    "city_ascii": "Mitanty",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.7284",
+    "lng": "47.9989",
+    "id": "1450937842"
+  },
+  {
+    "city": "Salobe",
+    "city_ascii": "Salobe",
+    "admin_name": "Toliara",
+    "lat": "-23.5333",
+    "lng": "44.7167",
+    "id": "1450431518"
+  },
+  {
+    "city": "Ambariokorano",
+    "city_ascii": "Ambariokorano",
+    "admin_name": "Mahajanga",
+    "lat": "-15.8964",
+    "lng": "48.9716",
+    "id": "1450736655"
+  },
+  {
+    "city": "Vohilava",
+    "city_ascii": "Vohilava",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.7661",
+    "lng": "47.9104",
+    "id": "1450720571"
+  },
+  {
+    "city": "Vatananto",
+    "city_ascii": "Vatananto",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.7000",
+    "lng": "47.2167",
+    "id": "1450501566"
+  },
+  {
+    "city": "Iara",
+    "city_ascii": "Iara",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.0835",
+    "lng": "47.4372",
+    "id": "1450682367"
+  },
+  {
+    "city": "Ampary",
+    "city_ascii": "Ampary",
+    "admin_name": "Antananarivo",
+    "lat": "-19.1911",
+    "lng": "46.5895",
+    "id": "1450964299"
+  },
+  {
+    "city": "Ambalaromba",
+    "city_ascii": "Ambalaromba",
+    "admin_name": "Mahajanga",
+    "lat": "-14.6731",
+    "lng": "49.3363",
+    "id": "1450599177"
+  },
+  {
+    "city": "Ambatoharanana",
+    "city_ascii": "Ambatoharanana",
+    "admin_name": "Toamasina",
+    "lat": "-16.4252",
+    "lng": "49.5820",
+    "id": "1450166915"
+  },
+  {
+    "city": "Befotaka",
+    "city_ascii": "Befotaka",
+    "admin_name": "Toliara",
+    "lat": "-20.8333",
+    "lng": "45.6667",
+    "id": "1450620315"
+  },
+  {
+    "city": "Soamanonga",
+    "city_ascii": "Soamanonga",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.8786",
+    "lng": "44.7906",
+    "id": "1450370442"
+  },
+  {
+    "city": "Bemaharivo",
+    "city_ascii": "Bemaharivo",
+    "admin_name": "Mahajanga",
+    "lat": "-16.1416",
+    "lng": "46.3934",
+    "id": "1450110716"
+  },
+  {
+    "city": "Anteza",
+    "city_ascii": "Anteza",
+    "admin_name": "Fianarantsoa",
+    "lat": "-21.6717",
+    "lng": "47.8446",
+    "id": "1450964830"
+  },
+  {
+    "city": "Bekopaka",
+    "city_ascii": "Bekopaka",
+    "admin_name": "Mahajanga",
+    "lat": "-19.1460",
+    "lng": "44.7931",
+    "id": "1450806419"
+  },
+  {
+    "city": "Antaly",
+    "city_ascii": "Antaly",
+    "admin_name": "Toliara",
+    "lat": "-24.3833",
+    "lng": "44.4000",
+    "id": "1450745641"
+  },
+  {
+    "city": "Anjialava",
+    "city_ascii": "Anjialava",
+    "admin_name": "Antsiranana",
+    "lat": "-14.0802",
+    "lng": "49.7271",
+    "id": "1450285791"
+  },
+  {
+    "city": "Ankarana-Miraihina",
+    "city_ascii": "Ankarana-Miraihina",
+    "admin_name": "Fianarantsoa",
+    "lat": "-23.0849",
+    "lng": "47.6302",
+    "id": "1450677715"
+  },
+  {
+    "city": "Tsaratanana",
+    "city_ascii": "Tsaratanana",
+    "admin_name": "Mahajanga",
+    "lat": "-15.6417",
+    "lng": "47.8491",
+    "id": "1450367041"
+  },
+  {
+    "city": "Antsaidoha-Bebao",
+    "city_ascii": "Antsaidoha-Bebao",
+    "admin_name": "Mahajanga",
+    "lat": "-17.3620",
+    "lng": "44.5452",
+    "id": "1450780797"
+  },
+  {
+    "city": "Nosibe",
+    "city_ascii": "Nosibe",
+    "admin_name": "Antsiranana",
+    "lat": "-13.1577",
+    "lng": "49.7934",
+    "id": "1450983657"
+  },
+  {
+    "city": "Soanierana",
+    "city_ascii": "Soanierana",
+    "admin_name": "Toliara",
+    "lat": "-25.0049",
+    "lng": "46.8906",
+    "id": "1450823872"
+  },
+  {
+    "city": "Ambatolahy",
+    "city_ascii": "Ambatolahy",
+    "admin_name": "Antananarivo",
+    "lat": "-19.7397",
+    "lng": "47.2847",
+    "id": "1450305568"
+  },
+  {
+    "city": "Soanenga",
+    "city_ascii": "Soanenga",
+    "admin_name": "Mahajanga",
+    "lat": "-16.5044",
+    "lng": "44.6111",
+    "id": "1450386206"
+  },
+  {
+    "city": "Mahabo",
+    "city_ascii": "Mahabo",
+    "admin_name": "Toliara",
+    "lat": "-24.2898",
+    "lng": "45.2230",
+    "id": "1450198675"
+  },
+  {
+    "city": "Manampaneva",
+    "city_ascii": "Manampaneva",
+    "admin_name": "Mahajanga",
+    "lat": "-16.0502",
+    "lng": "48.6817",
+    "id": "1450103713"
+  },
+  {
+    "city": "Manja",
+    "city_ascii": "Manja",
+    "admin_name": "Toliara",
+    "lat": "-21.4329",
+    "lng": "44.3333",
+    "id": "1450949899"
+  },
+  {
+    "city": "Ambinanin’ Andravory",
+    "city_ascii": "Ambinanin' Andravory",
+    "admin_name": "Antsiranana",
+    "lat": "-13.7728",
+    "lng": "49.7519",
+    "id": "1450604445"
+  },
+  {
+    "city": "Belinta",
+    "city_ascii": "Belinta",
+    "admin_name": "Toliara",
+    "lat": "-19.9537",
+    "lng": "45.1167",
+    "id": "1450423565"
+  },
+  {
+    "city": "Marovatolena",
+    "city_ascii": "Marovatolena",
+    "admin_name": "Mahajanga",
+    "lat": "-15.1890",
+    "lng": "47.6445",
+    "id": "1450130189"
+  },
+  {
+    "city": "Morarano",
+    "city_ascii": "Morarano",
+    "admin_name": "Antananarivo",
+    "lat": "-19.4280",
+    "lng": "47.4873",
+    "id": "1450779463"
+  },
+  {
+    "city": "Antsahavaribe",
+    "city_ascii": "Antsahavaribe",
+    "admin_name": "Antsiranana",
+    "lat": "-13.8564",
+    "lng": "49.8639",
+    "id": "1450134835"
+  },
+  {
+    "city": "Antseza",
+    "city_ascii": "Antseza",
+    "admin_name": "Mahajanga",
+    "lat": "-16.2142",
+    "lng": "45.8605",
+    "id": "1450090147"
+  },
+  {
+    "city": "Andribavontsona",
+    "city_ascii": "Andribavontsona",
+    "admin_name": "Mahajanga",
+    "lat": "-15.3860",
+    "lng": "47.5011",
+    "id": "1450250205"
+  },
+  {
+    "city": "Ankiliabo",
+    "city_ascii": "Ankiliabo",
+    "admin_name": "Toliara",
+    "lat": "-24.6843",
+    "lng": "44.7233",
+    "id": "1450784803"
+  },
+  {
+    "city": "Antanankambano",
+    "city_ascii": "Antanankambano",
+    "admin_name": "Fianarantsoa",
+    "lat": "-22.0606",
+    "lng": "47.4764",
+    "id": "1450483821"
+  },
+  {
+    "city": "Alakamisy-Ambohimahazo",
+    "city_ascii": "Alakamisy-Ambohimahazo",
+    "admin_name": "Fianarantsoa",
+    "lat": "-20.4082",
+    "lng": "47.3566",
+    "id": "1450823290"
+  },
+  {
+    "city": "Benato-Toby",
+    "city_ascii": "Benato-Toby",
+    "admin_name": "Toliara",
+    "lat": "-23.0853",
+    "lng": "45.8581",
+    "id": "1450266627"
+  },
+  {
+    "city": "Ankirihitra",
+    "city_ascii": "Ankirihitra",
+    "admin_name": "Mahajanga",
+    "lat": "-16.7715",
+    "lng": "46.4422",
+    "id": "1450483503"
+  },
+  {
+    "city": "Antsatramidola",
+    "city_ascii": "Antsatramidola",
+    "admin_name": "Mahajanga",
+    "lat": "-15.6334",
+    "lng": "48.9686",
+    "id": "1450037709"
+  },
+  {
+    "city": "Amboronabo",
+    "city_ascii": "Amboronabo",
+    "admin_name": "Toliara",
+    "lat": "-22.6759",
+    "lng": "44.3880",
+    "id": "1450915976"
+  },
+  {
+    "city": "Manevy",
+    "city_ascii": "Manevy",
+    "admin_name": "Toliara",
+    "lat": "-24.3901",
+    "lng": "46.8045",
+    "id": "1450343153"
+  },
+  {
+    "city": "Beparasy",
+    "city_ascii": "Beparasy",
+    "admin_name": "Toamasina",
+    "lat": "-19.1687",
+    "lng": "48.0338",
+    "id": "1450291288"
+  },
+  {
+    "city": "Tandrano",
+    "city_ascii": "Tandrano",
+    "admin_name": "Toliara",
+    "lat": "-22.0843",
+    "lng": "44.6385",
+    "id": "1450417140"
+  },
+  {
+    "city": "Fierenana",
+    "city_ascii": "Fierenana",
+    "admin_name": "Toamasina",
+    "lat": "-18.4833",
+    "lng": "48.4000",
+    "id": "1450717278"
+  },
+  {
+    "city": "Ambarimaninga",
+    "city_ascii": "Ambarimaninga",
+    "admin_name": "Mahajanga",
+    "lat": "-16.4941",
+    "lng": "46.0036",
+    "id": "1450371857"
+  },
+  {
+    "city": "Ambodimahabibo",
+    "city_ascii": "Ambodimahabibo",
+    "admin_name": "Mahajanga",
+    "lat": "-15.7320",
+    "lng": "48.1278",
+    "id": "1450192995"
+  },
+  {
+    "city": "Mahela",
+    "city_ascii": "Mahela",
+    "admin_name": "Toamasina",
+    "lat": "-19.4944",
+    "lng": "48.4866",
+    "id": "1450731467"
+  },
+  {
+    "city": "Amberomanga",
+    "city_ascii": "Amberomanga",
+    "admin_name": "Antananarivo",
+    "lat": "-19.2389",
+    "lng": "46.6152",
+    "id": "1450006485"
+  },
+  {
+    "city": "Ankatafa",
+    "city_ascii": "Ankatafa",
+    "admin_name": "Antsiranana",
+    "lat": "-13.6388",
+    "lng": "48.3704",
+    "id": "1450000267"
+  },
+  {
+    "city": "Anjahamarina",
+    "city_ascii": "Anjahamarina",
+    "admin_name": "Toamasina",
+    "lat": "-18.0510",
+    "lng": "49.2341",
+    "id": "1450675952"
+  },
+  {
+    "city": "Bekily",
+    "city_ascii": "Bekily",
+    "admin_name": "Toliara",
+    "lat": "-24.2162",
+    "lng": "45.3166",
+    "id": "1450655091"
+  },
+  {
+    "city": "Androka",
+    "city_ascii": "Androka",
+    "admin_name": "Toliara",
+    "lat": "-25.0219",
+    "lng": "44.0749",
+    "id": "1450495720"
+  }
+]

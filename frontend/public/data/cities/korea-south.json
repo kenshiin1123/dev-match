@@ -1,0 +1,826 @@
+[
+  {
+    "city": "Seoul",
+    "city_ascii": "Seoul",
+    "admin_name": "Seoul",
+    "lat": "37.5667",
+    "lng": "126.9833",
+    "id": "1410836482"
+  },
+  {
+    "city": "Busan",
+    "city_ascii": "Busan",
+    "admin_name": "Busan",
+    "lat": "35.1800",
+    "lng": "129.0750",
+    "id": "1410601465"
+  },
+  {
+    "city": "Incheon",
+    "city_ascii": "Incheon",
+    "admin_name": "Incheon",
+    "lat": "37.4833",
+    "lng": "126.6333",
+    "id": "1410160313"
+  },
+  {
+    "city": "Daegu",
+    "city_ascii": "Daegu",
+    "admin_name": "Daegu",
+    "lat": "35.8717",
+    "lng": "128.6017",
+    "id": "1410095252"
+  },
+  {
+    "city": "Gwangju",
+    "city_ascii": "Gwangju",
+    "admin_name": "Gwangju",
+    "lat": "35.1653",
+    "lng": "126.8486",
+    "id": "1410000087"
+  },
+  {
+    "city": "Daejeon",
+    "city_ascii": "Daejeon",
+    "admin_name": "Daejeon",
+    "lat": "36.3500",
+    "lng": "127.3850",
+    "id": "1410993875"
+  },
+  {
+    "city": "Suwon",
+    "city_ascii": "Suwon",
+    "admin_name": "Gyeonggi",
+    "lat": "37.2667",
+    "lng": "127.0167",
+    "id": "1410679777"
+  },
+  {
+    "city": "Ulsan",
+    "city_ascii": "Ulsan",
+    "admin_name": "Ulsan",
+    "lat": "35.5500",
+    "lng": "129.3167",
+    "id": "1410134602"
+  },
+  {
+    "city": "Tongjin",
+    "city_ascii": "Tongjin",
+    "admin_name": "Gyeonggi",
+    "lat": "37.2333",
+    "lng": "127.2000",
+    "id": "1410160862"
+  },
+  {
+    "city": "Goyang",
+    "city_ascii": "Goyang",
+    "admin_name": "Gyeonggi",
+    "lat": "37.6500",
+    "lng": "126.8000",
+    "id": "1410511255"
+  },
+  {
+    "city": "Changwon",
+    "city_ascii": "Changwon",
+    "admin_name": "Gyeongnam",
+    "lat": "35.2708",
+    "lng": "128.6631",
+    "id": "1410592618"
+  },
+  {
+    "city": "Hwasu-dong",
+    "city_ascii": "Hwasu-dong",
+    "admin_name": "Gyeonggi",
+    "lat": "37.1997",
+    "lng": "126.8314",
+    "id": "1410037247"
+  },
+  {
+    "city": "Sŏngnam",
+    "city_ascii": "Songnam",
+    "admin_name": "Gyeonggi",
+    "lat": "37.4333",
+    "lng": "127.1500",
+    "id": "1410622472"
+  },
+  {
+    "city": "Cheongju",
+    "city_ascii": "Cheongju",
+    "admin_name": "Chungbuk",
+    "lat": "36.6333",
+    "lng": "127.4833",
+    "id": "1410964361"
+  },
+  {
+    "city": "Bucheon",
+    "city_ascii": "Bucheon",
+    "admin_name": "Gyeonggi",
+    "lat": "37.5000",
+    "lng": "126.7833",
+    "id": "1410428222"
+  },
+  {
+    "city": "Yanggok",
+    "city_ascii": "Yanggok",
+    "admin_name": "Gyeonggi",
+    "lat": "37.6333",
+    "lng": "127.2167",
+    "id": "1410188674"
+  },
+  {
+    "city": "Ch’ŏnan",
+    "city_ascii": "Ch'onan",
+    "admin_name": "Chungnam",
+    "lat": "36.8100",
+    "lng": "127.1475",
+    "id": "1410020455"
+  },
+  {
+    "city": "Ansan",
+    "city_ascii": "Ansan",
+    "admin_name": "Gyeonggi",
+    "lat": "37.3167",
+    "lng": "126.8333",
+    "id": "1410585171"
+  },
+  {
+    "city": "Kimhae",
+    "city_ascii": "Kimhae",
+    "admin_name": "Gyeongnam",
+    "lat": "35.2342",
+    "lng": "128.8811",
+    "id": "1410836094"
+  },
+  {
+    "city": "Pohang",
+    "city_ascii": "Pohang",
+    "admin_name": "Gyeongbuk",
+    "lat": "36.0322",
+    "lng": "129.3650",
+    "id": "1410983252"
+  },
+  {
+    "city": "Pyeongtaek",
+    "city_ascii": "Pyeongtaek",
+    "admin_name": "Gyeonggi",
+    "lat": "36.9922",
+    "lng": "127.1128",
+    "id": "1410641095"
+  },
+  {
+    "city": "Jeju",
+    "city_ascii": "Jeju",
+    "admin_name": "Jeju",
+    "lat": "33.5130",
+    "lng": "126.5230",
+    "id": "1410364424"
+  },
+  {
+    "city": "Sihŭng",
+    "city_ascii": "Sihung",
+    "admin_name": "Gyeonggi",
+    "lat": "37.3799",
+    "lng": "126.8029",
+    "id": "1410313432"
+  },
+  {
+    "city": "Uijeongbu",
+    "city_ascii": "Uijeongbu",
+    "admin_name": "Gyeonggi",
+    "lat": "37.7486",
+    "lng": "127.0389",
+    "id": "1410888678"
+  },
+  {
+    "city": "Paju",
+    "city_ascii": "Paju",
+    "admin_name": "Gyeonggi",
+    "lat": "37.8667",
+    "lng": "126.8000",
+    "id": "1410365324"
+  },
+  {
+    "city": "Kumi",
+    "city_ascii": "Kumi",
+    "admin_name": "Gyeongbuk",
+    "lat": "36.1195",
+    "lng": "128.3444",
+    "id": "1410638233"
+  },
+  {
+    "city": "Gwangju",
+    "city_ascii": "Gwangju",
+    "admin_name": "Gyeonggi",
+    "lat": "37.3667",
+    "lng": "127.2833",
+    "id": "1410978753"
+  },
+  {
+    "city": "Gimpo",
+    "city_ascii": "Gimpo",
+    "admin_name": "Gyeonggi",
+    "lat": "37.7000",
+    "lng": "126.6000",
+    "id": "1410797548"
+  },
+  {
+    "city": "Jeonju",
+    "city_ascii": "Jeonju",
+    "admin_name": "Jeonbuk",
+    "lat": "35.8167",
+    "lng": "127.1500",
+    "id": "1410494847"
+  },
+  {
+    "city": "Chinju",
+    "city_ascii": "Chinju",
+    "admin_name": "Gyeongnam",
+    "lat": "35.2000",
+    "lng": "128.0833",
+    "id": "1410560599"
+  },
+  {
+    "city": "Asan",
+    "city_ascii": "Asan",
+    "admin_name": "Chungnam",
+    "lat": "36.7836",
+    "lng": "127.0042",
+    "id": "1410521090"
+  },
+  {
+    "city": "Wŏnju",
+    "city_ascii": "Wonju",
+    "admin_name": "Gangwon",
+    "lat": "37.3417",
+    "lng": "127.9208",
+    "id": "1410782685"
+  },
+  {
+    "city": "Gwangmyeongni",
+    "city_ascii": "Gwangmyeongni",
+    "admin_name": "Gyeonggi",
+    "lat": "37.4760",
+    "lng": "126.8660",
+    "id": "1410103113"
+  },
+  {
+    "city": "Yangsan",
+    "city_ascii": "Yangsan",
+    "admin_name": "Gyeongnam",
+    "lat": "35.3333",
+    "lng": "129.0333",
+    "id": "1410795549"
+  },
+  {
+    "city": "Chuncheon",
+    "city_ascii": "Chuncheon",
+    "admin_name": "Gangwon",
+    "lat": "37.8667",
+    "lng": "127.7333",
+    "id": "1410231130"
+  },
+  {
+    "city": "Gyeongsan",
+    "city_ascii": "Gyeongsan",
+    "admin_name": "Gyeongbuk",
+    "lat": "35.8167",
+    "lng": "128.7333",
+    "id": "1410545168"
+  },
+  {
+    "city": "Kunsan",
+    "city_ascii": "Kunsan",
+    "admin_name": "Jeonbuk",
+    "lat": "35.9833",
+    "lng": "126.7167",
+    "id": "1410913202"
+  },
+  {
+    "city": "Yeosu",
+    "city_ascii": "Yeosu",
+    "admin_name": "Jeonnam",
+    "lat": "34.7607",
+    "lng": "127.6622",
+    "id": "1410698161"
+  },
+  {
+    "city": "Iksan",
+    "city_ascii": "Iksan",
+    "admin_name": "Jeonbuk",
+    "lat": "35.9439",
+    "lng": "126.9544",
+    "id": "1410134391"
+  },
+  {
+    "city": "Kunp’o",
+    "city_ascii": "Kunp'o",
+    "admin_name": "Gyeonggi",
+    "lat": "37.3500",
+    "lng": "126.9500",
+    "id": "1410672540"
+  },
+  {
+    "city": "Yeosu",
+    "city_ascii": "Yeosu",
+    "admin_name": "Jeonnam",
+    "lat": "34.7333",
+    "lng": "127.7333",
+    "id": "1410002025"
+  },
+  {
+    "city": "Suncheon",
+    "city_ascii": "Suncheon",
+    "admin_name": "Jeonnam",
+    "lat": "34.9506",
+    "lng": "127.4875",
+    "id": "1410109654"
+  },
+  {
+    "city": "Kyŏngju",
+    "city_ascii": "Kyongju",
+    "admin_name": "Gyeongbuk",
+    "lat": "35.8500",
+    "lng": "129.2167",
+    "id": "1410173146"
+  },
+  {
+    "city": "Anyang",
+    "city_ascii": "Anyang",
+    "admin_name": "Gyeonggi",
+    "lat": "37.3833",
+    "lng": "126.9333",
+    "id": "1410581095"
+  },
+  {
+    "city": "Mokpo",
+    "city_ascii": "Mokpo",
+    "admin_name": "Jeonnam",
+    "lat": "34.7589",
+    "lng": "126.3800",
+    "id": "1410279439"
+  },
+  {
+    "city": "Osan",
+    "city_ascii": "Osan",
+    "admin_name": "Gyeonggi",
+    "lat": "37.1498",
+    "lng": "127.0771",
+    "id": "1410606985"
+  },
+  {
+    "city": "Gangneung",
+    "city_ascii": "Gangneung",
+    "admin_name": "Gangwon",
+    "lat": "37.7500",
+    "lng": "128.9000",
+    "id": "1410450550"
+  },
+  {
+    "city": "Ich’ŏn",
+    "city_ascii": "Ich'on",
+    "admin_name": "Gyeonggi",
+    "lat": "37.2667",
+    "lng": "127.4333",
+    "id": "1410736435"
+  },
+  {
+    "city": "Chungju",
+    "city_ascii": "Chungju",
+    "admin_name": "Chungbuk",
+    "lat": "36.9667",
+    "lng": "127.9500",
+    "id": "1410333057"
+  },
+  {
+    "city": "Sejong",
+    "city_ascii": "Sejong",
+    "admin_name": "Sejong",
+    "lat": "36.4870",
+    "lng": "127.2822",
+    "id": "1410002592"
+  },
+  {
+    "city": "Anseong",
+    "city_ascii": "Anseong",
+    "admin_name": "Gyeonggi",
+    "lat": "37.0078",
+    "lng": "127.2797",
+    "id": "1410960903"
+  },
+  {
+    "city": "Guri",
+    "city_ascii": "Guri",
+    "admin_name": "Gyeonggi",
+    "lat": "37.6000",
+    "lng": "127.1500",
+    "id": "1410478813"
+  },
+  {
+    "city": "Masan",
+    "city_ascii": "Masan",
+    "admin_name": "Gyeongnam",
+    "lat": "35.1833",
+    "lng": "128.5500",
+    "id": "1410394650"
+  },
+  {
+    "city": "Tangjin",
+    "city_ascii": "Tangjin",
+    "admin_name": "Chungnam",
+    "lat": "36.8931",
+    "lng": "126.6281",
+    "id": "1410304730"
+  },
+  {
+    "city": "Sŏsan",
+    "city_ascii": "Sosan",
+    "admin_name": "Chungnam",
+    "lat": "36.7817",
+    "lng": "126.4522",
+    "id": "1410171679"
+  },
+  {
+    "city": "Pocheon",
+    "city_ascii": "Pocheon",
+    "admin_name": "Gyeonggi",
+    "lat": "37.8947",
+    "lng": "127.2002",
+    "id": "1410780187"
+  },
+  {
+    "city": "Ŭiwang",
+    "city_ascii": "Uiwang",
+    "admin_name": "Gyeonggi",
+    "lat": "37.3448",
+    "lng": "126.9683",
+    "id": "1410211816"
+  },
+  {
+    "city": "Hanam",
+    "city_ascii": "Hanam",
+    "admin_name": "Gyeonggi",
+    "lat": "37.5167",
+    "lng": "127.2000",
+    "id": "1410241338"
+  },
+  {
+    "city": "Seogwipo",
+    "city_ascii": "Seogwipo",
+    "admin_name": "Jeju",
+    "lat": "33.2497",
+    "lng": "126.56",
+    "id": "1410542763"
+  },
+  {
+    "city": "Andong",
+    "city_ascii": "Andong",
+    "admin_name": "Gyeongbuk",
+    "lat": "36.5592",
+    "lng": "128.7289",
+    "id": "1410095935"
+  },
+  {
+    "city": "Gwangyang",
+    "city_ascii": "Gwangyang",
+    "admin_name": "Jeonnam",
+    "lat": "34.9333",
+    "lng": "127.6833",
+    "id": "1410398748"
+  },
+  {
+    "city": "Jicheon",
+    "city_ascii": "Jicheon",
+    "admin_name": "Gyeongbuk",
+    "lat": "36.1333",
+    "lng": "128.1000",
+    "id": "1410269252"
+  },
+  {
+    "city": "Chech’ŏn",
+    "city_ascii": "Chech'on",
+    "admin_name": "Chungbuk",
+    "lat": "37.1333",
+    "lng": "128.2167",
+    "id": "1410470747"
+  },
+  {
+    "city": "Ch’ungmu",
+    "city_ascii": "Ch'ungmu",
+    "admin_name": "Gyeongnam",
+    "lat": "34.8333",
+    "lng": "128.4167",
+    "id": "1410257662"
+  },
+  {
+    "city": "Noksan",
+    "city_ascii": "Noksan",
+    "admin_name": "Chungnam",
+    "lat": "36.2039",
+    "lng": "127.0847",
+    "id": "1410179693"
+  },
+  {
+    "city": "Yŏju",
+    "city_ascii": "Yoju",
+    "admin_name": "Gyeonggi",
+    "lat": "37.3000",
+    "lng": "127.6333",
+    "id": "1410007012"
+  },
+  {
+    "city": "Sa-ch’on",
+    "city_ascii": "Sa-ch'on",
+    "admin_name": "Gyeongnam",
+    "lat": "35.0667",
+    "lng": "128.0833",
+    "id": "1410369367"
+  },
+  {
+    "city": "Jeonghae",
+    "city_ascii": "Jeonghae",
+    "admin_name": "Jeonbuk",
+    "lat": "35.5667",
+    "lng": "126.8500",
+    "id": "1410005963"
+  },
+  {
+    "city": "Yŏngju",
+    "city_ascii": "Yongju",
+    "admin_name": "Gyeongbuk",
+    "lat": "36.8058",
+    "lng": "128.6239",
+    "id": "1410990908"
+  },
+  {
+    "city": "Hosan",
+    "city_ascii": "Hosan",
+    "admin_name": "Chungnam",
+    "lat": "36.2000",
+    "lng": "127.0833",
+    "id": "1410009966"
+  },
+  {
+    "city": "Miryang",
+    "city_ascii": "Miryang",
+    "admin_name": "Gyeongnam",
+    "lat": "35.5000",
+    "lng": "128.7500",
+    "id": "1410001039"
+  },
+  {
+    "city": "Sangju",
+    "city_ascii": "Sangju",
+    "admin_name": "Gyeongbuk",
+    "lat": "36.4400",
+    "lng": "128.1700",
+    "id": "1410127055"
+  },
+  {
+    "city": "Boryeong",
+    "city_ascii": "Boryeong",
+    "admin_name": "Chungnam",
+    "lat": "36.3333",
+    "lng": "126.6167",
+    "id": "1410204364"
+  },
+  {
+    "city": "Dongducheon",
+    "city_ascii": "Dongducheon",
+    "admin_name": "Gyeonggi",
+    "lat": "37.9167",
+    "lng": "127.0667",
+    "id": "1410519938"
+  },
+  {
+    "city": "Naju",
+    "city_ascii": "Naju",
+    "admin_name": "Jeonnam",
+    "lat": "35.0333",
+    "lng": "126.7167",
+    "id": "1410651571"
+  },
+  {
+    "city": "Tonghae",
+    "city_ascii": "Tonghae",
+    "admin_name": "Gangwon",
+    "lat": "37.5248",
+    "lng": "129.1143",
+    "id": "1410110371"
+  },
+  {
+    "city": "Kimje",
+    "city_ascii": "Kimje",
+    "admin_name": "Jeonbuk",
+    "lat": "35.8017",
+    "lng": "126.8889",
+    "id": "1410051393"
+  },
+  {
+    "city": "Sokcho",
+    "city_ascii": "Sokcho",
+    "admin_name": "Gangwon",
+    "lat": "38.2069",
+    "lng": "128.5919",
+    "id": "1410921315"
+  },
+  {
+    "city": "Mun’gyŏng",
+    "city_ascii": "Mun'gyong",
+    "admin_name": "Gyeongbuk",
+    "lat": "36.5939",
+    "lng": "128.2014",
+    "id": "1410822576"
+  },
+  {
+    "city": "Samch’ŏk",
+    "city_ascii": "Samch'ok",
+    "admin_name": "Gangwon",
+    "lat": "37.4500",
+    "lng": "129.1650",
+    "id": "1410438648"
+  },
+  {
+    "city": "Pongnam",
+    "city_ascii": "Pongnam",
+    "admin_name": "Gyeonggi",
+    "lat": "37.2200",
+    "lng": "126.9494",
+    "id": "1410174724"
+  },
+  {
+    "city": "Gwacheon",
+    "city_ascii": "Gwacheon",
+    "admin_name": "Gyeonggi",
+    "lat": "37.4333",
+    "lng": "127.0000",
+    "id": "1410788896"
+  },
+  {
+    "city": "Haeryong",
+    "city_ascii": "Haeryong",
+    "admin_name": "Jeonnam",
+    "lat": "34.9131",
+    "lng": "127.5394",
+    "id": "1410002389"
+  },
+  {
+    "city": "Taebaek",
+    "city_ascii": "Taebaek",
+    "admin_name": "Gangwon",
+    "lat": "37.1667",
+    "lng": "128.9833",
+    "id": "1410565787"
+  },
+  {
+    "city": "Jeomchon",
+    "city_ascii": "Jeomchon",
+    "admin_name": "Chungbuk",
+    "lat": "36.6028",
+    "lng": "127.3042",
+    "id": "1410262248"
+  },
+  {
+    "city": "Yeonil",
+    "city_ascii": "Yeonil",
+    "admin_name": "Gyeongbuk",
+    "lat": "36.0000",
+    "lng": "129.3500",
+    "id": "1410520135"
+  },
+  {
+    "city": "Heunghae",
+    "city_ascii": "Heunghae",
+    "admin_name": "Gyeongbuk",
+    "lat": "36.1167",
+    "lng": "129.3500",
+    "id": "1410289558"
+  },
+  {
+    "city": "An’gang",
+    "city_ascii": "An'gang",
+    "admin_name": "Gyeongbuk",
+    "lat": "35.9900",
+    "lng": "129.2270",
+    "id": "1410507369"
+  },
+  {
+    "city": "Munsan",
+    "city_ascii": "Munsan",
+    "admin_name": "Gyeonggi",
+    "lat": "37.8529",
+    "lng": "126.7848",
+    "id": "1410851571"
+  },
+  {
+    "city": "Eonyang",
+    "city_ascii": "Eonyang",
+    "admin_name": "Ulsan",
+    "lat": "35.5667",
+    "lng": "129.1167",
+    "id": "1410589863"
+  },
+  {
+    "city": "Hayang",
+    "city_ascii": "Hayang",
+    "admin_name": "Gyeongbuk",
+    "lat": "35.9167",
+    "lng": "128.8167",
+    "id": "1410183086"
+  },
+  {
+    "city": "Hallim",
+    "city_ascii": "Hallim",
+    "admin_name": "Jeju",
+    "lat": "33.3729",
+    "lng": "126.2827",
+    "id": "1410693280"
+  },
+  {
+    "city": "Kujwa",
+    "city_ascii": "Kujwa",
+    "admin_name": "Jeju",
+    "lat": "33.5025",
+    "lng": "126.7944",
+    "id": "1410125260"
+  },
+  {
+    "city": "Ulchin",
+    "city_ascii": "Ulchin",
+    "admin_name": "Gyeongbuk",
+    "lat": "37.0020",
+    "lng": "129.4003",
+    "id": "1410704555"
+  },
+  {
+    "city": "Daean",
+    "city_ascii": "Daean",
+    "admin_name": "Ulsan",
+    "lat": "35.4038",
+    "lng": "129.2788",
+    "id": "1410996164"
+  },
+  {
+    "city": "Seonsan",
+    "city_ascii": "Seonsan",
+    "admin_name": "Chungbuk",
+    "lat": "37.0333",
+    "lng": "127.5167",
+    "id": "1410899882"
+  },
+  {
+    "city": "Eumseong",
+    "city_ascii": "Eumseong",
+    "admin_name": "Chungbuk",
+    "lat": "36.9353",
+    "lng": "127.6897",
+    "id": "1410812829"
+  },
+  {
+    "city": "Sapkyo",
+    "city_ascii": "Sapkyo",
+    "admin_name": "Chungnam",
+    "lat": "36.6864",
+    "lng": "126.7367",
+    "id": "1410000740"
+  },
+  {
+    "city": "P’yŏngch’ang",
+    "city_ascii": "P'yongch'ang",
+    "admin_name": "Gangwon",
+    "lat": "37.3675",
+    "lng": "128.3958",
+    "id": "1410797147"
+  },
+  {
+    "city": "Guryongpo",
+    "city_ascii": "Guryongpo",
+    "admin_name": "Gyeongbuk",
+    "lat": "35.9833",
+    "lng": "129.5500",
+    "id": "1410226868"
+  },
+  {
+    "city": "Seosaeng",
+    "city_ascii": "Seosaeng",
+    "admin_name": "Ulsan",
+    "lat": "35.3536",
+    "lng": "129.3303",
+    "id": "1410000467"
+  },
+  {
+    "city": "Muan",
+    "city_ascii": "Muan",
+    "admin_name": "Jeonnam",
+    "lat": "34.9897",
+    "lng": "126.4714",
+    "id": "1410001061"
+  },
+  {
+    "city": "Hongseong",
+    "city_ascii": "Hongseong",
+    "admin_name": "Chungnam",
+    "lat": "36.6009",
+    "lng": "126.6650",
+    "id": "1410822139"
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "city": "Dili",
+    "city_ascii": "Dili",
+    "admin_name": "Díli",
+    "lat": "-8.5594",
+    "lng": "125.5795",
+    "id": "1626308942"
+  },
+  {
+    "city": "Maliana",
+    "city_ascii": "Maliana",
+    "admin_name": "Bobonaro",
+    "lat": "-8.9917",
+    "lng": "125.2197",
+    "id": "1626637884"
+  },
+  {
+    "city": "Baucau",
+    "city_ascii": "Baucau",
+    "admin_name": "Baucau",
+    "lat": "-8.4757",
+    "lng": "126.4563",
+    "id": "1626835210"
+  },
+  {
+    "city": "Manatuto",
+    "city_ascii": "Manatuto",
+    "admin_name": "Manatuto",
+    "lat": "-8.5114",
+    "lng": "126.0131",
+    "id": "1626115337"
+  },
+  {
+    "city": "Gleno",
+    "city_ascii": "Gleno",
+    "admin_name": "Ermera",
+    "lat": "-8.7239",
+    "lng": "125.4361",
+    "id": "1626143485"
+  },
+  {
+    "city": "Viqueque",
+    "city_ascii": "Viqueque",
+    "admin_name": "Viqueque",
+    "lat": "-8.8575",
+    "lng": "126.3647",
+    "id": "1626768340"
+  },
+  {
+    "city": "Liquiçá",
+    "city_ascii": "Liquica",
+    "admin_name": "Likisá",
+    "lat": "-8.5875",
+    "lng": "125.3419",
+    "id": "1626054379"
+  },
+  {
+    "city": "Ainaro",
+    "city_ascii": "Ainaro",
+    "admin_name": "Ainaro",
+    "lat": "-8.9969",
+    "lng": "125.5050",
+    "id": "1626118494"
+  },
+  {
+    "city": "Same",
+    "city_ascii": "Same",
+    "admin_name": "Manufahi",
+    "lat": "-9.0042",
+    "lng": "125.6486",
+    "id": "1626402267"
+  },
+  {
+    "city": "Lospalos",
+    "city_ascii": "Lospalos",
+    "admin_name": "Lautém",
+    "lat": "-8.5217",
+    "lng": "126.9983",
+    "id": "1626878399"
+  },
+  {
+    "city": "Aileu",
+    "city_ascii": "Aileu",
+    "admin_name": "Aileu",
+    "lat": "-8.7281",
+    "lng": "125.5664",
+    "id": "1626766880"
+  },
+  {
+    "city": "Pante Macassar",
+    "city_ascii": "Pante Macassar",
+    "admin_name": "Oé-Cusse Ambeno",
+    "lat": "-9.2000",
+    "lng": "124.3833",
+    "id": "1626175417"
+  },
+  {
+    "city": "Suai",
+    "city_ascii": "Suai",
+    "admin_name": "Kovalima",
+    "lat": "-9.3129",
+    "lng": "125.2565",
+    "id": "1626458227"
+  }
+]

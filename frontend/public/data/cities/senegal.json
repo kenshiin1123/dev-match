@@ -1,0 +1,466 @@
+[
+  {
+    "city": "Dakar",
+    "city_ascii": "Dakar",
+    "admin_name": "Dakar",
+    "lat": "14.6726",
+    "lng": "-17.4320",
+    "id": "1686604760"
+  },
+  {
+    "city": "Pikine",
+    "city_ascii": "Pikine",
+    "admin_name": "Dakar",
+    "lat": "14.7440",
+    "lng": "-17.4021",
+    "id": "1686165071"
+  },
+  {
+    "city": "Touba",
+    "city_ascii": "Touba",
+    "admin_name": "Diourbel",
+    "lat": "14.8667",
+    "lng": "-15.8833",
+    "id": "1686956738"
+  },
+  {
+    "city": "Guédiawaye",
+    "city_ascii": "Guediawaye",
+    "admin_name": "Dakar",
+    "lat": "14.7724",
+    "lng": "-17.3884",
+    "id": "1686908896"
+  },
+  {
+    "city": "Rufisque",
+    "city_ascii": "Rufisque",
+    "admin_name": "Dakar",
+    "lat": "14.7140",
+    "lng": "-17.2723",
+    "id": "1686348669"
+  },
+  {
+    "city": "Mbour",
+    "city_ascii": "Mbour",
+    "admin_name": "Thiès",
+    "lat": "14.4104",
+    "lng": "-16.9649",
+    "id": "1686983171"
+  },
+  {
+    "city": "Kaolack",
+    "city_ascii": "Kaolack",
+    "admin_name": "Kaolack",
+    "lat": "14.1389",
+    "lng": "-16.0764",
+    "id": "1686256343"
+  },
+  {
+    "city": "Saint-Louis",
+    "city_ascii": "Saint-Louis",
+    "admin_name": "Saint-Louis",
+    "lat": "16.0333",
+    "lng": "-16.5000",
+    "id": "1686542859"
+  },
+  {
+    "city": "Thiès",
+    "city_ascii": "Thies",
+    "admin_name": "Thiès",
+    "lat": "14.7916",
+    "lng": "-16.9249",
+    "id": "1686527948"
+  },
+  {
+    "city": "Diourbel",
+    "city_ascii": "Diourbel",
+    "admin_name": "Diourbel",
+    "lat": "14.6550",
+    "lng": "-16.2314",
+    "id": "1686087214"
+  },
+  {
+    "city": "Richard-Toll",
+    "city_ascii": "Richard-Toll",
+    "admin_name": "Saint-Louis",
+    "lat": "16.4661",
+    "lng": "-15.6933",
+    "id": "1686778591"
+  },
+  {
+    "city": "Louga",
+    "city_ascii": "Louga",
+    "admin_name": "Louga",
+    "lat": "15.6167",
+    "lng": "-16.2167",
+    "id": "1686269931"
+  },
+  {
+    "city": "Tambacounda",
+    "city_ascii": "Tambacounda",
+    "admin_name": "Tambacounda",
+    "lat": "13.7689",
+    "lng": "-13.6672",
+    "id": "1686195160"
+  },
+  {
+    "city": "Ziguinchor",
+    "city_ascii": "Ziguinchor",
+    "admin_name": "Ziguinchor",
+    "lat": "12.5861",
+    "lng": "-16.2707",
+    "id": "1686273643"
+  },
+  {
+    "city": "Tivaouane",
+    "city_ascii": "Tivaouane",
+    "admin_name": "Thiès",
+    "lat": "14.9543",
+    "lng": "-16.8132",
+    "id": "1686949822"
+  },
+  {
+    "city": "Mbaké",
+    "city_ascii": "Mbake",
+    "admin_name": "Diourbel",
+    "lat": "14.7903",
+    "lng": "-15.9078",
+    "id": "1686440030"
+  },
+  {
+    "city": "Kolda",
+    "city_ascii": "Kolda",
+    "admin_name": "Kolda",
+    "lat": "12.8958",
+    "lng": "-14.9408",
+    "id": "1686219536"
+  },
+  {
+    "city": "Malikounda",
+    "city_ascii": "Malikounda",
+    "admin_name": "Thiès",
+    "lat": "14.4724",
+    "lng": "-16.9459",
+    "id": "1686723084"
+  },
+  {
+    "city": "Joal-Fadiout",
+    "city_ascii": "Joal-Fadiout",
+    "admin_name": "Thiès",
+    "lat": "14.1531",
+    "lng": "-16.8316",
+    "id": "1686150364"
+  },
+  {
+    "city": "Paoskoto",
+    "city_ascii": "Paoskoto",
+    "admin_name": "Kaolack",
+    "lat": "13.7833",
+    "lng": "-15.8167",
+    "id": "1686730236"
+  },
+  {
+    "city": "Kaffrine",
+    "city_ascii": "Kaffrine",
+    "admin_name": "Kaffrine",
+    "lat": "14.1016",
+    "lng": "-15.5467",
+    "id": "1686807341"
+  },
+  {
+    "city": "Bargny",
+    "city_ascii": "Bargny",
+    "admin_name": "Dakar",
+    "lat": "14.6944",
+    "lng": "-17.2306",
+    "id": "1686924256"
+  },
+  {
+    "city": "Dara",
+    "city_ascii": "Dara",
+    "admin_name": "Louga",
+    "lat": "15.3508",
+    "lng": "-15.4783",
+    "id": "1686515842"
+  },
+  {
+    "city": "Malème Hodar",
+    "city_ascii": "Maleme Hodar",
+    "admin_name": "Kaffrine",
+    "lat": "14.0883",
+    "lng": "-15.2944",
+    "id": "1686577434"
+  },
+  {
+    "city": "Nguékhokh",
+    "city_ascii": "Nguekhokh",
+    "admin_name": "Thiès",
+    "lat": "14.5088",
+    "lng": "-17.0027",
+    "id": "1686782757"
+  },
+  {
+    "city": "Sali",
+    "city_ascii": "Sali",
+    "admin_name": "Thiès",
+    "lat": "14.4425",
+    "lng": "-17.0165",
+    "id": "1686109073"
+  },
+  {
+    "city": "Vélingara",
+    "city_ascii": "Velingara",
+    "admin_name": "Kolda",
+    "lat": "13.1500",
+    "lng": "-14.1167",
+    "id": "1686799000"
+  },
+  {
+    "city": "Mékhé",
+    "city_ascii": "Mekhe",
+    "admin_name": "Thiès",
+    "lat": "15.1135",
+    "lng": "-16.6316",
+    "id": "1686246700"
+  },
+  {
+    "city": "Bignona",
+    "city_ascii": "Bignona",
+    "admin_name": "Ziguinchor",
+    "lat": "12.8096",
+    "lng": "-16.2301",
+    "id": "1686478890"
+  },
+  {
+    "city": "Salémata",
+    "city_ascii": "Salemata",
+    "admin_name": "Kédougou",
+    "lat": "12.6333",
+    "lng": "-12.8167",
+    "id": "1686886935"
+  },
+  {
+    "city": "Kobilo",
+    "city_ascii": "Kobilo",
+    "admin_name": "Matam",
+    "lat": "15.9251",
+    "lng": "-13.5242",
+    "id": "1686275678"
+  },
+  {
+    "city": "Kébémer",
+    "city_ascii": "Kebemer",
+    "admin_name": "Louga",
+    "lat": "15.3667",
+    "lng": "-16.4333",
+    "id": "1686793316"
+  },
+  {
+    "city": "Sébikhotane",
+    "city_ascii": "Sebikhotane",
+    "admin_name": "Dakar",
+    "lat": "14.7428",
+    "lng": "-17.1419",
+    "id": "1686663994"
+  },
+  {
+    "city": "Fatick",
+    "city_ascii": "Fatick",
+    "admin_name": "Fatick",
+    "lat": "14.3167",
+    "lng": "-16.4167",
+    "id": "1686096548"
+  },
+  {
+    "city": "Dagana",
+    "city_ascii": "Dagana",
+    "admin_name": "Saint-Louis",
+    "lat": "16.4833",
+    "lng": "-15.6000",
+    "id": "1686270478"
+  },
+  {
+    "city": "Matam",
+    "city_ascii": "Matam",
+    "admin_name": "Matam",
+    "lat": "15.6167",
+    "lng": "-13.3333",
+    "id": "1686919750"
+  },
+  {
+    "city": "Nioro du Rip",
+    "city_ascii": "Nioro du Rip",
+    "admin_name": "Kaolack",
+    "lat": "13.7450",
+    "lng": "-15.7746",
+    "id": "1686812399"
+  },
+  {
+    "city": "Guinguinéo",
+    "city_ascii": "Guinguineo",
+    "admin_name": "Fatick",
+    "lat": "14.2667",
+    "lng": "-15.9500",
+    "id": "1686164172"
+  },
+  {
+    "city": "Khombole",
+    "city_ascii": "Khombole",
+    "admin_name": "Thiès",
+    "lat": "14.7629",
+    "lng": "-16.6909",
+    "id": "1686305401"
+  },
+  {
+    "city": "Linguère",
+    "city_ascii": "Linguere",
+    "admin_name": "Louga",
+    "lat": "15.3833",
+    "lng": "-15.2167",
+    "id": "1686531921"
+  },
+  {
+    "city": "Koungheul",
+    "city_ascii": "Koungheul",
+    "admin_name": "Kaffrine",
+    "lat": "13.9667",
+    "lng": "-14.8053",
+    "id": "1686554670"
+  },
+  {
+    "city": "Bakel",
+    "city_ascii": "Bakel",
+    "admin_name": "Tambacounda",
+    "lat": "14.9042",
+    "lng": "-12.4583",
+    "id": "1686470120"
+  },
+  {
+    "city": "Tiadiaye",
+    "city_ascii": "Tiadiaye",
+    "admin_name": "Thiès",
+    "lat": "14.4209",
+    "lng": "-16.7061",
+    "id": "1686233081"
+  },
+  {
+    "city": "Sokone",
+    "city_ascii": "Sokone",
+    "admin_name": "Fatick",
+    "lat": "13.8780",
+    "lng": "-16.3700",
+    "id": "1686985910"
+  },
+  {
+    "city": "Goudomp",
+    "city_ascii": "Goudomp",
+    "admin_name": "Sédhiou",
+    "lat": "12.5778",
+    "lng": "-15.8722",
+    "id": "1686688910"
+  },
+  {
+    "city": "Kanel",
+    "city_ascii": "Kanel",
+    "admin_name": "Matam",
+    "lat": "15.4833",
+    "lng": "-13.1667",
+    "id": "1686649291"
+  },
+  {
+    "city": "Mboro",
+    "city_ascii": "Mboro",
+    "admin_name": "Thiès",
+    "lat": "15.1327",
+    "lng": "-16.8768",
+    "id": "1686694714"
+  },
+  {
+    "city": "Ross-Bétio",
+    "city_ascii": "Ross-Betio",
+    "admin_name": "Saint-Louis",
+    "lat": "16.2793",
+    "lng": "-16.1398",
+    "id": "1686215885"
+  },
+  {
+    "city": "Kédougou",
+    "city_ascii": "Kedougou",
+    "admin_name": "Kédougou",
+    "lat": "12.5556",
+    "lng": "-12.1807",
+    "id": "1686320341"
+  },
+  {
+    "city": "Guéoul",
+    "city_ascii": "Gueoul",
+    "admin_name": "Louga",
+    "lat": "15.4833",
+    "lng": "-16.3500",
+    "id": "1686714378"
+  },
+  {
+    "city": "Diamniadio",
+    "city_ascii": "Diamniadio",
+    "admin_name": "Dakar",
+    "lat": "14.7199",
+    "lng": "-17.1842",
+    "id": "1686338473"
+  },
+  {
+    "city": "Thilogne",
+    "city_ascii": "Thilogne",
+    "admin_name": "Matam",
+    "lat": "15.9659",
+    "lng": "-13.5916",
+    "id": "1686563185"
+  },
+  {
+    "city": "Kidira",
+    "city_ascii": "Kidira",
+    "admin_name": "Tambacounda",
+    "lat": "14.4574",
+    "lng": "-12.2106",
+    "id": "1686929871"
+  },
+  {
+    "city": "Diabougou",
+    "city_ascii": "Diabougou",
+    "admin_name": "Tambacounda",
+    "lat": "14.5431",
+    "lng": "-12.2186",
+    "id": "1686174513"
+  },
+  {
+    "city": "Koumpentoum",
+    "city_ascii": "Koumpentoum",
+    "admin_name": "Tambacounda",
+    "lat": "13.9833",
+    "lng": "-14.5667",
+    "id": "1686285510"
+  },
+  {
+    "city": "Ngaparou",
+    "city_ascii": "Ngaparou",
+    "admin_name": "Thiès",
+    "lat": "14.4642",
+    "lng": "-17.0562",
+    "id": "1686694843"
+  },
+  {
+    "city": "Tionk Essil",
+    "city_ascii": "Tionk Essil",
+    "admin_name": "Ziguinchor",
+    "lat": "12.7856",
+    "lng": "-16.5217",
+    "id": "1686842039"
+  },
+  {
+    "city": "Sédhiou",
+    "city_ascii": "Sedhiou",
+    "admin_name": "Sédhiou",
+    "lat": "12.7081",
+    "lng": "-15.5569",
+    "id": "1686107428"
+  }
+]

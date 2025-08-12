@@ -1,0 +1,274 @@
+[
+  {
+    "city": "Amman",
+    "city_ascii": "Amman",
+    "admin_name": "Al ‘Āşimah",
+    "lat": "31.9497",
+    "lng": "35.9328",
+    "id": "1400522593"
+  },
+  {
+    "city": "Al Mafraq",
+    "city_ascii": "Al Mafraq",
+    "admin_name": "Al Mafraq",
+    "lat": "32.3399",
+    "lng": "36.2052",
+    "id": "1400040712"
+  },
+  {
+    "city": "Irbid",
+    "city_ascii": "Irbid",
+    "admin_name": "Irbid",
+    "lat": "32.5500",
+    "lng": "35.8500",
+    "id": "1400221568"
+  },
+  {
+    "city": "Az Zarqā’",
+    "city_ascii": "Az Zarqa'",
+    "admin_name": "Az Zarqā’",
+    "lat": "32.0833",
+    "lng": "36.1000",
+    "id": "1400161837"
+  },
+  {
+    "city": "Ar Ruşayfah",
+    "city_ascii": "Ar Rusayfah",
+    "admin_name": "Az Zarqā’",
+    "lat": "32.0178",
+    "lng": "36.0464",
+    "id": "1400369457"
+  },
+  {
+    "city": "Al Juwayyidah",
+    "city_ascii": "Al Juwayyidah",
+    "admin_name": "Al ‘Āşimah",
+    "lat": "31.9167",
+    "lng": "35.9500",
+    "id": "1400206772"
+  },
+  {
+    "city": "Saḩāb",
+    "city_ascii": "Sahab",
+    "admin_name": "Al ‘Āşimah",
+    "lat": "31.8667",
+    "lng": "36.0000",
+    "id": "1400064688"
+  },
+  {
+    "city": "Ar Ramthā",
+    "city_ascii": "Ar Ramtha",
+    "admin_name": "Irbid",
+    "lat": "32.5589",
+    "lng": "36.0147",
+    "id": "1400675695"
+  },
+  {
+    "city": "‘Ajlūn",
+    "city_ascii": "`Ajlun",
+    "admin_name": "‘Ajlūn",
+    "lat": "32.3325",
+    "lng": "35.7517",
+    "id": "1400775371"
+  },
+  {
+    "city": "Al ‘Aqabah",
+    "city_ascii": "Al `Aqabah",
+    "admin_name": "Al ‘Aqabah",
+    "lat": "29.5322",
+    "lng": "35.0061",
+    "id": "1400618058"
+  },
+  {
+    "city": "Al Jīzah",
+    "city_ascii": "Al Jizah",
+    "admin_name": "Al ‘Āşimah",
+    "lat": "31.6833",
+    "lng": "35.9500",
+    "id": "1400797654"
+  },
+  {
+    "city": "As Salţ",
+    "city_ascii": "As Salt",
+    "admin_name": "Al Balqā’",
+    "lat": "32.0333",
+    "lng": "35.7333",
+    "id": "1400470384"
+  },
+  {
+    "city": "Mādabā",
+    "city_ascii": "Madaba",
+    "admin_name": "Mādabā",
+    "lat": "31.7167",
+    "lng": "35.8000",
+    "id": "1400962992"
+  },
+  {
+    "city": "Jarash",
+    "city_ascii": "Jarash",
+    "admin_name": "Jarash",
+    "lat": "32.2806",
+    "lng": "35.8972",
+    "id": "1400505859"
+  },
+  {
+    "city": "Ma‘ān",
+    "city_ascii": "Ma`an",
+    "admin_name": "Ma‘ān",
+    "lat": "30.1962",
+    "lng": "35.7341",
+    "id": "1400670443"
+  },
+  {
+    "city": "Al Ḩişn",
+    "city_ascii": "Al Hisn",
+    "admin_name": "Irbid",
+    "lat": "32.4583",
+    "lng": "35.8583",
+    "id": "1400378169"
+  },
+  {
+    "city": "Aţ Ţurrah",
+    "city_ascii": "At Turrah",
+    "admin_name": "Irbid",
+    "lat": "32.6368",
+    "lng": "35.9900",
+    "id": "1400078308"
+  },
+  {
+    "city": "Dayr Abū Sa‘īd",
+    "city_ascii": "Dayr Abu Sa`id",
+    "admin_name": "Irbid",
+    "lat": "32.5025",
+    "lng": "35.6922",
+    "id": "1400352428"
+  },
+  {
+    "city": "Ash Shajarah",
+    "city_ascii": "Ash Shajarah",
+    "admin_name": "Irbid",
+    "lat": "32.6417",
+    "lng": "35.9417",
+    "id": "1400450578"
+  },
+  {
+    "city": "Mu’tah",
+    "city_ascii": "Mu'tah",
+    "admin_name": "Al Karak",
+    "lat": "31.1000",
+    "lng": "35.7000",
+    "id": "1400088878"
+  },
+  {
+    "city": "Ash Shūnah ash Shamālīyah",
+    "city_ascii": "Ash Shunah ash Shamaliyah",
+    "admin_name": "Irbid",
+    "lat": "32.6100",
+    "lng": "35.6081",
+    "id": "1400135383"
+  },
+  {
+    "city": "Aţ Ţafīlah",
+    "city_ascii": "At Tafilah",
+    "admin_name": "Aţ Ţafīlah",
+    "lat": "30.8375",
+    "lng": "35.6044",
+    "id": "1400134505"
+  },
+  {
+    "city": "Al Fuḩayş",
+    "city_ascii": "Al Fuhays",
+    "admin_name": "Al Balqā’",
+    "lat": "32.0167",
+    "lng": "35.7667",
+    "id": "1400712553"
+  },
+  {
+    "city": "Al Karak",
+    "city_ascii": "Al Karak",
+    "admin_name": "Al Karak",
+    "lat": "31.1833",
+    "lng": "35.7000",
+    "id": "1400073941"
+  },
+  {
+    "city": "Şammā",
+    "city_ascii": "Samma",
+    "admin_name": "Irbid",
+    "lat": "32.5700",
+    "lng": "35.6900",
+    "id": "1400057552"
+  },
+  {
+    "city": "Kafr al Mā’",
+    "city_ascii": "Kafr al Ma'",
+    "admin_name": "Irbid",
+    "lat": "32.4839",
+    "lng": "35.6969",
+    "id": "1400252485"
+  },
+  {
+    "city": "Māḩiş",
+    "city_ascii": "Mahis",
+    "admin_name": "Al Balqā’",
+    "lat": "31.9833",
+    "lng": "35.7667",
+    "id": "1400449886"
+  },
+  {
+    "city": "Al Mazār ash Shamālī",
+    "city_ascii": "Al Mazar ash Shamali",
+    "admin_name": "Irbid",
+    "lat": "32.4725",
+    "lng": "35.7928",
+    "id": "1400714744"
+  },
+  {
+    "city": "Muthallath al Azraq",
+    "city_ascii": "Muthallath al Azraq",
+    "admin_name": "Az Zarqā’",
+    "lat": "31.8342",
+    "lng": "36.8150",
+    "id": "1400807685"
+  },
+  {
+    "city": "Kafr ‘Awān",
+    "city_ascii": "Kafr `Awan",
+    "admin_name": "Irbid",
+    "lat": "32.4167",
+    "lng": "35.6833",
+    "id": "1400261137"
+  },
+  {
+    "city": "Malkā",
+    "city_ascii": "Malka",
+    "admin_name": "Irbid",
+    "lat": "32.6653",
+    "lng": "35.7333",
+    "id": "1400950108"
+  },
+  {
+    "city": "Sākib",
+    "city_ascii": "Sakib",
+    "admin_name": "Jarash",
+    "lat": "32.2854",
+    "lng": "35.8113",
+    "id": "1400579775"
+  },
+  {
+    "city": "Buşayrā",
+    "city_ascii": "Busayra",
+    "admin_name": "Aţ Ţafīlah",
+    "lat": "30.7326",
+    "lng": "35.6094",
+    "id": "1400361602"
+  },
+  {
+    "city": "Ḩalāwah",
+    "city_ascii": "Halawah",
+    "admin_name": "‘Ajlūn",
+    "lat": "32.3828",
+    "lng": "35.6619",
+    "id": "1400561057"
+  }
+]

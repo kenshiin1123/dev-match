@@ -1,0 +1,3698 @@
+[
+  {
+    "city": "Kyiv",
+    "city_ascii": "Kyiv",
+    "admin_name": "Kyiv, Misto",
+    "lat": "50.4500",
+    "lng": "30.5233",
+    "id": "1804382913"
+  },
+  {
+    "city": "Kharkiv",
+    "city_ascii": "Kharkiv",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.9925",
+    "lng": "36.2311",
+    "id": "1804588111"
+  },
+  {
+    "city": "Odesa",
+    "city_ascii": "Odesa",
+    "admin_name": "Odeska Oblast",
+    "lat": "46.4920",
+    "lng": "30.7081",
+    "id": "1804178102"
+  },
+  {
+    "city": "Dnipro",
+    "city_ascii": "Dnipro",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.4675",
+    "lng": "35.0400",
+    "id": "1804152933"
+  },
+  {
+    "city": "Donetsk",
+    "city_ascii": "Donetsk",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.0028",
+    "lng": "37.8053",
+    "id": "1804963805"
+  },
+  {
+    "city": "Lviv",
+    "city_ascii": "Lviv",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.8425",
+    "lng": "24.0322",
+    "id": "1804939658"
+  },
+  {
+    "city": "Zaporizhzhia",
+    "city_ascii": "Zaporizhzhia",
+    "admin_name": "Zaporizka Oblast",
+    "lat": "47.8500",
+    "lng": "35.1175",
+    "id": "1804644752"
+  },
+  {
+    "city": "Bazal’tove",
+    "city_ascii": "Bazal'tove",
+    "admin_name": "Rivnenska Oblast",
+    "lat": "50.6765",
+    "lng": "26.1600",
+    "id": "1804864050"
+  },
+  {
+    "city": "Kryvyi Rih",
+    "city_ascii": "Kryvyi Rih",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "47.9100",
+    "lng": "33.3900",
+    "id": "1804544901"
+  },
+  {
+    "city": "Sevastopol",
+    "city_ascii": "Sevastopol",
+    "admin_name": "Sevastopol, Misto",
+    "lat": "44.6050",
+    "lng": "33.5225",
+    "id": "1804806030"
+  },
+  {
+    "city": "Mykolaiv",
+    "city_ascii": "Mykolaiv",
+    "admin_name": "Mykolaivska Oblast",
+    "lat": "46.9750",
+    "lng": "31.9950",
+    "id": "1804398395"
+  },
+  {
+    "city": "Luhansk",
+    "city_ascii": "Luhansk",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.5678",
+    "lng": "39.3031",
+    "id": "1804688214"
+  },
+  {
+    "city": "Vinnytsia",
+    "city_ascii": "Vinnytsia",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "49.2333",
+    "lng": "28.4833",
+    "id": "1804658571"
+  },
+  {
+    "city": "Makiivka",
+    "city_ascii": "Makiivka",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.0556",
+    "lng": "37.9611",
+    "id": "1804926154"
+  },
+  {
+    "city": "Simferopol",
+    "city_ascii": "Simferopol",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "44.9519",
+    "lng": "34.1022",
+    "id": "1804665958"
+  },
+  {
+    "city": "Chernihiv",
+    "city_ascii": "Chernihiv",
+    "admin_name": "Chernihivska Oblast",
+    "lat": "51.4939",
+    "lng": "31.2947",
+    "id": "1804565996"
+  },
+  {
+    "city": "Poltava",
+    "city_ascii": "Poltava",
+    "admin_name": "Poltavska Oblast",
+    "lat": "49.5894",
+    "lng": "34.5514",
+    "id": "1804547489"
+  },
+  {
+    "city": "Kherson",
+    "city_ascii": "Kherson",
+    "admin_name": "Khersonska Oblast",
+    "lat": "46.6425",
+    "lng": "32.6250",
+    "id": "1804514036"
+  },
+  {
+    "city": "Khmelnytskyi",
+    "city_ascii": "Khmelnytskyi",
+    "admin_name": "Khmelnytska Oblast",
+    "lat": "49.4167",
+    "lng": "27.0000",
+    "id": "1804347108"
+  },
+  {
+    "city": "Cherkasy",
+    "city_ascii": "Cherkasy",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "49.4444",
+    "lng": "32.0597",
+    "id": "1804459212"
+  },
+  {
+    "city": "Chernivtsi",
+    "city_ascii": "Chernivtsi",
+    "admin_name": "Chernivetska Oblast",
+    "lat": "48.3000",
+    "lng": "25.9333",
+    "id": "1804652872"
+  },
+  {
+    "city": "Zhytomyr",
+    "city_ascii": "Zhytomyr",
+    "admin_name": "Zhytomyrska Oblast",
+    "lat": "50.2500",
+    "lng": "28.6667",
+    "id": "1804540656"
+  },
+  {
+    "city": "Sumy",
+    "city_ascii": "Sumy",
+    "admin_name": "Sumska Oblast",
+    "lat": "50.9119",
+    "lng": "34.8028",
+    "id": "1804489982"
+  },
+  {
+    "city": "Rivne",
+    "city_ascii": "Rivne",
+    "admin_name": "Rivnenska Oblast",
+    "lat": "50.6192",
+    "lng": "26.2519",
+    "id": "1804144712"
+  },
+  {
+    "city": "Horlivka",
+    "city_ascii": "Horlivka",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.3000",
+    "lng": "38.0500",
+    "id": "1804235146"
+  },
+  {
+    "city": "Ivano-Frankivsk",
+    "city_ascii": "Ivano-Frankivsk",
+    "admin_name": "Ivano-Frankivska Oblast",
+    "lat": "48.9228",
+    "lng": "24.7106",
+    "id": "1804208152"
+  },
+  {
+    "city": "Kamianske",
+    "city_ascii": "Kamianske",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.5167",
+    "lng": "34.6133",
+    "id": "1804033242"
+  },
+  {
+    "city": "Ternopil",
+    "city_ascii": "Ternopil",
+    "admin_name": "Ternopilska Oblast",
+    "lat": "49.5667",
+    "lng": "25.6000",
+    "id": "1804000146"
+  },
+  {
+    "city": "Lutsk",
+    "city_ascii": "Lutsk",
+    "admin_name": "Volynska Oblast",
+    "lat": "50.7500",
+    "lng": "25.3358",
+    "id": "1804014744"
+  },
+  {
+    "city": "Kropyvnytskyi",
+    "city_ascii": "Kropyvnytskyi",
+    "admin_name": "Kirovohradska Oblast",
+    "lat": "48.5000",
+    "lng": "32.2667",
+    "id": "1804374492"
+  },
+  {
+    "city": "Kremenchuk",
+    "city_ascii": "Kremenchuk",
+    "admin_name": "Poltavska Oblast",
+    "lat": "49.0631",
+    "lng": "33.4039",
+    "id": "1804343754"
+  },
+  {
+    "city": "Bila Tserkva",
+    "city_ascii": "Bila Tserkva",
+    "admin_name": "Kyivska Oblast",
+    "lat": "49.7989",
+    "lng": "30.1153",
+    "id": "1804758853"
+  },
+  {
+    "city": "Kerch",
+    "city_ascii": "Kerch",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "45.3619",
+    "lng": "36.4711",
+    "id": "1804437456"
+  },
+  {
+    "city": "Melitopol",
+    "city_ascii": "Melitopol",
+    "admin_name": "Zaporizka Oblast",
+    "lat": "46.8489",
+    "lng": "35.3675",
+    "id": "1804906240"
+  },
+  {
+    "city": "Kramatorsk",
+    "city_ascii": "Kramatorsk",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.7392",
+    "lng": "37.5839",
+    "id": "1804461469"
+  },
+  {
+    "city": "Mariupol",
+    "city_ascii": "Mariupol",
+    "admin_name": "Donetska Oblast",
+    "lat": "47.0958",
+    "lng": "37.5494",
+    "id": "1804630021"
+  },
+  {
+    "city": "Uzhhorod",
+    "city_ascii": "Uzhhorod",
+    "admin_name": "Zakarpatska Oblast",
+    "lat": "48.6239",
+    "lng": "22.2950",
+    "id": "1804851697"
+  },
+  {
+    "city": "Brovary",
+    "city_ascii": "Brovary",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.5111",
+    "lng": "30.7900",
+    "id": "1804386597"
+  },
+  {
+    "city": "Berdiansk",
+    "city_ascii": "Berdiansk",
+    "admin_name": "Zaporizka Oblast",
+    "lat": "46.7556",
+    "lng": "36.7889",
+    "id": "1804599785"
+  },
+  {
+    "city": "Yevpatoriia",
+    "city_ascii": "Yevpatoriia",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "45.1939",
+    "lng": "33.3681",
+    "id": "1804279364"
+  },
+  {
+    "city": "Nikopol",
+    "city_ascii": "Nikopol",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "47.5667",
+    "lng": "34.4000",
+    "id": "1804000135"
+  },
+  {
+    "city": "Sloviansk",
+    "city_ascii": "Sloviansk",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.8533",
+    "lng": "37.6250",
+    "id": "1804877044"
+  },
+  {
+    "city": "Pavlohrad",
+    "city_ascii": "Pavlohrad",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.5167",
+    "lng": "35.8667",
+    "id": "1804162854"
+  },
+  {
+    "city": "Sievierodonetsk",
+    "city_ascii": "Sievierodonetsk",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.9481",
+    "lng": "38.4933",
+    "id": "1804577024"
+  },
+  {
+    "city": "Kamianets-Podilskyi",
+    "city_ascii": "Kamianets-Podilskyi",
+    "admin_name": "Khmelnytska Oblast",
+    "lat": "48.6833",
+    "lng": "26.5833",
+    "id": "1804779341"
+  },
+  {
+    "city": "Lysychansk",
+    "city_ascii": "Lysychansk",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.9167",
+    "lng": "38.4000",
+    "id": "1804673535"
+  },
+  {
+    "city": "Mukacheve",
+    "city_ascii": "Mukacheve",
+    "admin_name": "Zakarpatska Oblast",
+    "lat": "48.4500",
+    "lng": "22.7500",
+    "id": "1804401780"
+  },
+  {
+    "city": "Konotop",
+    "city_ascii": "Konotop",
+    "admin_name": "Sumska Oblast",
+    "lat": "51.2167",
+    "lng": "33.2000",
+    "id": "1804110853"
+  },
+  {
+    "city": "Uman",
+    "city_ascii": "Uman",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "48.7500",
+    "lng": "30.2167",
+    "id": "1804670442"
+  },
+  {
+    "city": "Krasnyi Luch",
+    "city_ascii": "Krasnyi Luch",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.1333",
+    "lng": "38.9333",
+    "id": "1804477928"
+  },
+  {
+    "city": "Khrustalnyi",
+    "city_ascii": "Khrustalnyi",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.1333",
+    "lng": "38.9333",
+    "id": "1804368412"
+  },
+  {
+    "city": "Yalta",
+    "city_ascii": "Yalta",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "44.4994",
+    "lng": "34.1700",
+    "id": "1804569428"
+  },
+  {
+    "city": "Yenakiieve",
+    "city_ascii": "Yenakiieve",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.2167",
+    "lng": "38.2000",
+    "id": "1804228533"
+  },
+  {
+    "city": "Oleksandriia",
+    "city_ascii": "Oleksandriia",
+    "admin_name": "Kirovohradska Oblast",
+    "lat": "48.6667",
+    "lng": "33.1167",
+    "id": "1804836321"
+  },
+  {
+    "city": "Stakhanov",
+    "city_ascii": "Stakhanov",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.5681",
+    "lng": "38.6586",
+    "id": "1804324480"
+  },
+  {
+    "city": "Drohobych",
+    "city_ascii": "Drohobych",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.3500",
+    "lng": "23.5000",
+    "id": "1804782563"
+  },
+  {
+    "city": "Berdychiv",
+    "city_ascii": "Berdychiv",
+    "admin_name": "Zhytomyrska Oblast",
+    "lat": "49.9000",
+    "lng": "28.5667",
+    "id": "1804788404"
+  },
+  {
+    "city": "Shostka",
+    "city_ascii": "Shostka",
+    "admin_name": "Sumska Oblast",
+    "lat": "51.8667",
+    "lng": "33.4833",
+    "id": "1804764606"
+  },
+  {
+    "city": "Bakhmut",
+    "city_ascii": "Bakhmut",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.5947",
+    "lng": "38.0008",
+    "id": "1804007616"
+  },
+  {
+    "city": "Izmail",
+    "city_ascii": "Izmail",
+    "admin_name": "Odeska Oblast",
+    "lat": "45.3517",
+    "lng": "28.8364",
+    "id": "1804652754"
+  },
+  {
+    "city": "Novomoskovsk",
+    "city_ascii": "Novomoskovsk",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.6333",
+    "lng": "35.2167",
+    "id": "1804952905"
+  },
+  {
+    "city": "Fedosiia",
+    "city_ascii": "Fedosiia",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "45.0342",
+    "lng": "35.3792",
+    "id": "1804677570"
+  },
+  {
+    "city": "Kovel",
+    "city_ascii": "Kovel",
+    "admin_name": "Volynska Oblast",
+    "lat": "51.2167",
+    "lng": "24.7167",
+    "id": "1804093604"
+  },
+  {
+    "city": "Kostiantynivka",
+    "city_ascii": "Kostiantynivka",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.5333",
+    "lng": "37.7167",
+    "id": "1804423855"
+  },
+  {
+    "city": "Nizhyn",
+    "city_ascii": "Nizhyn",
+    "admin_name": "Chernihivska Oblast",
+    "lat": "51.0381",
+    "lng": "31.8861",
+    "id": "1804714087"
+  },
+  {
+    "city": "Smila",
+    "city_ascii": "Smila",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "49.2336",
+    "lng": "31.8822",
+    "id": "1804490050"
+  },
+  {
+    "city": "Irpin",
+    "city_ascii": "Irpin",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.5167",
+    "lng": "30.2500",
+    "id": "1804919448"
+  },
+  {
+    "city": "Kalush",
+    "city_ascii": "Kalush",
+    "admin_name": "Ivano-Frankivska Oblast",
+    "lat": "49.0442",
+    "lng": "24.3597",
+    "id": "1804375295"
+  },
+  {
+    "city": "Chervonohrad",
+    "city_ascii": "Chervonohrad",
+    "admin_name": "Lvivska Oblast",
+    "lat": "50.3867",
+    "lng": "24.2289",
+    "id": "1804958186"
+  },
+  {
+    "city": "Boryspil",
+    "city_ascii": "Boryspil",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.3500",
+    "lng": "30.9500",
+    "id": "1804757407"
+  },
+  {
+    "city": "Dovzhansk",
+    "city_ascii": "Dovzhansk",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.0778",
+    "lng": "39.6472",
+    "id": "1804768565"
+  },
+  {
+    "city": "Pervomaisk",
+    "city_ascii": "Pervomaisk",
+    "admin_name": "Mykolaivska Oblast",
+    "lat": "48.0439",
+    "lng": "30.8500",
+    "id": "1804620055"
+  },
+  {
+    "city": "Korosten",
+    "city_ascii": "Korosten",
+    "admin_name": "Zhytomyrska Oblast",
+    "lat": "50.9500",
+    "lng": "28.6333",
+    "id": "1804648682"
+  },
+  {
+    "city": "Kolomyia",
+    "city_ascii": "Kolomyia",
+    "admin_name": "Ivano-Frankivska Oblast",
+    "lat": "48.5306",
+    "lng": "25.0403",
+    "id": "1804285171"
+  },
+  {
+    "city": "Stryi",
+    "city_ascii": "Stryi",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.2500",
+    "lng": "23.8500",
+    "id": "1804862811"
+  },
+  {
+    "city": "Chornomorsk",
+    "city_ascii": "Chornomorsk",
+    "admin_name": "Odeska Oblast",
+    "lat": "46.0000",
+    "lng": "18.0000",
+    "id": "1804199117"
+  },
+  {
+    "city": "Khartsyzk",
+    "city_ascii": "Khartsyzk",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.0428",
+    "lng": "38.1425",
+    "id": "1804780082"
+  },
+  {
+    "city": "Rubizhne",
+    "city_ascii": "Rubizhne",
+    "admin_name": "Luhanska Oblast",
+    "lat": "49.0100",
+    "lng": "38.3714",
+    "id": "1804246584"
+  },
+  {
+    "city": "Novohrad-Volynskyi",
+    "city_ascii": "Novohrad-Volynskyi",
+    "admin_name": "Zhytomyrska Oblast",
+    "lat": "50.5833",
+    "lng": "27.6333",
+    "id": "1804059567"
+  },
+  {
+    "city": "Druzhkivka",
+    "city_ascii": "Druzhkivka",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.6214",
+    "lng": "37.5278",
+    "id": "1804169216"
+  },
+  {
+    "city": "Chystiakove",
+    "city_ascii": "Chystiakove",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.0219",
+    "lng": "38.6264",
+    "id": "1804591771"
+  },
+  {
+    "city": "Lozova",
+    "city_ascii": "Lozova",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "48.8833",
+    "lng": "36.3833",
+    "id": "1804128755"
+  },
+  {
+    "city": "Enerhodar",
+    "city_ascii": "Enerhodar",
+    "admin_name": "Zaporizka Oblast",
+    "lat": "47.4989",
+    "lng": "34.6558",
+    "id": "1804819053"
+  },
+  {
+    "city": "Antratsyt",
+    "city_ascii": "Antratsyt",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.1192",
+    "lng": "39.0900",
+    "id": "1804312048"
+  },
+  {
+    "city": "Pryluky",
+    "city_ascii": "Pryluky",
+    "admin_name": "Chernihivska Oblast",
+    "lat": "50.5892",
+    "lng": "32.3856",
+    "id": "1804037997"
+  },
+  {
+    "city": "Horishni Plavni",
+    "city_ascii": "Horishni Plavni",
+    "admin_name": "Poltavska Oblast",
+    "lat": "49.0167",
+    "lng": "33.6667",
+    "id": "1804828787"
+  },
+  {
+    "city": "Novovolynsk",
+    "city_ascii": "Novovolynsk",
+    "admin_name": "Volynska Oblast",
+    "lat": "50.7333",
+    "lng": "24.1667",
+    "id": "1804052073"
+  },
+  {
+    "city": "Snizhne",
+    "city_ascii": "Snizhne",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.0283",
+    "lng": "38.7656",
+    "id": "1804966231"
+  },
+  {
+    "city": "Shakhtarsk",
+    "city_ascii": "Shakhtarsk",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.0469",
+    "lng": "38.4686",
+    "id": "1804275296"
+  },
+  {
+    "city": "Bilhorod-Dnistrovskyi",
+    "city_ascii": "Bilhorod-Dnistrovskyi",
+    "admin_name": "Odeska Oblast",
+    "lat": "46.1833",
+    "lng": "30.3500",
+    "id": "1804836080"
+  },
+  {
+    "city": "Okhtyrka",
+    "city_ascii": "Okhtyrka",
+    "admin_name": "Sumska Oblast",
+    "lat": "50.3030",
+    "lng": "34.8920",
+    "id": "1804074587"
+  },
+  {
+    "city": "Myrnohrad",
+    "city_ascii": "Myrnohrad",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.2911",
+    "lng": "37.2681",
+    "id": "1804762140"
+  },
+  {
+    "city": "Rovenky",
+    "city_ascii": "Rovenky",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.0711",
+    "lng": "39.3428",
+    "id": "1804938726"
+  },
+  {
+    "city": "Marhanets",
+    "city_ascii": "Marhanets",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "47.6447",
+    "lng": "34.6042",
+    "id": "1804303283"
+  },
+  {
+    "city": "Izium",
+    "city_ascii": "Izium",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.2128",
+    "lng": "37.2569",
+    "id": "1804385952"
+  },
+  {
+    "city": "Brianka",
+    "city_ascii": "Brianka",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.5133",
+    "lng": "38.6431",
+    "id": "1804124686"
+  },
+  {
+    "city": "Nova Kakhovka",
+    "city_ascii": "Nova Kakhovka",
+    "admin_name": "Khersonska Oblast",
+    "lat": "46.7550",
+    "lng": "33.3750",
+    "id": "1804166107"
+  },
+  {
+    "city": "Lubny",
+    "city_ascii": "Lubny",
+    "admin_name": "Poltavska Oblast",
+    "lat": "50.0167",
+    "lng": "33.0000",
+    "id": "1804740843"
+  },
+  {
+    "city": "Fastiv",
+    "city_ascii": "Fastiv",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.0833",
+    "lng": "29.9167",
+    "id": "1804739399"
+  },
+  {
+    "city": "Svitlovodsk",
+    "city_ascii": "Svitlovodsk",
+    "admin_name": "Kirovohradska Oblast",
+    "lat": "49.0503",
+    "lng": "33.2419",
+    "id": "1804885566"
+  },
+  {
+    "city": "Vyshneve",
+    "city_ascii": "Vyshneve",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.3869",
+    "lng": "30.3581",
+    "id": "1804783746"
+  },
+  {
+    "city": "Krasnodon",
+    "city_ascii": "Krasnodon",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.3000",
+    "lng": "39.7333",
+    "id": "1804346804"
+  },
+  {
+    "city": "Zhovti Vody",
+    "city_ascii": "Zhovti Vody",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.3500",
+    "lng": "33.5000",
+    "id": "1804788479"
+  },
+  {
+    "city": "Varash",
+    "city_ascii": "Varash",
+    "admin_name": "Rivnenska Oblast",
+    "lat": "51.3444",
+    "lng": "25.8508",
+    "id": "1804357890"
+  },
+  {
+    "city": "Shepetivka",
+    "city_ascii": "Shepetivka",
+    "admin_name": "Khmelnytska Oblast",
+    "lat": "50.1833",
+    "lng": "27.0667",
+    "id": "1804965832"
+  },
+  {
+    "city": "Podilsk",
+    "city_ascii": "Podilsk",
+    "admin_name": "Odeska Oblast",
+    "lat": "47.7419",
+    "lng": "29.5350",
+    "id": "1804566477"
+  },
+  {
+    "city": "Dzhankoi",
+    "city_ascii": "Dzhankoi",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "45.7086",
+    "lng": "34.3933",
+    "id": "1804654537"
+  },
+  {
+    "city": "Yuzhnoukrainsk",
+    "city_ascii": "Yuzhnoukrainsk",
+    "admin_name": "Mykolaivska Oblast",
+    "lat": "47.8217",
+    "lng": "31.1750",
+    "id": "1804000719"
+  },
+  {
+    "city": "Volodymyrivka",
+    "city_ascii": "Volodymyrivka",
+    "admin_name": "Volynska Oblast",
+    "lat": "50.8481",
+    "lng": "24.3222",
+    "id": "1804034095"
+  },
+  {
+    "city": "Myrhorod",
+    "city_ascii": "Myrhorod",
+    "admin_name": "Poltavska Oblast",
+    "lat": "49.9667",
+    "lng": "33.6000",
+    "id": "1804138671"
+  },
+  {
+    "city": "Romny",
+    "city_ascii": "Romny",
+    "admin_name": "Sumska Oblast",
+    "lat": "50.7500",
+    "lng": "33.4667",
+    "id": "1804386942"
+  },
+  {
+    "city": "Pokrov",
+    "city_ascii": "Pokrov",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "47.6533",
+    "lng": "34.0842",
+    "id": "1804743879"
+  },
+  {
+    "city": "Bucha",
+    "city_ascii": "Bucha",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.5464",
+    "lng": "30.2350",
+    "id": "1804587935"
+  },
+  {
+    "city": "Vasylkiv",
+    "city_ascii": "Vasylkiv",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.1783",
+    "lng": "30.3158",
+    "id": "1804342314"
+  },
+  {
+    "city": "Dubno",
+    "city_ascii": "Dubno",
+    "admin_name": "Rivnenska Oblast",
+    "lat": "50.3931",
+    "lng": "25.7350",
+    "id": "1804759407"
+  },
+  {
+    "city": "Netishyn",
+    "city_ascii": "Netishyn",
+    "admin_name": "Khmelnytska Oblast",
+    "lat": "50.3500",
+    "lng": "26.6333",
+    "id": "1804202140"
+  },
+  {
+    "city": "Pervomaisk",
+    "city_ascii": "Pervomaisk",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.6297",
+    "lng": "38.5619",
+    "id": "1804078779"
+  },
+  {
+    "city": "Slavuta",
+    "city_ascii": "Slavuta",
+    "admin_name": "Khmelnytska Oblast",
+    "lat": "50.3028",
+    "lng": "26.8683",
+    "id": "1804318397"
+  },
+  {
+    "city": "Kakhovka",
+    "city_ascii": "Kakhovka",
+    "admin_name": "Khersonska Oblast",
+    "lat": "46.7978",
+    "lng": "33.4750",
+    "id": "1804525373"
+  },
+  {
+    "city": "Boyarka",
+    "city_ascii": "Boyarka",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.3292",
+    "lng": "30.2886",
+    "id": "1804000125"
+  },
+  {
+    "city": "Sambir",
+    "city_ascii": "Sambir",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.5167",
+    "lng": "23.2028",
+    "id": "1804333942"
+  },
+  {
+    "city": "Yasynuvata",
+    "city_ascii": "Yasynuvata",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.1278",
+    "lng": "37.8625",
+    "id": "1804948935"
+  },
+  {
+    "city": "Starokostiantyniv",
+    "city_ascii": "Starokostiantyniv",
+    "admin_name": "Khmelnytska Oblast",
+    "lat": "49.7556",
+    "lng": "27.2208",
+    "id": "1804538955"
+  },
+  {
+    "city": "Zhmerynka",
+    "city_ascii": "Zhmerynka",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "49.0500",
+    "lng": "28.1000",
+    "id": "1804771070"
+  },
+  {
+    "city": "Voznesensk",
+    "city_ascii": "Voznesensk",
+    "admin_name": "Mykolaivska Oblast",
+    "lat": "47.5667",
+    "lng": "31.3000",
+    "id": "1804117559"
+  },
+  {
+    "city": "Obukhiv",
+    "city_ascii": "Obukhiv",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.1300",
+    "lng": "30.6567",
+    "id": "1804079919"
+  },
+  {
+    "city": "Yuzhne",
+    "city_ascii": "Yuzhne",
+    "admin_name": "Odeska Oblast",
+    "lat": "46.6300",
+    "lng": "31.1000",
+    "id": "1804000461"
+  },
+  {
+    "city": "Boryslav",
+    "city_ascii": "Boryslav",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.2892",
+    "lng": "23.4189",
+    "id": "1804511652"
+  },
+  {
+    "city": "Hlukhiv",
+    "city_ascii": "Hlukhiv",
+    "admin_name": "Sumska Oblast",
+    "lat": "51.6747",
+    "lng": "33.9133",
+    "id": "1804181345"
+  },
+  {
+    "city": "Novoyavorovskoye",
+    "city_ascii": "Novoyavorovskoye",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.9311",
+    "lng": "23.5731",
+    "id": "1804412448"
+  },
+  {
+    "city": "Chuhuiv",
+    "city_ascii": "Chuhuiv",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.8356",
+    "lng": "36.6864",
+    "id": "1804354882"
+  },
+  {
+    "city": "Kostopil",
+    "city_ascii": "Kostopil",
+    "admin_name": "Rivnenska Oblast",
+    "lat": "50.8833",
+    "lng": "26.4500",
+    "id": "1804484929"
+  },
+  {
+    "city": "Mohyliv-Podilskyi",
+    "city_ascii": "Mohyliv-Podilskyi",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "48.4500",
+    "lng": "27.7833",
+    "id": "1804578556"
+  },
+  {
+    "city": "Synelnykove",
+    "city_ascii": "Synelnykove",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.3178",
+    "lng": "35.5119",
+    "id": "1804535574"
+  },
+  {
+    "city": "Novyi Rozdil",
+    "city_ascii": "Novyi Rozdil",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.4697",
+    "lng": "24.1367",
+    "id": "1804473027"
+  },
+  {
+    "city": "Tokmak",
+    "city_ascii": "Tokmak",
+    "admin_name": "Zaporizka Oblast",
+    "lat": "47.2556",
+    "lng": "35.7056",
+    "id": "1804494597"
+  },
+  {
+    "city": "Ternivka",
+    "city_ascii": "Ternivka",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.5167",
+    "lng": "36.0000",
+    "id": "1804507506"
+  },
+  {
+    "city": "Alushta",
+    "city_ascii": "Alushta",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "44.6672",
+    "lng": "34.3978",
+    "id": "1804773543"
+  },
+  {
+    "city": "Sarny",
+    "city_ascii": "Sarny",
+    "admin_name": "Rivnenska Oblast",
+    "lat": "51.3372",
+    "lng": "26.6058",
+    "id": "1804767369"
+  },
+  {
+    "city": "Pervomaiskyi",
+    "city_ascii": "Pervomaiskyi",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.3869",
+    "lng": "36.2142",
+    "id": "1804863173"
+  },
+  {
+    "city": "Truskavets",
+    "city_ascii": "Truskavets",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.2806",
+    "lng": "23.5050",
+    "id": "1804322399"
+  },
+  {
+    "city": "Chortkiv",
+    "city_ascii": "Chortkiv",
+    "admin_name": "Ternopilska Oblast",
+    "lat": "49.0075",
+    "lng": "25.7906",
+    "id": "1804015197"
+  },
+  {
+    "city": "Dobropillia",
+    "city_ascii": "Dobropillia",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.4689",
+    "lng": "37.0828",
+    "id": "1804697742"
+  },
+  {
+    "city": "Khust",
+    "city_ascii": "Khust",
+    "admin_name": "Zakarpatska Oblast",
+    "lat": "48.1814",
+    "lng": "23.2978",
+    "id": "1804836391"
+  },
+  {
+    "city": "Bakhchysarai",
+    "city_ascii": "Bakhchysarai",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "44.7528",
+    "lng": "33.8608",
+    "id": "1804779344"
+  },
+  {
+    "city": "Khrestivka",
+    "city_ascii": "Khrestivka",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.1464",
+    "lng": "38.3606",
+    "id": "1804952819"
+  },
+  {
+    "city": "Zolotonosha",
+    "city_ascii": "Zolotonosha",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "49.6686",
+    "lng": "32.0422",
+    "id": "1804210857"
+  },
+  {
+    "city": "Pershotravens’k",
+    "city_ascii": "Pershotravens'k",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.3475",
+    "lng": "36.4017",
+    "id": "1804847334"
+  },
+  {
+    "city": "Khmilnyk",
+    "city_ascii": "Khmilnyk",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "49.5569",
+    "lng": "27.9572",
+    "id": "1804424011"
+  },
+  {
+    "city": "Kirovsk",
+    "city_ascii": "Kirovsk",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.6375",
+    "lng": "38.6428",
+    "id": "1804790912"
+  },
+  {
+    "city": "Holubivske",
+    "city_ascii": "Holubivske",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.6333",
+    "lng": "38.6500",
+    "id": "1804938302"
+  },
+  {
+    "city": "Kupiansk",
+    "city_ascii": "Kupiansk",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.7167",
+    "lng": "37.5833",
+    "id": "1804300255"
+  },
+  {
+    "city": "Balakliia",
+    "city_ascii": "Balakliia",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.4658",
+    "lng": "36.8678",
+    "id": "1804852516"
+  },
+  {
+    "city": "Pereyaslav-Khmel’nyts’kyy",
+    "city_ascii": "Pereyaslav-Khmel'nyts'kyy",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.0650",
+    "lng": "31.4450",
+    "id": "1804106305"
+  },
+  {
+    "city": "Yany Kapu",
+    "city_ascii": "Yany Kapu",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "45.9675",
+    "lng": "33.8003",
+    "id": "1804718701"
+  },
+  {
+    "city": "Sofiyivs’ka Borshchahivka",
+    "city_ascii": "Sofiyivs'ka Borshchahivka",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.4114",
+    "lng": "30.3692",
+    "id": "1804314606"
+  },
+  {
+    "city": "Haisyn",
+    "city_ascii": "Haisyn",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "48.8103",
+    "lng": "29.3842",
+    "id": "1804988265"
+  },
+  {
+    "city": "Vynohradiv",
+    "city_ascii": "Vynohradiv",
+    "admin_name": "Zakarpatska Oblast",
+    "lat": "48.1497",
+    "lng": "23.0250",
+    "id": "1804673048"
+  },
+  {
+    "city": "Malyn",
+    "city_ascii": "Malyn",
+    "admin_name": "Zhytomyrska Oblast",
+    "lat": "50.7689",
+    "lng": "29.2700",
+    "id": "1804889971"
+  },
+  {
+    "city": "Saky",
+    "city_ascii": "Saky",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "45.1336",
+    "lng": "33.5772",
+    "id": "1804485367"
+  },
+  {
+    "city": "Perevalsk",
+    "city_ascii": "Perevalsk",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.4333",
+    "lng": "38.8167",
+    "id": "1804106401"
+  },
+  {
+    "city": "Zdolbuniv",
+    "city_ascii": "Zdolbuniv",
+    "admin_name": "Rivnenska Oblast",
+    "lat": "50.5094",
+    "lng": "26.2597",
+    "id": "1804680410"
+  },
+  {
+    "city": "Slavutych",
+    "city_ascii": "Slavutych",
+    "admin_name": "Kyivska Oblast",
+    "lat": "51.5206",
+    "lng": "30.7569",
+    "id": "1804529063"
+  },
+  {
+    "city": "Armiansk",
+    "city_ascii": "Armiansk",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "46.1074",
+    "lng": "33.6919",
+    "id": "1804358362"
+  },
+  {
+    "city": "Debaltseve",
+    "city_ascii": "Debaltseve",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.3333",
+    "lng": "38.4000",
+    "id": "1804770987"
+  },
+  {
+    "city": "Korostyshiv",
+    "city_ascii": "Korostyshiv",
+    "admin_name": "Zhytomyrska Oblast",
+    "lat": "50.3167",
+    "lng": "29.0667",
+    "id": "1804003590"
+  },
+  {
+    "city": "Oleshky",
+    "city_ascii": "Oleshky",
+    "admin_name": "Khersonska Oblast",
+    "lat": "46.6167",
+    "lng": "32.7167",
+    "id": "1804351272"
+  },
+  {
+    "city": "Zolochiv",
+    "city_ascii": "Zolochiv",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.8075",
+    "lng": "24.9031",
+    "id": "1804914979"
+  },
+  {
+    "city": "Lebedyn",
+    "city_ascii": "Lebedyn",
+    "admin_name": "Sumska Oblast",
+    "lat": "50.5831",
+    "lng": "34.4822",
+    "id": "1804576509"
+  },
+  {
+    "city": "Pesochin",
+    "city_ascii": "Pesochin",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.9594",
+    "lng": "36.1108",
+    "id": "1804680478"
+  },
+  {
+    "city": "Berehove",
+    "city_ascii": "Berehove",
+    "admin_name": "Zakarpatska Oblast",
+    "lat": "48.2056",
+    "lng": "22.6472",
+    "id": "1804040318"
+  },
+  {
+    "city": "Polonne",
+    "city_ascii": "Polonne",
+    "admin_name": "Khmelnytska Oblast",
+    "lat": "50.1200",
+    "lng": "27.5078",
+    "id": "1804361206"
+  },
+  {
+    "city": "Kaniv",
+    "city_ascii": "Kaniv",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "49.7500",
+    "lng": "31.4667",
+    "id": "1804910839"
+  },
+  {
+    "city": "Brody",
+    "city_ascii": "Brody",
+    "admin_name": "Lvivska Oblast",
+    "lat": "50.0831",
+    "lng": "25.1477",
+    "id": "1804538798"
+  },
+  {
+    "city": "Vyshhorod",
+    "city_ascii": "Vyshhorod",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.5833",
+    "lng": "30.5000",
+    "id": "1804392856"
+  },
+  {
+    "city": "Hadyach",
+    "city_ascii": "Hadyach",
+    "admin_name": "Poltavska Oblast",
+    "lat": "50.3667",
+    "lng": "34.0000",
+    "id": "1804805894"
+  },
+  {
+    "city": "Dokuchaievsk",
+    "city_ascii": "Dokuchaievsk",
+    "admin_name": "Donetska Oblast",
+    "lat": "47.7519",
+    "lng": "37.6783",
+    "id": "1804462209"
+  },
+  {
+    "city": "Nadvirna",
+    "city_ascii": "Nadvirna",
+    "admin_name": "Ivano-Frankivska Oblast",
+    "lat": "48.6333",
+    "lng": "24.5833",
+    "id": "1804082259"
+  },
+  {
+    "city": "Ladyzhyn",
+    "city_ascii": "Ladyzhyn",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "48.6667",
+    "lng": "29.2500",
+    "id": "1804829324"
+  },
+  {
+    "city": "Molodohvardiisk",
+    "city_ascii": "Molodohvardiisk",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.3444",
+    "lng": "39.6583",
+    "id": "1804689495"
+  },
+  {
+    "city": "Koziatyn",
+    "city_ascii": "Koziatyn",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "49.7167",
+    "lng": "28.8333",
+    "id": "1804731678"
+  },
+  {
+    "city": "Krolevets",
+    "city_ascii": "Krolevets",
+    "admin_name": "Sumska Oblast",
+    "lat": "51.5500",
+    "lng": "33.3833",
+    "id": "1804796188"
+  },
+  {
+    "city": "Vilnohirsk",
+    "city_ascii": "Vilnohirsk",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.4781",
+    "lng": "34.0281",
+    "id": "1804164194"
+  },
+  {
+    "city": "Selydove",
+    "city_ascii": "Selydove",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.1500",
+    "lng": "37.3039",
+    "id": "1804092732"
+  },
+  {
+    "city": "Bilohorodka",
+    "city_ascii": "Bilohorodka",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.3942",
+    "lng": "30.2314",
+    "id": "1804583708"
+  },
+  {
+    "city": "Znamianka",
+    "city_ascii": "Znamianka",
+    "admin_name": "Kirovohradska Oblast",
+    "lat": "48.7136",
+    "lng": "32.6733",
+    "id": "1804158323"
+  },
+  {
+    "city": "Merefa",
+    "city_ascii": "Merefa",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.8167",
+    "lng": "36.0500",
+    "id": "1804653075"
+  },
+  {
+    "city": "Volnovakha",
+    "city_ascii": "Volnovakha",
+    "admin_name": "Donetska Oblast",
+    "lat": "47.6022",
+    "lng": "37.4919",
+    "id": "1804124268"
+  },
+  {
+    "city": "Kremenets",
+    "city_ascii": "Kremenets",
+    "admin_name": "Ternopilska Oblast",
+    "lat": "50.1081",
+    "lng": "25.7275",
+    "id": "1804050857"
+  },
+  {
+    "city": "Dolyna",
+    "city_ascii": "Dolyna",
+    "admin_name": "Ivano-Frankivska Oblast",
+    "lat": "48.9706",
+    "lng": "24.0111",
+    "id": "1804692275"
+  },
+  {
+    "city": "Sukhodilsk",
+    "city_ascii": "Sukhodilsk",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.3500",
+    "lng": "39.7167",
+    "id": "1804091595"
+  },
+  {
+    "city": "Sokal",
+    "city_ascii": "Sokal",
+    "admin_name": "Lvivska Oblast",
+    "lat": "50.4833",
+    "lng": "24.2833",
+    "id": "1804008451"
+  },
+  {
+    "city": "Stebnyk",
+    "city_ascii": "Stebnyk",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.3000",
+    "lng": "23.5667",
+    "id": "1804781699"
+  },
+  {
+    "city": "Lyman",
+    "city_ascii": "Lyman",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.9853",
+    "lng": "37.8111",
+    "id": "1804424570"
+  },
+  {
+    "city": "Liubotyn",
+    "city_ascii": "Liubotyn",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.9483",
+    "lng": "35.9294",
+    "id": "1804620993"
+  },
+  {
+    "city": "Krasnohrad",
+    "city_ascii": "Krasnohrad",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.3667",
+    "lng": "35.4500",
+    "id": "1804470896"
+  },
+  {
+    "city": "Okhmalynka",
+    "city_ascii": "Okhmalynka",
+    "admin_name": "Odeska Oblast",
+    "lat": "47.5333",
+    "lng": "29.3000",
+    "id": "1804223828"
+  },
+  {
+    "city": "Trostyanets’",
+    "city_ascii": "Trostyanets'",
+    "admin_name": "Sumska Oblast",
+    "lat": "50.4667",
+    "lng": "34.9500",
+    "id": "1804845915"
+  },
+  {
+    "city": "Vynnyky",
+    "city_ascii": "Vynnyky",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.8156",
+    "lng": "24.1297",
+    "id": "1804831750"
+  },
+  {
+    "city": "Yahotyn",
+    "city_ascii": "Yahotyn",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.2569",
+    "lng": "31.7817",
+    "id": "1804447594"
+  },
+  {
+    "city": "Henichesk",
+    "city_ascii": "Henichesk",
+    "admin_name": "Khersonska Oblast",
+    "lat": "46.1667",
+    "lng": "34.8000",
+    "id": "1804703441"
+  },
+  {
+    "city": "Kiliia",
+    "city_ascii": "Kiliia",
+    "admin_name": "Odeska Oblast",
+    "lat": "45.4500",
+    "lng": "29.2667",
+    "id": "1804423656"
+  },
+  {
+    "city": "Kalynivka",
+    "city_ascii": "Kalynivka",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "49.4472",
+    "lng": "28.5231",
+    "id": "1804606611"
+  },
+  {
+    "city": "Hostomel",
+    "city_ascii": "Hostomel",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.5692",
+    "lng": "30.2653",
+    "id": "1804995885"
+  },
+  {
+    "city": "Khotyn",
+    "city_ascii": "Khotyn",
+    "admin_name": "Chernivetska Oblast",
+    "lat": "48.5069",
+    "lng": "26.4903",
+    "id": "1804000263"
+  },
+  {
+    "city": "Krasyliv",
+    "city_ascii": "Krasyliv",
+    "admin_name": "Khmelnytska Oblast",
+    "lat": "49.6519",
+    "lng": "26.9706",
+    "id": "1804762362"
+  },
+  {
+    "city": "Volochysk",
+    "city_ascii": "Volochysk",
+    "admin_name": "Khmelnytska Oblast",
+    "lat": "49.5333",
+    "lng": "26.1667",
+    "id": "1804155172"
+  },
+  {
+    "city": "Dolynska",
+    "city_ascii": "Dolynska",
+    "admin_name": "Kirovohradska Oblast",
+    "lat": "48.1111",
+    "lng": "32.7647",
+    "id": "1804823842"
+  },
+  {
+    "city": "Piatykhatky",
+    "city_ascii": "Piatykhatky",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.4136",
+    "lng": "33.7028",
+    "id": "1804098931"
+  },
+  {
+    "city": "Kreminna",
+    "city_ascii": "Kreminna",
+    "admin_name": "Luhanska Oblast",
+    "lat": "49.0500",
+    "lng": "38.2167",
+    "id": "1804552469"
+  },
+  {
+    "city": "Polohy",
+    "city_ascii": "Polohy",
+    "admin_name": "Zaporizka Oblast",
+    "lat": "47.4833",
+    "lng": "36.2500",
+    "id": "1804554214"
+  },
+  {
+    "city": "Amvrosiivka",
+    "city_ascii": "Amvrosiivka",
+    "admin_name": "Donetska Oblast",
+    "lat": "47.7833",
+    "lng": "38.4833",
+    "id": "1804821911"
+  },
+  {
+    "city": "Kivsharivka",
+    "city_ascii": "Kivsharivka",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.6289",
+    "lng": "37.6831",
+    "id": "1804870027"
+  },
+  {
+    "city": "Zuhres",
+    "city_ascii": "Zuhres",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.0167",
+    "lng": "38.2667",
+    "id": "1804960043"
+  },
+  {
+    "city": "Balta",
+    "city_ascii": "Balta",
+    "admin_name": "Odeska Oblast",
+    "lat": "47.9400",
+    "lng": "29.6219",
+    "id": "1804082783"
+  },
+  {
+    "city": "Pelahiivka",
+    "city_ascii": "Pelahiivka",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.0989",
+    "lng": "38.6128",
+    "id": "1804949257"
+  },
+  {
+    "city": "Horodok",
+    "city_ascii": "Horodok",
+    "admin_name": "Khmelnytska Oblast",
+    "lat": "49.1667",
+    "lng": "26.5667",
+    "id": "1804176513"
+  },
+  {
+    "city": "Dniprorudne",
+    "city_ascii": "Dniprorudne",
+    "admin_name": "Zaporizka Oblast",
+    "lat": "47.3863",
+    "lng": "34.9970",
+    "id": "1804975764"
+  },
+  {
+    "city": "Reni",
+    "city_ascii": "Reni",
+    "admin_name": "Odeska Oblast",
+    "lat": "45.4575",
+    "lng": "28.2711",
+    "id": "1804505327"
+  },
+  {
+    "city": "Kotsyubyns’ke",
+    "city_ascii": "Kotsyubyns'ke",
+    "admin_name": "Kyiv, Misto",
+    "lat": "50.4900",
+    "lng": "30.3347",
+    "id": "1804009673"
+  },
+  {
+    "city": "Vovchansk",
+    "city_ascii": "Vovchansk",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "50.2878",
+    "lng": "36.9428",
+    "id": "1804820380"
+  },
+  {
+    "city": "Rozdilna",
+    "city_ascii": "Rozdilna",
+    "admin_name": "Odeska Oblast",
+    "lat": "46.8486",
+    "lng": "30.0792",
+    "id": "1804162688"
+  },
+  {
+    "city": "Derhachi",
+    "city_ascii": "Derhachi",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "50.1066",
+    "lng": "36.1211",
+    "id": "1804803854"
+  },
+  {
+    "city": "Korsun-Shevchenkivskyi",
+    "city_ascii": "Korsun-Shevchenkivskyi",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "49.4833",
+    "lng": "31.2833",
+    "id": "1804512301"
+  },
+  {
+    "city": "Berezhany",
+    "city_ascii": "Berezhany",
+    "admin_name": "Ternopilska Oblast",
+    "lat": "49.4458",
+    "lng": "24.9361",
+    "id": "1804101117"
+  },
+  {
+    "city": "Svalyava",
+    "city_ascii": "Svalyava",
+    "admin_name": "Zakarpatska Oblast",
+    "lat": "48.5472",
+    "lng": "22.9861",
+    "id": "1804834428"
+  },
+  {
+    "city": "Verkhnodniprovsk",
+    "city_ascii": "Verkhnodniprovsk",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.6561",
+    "lng": "34.3283",
+    "id": "1804265302"
+  },
+  {
+    "city": "Skadovsk",
+    "city_ascii": "Skadovsk",
+    "admin_name": "Khersonska Oblast",
+    "lat": "46.1167",
+    "lng": "32.9167",
+    "id": "1804206912"
+  },
+  {
+    "city": "Bakhmach",
+    "city_ascii": "Bakhmach",
+    "admin_name": "Chernihivska Oblast",
+    "lat": "51.1831",
+    "lng": "32.8297",
+    "id": "1804417903"
+  },
+  {
+    "city": "Krasnohorivka",
+    "city_ascii": "Krasnohorivka",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.0067",
+    "lng": "37.5128",
+    "id": "1804827162"
+  },
+  {
+    "city": "Sudak",
+    "city_ascii": "Sudak",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "44.8514",
+    "lng": "34.9725",
+    "id": "1804728325"
+  },
+  {
+    "city": "Apostolove",
+    "city_ascii": "Apostolove",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "47.6594",
+    "lng": "33.7167",
+    "id": "1804423281"
+  },
+  {
+    "city": "Bilohirsk",
+    "city_ascii": "Bilohirsk",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "45.0544",
+    "lng": "34.6022",
+    "id": "1804571792"
+  },
+  {
+    "city": "Shpola",
+    "city_ascii": "Shpola",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "48.9997",
+    "lng": "31.3922",
+    "id": "1804610656"
+  },
+  {
+    "city": "Yuvileine",
+    "city_ascii": "Yuvileine",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.5531",
+    "lng": "39.1742",
+    "id": "1804471616"
+  },
+  {
+    "city": "Zvenyhorodka",
+    "city_ascii": "Zvenyhorodka",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "49.0697",
+    "lng": "30.9678",
+    "id": "1804045250"
+  },
+  {
+    "city": "Svatove",
+    "city_ascii": "Svatove",
+    "admin_name": "Luhanska Oblast",
+    "lat": "49.4150",
+    "lng": "38.1550",
+    "id": "1804850971"
+  },
+  {
+    "city": "Horodok",
+    "city_ascii": "Horodok",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.7833",
+    "lng": "23.6444",
+    "id": "1804513657"
+  },
+  {
+    "city": "Novoukrainka",
+    "city_ascii": "Novoukrainka",
+    "admin_name": "Kirovohradska Oblast",
+    "lat": "48.3231",
+    "lng": "31.5242",
+    "id": "1804711566"
+  },
+  {
+    "city": "Berezan",
+    "city_ascii": "Berezan",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.3197",
+    "lng": "31.4700",
+    "id": "1804009720"
+  },
+  {
+    "city": "Iziaslav",
+    "city_ascii": "Iziaslav",
+    "admin_name": "Khmelnytska Oblast",
+    "lat": "50.1167",
+    "lng": "26.8000",
+    "id": "1804060657"
+  },
+  {
+    "city": "Starobilsk",
+    "city_ascii": "Starobilsk",
+    "admin_name": "Luhanska Oblast",
+    "lat": "49.2775",
+    "lng": "38.9242",
+    "id": "1804913112"
+  },
+  {
+    "city": "Vatutine",
+    "city_ascii": "Vatutine",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "49.0119",
+    "lng": "31.0714",
+    "id": "1804033648"
+  },
+  {
+    "city": "Dunaivtsi",
+    "city_ascii": "Dunaivtsi",
+    "admin_name": "Khmelnytska Oblast",
+    "lat": "48.8894",
+    "lng": "26.8569",
+    "id": "1804592967"
+  },
+  {
+    "city": "Bilopillya",
+    "city_ascii": "Bilopillya",
+    "admin_name": "Sumska Oblast",
+    "lat": "51.1458",
+    "lng": "34.3117",
+    "id": "1804185866"
+  },
+  {
+    "city": "Rakhiv",
+    "city_ascii": "Rakhiv",
+    "admin_name": "Zakarpatska Oblast",
+    "lat": "48.0500",
+    "lng": "24.2000",
+    "id": "1804590257"
+  },
+  {
+    "city": "Taromske",
+    "city_ascii": "Taromske",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.4617",
+    "lng": "34.7828",
+    "id": "1804000443"
+  },
+  {
+    "city": "Ilovaisk",
+    "city_ascii": "Ilovaisk",
+    "admin_name": "Donetska Oblast",
+    "lat": "47.9260",
+    "lng": "38.1940",
+    "id": "1804207514"
+  },
+  {
+    "city": "Bar",
+    "city_ascii": "Bar",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "49.0750",
+    "lng": "27.6761",
+    "id": "1804657070"
+  },
+  {
+    "city": "Ovruch",
+    "city_ascii": "Ovruch",
+    "admin_name": "Zhytomyrska Oblast",
+    "lat": "51.3244",
+    "lng": "28.8081",
+    "id": "1804670823"
+  },
+  {
+    "city": "Chervonopartyzansk",
+    "city_ascii": "Chervonopartyzansk",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.0833",
+    "lng": "39.7833",
+    "id": "1804816840"
+  },
+  {
+    "city": "Skvyra",
+    "city_ascii": "Skvyra",
+    "admin_name": "Kyivska Oblast",
+    "lat": "49.7167",
+    "lng": "29.6667",
+    "id": "1804833632"
+  },
+  {
+    "city": "Novyi Buh",
+    "city_ascii": "Novyi Buh",
+    "admin_name": "Mykolaivska Oblast",
+    "lat": "47.6833",
+    "lng": "32.5000",
+    "id": "1804139918"
+  },
+  {
+    "city": "Pyryatyn",
+    "city_ascii": "Pyryatyn",
+    "admin_name": "Poltavska Oblast",
+    "lat": "50.2500",
+    "lng": "32.5333",
+    "id": "1804468272"
+  },
+  {
+    "city": "Putyvl",
+    "city_ascii": "Putyvl",
+    "admin_name": "Sumska Oblast",
+    "lat": "51.3167",
+    "lng": "33.8667",
+    "id": "1804280760"
+  },
+  {
+    "city": "Bolhrad",
+    "city_ascii": "Bolhrad",
+    "admin_name": "Odeska Oblast",
+    "lat": "45.6672",
+    "lng": "28.6128",
+    "id": "1804273550"
+  },
+  {
+    "city": "Ostroh",
+    "city_ascii": "Ostroh",
+    "admin_name": "Rivnenska Oblast",
+    "lat": "50.3333",
+    "lng": "26.5167",
+    "id": "1804135367"
+  },
+  {
+    "city": "Burshtyn",
+    "city_ascii": "Burshtyn",
+    "admin_name": "Ivano-Frankivska Oblast",
+    "lat": "49.2583",
+    "lng": "24.6278",
+    "id": "1804941166"
+  },
+  {
+    "city": "Slobozhanske",
+    "city_ascii": "Slobozhanske",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.5336",
+    "lng": "35.0781",
+    "id": "1804133428"
+  },
+  {
+    "city": "Bilozerske",
+    "city_ascii": "Bilozerske",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.8667",
+    "lng": "37.1333",
+    "id": "1804777830"
+  },
+  {
+    "city": "Bohodukhiv",
+    "city_ascii": "Bohodukhiv",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "50.1617",
+    "lng": "35.5256",
+    "id": "1804919140"
+  },
+  {
+    "city": "Mykolaiv",
+    "city_ascii": "Mykolaiv",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.5247",
+    "lng": "23.9789",
+    "id": "1804613053"
+  },
+  {
+    "city": "Artsyz",
+    "city_ascii": "Artsyz",
+    "admin_name": "Odeska Oblast",
+    "lat": "45.9944",
+    "lng": "29.4322",
+    "id": "1804894941"
+  },
+  {
+    "city": "Vil’nyans’k",
+    "city_ascii": "Vil'nyans'k",
+    "admin_name": "Zaporizka Oblast",
+    "lat": "47.9419",
+    "lng": "35.4281",
+    "id": "1804823848"
+  },
+  {
+    "city": "Sadovoye",
+    "city_ascii": "Sadovoye",
+    "admin_name": "Odeska Oblast",
+    "lat": "46.0500",
+    "lng": "30.3667",
+    "id": "1804829390"
+  },
+  {
+    "city": "Mykolaivka",
+    "city_ascii": "Mykolaivka",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.8521",
+    "lng": "37.7740",
+    "id": "1804602851"
+  },
+  {
+    "city": "Ukrainka",
+    "city_ascii": "Ukrainka",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.1531",
+    "lng": "30.7435",
+    "id": "1804574309"
+  },
+  {
+    "city": "Storozhynets",
+    "city_ascii": "Storozhynets",
+    "admin_name": "Chernivetska Oblast",
+    "lat": "48.1619",
+    "lng": "25.7200",
+    "id": "1804218197"
+  },
+  {
+    "city": "Karlivka",
+    "city_ascii": "Karlivka",
+    "admin_name": "Poltavska Oblast",
+    "lat": "49.4500",
+    "lng": "35.1333",
+    "id": "1804725163"
+  },
+  {
+    "city": "Novohrodivka",
+    "city_ascii": "Novohrodivka",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.2000",
+    "lng": "37.3394",
+    "id": "1804940594"
+  },
+  {
+    "city": "Velykodolynske",
+    "city_ascii": "Velykodolynske",
+    "admin_name": "Odeska Oblast",
+    "lat": "46.3447",
+    "lng": "30.5783",
+    "id": "1804355288"
+  },
+  {
+    "city": "Haivoron",
+    "city_ascii": "Haivoron",
+    "admin_name": "Kirovohradska Oblast",
+    "lat": "48.3333",
+    "lng": "29.8667",
+    "id": "1804626693"
+  },
+  {
+    "city": "Tulchyn",
+    "city_ascii": "Tulchyn",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "48.6744",
+    "lng": "28.8497",
+    "id": "1804861116"
+  },
+  {
+    "city": "Zhovkva",
+    "city_ascii": "Zhovkva",
+    "admin_name": "Lvivska Oblast",
+    "lat": "50.0550",
+    "lng": "23.9767",
+    "id": "1804176070"
+  },
+  {
+    "city": "Kivertsi",
+    "city_ascii": "Kivertsi",
+    "admin_name": "Volynska Oblast",
+    "lat": "50.8331",
+    "lng": "25.4614",
+    "id": "1804112302"
+  },
+  {
+    "city": "Zmiiv",
+    "city_ascii": "Zmiiv",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.6944",
+    "lng": "36.3592",
+    "id": "1804969427"
+  },
+  {
+    "city": "Radomyshl",
+    "city_ascii": "Radomyshl",
+    "admin_name": "Zhytomyrska Oblast",
+    "lat": "50.4947",
+    "lng": "29.2333",
+    "id": "1804242306"
+  },
+  {
+    "city": "Slobozhanske",
+    "city_ascii": "Slobozhanske",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.5961",
+    "lng": "36.5269",
+    "id": "1804848548"
+  },
+  {
+    "city": "Ochakiv",
+    "city_ascii": "Ochakiv",
+    "admin_name": "Mykolaivska Oblast",
+    "lat": "46.6186",
+    "lng": "31.5392",
+    "id": "1804376560"
+  },
+  {
+    "city": "Nyzhnia Krynka",
+    "city_ascii": "Nyzhnia Krynka",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.1144",
+    "lng": "38.1606",
+    "id": "1804441450"
+  },
+  {
+    "city": "Hola Prystan",
+    "city_ascii": "Hola Prystan",
+    "admin_name": "Khersonska Oblast",
+    "lat": "46.5167",
+    "lng": "32.5167",
+    "id": "1804132171"
+  },
+  {
+    "city": "Bunhe",
+    "city_ascii": "Bunhe",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.2206",
+    "lng": "38.2739",
+    "id": "1804980165"
+  },
+  {
+    "city": "Zbarazh",
+    "city_ascii": "Zbarazh",
+    "admin_name": "Ternopilska Oblast",
+    "lat": "49.6667",
+    "lng": "25.7778",
+    "id": "1804980168"
+  },
+  {
+    "city": "Solonytsivka",
+    "city_ascii": "Solonytsivka",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.9869",
+    "lng": "36.0619",
+    "id": "1804926194"
+  },
+  {
+    "city": "Zhashkiv",
+    "city_ascii": "Zhashkiv",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "49.2358",
+    "lng": "30.1111",
+    "id": "1804691013"
+  },
+  {
+    "city": "Terebovlya",
+    "city_ascii": "Terebovlya",
+    "admin_name": "Ternopilska Oblast",
+    "lat": "49.3000",
+    "lng": "25.6903",
+    "id": "1804560427"
+  },
+  {
+    "city": "Kaharlyk",
+    "city_ascii": "Kaharlyk",
+    "admin_name": "Kyivska Oblast",
+    "lat": "49.8522",
+    "lng": "30.8092",
+    "id": "1804596715"
+  },
+  {
+    "city": "Mala Vyska",
+    "city_ascii": "Mala Vyska",
+    "admin_name": "Kirovohradska Oblast",
+    "lat": "48.6500",
+    "lng": "31.6333",
+    "id": "1804230769"
+  },
+  {
+    "city": "Berezne",
+    "city_ascii": "Berezne",
+    "admin_name": "Rivnenska Oblast",
+    "lat": "50.9967",
+    "lng": "26.7394",
+    "id": "1804802755"
+  },
+  {
+    "city": "Horodyshche",
+    "city_ascii": "Horodyshche",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "49.2925",
+    "lng": "31.4581",
+    "id": "1804360634"
+  },
+  {
+    "city": "Zolote",
+    "city_ascii": "Zolote",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.6928",
+    "lng": "38.5194",
+    "id": "1804231300"
+  },
+  {
+    "city": "Nosivka",
+    "city_ascii": "Nosivka",
+    "admin_name": "Chernihivska Oblast",
+    "lat": "50.9300",
+    "lng": "31.5806",
+    "id": "1804559608"
+  },
+  {
+    "city": "Talne",
+    "city_ascii": "Talne",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "48.8886",
+    "lng": "30.7042",
+    "id": "1804616798"
+  },
+  {
+    "city": "Yavoriv",
+    "city_ascii": "Yavoriv",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.9469",
+    "lng": "23.3931",
+    "id": "1804586607"
+  },
+  {
+    "city": "Zelenodolsk",
+    "city_ascii": "Zelenodolsk",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "47.5658",
+    "lng": "33.6464",
+    "id": "1804394068"
+  },
+  {
+    "city": "Perehinske",
+    "city_ascii": "Perehinske",
+    "admin_name": "Ivano-Frankivska Oblast",
+    "lat": "48.8100",
+    "lng": "24.1900",
+    "id": "1804617617"
+  },
+  {
+    "city": "Petrovske",
+    "city_ascii": "Petrovske",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.2833",
+    "lng": "38.8833",
+    "id": "1804450037"
+  },
+  {
+    "city": "Tetiiv",
+    "city_ascii": "Tetiiv",
+    "admin_name": "Kyivska Oblast",
+    "lat": "49.3708",
+    "lng": "29.6900",
+    "id": "1804600319"
+  },
+  {
+    "city": "Antonivka",
+    "city_ascii": "Antonivka",
+    "admin_name": "Khersonska Oblast",
+    "lat": "46.6808",
+    "lng": "32.7358",
+    "id": "1804356221"
+  },
+  {
+    "city": "Hvardiiske",
+    "city_ascii": "Hvardiiske",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "45.1000",
+    "lng": "34.0000",
+    "id": "1804124377"
+  },
+  {
+    "city": "Vasylivka",
+    "city_ascii": "Vasylivka",
+    "admin_name": "Zaporizka Oblast",
+    "lat": "47.4431",
+    "lng": "35.2819",
+    "id": "1804609243"
+  },
+  {
+    "city": "Prymorskyi",
+    "city_ascii": "Prymorskyi",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "45.1167",
+    "lng": "35.4806",
+    "id": "1804551387"
+  },
+  {
+    "city": "Khorol",
+    "city_ascii": "Khorol",
+    "admin_name": "Poltavska Oblast",
+    "lat": "49.7667",
+    "lng": "33.2667",
+    "id": "1804292263"
+  },
+  {
+    "city": "Borodyanka",
+    "city_ascii": "Borodyanka",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.6439",
+    "lng": "29.9339",
+    "id": "1804040478"
+  },
+  {
+    "city": "Rozhyshche",
+    "city_ascii": "Rozhyshche",
+    "admin_name": "Volynska Oblast",
+    "lat": "50.9131",
+    "lng": "25.2700",
+    "id": "1804390315"
+  },
+  {
+    "city": "Novhorod-Siverskyi",
+    "city_ascii": "Novhorod-Siverskyi",
+    "admin_name": "Chernihivska Oblast",
+    "lat": "51.9972",
+    "lng": "33.2667",
+    "id": "1804704468"
+  },
+  {
+    "city": "Biliaivka",
+    "city_ascii": "Biliaivka",
+    "admin_name": "Odeska Oblast",
+    "lat": "46.0000",
+    "lng": "28.0000",
+    "id": "1804867512"
+  },
+  {
+    "city": "Stanytsia Luhanska",
+    "city_ascii": "Stanytsia Luhanska",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.6706",
+    "lng": "39.4722",
+    "id": "1804822467"
+  },
+  {
+    "city": "Chasiv Yar",
+    "city_ascii": "Chasiv Yar",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.5884",
+    "lng": "37.8359",
+    "id": "1804707989"
+  },
+  {
+    "city": "Koriukivka",
+    "city_ascii": "Koriukivka",
+    "admin_name": "Chernihivska Oblast",
+    "lat": "51.7833",
+    "lng": "32.2500",
+    "id": "1804903304"
+  },
+  {
+    "city": "Hnivan",
+    "city_ascii": "Hnivan",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "49.0911",
+    "lng": "28.3486",
+    "id": "1804579295"
+  },
+  {
+    "city": "Bashtanka",
+    "city_ascii": "Bashtanka",
+    "admin_name": "Mykolaivska Oblast",
+    "lat": "47.4056",
+    "lng": "32.4375",
+    "id": "1804288779"
+  },
+  {
+    "city": "Buchach",
+    "city_ascii": "Buchach",
+    "admin_name": "Ternopilska Oblast",
+    "lat": "49.0833",
+    "lng": "25.4000",
+    "id": "1804566704"
+  },
+  {
+    "city": "Kamianka-Dniprovska",
+    "city_ascii": "Kamianka-Dniprovska",
+    "admin_name": "Zaporizka Oblast",
+    "lat": "47.4628",
+    "lng": "34.4061",
+    "id": "1804716389"
+  },
+  {
+    "city": "Snihurivka",
+    "city_ascii": "Snihurivka",
+    "admin_name": "Mykolaivska Oblast",
+    "lat": "47.0736",
+    "lng": "32.8000",
+    "id": "1804969781"
+  },
+  {
+    "city": "Uzyn",
+    "city_ascii": "Uzyn",
+    "admin_name": "Kyivska Oblast",
+    "lat": "49.8242",
+    "lng": "30.4425",
+    "id": "1804493270"
+  },
+  {
+    "city": "Beryslav",
+    "city_ascii": "Beryslav",
+    "admin_name": "Khersonska Oblast",
+    "lat": "46.8333",
+    "lng": "33.4167",
+    "id": "1804296510"
+  },
+  {
+    "city": "Zhdanivka",
+    "city_ascii": "Zhdanivka",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.1375",
+    "lng": "38.2608",
+    "id": "1804790480"
+  },
+  {
+    "city": "Krykhivtsi",
+    "city_ascii": "Krykhivtsi",
+    "admin_name": "Ivano-Frankivska Oblast",
+    "lat": "48.9008",
+    "lng": "24.6662",
+    "id": "1804239682"
+  },
+  {
+    "city": "Kotelva",
+    "city_ascii": "Kotelva",
+    "admin_name": "Poltavska Oblast",
+    "lat": "50.0000",
+    "lng": "3.0000",
+    "id": "1804311616"
+  },
+  {
+    "city": "Bershad",
+    "city_ascii": "Bershad",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "48.3728",
+    "lng": "29.5325",
+    "id": "1804698312"
+  },
+  {
+    "city": "Manevychi",
+    "city_ascii": "Manevychi",
+    "admin_name": "Volynska Oblast",
+    "lat": "51.2914",
+    "lng": "25.5331",
+    "id": "1804717717"
+  },
+  {
+    "city": "Kamin-Kashyrskyi",
+    "city_ascii": "Kamin-Kashyrskyi",
+    "admin_name": "Volynska Oblast",
+    "lat": "51.6200",
+    "lng": "24.9653",
+    "id": "1804718360"
+  },
+  {
+    "city": "Mykhailivka",
+    "city_ascii": "Mykhailivka",
+    "admin_name": "Zaporizka Oblast",
+    "lat": "47.2694",
+    "lng": "35.2222",
+    "id": "1804473758"
+  },
+  {
+    "city": "Nova Odesa",
+    "city_ascii": "Nova Odesa",
+    "admin_name": "Mykolaivska Oblast",
+    "lat": "47.3097",
+    "lng": "31.7792",
+    "id": "1804621361"
+  },
+  {
+    "city": "Horodnia",
+    "city_ascii": "Horodnia",
+    "admin_name": "Chernihivska Oblast",
+    "lat": "51.8931",
+    "lng": "31.5947",
+    "id": "1804000009"
+  },
+  {
+    "city": "Liubashivka",
+    "city_ascii": "Liubashivka",
+    "admin_name": "Odeska Oblast",
+    "lat": "47.8358",
+    "lng": "30.2642",
+    "id": "1804793583"
+  },
+  {
+    "city": "Kalmiuske",
+    "city_ascii": "Kalmiuske",
+    "admin_name": "Donetska Oblast",
+    "lat": "47.6667",
+    "lng": "38.0667",
+    "id": "1804369480"
+  },
+  {
+    "city": "Vakhrusheve",
+    "city_ascii": "Vakhrusheve",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.1667",
+    "lng": "38.8333",
+    "id": "1804986291"
+  },
+  {
+    "city": "Nemyriv",
+    "city_ascii": "Nemyriv",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "48.9667",
+    "lng": "28.8500",
+    "id": "1804059627"
+  },
+  {
+    "city": "Shchastia",
+    "city_ascii": "Shchastia",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.7333",
+    "lng": "39.2333",
+    "id": "1804786776"
+  },
+  {
+    "city": "Ovidiopol",
+    "city_ascii": "Ovidiopol",
+    "admin_name": "Odeska Oblast",
+    "lat": "46.2447",
+    "lng": "30.4447",
+    "id": "1804919289"
+  },
+  {
+    "city": "Zimna Voda",
+    "city_ascii": "Zimna Voda",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.8222",
+    "lng": "23.9028",
+    "id": "1804400575"
+  },
+  {
+    "city": "Chornomorske",
+    "city_ascii": "Chornomorske",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "45.5019",
+    "lng": "32.7025",
+    "id": "1804755639"
+  },
+  {
+    "city": "Vasylkivka",
+    "city_ascii": "Vasylkivka",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.2083",
+    "lng": "36.0294",
+    "id": "1804783509"
+  },
+  {
+    "city": "Baryshivka",
+    "city_ascii": "Baryshivka",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.3539",
+    "lng": "31.3167",
+    "id": "1804157251"
+  },
+  {
+    "city": "Baranivka",
+    "city_ascii": "Baranivka",
+    "admin_name": "Zhytomyrska Oblast",
+    "lat": "50.3000",
+    "lng": "27.6667",
+    "id": "1804259330"
+  },
+  {
+    "city": "Prymorsk",
+    "city_ascii": "Prymorsk",
+    "admin_name": "Zaporizka Oblast",
+    "lat": "46.7333",
+    "lng": "36.3500",
+    "id": "1804278318"
+  },
+  {
+    "city": "Dachne",
+    "city_ascii": "Dachne",
+    "admin_name": "Odeska Oblast",
+    "lat": "46.5775",
+    "lng": "30.5489",
+    "id": "1804516760"
+  },
+  {
+    "city": "Kurman",
+    "city_ascii": "Kurman",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "45.4947",
+    "lng": "34.2947",
+    "id": "1804051281"
+  },
+  {
+    "city": "Svitlodarsk",
+    "city_ascii": "Svitlodarsk",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.4333",
+    "lng": "38.2167",
+    "id": "1804819736"
+  },
+  {
+    "city": "Myronivka",
+    "city_ascii": "Myronivka",
+    "admin_name": "Kyivska Oblast",
+    "lat": "49.6500",
+    "lng": "30.9833",
+    "id": "1804440436"
+  },
+  {
+    "city": "Illintsi",
+    "city_ascii": "Illintsi",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "49.1056",
+    "lng": "29.2089",
+    "id": "1804230677"
+  },
+  {
+    "city": "Yakymivka",
+    "city_ascii": "Yakymivka",
+    "admin_name": "Zaporizka Oblast",
+    "lat": "46.7000",
+    "lng": "35.1667",
+    "id": "1804110060"
+  },
+  {
+    "city": "Novoazovsk",
+    "city_ascii": "Novoazovsk",
+    "admin_name": "Donetska Oblast",
+    "lat": "47.1117",
+    "lng": "38.0825",
+    "id": "1804314673"
+  },
+  {
+    "city": "Lokhvytsya",
+    "city_ascii": "Lokhvytsya",
+    "admin_name": "Poltavska Oblast",
+    "lat": "50.3598",
+    "lng": "33.2723",
+    "id": "1804270399"
+  },
+  {
+    "city": "Kamianka",
+    "city_ascii": "Kamianka",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "49.0333",
+    "lng": "32.1000",
+    "id": "1804999372"
+  },
+  {
+    "city": "Rokytne",
+    "city_ascii": "Rokytne",
+    "admin_name": "Kyivska Oblast",
+    "lat": "49.6667",
+    "lng": "30.4833",
+    "id": "1804730774"
+  },
+  {
+    "city": "Mena",
+    "city_ascii": "Mena",
+    "admin_name": "Chernihivska Oblast",
+    "lat": "51.5167",
+    "lng": "32.2167",
+    "id": "1804891578"
+  },
+  {
+    "city": "Siversk",
+    "city_ascii": "Siversk",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.8631",
+    "lng": "38.0972",
+    "id": "1804761281"
+  },
+  {
+    "city": "Tatarbunary",
+    "city_ascii": "Tatarbunary",
+    "admin_name": "Odeska Oblast",
+    "lat": "45.8403",
+    "lng": "29.6125",
+    "id": "1804771459"
+  },
+  {
+    "city": "Novomyrhorod",
+    "city_ascii": "Novomyrhorod",
+    "admin_name": "Kirovohradska Oblast",
+    "lat": "48.7833",
+    "lng": "31.6500",
+    "id": "1804843352"
+  },
+  {
+    "city": "Sosnivka",
+    "city_ascii": "Sosnivka",
+    "admin_name": "Lvivska Oblast",
+    "lat": "50.2944",
+    "lng": "24.2500",
+    "id": "1804036545"
+  },
+  {
+    "city": "Yampil",
+    "city_ascii": "Yampil",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "48.2400",
+    "lng": "28.2783",
+    "id": "1804272878"
+  },
+  {
+    "city": "Ukrainsk",
+    "city_ascii": "Ukrainsk",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.1000",
+    "lng": "37.3833",
+    "id": "1804349001"
+  },
+  {
+    "city": "Borshchiv",
+    "city_ascii": "Borshchiv",
+    "admin_name": "Ternopilska Oblast",
+    "lat": "48.8028",
+    "lng": "26.0364",
+    "id": "1804384535"
+  },
+  {
+    "city": "Snovsk",
+    "city_ascii": "Snovsk",
+    "admin_name": "Chernihivska Oblast",
+    "lat": "51.8203",
+    "lng": "31.9508",
+    "id": "1804059681"
+  },
+  {
+    "city": "Lymanka",
+    "city_ascii": "Lymanka",
+    "admin_name": "Odeska Oblast",
+    "lat": "46.3883",
+    "lng": "30.6808",
+    "id": "1804461178"
+  },
+  {
+    "city": "Ivankiv",
+    "city_ascii": "Ivankiv",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.9328",
+    "lng": "29.9047",
+    "id": "1804378280"
+  },
+  {
+    "city": "Hrebinka",
+    "city_ascii": "Hrebinka",
+    "admin_name": "Poltavska Oblast",
+    "lat": "50.1167",
+    "lng": "32.4167",
+    "id": "1804281882"
+  },
+  {
+    "city": "Bobrovytsia",
+    "city_ascii": "Bobrovytsia",
+    "admin_name": "Chernihivska Oblast",
+    "lat": "50.7450",
+    "lng": "31.3869",
+    "id": "1804897269"
+  },
+  {
+    "city": "Novotroitske",
+    "city_ascii": "Novotroitske",
+    "admin_name": "Khersonska Oblast",
+    "lat": "46.3500",
+    "lng": "34.3333",
+    "id": "1804849889"
+  },
+  {
+    "city": "Soledar",
+    "city_ascii": "Soledar",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.6953",
+    "lng": "38.0675",
+    "id": "1804267090"
+  },
+  {
+    "city": "Mospyne",
+    "city_ascii": "Mospyne",
+    "admin_name": "Donetska Oblast",
+    "lat": "47.9000",
+    "lng": "38.0667",
+    "id": "1804332629"
+  },
+  {
+    "city": "Novodnistrovsk",
+    "city_ascii": "Novodnistrovsk",
+    "admin_name": "Chernivetska Oblast",
+    "lat": "48.5778",
+    "lng": "27.4414",
+    "id": "1804548880"
+  },
+  {
+    "city": "Nova Vodolaha",
+    "city_ascii": "Nova Vodolaha",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.7192",
+    "lng": "35.8761",
+    "id": "1804657164"
+  },
+  {
+    "city": "Krasnoilsk",
+    "city_ascii": "Krasnoilsk",
+    "admin_name": "Chernivetska Oblast",
+    "lat": "48.0147",
+    "lng": "25.5872",
+    "id": "1804367722"
+  },
+  {
+    "city": "Radyvyliv",
+    "city_ascii": "Radyvyliv",
+    "admin_name": "Rivnenska Oblast",
+    "lat": "50.1286",
+    "lng": "25.2644",
+    "id": "1804330249"
+  },
+  {
+    "city": "Kamianka-Buzka",
+    "city_ascii": "Kamianka-Buzka",
+    "admin_name": "Lvivska Oblast",
+    "lat": "50.1000",
+    "lng": "24.3500",
+    "id": "1804465663"
+  },
+  {
+    "city": "Bobrynets",
+    "city_ascii": "Bobrynets",
+    "admin_name": "Kirovohradska Oblast",
+    "lat": "48.0578",
+    "lng": "32.1581",
+    "id": "1804282287"
+  },
+  {
+    "city": "Ichnia",
+    "city_ascii": "Ichnia",
+    "admin_name": "Chernihivska Oblast",
+    "lat": "50.8500",
+    "lng": "32.4000",
+    "id": "1804909893"
+  },
+  {
+    "city": "Valky",
+    "city_ascii": "Valky",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.8333",
+    "lng": "35.6167",
+    "id": "1804819263"
+  },
+  {
+    "city": "Hirnyk",
+    "city_ascii": "Hirnyk",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.0500",
+    "lng": "37.3667",
+    "id": "1804281966"
+  },
+  {
+    "city": "Zhydachiv",
+    "city_ascii": "Zhydachiv",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.3850",
+    "lng": "24.1444",
+    "id": "1804137545"
+  },
+  {
+    "city": "Inkerman",
+    "city_ascii": "Inkerman",
+    "admin_name": "Sevastopol, Misto",
+    "lat": "44.6000",
+    "lng": "33.6000",
+    "id": "1804447396"
+  },
+  {
+    "city": "Haspra",
+    "city_ascii": "Haspra",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "44.4361",
+    "lng": "34.1106",
+    "id": "1804507625"
+  },
+  {
+    "city": "Lyuboml’",
+    "city_ascii": "Lyuboml'",
+    "admin_name": "Volynska Oblast",
+    "lat": "51.2236",
+    "lng": "24.0328",
+    "id": "1804570446"
+  },
+  {
+    "city": "Bolekhiv",
+    "city_ascii": "Bolekhiv",
+    "admin_name": "Ivano-Frankivska Oblast",
+    "lat": "49.0669",
+    "lng": "23.8514",
+    "id": "1804748946"
+  },
+  {
+    "city": "Korolevo",
+    "city_ascii": "Korolevo",
+    "admin_name": "Zakarpatska Oblast",
+    "lat": "48.1500",
+    "lng": "23.1333",
+    "id": "1804136569"
+  },
+  {
+    "city": "Verkhivtseve",
+    "city_ascii": "Verkhivtseve",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.4853",
+    "lng": "34.2539",
+    "id": "1804209032"
+  },
+  {
+    "city": "Tavriisk",
+    "city_ascii": "Tavriisk",
+    "admin_name": "Khersonska Oblast",
+    "lat": "46.7500",
+    "lng": "33.4167",
+    "id": "1804214941"
+  },
+  {
+    "city": "Letychiv",
+    "city_ascii": "Letychiv",
+    "admin_name": "Khmelnytska Oblast",
+    "lat": "49.3833",
+    "lng": "27.6167",
+    "id": "1804357044"
+  },
+  {
+    "city": "Sartana",
+    "city_ascii": "Sartana",
+    "admin_name": "Donetska Oblast",
+    "lat": "47.1667",
+    "lng": "37.6833",
+    "id": "1804984978"
+  },
+  {
+    "city": "Olevsk",
+    "city_ascii": "Olevsk",
+    "admin_name": "Zhytomyrska Oblast",
+    "lat": "51.2167",
+    "lng": "27.6500",
+    "id": "1804287361"
+  },
+  {
+    "city": "Novooleksiivka",
+    "city_ascii": "Novooleksiivka",
+    "admin_name": "Khersonska Oblast",
+    "lat": "46.2261",
+    "lng": "34.6417",
+    "id": "1804233881"
+  },
+  {
+    "city": "Teplodar",
+    "city_ascii": "Teplodar",
+    "admin_name": "Odeska Oblast",
+    "lat": "46.5036",
+    "lng": "30.3244",
+    "id": "1804955869"
+  },
+  {
+    "city": "Khrystynivka",
+    "city_ascii": "Khrystynivka",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "48.8000",
+    "lng": "29.9667",
+    "id": "1804529706"
+  },
+  {
+    "city": "Rodynske",
+    "city_ascii": "Rodynske",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.3531",
+    "lng": "37.2100",
+    "id": "1804843183"
+  },
+  {
+    "city": "Sieverne",
+    "city_ascii": "Sieverne",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.0858",
+    "lng": "38.6942",
+    "id": "1804225954"
+  },
+  {
+    "city": "Derazhnia",
+    "city_ascii": "Derazhnia",
+    "admin_name": "Khmelnytska Oblast",
+    "lat": "49.2667",
+    "lng": "27.4333",
+    "id": "1804230789"
+  },
+  {
+    "city": "Dubliany",
+    "city_ascii": "Dubliany",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.8961",
+    "lng": "24.0925",
+    "id": "1804803324"
+  },
+  {
+    "city": "Novgorodskoye",
+    "city_ascii": "Novgorodskoye",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.3319",
+    "lng": "37.8364",
+    "id": "1804602556"
+  },
+  {
+    "city": "Sniatyn",
+    "city_ascii": "Sniatyn",
+    "admin_name": "Ivano-Frankivska Oblast",
+    "lat": "48.4500",
+    "lng": "25.5667",
+    "id": "1804025263"
+  },
+  {
+    "city": "Tarashcha",
+    "city_ascii": "Tarashcha",
+    "admin_name": "Kyivska Oblast",
+    "lat": "49.5500",
+    "lng": "30.5000",
+    "id": "1804874474"
+  },
+  {
+    "city": "Radekhiv",
+    "city_ascii": "Radekhiv",
+    "admin_name": "Lvivska Oblast",
+    "lat": "50.2828",
+    "lng": "24.6375",
+    "id": "1804200206"
+  },
+  {
+    "city": "Pereshchepyne",
+    "city_ascii": "Pereshchepyne",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "49.0167",
+    "lng": "35.3500",
+    "id": "1804752457"
+  },
+  {
+    "city": "Vysokyi",
+    "city_ascii": "Vysokyi",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.8875",
+    "lng": "36.1211",
+    "id": "1804461053"
+  },
+  {
+    "city": "Shyroke",
+    "city_ascii": "Shyroke",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "47.6844",
+    "lng": "33.2728",
+    "id": "1804425378"
+  },
+  {
+    "city": "Ratne",
+    "city_ascii": "Ratne",
+    "admin_name": "Volynska Oblast",
+    "lat": "51.6500",
+    "lng": "24.5333",
+    "id": "1804150947"
+  },
+  {
+    "city": "Zymohiria",
+    "city_ascii": "Zymohiria",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.5819",
+    "lng": "38.9319",
+    "id": "1804627347"
+  },
+  {
+    "city": "Pokrovske",
+    "city_ascii": "Pokrovske",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "47.9825",
+    "lng": "36.2339",
+    "id": "1804930095"
+  },
+  {
+    "city": "Kobeliaky",
+    "city_ascii": "Kobeliaky",
+    "admin_name": "Poltavska Oblast",
+    "lat": "49.1333",
+    "lng": "34.2000",
+    "id": "1804297105"
+  },
+  {
+    "city": "Syurte",
+    "city_ascii": "Syurte",
+    "admin_name": "Zakarpatska Oblast",
+    "lat": "48.5038",
+    "lng": "22.2267",
+    "id": "1804433014"
+  },
+  {
+    "city": "Borzna",
+    "city_ascii": "Borzna",
+    "admin_name": "Chernihivska Oblast",
+    "lat": "51.2531",
+    "lng": "32.4292",
+    "id": "1804695729"
+  },
+  {
+    "city": "Bilenke",
+    "city_ascii": "Bilenke",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.7664",
+    "lng": "37.6314",
+    "id": "1804319022"
+  },
+  {
+    "city": "Mizhhiria",
+    "city_ascii": "Mizhhiria",
+    "admin_name": "Zakarpatska Oblast",
+    "lat": "48.5286",
+    "lng": "23.5019",
+    "id": "1804490087"
+  },
+  {
+    "city": "Berezivka",
+    "city_ascii": "Berezivka",
+    "admin_name": "Odeska Oblast",
+    "lat": "47.2039",
+    "lng": "30.9128",
+    "id": "1804490359"
+  },
+  {
+    "city": "Chaplynka",
+    "city_ascii": "Chaplynka",
+    "admin_name": "Khersonska Oblast",
+    "lat": "46.3644",
+    "lng": "33.5331",
+    "id": "1804411904"
+  },
+  {
+    "city": "Novopskov",
+    "city_ascii": "Novopskov",
+    "admin_name": "Luhanska Oblast",
+    "lat": "49.5383",
+    "lng": "39.1019",
+    "id": "1804845415"
+  },
+  {
+    "city": "Makariv",
+    "city_ascii": "Makariv",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.4597",
+    "lng": "29.8147",
+    "id": "1804794239"
+  },
+  {
+    "city": "Dymka",
+    "city_ascii": "Dymka",
+    "admin_name": "Chernivetska Oblast",
+    "lat": "48.0972",
+    "lng": "25.9753",
+    "id": "1804264620"
+  },
+  {
+    "city": "Pustomyty",
+    "city_ascii": "Pustomyty",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.7139",
+    "lng": "23.9108",
+    "id": "1804234858"
+  },
+  {
+    "city": "Dubrovytsya",
+    "city_ascii": "Dubrovytsya",
+    "admin_name": "Rivnenska Oblast",
+    "lat": "51.5667",
+    "lng": "26.5667",
+    "id": "1804570134"
+  },
+  {
+    "city": "Vesele",
+    "city_ascii": "Vesele",
+    "admin_name": "Zaporizka Oblast",
+    "lat": "47.0158",
+    "lng": "34.9122",
+    "id": "1804322503"
+  },
+  {
+    "city": "Chornobaivka",
+    "city_ascii": "Chornobaivka",
+    "admin_name": "Khersonska Oblast",
+    "lat": "46.7006",
+    "lng": "32.5478",
+    "id": "1804826781"
+  },
+  {
+    "city": "Teplohirsk",
+    "city_ascii": "Teplohirsk",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.5967",
+    "lng": "38.5828",
+    "id": "1804759308"
+  },
+  {
+    "city": "Bilozerka",
+    "city_ascii": "Bilozerka",
+    "admin_name": "Khersonska Oblast",
+    "lat": "46.6278",
+    "lng": "32.4431",
+    "id": "1804047570"
+  },
+  {
+    "city": "Smoline",
+    "city_ascii": "Smoline",
+    "admin_name": "Kirovohradska Oblast",
+    "lat": "48.6017",
+    "lng": "31.2947",
+    "id": "1804267976"
+  },
+  {
+    "city": "Hlyboka",
+    "city_ascii": "Hlyboka",
+    "admin_name": "Chernivetska Oblast",
+    "lat": "48.0833",
+    "lng": "25.9333",
+    "id": "1804213511"
+  },
+  {
+    "city": "Pohrebyshche",
+    "city_ascii": "Pohrebyshche",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "49.4833",
+    "lng": "29.2667",
+    "id": "1804131540"
+  },
+  {
+    "city": "Zinkiv",
+    "city_ascii": "Zinkiv",
+    "admin_name": "Poltavska Oblast",
+    "lat": "50.2103",
+    "lng": "34.3581",
+    "id": "1804890384"
+  },
+  {
+    "city": "Irshava",
+    "city_ascii": "Irshava",
+    "admin_name": "Zakarpatska Oblast",
+    "lat": "48.3000",
+    "lng": "23.0500",
+    "id": "1804188148"
+  },
+  {
+    "city": "Obukhivka",
+    "city_ascii": "Obukhivka",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.5433",
+    "lng": "34.8589",
+    "id": "1804260181"
+  },
+  {
+    "city": "Bezliudivka",
+    "city_ascii": "Bezliudivka",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.8692",
+    "lng": "36.2697",
+    "id": "1804332545"
+  },
+  {
+    "city": "Cherniakhiv",
+    "city_ascii": "Cherniakhiv",
+    "admin_name": "Zhytomyrska Oblast",
+    "lat": "50.4550",
+    "lng": "28.6653",
+    "id": "1804141679"
+  },
+  {
+    "city": "Pokotylivka",
+    "city_ascii": "Pokotylivka",
+    "admin_name": "Kharkivska Oblast",
+    "lat": "49.9114",
+    "lng": "36.1786",
+    "id": "1804790760"
+  },
+  {
+    "city": "Velykyi Bychkiv",
+    "city_ascii": "Velykyi Bychkiv",
+    "admin_name": "Zakarpatska Oblast",
+    "lat": "47.9667",
+    "lng": "24.0150",
+    "id": "1804273540"
+  },
+  {
+    "city": "Hirske",
+    "city_ascii": "Hirske",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.7519",
+    "lng": "38.4950",
+    "id": "1804087292"
+  },
+  {
+    "city": "Marinka",
+    "city_ascii": "Marinka",
+    "admin_name": "Donetska Oblast",
+    "lat": "47.9419",
+    "lng": "37.5036",
+    "id": "1804456734"
+  },
+  {
+    "city": "Mostyska",
+    "city_ascii": "Mostyska",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.7942",
+    "lng": "23.1525",
+    "id": "1804713391"
+  },
+  {
+    "city": "Velyki Luchky",
+    "city_ascii": "Velyki Luchky",
+    "admin_name": "Zakarpatska Oblast",
+    "lat": "48.4200",
+    "lng": "22.5611",
+    "id": "1804653748"
+  },
+  {
+    "city": "Pivnichne",
+    "city_ascii": "Pivnichne",
+    "admin_name": "Donetska Oblast",
+    "lat": "48.3886",
+    "lng": "37.9067",
+    "id": "1804162324"
+  },
+  {
+    "city": "Reshetylivka",
+    "city_ascii": "Reshetylivka",
+    "admin_name": "Poltavska Oblast",
+    "lat": "49.5667",
+    "lng": "34.0667",
+    "id": "1804143252"
+  },
+  {
+    "city": "Velyka Dymerka",
+    "city_ascii": "Velyka Dymerka",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.5928",
+    "lng": "30.9103",
+    "id": "1804901044"
+  },
+  {
+    "city": "Stryzhavka",
+    "city_ascii": "Stryzhavka",
+    "admin_name": "Vinnytska Oblast",
+    "lat": "49.3103",
+    "lng": "28.4808",
+    "id": "1804715447"
+  },
+  {
+    "city": "Novyi Svit",
+    "city_ascii": "Novyi Svit",
+    "admin_name": "Donetska Oblast",
+    "lat": "47.8058",
+    "lng": "38.0186",
+    "id": "1804652503"
+  },
+  {
+    "city": "Kalanchak",
+    "city_ascii": "Kalanchak",
+    "admin_name": "Khersonska Oblast",
+    "lat": "46.2522",
+    "lng": "33.2906",
+    "id": "1804573757"
+  },
+  {
+    "city": "Tysmenytsia",
+    "city_ascii": "Tysmenytsia",
+    "admin_name": "Ivano-Frankivska Oblast",
+    "lat": "48.9008",
+    "lng": "24.8492",
+    "id": "1804289789"
+  },
+  {
+    "city": "Hlobyne",
+    "city_ascii": "Hlobyne",
+    "admin_name": "Poltavska Oblast",
+    "lat": "49.3903",
+    "lng": "33.2503",
+    "id": "1804876487"
+  },
+  {
+    "city": "Khodoriv",
+    "city_ascii": "Khodoriv",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.4044",
+    "lng": "24.3122",
+    "id": "1804664914"
+  },
+  {
+    "city": "Yasenivskyi",
+    "city_ascii": "Yasenivskyi",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.1606",
+    "lng": "39.2175",
+    "id": "1804630706"
+  },
+  {
+    "city": "Hurzuf",
+    "city_ascii": "Hurzuf",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "44.5528",
+    "lng": "34.2875",
+    "id": "1804682977"
+  },
+  {
+    "city": "Zalishchyky",
+    "city_ascii": "Zalishchyky",
+    "admin_name": "Ternopilska Oblast",
+    "lat": "48.6500",
+    "lng": "25.7333",
+    "id": "1804632373"
+  },
+  {
+    "city": "Horokhiv",
+    "city_ascii": "Horokhiv",
+    "admin_name": "Volynska Oblast",
+    "lat": "50.4994",
+    "lng": "24.7650",
+    "id": "1804715823"
+  },
+  {
+    "city": "Tiachiv",
+    "city_ascii": "Tiachiv",
+    "admin_name": "Zakarpatska Oblast",
+    "lat": "48.0114",
+    "lng": "23.5722",
+    "id": "1804591278"
+  },
+  {
+    "city": "Monastyryshche",
+    "city_ascii": "Monastyryshche",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "48.9900",
+    "lng": "29.8011",
+    "id": "1804117787"
+  },
+  {
+    "city": "Horodenka",
+    "city_ascii": "Horodenka",
+    "admin_name": "Ivano-Frankivska Oblast",
+    "lat": "48.6675",
+    "lng": "25.5003",
+    "id": "1804663549"
+  },
+  {
+    "city": "Hlevakha",
+    "city_ascii": "Hlevakha",
+    "admin_name": "Kyivska Oblast",
+    "lat": "50.2622",
+    "lng": "30.2894",
+    "id": "1804118267"
+  },
+  {
+    "city": "Kozova",
+    "city_ascii": "Kozova",
+    "admin_name": "Ternopilska Oblast",
+    "lat": "49.4319",
+    "lng": "25.1594",
+    "id": "1804829184"
+  },
+  {
+    "city": "Nyzhnohirskyi",
+    "city_ascii": "Nyzhnohirskyi",
+    "admin_name": "Krym, Avtonomna Respublika",
+    "lat": "45.4436",
+    "lng": "34.7406",
+    "id": "1804665220"
+  },
+  {
+    "city": "Volodymyrets",
+    "city_ascii": "Volodymyrets",
+    "admin_name": "Rivnenska Oblast",
+    "lat": "51.4208",
+    "lng": "26.1450",
+    "id": "1804152212"
+  },
+  {
+    "city": "Tlumach",
+    "city_ascii": "Tlumach",
+    "admin_name": "Ivano-Frankivska Oblast",
+    "lat": "48.8667",
+    "lng": "25.0000",
+    "id": "1804009591"
+  },
+  {
+    "city": "Busk",
+    "city_ascii": "Busk",
+    "admin_name": "Lvivska Oblast",
+    "lat": "49.9667",
+    "lng": "24.6333",
+    "id": "1804314944"
+  },
+  {
+    "city": "Chop",
+    "city_ascii": "Chop",
+    "admin_name": "Zakarpatska Oblast",
+    "lat": "48.4333",
+    "lng": "22.2000",
+    "id": "1804775994"
+  },
+  {
+    "city": "Ilarionove",
+    "city_ascii": "Ilarionove",
+    "admin_name": "Dnipropetrovska Oblast",
+    "lat": "48.4092",
+    "lng": "35.2753",
+    "id": "1804506768"
+  },
+  {
+    "city": "Pomichna",
+    "city_ascii": "Pomichna",
+    "admin_name": "Kirovohradska Oblast",
+    "lat": "48.2500",
+    "lng": "31.4167",
+    "id": "1804146388"
+  },
+  {
+    "city": "Liubymivka",
+    "city_ascii": "Liubymivka",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.0397",
+    "lng": "39.4400",
+    "id": "1804599581"
+  },
+  {
+    "city": "Nerubaiske",
+    "city_ascii": "Nerubaiske",
+    "admin_name": "Odeska Oblast",
+    "lat": "46.5502",
+    "lng": "30.6311",
+    "id": "1804433440"
+  },
+  {
+    "city": "Uspenka",
+    "city_ascii": "Uspenka",
+    "admin_name": "Luhanska Oblast",
+    "lat": "48.3939",
+    "lng": "39.1536",
+    "id": "1804689890"
+  },
+  {
+    "city": "Sokyriany",
+    "city_ascii": "Sokyriany",
+    "admin_name": "Chernivetska Oblast",
+    "lat": "48.4500",
+    "lng": "27.3667",
+    "id": "1804903949"
+  },
+  {
+    "city": "Chyhyryn",
+    "city_ascii": "Chyhyryn",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "49.0772",
+    "lng": "32.6492",
+    "id": "1804035691"
+  },
+  {
+    "city": "Biloziria",
+    "city_ascii": "Biloziria",
+    "admin_name": "Cherkaska Oblast",
+    "lat": "49.3053",
+    "lng": "31.8922",
+    "id": "1804429067"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "city": "Castries",
+    "city_ascii": "Castries",
+    "admin_name": "Castries",
+    "lat": "14.0108",
+    "lng": "-60.9894",
+    "id": "1662922505"
+  },
+  {
+    "city": "Gros Islet",
+    "city_ascii": "Gros Islet",
+    "admin_name": "Gros-Islet",
+    "lat": "14.0810",
+    "lng": "-60.9530",
+    "id": "1662587230"
+  },
+  {
+    "city": "Micoud",
+    "city_ascii": "Micoud",
+    "admin_name": "Micoud",
+    "lat": "13.8190",
+    "lng": "-60.9000",
+    "id": "1662284739"
+  },
+  {
+    "city": "Vieux Fort",
+    "city_ascii": "Vieux Fort",
+    "admin_name": "Vieux-Fort",
+    "lat": "13.7280",
+    "lng": "-60.9540",
+    "id": "1662173284"
+  },
+  {
+    "city": "Bisee",
+    "city_ascii": "Bisee",
+    "admin_name": "Castries",
+    "lat": "14.0243",
+    "lng": "-60.9744",
+    "id": "1662015000"
+  }
+]

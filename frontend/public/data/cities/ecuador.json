@@ -1,0 +1,882 @@
+[
+  {
+    "city": "Guayaquil",
+    "city_ascii": "Guayaquil",
+    "admin_name": "Guayas",
+    "lat": "-2.1900",
+    "lng": "-79.8875",
+    "id": "1218802178"
+  },
+  {
+    "city": "Quito",
+    "city_ascii": "Quito",
+    "admin_name": "Pichincha",
+    "lat": "-0.2200",
+    "lng": "-78.5125",
+    "id": "1218441993"
+  },
+  {
+    "city": "Cuenca",
+    "city_ascii": "Cuenca",
+    "admin_name": "Azuay",
+    "lat": "-2.8974",
+    "lng": "-79.0045",
+    "id": "1218041020"
+  },
+  {
+    "city": "Santo Domingo de los Colorados",
+    "city_ascii": "Santo Domingo de los Colorados",
+    "admin_name": "Santo Domingo de los Tsáchilas",
+    "lat": "-0.2542",
+    "lng": "-79.1719",
+    "id": "1218148017"
+  },
+  {
+    "city": "Eloy Alfaro",
+    "city_ascii": "Eloy Alfaro",
+    "admin_name": "Guayas",
+    "lat": "-2.1733",
+    "lng": "-79.8311",
+    "id": "1218127217"
+  },
+  {
+    "city": "Machala",
+    "city_ascii": "Machala",
+    "admin_name": "El Oro",
+    "lat": "-3.2667",
+    "lng": "-79.9667",
+    "id": "1218378191"
+  },
+  {
+    "city": "Manta",
+    "city_ascii": "Manta",
+    "admin_name": "Manabí",
+    "lat": "-0.9500",
+    "lng": "-80.7162",
+    "id": "1218160109"
+  },
+  {
+    "city": "Portoviejo",
+    "city_ascii": "Portoviejo",
+    "admin_name": "Manabí",
+    "lat": "-1.0561",
+    "lng": "-80.4553",
+    "id": "1218169586"
+  },
+  {
+    "city": "Loja",
+    "city_ascii": "Loja",
+    "admin_name": "Loja",
+    "lat": "-3.9833",
+    "lng": "-79.2000",
+    "id": "1218739896"
+  },
+  {
+    "city": "Quevedo",
+    "city_ascii": "Quevedo",
+    "admin_name": "Los Ríos",
+    "lat": "-1.0333",
+    "lng": "-79.4500",
+    "id": "1218928435"
+  },
+  {
+    "city": "Ambato",
+    "city_ascii": "Ambato",
+    "admin_name": "Tungurahua",
+    "lat": "-1.2422",
+    "lng": "-78.6289",
+    "id": "1218046148"
+  },
+  {
+    "city": "Riobamba",
+    "city_ascii": "Riobamba",
+    "admin_name": "Chimborazo",
+    "lat": "-1.6731",
+    "lng": "-78.6483",
+    "id": "1218552075"
+  },
+  {
+    "city": "Daule",
+    "city_ascii": "Daule",
+    "admin_name": "Guayas",
+    "lat": "-1.8667",
+    "lng": "-79.9833",
+    "id": "1218253183"
+  },
+  {
+    "city": "Milagro",
+    "city_ascii": "Milagro",
+    "admin_name": "Guayas",
+    "lat": "-2.1347",
+    "lng": "-79.5872",
+    "id": "1218568564"
+  },
+  {
+    "city": "Esmeraldas",
+    "city_ascii": "Esmeraldas",
+    "admin_name": "Esmeraldas",
+    "lat": "0.9667",
+    "lng": "-79.6528",
+    "id": "1218601363"
+  },
+  {
+    "city": "Ibarra",
+    "city_ascii": "Ibarra",
+    "admin_name": "Imbabura",
+    "lat": "0.3627",
+    "lng": "-78.1307",
+    "id": "1218479054"
+  },
+  {
+    "city": "La Libertad",
+    "city_ascii": "La Libertad",
+    "admin_name": "Guayas",
+    "lat": "-2.2333",
+    "lng": "-80.9000",
+    "id": "1218254479"
+  },
+  {
+    "city": "Babahoyo",
+    "city_ascii": "Babahoyo",
+    "admin_name": "Los Ríos",
+    "lat": "-1.8167",
+    "lng": "-79.5167",
+    "id": "1218156392"
+  },
+  {
+    "city": "Sangolquí",
+    "city_ascii": "Sangolqui",
+    "admin_name": "Pichincha",
+    "lat": "-0.3344",
+    "lng": "-78.4475",
+    "id": "1218715616"
+  },
+  {
+    "city": "Latacunga",
+    "city_ascii": "Latacunga",
+    "admin_name": "Cotopaxi",
+    "lat": "-0.9319",
+    "lng": "-78.6161",
+    "id": "1218947988"
+  },
+  {
+    "city": "Samborondón",
+    "city_ascii": "Samborondon",
+    "admin_name": "Guayas",
+    "lat": "-2.1833",
+    "lng": "-79.8833",
+    "id": "1218370377"
+  },
+  {
+    "city": "Montecristi",
+    "city_ascii": "Montecristi",
+    "admin_name": "Manabí",
+    "lat": "-1.0500",
+    "lng": "-80.6667",
+    "id": "1218883853"
+  },
+  {
+    "city": "Pasaje",
+    "city_ascii": "Pasaje",
+    "admin_name": "El Oro",
+    "lat": "-3.3269",
+    "lng": "-79.8049",
+    "id": "1218997966"
+  },
+  {
+    "city": "Santa Rosa",
+    "city_ascii": "Santa Rosa",
+    "admin_name": "El Oro",
+    "lat": "-3.4522",
+    "lng": "-79.9617",
+    "id": "1218626394"
+  },
+  {
+    "city": "Tulcán",
+    "city_ascii": "Tulcan",
+    "admin_name": "Carchi",
+    "lat": "0.8117",
+    "lng": "-77.7186",
+    "id": "1218976878"
+  },
+  {
+    "city": "Huaquillas",
+    "city_ascii": "Huaquillas",
+    "admin_name": "El Oro",
+    "lat": "-3.4814",
+    "lng": "-80.2432",
+    "id": "1218443042"
+  },
+  {
+    "city": "Nueva Loja",
+    "city_ascii": "Nueva Loja",
+    "admin_name": "Sucumbíos",
+    "lat": "0.0847",
+    "lng": "-76.8828",
+    "id": "1218895755"
+  },
+  {
+    "city": "Chone",
+    "city_ascii": "Chone",
+    "admin_name": "Manabí",
+    "lat": "-0.6833",
+    "lng": "-80.1000",
+    "id": "1218083347"
+  },
+  {
+    "city": "Santa Elena",
+    "city_ascii": "Santa Elena",
+    "admin_name": "Santa Elena",
+    "lat": "-2.2267",
+    "lng": "-80.8583",
+    "id": "1218296446"
+  },
+  {
+    "city": "El Carmen",
+    "city_ascii": "El Carmen",
+    "admin_name": "Manabí",
+    "lat": "-0.2736",
+    "lng": "-79.4597",
+    "id": "1218653659"
+  },
+  {
+    "city": "Puerto Francisco de Orellana",
+    "city_ascii": "Puerto Francisco de Orellana",
+    "admin_name": "Orellana",
+    "lat": "-0.4625",
+    "lng": "-76.9842",
+    "id": "1218387446"
+  },
+  {
+    "city": "Playas",
+    "city_ascii": "Playas",
+    "admin_name": "Guayas",
+    "lat": "-2.6300",
+    "lng": "-80.3900",
+    "id": "1218216648"
+  },
+  {
+    "city": "San Jacinto de Buena Fe",
+    "city_ascii": "San Jacinto de Buena Fe",
+    "admin_name": "Los Ríos",
+    "lat": "-0.8986",
+    "lng": "-79.4889",
+    "id": "1218724130"
+  },
+  {
+    "city": "Jipijapa",
+    "city_ascii": "Jipijapa",
+    "admin_name": "Manabí",
+    "lat": "-1.3486",
+    "lng": "-80.5786",
+    "id": "1218962184"
+  },
+  {
+    "city": "Cayambe",
+    "city_ascii": "Cayambe",
+    "admin_name": "Pichincha",
+    "lat": "0.0439",
+    "lng": "-78.1561",
+    "id": "1218475970"
+  },
+  {
+    "city": "Velasco Ibarra",
+    "city_ascii": "Velasco Ibarra",
+    "admin_name": "Guayas",
+    "lat": "-1.0439",
+    "lng": "-79.6383",
+    "id": "1218000005"
+  },
+  {
+    "city": "Otavalo",
+    "city_ascii": "Otavalo",
+    "admin_name": "Imbabura",
+    "lat": "0.2303",
+    "lng": "-78.2625",
+    "id": "1218541444"
+  },
+  {
+    "city": "Ventanas",
+    "city_ascii": "Ventanas",
+    "admin_name": "Los Ríos",
+    "lat": "-1.4500",
+    "lng": "-79.4700",
+    "id": "1218067203"
+  },
+  {
+    "city": "La Troncal",
+    "city_ascii": "La Troncal",
+    "admin_name": "Cañar",
+    "lat": "-2.4000",
+    "lng": "-79.3300",
+    "id": "1218086252"
+  },
+  {
+    "city": "Naranjal",
+    "city_ascii": "Naranjal",
+    "admin_name": "Guayas",
+    "lat": "-2.6736",
+    "lng": "-79.6183",
+    "id": "1218900978"
+  },
+  {
+    "city": "Azogues",
+    "city_ascii": "Azogues",
+    "admin_name": "Cañar",
+    "lat": "-2.7333",
+    "lng": "-78.8333",
+    "id": "1218651012"
+  },
+  {
+    "city": "La Concordia",
+    "city_ascii": "La Concordia",
+    "admin_name": "Santo Domingo de los Tsáchilas",
+    "lat": "-0.0067",
+    "lng": "-79.3958",
+    "id": "1218975936"
+  },
+  {
+    "city": "Salinas",
+    "city_ascii": "Salinas",
+    "admin_name": "Guayas",
+    "lat": "-2.2167",
+    "lng": "-80.9501",
+    "id": "1218838548"
+  },
+  {
+    "city": "Vinces",
+    "city_ascii": "Vinces",
+    "admin_name": "Los Ríos",
+    "lat": "-1.5500",
+    "lng": "-79.7333",
+    "id": "1218211679"
+  },
+  {
+    "city": "Naranjito",
+    "city_ascii": "Naranjito",
+    "admin_name": "Guayas",
+    "lat": "-2.1667",
+    "lng": "-79.4653",
+    "id": "1218386613"
+  },
+  {
+    "city": "Puyo",
+    "city_ascii": "Puyo",
+    "admin_name": "Pastaza",
+    "lat": "-1.4861",
+    "lng": "-78.0028",
+    "id": "1218537461"
+  },
+  {
+    "city": "Balzar",
+    "city_ascii": "Balzar",
+    "admin_name": "Guayas",
+    "lat": "-1.3600",
+    "lng": "-79.9000",
+    "id": "1218257587"
+  },
+  {
+    "city": "La Maná",
+    "city_ascii": "La Mana",
+    "admin_name": "Cotopaxi",
+    "lat": "-0.9300",
+    "lng": "-79.2200",
+    "id": "1218200586"
+  },
+  {
+    "city": "Rosa Zarate",
+    "city_ascii": "Rosa Zarate",
+    "admin_name": "Esmeraldas",
+    "lat": "0.3300",
+    "lng": "-79.4800",
+    "id": "1218721040"
+  },
+  {
+    "city": "Guaranda",
+    "city_ascii": "Guaranda",
+    "admin_name": "Bolívar",
+    "lat": "-1.6000",
+    "lng": "-79.0000",
+    "id": "1218581593"
+  },
+  {
+    "city": "Tena",
+    "city_ascii": "Tena",
+    "admin_name": "Napo",
+    "lat": "-0.9890",
+    "lng": "-77.8159",
+    "id": "1218759537"
+  },
+  {
+    "city": "San Lorenzo de Esmeraldas",
+    "city_ascii": "San Lorenzo de Esmeraldas",
+    "admin_name": "Esmeraldas",
+    "lat": "1.2864",
+    "lng": "-78.8353",
+    "id": "1218156660"
+  },
+  {
+    "city": "Jaramijó",
+    "city_ascii": "Jaramijo",
+    "admin_name": "Manabí",
+    "lat": "-0.9487",
+    "lng": "-80.6363",
+    "id": "1218297465"
+  },
+  {
+    "city": "Pedernales",
+    "city_ascii": "Pedernales",
+    "admin_name": "Manabí",
+    "lat": "0.0700",
+    "lng": "-80.0550",
+    "id": "1218670991"
+  },
+  {
+    "city": "Catamayo",
+    "city_ascii": "Catamayo",
+    "admin_name": "Loja",
+    "lat": "-3.9833",
+    "lng": "-79.3500",
+    "id": "1218400594"
+  },
+  {
+    "city": "Atuntaqui",
+    "city_ascii": "Atuntaqui",
+    "admin_name": "Imbabura",
+    "lat": "0.3317",
+    "lng": "-78.2189",
+    "id": "1218840955"
+  },
+  {
+    "city": "Pedro Carbo",
+    "city_ascii": "Pedro Carbo",
+    "admin_name": "Guayas",
+    "lat": "-1.8179",
+    "lng": "-80.2330",
+    "id": "1218092556"
+  },
+  {
+    "city": "Machachi",
+    "city_ascii": "Machachi",
+    "admin_name": "Pichincha",
+    "lat": "-0.5100",
+    "lng": "-78.5700",
+    "id": "1218716306"
+  },
+  {
+    "city": "Valencia",
+    "city_ascii": "Valencia",
+    "admin_name": "Los Ríos",
+    "lat": "-0.9525",
+    "lng": "-79.3531",
+    "id": "1218923469"
+  },
+  {
+    "city": "Yaguachi Nuevo",
+    "city_ascii": "Yaguachi Nuevo",
+    "admin_name": "Guayas",
+    "lat": "-2.1200",
+    "lng": "-79.6900",
+    "id": "1218680506"
+  },
+  {
+    "city": "Camilo Ponce Enríquez",
+    "city_ascii": "Camilo Ponce Enriquez",
+    "admin_name": "Azuay",
+    "lat": "-3.0500",
+    "lng": "-79.7333",
+    "id": "1218840796"
+  },
+  {
+    "city": "Macas",
+    "city_ascii": "Macas",
+    "admin_name": "Morona-Santiago",
+    "lat": "-2.3667",
+    "lng": "-78.1333",
+    "id": "1218176372"
+  },
+  {
+    "city": "Bahía de Caráquez",
+    "city_ascii": "Bahia de Caraquez",
+    "admin_name": "Manabí",
+    "lat": "-0.5995",
+    "lng": "-80.4245",
+    "id": "1218764402"
+  },
+  {
+    "city": "Guabo",
+    "city_ascii": "Guabo",
+    "admin_name": "El Oro",
+    "lat": "-3.2388",
+    "lng": "-79.8292",
+    "id": "1218736994"
+  },
+  {
+    "city": "Puerto Quito",
+    "city_ascii": "Puerto Quito",
+    "admin_name": "Pichincha",
+    "lat": "0.1272",
+    "lng": "-79.2531",
+    "id": "1218847413"
+  },
+  {
+    "city": "Calceta",
+    "city_ascii": "Calceta",
+    "admin_name": "Manabí",
+    "lat": "-0.8400",
+    "lng": "-80.1700",
+    "id": "1218330963"
+  },
+  {
+    "city": "Atacames",
+    "city_ascii": "Atacames",
+    "admin_name": "Esmeraldas",
+    "lat": "0.8667",
+    "lng": "-79.8333",
+    "id": "1218813219"
+  },
+  {
+    "city": "Valle",
+    "city_ascii": "Valle",
+    "admin_name": "Azuay",
+    "lat": "-2.9500",
+    "lng": "-78.9833",
+    "id": "1218202285"
+  },
+  {
+    "city": "Piñas",
+    "city_ascii": "Pinas",
+    "admin_name": "El Oro",
+    "lat": "-3.6806",
+    "lng": "-79.6806",
+    "id": "1218999451"
+  },
+  {
+    "city": "Zamora",
+    "city_ascii": "Zamora",
+    "admin_name": "Zamora-Chinchipe",
+    "lat": "-4.0692",
+    "lng": "-78.9567",
+    "id": "1218873167"
+  },
+  {
+    "city": "San Antonio de Ibarra",
+    "city_ascii": "San Antonio de Ibarra",
+    "admin_name": "Imbabura",
+    "lat": "0.3627",
+    "lng": "-78.1307",
+    "id": "1218584009"
+  },
+  {
+    "city": "San Miguel de Salcedo",
+    "city_ascii": "San Miguel de Salcedo",
+    "admin_name": "Cotopaxi",
+    "lat": "-1.0500",
+    "lng": "-78.5833",
+    "id": "1218435695"
+  },
+  {
+    "city": "Lomas de Sargentillo",
+    "city_ascii": "Lomas de Sargentillo",
+    "admin_name": "Guayas",
+    "lat": "-1.8833",
+    "lng": "-80.0833",
+    "id": "1218238536"
+  },
+  {
+    "city": "Montalvo",
+    "city_ascii": "Montalvo",
+    "admin_name": "Los Ríos",
+    "lat": "-1.7900",
+    "lng": "-79.2875",
+    "id": "1218685895"
+  },
+  {
+    "city": "Pujilí",
+    "city_ascii": "Pujili",
+    "admin_name": "Cotopaxi",
+    "lat": "-0.9500",
+    "lng": "-78.6900",
+    "id": "1218970258"
+  },
+  {
+    "city": "San Gabriel",
+    "city_ascii": "San Gabriel",
+    "admin_name": "Carchi",
+    "lat": "0.5983",
+    "lng": "-77.8353",
+    "id": "1218199820"
+  },
+  {
+    "city": "Baños",
+    "city_ascii": "Banos",
+    "admin_name": "Tungurahua",
+    "lat": "-1.3964",
+    "lng": "-78.4247",
+    "id": "1218100027"
+  },
+  {
+    "city": "Ricaurte",
+    "city_ascii": "Ricaurte",
+    "admin_name": "Azuay",
+    "lat": "-2.8667",
+    "lng": "-78.9333",
+    "id": "1218488658"
+  },
+  {
+    "city": "Yantzaza",
+    "city_ascii": "Yantzaza",
+    "admin_name": "Zamora-Chinchipe",
+    "lat": "-3.8500",
+    "lng": "-78.7500",
+    "id": "1218094886"
+  },
+  {
+    "city": "Cariamanga",
+    "city_ascii": "Cariamanga",
+    "admin_name": "Loja",
+    "lat": "-4.3200",
+    "lng": "-79.5600",
+    "id": "1218774934"
+  },
+  {
+    "city": "Baláo",
+    "city_ascii": "Balao",
+    "admin_name": "Guayas",
+    "lat": "-2.9100",
+    "lng": "-79.8100",
+    "id": "1218137948"
+  },
+  {
+    "city": "Puerto Ayora",
+    "city_ascii": "Puerto Ayora",
+    "admin_name": "Galápagos",
+    "lat": "-0.7500",
+    "lng": "-90.3167",
+    "id": "1218585265"
+  },
+  {
+    "city": "Sinincay",
+    "city_ascii": "Sinincay",
+    "admin_name": "Azuay",
+    "lat": "-2.8333",
+    "lng": "-79.0000",
+    "id": "1218165430"
+  },
+  {
+    "city": "Puerto López",
+    "city_ascii": "Puerto Lopez",
+    "admin_name": "Manabí",
+    "lat": "-1.5589",
+    "lng": "-80.8106",
+    "id": "1218728984"
+  },
+  {
+    "city": "Macará",
+    "city_ascii": "Macara",
+    "admin_name": "Loja",
+    "lat": "-4.3833",
+    "lng": "-79.9500",
+    "id": "1218426387"
+  },
+  {
+    "city": "Baños",
+    "city_ascii": "Banos",
+    "admin_name": "Azuay",
+    "lat": "-2.9000",
+    "lng": "-79.0667",
+    "id": "1218450248"
+  },
+  {
+    "city": "Zumbagua",
+    "city_ascii": "Zumbagua",
+    "admin_name": "Cotopaxi",
+    "lat": "-0.9558",
+    "lng": "-78.9017",
+    "id": "1218423664"
+  },
+  {
+    "city": "Cumandá",
+    "city_ascii": "Cumanda",
+    "admin_name": "Chimborazo",
+    "lat": "-2.2058",
+    "lng": "-79.1339",
+    "id": "1218168365"
+  },
+  {
+    "city": "Pelileo",
+    "city_ascii": "Pelileo",
+    "admin_name": "Tungurahua",
+    "lat": "-1.3306",
+    "lng": "-78.5428",
+    "id": "1218236950"
+  },
+  {
+    "city": "Tosagua",
+    "city_ascii": "Tosagua",
+    "admin_name": "Manabí",
+    "lat": "-0.7800",
+    "lng": "-80.2600",
+    "id": "1218293218"
+  },
+  {
+    "city": "Santa Cruz",
+    "city_ascii": "Santa Cruz",
+    "admin_name": "Galápagos",
+    "lat": "-0.5333",
+    "lng": "-90.3500",
+    "id": "1218773967"
+  },
+  {
+    "city": "Sucúa",
+    "city_ascii": "Sucua",
+    "admin_name": "Morona-Santiago",
+    "lat": "-2.4600",
+    "lng": "-78.1700",
+    "id": "1218279880"
+  },
+  {
+    "city": "Rocafuerte",
+    "city_ascii": "Rocafuerte",
+    "admin_name": "Manabí",
+    "lat": "-0.9236",
+    "lng": "-80.4495",
+    "id": "1218553035"
+  },
+  {
+    "city": "Cotacachi",
+    "city_ascii": "Cotacachi",
+    "admin_name": "Imbabura",
+    "lat": "0.3000",
+    "lng": "-78.2667",
+    "id": "1218941888"
+  },
+  {
+    "city": "San Vicente",
+    "city_ascii": "San Vicente",
+    "admin_name": "Manabí",
+    "lat": "-0.5910",
+    "lng": "-80.4094",
+    "id": "1218240242"
+  },
+  {
+    "city": "Palestina",
+    "city_ascii": "Palestina",
+    "admin_name": "Guayas",
+    "lat": "-1.6263",
+    "lng": "-79.9770",
+    "id": "1218128437"
+  },
+  {
+    "city": "Piedrahita",
+    "city_ascii": "Piedrahita",
+    "admin_name": "Guayas",
+    "lat": "-1.9167",
+    "lng": "-80.0115",
+    "id": "1218821300"
+  },
+  {
+    "city": "Zaruma",
+    "city_ascii": "Zaruma",
+    "admin_name": "El Oro",
+    "lat": "-3.6833",
+    "lng": "-79.6000",
+    "id": "1218248860"
+  },
+  {
+    "city": "San Vicente",
+    "city_ascii": "San Vicente",
+    "admin_name": "Bolívar",
+    "lat": "-1.9082",
+    "lng": "-79.2486",
+    "id": "1218567919"
+  },
+  {
+    "city": "Píllaro",
+    "city_ascii": "Pillaro",
+    "admin_name": "Tungurahua",
+    "lat": "-1.1667",
+    "lng": "-78.5333",
+    "id": "1218633386"
+  },
+  {
+    "city": "Gualaquiza",
+    "city_ascii": "Gualaquiza",
+    "admin_name": "Morona-Santiago",
+    "lat": "-3.3800",
+    "lng": "-78.5800",
+    "id": "1218241886"
+  },
+  {
+    "city": "Guano",
+    "city_ascii": "Guano",
+    "admin_name": "Chimborazo",
+    "lat": "-1.5833",
+    "lng": "-78.6333",
+    "id": "1218631999"
+  },
+  {
+    "city": "San Miguel",
+    "city_ascii": "San Miguel",
+    "admin_name": "Bolívar",
+    "lat": "-1.7000",
+    "lng": "-79.0333",
+    "id": "1218602565"
+  },
+  {
+    "city": "Simón Bolívar",
+    "city_ascii": "Simon Bolivar",
+    "admin_name": "Guayas",
+    "lat": "-2.0025",
+    "lng": "-79.4856",
+    "id": "1218861286"
+  },
+  {
+    "city": "Puerto Baquerizo Moreno",
+    "city_ascii": "Puerto Baquerizo Moreno",
+    "admin_name": "Galápagos",
+    "lat": "-0.9025",
+    "lng": "-89.6092",
+    "id": "1218093882"
+  },
+  {
+    "city": "Alausí",
+    "city_ascii": "Alausi",
+    "admin_name": "Chimborazo",
+    "lat": "-2.1900",
+    "lng": "-78.8500",
+    "id": "1218578121"
+  },
+  {
+    "city": "Muisne",
+    "city_ascii": "Muisne",
+    "admin_name": "Esmeraldas",
+    "lat": "0.6108",
+    "lng": "-80.0186",
+    "id": "1218271569"
+  },
+  {
+    "city": "Valdez",
+    "city_ascii": "Valdez",
+    "admin_name": "Esmeraldas",
+    "lat": "1.2500",
+    "lng": "-79.0000",
+    "id": "1218064465"
+  },
+  {
+    "city": "Puerto Villamil",
+    "city_ascii": "Puerto Villamil",
+    "admin_name": "Galápagos",
+    "lat": "-0.9568",
+    "lng": "-90.9672",
+    "id": "1218383536"
+  },
+  {
+    "city": "Yaupi",
+    "city_ascii": "Yaupi",
+    "admin_name": "Morona-Santiago",
+    "lat": "-2.8379",
+    "lng": "-77.9357",
+    "id": "1218516951"
+  }
+]

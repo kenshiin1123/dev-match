@@ -1,0 +1,242 @@
+[
+  {
+    "city": "Niamey",
+    "city_ascii": "Niamey",
+    "admin_name": "Niamey",
+    "lat": "13.5150",
+    "lng": "2.1175",
+    "id": "1562932886"
+  },
+  {
+    "city": "Maradi",
+    "city_ascii": "Maradi",
+    "admin_name": "Maradi",
+    "lat": "13.5010",
+    "lng": "7.1036",
+    "id": "1562200314"
+  },
+  {
+    "city": "Zinder",
+    "city_ascii": "Zinder",
+    "admin_name": "Zinder",
+    "lat": "13.8014",
+    "lng": "8.9849",
+    "id": "1562758258"
+  },
+  {
+    "city": "Tahoua",
+    "city_ascii": "Tahoua",
+    "admin_name": "Tahoua",
+    "lat": "14.9000",
+    "lng": "5.2599",
+    "id": "1562214493"
+  },
+  {
+    "city": "Agadez",
+    "city_ascii": "Agadez",
+    "admin_name": "Agadez",
+    "lat": "16.9959",
+    "lng": "7.9828",
+    "id": "1562789067"
+  },
+  {
+    "city": "Sabara Bangou",
+    "city_ascii": "Sabara Bangou",
+    "admin_name": "Tillabéri",
+    "lat": "15.1197",
+    "lng": "2.0006",
+    "id": "1562582841"
+  },
+  {
+    "city": "Arlit",
+    "city_ascii": "Arlit",
+    "admin_name": "Agadez",
+    "lat": "18.7333",
+    "lng": "7.3833",
+    "id": "1562695011"
+  },
+  {
+    "city": "Birnin Konni",
+    "city_ascii": "Birnin Konni",
+    "admin_name": "Tahoua",
+    "lat": "13.7904",
+    "lng": "5.2599",
+    "id": "1562868655"
+  },
+  {
+    "city": "Matamey",
+    "city_ascii": "Matamey",
+    "admin_name": "Zinder",
+    "lat": "13.4231",
+    "lng": "8.4748",
+    "id": "1562731904"
+  },
+  {
+    "city": "Dosso",
+    "city_ascii": "Dosso",
+    "admin_name": "Dosso",
+    "lat": "13.0505",
+    "lng": "3.2081",
+    "id": "1562574611"
+  },
+  {
+    "city": "Kouré",
+    "city_ascii": "Koure",
+    "admin_name": "Tillabéri",
+    "lat": "13.3106",
+    "lng": "2.5760",
+    "id": "1562503170"
+  },
+  {
+    "city": "Gaya",
+    "city_ascii": "Gaya",
+    "admin_name": "Dosso",
+    "lat": "11.8853",
+    "lng": "3.4549",
+    "id": "1562298335"
+  },
+  {
+    "city": "Ayorou",
+    "city_ascii": "Ayorou",
+    "admin_name": "Tillabéri",
+    "lat": "14.7318",
+    "lng": "0.9195",
+    "id": "1562787330"
+  },
+  {
+    "city": "Kollo",
+    "city_ascii": "Kollo",
+    "admin_name": "Tillabéri",
+    "lat": "13.0167",
+    "lng": "1.8833",
+    "id": "1562112321"
+  },
+  {
+    "city": "Diffa",
+    "city_ascii": "Diffa",
+    "admin_name": "Diffa",
+    "lat": "13.3171",
+    "lng": "12.6089",
+    "id": "1562050464"
+  },
+  {
+    "city": "Madaoua",
+    "city_ascii": "Madaoua",
+    "admin_name": "Tahoua",
+    "lat": "14.0762",
+    "lng": "5.9586",
+    "id": "1562237869"
+  },
+  {
+    "city": "Dabaga",
+    "city_ascii": "Dabaga",
+    "admin_name": "Agadez",
+    "lat": "17.2682",
+    "lng": "8.1012",
+    "id": "1562964626"
+  },
+  {
+    "city": "Tillabéri",
+    "city_ascii": "Tillaberi",
+    "admin_name": "Tillabéri",
+    "lat": "14.2120",
+    "lng": "1.4531",
+    "id": "1562317955"
+  },
+  {
+    "city": "Nguigmi",
+    "city_ascii": "Nguigmi",
+    "admin_name": "Diffa",
+    "lat": "14.2532",
+    "lng": "13.1108",
+    "id": "1562214324"
+  },
+  {
+    "city": "Guidan Roumdji",
+    "city_ascii": "Guidan Roumdji",
+    "admin_name": "Maradi",
+    "lat": "13.6575",
+    "lng": "6.6958",
+    "id": "1562532711"
+  },
+  {
+    "city": "Baléyara",
+    "city_ascii": "Baleyara",
+    "admin_name": "Tillabéri",
+    "lat": "13.7841",
+    "lng": "2.9515",
+    "id": "1562876747"
+  },
+  {
+    "city": "Gouré",
+    "city_ascii": "Goure",
+    "admin_name": "Zinder",
+    "lat": "13.9874",
+    "lng": "10.2700",
+    "id": "1562482102"
+  },
+  {
+    "city": "Galmi",
+    "city_ascii": "Galmi",
+    "admin_name": "Tahoua",
+    "lat": "13.9673",
+    "lng": "5.6747",
+    "id": "1562080549"
+  },
+  {
+    "city": "Tounfafi",
+    "city_ascii": "Tounfafi",
+    "admin_name": "Tahoua",
+    "lat": "14.0464",
+    "lng": "5.9812",
+    "id": "1562992849"
+  },
+  {
+    "city": "Bandio",
+    "city_ascii": "Bandio",
+    "admin_name": "Tillabéri",
+    "lat": "13.8888",
+    "lng": "1.0896",
+    "id": "1562066091"
+  },
+  {
+    "city": "Kawara",
+    "city_ascii": "Kawara",
+    "admin_name": "Tahoua",
+    "lat": "14.0706",
+    "lng": "5.6715",
+    "id": "1562281421"
+  },
+  {
+    "city": "Toulou",
+    "city_ascii": "Toulou",
+    "admin_name": "Tahoua",
+    "lat": "14.1688",
+    "lng": "5.1990",
+    "id": "1562294550"
+  },
+  {
+    "city": "Gidan Idèr",
+    "city_ascii": "Gidan Ider",
+    "admin_name": "Tahoua",
+    "lat": "14.0131",
+    "lng": "5.3185",
+    "id": "1562080119"
+  },
+  {
+    "city": "Takiéta",
+    "city_ascii": "Takieta",
+    "admin_name": "Zinder",
+    "lat": "13.6806",
+    "lng": "8.5292",
+    "id": "1562878014"
+  },
+  {
+    "city": "Djado",
+    "city_ascii": "Djado",
+    "admin_name": "Agadez",
+    "lat": "21.0150",
+    "lng": "12.3075",
+    "id": "1562138807"
+  }
+]

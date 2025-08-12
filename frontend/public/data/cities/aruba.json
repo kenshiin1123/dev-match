@@ -1,0 +1,18 @@
+[
+  {
+    "city": "Oranjestad",
+    "city_ascii": "Oranjestad",
+    "admin_name": "",
+    "lat": "12.5186",
+    "lng": "-70.0358",
+    "id": "1533513057"
+  },
+  {
+    "city": "Tanki Leendert",
+    "city_ascii": "Tanki Leendert",
+    "admin_name": "",
+    "lat": "12.5418",
+    "lng": "-70.0220",
+    "id": "1533786612"
+  }
+]

@@ -1,0 +1,2034 @@
+[
+  {
+    "city": "Santiago",
+    "city_ascii": "Santiago",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.4372",
+    "lng": "-70.6506",
+    "id": "1152554349"
+  },
+  {
+    "city": "Concepción",
+    "city_ascii": "Concepcion",
+    "admin_name": "Biobío",
+    "lat": "-36.8282",
+    "lng": "-73.0514",
+    "id": "1152838958"
+  },
+  {
+    "city": "Puente Alto",
+    "city_ascii": "Puente Alto",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.6167",
+    "lng": "-70.5667",
+    "id": "1152516346"
+  },
+  {
+    "city": "Maipú",
+    "city_ascii": "Maipu",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.5167",
+    "lng": "-70.7667",
+    "id": "1152583016"
+  },
+  {
+    "city": "La Florida",
+    "city_ascii": "La Florida",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.5333",
+    "lng": "-70.5833",
+    "id": "1152939649"
+  },
+  {
+    "city": "Antofagasta",
+    "city_ascii": "Antofagasta",
+    "admin_name": "Antofagasta",
+    "lat": "-23.6500",
+    "lng": "-70.4000",
+    "id": "1152734289"
+  },
+  {
+    "city": "Viña del Mar",
+    "city_ascii": "Vina del Mar",
+    "admin_name": "Valparaíso",
+    "lat": "-33.0244",
+    "lng": "-71.5517",
+    "id": "1152898644"
+  },
+  {
+    "city": "San Bernardo",
+    "city_ascii": "San Bernardo",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.5833",
+    "lng": "-70.7000",
+    "id": "1152050361"
+  },
+  {
+    "city": "Valparaíso",
+    "city_ascii": "Valparaiso",
+    "admin_name": "Valparaíso",
+    "lat": "-33.0461",
+    "lng": "-71.6197",
+    "id": "1152337970"
+  },
+  {
+    "city": "Temuco",
+    "city_ascii": "Temuco",
+    "admin_name": "Araucanía",
+    "lat": "-38.7333",
+    "lng": "-72.6667",
+    "id": "1152318955"
+  },
+  {
+    "city": "Las Condes",
+    "city_ascii": "Las Condes",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.4117",
+    "lng": "-70.5500",
+    "id": "1152858037"
+  },
+  {
+    "city": "Osorno",
+    "city_ascii": "Osorno",
+    "admin_name": "Los Lagos",
+    "lat": "-40.5725",
+    "lng": "-73.1353",
+    "id": "1152866014"
+  },
+  {
+    "city": "Rancagua",
+    "city_ascii": "Rancagua",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.1667",
+    "lng": "-70.7500",
+    "id": "1152672356"
+  },
+  {
+    "city": "Peñalolén",
+    "city_ascii": "Penalolen",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.4833",
+    "lng": "-70.5500",
+    "id": "1152224242"
+  },
+  {
+    "city": "Quilicura",
+    "city_ascii": "Quilicura",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.3667",
+    "lng": "-70.7333",
+    "id": "1152402180"
+  },
+  {
+    "city": "Talca",
+    "city_ascii": "Talca",
+    "admin_name": "Maule",
+    "lat": "-35.4269",
+    "lng": "-71.6656",
+    "id": "1152736946"
+  },
+  {
+    "city": "Coquimbo",
+    "city_ascii": "Coquimbo",
+    "admin_name": "Coquimbo",
+    "lat": "-29.9531",
+    "lng": "-71.3433",
+    "id": "1152038253"
+  },
+  {
+    "city": "Arica",
+    "city_ascii": "Arica",
+    "admin_name": "Arica y Parinacota",
+    "lat": "-18.4784",
+    "lng": "-70.3212",
+    "id": "1152531089"
+  },
+  {
+    "city": "La Serena",
+    "city_ascii": "La Serena",
+    "admin_name": "Coquimbo",
+    "lat": "-29.9000",
+    "lng": "-71.2500",
+    "id": "1152155065"
+  },
+  {
+    "city": "Iquique",
+    "city_ascii": "Iquique",
+    "admin_name": "Tarapacá",
+    "lat": "-20.2167",
+    "lng": "-70.1500",
+    "id": "1152234625"
+  },
+  {
+    "city": "La Pintana",
+    "city_ascii": "La Pintana",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.5833",
+    "lng": "-70.6333",
+    "id": "1152999558"
+  },
+  {
+    "city": "El Bosque",
+    "city_ascii": "El Bosque",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.5667",
+    "lng": "-70.6750",
+    "id": "1152734764"
+  },
+  {
+    "city": "Puerto Montt",
+    "city_ascii": "Puerto Montt",
+    "admin_name": "Los Lagos",
+    "lat": "-41.4667",
+    "lng": "-72.9333",
+    "id": "1152443957"
+  },
+  {
+    "city": "Chillán",
+    "city_ascii": "Chillan",
+    "admin_name": "Ñuble",
+    "lat": "-36.6000",
+    "lng": "-72.1167",
+    "id": "1152082093"
+  },
+  {
+    "city": "Talcahuano",
+    "city_ascii": "Talcahuano",
+    "admin_name": "Biobío",
+    "lat": "-36.7167",
+    "lng": "-73.1219",
+    "id": "1152023044"
+  },
+  {
+    "city": "Copiapó",
+    "city_ascii": "Copiapo",
+    "admin_name": "Atacama",
+    "lat": "-27.3664",
+    "lng": "-70.3331",
+    "id": "1152406965"
+  },
+  {
+    "city": "Calama",
+    "city_ascii": "Calama",
+    "admin_name": "Antofagasta",
+    "lat": "-22.4667",
+    "lng": "-68.9333",
+    "id": "1152168074"
+  },
+  {
+    "city": "Valdivia",
+    "city_ascii": "Valdivia",
+    "admin_name": "Los Ríos",
+    "lat": "-39.8139",
+    "lng": "-73.2458",
+    "id": "1152201132"
+  },
+  {
+    "city": "Melipilla",
+    "city_ascii": "Melipilla",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.6253",
+    "lng": "-71.2711",
+    "id": "1152483678"
+  },
+  {
+    "city": "Quilpué",
+    "city_ascii": "Quilpue",
+    "admin_name": "Valparaíso",
+    "lat": "-33.0500",
+    "lng": "-71.4500",
+    "id": "1152063222"
+  },
+  {
+    "city": "Colina",
+    "city_ascii": "Colina",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.2017",
+    "lng": "-70.6703",
+    "id": "1152944896"
+  },
+  {
+    "city": "Los Ángeles",
+    "city_ascii": "Los Angeles",
+    "admin_name": "Biobío",
+    "lat": "-37.4667",
+    "lng": "-72.3500",
+    "id": "1152810305"
+  },
+  {
+    "city": "Curicó",
+    "city_ascii": "Curico",
+    "admin_name": "Maule",
+    "lat": "-34.9833",
+    "lng": "-71.2333",
+    "id": "1152564798"
+  },
+  {
+    "city": "Renca",
+    "city_ascii": "Renca",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.4000",
+    "lng": "-70.7167",
+    "id": "1152882154"
+  },
+  {
+    "city": "Conchalí",
+    "city_ascii": "Conchali",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.3833",
+    "lng": "-70.6750",
+    "id": "1152123561"
+  },
+  {
+    "city": "Villa Alemana",
+    "city_ascii": "Villa Alemana",
+    "admin_name": "Valparaíso",
+    "lat": "-33.0422",
+    "lng": "-71.3733",
+    "id": "1152839066"
+  },
+  {
+    "city": "Ovalle",
+    "city_ascii": "Ovalle",
+    "admin_name": "Coquimbo",
+    "lat": "-30.6000",
+    "lng": "-71.2000",
+    "id": "1152767334"
+  },
+  {
+    "city": "Punta Arenas",
+    "city_ascii": "Punta Arenas",
+    "admin_name": "Magallanes y de la Antártica Chilena",
+    "lat": "-53.1667",
+    "lng": "-70.9333",
+    "id": "1152262933"
+  },
+  {
+    "city": "La Granja",
+    "city_ascii": "La Granja",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.5333",
+    "lng": "-70.6250",
+    "id": "1152785745"
+  },
+  {
+    "city": "Macul",
+    "city_ascii": "Macul",
+    "admin_name": "Región Metropolitana",
+    "lat": "-32.6583",
+    "lng": "-70.6000",
+    "id": "1152608665"
+  },
+  {
+    "city": "Coronel",
+    "city_ascii": "Coronel",
+    "admin_name": "Biobío",
+    "lat": "-37.0167",
+    "lng": "-73.2167",
+    "id": "1152234834"
+  },
+  {
+    "city": "Alto Hospicio",
+    "city_ascii": "Alto Hospicio",
+    "admin_name": "Tarapacá",
+    "lat": "-20.2500",
+    "lng": "-70.1167",
+    "id": "1152536354"
+  },
+  {
+    "city": "Lo Barnechea",
+    "city_ascii": "Lo Barnechea",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.3500",
+    "lng": "-70.5167",
+    "id": "1152490874"
+  },
+  {
+    "city": "Espejo",
+    "city_ascii": "Espejo",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.5167",
+    "lng": "-70.6917",
+    "id": "1152487376"
+  },
+  {
+    "city": "Buin",
+    "city_ascii": "Buin",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.7333",
+    "lng": "-70.7333",
+    "id": "1152114001"
+  },
+  {
+    "city": "San Ramón",
+    "city_ascii": "San Ramon",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.5333",
+    "lng": "-70.6417",
+    "id": "1152877656"
+  },
+  {
+    "city": "San Joaquín",
+    "city_ascii": "San Joaquin",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.4792",
+    "lng": "-70.6413",
+    "id": "1152095800"
+  },
+  {
+    "city": "La Reina",
+    "city_ascii": "La Reina",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.4500",
+    "lng": "-70.5500",
+    "id": "1152154801"
+  },
+  {
+    "city": "Peñaflor",
+    "city_ascii": "Penaflor",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.6167",
+    "lng": "-70.9167",
+    "id": "1152857586"
+  },
+  {
+    "city": "Los Cerrillos",
+    "city_ascii": "Los Cerrillos",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.5000",
+    "lng": "-70.7167",
+    "id": "1152504242"
+  },
+  {
+    "city": "San Antonio",
+    "city_ascii": "San Antonio",
+    "admin_name": "Valparaíso",
+    "lat": "-33.5933",
+    "lng": "-71.6217",
+    "id": "1152830501"
+  },
+  {
+    "city": "Chiguayante",
+    "city_ascii": "Chiguayante",
+    "admin_name": "Biobío",
+    "lat": "-36.9167",
+    "lng": "-73.0167",
+    "id": "1152693546"
+  },
+  {
+    "city": "Padre Hurtado",
+    "city_ascii": "Padre Hurtado",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.5667",
+    "lng": "-70.8333",
+    "id": "1152529252"
+  },
+  {
+    "city": "Padre Las Casas",
+    "city_ascii": "Padre Las Casas",
+    "admin_name": "Araucanía",
+    "lat": "-38.7667",
+    "lng": "-72.6000",
+    "id": "1152058226"
+  },
+  {
+    "city": "Linares",
+    "city_ascii": "Linares",
+    "admin_name": "Maule",
+    "lat": "-35.8500",
+    "lng": "-71.6000",
+    "id": "1152783281"
+  },
+  {
+    "city": "Quillota",
+    "city_ascii": "Quillota",
+    "admin_name": "Valparaíso",
+    "lat": "-32.8667",
+    "lng": "-71.2500",
+    "id": "1152185579"
+  },
+  {
+    "city": "Paine",
+    "city_ascii": "Paine",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.8167",
+    "lng": "-70.7500",
+    "id": "1152629158"
+  },
+  {
+    "city": "San Felipe",
+    "city_ascii": "San Felipe",
+    "admin_name": "Valparaíso",
+    "lat": "-32.7500",
+    "lng": "-70.7239",
+    "id": "1152329463"
+  },
+  {
+    "city": "Coyhaique",
+    "city_ascii": "Coyhaique",
+    "admin_name": "Aysén",
+    "lat": "-45.5667",
+    "lng": "-72.0667",
+    "id": "1152541137"
+  },
+  {
+    "city": "Los Andes",
+    "city_ascii": "Los Andes",
+    "admin_name": "Valparaíso",
+    "lat": "-32.8333",
+    "lng": "-70.6167",
+    "id": "1152833598"
+  },
+  {
+    "city": "San Fernando",
+    "city_ascii": "San Fernando",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.5833",
+    "lng": "-70.9833",
+    "id": "1152802349"
+  },
+  {
+    "city": "Talagante",
+    "city_ascii": "Talagante",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.6667",
+    "lng": "-70.8667",
+    "id": "1152696612"
+  },
+  {
+    "city": "Rengo",
+    "city_ascii": "Rengo",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.4167",
+    "lng": "-70.8667",
+    "id": "1152408592"
+  },
+  {
+    "city": "Villarrica",
+    "city_ascii": "Villarrica",
+    "admin_name": "Araucanía",
+    "lat": "-39.2667",
+    "lng": "-72.2167",
+    "id": "1152280288"
+  },
+  {
+    "city": "La Calera",
+    "city_ascii": "La Calera",
+    "admin_name": "Valparaíso",
+    "lat": "-32.7867",
+    "lng": "-71.1972",
+    "id": "1152388166"
+  },
+  {
+    "city": "Angol",
+    "city_ascii": "Angol",
+    "admin_name": "Araucanía",
+    "lat": "-37.8000",
+    "lng": "-72.7167",
+    "id": "1152404762"
+  },
+  {
+    "city": "Penco",
+    "city_ascii": "Penco",
+    "admin_name": "Biobío",
+    "lat": "-36.7333",
+    "lng": "-72.9833",
+    "id": "1152993969"
+  },
+  {
+    "city": "Limache",
+    "city_ascii": "Limache",
+    "admin_name": "Valparaíso",
+    "lat": "-33.0167",
+    "lng": "-71.2667",
+    "id": "1152056672"
+  },
+  {
+    "city": "Vallenar",
+    "city_ascii": "Vallenar",
+    "admin_name": "Atacama",
+    "lat": "-28.5708",
+    "lng": "-70.7581",
+    "id": "1152000009"
+  },
+  {
+    "city": "San Vicente de Tagua Tagua",
+    "city_ascii": "San Vicente de Tagua Tagua",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.4394",
+    "lng": "-71.0761",
+    "id": "1152003173"
+  },
+  {
+    "city": "Lota",
+    "city_ascii": "Lota",
+    "admin_name": "Biobío",
+    "lat": "-37.0833",
+    "lng": "-73.1667",
+    "id": "1152978276"
+  },
+  {
+    "city": "San Clemente",
+    "city_ascii": "San Clemente",
+    "admin_name": "Maule",
+    "lat": "-35.5500",
+    "lng": "-71.4833",
+    "id": "1152025924"
+  },
+  {
+    "city": "Machalí",
+    "city_ascii": "Machali",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.1825",
+    "lng": "-70.6514",
+    "id": "1152901401"
+  },
+  {
+    "city": "Tomé",
+    "city_ascii": "Tome",
+    "admin_name": "Biobío",
+    "lat": "-36.6167",
+    "lng": "-72.9500",
+    "id": "1152166653"
+  },
+  {
+    "city": "Alerce",
+    "city_ascii": "Alerce",
+    "admin_name": "Los Lagos",
+    "lat": "-41.4000",
+    "lng": "-72.9333",
+    "id": "1152663651"
+  },
+  {
+    "city": "Constitución",
+    "city_ascii": "Constitucion",
+    "admin_name": "Maule",
+    "lat": "-35.3333",
+    "lng": "-72.4167",
+    "id": "1152065066"
+  },
+  {
+    "city": "Cauquenes",
+    "city_ascii": "Cauquenes",
+    "admin_name": "Maule",
+    "lat": "-35.9667",
+    "lng": "-72.3500",
+    "id": "1152787999"
+  },
+  {
+    "city": "Molina",
+    "city_ascii": "Molina",
+    "admin_name": "Maule",
+    "lat": "-35.1144",
+    "lng": "-71.2825",
+    "id": "1152236505"
+  },
+  {
+    "city": "Parral",
+    "city_ascii": "Parral",
+    "admin_name": "Maule",
+    "lat": "-36.1500",
+    "lng": "-71.8333",
+    "id": "1152767087"
+  },
+  {
+    "city": "Placilla de Peñuelas",
+    "city_ascii": "Placilla de Penuelas",
+    "admin_name": "Valparaíso",
+    "lat": "-33.1156",
+    "lng": "-71.5678",
+    "id": "1152562274"
+  },
+  {
+    "city": "Ancud",
+    "city_ascii": "Ancud",
+    "admin_name": "Los Lagos",
+    "lat": "-41.8667",
+    "lng": "-73.8333",
+    "id": "1152760614"
+  },
+  {
+    "city": "Maule",
+    "city_ascii": "Maule",
+    "admin_name": "Maule",
+    "lat": "-35.5333",
+    "lng": "-71.7000",
+    "id": "1152958152"
+  },
+  {
+    "city": "Lampa",
+    "city_ascii": "Lampa",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.2833",
+    "lng": "-70.9000",
+    "id": "1152360918"
+  },
+  {
+    "city": "Isla de Maipo",
+    "city_ascii": "Isla de Maipo",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.7500",
+    "lng": "-70.9000",
+    "id": "1152656260"
+  },
+  {
+    "city": "Santa Cruz",
+    "city_ascii": "Santa Cruz",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.6372",
+    "lng": "-71.3631",
+    "id": "1152821821"
+  },
+  {
+    "city": "Victoria",
+    "city_ascii": "Victoria",
+    "admin_name": "Araucanía",
+    "lat": "-38.2333",
+    "lng": "-72.3333",
+    "id": "1152078114"
+  },
+  {
+    "city": "Cañete",
+    "city_ascii": "Canete",
+    "admin_name": "Biobío",
+    "lat": "-37.7994",
+    "lng": "-73.3953",
+    "id": "1152180527"
+  },
+  {
+    "city": "Lautaro",
+    "city_ascii": "Lautaro",
+    "admin_name": "Araucanía",
+    "lat": "-38.5167",
+    "lng": "-72.4500",
+    "id": "1152700530"
+  },
+  {
+    "city": "Chimbarongo",
+    "city_ascii": "Chimbarongo",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.7089",
+    "lng": "-71.0431",
+    "id": "1152212161"
+  },
+  {
+    "city": "Castro",
+    "city_ascii": "Castro",
+    "admin_name": "Los Lagos",
+    "lat": "-42.4667",
+    "lng": "-73.8000",
+    "id": "1152445107"
+  },
+  {
+    "city": "Curanilahue",
+    "city_ascii": "Curanilahue",
+    "admin_name": "Biobío",
+    "lat": "-37.4764",
+    "lng": "-73.3444",
+    "id": "1152226096"
+  },
+  {
+    "city": "Concón",
+    "city_ascii": "Concon",
+    "admin_name": "Valparaíso",
+    "lat": "-32.9167",
+    "lng": "-71.5167",
+    "id": "1152523682"
+  },
+  {
+    "city": "Quintero",
+    "city_ascii": "Quintero",
+    "admin_name": "Valparaíso",
+    "lat": "-32.7833",
+    "lng": "-71.5333",
+    "id": "1152270732"
+  },
+  {
+    "city": "Nueva Imperial",
+    "city_ascii": "Nueva Imperial",
+    "admin_name": "Araucanía",
+    "lat": "-38.7433",
+    "lng": "-72.9500",
+    "id": "1152277064"
+  },
+  {
+    "city": "Graneros",
+    "city_ascii": "Graneros",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.0647",
+    "lng": "-70.7264",
+    "id": "1152651446"
+  },
+  {
+    "city": "Monte Patria",
+    "city_ascii": "Monte Patria",
+    "admin_name": "Coquimbo",
+    "lat": "-30.8333",
+    "lng": "-70.7000",
+    "id": "1152733391"
+  },
+  {
+    "city": "San Javier",
+    "city_ascii": "San Javier",
+    "admin_name": "Maule",
+    "lat": "-36.6000",
+    "lng": "-71.7500",
+    "id": "1152644283"
+  },
+  {
+    "city": "Pucón",
+    "city_ascii": "Pucon",
+    "admin_name": "Araucanía",
+    "lat": "-39.2767",
+    "lng": "-71.9744",
+    "id": "1152377330"
+  },
+  {
+    "city": "Longaví",
+    "city_ascii": "Longavi",
+    "admin_name": "Maule",
+    "lat": "-35.9667",
+    "lng": "-71.6833",
+    "id": "1152122275"
+  },
+  {
+    "city": "Vicuña",
+    "city_ascii": "Vicuna",
+    "admin_name": "Coquimbo",
+    "lat": "-30.0333",
+    "lng": "-70.7167",
+    "id": "1152771899"
+  },
+  {
+    "city": "Cabrero",
+    "city_ascii": "Cabrero",
+    "admin_name": "Biobío",
+    "lat": "-37.0333",
+    "lng": "-72.4000",
+    "id": "1152020950"
+  },
+  {
+    "city": "Mulchén",
+    "city_ascii": "Mulchen",
+    "admin_name": "Biobío",
+    "lat": "-37.7167",
+    "lng": "-72.2333",
+    "id": "1152030121"
+  },
+  {
+    "city": "Teno",
+    "city_ascii": "Teno",
+    "admin_name": "Maule",
+    "lat": "-34.8667",
+    "lng": "-71.1833",
+    "id": "1152981256"
+  },
+  {
+    "city": "Chillán Viejo",
+    "city_ascii": "Chillan Viejo",
+    "admin_name": "Ñuble",
+    "lat": "-36.6239",
+    "lng": "-72.1358",
+    "id": "1152645198"
+  },
+  {
+    "city": "Nacimiento",
+    "city_ascii": "Nacimiento",
+    "admin_name": "Biobío",
+    "lat": "-37.5000",
+    "lng": "-72.6667",
+    "id": "1152525394"
+  },
+  {
+    "city": "La Unión",
+    "city_ascii": "La Union",
+    "admin_name": "Los Ríos",
+    "lat": "-40.2833",
+    "lng": "-73.0833",
+    "id": "1152649834"
+  },
+  {
+    "city": "El Monte",
+    "city_ascii": "El Monte",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.6833",
+    "lng": "-71.0167",
+    "id": "1152684387"
+  },
+  {
+    "city": "Puerto Varas",
+    "city_ascii": "Puerto Varas",
+    "admin_name": "Los Lagos",
+    "lat": "-41.3167",
+    "lng": "-72.9833",
+    "id": "1152560692"
+  },
+  {
+    "city": "Requínoa",
+    "city_ascii": "Requinoa",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.2786",
+    "lng": "-70.8117",
+    "id": "1152583421"
+  },
+  {
+    "city": "Carahue",
+    "city_ascii": "Carahue",
+    "admin_name": "Araucanía",
+    "lat": "-38.7089",
+    "lng": "-73.1647",
+    "id": "1152919462"
+  },
+  {
+    "city": "Salamanca",
+    "city_ascii": "Salamanca",
+    "admin_name": "Coquimbo",
+    "lat": "-31.7667",
+    "lng": "-70.9667",
+    "id": "1152804087"
+  },
+  {
+    "city": "Las Cabras",
+    "city_ascii": "Las Cabras",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.2917",
+    "lng": "-71.3097",
+    "id": "1152883984"
+  },
+  {
+    "city": "Curacaví",
+    "city_ascii": "Curacavi",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.4000",
+    "lng": "-71.1500",
+    "id": "1152178936"
+  },
+  {
+    "city": "Tocopilla",
+    "city_ascii": "Tocopilla",
+    "admin_name": "Antofagasta",
+    "lat": "-22.0889",
+    "lng": "-70.1958",
+    "id": "1152050254"
+  },
+  {
+    "city": "Quellón",
+    "city_ascii": "Quellon",
+    "admin_name": "Los Lagos",
+    "lat": "-43.0992",
+    "lng": "-73.5961",
+    "id": "1152502358"
+  },
+  {
+    "city": "Lebu",
+    "city_ascii": "Lebu",
+    "admin_name": "Biobío",
+    "lat": "-37.6000",
+    "lng": "-73.6667",
+    "id": "1152064207"
+  },
+  {
+    "city": "Collipulli",
+    "city_ascii": "Collipulli",
+    "admin_name": "Araucanía",
+    "lat": "-37.9500",
+    "lng": "-72.4333",
+    "id": "1152908869"
+  },
+  {
+    "city": "Cartagena",
+    "city_ascii": "Cartagena",
+    "admin_name": "Valparaíso",
+    "lat": "-33.5425",
+    "lng": "-71.5958",
+    "id": "1152675574"
+  },
+  {
+    "city": "Llaillay",
+    "city_ascii": "Llaillay",
+    "admin_name": "Valparaíso",
+    "lat": "-32.8403",
+    "lng": "-70.9483",
+    "id": "1152335361"
+  },
+  {
+    "city": "Vilcún",
+    "city_ascii": "Vilcun",
+    "admin_name": "Araucanía",
+    "lat": "-38.6500",
+    "lng": "-72.2333",
+    "id": "1152236518"
+  },
+  {
+    "city": "Freire",
+    "city_ascii": "Freire",
+    "admin_name": "Araucanía",
+    "lat": "-38.9558",
+    "lng": "-72.6256",
+    "id": "1152013724"
+  },
+  {
+    "city": "Laja",
+    "city_ascii": "Laja",
+    "admin_name": "Biobío",
+    "lat": "-37.2667",
+    "lng": "-72.7000",
+    "id": "1152499154"
+  },
+  {
+    "city": "La Cruz",
+    "city_ascii": "La Cruz",
+    "admin_name": "Valparaíso",
+    "lat": "-32.8281",
+    "lng": "-71.1761",
+    "id": "1152948474"
+  },
+  {
+    "city": "Pitrufquén",
+    "city_ascii": "Pitrufquen",
+    "admin_name": "Araucanía",
+    "lat": "-38.9833",
+    "lng": "-72.6500",
+    "id": "1152964744"
+  },
+  {
+    "city": "Casablanca",
+    "city_ascii": "Casablanca",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.3167",
+    "lng": "-71.4167",
+    "id": "1152471983"
+  },
+  {
+    "city": "Nogales",
+    "city_ascii": "Nogales",
+    "admin_name": "Valparaíso",
+    "lat": "-32.7350",
+    "lng": "-71.2025",
+    "id": "1152042866"
+  },
+  {
+    "city": "Puerto Natales",
+    "city_ascii": "Puerto Natales",
+    "admin_name": "Magallanes y de la Antártica Chilena",
+    "lat": "-51.7333",
+    "lng": "-72.5167",
+    "id": "1152225106"
+  },
+  {
+    "city": "Loncoche",
+    "city_ascii": "Loncoche",
+    "admin_name": "Araucanía",
+    "lat": "-39.3667",
+    "lng": "-72.6333",
+    "id": "1152864736"
+  },
+  {
+    "city": "Los Vilos",
+    "city_ascii": "Los Vilos",
+    "admin_name": "Coquimbo",
+    "lat": "-31.9167",
+    "lng": "-71.5167",
+    "id": "1152593219"
+  },
+  {
+    "city": "Hualqui",
+    "city_ascii": "Hualqui",
+    "admin_name": "Biobío",
+    "lat": "-36.9600",
+    "lng": "-72.9300",
+    "id": "1152533945"
+  },
+  {
+    "city": "Purranque",
+    "city_ascii": "Purranque",
+    "admin_name": "Los Lagos",
+    "lat": "-40.9167",
+    "lng": "-73.1667",
+    "id": "1152468662"
+  },
+  {
+    "city": "Illapel",
+    "city_ascii": "Illapel",
+    "admin_name": "Coquimbo",
+    "lat": "-31.6333",
+    "lng": "-71.1667",
+    "id": "1152446656"
+  },
+  {
+    "city": "Bulnes",
+    "city_ascii": "Bulnes",
+    "admin_name": "Ñuble",
+    "lat": "-36.7425",
+    "lng": "-72.2983",
+    "id": "1152653950"
+  },
+  {
+    "city": "Yumbel",
+    "city_ascii": "Yumbel",
+    "admin_name": "Biobío",
+    "lat": "-37.1333",
+    "lng": "-72.5333",
+    "id": "1152526139"
+  },
+  {
+    "city": "Pichidegua",
+    "city_ascii": "Pichidegua",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.3586",
+    "lng": "-71.2831",
+    "id": "1152025661"
+  },
+  {
+    "city": "Los Álamos",
+    "city_ascii": "Los Alamos",
+    "admin_name": "Biobío",
+    "lat": "-37.6272",
+    "lng": "-73.4619",
+    "id": "1152738427"
+  },
+  {
+    "city": "Los Bajos",
+    "city_ascii": "Los Bajos",
+    "admin_name": "Los Lagos",
+    "lat": "-41.0698",
+    "lng": "-72.9317",
+    "id": "1152911033"
+  },
+  {
+    "city": "Frutillar Alto",
+    "city_ascii": "Frutillar Alto",
+    "admin_name": "Los Lagos",
+    "lat": "-41.0872",
+    "lng": "-73.0956",
+    "id": "1152452605"
+  },
+  {
+    "city": "Cabildo",
+    "city_ascii": "Cabildo",
+    "admin_name": "Valparaíso",
+    "lat": "-32.4275",
+    "lng": "-71.0664",
+    "id": "1152995057"
+  },
+  {
+    "city": "La Ligua",
+    "city_ascii": "La Ligua",
+    "admin_name": "Valparaíso",
+    "lat": "-32.4500",
+    "lng": "-71.2167",
+    "id": "1152826056"
+  },
+  {
+    "city": "Paillaco",
+    "city_ascii": "Paillaco",
+    "admin_name": "Los Ríos",
+    "lat": "-40.0667",
+    "lng": "-72.8833",
+    "id": "1152131985"
+  },
+  {
+    "city": "Cunco",
+    "city_ascii": "Cunco",
+    "admin_name": "Araucanía",
+    "lat": "-38.9167",
+    "lng": "-72.0333",
+    "id": "1152535744"
+  },
+  {
+    "city": "Doñihue",
+    "city_ascii": "Donihue",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.2261",
+    "lng": "-70.9650",
+    "id": "1152472682"
+  },
+  {
+    "city": "Retiro",
+    "city_ascii": "Retiro",
+    "admin_name": "Maule",
+    "lat": "-36.0333",
+    "lng": "-71.7667",
+    "id": "1152001329"
+  },
+  {
+    "city": "Los Lagos",
+    "city_ascii": "Los Lagos",
+    "admin_name": "Los Ríos",
+    "lat": "-39.8500",
+    "lng": "-72.8333",
+    "id": "1152340454"
+  },
+  {
+    "city": "Calera de Tango",
+    "city_ascii": "Calera de Tango",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.6302",
+    "lng": "-70.7616",
+    "id": "1152670034"
+  },
+  {
+    "city": "Hijuelas",
+    "city_ascii": "Hijuelas",
+    "admin_name": "Valparaíso",
+    "lat": "-32.7986",
+    "lng": "-71.1439",
+    "id": "1152290187"
+  },
+  {
+    "city": "Coltauco",
+    "city_ascii": "Coltauco",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.3000",
+    "lng": "-71.1000",
+    "id": "1152000004"
+  },
+  {
+    "city": "Colbún",
+    "city_ascii": "Colbun",
+    "admin_name": "Maule",
+    "lat": "-35.7000",
+    "lng": "-71.4167",
+    "id": "1152103340"
+  },
+  {
+    "city": "Arauco",
+    "city_ascii": "Arauco",
+    "admin_name": "Biobío",
+    "lat": "-37.2500",
+    "lng": "-73.3167",
+    "id": "1152468620"
+  },
+  {
+    "city": "Sagrada Familia",
+    "city_ascii": "Sagrada Familia",
+    "admin_name": "Maule",
+    "lat": "-35.0000",
+    "lng": "-71.3833",
+    "id": "1152799480"
+  },
+  {
+    "city": "Puerto Aysén",
+    "city_ascii": "Puerto Aysen",
+    "admin_name": "Aysén",
+    "lat": "-45.4000",
+    "lng": "-72.6833",
+    "id": "1152158570"
+  },
+  {
+    "city": "Traiguén",
+    "city_ascii": "Traiguen",
+    "admin_name": "Araucanía",
+    "lat": "-38.2500",
+    "lng": "-72.6833",
+    "id": "1152501347"
+  },
+  {
+    "city": "San Esteban",
+    "city_ascii": "San Esteban",
+    "admin_name": "Valparaíso",
+    "lat": "-32.7992",
+    "lng": "-70.5803",
+    "id": "1152059779"
+  },
+  {
+    "city": "Río Bueno",
+    "city_ascii": "Rio Bueno",
+    "admin_name": "Los Ríos",
+    "lat": "-40.3167",
+    "lng": "-72.9667",
+    "id": "1152938619"
+  },
+  {
+    "city": "Batuco",
+    "city_ascii": "Batuco",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.2308",
+    "lng": "-70.8089",
+    "id": "1152375054"
+  },
+  {
+    "city": "Yerbas Buenas",
+    "city_ascii": "Yerbas Buenas",
+    "admin_name": "Maule",
+    "lat": "-35.7500",
+    "lng": "-71.5667",
+    "id": "1152448482"
+  },
+  {
+    "city": "Pirque",
+    "city_ascii": "Pirque",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.6333",
+    "lng": "-70.5500",
+    "id": "1152296541"
+  },
+  {
+    "city": "Curacautín",
+    "city_ascii": "Curacautin",
+    "admin_name": "Araucanía",
+    "lat": "-38.4333",
+    "lng": "-71.8833",
+    "id": "1152761176"
+  },
+  {
+    "city": "Llanquihue",
+    "city_ascii": "Llanquihue",
+    "admin_name": "Los Lagos",
+    "lat": "-41.2581",
+    "lng": "-73.0086",
+    "id": "1152498352"
+  },
+  {
+    "city": "Caldera",
+    "city_ascii": "Caldera",
+    "admin_name": "Atacama",
+    "lat": "-27.0667",
+    "lng": "-70.8333",
+    "id": "1152916235"
+  },
+  {
+    "city": "Los Muermos",
+    "city_ascii": "Los Muermos",
+    "admin_name": "Los Lagos",
+    "lat": "-41.4000",
+    "lng": "-73.4833",
+    "id": "1152894778"
+  },
+  {
+    "city": "Calbuco",
+    "city_ascii": "Calbuco",
+    "admin_name": "Los Lagos",
+    "lat": "-41.7667",
+    "lng": "-73.1333",
+    "id": "1152875669"
+  },
+  {
+    "city": "Coelemu",
+    "city_ascii": "Coelemu",
+    "admin_name": "Ñuble",
+    "lat": "-36.4878",
+    "lng": "-72.7028",
+    "id": "1152096905"
+  },
+  {
+    "city": "Olmué",
+    "city_ascii": "Olmue",
+    "admin_name": "Valparaíso",
+    "lat": "-32.9953",
+    "lng": "-71.1856",
+    "id": "1152762974"
+  },
+  {
+    "city": "Maullín",
+    "city_ascii": "Maullin",
+    "admin_name": "Los Lagos",
+    "lat": "-41.6167",
+    "lng": "-73.6000",
+    "id": "1152172124"
+  },
+  {
+    "city": "Teodoro Schmidt",
+    "city_ascii": "Teodoro Schmidt",
+    "admin_name": "Araucanía",
+    "lat": "-38.9949",
+    "lng": "-73.0894",
+    "id": "1152001741"
+  },
+  {
+    "city": "Nancagua",
+    "city_ascii": "Nancagua",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.6667",
+    "lng": "-71.2167",
+    "id": "1152511353"
+  },
+  {
+    "city": "Putaendo",
+    "city_ascii": "Putaendo",
+    "admin_name": "Valparaíso",
+    "lat": "-32.6278",
+    "lng": "-70.7167",
+    "id": "1152325898"
+  },
+  {
+    "city": "Bellavista",
+    "city_ascii": "Bellavista",
+    "admin_name": "Maule",
+    "lat": "-34.9333",
+    "lng": "-71.3167",
+    "id": "1152249017"
+  },
+  {
+    "city": "Chépica",
+    "city_ascii": "Chepica",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.7333",
+    "lng": "-71.2833",
+    "id": "1152611232"
+  },
+  {
+    "city": "Tiltil",
+    "city_ascii": "Tiltil",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.0817",
+    "lng": "-70.9278",
+    "id": "1152063956"
+  },
+  {
+    "city": "Río Negro",
+    "city_ascii": "Rio Negro",
+    "admin_name": "Los Lagos",
+    "lat": "-40.7833",
+    "lng": "-73.2000",
+    "id": "1152537804"
+  },
+  {
+    "city": "Villa Alegre",
+    "city_ascii": "Villa Alegre",
+    "admin_name": "Maule",
+    "lat": "-35.6747",
+    "lng": "-71.7439",
+    "id": "1152729852"
+  },
+  {
+    "city": "Santa María",
+    "city_ascii": "Santa Maria",
+    "admin_name": "Valparaíso",
+    "lat": "-32.7469",
+    "lng": "-70.6597",
+    "id": "1152248168"
+  },
+  {
+    "city": "Gorbea",
+    "city_ascii": "Gorbea",
+    "admin_name": "Araucanía",
+    "lat": "-39.1000",
+    "lng": "-72.6833",
+    "id": "1152299665"
+  },
+  {
+    "city": "Peumo",
+    "city_ascii": "Peumo",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.3961",
+    "lng": "-71.1694",
+    "id": "1152229023"
+  },
+  {
+    "city": "Tierra Amarilla",
+    "city_ascii": "Tierra Amarilla",
+    "admin_name": "Atacama",
+    "lat": "-27.4822",
+    "lng": "-70.2658",
+    "id": "1152576362"
+  },
+  {
+    "city": "Diego de Almagro",
+    "city_ascii": "Diego de Almagro",
+    "admin_name": "Atacama",
+    "lat": "-26.3911",
+    "lng": "-70.0458",
+    "id": "1152585849"
+  },
+  {
+    "city": "Futrono",
+    "city_ascii": "Futrono",
+    "admin_name": "Los Ríos",
+    "lat": "-40.1333",
+    "lng": "-72.4000",
+    "id": "1152738108"
+  },
+  {
+    "city": "Combarbalá",
+    "city_ascii": "Combarbala",
+    "admin_name": "Coquimbo",
+    "lat": "-31.1833",
+    "lng": "-71.0000",
+    "id": "1152896722"
+  },
+  {
+    "city": "Tucapel",
+    "city_ascii": "Tucapel",
+    "admin_name": "Biobío",
+    "lat": "-37.2833",
+    "lng": "-71.9500",
+    "id": "1152537993"
+  },
+  {
+    "city": "Santa Bárbara",
+    "city_ascii": "Santa Barbara",
+    "admin_name": "Biobío",
+    "lat": "-37.6706",
+    "lng": "-72.0214",
+    "id": "1152827647"
+  },
+  {
+    "city": "San José de Maipo",
+    "city_ascii": "San Jose de Maipo",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.6400",
+    "lng": "-70.3531",
+    "id": "1152128380"
+  },
+  {
+    "city": "Calle Larga",
+    "city_ascii": "Calle Larga",
+    "admin_name": "Valparaíso",
+    "lat": "-32.8831",
+    "lng": "-70.6486",
+    "id": "1152509615"
+  },
+  {
+    "city": "El Tabo",
+    "city_ascii": "El Tabo",
+    "admin_name": "Valparaíso",
+    "lat": "-33.4586",
+    "lng": "-71.6619",
+    "id": "1152719676"
+  },
+  {
+    "city": "Catemu",
+    "city_ascii": "Catemu",
+    "admin_name": "Valparaíso",
+    "lat": "-32.8828",
+    "lng": "-70.6483",
+    "id": "1152810666"
+  },
+  {
+    "city": "Santa Juana",
+    "city_ascii": "Santa Juana",
+    "admin_name": "Biobío",
+    "lat": "-37.1660",
+    "lng": "-72.9330",
+    "id": "1152335973"
+  },
+  {
+    "city": "Chañaral",
+    "city_ascii": "Chanaral",
+    "admin_name": "Atacama",
+    "lat": "-26.3444",
+    "lng": "-70.6219",
+    "id": "1152993625"
+  },
+  {
+    "city": "Olivar Bajo",
+    "city_ascii": "Olivar Bajo",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.2289",
+    "lng": "-70.8799",
+    "id": "1152427692"
+  },
+  {
+    "city": "Olivar",
+    "city_ascii": "Olivar",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.2330",
+    "lng": "-70.8830",
+    "id": "1152993328"
+  },
+  {
+    "city": "Frutillar",
+    "city_ascii": "Frutillar",
+    "admin_name": "Los Lagos",
+    "lat": "-41.1228",
+    "lng": "-73.0581",
+    "id": "1152151773"
+  },
+  {
+    "city": "Purén",
+    "city_ascii": "Puren",
+    "admin_name": "Araucanía",
+    "lat": "-38.0319",
+    "lng": "-73.0728",
+    "id": "1152043737"
+  },
+  {
+    "city": "Pichilemu",
+    "city_ascii": "Pichilemu",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.3919",
+    "lng": "-72.0139",
+    "id": "1152498637"
+  },
+  {
+    "city": "San Francisco de Mostazal",
+    "city_ascii": "San Francisco de Mostazal",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-33.9799",
+    "lng": "-70.7122",
+    "id": "1152382411"
+  },
+  {
+    "city": "Quirihue",
+    "city_ascii": "Quirihue",
+    "admin_name": "Ñuble",
+    "lat": "-36.2833",
+    "lng": "-72.5333",
+    "id": "1152146130"
+  },
+  {
+    "city": "Codegua",
+    "city_ascii": "Codegua",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.0347",
+    "lng": "-70.6686",
+    "id": "1152476133"
+  },
+  {
+    "city": "Quinta de Tilcoco",
+    "city_ascii": "Quinta de Tilcoco",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.3547",
+    "lng": "-70.9636",
+    "id": "1152072609"
+  },
+  {
+    "city": "Rinconada de Malloa",
+    "city_ascii": "Rinconada de Malloa",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.4464",
+    "lng": "-70.9458",
+    "id": "1152964612"
+  },
+  {
+    "city": "Taltal",
+    "city_ascii": "Taltal",
+    "admin_name": "Antofagasta",
+    "lat": "-25.2833",
+    "lng": "-69.7667",
+    "id": "1152265576"
+  },
+  {
+    "city": "Galvarino",
+    "city_ascii": "Galvarino",
+    "admin_name": "Araucanía",
+    "lat": "-38.4000",
+    "lng": "-72.7833",
+    "id": "1152385949"
+  },
+  {
+    "city": "Palmilla",
+    "city_ascii": "Palmilla",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.6042",
+    "lng": "-71.3583",
+    "id": "1152157193"
+  },
+  {
+    "city": "Lumaco",
+    "city_ascii": "Lumaco",
+    "admin_name": "Araucanía",
+    "lat": "-38.1500",
+    "lng": "-72.9167",
+    "id": "1152525115"
+  },
+  {
+    "city": "Puyehue",
+    "city_ascii": "Puyehue",
+    "admin_name": "Los Lagos",
+    "lat": "-40.6833",
+    "lng": "-72.6000",
+    "id": "1152232411"
+  },
+  {
+    "city": "El Quisco",
+    "city_ascii": "El Quisco",
+    "admin_name": "Valparaíso",
+    "lat": "-33.3913",
+    "lng": "-71.6929",
+    "id": "1152280245"
+  },
+  {
+    "city": "Panguipulli",
+    "city_ascii": "Panguipulli",
+    "admin_name": "Araucanía",
+    "lat": "-39.6444",
+    "lng": "-72.3306",
+    "id": "1152158717"
+  },
+  {
+    "city": "Andacollo",
+    "city_ascii": "Andacollo",
+    "admin_name": "Coquimbo",
+    "lat": "-30.2303",
+    "lng": "-71.0858",
+    "id": "1152597504"
+  },
+  {
+    "city": "Chicureo Abajo",
+    "city_ascii": "Chicureo Abajo",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.2833",
+    "lng": "-70.6333",
+    "id": "1152232267"
+  },
+  {
+    "city": "Punitaqui",
+    "city_ascii": "Punitaqui",
+    "admin_name": "Coquimbo",
+    "lat": "-30.9000",
+    "lng": "-71.2667",
+    "id": "1152111575"
+  },
+  {
+    "city": "Yungay",
+    "city_ascii": "Yungay",
+    "admin_name": "Ñuble",
+    "lat": "-37.1194",
+    "lng": "-72.0189",
+    "id": "1152990591"
+  },
+  {
+    "city": "Ñiquén",
+    "city_ascii": "Niquen",
+    "admin_name": "Ñuble",
+    "lat": "-36.3000",
+    "lng": "-71.9000",
+    "id": "1152179399"
+  },
+  {
+    "city": "Peralillo",
+    "city_ascii": "Peralillo",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.4875",
+    "lng": "-71.4917",
+    "id": "1152486574"
+  },
+  {
+    "city": "Pinto",
+    "city_ascii": "Pinto",
+    "admin_name": "Ñuble",
+    "lat": "-36.7036",
+    "lng": "-71.8922",
+    "id": "1152171336"
+  },
+  {
+    "city": "San Nicolás",
+    "city_ascii": "San Nicolas",
+    "admin_name": "Ñuble",
+    "lat": "-36.5033",
+    "lng": "-72.2122",
+    "id": "1152083085"
+  },
+  {
+    "city": "Cholchol",
+    "city_ascii": "Cholchol",
+    "admin_name": "Araucanía",
+    "lat": "-38.6000",
+    "lng": "-72.8333",
+    "id": "1152052150"
+  },
+  {
+    "city": "María Pinto",
+    "city_ascii": "Maria Pinto",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.5167",
+    "lng": "-71.1167",
+    "id": "1152556156"
+  },
+  {
+    "city": "Lonquimay",
+    "city_ascii": "Lonquimay",
+    "admin_name": "Araucanía",
+    "lat": "-38.4333",
+    "lng": "-71.2333",
+    "id": "1152602801"
+  },
+  {
+    "city": "Algarrobo",
+    "city_ascii": "Algarrobo",
+    "admin_name": "Valparaíso",
+    "lat": "-33.3911",
+    "lng": "-71.6928",
+    "id": "1152829157"
+  },
+  {
+    "city": "San Pablo",
+    "city_ascii": "San Pablo",
+    "admin_name": "Los Lagos",
+    "lat": "-40.4000",
+    "lng": "-73.0167",
+    "id": "1152590185"
+  },
+  {
+    "city": "Petorca",
+    "city_ascii": "Petorca",
+    "admin_name": "Valparaíso",
+    "lat": "-32.2514",
+    "lng": "-70.9314",
+    "id": "1152135793"
+  },
+  {
+    "city": "Renaico",
+    "city_ascii": "Renaico",
+    "admin_name": "Araucanía",
+    "lat": "-37.6667",
+    "lng": "-72.5833",
+    "id": "1152989264"
+  },
+  {
+    "city": "Nueva Toltén",
+    "city_ascii": "Nueva Tolten",
+    "admin_name": "Araucanía",
+    "lat": "-39.1786",
+    "lng": "-73.1656",
+    "id": "1152563189"
+  },
+  {
+    "city": "San Pedro",
+    "city_ascii": "San Pedro",
+    "admin_name": "Región Metropolitana",
+    "lat": "-33.8944",
+    "lng": "-71.4558",
+    "id": "1152749736"
+  },
+  {
+    "city": "Huachipato",
+    "city_ascii": "Huachipato",
+    "admin_name": "Biobío",
+    "lat": "-36.7481",
+    "lng": "-73.0986",
+    "id": "1152109016"
+  },
+  {
+    "city": "Tirúa",
+    "city_ascii": "Tirua",
+    "admin_name": "Biobío",
+    "lat": "-38.3414",
+    "lng": "-73.4911",
+    "id": "1152214241"
+  },
+  {
+    "city": "Lago Ranco",
+    "city_ascii": "Lago Ranco",
+    "admin_name": "Los Ríos",
+    "lat": "-40.3167",
+    "lng": "-72.5000",
+    "id": "1152909758"
+  },
+  {
+    "city": "Rauco",
+    "city_ascii": "Rauco",
+    "admin_name": "Maule",
+    "lat": "-34.9167",
+    "lng": "-71.3167",
+    "id": "1152798030"
+  },
+  {
+    "city": "Negrete",
+    "city_ascii": "Negrete",
+    "admin_name": "Biobío",
+    "lat": "-37.5833",
+    "lng": "-72.5333",
+    "id": "1152930662"
+  },
+  {
+    "city": "Curepto",
+    "city_ascii": "Curepto",
+    "admin_name": "Maule",
+    "lat": "-35.0833",
+    "lng": "-72.0167",
+    "id": "1152721174"
+  },
+  {
+    "city": "Hualañe",
+    "city_ascii": "Hualane",
+    "admin_name": "Maule",
+    "lat": "-34.9765",
+    "lng": "-71.8048",
+    "id": "1152879287"
+  },
+  {
+    "city": "Pica",
+    "city_ascii": "Pica",
+    "admin_name": "Tarapacá",
+    "lat": "-20.4892",
+    "lng": "-69.3294",
+    "id": "1152029319"
+  },
+  {
+    "city": "Pozo Almonte",
+    "city_ascii": "Pozo Almonte",
+    "admin_name": "Tarapacá",
+    "lat": "-20.2667",
+    "lng": "-69.8000",
+    "id": "1152924094"
+  },
+  {
+    "city": "Mejillones",
+    "city_ascii": "Mejillones",
+    "admin_name": "Antofagasta",
+    "lat": "-23.1000",
+    "lng": "-70.4500",
+    "id": "1152559509"
+  },
+  {
+    "city": "Canela Baja",
+    "city_ascii": "Canela Baja",
+    "admin_name": "Coquimbo",
+    "lat": "-31.3989",
+    "lng": "-71.4561",
+    "id": "1152763006"
+  },
+  {
+    "city": "Chanco",
+    "city_ascii": "Chanco",
+    "admin_name": "Ñuble",
+    "lat": "-36.2859",
+    "lng": "-72.7107",
+    "id": "1152038330"
+  },
+  {
+    "city": "Chanco",
+    "city_ascii": "Chanco",
+    "admin_name": "Maule",
+    "lat": "-36.2667",
+    "lng": "-72.7167",
+    "id": "1152434517"
+  },
+  {
+    "city": "Lo Miranda",
+    "city_ascii": "Lo Miranda",
+    "admin_name": "Libertador General Bernardo O’Higgins",
+    "lat": "-34.1900",
+    "lng": "-70.8900",
+    "id": "1152468313"
+  },
+  {
+    "city": "Puerto Octay",
+    "city_ascii": "Puerto Octay",
+    "admin_name": "Los Lagos",
+    "lat": "-40.9667",
+    "lng": "-72.9000",
+    "id": "1152604525"
+  },
+  {
+    "city": "Huasco",
+    "city_ascii": "Huasco",
+    "admin_name": "Atacama",
+    "lat": "-28.4664",
+    "lng": "-71.2192",
+    "id": "1152643675"
+  },
+  {
+    "city": "Florida",
+    "city_ascii": "Florida",
+    "admin_name": "Biobío",
+    "lat": "-36.8167",
+    "lng": "-72.6667",
+    "id": "1152800195"
+  },
+  {
+    "city": "Rocas de Santo Domingo",
+    "city_ascii": "Rocas de Santo Domingo",
+    "admin_name": "Valparaíso",
+    "lat": "-33.6358",
+    "lng": "-71.6281",
+    "id": "1152451543"
+  },
+  {
+    "city": "San Juan de la Costa",
+    "city_ascii": "San Juan de la Costa",
+    "admin_name": "Los Lagos",
+    "lat": "-40.5167",
+    "lng": "-73.4000",
+    "id": "1152249782"
+  },
+  {
+    "city": "Hualaihué",
+    "city_ascii": "Hualaihue",
+    "admin_name": "Los Lagos",
+    "lat": "-42.1000",
+    "lng": "-72.4167",
+    "id": "1152075609"
+  },
+  {
+    "city": "Lanco",
+    "city_ascii": "Lanco",
+    "admin_name": "Araucanía",
+    "lat": "-39.4500",
+    "lng": "-72.7833",
+    "id": "1152703909"
+  },
+  {
+    "city": "Oficina María Elena",
+    "city_ascii": "Oficina Maria Elena",
+    "admin_name": "Antofagasta",
+    "lat": "-22.3451",
+    "lng": "-69.6615",
+    "id": "1152876089"
+  },
+  {
+    "city": "Chonchi",
+    "city_ascii": "Chonchi",
+    "admin_name": "Los Lagos",
+    "lat": "-42.6219",
+    "lng": "-73.7742",
+    "id": "1152428145"
+  },
+  {
+    "city": "Cochrane",
+    "city_ascii": "Cochrane",
+    "admin_name": "Aysén",
+    "lat": "-47.2547",
+    "lng": "-72.5750",
+    "id": "1152054657"
+  },
+  {
+    "city": "Toltén",
+    "city_ascii": "Tolten",
+    "admin_name": "Araucanía",
+    "lat": "-39.2166",
+    "lng": "-73.2123",
+    "id": "1152450943"
+  },
+  {
+    "city": "Puerto Williams",
+    "city_ascii": "Puerto Williams",
+    "admin_name": "Magallanes y de la Antártica Chilena",
+    "lat": "-54.9333",
+    "lng": "-67.6167",
+    "id": "1152455279"
+  },
+  {
+    "city": "Villa O’Higgins",
+    "city_ascii": "Villa O'Higgins",
+    "admin_name": "Aysén",
+    "lat": "-48.4683",
+    "lng": "-72.5600",
+    "id": "1152709181"
+  },
+  {
+    "city": "Toconao",
+    "city_ascii": "Toconao",
+    "admin_name": "Antofagasta",
+    "lat": "-23.1903",
+    "lng": "-68.0050",
+    "id": "1152732862"
+  },
+  {
+    "city": "Cuya",
+    "city_ascii": "Cuya",
+    "admin_name": "Tarapacá",
+    "lat": "-19.1597",
+    "lng": "-70.1794",
+    "id": "1152944039"
+  },
+  {
+    "city": "Lagunas",
+    "city_ascii": "Lagunas",
+    "admin_name": "Tarapacá",
+    "lat": "-20.9829",
+    "lng": "-69.6833",
+    "id": "1152360178"
+  },
+  {
+    "city": "Chuquicamata",
+    "city_ascii": "Chuquicamata",
+    "admin_name": "Antofagasta",
+    "lat": "-22.3169",
+    "lng": "-68.9301",
+    "id": "1152468996"
+  }
+]

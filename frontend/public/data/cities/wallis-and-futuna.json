@@ -1,0 +1,18 @@
+[
+  {
+    "city": "Mata-Utu",
+    "city_ascii": "Mata-Utu",
+    "admin_name": "Uvea",
+    "lat": "-13.2825",
+    "lng": "-176.1736",
+    "id": "1876784844"
+  },
+  {
+    "city": "Leava",
+    "city_ascii": "Leava",
+    "admin_name": "Sigave",
+    "lat": "-14.2933",
+    "lng": "-178.1583",
+    "id": "1876731744"
+  }
+]

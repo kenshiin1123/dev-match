@@ -1,0 +1,98 @@
+[
+  {
+    "city": "Dubai",
+    "city_ascii": "Dubai",
+    "admin_name": "Dubayy",
+    "lat": "25.2631",
+    "lng": "55.2972",
+    "id": "1784736618"
+  },
+  {
+    "city": "Abu Dhabi",
+    "city_ascii": "Abu Dhabi",
+    "admin_name": "Abū Z̧aby",
+    "lat": "24.4667",
+    "lng": "54.3667",
+    "id": "1784176710"
+  },
+  {
+    "city": "Sharjah",
+    "city_ascii": "Sharjah",
+    "admin_name": "Ash Shāriqah",
+    "lat": "25.3575",
+    "lng": "55.3908",
+    "id": "1784152993"
+  },
+  {
+    "city": "Al ‘Ayn",
+    "city_ascii": "Al `Ayn",
+    "admin_name": "Abū Z̧aby",
+    "lat": "24.2075",
+    "lng": "55.7447",
+    "id": "1784674685"
+  },
+  {
+    "city": "‘Ajmān",
+    "city_ascii": "`Ajman",
+    "admin_name": "‘Ajmān",
+    "lat": "25.4136",
+    "lng": "55.4456",
+    "id": "1784337875"
+  },
+  {
+    "city": "Ra’s al Khaymah",
+    "city_ascii": "Ra's al Khaymah",
+    "admin_name": "Ra’s al Khaymah",
+    "lat": "25.7667",
+    "lng": "55.9500",
+    "id": "1784053892"
+  },
+  {
+    "city": "Al Fujayrah",
+    "city_ascii": "Al Fujayrah",
+    "admin_name": "Al Fujayrah",
+    "lat": "25.1222",
+    "lng": "56.3344",
+    "id": "1784909196"
+  },
+  {
+    "city": "Umm al Qaywayn",
+    "city_ascii": "Umm al Qaywayn",
+    "admin_name": "Umm al Qaywayn",
+    "lat": "25.5533",
+    "lng": "55.5475",
+    "id": "1784525230"
+  },
+  {
+    "city": "Kalbā",
+    "city_ascii": "Kalba",
+    "admin_name": "Ash Shāriqah",
+    "lat": "25.0742",
+    "lng": "56.3553",
+    "id": "1784956003"
+  },
+  {
+    "city": "Khawr Fakkān",
+    "city_ascii": "Khawr Fakkan",
+    "admin_name": "Ash Shāriqah",
+    "lat": "25.3333",
+    "lng": "56.3500",
+    "id": "1784935461"
+  },
+  {
+    "city": "Madīnat Zāyid",
+    "city_ascii": "Madinat Zayid",
+    "admin_name": "Abū Z̧aby",
+    "lat": "23.6522",
+    "lng": "53.6536",
+    "id": "1784810704"
+  },
+  {
+    "city": "Al Jazīrah al Ḩamrā’",
+    "city_ascii": "Al Jazirah al Hamra'",
+    "admin_name": "Ra’s al Khaymah",
+    "lat": "25.7089",
+    "lng": "55.7972",
+    "id": "1784137216"
+  }
+]

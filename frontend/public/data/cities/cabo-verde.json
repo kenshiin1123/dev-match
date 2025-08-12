@@ -1,0 +1,186 @@
+[
+  {
+    "city": "Mindelo",
+    "city_ascii": "Mindelo",
+    "admin_name": "São Vicente",
+    "lat": "16.8860",
+    "lng": "-24.9880",
+    "id": "1132180389"
+  },
+  {
+    "city": "Praia",
+    "city_ascii": "Praia",
+    "admin_name": "Praia",
+    "lat": "14.9177",
+    "lng": "-23.5092",
+    "id": "1132398770"
+  },
+  {
+    "city": "Tarrafal",
+    "city_ascii": "Tarrafal",
+    "admin_name": "Tarrafal",
+    "lat": "15.2787",
+    "lng": "-23.7516",
+    "id": "1132834308"
+  },
+  {
+    "city": "São Filipe",
+    "city_ascii": "Sao Filipe",
+    "admin_name": "São Filipe",
+    "lat": "14.8950",
+    "lng": "-24.4980",
+    "id": "1132693257"
+  },
+  {
+    "city": "Porto Novo",
+    "city_ascii": "Porto Novo",
+    "admin_name": "Porto Novo",
+    "lat": "17.0190",
+    "lng": "-25.0640",
+    "id": "1132233840"
+  },
+  {
+    "city": "Assomada",
+    "city_ascii": "Assomada",
+    "admin_name": "Santa Catarina",
+    "lat": "15.0949",
+    "lng": "-23.6654",
+    "id": "1132845019"
+  },
+  {
+    "city": "Pedra Badejo",
+    "city_ascii": "Pedra Badejo",
+    "admin_name": "Santa Cruz",
+    "lat": "15.1375",
+    "lng": "-23.5333",
+    "id": "1132841923"
+  },
+  {
+    "city": "Sal Rei",
+    "city_ascii": "Sal Rei",
+    "admin_name": "Boa Vista",
+    "lat": "16.1760",
+    "lng": "-22.9171",
+    "id": "1132420232"
+  },
+  {
+    "city": "Espargos",
+    "city_ascii": "Espargos",
+    "admin_name": "Sal",
+    "lat": "16.7546",
+    "lng": "-22.9453",
+    "id": "1132760152"
+  },
+  {
+    "city": "Tarrafal",
+    "city_ascii": "Tarrafal",
+    "admin_name": "Tarrafal de São Nicolau",
+    "lat": "16.5660",
+    "lng": "-24.3570",
+    "id": "1132502171"
+  },
+  {
+    "city": "Ponta do Sol",
+    "city_ascii": "Ponta do Sol",
+    "admin_name": "Ribeira Grande",
+    "lat": "17.2020",
+    "lng": "-25.0930",
+    "id": "1132137257"
+  },
+  {
+    "city": "Calheta de São Miguel",
+    "city_ascii": "Calheta de Sao Miguel",
+    "admin_name": "São Miguel",
+    "lat": "15.1875",
+    "lng": "-23.5917",
+    "id": "1132750609"
+  },
+  {
+    "city": "Porto Inglês",
+    "city_ascii": "Porto Ingles",
+    "admin_name": "Maio",
+    "lat": "15.1375",
+    "lng": "-23.2083",
+    "id": "1132346974"
+  },
+  {
+    "city": "Ribeira Grande",
+    "city_ascii": "Ribeira Grande",
+    "admin_name": "Ribeira Grande",
+    "lat": "17.1830",
+    "lng": "-25.0650",
+    "id": "1132061543"
+  },
+  {
+    "city": "São Domingos",
+    "city_ascii": "Sao Domingos",
+    "admin_name": "São Domingos",
+    "lat": "15.0250",
+    "lng": "-23.5625",
+    "id": "1132246964"
+  },
+  {
+    "city": "Cidade Velha",
+    "city_ascii": "Cidade Velha",
+    "admin_name": "Ribeira Grande de Santiago",
+    "lat": "14.9167",
+    "lng": "-23.6042",
+    "id": "1132073400"
+  },
+  {
+    "city": "João Teves",
+    "city_ascii": "Joao Teves",
+    "admin_name": "São Lourenço dos Órgãos",
+    "lat": "15.0667",
+    "lng": "-23.5917",
+    "id": "1132758433"
+  },
+  {
+    "city": "Pombas",
+    "city_ascii": "Pombas",
+    "admin_name": "Paul",
+    "lat": "17.1490",
+    "lng": "-25.0150",
+    "id": "1132720315"
+  },
+  {
+    "city": "Picos",
+    "city_ascii": "Picos",
+    "admin_name": "São Salvador do Mundo",
+    "lat": "15.0833",
+    "lng": "-23.6333",
+    "id": "1132670996"
+  },
+  {
+    "city": "Igreja",
+    "city_ascii": "Igreja",
+    "admin_name": "Mosteiros",
+    "lat": "15.0339",
+    "lng": "-24.3250",
+    "id": "1132174768"
+  },
+  {
+    "city": "Nova Sintra",
+    "city_ascii": "Nova Sintra",
+    "admin_name": "Brava",
+    "lat": "14.8710",
+    "lng": "-24.6960",
+    "id": "1132634480"
+  },
+  {
+    "city": "Cova Figueira",
+    "city_ascii": "Cova Figueira",
+    "admin_name": "Santa Catarina do Fogo",
+    "lat": "14.8900",
+    "lng": "-24.2940",
+    "id": "1132510430"
+  },
+  {
+    "city": "Ribeira Brava",
+    "city_ascii": "Ribeira Brava",
+    "admin_name": "Ribeira Brava",
+    "lat": "16.6150",
+    "lng": "-24.2990",
+    "id": "1132498214"
+  }
+]

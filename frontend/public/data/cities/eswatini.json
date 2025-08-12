@@ -1,0 +1,66 @@
+[
+  {
+    "city": "Manzini",
+    "city_ascii": "Manzini",
+    "admin_name": "Manzini",
+    "lat": "-26.4950",
+    "lng": "31.3880",
+    "id": "1748177431"
+  },
+  {
+    "city": "Mbabane",
+    "city_ascii": "Mbabane",
+    "admin_name": "Hhohho",
+    "lat": "-26.3167",
+    "lng": "31.1333",
+    "id": "1748811945"
+  },
+  {
+    "city": "Siteki",
+    "city_ascii": "Siteki",
+    "admin_name": "Lubombo",
+    "lat": "-26.4550",
+    "lng": "31.9520",
+    "id": "1748933140"
+  },
+  {
+    "city": "Lobamba",
+    "city_ascii": "Lobamba",
+    "admin_name": "Hhohho",
+    "lat": "-26.4667",
+    "lng": "31.2000",
+    "id": "1748963140"
+  },
+  {
+    "city": "Piggs Peak",
+    "city_ascii": "Piggs Peak",
+    "admin_name": "Hhohho",
+    "lat": "-25.9610",
+    "lng": "31.2470",
+    "id": "1748284923"
+  },
+  {
+    "city": "Lavumisa",
+    "city_ascii": "Lavumisa",
+    "admin_name": "Shiselweni",
+    "lat": "-27.2962",
+    "lng": "31.9000",
+    "id": "1748490870"
+  },
+  {
+    "city": "Hlatikulu",
+    "city_ascii": "Hlatikulu",
+    "admin_name": "Shiselweni",
+    "lat": "-27.0000",
+    "lng": "31.4167",
+    "id": "1748564468"
+  },
+  {
+    "city": "Nhlangano",
+    "city_ascii": "Nhlangano",
+    "admin_name": "Shiselweni",
+    "lat": "-27.1122",
+    "lng": "31.1983",
+    "id": "1748301792"
+  }
+]

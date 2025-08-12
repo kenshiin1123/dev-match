@@ -1,0 +1,218 @@
+[
+  {
+    "city": "Chaguanas",
+    "city_ascii": "Chaguanas",
+    "admin_name": "Chaguanas",
+    "lat": "10.5167",
+    "lng": "-61.4000",
+    "id": "1780795054"
+  },
+  {
+    "city": "Port of Spain",
+    "city_ascii": "Port of Spain",
+    "admin_name": "Port of Spain",
+    "lat": "10.6667",
+    "lng": "-61.5167",
+    "id": "1780670676"
+  },
+  {
+    "city": "San Fernando",
+    "city_ascii": "San Fernando",
+    "admin_name": "San Fernando",
+    "lat": "10.2833",
+    "lng": "-61.4667",
+    "id": "1780361077"
+  },
+  {
+    "city": "Arima",
+    "city_ascii": "Arima",
+    "admin_name": "Arima",
+    "lat": "10.6333",
+    "lng": "-61.2833",
+    "id": "1780753308"
+  },
+  {
+    "city": "San Juan",
+    "city_ascii": "San Juan",
+    "admin_name": "San Juan/Laventille",
+    "lat": "10.6500",
+    "lng": "-61.4500",
+    "id": "1780554728"
+  },
+  {
+    "city": "Couva",
+    "city_ascii": "Couva",
+    "admin_name": "Couva/Tabaquite/Talparo",
+    "lat": "10.4167",
+    "lng": "-61.4500",
+    "id": "1780835692"
+  },
+  {
+    "city": "Point Fortin",
+    "city_ascii": "Point Fortin",
+    "admin_name": "Point Fortin",
+    "lat": "10.1667",
+    "lng": "-61.6667",
+    "id": "1780702349"
+  },
+  {
+    "city": "Princes Town",
+    "city_ascii": "Princes Town",
+    "admin_name": "Princes Town",
+    "lat": "10.2667",
+    "lng": "-61.3833",
+    "id": "1780714817"
+  },
+  {
+    "city": "Tunapuna",
+    "city_ascii": "Tunapuna",
+    "admin_name": "Tunapuna/Piarco",
+    "lat": "10.6333",
+    "lng": "-61.3833",
+    "id": "1780508155"
+  },
+  {
+    "city": "Diego Martin",
+    "city_ascii": "Diego Martin",
+    "admin_name": "Diego Martin",
+    "lat": "10.7167",
+    "lng": "-61.5667",
+    "id": "1780534918"
+  },
+  {
+    "city": "Laventille",
+    "city_ascii": "Laventille",
+    "admin_name": "San Juan/Laventille",
+    "lat": "10.6500",
+    "lng": "-61.4833",
+    "id": "1780201146"
+  },
+  {
+    "city": "Sangre Grande",
+    "city_ascii": "Sangre Grande",
+    "admin_name": "Sangre Grande",
+    "lat": "10.5667",
+    "lng": "-61.1333",
+    "id": "1780469686"
+  },
+  {
+    "city": "Scarborough",
+    "city_ascii": "Scarborough",
+    "admin_name": "Tobago",
+    "lat": "11.1833",
+    "lng": "-60.7375",
+    "id": "1780875399"
+  },
+  {
+    "city": "Gasparillo",
+    "city_ascii": "Gasparillo",
+    "admin_name": "Couva/Tabaquite/Talparo",
+    "lat": "10.3167",
+    "lng": "-61.4167",
+    "id": "1780142944"
+  },
+  {
+    "city": "Siparia",
+    "city_ascii": "Siparia",
+    "admin_name": "Siparia",
+    "lat": "10.1333",
+    "lng": "-61.5000",
+    "id": "1780418671"
+  },
+  {
+    "city": "Claxton Bay",
+    "city_ascii": "Claxton Bay",
+    "admin_name": "Couva/Tabaquite/Talparo",
+    "lat": "10.3405",
+    "lng": "-61.4555",
+    "id": "1780203587"
+  },
+  {
+    "city": "Fyzabad",
+    "city_ascii": "Fyzabad",
+    "admin_name": "Siparia",
+    "lat": "10.1833",
+    "lng": "-61.5500",
+    "id": "1780514222"
+  },
+  {
+    "city": "Marabella",
+    "city_ascii": "Marabella",
+    "admin_name": "San Fernando",
+    "lat": "10.3000",
+    "lng": "-61.4500",
+    "id": "1780714221"
+  },
+  {
+    "city": "Valencia",
+    "city_ascii": "Valencia",
+    "admin_name": "Sangre Grande",
+    "lat": "10.6500",
+    "lng": "-61.2000",
+    "id": "1780842812"
+  },
+  {
+    "city": "Penal",
+    "city_ascii": "Penal",
+    "admin_name": "Penal/Debe",
+    "lat": "10.1667",
+    "lng": "-61.4667",
+    "id": "1780976981"
+  },
+  {
+    "city": "Freeport",
+    "city_ascii": "Freeport",
+    "admin_name": "Couva/Tabaquite/Talparo",
+    "lat": "10.4500",
+    "lng": "-61.4167",
+    "id": "1780420196"
+  },
+  {
+    "city": "Arouca",
+    "city_ascii": "Arouca",
+    "admin_name": "Tunapuna/Piarco",
+    "lat": "10.6333",
+    "lng": "-61.3333",
+    "id": "1780178879"
+  },
+  {
+    "city": "Carenage",
+    "city_ascii": "Carenage",
+    "admin_name": "Diego Martin",
+    "lat": "10.6833",
+    "lng": "-61.6000",
+    "id": "1780086595"
+  },
+  {
+    "city": "Rio Claro",
+    "city_ascii": "Rio Claro",
+    "admin_name": "Mayaro/Rio Claro",
+    "lat": "10.3042",
+    "lng": "-61.1708",
+    "id": "1780883666"
+  },
+  {
+    "city": "Cunupia",
+    "city_ascii": "Cunupia",
+    "admin_name": "Chaguanas",
+    "lat": "10.5500",
+    "lng": "-61.3667",
+    "id": "1780256527"
+  },
+  {
+    "city": "Debe",
+    "city_ascii": "Debe",
+    "admin_name": "Penal/Debe",
+    "lat": "10.2000",
+    "lng": "-61.4500",
+    "id": "1780510715"
+  },
+  {
+    "city": "Aranguez",
+    "city_ascii": "Aranguez",
+    "admin_name": "San Juan/Laventille",
+    "lat": "10.6472",
+    "lng": "-61.4461",
+    "id": "1780000001"
+  }
+]
