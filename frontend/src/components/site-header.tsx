@@ -2,6 +2,7 @@ import { Separator } from "@/components/ui/separator";
 import { SidebarTrigger } from "@/components/ui/sidebar";
 import { Button } from "./ui/button";
 import ThemeSelector from "./theme-selector";
+import { Link } from "react-router-dom";
 
 export function SiteHeader() {
   return (
@@ -15,8 +16,10 @@ export function SiteHeader() {
         <h1 className="text-base font-medium">Home</h1>
         <div className="ml-auto flex items-center gap-2">
           <ThemeSelector />
-          <Button variant={"outline"}>Login</Button>
-          <Button variant={"outline"}>Register</Button>
+          <Link to={"/login"}>
+            <Button variant={"outline"}>Login</Button>
+          </Link>
+          <Button variant={"outline"}>Signup</Button>
         </div>
       </div>
     </header>
