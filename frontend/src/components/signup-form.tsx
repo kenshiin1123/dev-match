@@ -118,9 +118,6 @@ export function SignupForm() {
       <Tabs defaultValue="account">
         <TabsList>
           <TabsTrigger value="account">Account</TabsTrigger>
-          {inputValues.role === "employer" && (
-            <TabsTrigger value="company">Company</TabsTrigger>
-          )}
           <TabsTrigger value="password">Password</TabsTrigger>
           <TabsTrigger value="skills">Skills</TabsTrigger>
           <TabsTrigger value="address">Address</TabsTrigger>
@@ -185,6 +182,17 @@ const AccountContent: React.FC<{
               name="email"
             />
           </div>
+          {inputValues.role === "employer" && (
+            <div className="grid gap-3">
+              <Label htmlFor="company">Company</Label>
+              <Input
+                id="company"
+                value={inputValues.company}
+                onChange={onInputValueChange}
+                name="company"
+              />
+            </div>
+          )}
           <div className="grid gap-3">
             <Label>Account Type</Label>
             <div className=" border rounded-md [&>button]:w-[50%] [&>button]:h-full  [&>button]:py-2 divide-x">
