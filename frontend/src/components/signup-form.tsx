@@ -1,5 +1,6 @@
 import { v4 as uuid } from "uuid";
 
+import { ScrollArea } from "@/components/ui/scroll-area";
 import { Button } from "@/components/ui/button";
 import {
   Card,
@@ -12,7 +13,12 @@ import {
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
-import { useRef, useState, type ChangeEvent } from "react";
+import {
+  useRef,
+  useState,
+  type ChangeEvent,
+  type PropsWithChildren,
+} from "react";
 import { toast } from "sonner";
 import { Info } from "lucide-react";
 import { CountrySelect, CitySelect } from "@/components/location-select";
@@ -114,7 +120,7 @@ export function SignupForm() {
   };
 
   return (
-    <div className="flex w-full max-w-sm flex-col gap-6 mx-auto">
+    <ScrollArea className="flex w-full max-w-sm flex-col gap-6 mx-auto npm dlx shadcn@latest add scroll-area">
       <Tabs defaultValue="account">
         <TabsList>
           <TabsTrigger value="account">Account</TabsTrigger>
@@ -140,8 +146,9 @@ export function SignupForm() {
           inputValues={inputValues}
           onLocationChange={handleLocationChange}
         />
+        <ReviewContent inputValues={inputValues} />
       </Tabs>
-    </div>
+    </ScrollArea>
   );
 }
 
@@ -215,9 +222,10 @@ const AccountContent: React.FC<{
             </div>
           </div>
         </CardContent>
-
         <CardFooter>
-          <Button type="button">Next</Button>
+          <TabCardButton value="password" className="ml-auto">
+            Next
+          </TabCardButton>
         </CardFooter>
       </Card>
     </TabsContent>
@@ -260,7 +268,10 @@ const PasswordContent: React.FC<ContentType> = ({
           </div>
         </CardContent>
         <CardFooter>
-          <Button type="button">Next</Button>
+          <TabCardButton value="account">Previous</TabCardButton>
+          <TabCardButton value="skills" className="ml-auto">
+            Next
+          </TabCardButton>
         </CardFooter>
       </Card>
     </TabsContent>
@@ -294,44 +305,48 @@ const SkillsContent: React.FC<{
 
   return (
     <TabsContent value="skills">
-      <Card>
-        <CardHeader>
-          <CardTitle>Skills</CardTitle>
-          <CardDescription>
-            Type your skills and add your skills
-          </CardDescription>
-        </CardHeader>
-        <CardContent className="grid gap-1">
-          <Input ref={skillInputRef} id="skill" type="skill" />
-          <Button type="button" onClick={handleAddSkill} variant={"outline"}>
-            Add Skill
-          </Button>
-
-          <h1 className="mt-5">Your skills</h1>
-          <ul className="space-x-2 space-y-2 border rounded p-2 min-h-20">
-            {inputValues.skills.length > 0 && (
-              <CardDescription className="flex items-center gap-1 mb-3">
-                <Info size={15} /> Click a skill to remove
-              </CardDescription>
-            )}
-            {inputValues.skills.map((skill) => {
-              return (
-                <Button
-                  onClick={() => handleRemoveSkill(skill.id)}
-                  variant={"secondary"}
-                  className="border hover:bg-red-200 dark:hover-bg-red-400 dark:hover:text-black"
-                  key={skill.id}
-                >
-                  {skill.title}
-                </Button>
-              );
-            })}
-          </ul>
-        </CardContent>
-        <CardFooter>
-          <Button>Next</Button>
-        </CardFooter>
-      </Card>
+      <ScrollArea className="h-[75vh]">
+        <Card>
+          <CardHeader>
+            <CardTitle>Skills</CardTitle>
+            <CardDescription>
+              Type your skills and add your skills
+            </CardDescription>
+          </CardHeader>
+          <CardContent className="grid gap-1">
+            <Input ref={skillInputRef} id="skill" type="skill" />
+            <Button type="button" onClick={handleAddSkill} variant={"outline"}>
+              Add Skill
+            </Button>
+            <h1 className="mt-5">Your skills</h1>
+            <ul className="space-x-2 space-y-2 border rounded p-2 min-h-20">
+              {inputValues.skills.length > 0 && (
+                <CardDescription className="flex items-center gap-1 mb-3">
+                  <Info size={15} /> Click a skill to remove
+                </CardDescription>
+              )}
+              {inputValues.skills.map((skill) => {
+                return (
+                  <Button
+                    onClick={() => handleRemoveSkill(skill.id)}
+                    variant={"secondary"}
+                    className="border hover:bg-red-200 dark:hover-bg-red-400 dark:hover:text-black"
+                    key={skill.id}
+                  >
+                    {skill.title}
+                  </Button>
+                );
+              })}
+            </ul>
+          </CardContent>
+          <CardFooter>
+            <TabCardButton value="password">Previous</TabCardButton>
+            <TabCardButton value="address" className="ml-auto">
+              Next
+            </TabCardButton>
+          </CardFooter>
+        </Card>
+      </ScrollArea>
     </TabsContent>
   );
 };
@@ -375,9 +390,92 @@ const AddressContent: React.FC<{
           </div>
         </CardContent>
         <CardFooter>
-          <Button type="button">Next</Button>
+          <TabCardButton value="skills">Previous</TabCardButton>
+          <TabCardButton value="review" className="ml-auto">
+            Next
+          </TabCardButton>
         </CardFooter>
       </Card>
     </TabsContent>
+  );
+};
+
+const ReviewContent: React.FC<{ inputValues: InputsType }> = ({
+  inputValues,
+}) => {
+  return (
+    <TabsContent value="review">
+      <ScrollArea className="h-[75vh]">
+        <Card>
+          <CardHeader className="border-b">
+            <CardTitle className="text-2xl">Review Your Information</CardTitle>
+            <CardDescription>
+              Please review your information below before submitting your
+              registration. Make sure all details are correct.
+            </CardDescription>
+          </CardHeader>
+          <div className="flex flex-col gap-4 divide-y [&>div>h1]:text-md [&>div>h1]:font-semibold [&>div>p]:text-sm [&>div>p]:mb-5">
+            <CardContent>
+              <h1>{inputValues.name}</h1>
+              <p>Name</p>
+            </CardContent>
+            <CardContent>
+              <h1>{inputValues.email}</h1>
+              <p>Email</p>
+            </CardContent>
+            <CardContent>
+              <h1>{inputValues.role}</h1>
+              <p>Role</p>
+            </CardContent>
+            {inputValues.role === "employer" && (
+              <CardContent>
+                <h1>{inputValues.company}</h1>
+                <p>Company</p>
+              </CardContent>
+            )}
+            <CardContent>
+              <h1>
+                {inputValues.location.country.country},{" "}
+                {inputValues.location.city.city}
+              </h1>
+              <p>Location</p>
+            </CardContent>
+            <CardContent>
+              <ul className="space-x-2 space-y-2 rounded mb-5">
+                {inputValues.skills.map((skill) => {
+                  return (
+                    <Button variant={"secondary"} key={skill.id}>
+                      {skill.title}
+                    </Button>
+                  );
+                })}
+              </ul>
+              <p>Skills</p>
+            </CardContent>
+            <CardContent>
+              <h1>{inputValues.password}</h1>
+              <p>Password</p>
+            </CardContent>
+            <CardFooter>
+              <Button className="w-full">Register Account</Button>
+            </CardFooter>
+          </div>
+        </Card>
+      </ScrollArea>
+    </TabsContent>
+  );
+};
+
+const TabCardButton: React.FC<
+  PropsWithChildren<{ value: string; className?: string }>
+> = ({ value, className, children }) => {
+  return (
+    <TabsList className={`p-0 ${className}`}>
+      <TabsTrigger value={value} className="px-0 m-0">
+        <div className="w-full bg-primary text-primary-foreground px-4 py-2 rounded-md">
+          {children}
+        </div>
+      </TabsTrigger>
+    </TabsList>
   );
 };
