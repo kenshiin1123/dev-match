@@ -14,6 +14,7 @@ import { type ChangeEvent } from "react";
 import { TabCardButton } from "./tab-card-button";
 
 import type { InputsType } from "./signup-form-types";
+import { toast } from "sonner";
 
 export const AccountContent: React.FC<{
   inputValues: InputsType;
@@ -24,6 +25,11 @@ export const AccountContent: React.FC<{
     setInputValues((prevInputValues) => {
       return { ...prevInputValues, role: role };
     });
+  };
+
+  const handleTriggerClick = () => {
+    console.log("Hello");
+    toast.success("hello");
   };
 
   return (
@@ -89,7 +95,11 @@ export const AccountContent: React.FC<{
           </div>
         </CardContent>
         <CardFooter>
-          <TabCardButton value="password" className="ml-auto">
+          <TabCardButton
+            value="password"
+            className="ml-auto"
+            clickFunc={handleTriggerClick}
+          >
             Next
           </TabCardButton>
         </CardFooter>

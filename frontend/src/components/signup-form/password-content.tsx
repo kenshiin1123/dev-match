@@ -10,13 +10,46 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { TabsContent } from "@/components/ui/tabs";
 import { TabCardButton } from "./tab-card-button";
+import { passwordStrength as passwordStrengthChecker } from "check-password-strength";
 
 import type { ContentType } from "./signup-form-types";
+import { useEffect, useState } from "react";
 
 export const PasswordContent: React.FC<ContentType> = ({
   inputValues,
   onInputValueChange,
 }) => {
+  const [passwordStrengthVal, setPasswordStrengthVal] = useState<number>(0);
+
+  useEffect(() => {
+    const passwordStrength = passwordStrengthChecker(
+      inputValues.password
+    ).value;
+    let strengthVal = 0;
+
+    switch (passwordStrength) {
+      case "Too weak":
+        if (inputValues.password) strengthVal = 20;
+        break;
+      case "Weak":
+        strengthVal = 40;
+        break;
+      case "Fair":
+        strengthVal = 60;
+        break;
+      case "Medium":
+        strengthVal = 80;
+        break;
+      case "Strong":
+        strengthVal = 100;
+        break;
+      default:
+        strengthVal = 0;
+    }
+
+    setPasswordStrengthVal(strengthVal);
+  }, [inputValues.password]);
+
   return (
     <TabsContent value="password">
       <Card>
@@ -36,6 +69,27 @@ export const PasswordContent: React.FC<ContentType> = ({
               value={inputValues.password}
               onChange={onInputValueChange}
             />
+          </div>
+          <div className="grid gap-3">
+            <Label htmlFor="password-strength">
+              {inputValues.password ? (
+                <>
+                  Your password is{" "}
+                  {passwordStrengthChecker(
+                    inputValues.password
+                  ).value.toLowerCase()}
+                  .
+                </>
+              ) : (
+                <>Please input your password</>
+              )}
+            </Label>
+            <div className="flex items-center gap-3 border dark:bg-black rounded-2xl">
+              <div
+                className={`h-2 rounded-2xl bg-black dark:bg-white transition-w duration-800`}
+                style={{ width: `${passwordStrengthVal}%` }}
+              ></div>
+            </div>
           </div>
           <div className="grid gap-3">
             <Label htmlFor="confirm_password">Confirm password</Label>

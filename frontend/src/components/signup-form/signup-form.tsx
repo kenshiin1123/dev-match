@@ -59,7 +59,9 @@ export function SignupForm() {
       <Tabs defaultValue="account">
         <TabsList>
           {tabsTriggers.map((title) => (
-            <TabsTrigger value={title.toLowerCase()}>{title}</TabsTrigger>
+            <TabsTrigger key={title} value={title.toLowerCase()}>
+              {title}
+            </TabsTrigger>
           ))}
         </TabsList>
         <AccountContent
