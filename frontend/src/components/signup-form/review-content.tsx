@@ -22,8 +22,8 @@ export const ReviewContent: React.FC<{ inputValues: InputsType }> = ({
           <CardHeader className="border-b">
             <CardTitle className="text-2xl">Review Your Information</CardTitle>
             <CardDescription>
-              Please review your information below before submitting your
-              registration. Make sure all details are correct.
+              Double-check your details to make sure everything is correct
+              before submitting.
             </CardDescription>
           </CardHeader>
           <div className="flex flex-col gap-4 divide-y [&>div>h1]:text-md [&>div>h1]:font-semibold [&>div>p]:text-sm [&>div>p]:mb-5">

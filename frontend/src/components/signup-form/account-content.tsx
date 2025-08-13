@@ -31,7 +31,10 @@ export const AccountContent: React.FC<{
       <Card>
         <CardHeader>
           <CardTitle>Account</CardTitle>
-          <CardDescription>Input your account information here</CardDescription>
+          <CardDescription>
+            Provide your basic details so we can set up your profile and
+            personalize your experience.
+          </CardDescription>
         </CardHeader>
         <CardContent className="grid gap-6">
           <div className="grid gap-3">

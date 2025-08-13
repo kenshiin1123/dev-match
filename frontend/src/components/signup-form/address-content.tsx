@@ -24,7 +24,10 @@ export const AddressContent: React.FC<{
       <Card>
         <CardHeader>
           <CardTitle>Address</CardTitle>
-          <CardDescription>Fill in your address</CardDescription>
+          <CardDescription>
+            Enter your location so we can match you with relevant opportunities
+            and connections.
+          </CardDescription>
         </CardHeader>
         <CardContent className="grid gap-6">
           <div className="grid space-y-2">

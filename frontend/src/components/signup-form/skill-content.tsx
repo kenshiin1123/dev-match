@@ -50,7 +50,8 @@ export const SkillsContent: React.FC<{
           <CardHeader>
             <CardTitle>Skills</CardTitle>
             <CardDescription>
-              Type your skills and add your skills
+              Share your key skills and expertise to help others understand your
+              strengths.
             </CardDescription>
           </CardHeader>
           <CardContent className="grid gap-1">

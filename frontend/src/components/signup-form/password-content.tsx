@@ -23,7 +23,7 @@ export const PasswordContent: React.FC<ContentType> = ({
         <CardHeader>
           <CardTitle>Password</CardTitle>
           <CardDescription>
-            Change your password here. After saving, you&apos;ll be logged out.
+            Create a secure password to keep your account safe and private.
           </CardDescription>
         </CardHeader>
         <CardContent className="grid gap-6">
