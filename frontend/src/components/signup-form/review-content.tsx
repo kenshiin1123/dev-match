@@ -12,10 +12,42 @@ import {
 
 import { TabsContent } from "@/components/ui/tabs";
 import type { InputsType } from "./signup-form-types";
+import { useNavigation, useSubmit } from "react-router-dom";
 
 export const ReviewContent: React.FC<{ inputValues: InputsType }> = ({
   inputValues,
 }) => {
+  const submit = useSubmit();
+  const navigation = useNavigation();
+
+  const submitForm = () => {
+    const formData = new FormData();
+
+    const data = {
+      name: inputValues.name,
+      email: inputValues.email,
+      role: inputValues.role,
+      password: inputValues.password,
+      skills: inputValues.skills.map((skill) => skill.title), // Only have title string as element
+      location: `${inputValues.location.country.country}, ${inputValues.location.city.city}`,
+      company: inputValues.company,
+    };
+
+    formData.append("name", data.name);
+    formData.append("email", data.email);
+    formData.append("role", data.role);
+    formData.append("password", data.password);
+    formData.append("skills", JSON.stringify(data.skills));
+    formData.append("location", data.location);
+    formData.append("company", data.company);
+
+    submit(formData, {
+      method: "POST",
+    });
+  };
+
+  const isSubmitting = navigation.state === "submitting";
+
   return (
     <TabsContent value="review">
       <ScrollArea className="h-[75vh]">
@@ -70,7 +102,13 @@ export const ReviewContent: React.FC<{ inputValues: InputsType }> = ({
               <p>Password</p>
             </CardContent>
             <CardFooter>
-              <Button className="w-full">Register Account</Button>
+              <Button
+                className={`w-full ${isSubmitting ? "animate-pulse" : ""}`}
+                onClick={submitForm}
+                disabled={isSubmitting}
+              >
+                {isSubmitting ? "Registering Account" : "Register Account"}
+              </Button>
             </CardFooter>
           </div>
         </Card>

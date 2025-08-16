@@ -17,7 +17,8 @@ const register = wrapAsync(async (req, res) => {
   }
 
   // Extract data after validation
-  const { name, email, role, location, skills, password } = isValid.data;
+  const { name, email, role, location, skills, password, company } =
+    isValid.data;
 
   // Check for existing email
   const existingEmail = await dbClient.query(
@@ -37,13 +38,14 @@ const register = wrapAsync(async (req, res) => {
     role,
     location,
     skills,
+    company,
   };
 
   // Save to database
   try {
     await dbClient.query(
-      `INSERT INTO users (name, email, hashed_password, role, location, skills)
-     VALUES ($1, $2, $3, $4, $5, $6)`,
+      `INSERT INTO users (name, email, hashed_password, role, location, skills, company)
+     VALUES ($1, $2, $3, $4, $5, $6, $7)`,
       [
         userData.name,
         userData.email,
@@ -51,6 +53,7 @@ const register = wrapAsync(async (req, res) => {
         userData.role,
         userData.location,
         userData.skills,
+        userData.company,
       ]
     );
   } catch (error) {

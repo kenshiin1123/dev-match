@@ -23,6 +23,8 @@ import type {
 import RegisterModel, {
   type RegValidationRes,
 } from "../../model/register.model.ts";
+import { redirect, type ActionFunction } from "react-router-dom";
+import { toast } from "sonner";
 
 export default function signup() {
   const [inputValues, setInputValues] =
@@ -139,3 +141,47 @@ export default function signup() {
     </PageContainer>
   );
 }
+
+export const action: ActionFunction = async ({ request }) => {
+  const { VITE_API_BASE_URL } = import.meta.env;
+  const formData = await request.formData();
+
+  const payload = {
+    name: formData.get("name"),
+    email: formData.get("email"),
+    role: formData.get("role"),
+    password: formData.get("password"),
+    skills: JSON.parse(formData.get("skills")!.toString()),
+    location: formData.get("location"),
+    company: formData.get("company"),
+  };
+
+  const response = await fetch(VITE_API_BASE_URL + "/auth/register", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(payload),
+  });
+
+  const data = await response.json();
+
+  if (!data.success) {
+    const errorMessages = data.data.errors;
+
+    return toast.error(
+      <div>
+        <h1 className="font-bold">{data.message}:</h1>
+        <ul>
+          {errorMessages.map((errorMessage: string, i: string) => (
+            <li key={i}>{errorMessage}</li>
+          ))}
+        </ul>
+      </div>
+    );
+  } else if (data.success) {
+    toast.success(data.message);
+  }
+
+  return redirect("/login");
+};

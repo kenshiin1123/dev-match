@@ -45,7 +45,7 @@ const User = z.object({
       invalid_type_error: "Skills must be an array of strings",
     })
     .default([]),
-  company: z.string({ required_error: "Company is required" }),
+  company: z.string({ required_error: "Company is required" }).optional(),
   // avatar: z
   //   .object({
   //     buffer: z.string({ required_error: "Avatar buffer is required" }),
