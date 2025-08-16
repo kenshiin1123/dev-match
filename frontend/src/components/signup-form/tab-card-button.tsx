@@ -6,7 +6,6 @@ export const TabCardButton: React.FC<
     value: string;
     className?: string;
     disabled?: boolean;
-    clickFunc?: React.MouseEventHandler<HTMLButtonElement>;
   }>
 > = ({ value, className, children, disabled }) => {
   return (

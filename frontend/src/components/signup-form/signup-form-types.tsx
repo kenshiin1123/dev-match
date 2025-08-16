@@ -3,6 +3,8 @@ import type { ChangeEvent } from "react";
 // Types
 export type SkillType = { title: string; id: string }[];
 
+export type AccountType = "developer" | "employer";
+
 export type LocationType = {
   country: {
     country: string;
@@ -25,7 +27,7 @@ export type InputsType = {
   email: string;
   password: string;
   confirm_password: string;
-  role: string;
+  role: AccountType;
   location: LocationType;
   skills: SkillType;
   company: string;

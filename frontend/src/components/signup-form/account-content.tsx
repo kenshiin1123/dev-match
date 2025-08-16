@@ -13,24 +13,22 @@ import { TabsContent } from "@/components/ui/tabs";
 import { type ChangeEvent } from "react";
 import { TabCardButton } from "./tab-card-button";
 
-import type { InputsType } from "./signup-form-types";
-import { toast } from "sonner";
+import type { InputsType, AccountType } from "./signup-form-types";
 
 export const AccountContent: React.FC<{
   inputValues: InputsType;
   onInputValueChange: (event: ChangeEvent<HTMLInputElement>) => void;
   setInputValues: React.Dispatch<React.SetStateAction<InputsType>>;
 }> = ({ inputValues, onInputValueChange, setInputValues }) => {
-  const handleSetAccountType = (role: string) => {
+  const handleSetAccountType = (role: AccountType) => {
     setInputValues((prevInputValues) => {
       return { ...prevInputValues, role: role };
     });
   };
 
-  const handleTriggerClick = () => {
-    console.log("Hello");
-    toast.success("hello");
-  };
+  const isEmployerAndCompanyIsNotNull =
+    (inputValues.role === "employer" && inputValues.company) ||
+    inputValues.role === "developer";
 
   return (
     <TabsContent value="account">
@@ -44,7 +42,9 @@ export const AccountContent: React.FC<{
         </CardHeader>
         <CardContent className="grid gap-6">
           <div className="grid gap-3">
-            <Label htmlFor="name">Name</Label>
+            <Label htmlFor="name">
+              Name{!inputValues.name && <span className="text-red-500">*</span>}
+            </Label>
             <Input
               id="name"
               value={inputValues.name}
@@ -53,7 +53,10 @@ export const AccountContent: React.FC<{
             />
           </div>
           <div className="grid gap-3">
-            <Label htmlFor="email">Email</Label>
+            <Label htmlFor="email">
+              Email
+              {!inputValues.email && <span className="text-red-500">*</span>}
+            </Label>
             <Input
               id="email"
               value={inputValues.email}
@@ -63,7 +66,12 @@ export const AccountContent: React.FC<{
           </div>
           {inputValues.role === "employer" && (
             <div className="grid gap-3">
-              <Label htmlFor="company">Company</Label>
+              <Label htmlFor="company">
+                Company{" "}
+                {!inputValues.company && (
+                  <span className="text-red-500">*</span>
+                )}
+              </Label>
               <Input
                 id="company"
                 value={inputValues.company}
@@ -95,13 +103,13 @@ export const AccountContent: React.FC<{
           </div>
         </CardContent>
         <CardFooter>
-          <TabCardButton
-            value="password"
-            className="ml-auto"
-            clickFunc={handleTriggerClick}
-          >
-            Next
-          </TabCardButton>
+          {inputValues.name &&
+            inputValues.email &&
+            isEmployerAndCompanyIsNotNull && (
+              <TabCardButton value="password" className="ml-auto">
+                Next
+              </TabCardButton>
+            )}
         </CardFooter>
       </Card>
     </TabsContent>

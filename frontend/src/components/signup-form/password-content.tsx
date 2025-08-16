@@ -50,6 +50,7 @@ export const PasswordContent: React.FC<ContentType> = ({
     setPasswordStrengthVal(strengthVal);
   }, [inputValues.password]);
 
+  const passwordIsMatch = inputValues.password === inputValues.confirm_password;
   return (
     <TabsContent value="password">
       <Card>
@@ -61,7 +62,10 @@ export const PasswordContent: React.FC<ContentType> = ({
         </CardHeader>
         <CardContent className="grid gap-6">
           <div className="grid gap-3">
-            <Label htmlFor="password">Password</Label>
+            <Label htmlFor="password">
+              Password
+              {!inputValues.password && <span className="text-red-500">*</span>}
+            </Label>
             <Input
               id="password"
               type="password"
@@ -92,7 +96,17 @@ export const PasswordContent: React.FC<ContentType> = ({
             </div>
           </div>
           <div className="grid gap-3">
-            <Label htmlFor="confirm_password">Confirm password</Label>
+            <Label htmlFor="confirm_password">
+              Confirm password
+              {!inputValues.confirm_password && (
+                <span className="text-red-500">*</span>
+              )}
+              {!passwordIsMatch &&
+                inputValues.confirm_password.length > 0 &&
+                inputValues.confirm_password.length > 0 && (
+                  <span className="text-red-500">Does not match *</span>
+                )}
+            </Label>
             <Input
               id="confirm_password"
               type="password"
@@ -104,9 +118,13 @@ export const PasswordContent: React.FC<ContentType> = ({
         </CardContent>
         <CardFooter>
           <TabCardButton value="account">Previous</TabCardButton>
-          <TabCardButton value="skills" className="ml-auto">
-            Next
-          </TabCardButton>
+          {passwordIsMatch &&
+            inputValues.confirm_password.length > 0 &&
+            inputValues.confirm_password.length > 0 && (
+              <TabCardButton value="skills" className="ml-auto">
+                Next
+              </TabCardButton>
+            )}
         </CardFooter>
       </Card>
     </TabsContent>

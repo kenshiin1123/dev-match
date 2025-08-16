@@ -59,7 +59,12 @@ export const SkillsContent: React.FC<{
             <Button type="button" onClick={handleAddSkill} variant={"outline"}>
               Add Skill
             </Button>
-            <h1 className="mt-5">Your skills</h1>
+            <h1 className="mt-5">
+              Your skills{" "}
+              {inputValues.skills.length < 1 && (
+                <span className="text-red-500">*</span>
+              )}
+            </h1>
             <ul className="space-x-2 space-y-2 border rounded p-2 min-h-20">
               {inputValues.skills.length > 0 && (
                 <CardDescription className="flex items-center gap-1 mb-3">
@@ -82,9 +87,11 @@ export const SkillsContent: React.FC<{
           </CardContent>
           <CardFooter>
             <TabCardButton value="password">Previous</TabCardButton>
-            <TabCardButton value="address" className="ml-auto">
-              Next
-            </TabCardButton>
+            {inputValues.skills.length > 0 && (
+              <TabCardButton value="address" className="ml-auto">
+                Next
+              </TabCardButton>
+            )}
           </CardFooter>
         </Card>
       </ScrollArea>

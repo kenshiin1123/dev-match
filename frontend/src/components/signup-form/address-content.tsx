@@ -11,6 +11,7 @@ import { TabCardButton } from "./tab-card-button";
 import { CitySelect, CountrySelect } from "../location-select";
 import { INITIAL_INPUT_VALUE } from "./signup-form-types";
 import type { InputsType, LocationType } from "./signup-form-types";
+import type { RegValidationRes } from "model/register.model";
 
 export const AddressContent: React.FC<{
   inputValues: InputsType;
@@ -18,6 +19,7 @@ export const AddressContent: React.FC<{
     type: "country" | "city",
     value: LocationType["country"] | LocationType["city"]
   ) => void;
+  validatedFields: RegValidationRes;
 }> = ({ inputValues, onLocationChange }) => {
   return (
     <TabsContent value="address">
@@ -44,7 +46,6 @@ export const AddressContent: React.FC<{
               value={inputValues.location.city}
               countrySlug={inputValues.location.country.value}
               onChange={(city) => {
-                console.log(city);
                 return onLocationChange(
                   "city",
                   city || INITIAL_INPUT_VALUE.location.city
