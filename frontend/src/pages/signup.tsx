@@ -166,6 +166,10 @@ export const action: ActionFunction = async ({ request }) => {
 
   const data = await response.json();
 
+  if (response.status === 409) {
+    return toast.error(data.message);
+  }
+
   if (!data.success) {
     const errorMessages = data.data.errors;
 
