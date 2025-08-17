@@ -18,6 +18,7 @@ import {
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Link } from "react-router-dom";
+import { Loader2Icon } from "lucide-react";
 
 export default function login() {
   const navigation = useNavigation();
@@ -64,7 +65,13 @@ export default function login() {
                     }`}
                     disabled={isSubmitting}
                   >
-                    {isSubmitting ? "Logging in" : "Login"}
+                    {isSubmitting ? (
+                      <>
+                        <Loader2Icon className="animate-spin" /> Logging in
+                      </>
+                    ) : (
+                      "Login"
+                    )}
                   </Button>
                 </div>
                 <div className="text-center text-sm">

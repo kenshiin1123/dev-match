@@ -13,14 +13,18 @@ import {
   SidebarMenuButton,
 } from "./ui/sidebar";
 
-import { Home, BriefcaseBusiness, BookUser } from "lucide-react";
+import {
+  Home,
+  BriefcaseBusiness,
+  // BookUser
+} from "lucide-react";
 import { Link } from "react-router-dom";
 
 // Menu items.
 const items = [
   { title: "Home", url: "/", icon: Home },
   { title: "Jobs", url: "#", icon: BriefcaseBusiness },
-  { title: "Connections", url: "#", icon: BookUser },
+  // { title: "Connections", url: "#", icon: BookUser },
 ];
 
 const AppSidebar: FC<PropsWithChildren> = ({ children }) => {

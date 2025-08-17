@@ -10,17 +10,22 @@ import {
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { TabsContent } from "@/components/ui/tabs";
-import { type ChangeEvent } from "react";
+import { useEffect, type ChangeEvent } from "react";
 import { TabCardButton } from "./tab-card-button";
 
 import type { InputsType, AccountType } from "./signup-form-types";
+import { useSearchParams } from "react-router-dom";
 
 export const AccountContent: React.FC<{
   inputValues: InputsType;
   onInputValueChange: (event: ChangeEvent<HTMLInputElement>) => void;
   setInputValues: React.Dispatch<React.SetStateAction<InputsType>>;
 }> = ({ inputValues, onInputValueChange, setInputValues }) => {
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  // This is used to modify the account type
   const handleSetAccountType = (role: AccountType) => {
+    setSearchParams({ role: role });
     setInputValues((prevInputValues) => {
       return { ...prevInputValues, role: role };
     });
@@ -29,6 +34,20 @@ export const AccountContent: React.FC<{
   const isEmployerAndCompanyIsNotNull =
     (inputValues.role === "employer" && inputValues.company) ||
     inputValues.role === "developer";
+
+  useEffect(() => {
+    if (!searchParams.get("role")) setSearchParams({ role: "developer" });
+    setInputValues((prevInputValues) => {
+      const role = searchParams.get("role");
+
+      // If role is either employer or developer, do a change the input values
+      if (role === "developer" || role === "employer") {
+        return { ...prevInputValues, role: role };
+      } else {
+        return { ...prevInputValues };
+      }
+    });
+  }, []);
 
   return (
     <TabsContent value="account">

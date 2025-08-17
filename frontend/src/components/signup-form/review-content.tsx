@@ -13,6 +13,7 @@ import {
 import { TabsContent } from "@/components/ui/tabs";
 import type { InputsType } from "./signup-form-types";
 import { useNavigation, useSubmit } from "react-router-dom";
+import { Loader2Icon } from "lucide-react";
 
 export const ReviewContent: React.FC<{ inputValues: InputsType }> = ({
   inputValues,
@@ -107,7 +108,13 @@ export const ReviewContent: React.FC<{ inputValues: InputsType }> = ({
                 onClick={submitForm}
                 disabled={isSubmitting}
               >
-                {isSubmitting ? "Registering Account" : "Register Account"}
+                {isSubmitting ? (
+                  <>
+                    <Loader2Icon className="animate-spin" /> Registering
+                  </>
+                ) : (
+                  "Register Account"
+                )}
               </Button>
             </CardFooter>
           </div>
