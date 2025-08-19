@@ -1,4 +1,4 @@
-import { type PropsWithChildren, type FC, useEffect, useState } from "react";
+import { type PropsWithChildren, type FC } from "react";
 import {
   SidebarHeader,
   Sidebar,
@@ -13,11 +13,22 @@ import {
   SidebarMenuButton,
 } from "./ui/sidebar";
 
+import { type LucideProps } from "lucide-react";
+import { Link } from "react-router-dom";
+import { useSelector } from "react-redux";
+
+type ItemType = {
+  title: string;
+  url: string;
+  icon: React.ForwardRefExoticComponent<
+    Omit<LucideProps, "ref"> & React.RefAttributes<SVGSVGElement>
+  >;
+};
+
 import {
   Home,
   BriefcaseBusiness,
   BookUser,
-  type LucideProps,
   FileText,
   MessageSquare,
   User,
@@ -26,19 +37,10 @@ import {
   Users,
   Building,
 } from "lucide-react";
-import { Link, useLoaderData } from "react-router-dom";
-
-type ItemType = {
-  title: string;
-  url: string;
-  icon: React.ForwardRefExoticComponent<
-    Omit<LucideProps, "ref"> & React.RefAttributes<SVGSVGElement>
-  >;
-}[];
 
 const INITIAL_ITEMS = [
   { title: "Home", url: "/", icon: Home },
-  { title: "Jobs", url: "#", icon: BriefcaseBusiness },
+  { title: "Jobs", url: "/jobs", icon: BriefcaseBusiness },
 ];
 
 const DEVELOPER_ITEMS = [
@@ -63,18 +65,17 @@ const EMPLOYER_ITEMS = [
 ];
 
 const AppSidebar: FC<PropsWithChildren> = ({ children }) => {
-  const loaderData = useLoaderData();
+  const userRole = useSelector((state: any) => state.user.role);
+  let items = INITIAL_ITEMS;
 
-  // Menu items.
-  const [items, setItems] = useState<ItemType>(INITIAL_ITEMS);
-
-  useEffect(() => {
-    if (loaderData.role === "developer") {
-      setItems(DEVELOPER_ITEMS);
-    } else if (loaderData.role === "employer") {
-      setItems(EMPLOYER_ITEMS);
-    }
-  }, [loaderData.role]);
+  switch (userRole) {
+    case "developer":
+      items = DEVELOPER_ITEMS;
+      break;
+    case "employer":
+      items = EMPLOYER_ITEMS;
+      break;
+  }
 
   return (
     <SidebarProvider>
@@ -87,7 +88,7 @@ const AppSidebar: FC<PropsWithChildren> = ({ children }) => {
             <SidebarGroupLabel>Navigations</SidebarGroupLabel>
             <SidebarGroupContent>
               <SidebarMenu>
-                {items.map((item) => (
+                {items.map((item: ItemType) => (
                   <SidebarMenuItem key={item.title}>
                     <SidebarMenuButton asChild>
                       <Link to={item.url}>

@@ -3,8 +3,18 @@ import { SidebarTrigger } from "@/components/ui/sidebar";
 import { Button } from "./ui/button";
 import ThemeSelector from "./theme-selector";
 import { Link } from "react-router-dom";
+import { useDispatch, useSelector } from "react-redux";
+import { userActions } from "@/store/user-reducer";
 
 export function SiteHeader() {
+  const userRole = useSelector((state: any) => state.user.role);
+  const dispatch = useDispatch();
+
+  const handleLogout = () => {
+    localStorage.removeItem("token");
+    dispatch(userActions.setRole("anonymous"));
+  };
+
   return (
     <header className="flex h-13 shrink-0 items-center gap-2 border-b transition-[width,height] ease-linear group-has-data-[collapsible=icon]/sidebar-wrapper:h-(--header-height)">
       <div className="flex w-full items-center gap-1 px-4 lg:gap-2 lg:px-6">
@@ -16,19 +26,29 @@ export function SiteHeader() {
         <h1 className="text-base font-medium" id="header-text">
           Home
         </h1>
-        <div className="ml-auto flex items-center gap-1">
-          <ThemeSelector />
-          <Link to={"/login"}>
-            <Button variant={"outline"} className="max-sm:px-3">
-              Login
-            </Button>
-          </Link>
-          <Link to={"/signup"}>
-            <Button variant={"outline"} className="max-sm:px-3">
-              Signup
-            </Button>
-          </Link>
-        </div>
+        {userRole === "anonymous" ? (
+          <div className="ml-auto flex items-center gap-1">
+            <ThemeSelector />
+            <Link to={"/login"}>
+              <Button variant={"outline"} className="max-sm:px-3">
+                Login
+              </Button>
+            </Link>
+            <Link to={"/signup"}>
+              <Button variant={"outline"} className="max-sm:px-3">
+                Signup
+              </Button>
+            </Link>
+          </div>
+        ) : (
+          <Button
+            onClick={handleLogout}
+            variant={"outline"}
+            className="max-sm:px-3 ml-auto"
+          >
+            Logout
+          </Button>
+        )}
       </div>
     </header>
   );

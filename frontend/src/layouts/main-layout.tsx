@@ -1,12 +1,16 @@
-import { Outlet, useLocation } from "react-router-dom";
+import { Outlet, useLoaderData, useLocation } from "react-router-dom";
 import AppSideBar from "../components/app-sidebar";
 import { ThemeProvider } from "@/components/ui/theme-provider";
 import { SiteHeader } from "@/components/site-header";
 import { useEffect } from "react";
 import { Toaster } from "sonner";
+import { useDispatch } from "react-redux";
+import { userActions } from "@/store/user-reducer";
 
 export default function MainLayout() {
   const location = useLocation();
+  const loaderData = useLoaderData();
+  const dispatch = useDispatch();
 
   const locations = [
     { location: "/", title: "Homepage" },
@@ -24,6 +28,10 @@ export default function MainLayout() {
       headerText!.innerHTML = "";
     }
   }, [location.pathname]);
+
+  useEffect(() => {
+    dispatch(userActions.setRole(loaderData.role));
+  }, [dispatch, loaderData.role]);
 
   return (
     <ThemeProvider>
