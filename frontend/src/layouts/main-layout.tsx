@@ -23,7 +23,7 @@ export default function MainLayout() {
     } else {
       headerText!.innerHTML = "";
     }
-  });
+  }, [location.pathname]);
 
   return (
     <ThemeProvider>
