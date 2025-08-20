@@ -58,6 +58,32 @@ const PostJob = () => {
     });
   };
 
+  const handleSalarySet = (name: string, value: number) => {
+    if (
+      inputValues.salaryRange.salary_min <= inputValues.salaryRange.salary_max
+    ) {
+      setInputValues((prevInputValues: InputValuesType) => {
+        return {
+          ...prevInputValues,
+          salaryRange: {
+            ...prevInputValues.salaryRange,
+            [name]: value,
+          },
+        };
+      });
+    } else {
+      setInputValues((prevInputValues: InputValuesType) => {
+        return {
+          ...prevInputValues,
+          salaryRange: {
+            salary_min: value,
+            salary_max: value,
+          },
+        };
+      });
+    }
+  };
+
   const handleAddSkill = () => {
     if (skillInputRef.current && skillInputRef.current.value) {
       const newRequiredSkill = skillInputRef.current.value;
@@ -149,6 +175,7 @@ const PostJob = () => {
         <SalaryRange
           handleSalaryInputChange={handleSalaryInputChange}
           salaryRange={inputValues.salaryRange}
+          onSalarySet={handleSalarySet}
         />
         <Button className="mt-10 mx-auto w-40" size={"lg"}>
           Submit
