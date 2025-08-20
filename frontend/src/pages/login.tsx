@@ -1,7 +1,7 @@
 import PageContainer from "@/components/page-container";
 import {
   Form,
-  redirect,
+  useNavigate,
   useNavigation,
   type ActionFunction,
 } from "react-router-dom";
@@ -19,10 +19,26 @@ import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Link } from "react-router-dom";
 import { Loader2Icon } from "lucide-react";
-
-export default function login() {
+import { useActionData } from "react-router-dom";
+import { useEffect } from "react";
+import { useDispatch } from "react-redux";
+import { userActions } from "@/store/user-reducer";
+import { getDataFromToken } from "@/util/auth";
+export default function Login() {
   const navigation = useNavigation();
+  const navigate = useNavigate();
   const isSubmitting = navigation.state === "submitting";
+  const successfullyLoggedIn = useActionData();
+  const dispatch = useDispatch();
+
+  useEffect(() => {
+    // The purpose of this is to set the role in the RTK store
+    if (successfullyLoggedIn) {
+      const tokenData = getDataFromToken();
+      dispatch(userActions.setRole(tokenData.role));
+      navigate("/");
+    }
+  }, [successfullyLoggedIn, dispatch, navigate]);
 
   return (
     <PageContainer>
@@ -127,5 +143,8 @@ export const action: ActionFunction = async ({ request }) => {
   // Store token in localstorage
   localStorage.setItem("token", data.token);
   toast.success(message);
-  return redirect("/");
+
+  // Return this data to verify in the login that the user has successfully logged in
+  // And the token has already been saved
+  return success;
 };

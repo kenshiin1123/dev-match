@@ -62,6 +62,7 @@ const deleteAuthToken = () => {
 };
 
 export {
+  getDataFromToken,
   getAuthToken,
   tokenLoader,
   deleteAuthToken,
