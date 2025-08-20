@@ -2,17 +2,19 @@ import { Separator } from "@/components/ui/separator";
 import { SidebarTrigger } from "@/components/ui/sidebar";
 import { Button } from "./ui/button";
 import ThemeSelector from "./theme-selector";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { userActions } from "@/store/user-reducer";
 
 export function SiteHeader() {
   const userRole = useSelector((state: any) => state.user.role);
   const dispatch = useDispatch();
+  const navigate = useNavigate();
 
   const handleLogout = () => {
     localStorage.removeItem("token");
     dispatch(userActions.setRole("anonymous"));
+    navigate("/");
   };
 
   return (

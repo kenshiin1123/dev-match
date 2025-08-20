@@ -43,6 +43,26 @@ export const SkillsContent: React.FC<{
     toast.success("Successfully Removed Skill");
   };
 
+  const handleEnterAddSkill = (
+    event: React.KeyboardEvent<HTMLInputElement>
+  ) => {
+    if (event.key === "Enter") {
+      event.preventDefault();
+
+      if (skillInputRef.current) {
+        const value = skillInputRef.current.value.trim();
+        if (value) {
+          const skill = skillInputRef.current!.value;
+          const payload = { title: skill, id: uuid() };
+          onSkillsChange([...inputValues.skills, payload]);
+          // Clear input
+          skillInputRef.current.value = "";
+          skillInputRef.current.focus();
+        }
+      }
+    }
+  };
+
   return (
     <TabsContent value="skills">
       <ScrollArea className="h-[75vh]">
@@ -55,7 +75,12 @@ export const SkillsContent: React.FC<{
             </CardDescription>
           </CardHeader>
           <CardContent className="grid gap-1">
-            <Input ref={skillInputRef} id="skill" type="skill" />
+            <Input
+              ref={skillInputRef}
+              id="skill"
+              type="skill"
+              onKeyDown={handleEnterAddSkill}
+            />
             <Button type="button" onClick={handleAddSkill} variant={"outline"}>
               Add Skill
             </Button>
