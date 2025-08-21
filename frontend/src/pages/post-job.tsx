@@ -1,10 +1,12 @@
-import { useRef, useState } from "react";
+import { useRef, useState, type ChangeEvent } from "react";
 import { Button } from "@/components/ui/button";
 import { v4 as uuid } from "uuid";
 import { motion } from "motion/react";
 import TitleAndDescription from "@/components/jobpost-form/title-and-description";
 import RequiredSkills from "@/components/jobpost-form/required-skills";
 import SalaryRange from "@/components/jobpost-form/salary-range";
+import EmploymentType from "@/components/jobpost-form/employment-type";
+import RemoteSwitch from "@/components/jobpost-form/remote-switch";
 
 export type SalaryRangeType = {
   salary_min: number;
@@ -21,7 +23,7 @@ const INITIAL_SALARY_RANGE = {
   salary_max: 3000,
 };
 
-type InputValuesType = {
+export type InputValuesType = {
   title: string;
   description: string;
   requiredSkills: SkillType[];
@@ -36,7 +38,7 @@ const PostJob = () => {
     description: "",
     requiredSkills: [],
     salaryRange: INITIAL_SALARY_RANGE,
-    employmentType: "",
+    employmentType: "full-time",
     remote: false,
   });
 
@@ -144,16 +146,30 @@ const PostJob = () => {
   };
 
   // This is used for title, description, employmentType, and remote
-  // const handleInputChange = (event: ChangeEvent<HTMLInputElement>) => {
-  //   if (event.target) {
-  //     const value = event.target.value;
-  //     const name = event.target.name;
+  const handleInputChange = (
+    event: ChangeEvent<HTMLInputElement> | ChangeEvent<HTMLTextAreaElement>
+  ) => {
+    if (event.target) {
+      const value = event.target.value;
+      const name = event.target.name;
 
-  //     setInputValues((prevInputValues) => {
-  //       return { ...prevInputValues, [name]: value };
-  //     });
-  //   }
-  // };
+      setInputValues((prevInputValues) => {
+        return { ...prevInputValues, [name]: value };
+      });
+    }
+  };
+
+  const handleEmploymentTypeChange = (value: string) => {
+    setInputValues((prevInputValues: InputValuesType) => {
+      return { ...prevInputValues, employmentType: value };
+    });
+  };
+
+  const handleRemoteToggle = () => {
+    setInputValues((prevInputValues) => {
+      return { ...prevInputValues, remote: !prevInputValues.remote };
+    });
+  };
 
   return (
     <div className="w-full min-h-[100vh] flex flex-col bg-background pt-10 items-center pb-20">
@@ -164,7 +180,10 @@ const PostJob = () => {
         transition={{ duration: 0.35 }}
         className="w-[90%] sm:w-120 md:w-150 h-fit bg-accent p-5 rounded-md [&>section]:space-y-3 space-y-5 mx-auto flex flex-col"
       >
-        <TitleAndDescription />
+        <TitleAndDescription
+          inputValues={inputValues}
+          onInputChange={handleInputChange}
+        />
         <RequiredSkills
           handleAddSkill={handleAddSkill}
           handleRemoveSkill={handleRemoveSkill}
@@ -177,7 +196,15 @@ const PostJob = () => {
           salaryRange={inputValues.salaryRange}
           onSalarySet={handleSalarySet}
         />
-        <Button className="mt-10 mx-auto w-40" size={"lg"}>
+        <EmploymentType
+          employmentType={inputValues.employmentType}
+          onInputValuesChange={handleEmploymentTypeChange}
+        />
+        <RemoteSwitch
+          onInputChange={handleRemoteToggle}
+          remote={inputValues.remote}
+        />
+        <Button className="mt-5 mx-auto w-40" size={"lg"}>
           Submit
         </Button>
       </motion.div>
@@ -187,8 +214,8 @@ const PostJob = () => {
 
 /*
 TODO:
-  1. Control the input of title and description
-  2. Create components for employment type and remote
+  1. Control the input of title and description [done]
+  2. Create components for employment type and remote [done]
   3. Connect to backend
 */
 

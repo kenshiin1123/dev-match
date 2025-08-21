@@ -16,7 +16,7 @@ const SalaryRange: React.FC<{
   };
 
   return (
-    <div className="flex gap-2 flex-col sm:flex-row justify-between w-[95%] mx-auto">
+    <div className="flex gap-2 flex-col sm:flex-row justify-between w-[95%] mx-auto [&>section]:sm:w-1/2">
       <section className="flex flex-col gap-3">
         <Label htmlFor="salary_min">Min Salary</Label>
         <Input
