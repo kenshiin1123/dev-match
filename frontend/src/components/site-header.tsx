@@ -13,7 +13,7 @@ export function SiteHeader() {
 
   const handleLogout = () => {
     localStorage.removeItem("token");
-    dispatch(userActions.setRole("anonymous"));
+    dispatch(userActions.logOutUser());
     navigate("/");
   };
 

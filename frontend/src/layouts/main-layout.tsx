@@ -6,6 +6,7 @@ import { useEffect } from "react";
 import { Toaster } from "sonner";
 import { useDispatch } from "react-redux";
 import { userActions } from "@/store/user-reducer";
+import { getAuthToken } from "@/util/auth";
 
 export default function MainLayout() {
   const location = useLocation();
@@ -30,8 +31,31 @@ export default function MainLayout() {
   }, [location.pathname]);
 
   useEffect(() => {
-    dispatch(userActions.setRole(loaderData.role));
-  }, [dispatch, loaderData.role]);
+    if (!loaderData || !loaderData.user_id) {
+      // Don't proceed to next block if user_id is missing
+      return;
+    }
+
+    const fetchUserData = async () => {
+      const { VITE_API_BASE_URL } = import.meta.env;
+      const response = await fetch(VITE_API_BASE_URL + "/users/me", {
+        method: "GET",
+        headers: {
+          Authorization: "Bearer " + getAuthToken(),
+        },
+      });
+
+      const { success, data } = await response.json();
+
+      if (!success) {
+        return;
+      }
+
+      dispatch(userActions.setUser(data));
+    };
+
+    fetchUserData();
+  }, [loaderData]);
 
   return (
     <ThemeProvider>

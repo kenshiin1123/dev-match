@@ -12,7 +12,30 @@ const getUser = wrapAsync(async (req, res) => {
   // Find user in database by the id provided
 
   const user = await dbClient.query(
-    "SELECT name, email, skills, company, avatar, avatar_content_type, created_at FROM users WHERE user_id=$1;",
+    "SELECT name, email, skills, company, avatar, avatar_content_type, role, created_at FROM users WHERE user_id=$1;",
+    [user_id]
+  );
+
+  // Verify if user is available
+  if (user.rows.length < 1 || user.rowCount < 1) {
+    throw new AppError("User not found!", 404);
+  }
+
+  res.json({
+    message: "Successfully retrieved user data",
+    success: true,
+    data: user.rows[0],
+  });
+});
+
+const getMe = wrapAsync(async (req, res) => {
+  const user_id = req.token.user_id;
+  if (!user_id) throw new AppError("User id is required!", 422);
+
+  // Find user in database by the id provided
+
+  const user = await dbClient.query(
+    "SELECT user_id, name, email, role, location, skills, company, created_at, updated_at, avatar, avatar_content_type FROM users WHERE user_id=$1;",
     [user_id]
   );
 
@@ -199,6 +222,7 @@ const deleteUser = wrapAsync(async (req, res) => {
 
 export {
   patchUser,
+  getMe,
   getUser,
   getEmployerPostedJobs,
   getUserApplications,

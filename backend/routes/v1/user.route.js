@@ -11,6 +11,7 @@ import {
   employerApplicationResponse,
   getUsers,
   deleteUser,
+  getMe,
 } from "../../controllers/v1/user.controller.js";
 
 // Get user applications
@@ -23,10 +24,13 @@ router.patch( "/applications/:application_id", authMiddleware, employerApplicati
 // Employer role gets its posted jobs
 router.get("/jobs", authMiddleware, getEmployerPostedJobs);
 
+// Get all user's data
+router.get("/me", authMiddleware, getMe);
+
 // Get specific user
 router.get("/:user_id", getUser);
 
-// Get all users
+// Get all users  - this is for acmin
 router.get("/", getUsers);
 
 // Validate authorization token
@@ -34,6 +38,7 @@ router.use(authMiddleware);
 
 // This route can only modify these following user data:
 // name, location, skills, and company
+
 router.patch("/", patchUser);
 
 // Delete user

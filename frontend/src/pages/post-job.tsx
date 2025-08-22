@@ -1,4 +1,4 @@
-import { useRef, useState, type ChangeEvent } from "react";
+import { useEffect, useRef, useState, type ChangeEvent } from "react";
 import { Button } from "@/components/ui/button";
 import { v4 as uuid } from "uuid";
 import { motion } from "motion/react";
@@ -7,6 +7,15 @@ import RequiredSkills from "@/components/jobpost-form/required-skills";
 import SalaryRange from "@/components/jobpost-form/salary-range";
 import EmploymentType from "@/components/jobpost-form/employment-type";
 import RemoteSwitch from "@/components/jobpost-form/remote-switch";
+import {
+  useActionData,
+  useNavigation,
+  useSubmit,
+  type ActionFunction,
+} from "react-router-dom";
+import { toast } from "sonner";
+import { getAuthToken } from "@/util/auth";
+import { useSelector } from "react-redux";
 
 export type SalaryRangeType = {
   salary_min: number;
@@ -41,8 +50,12 @@ const PostJob = () => {
     employmentType: "full-time",
     remote: false,
   });
-
+  const userData = useSelector((state: any) => state.user);
   const skillInputRef = useRef<HTMLInputElement>(null);
+  const submit = useSubmit();
+  const navigation = useNavigation();
+  const isSubmitting = navigation.state == "submitting";
+  const actionData = useActionData();
 
   const handleSalaryInputChange = (
     event: React.ChangeEvent<HTMLInputElement>
@@ -171,6 +184,64 @@ const PostJob = () => {
     });
   };
 
+  const handleFormSubmit = () => {
+    const {
+      title,
+      description,
+      requiredSkills,
+      salaryRange,
+      employmentType,
+      remote,
+    } = inputValues;
+    if (
+      !title ||
+      !description ||
+      requiredSkills.length < 1 ||
+      !salaryRange ||
+      !employmentType ||
+      typeof remote !== "boolean"
+    ) {
+      return toast.error("Please fill all fields");
+    }
+
+    if (salaryRange.salary_min > salaryRange.salary_max) {
+      return toast.error(
+        "Minimun salary must be lesser than the maximum salary."
+      );
+    }
+    // Only use the skill title, exclude the ID
+    const skills = [...requiredSkills].map((skill) => skill.title);
+
+    const formData = new FormData();
+    formData.append("title", title);
+    formData.append("description", description);
+    formData.append("company", userData.company);
+    formData.append("location", userData.location);
+    formData.append("salary_min", JSON.stringify(salaryRange.salary_min));
+    formData.append("salary_max", JSON.stringify(salaryRange.salary_max));
+    formData.append("required_skills", JSON.stringify(skills));
+    formData.append("employment_type", employmentType);
+    formData.append("remote", JSON.stringify(remote));
+    return submit(formData, {
+      method: "POST",
+    });
+  };
+
+  useEffect(() => {
+    if (actionData) {
+      setInputValues(() => {
+        return {
+          title: "",
+          description: "",
+          requiredSkills: [],
+          salaryRange: INITIAL_SALARY_RANGE,
+          employmentType: "full-time",
+          remote: false,
+        };
+      });
+    }
+  }, [actionData]);
+
   return (
     <div className="w-full min-h-[100vh] flex flex-col bg-background pt-10 items-center pb-20">
       <h1 className="text-4xl font-extrabold mb-10">Post A Job</h1>
@@ -178,7 +249,7 @@ const PostJob = () => {
         initial={{ opacity: 0, y: 60 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.35 }}
-        className="w-[90%] sm:w-120 md:w-150 h-fit bg-accent p-5 rounded-md [&>section]:space-y-3 space-y-5 mx-auto flex flex-col"
+        className="w-[90%] sm:w-120 lg:w-150 h-fit bg-accent p-5 rounded-md [&>section]:space-y-3 space-y-5 mx-auto flex flex-col"
       >
         <TitleAndDescription
           inputValues={inputValues}
@@ -204,19 +275,54 @@ const PostJob = () => {
           onInputChange={handleRemoteToggle}
           remote={inputValues.remote}
         />
-        <Button className="mt-5 mx-auto w-40" size={"lg"}>
-          Submit
+        <Button
+          onClick={handleFormSubmit}
+          className="mt-5 mx-auto w-40"
+          size={"lg"}
+          disabled={isSubmitting}
+        >
+          {isSubmitting ? "Submittng" : "Submit"}
         </Button>
       </motion.div>
     </div>
   );
 };
 
-/*
-TODO:
-  1. Control the input of title and description [done]
-  2. Create components for employment type and remote [done]
-  3. Connect to backend
-*/
-
 export default PostJob;
+
+export const action: ActionFunction = async ({ request }) => {
+  const { VITE_API_BASE_URL } = import.meta.env;
+  const formData = await request.formData();
+
+  const extractedData = {
+    title: formData.get("title"),
+    description: formData.get("description"),
+    company: formData.get("company"),
+    location: formData.get("location"),
+    salary_min: parseInt(formData.get("salary_min")!.toString()),
+    salary_max: parseInt(formData.get("salary_max")!.toString()),
+    required_skills: JSON.parse(formData.get("required_skills")!.toString()),
+    employment_type: formData.get("employment_type"),
+    remote: Boolean(formData.get("remote")),
+  };
+
+  console.log(extractedData);
+
+  const response = await fetch(VITE_API_BASE_URL + "/jobposts", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: "Bearer " + getAuthToken(),
+    },
+    body: JSON.stringify(extractedData),
+  });
+
+  const { message, success } = await response.json();
+
+  if (!success) {
+    return toast.error(message);
+  }
+
+  toast.success(message);
+  return { success };
+};

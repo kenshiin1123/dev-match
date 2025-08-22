@@ -35,7 +35,7 @@ export default function Login() {
     // The purpose of this is to set the role in the RTK store
     if (successfullyLoggedIn) {
       const tokenData = getDataFromToken();
-      dispatch(userActions.setRole(tokenData.role));
+      dispatch(userActions.setUser({ role: tokenData.role }));
       navigate("/");
     }
   }, [successfullyLoggedIn, dispatch, navigate]);

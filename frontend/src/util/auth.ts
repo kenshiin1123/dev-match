@@ -36,13 +36,14 @@ const getAuthToken = () => {
 
 const getDataFromToken = () => {
   const token = getAuthToken();
+
   let data = JSON.parse(atob(token!.split(".")[1]));
   return data;
 };
 
 const tokenLoader = () => {
   const token = getAuthToken();
-  if (!token || token == undefined || token == null)
+  if (!token || token == undefined || token == null || token === "EXPIRED")
     return { role: "anonymous" };
   return getDataFromToken();
 };

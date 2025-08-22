@@ -27,7 +27,6 @@ const initialSchema = {
 };
 
 const jobSchema = z.object({
-  posted_by: z.string().uuid("Invalid UUID for posted_by"),
   ...initialSchema,
 });
 
