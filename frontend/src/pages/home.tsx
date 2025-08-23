@@ -11,6 +11,7 @@ import {
   Bell,
 } from "lucide-react";
 import { FeaturesDisplay } from "@/components/features-display";
+import { useSelector } from "react-redux";
 
 const howItWorkItems = [
   {
@@ -54,6 +55,7 @@ const featureItems = [
 ];
 
 export default function Home() {
+  const role = useSelector((state: any) => state.user.role);
   const motionVariant: Variants = {
     hidden: { opacity: 0, x: -30 },
     visible: { opacity: 1, x: 0, y: 0, transition: { duration: 0.4 } },
@@ -93,42 +95,45 @@ export default function Home() {
         className="bg-[url(/images/job_1.jpg)] h-100 bg-center bg-cover w-full rounded border shadow"
       />
       <FeaturesDisplay featureItems={featureItems} title="Features" />
-
-      <motion.h2
-        variants={motionVariant}
-        initial={{ opacity: 0, x: -10 }}
-        whileInView={"visible"}
-        className="indent-5 w-full text-3xl font-extrabold mt-5 text-center"
-      >
-        Join Dev Match Today
-      </motion.h2>
-      <motion.p
-        className="indent-2 text-xl font-bold text-center w-full"
-        variants={motionVariant}
-        initial="hidden"
-        whileInView="visible-2"
-      >
-        Whether you're looking for your next job or your next hire, we're got
-        you covered.
-      </motion.p>
-      {/* Call to action buttons */}
-      <motion.div
-        className="w-full flex justify-center gap-4"
-        variants={motionVariant}
-        initial="hidden"
-        animate="visible-3"
-      >
-        <Link to={"/signup?role=developer"}>
-          <Button size={"lg"} className="font-bold">
-            Join as Developer
-          </Button>
-        </Link>
-        <Link to={"/signup?role=employer"}>
-          <Button size={"lg"} className="font-bold">
-            Join as Employer
-          </Button>
-        </Link>
-      </motion.div>
+      {role === "anonymous" && (
+        <>
+          <motion.h2
+            variants={motionVariant}
+            initial={{ opacity: 0, x: -10 }}
+            whileInView={"visible"}
+            className="indent-5 w-full text-3xl font-extrabold mt-5 text-center"
+          >
+            Join Dev Match Today
+          </motion.h2>
+          <motion.p
+            className="indent-2 text-xl font-bold text-center w-full"
+            variants={motionVariant}
+            initial="hidden"
+            whileInView="visible-2"
+          >
+            Whether you're looking for your next job or your next hire, we're
+            got you covered.
+          </motion.p>
+          {/* Call to action buttons */}
+          <motion.div
+            className="w-full flex justify-center gap-4"
+            variants={motionVariant}
+            initial="hidden"
+            animate="visible-3"
+          >
+            <Link to={"/signup?role=developer"}>
+              <Button size={"lg"} className="font-bold">
+                Join as Developer
+              </Button>
+            </Link>
+            <Link to={"/signup?role=employer"}>
+              <Button size={"lg"} className="font-bold">
+                Join as Employer
+              </Button>
+            </Link>
+          </motion.div>
+        </>
+      )}
     </motion.div>
   );
 }
