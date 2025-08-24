@@ -221,7 +221,7 @@ const PostJob = () => {
     formData.append("salary_max", JSON.stringify(salaryRange.salary_max));
     formData.append("required_skills", JSON.stringify(skills));
     formData.append("employment_type", employmentType);
-    formData.append("remote", JSON.stringify(remote));
+    formData.append("remote", remote.toString());
     return submit(formData, {
       method: "POST",
     });
@@ -303,10 +303,8 @@ export const action: ActionFunction = async ({ request }) => {
     salary_max: parseInt(formData.get("salary_max")!.toString()),
     required_skills: JSON.parse(formData.get("required_skills")!.toString()),
     employment_type: formData.get("employment_type"),
-    remote: Boolean(formData.get("remote")),
+    remote: formData.get("remote") === "false" ? false : true,
   };
-
-  console.log(extractedData);
 
   const response = await fetch(VITE_API_BASE_URL + "/jobposts", {
     method: "POST",

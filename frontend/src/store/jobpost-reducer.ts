@@ -26,6 +26,7 @@ const jobpostSlice = createSlice({
     setJobposts(state, action) {
       const jobposts = action.payload;
       const parsedJobpost = jobposts.map((jobpost: JobpostType) => {
+        0;
         const salary_min = parseInt(jobpost.salary_min);
         const salary_max = parseInt(jobpost.salary_max);
         const timestamp = Date.parse(jobpost.timestamp);

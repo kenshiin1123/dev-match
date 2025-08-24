@@ -68,12 +68,32 @@ const JobsPage = () => {
               <motion.li
                 variants={elementVariant}
                 key={jobpost.jobpost_id}
-                className="border min-h-30 p-2"
+                className="border min-h-35 p-2 flex gap-4 h-20"
+                whileHover={{ scale: 1.01 }}
               >
-                <div></div>
-                <div>
-                  <h1>{jobpost.title}</h1>
-                  <p>{jobpost.description}</p>
+                <img
+                  src="/images/default_pic.png"
+                  alt=""
+                  className="h-full aspect-square"
+                />
+                <div className="flex flex-col">
+                  <h1 className="text-xl font-bold">
+                    {jobpost.title}{" "}
+                    {jobpost.remote && (
+                      <span className="text-lg opacity-88 ml-2">(Remote)</span>
+                    )}
+                  </h1>
+                  <p>{jobpost.company}</p>
+                  <p>{jobpost.location}</p>
+                  <div className="mt-auto text-md font-bold">
+                    <span title="Salary Min" className="cursor-help">
+                      ${jobpost.salary_min}
+                    </span>{" "}
+                    -{" "}
+                    <span title="Salary Max" className="cursor-help">
+                      {jobpost.salary_max}
+                    </span>
+                  </div>
                 </div>
               </motion.li>
             );
