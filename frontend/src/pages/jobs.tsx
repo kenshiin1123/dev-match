@@ -3,6 +3,7 @@ import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { toast } from "sonner";
 import { AnimatePresence, motion, stagger, type Variants } from "motion/react";
+import { useNavigate } from "react-router-dom";
 
 type JobpostType = {
   company: string;
@@ -22,6 +23,7 @@ type JobpostType = {
 const JobsPage = () => {
   const dispatch = useDispatch();
   const jobposts = useSelector((state: any) => state.jobpost.jobposts);
+  const navigate = useNavigate();
 
   const listVariant: Variants = {
     visible: {
@@ -68,8 +70,9 @@ const JobsPage = () => {
               <motion.li
                 variants={elementVariant}
                 key={jobpost.jobpost_id}
-                className="border min-h-35 p-2 flex gap-4 h-20"
+                className="border min-h-35 p-2 flex gap-4 h-20 bg-card"
                 whileHover={{ scale: 1.01 }}
+                onClick={() => navigate(jobpost.jobpost_id)}
               >
                 <img
                   src="/images/default_pic.png"

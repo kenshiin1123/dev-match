@@ -11,6 +11,9 @@ import Loginpage, { action as loginAction } from "./pages/login";
 import Signuppage, { action as signupAction } from "./pages/signup";
 import JobsPage from "./pages/jobs";
 import PostJobPage, { action as jobPostAction } from "./pages/post-job";
+import JobDisplayPage, {
+  loader as jobDisplayLoader,
+} from "./pages/job-display";
 
 // RTK Store
 import store from "./store/store";
@@ -33,6 +36,12 @@ const router = createBrowserRouter([
         element: <JobsLayout />,
         children: [
           { index: true, element: <JobsPage /> },
+          {
+            path: ":jobpost_id",
+            element: <JobDisplayPage />,
+            loader: jobDisplayLoader,
+            hydrateFallbackElement: <>Loading</>,
+          },
           { path: "new", element: <PostJobPage />, action: jobPostAction },
         ],
       },

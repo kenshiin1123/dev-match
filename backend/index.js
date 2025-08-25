@@ -21,7 +21,7 @@ app.use(cors("*"));
 app.use(morgan("dev"));
 app.use(express.json());
 app.use(helmet());
-app.use(limiter);
+// app.use(limiter);
 
 app.get("/", (req, res) => {
   return res.json({

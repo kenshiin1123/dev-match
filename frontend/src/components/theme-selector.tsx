@@ -9,12 +9,15 @@ import {
 import { useTheme } from "./ui/theme-provider";
 import { Sun, Moon, MonitorSmartphone } from "lucide-react";
 
-export default function ThemeSelector() {
+export default function ThemeSelector({ className }: { className?: string }) {
   const theme = useTheme();
 
   return (
     <Select value={theme.theme} onValueChange={theme.setTheme}>
-      <SelectTrigger size="sm" className=" max-sm:px-1 w-13 sm:w-[120px]">
+      <SelectTrigger
+        size="sm"
+        className={` max-sm:px-1 w-13 sm:w-[120px] ${className}`}
+      >
         <SelectValue placeholder="Theme" />
       </SelectTrigger>
       <SelectContent>

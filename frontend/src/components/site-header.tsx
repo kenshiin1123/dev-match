@@ -28,9 +28,9 @@ export function SiteHeader() {
         <h1 className="text-base font-medium" id="header-text">
           Home
         </h1>
+        <ThemeSelector className="ml-auto" />
         {userRole === "anonymous" ? (
-          <div className="ml-auto flex items-center gap-1">
-            <ThemeSelector />
+          <div className="flex items-center gap-1">
             <Link to={"/login"}>
               <Button variant={"outline"} className="max-sm:px-3">
                 Login
@@ -46,7 +46,7 @@ export function SiteHeader() {
           <Button
             onClick={handleLogout}
             variant={"outline"}
-            className="max-sm:px-3 ml-auto"
+            className="max-sm:px-3"
           >
             Logout
           </Button>
