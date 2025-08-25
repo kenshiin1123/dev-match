@@ -13,6 +13,7 @@ import JobsPage from "./pages/jobs";
 import PostJobPage, { action as jobPostAction } from "./pages/post-job";
 import JobDisplayPage, {
   loader as jobDisplayLoader,
+  action as jobApplicationAction,
 } from "./pages/job-display";
 
 // RTK Store
@@ -20,6 +21,7 @@ import store from "./store/store";
 
 // Loaders
 import { tokenLoader } from "./util/auth";
+import { Loader2 } from "lucide-react";
 
 const router = createBrowserRouter([
   {
@@ -40,7 +42,12 @@ const router = createBrowserRouter([
             path: ":jobpost_id",
             element: <JobDisplayPage />,
             loader: jobDisplayLoader,
-            hydrateFallbackElement: <>Loading</>,
+            action: jobApplicationAction,
+            hydrateFallbackElement: (
+              <div className="h-[100vh] w-[100%] z-10 fixed top-0 flex justify-center items-center bg-black/40 animate-pulse">
+                <Loader2 className="animate-spin" size={70} />
+              </div>
+            ),
           },
           { path: "new", element: <PostJobPage />, action: jobPostAction },
         ],

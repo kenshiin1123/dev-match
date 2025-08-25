@@ -1,5 +1,11 @@
 import { Button } from "@/components/ui/button";
-import { useLoaderData, type LoaderFunction } from "react-router-dom";
+import { getAuthToken } from "@/util/auth";
+import { useSelector } from "react-redux";
+import {
+  useLoaderData,
+  type ActionFunction,
+  type LoaderFunction,
+} from "react-router-dom";
 
 type JobpostType = {
   company: string;
@@ -36,6 +42,8 @@ const JobDisplayPage: React.FC = () => {
     data,
   }: { success: boolean; message: string; data: JobpostType } = useLoaderData();
 
+  const user_id = useSelector((state: any) => state.user.user_id);
+
   if (!success) {
     return (
       <div className="p-5 ">
@@ -51,6 +59,13 @@ const JobDisplayPage: React.FC = () => {
       </div>
     );
   }
+
+  const handleJobApply = () => {
+    // TODO: Before posting, allow developers to give a message to the employer when clicking "Apply Now" Button.
+    // Then Submit the data
+    // submit(null, { method: "POST" });
+  };
+
   return (
     <div className="p-5 pb-20">
       <div className="bg-card rounded w-full min-h-[85vh] p-5 py-10">
@@ -67,14 +82,23 @@ const JobDisplayPage: React.FC = () => {
         <h2 className="text-xl mt-5">
           ${data.salary_min} - ${data.salary_max}
         </h2>
-        <Button className="mt-5 font-bold">Apply Now</Button>
-        <Button className="mt-5 font-bold ml-3">Message</Button>
+        {user_id !== data.posted_by && (
+          <div>
+            <Button className="mt-5 font-bold" onClick={handleJobApply}>
+              Apply Now
+            </Button>
+            <Button className="mt-5 font-bold ml-3">Message</Button>
+          </div>
+        )}
         <div className="border mt-5" />
         <h2 className="text-xl mt-5 font-bold">Required Skills</h2>
         <ul className="flex gap-3 mt-3 flex-wrap">
           {data.required_skills.map((skill) => {
             return (
-              <li className="border w-fit rounded-md px-3 py-2 bg-accent">
+              <li
+                className="border w-fit rounded-md px-3 py-2 bg-accent"
+                key={skill}
+              >
                 {skill}
               </li>
             );
@@ -97,6 +121,24 @@ export const loader: LoaderFunction = async ({ params }) => {
   const { VITE_API_BASE_URL } = import.meta.env;
   const { jobpost_id } = params;
   const response = await fetch(VITE_API_BASE_URL + "/jobposts/" + jobpost_id);
+  const data = await response.json();
+  return data;
+};
+
+export const action: ActionFunction = async ({ params }) => {
+  const { VITE_API_BASE_URL } = import.meta.env;
+  const { jobpost_id } = params;
+  const response = await fetch(
+    VITE_API_BASE_URL + "/jobposts/" + jobpost_id + "/apply",
+    {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: "Bearer " + getAuthToken(),
+      },
+      body: JSON.stringify({ message: "Hello World" }),
+    }
+  );
   const data = await response.json();
   return data;
 };

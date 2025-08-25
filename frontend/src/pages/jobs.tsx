@@ -3,7 +3,9 @@ import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { toast } from "sonner";
 import { AnimatePresence, motion, stagger, type Variants } from "motion/react";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigation } from "react-router-dom";
+import Dialog from "../components/dialog";
+import { Loader2 } from "lucide-react";
 
 type JobpostType = {
   company: string;
@@ -23,7 +25,8 @@ type JobpostType = {
 const JobsPage = () => {
   const dispatch = useDispatch();
   const jobposts = useSelector((state: any) => state.jobpost.jobposts);
-  const navigate = useNavigate();
+  const navigation = useNavigation();
+  const isNavigating = navigation.state === "loading";
 
   const listVariant: Variants = {
     visible: {
@@ -70,39 +73,52 @@ const JobsPage = () => {
               <motion.li
                 variants={elementVariant}
                 key={jobpost.jobpost_id}
-                className="border min-h-35 p-2 flex gap-4 h-20 bg-card"
                 whileHover={{ scale: 1.01 }}
-                onClick={() => navigate(jobpost.jobpost_id)}
               >
-                <img
-                  src="/images/default_pic.png"
-                  alt=""
-                  className="h-full aspect-square"
-                />
-                <div className="flex flex-col">
-                  <h1 className="text-xl font-bold">
-                    {jobpost.title}{" "}
-                    {jobpost.remote && (
-                      <span className="text-lg opacity-88 ml-2">(Remote)</span>
-                    )}
-                  </h1>
-                  <p>{jobpost.company}</p>
-                  <p>{jobpost.location}</p>
-                  <div className="mt-auto text-md font-bold">
-                    <span title="Salary Min" className="cursor-help">
-                      ${jobpost.salary_min}
-                    </span>{" "}
-                    -{" "}
-                    <span title="Salary Max" className="cursor-help">
-                      {jobpost.salary_max}
-                    </span>
+                <Link
+                  to={jobpost.jobpost_id}
+                  className="border min-h-35 p-2 flex gap-4 h-20 bg-card"
+                >
+                  <img
+                    src="/images/default_pic.png"
+                    alt=""
+                    className="h-full aspect-square"
+                  />
+                  <div className="flex flex-col">
+                    <h1 className="text-xl font-bold">
+                      {jobpost.title}{" "}
+                      {jobpost.remote && (
+                        <span className="text-lg opacity-88 ml-2">
+                          (Remote)
+                        </span>
+                      )}
+                    </h1>
+                    <p>{jobpost.company}</p>
+                    <p>{jobpost.location}</p>
+                    <div className="mt-auto text-md font-bold">
+                      <span title="Salary Min" className="cursor-help">
+                        ${jobpost.salary_min}
+                      </span>{" "}
+                      -{" "}
+                      <span title="Salary Max" className="cursor-help">
+                        {jobpost.salary_max}
+                      </span>
+                    </div>
                   </div>
-                </div>
+                </Link>
               </motion.li>
             );
           })}
         </AnimatePresence>
       </motion.ul>
+      {isNavigating && (
+        // Loading
+        <Dialog>
+          <form method="dialog" className="mx-auto my-auto">
+            <Loader2 className="animate-spin dark:text-white" size={70} />
+          </form>
+        </Dialog>
+      )}
     </div>
   );
 };
