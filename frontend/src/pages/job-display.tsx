@@ -1,11 +1,20 @@
+import Dialog from "@/components/dialog";
 import { Button } from "@/components/ui/button";
+import { Label } from "@/components/ui/label";
+import { Textarea } from "@/components/ui/textarea";
 import { getAuthToken } from "@/util/auth";
+import { X } from "lucide-react";
+import { useEffect, useRef, useState } from "react";
 import { useSelector } from "react-redux";
 import {
+  redirect,
   useLoaderData,
+  useNavigation,
+  useSubmit,
   type ActionFunction,
   type LoaderFunction,
 } from "react-router-dom";
+import { toast } from "sonner";
 
 type JobpostType = {
   company: string;
@@ -42,7 +51,13 @@ const JobDisplayPage: React.FC = () => {
     data,
   }: { success: boolean; message: string; data: JobpostType } = useLoaderData();
 
+  const submit = useSubmit();
   const user_id = useSelector((state: any) => state.user.user_id);
+  const role = useSelector((state: any) => state.user.role);
+  const [showApplication, setShowApplication] = useState(false);
+  const messageRef = useRef<HTMLTextAreaElement>(null);
+  const navigation = useNavigation();
+  const isSubmitting = navigation.state === "submitting";
 
   if (!success) {
     return (
@@ -60,10 +75,32 @@ const JobDisplayPage: React.FC = () => {
     );
   }
 
-  const handleJobApply = () => {
-    // TODO: Before posting, allow developers to give a message to the employer when clicking "Apply Now" Button.
-    // Then Submit the data
-    // submit(null, { method: "POST" });
+  useEffect(() => {
+    if (!showApplication) return;
+
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.key === "Escape") {
+        setShowApplication(false);
+      }
+    };
+
+    window.addEventListener("keydown", handleKeyDown);
+
+    return () => {
+      window.removeEventListener("keydown", handleKeyDown);
+    };
+  }, [showApplication]);
+
+  const handleSubmitApplication = () => {
+    if (messageRef.current && !messageRef.current.value) {
+      return toast.error("Please fill the message before submitting.");
+    }
+
+    const formData = new FormData();
+
+    formData.append("message", messageRef.current!.value);
+
+    return submit(formData, { method: "POST" });
   };
 
   return (
@@ -82,9 +119,12 @@ const JobDisplayPage: React.FC = () => {
         <h2 className="text-xl mt-5">
           ${data.salary_min} - ${data.salary_max}
         </h2>
-        {user_id !== data.posted_by && (
+        {user_id !== data.posted_by && role === "developer" && (
           <div>
-            <Button className="mt-5 font-bold" onClick={handleJobApply}>
+            <Button
+              className="mt-5 font-bold"
+              onClick={() => setShowApplication(true)}
+            >
               Apply Now
             </Button>
             <Button className="mt-5 font-bold ml-3">Message</Button>
@@ -113,6 +153,36 @@ const JobDisplayPage: React.FC = () => {
           <span className="font-medium ml-3">{data.location}</span>
         </h2>
       </div>
+      {/* Message for the employer dialog */}
+      {showApplication && (
+        <Dialog>
+          <div className="w-120 h-fit bg-accent mt-30 rounded-md p-3 dark:text-white flex flex-col relative">
+            <Button
+              className="w-fit ml-auto"
+              variant={"outline"}
+              onClick={() => setShowApplication(false)}
+            >
+              <X />
+            </Button>
+            <h1 className="text-2xl font-bold mb-5 mx-auto">Application</h1>
+            <Label htmlFor="message" className="mb-3 text-md font-semibold">
+              Message for employer
+            </Label>
+            <Textarea
+              id="message"
+              className="min-h-40"
+              ref={messageRef}
+            ></Textarea>
+            <Button
+              className="mt-4 ml-auto"
+              onClick={handleSubmitApplication}
+              disabled={isSubmitting}
+            >
+              {isSubmitting ? "Submitting application..." : "Submit appication"}
+            </Button>
+          </div>
+        </Dialog>
+      )}
     </div>
   );
 };
@@ -125,9 +195,12 @@ export const loader: LoaderFunction = async ({ params }) => {
   return data;
 };
 
-export const action: ActionFunction = async ({ params }) => {
+export const action: ActionFunction = async ({ params, request }) => {
   const { VITE_API_BASE_URL } = import.meta.env;
   const { jobpost_id } = params;
+  const formData = await request.formData();
+  const messageForEmp = formData.get("message");
+
   const response = await fetch(
     VITE_API_BASE_URL + "/jobposts/" + jobpost_id + "/apply",
     {
@@ -136,11 +209,18 @@ export const action: ActionFunction = async ({ params }) => {
         "Content-Type": "application/json",
         Authorization: "Bearer " + getAuthToken(),
       },
-      body: JSON.stringify({ message: "Hello World" }),
+      body: JSON.stringify({ message: messageForEmp }),
     }
   );
-  const data = await response.json();
-  return data;
+  const { message, success, data } = await response.json();
+
+  if (!success) {
+    console.log(data);
+    return toast.error(message);
+  }
+
+  toast.success(message);
+  return redirect("/jobs");
 };
 
 export default JobDisplayPage;
