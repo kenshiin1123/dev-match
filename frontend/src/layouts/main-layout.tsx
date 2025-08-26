@@ -1,4 +1,9 @@
-import { Outlet, useLoaderData, useLocation } from "react-router-dom";
+import {
+  Outlet,
+  useLoaderData,
+  useLocation,
+  useNavigation,
+} from "react-router-dom";
 import AppSideBar from "../components/app-sidebar";
 import { ThemeProvider } from "@/components/ui/theme-provider";
 import { SiteHeader } from "@/components/site-header";
@@ -7,11 +12,15 @@ import { Toaster } from "sonner";
 import { useDispatch } from "react-redux";
 import { userActions } from "@/store/user-reducer";
 import { getAuthToken } from "@/util/auth";
+import Dialog from "@/components/dialog";
+import { Loader2 } from "lucide-react";
 
 export default function MainLayout() {
   const location = useLocation();
   const loaderData = useLoaderData();
   const dispatch = useDispatch();
+  const navigation = useNavigation();
+  const isNavigating = navigation.state === "loading";
 
   const locations = [
     { location: "/", title: "Homepage" },
@@ -64,6 +73,14 @@ export default function MainLayout() {
         <Outlet />
       </AppSideBar>
       <Toaster />
+      {isNavigating && (
+        // Loading
+        <Dialog>
+          <form method="dialog" className="mx-auto my-auto">
+            <Loader2 className="animate-spin dark:text-white" size={70} />
+          </form>
+        </Dialog>
+      )}
     </ThemeProvider>
   );
 }

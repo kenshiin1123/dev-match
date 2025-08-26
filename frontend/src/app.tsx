@@ -15,6 +15,9 @@ import JobDisplayPage, {
   loader as jobDisplayLoader,
   action as jobApplicationAction,
 } from "./pages/job-display";
+import ApplicationsPage, {
+  loader as applicationsLoader,
+} from "./pages/applications";
 
 // RTK Store
 import store from "./store/store";
@@ -51,6 +54,11 @@ const router = createBrowserRouter([
           },
           { path: "new", element: <PostJobPage />, action: jobPostAction },
         ],
+      },
+      {
+        path: "applications",
+        element: <ApplicationsPage />,
+        loader: applicationsLoader,
       },
     ],
   },

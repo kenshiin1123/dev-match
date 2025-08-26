@@ -3,9 +3,7 @@ import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { toast } from "sonner";
 import { AnimatePresence, motion, stagger, type Variants } from "motion/react";
-import { Link, useNavigation } from "react-router-dom";
-import Dialog from "../components/dialog";
-import { Loader2 } from "lucide-react";
+import { Link } from "react-router-dom";
 
 type JobpostType = {
   company: string;
@@ -25,8 +23,6 @@ type JobpostType = {
 const JobsPage = () => {
   const dispatch = useDispatch();
   const jobposts = useSelector((state: any) => state.jobpost.jobposts);
-  const navigation = useNavigation();
-  const isNavigating = navigation.state === "loading";
 
   const listVariant: Variants = {
     visible: {
@@ -111,14 +107,6 @@ const JobsPage = () => {
           })}
         </AnimatePresence>
       </motion.ul>
-      {isNavigating && (
-        // Loading
-        <Dialog>
-          <form method="dialog" className="mx-auto my-auto">
-            <Loader2 className="animate-spin dark:text-white" size={70} />
-          </form>
-        </Dialog>
-      )}
     </div>
   );
 };

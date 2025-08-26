@@ -83,7 +83,18 @@ const getUserApplications = wrapAsync(async (req, res) => {
     [user_id]
   );
 
-  const applications = applicationsQuery.rows;
+  // append job title in every application
+  const applications = await Promise.all(
+    applicationsQuery.rows.map(async (application) => {
+      const jobQuery = await dbClient.query(
+        "SELECT title FROM jobposts WHERE jobpost_id = $1",
+        [application.jobpost_id]
+      );
+
+      const job = jobQuery.rows[0];
+      return { ...application, job: job.title };
+    })
+  );
 
   res.json({
     message: "Successfully retrieved user applications",
