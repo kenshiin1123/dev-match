@@ -1,9 +1,12 @@
 import { jobpostAction } from "@/store/jobpost-reducer";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { toast } from "sonner";
 import { AnimatePresence, motion, stagger, type Variants } from "motion/react";
-import { Link } from "react-router-dom";
+import JobItem from "@/components/job-item";
+import { Label } from "@/components/ui/label";
+import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group";
+import { getAuthToken } from "@/util/auth";
 
 type JobpostType = {
   company: string;
@@ -23,6 +26,9 @@ type JobpostType = {
 const JobsPage = () => {
   const dispatch = useDispatch();
   const jobposts = useSelector((state: any) => state.jobpost.jobposts);
+  // const user_id = useSelector((state: any) => state.user.user_id);
+  const role = useSelector((state: any) => state.user.role);
+  const [jobFilter, setJobFilter] = useState("all");
 
   const listVariant: Variants = {
     visible: {
@@ -33,15 +39,23 @@ const JobsPage = () => {
     },
     hidden: { opacity: 0, transition: { when: "afterChildren" } },
   };
-  const elementVariant: Variants = {
-    visible: { opacity: 1, x: 0 },
-    hidden: { opacity: 0, x: -30 },
-  };
 
   useEffect(() => {
     const fetchJobs = async () => {
       const { VITE_API_BASE_URL } = import.meta.env;
-      const response = await fetch(VITE_API_BASE_URL + "/jobposts");
+
+      let fetchInput = VITE_API_BASE_URL + "/jobposts";
+
+      if (role === "employer" && jobFilter === "posted") {
+        fetchInput = VITE_API_BASE_URL + "/users/jobs";
+      }
+
+      const response = await fetch(fetchInput, {
+        headers: {
+          Authorization: "Bearer " + getAuthToken(),
+        },
+      });
+
       const { message, success, data } = await response.json();
 
       if (!success) {
@@ -53,10 +67,29 @@ const JobsPage = () => {
     };
 
     fetchJobs();
-  }, []);
+  }, [jobFilter]);
 
   return (
     <div>
+      <h1 className="text-2xl mt-5 ml-5 font-bold">Job Filter</h1>
+      {/* Filter */}
+      <RadioGroup
+        defaultValue={jobFilter}
+        onValueChange={(value) => setJobFilter(value)}
+        className="ml-5 my-5"
+      >
+        <div className="flex items-center space-x-2">
+          <RadioGroupItem value="all" id="all" />
+          <Label htmlFor="all">All available Jobs</Label>
+        </div>
+        {role === "employer" && (
+          <div className="flex items-center space-x-2">
+            <RadioGroupItem value="posted" id="posted" />
+            <Label htmlFor="posted">Posted Jobs</Label>
+          </div>
+        )}
+      </RadioGroup>
+
       <motion.ul
         variants={listVariant}
         initial="hidden"
@@ -64,47 +97,9 @@ const JobsPage = () => {
         className="flex flex-col p-5 gap-3 "
       >
         <AnimatePresence>
-          {jobposts.map((jobpost: JobpostType) => {
-            return (
-              <motion.li
-                variants={elementVariant}
-                key={jobpost.jobpost_id}
-                whileHover={{ scale: 1.01 }}
-              >
-                <Link
-                  to={jobpost.jobpost_id}
-                  className="border min-h-35 p-2 flex gap-4 h-20 bg-card"
-                >
-                  <img
-                    src="/images/default_pic.png"
-                    alt=""
-                    className="h-full aspect-square"
-                  />
-                  <div className="flex flex-col">
-                    <h1 className="text-xl font-bold">
-                      {jobpost.title}{" "}
-                      {jobpost.remote && (
-                        <span className="text-lg opacity-88 ml-2">
-                          (Remote)
-                        </span>
-                      )}
-                    </h1>
-                    <p>{jobpost.company}</p>
-                    <p>{jobpost.location}</p>
-                    <div className="mt-auto text-md font-bold">
-                      <span title="Salary Min" className="cursor-help">
-                        ${jobpost.salary_min}
-                      </span>{" "}
-                      -{" "}
-                      <span title="Salary Max" className="cursor-help">
-                        {jobpost.salary_max}
-                      </span>
-                    </div>
-                  </div>
-                </Link>
-              </motion.li>
-            );
-          })}
+          {jobposts.map((jobpost: JobpostType) => (
+            <JobItem jobpost={jobpost} key={jobpost.jobpost_id} />
+          ))}
         </AnimatePresence>
       </motion.ul>
     </div>

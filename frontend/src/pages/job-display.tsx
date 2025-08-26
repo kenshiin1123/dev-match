@@ -112,10 +112,11 @@ const JobDisplayPage: React.FC = () => {
             <Button
               className="mt-5 font-bold"
               onClick={() => setShowApplication(true)}
+              size={"lg"}
             >
               Apply Now
             </Button>
-            <Button className="mt-5 font-bold ml-3">Message</Button>
+            {/* <Button className="mt-5 font-bold ml-3">Message</Button> */}
           </div>
         )}
         <div className="border mt-5" />

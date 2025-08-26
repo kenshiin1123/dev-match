@@ -1,4 +1,4 @@
-import { Button } from "@/components/ui/button";
+// import { Button } from "@/components/ui/button";
 import { getAuthToken } from "@/util/auth";
 import { Link, useLoaderData } from "react-router-dom";
 import { toast } from "sonner";
@@ -19,12 +19,12 @@ type ApplicationType = {
 const ApplicationsPage = () => {
   const applications = useLoaderData();
 
-  const handleCancelApplication = (
-    event: React.MouseEvent<HTMLButtonElement>
-  ) => {
-    event.stopPropagation();
-    console.log("Canceled Application");
-  };
+  //   const handleCancelApplication = (
+  //     event: React.MouseEvent<HTMLButtonElement>
+  //   ) => {
+  //     event.stopPropagation();
+  //     console.log("Canceled Application");
+  //   };
 
   return (
     <div className="p-4">
@@ -37,41 +37,40 @@ const ApplicationsPage = () => {
         {applications.map((application: ApplicationType) => {
           return (
             <motion.li
-              whileHover={{ scale: 0.98 }}
-              className="flex flex-col justify-center rounded-md border bg-accent px-3 py-5"
+              whileHover={{ scale: 0.98, boxShadow: "none" }}
+              className="flex flex-col justify-center rounded-md border bg-card px-3 py-5 shadow"
               key={application.application_id}
             >
               <Link to={`/jobs/${application.jobpost_id}`}>
-                <div className="text-sm mb-1 opacity-80">
+                <div className="text-sm opacity-80 bg-accent w-fit p-1.5 rounded border mb-3">
                   Applied {timeAgo(application.created_at)}
                 </div>
-                <h1 className="text-xl font-bold">{application.job}</h1>
-                <section className="mt-4">
-                  <p>
-                    <span className="font-semibold">Your message:</span>{" "}
-                    {application.message}
-                  </p>
+                <h1 className="text-2xl font-bold">{application.job}</h1>
+                <div className="flex flex-col [&>section>p]:border [&>section>p]:p-2 [&>section]:space-y-2 [&>section>p]:bg-accent [&>section>p]:rounded-md [&>section]:w-fit gap-3 mt-5">
+                  <section>
+                    <h2>Status</h2>
+                    <p>{application.status}</p>
+                  </section>
+                  <section>
+                    <h2>Your message</h2>
+                    <p>{application.message}</p>
+                  </section>
                   {application.note_from_employer && (
-                    <p>
-                      <b>Employer&apos;s message:</b>{" "}
-                      {application.note_from_employer}
-                    </p>
+                    <section>
+                      <h2>Note from employer</h2>
+                      <p>{application.note_from_employer}</p>
+                    </section>
                   )}
-                </section>
-                <section>
-                  <p>
-                    <b>Status:</b> {application.status}
-                  </p>
-                </section>
+                </div>
               </Link>
-              <Button
+              {/* <Button
                 onClick={handleCancelApplication}
                 size={"sm"}
                 variant={"destructive"}
                 className="ml-auto"
               >
                 Cancel Application
-              </Button>
+              </Button> */}
             </motion.li>
           );
         })}

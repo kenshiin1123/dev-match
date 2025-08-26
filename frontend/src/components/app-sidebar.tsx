@@ -56,7 +56,7 @@ const DEVELOPER_ITEMS = [
 const EMPLOYER_ITEMS = [
   { title: "Home", url: "/", icon: Home },
   { title: "Post Job", url: "/jobs/new", icon: PlusCircle },
-  { title: "Job Listings", url: "/jobs", icon: BriefcaseBusiness },
+  { title: "Jobs", url: "/jobs", icon: BriefcaseBusiness },
   { title: "Applicants", url: "/applicants", icon: Users },
   { title: "Connections", url: "/connections", icon: BookUser },
   { title: "Messages", url: "/messages", icon: MessageSquare },
