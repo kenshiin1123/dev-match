@@ -9,7 +9,10 @@ import {
   getListOfJobs,
   getJob,
   applyJob,
+  getJobApplicants,
 } from "../../controllers/v1/jobpost.controller.js";
+
+router.get("/applicants", authMiddleware, getJobApplicants);
 
 // For retrieving jobs or specific job
 router.get("/", getListOfJobs);

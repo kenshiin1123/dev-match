@@ -242,4 +242,40 @@ const applyJob = wrapAsync(async (req, res) => {
   });
 });
 
-export { postJob, patchJob, getListOfJobs, getJob, applyJob };
+const getJobApplicants = wrapAsync(async (req, res) => {
+  // Extract the user_id from request
+  const user_id = req.token.user_id;
+
+  // This verifies if the user's role is employer and throw an error if not
+  const role = req.token.role;
+  if (role !== "employer") {
+    throw new AppError("Cannot post a job", 401);
+  }
+
+  // Get posted jobs
+  const postedJobsQuery = await dbClient.query(
+    "SELECT title, jobpost_id FROM jobposts WHERE posted_by = $1;",
+    [user_id]
+  );
+
+  const postedJobsWithApplicants = await Promise.all(
+    postedJobsQuery.rows.map(async (postedJob) => {
+      const applicantsQuery = await dbClient.query(
+        "SELECT * FROM applications WHERE jobpost_id = $1",
+        [postedJob.jobpost_id]
+      );
+
+      return { ...postedJob, applicants: applicantsQuery.rows };
+    })
+  ).catch((err) => {
+    throw new AppError("Failed to get applicants", 500, err);
+  });
+
+  return res.json({
+    message: "Successfully retrieved jobs with applicants",
+    data: postedJobsWithApplicants,
+    success: true,
+  });
+});
+
+export { postJob, patchJob, getListOfJobs, getJob, applyJob, getJobApplicants };
