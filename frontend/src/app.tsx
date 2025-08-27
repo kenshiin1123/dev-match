@@ -5,7 +5,7 @@ import { Provider } from "react-redux";
 import MainLayout from "./layouts/main-layout";
 import JobsLayout from "./layouts/jobs-layout";
 
-// Pages
+// Pages with loaders
 import Homepage from "./pages/home";
 import Loginpage, { action as loginAction } from "./pages/login";
 import Signuppage, { action as signupAction } from "./pages/signup";
@@ -18,12 +18,12 @@ import JobDisplayPage, {
 import ApplicationsPage, {
   loader as applicationsLoader,
 } from "./pages/applications";
+import ApplicantsPage, { loader as applicantsLoader } from "./pages/applicants";
+import { tokenLoader } from "./util/auth";
 
-// RTK Store
+// Redux Toolkit Store
 import store from "./store/store";
 
-// Loaders
-import { tokenLoader } from "./util/auth";
 import { Loader2 } from "lucide-react";
 
 const router = createBrowserRouter([
@@ -32,6 +32,11 @@ const router = createBrowserRouter([
     element: <MainLayout />,
     loader: tokenLoader,
     id: "root",
+    hydrateFallbackElement: (
+      <div className="h-[100vh] w-[100%] z-10 fixed top-0 flex justify-center items-center bg-black/40 animate-pulse">
+        <Loader2 className="animate-spin" size={70} />
+      </div>
+    ),
     children: [
       { index: true, element: <Homepage /> },
       { path: "login", element: <Loginpage />, action: loginAction },
@@ -46,11 +51,6 @@ const router = createBrowserRouter([
             element: <JobDisplayPage />,
             loader: jobDisplayLoader,
             action: jobApplicationAction,
-            hydrateFallbackElement: (
-              <div className="h-[100vh] w-[100%] z-10 fixed top-0 flex justify-center items-center bg-black/40 animate-pulse">
-                <Loader2 className="animate-spin" size={70} />
-              </div>
-            ),
           },
           { path: "new", element: <PostJobPage />, action: jobPostAction },
         ],
@@ -59,6 +59,11 @@ const router = createBrowserRouter([
         path: "applications",
         element: <ApplicationsPage />,
         loader: applicationsLoader,
+      },
+      {
+        path: "applicants",
+        element: <ApplicantsPage />,
+        loader: applicantsLoader,
       },
     ],
   },

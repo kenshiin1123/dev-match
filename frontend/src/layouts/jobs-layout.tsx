@@ -1,11 +1,7 @@
 import { Outlet } from "react-router-dom";
 
 const JobsLayout = () => {
-  return (
-    <div>
-      <Outlet />
-    </div>
-  );
+  return <Outlet />;
 };
 
 export default JobsLayout;

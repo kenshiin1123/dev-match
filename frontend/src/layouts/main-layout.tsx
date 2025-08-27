@@ -26,6 +26,10 @@ export default function MainLayout() {
     { location: "/", title: "Homepage" },
     { location: "/login", title: "Login Page" },
     { location: "/signup", title: "Register Page" },
+    { location: "/jobs", title: "Job Page" },
+    { location: "/jobs/new", title: "Job Posting Page" },
+    { location: "/applications", title: "Applications Page" },
+    { location: "/applicants", title: "Applicants Page" },
   ];
 
   useEffect(() => {

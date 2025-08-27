@@ -261,7 +261,7 @@ const getJobApplicants = wrapAsync(async (req, res) => {
   const postedJobsWithApplicants = await Promise.all(
     postedJobsQuery.rows.map(async (postedJob) => {
       const applicantsQuery = await dbClient.query(
-        "SELECT * FROM applications WHERE jobpost_id = $1",
+        "SELECT a.*, u.name, u.email FROM applications a JOIN users u ON a.applicant_id = u.user_id WHERE jobpost_id = $1",
         [postedJob.jobpost_id]
       );
 
