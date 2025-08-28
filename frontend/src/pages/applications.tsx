@@ -1,4 +1,3 @@
-// import { Button } from "@/components/ui/button";
 import { getAuthToken } from "@/util/auth";
 import { Link, useLoaderData } from "react-router-dom";
 import { toast } from "sonner";
@@ -18,13 +17,6 @@ type ApplicationType = {
 
 const ApplicationsPage = () => {
   const applications = useLoaderData();
-
-  //   const handleCancelApplication = (
-  //     event: React.MouseEvent<HTMLButtonElement>
-  //   ) => {
-  //     event.stopPropagation();
-  //     console.log("Canceled Application");
-  //   };
 
   return (
     <div className="p-4">
@@ -63,14 +55,6 @@ const ApplicationsPage = () => {
                   )}
                 </div>
               </Link>
-              {/* <Button
-                onClick={handleCancelApplication}
-                size={"sm"}
-                variant={"destructive"}
-                className="ml-auto"
-              >
-                Cancel Application
-              </Button> */}
             </motion.li>
           );
         })}

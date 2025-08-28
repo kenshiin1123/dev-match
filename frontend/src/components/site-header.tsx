@@ -29,6 +29,7 @@ export function SiteHeader() {
           Home
         </h1>
         <ThemeSelector className="ml-auto" />
+        {/*These are Login && Signup || Logout buttons*/}
         {userRole === "anonymous" ? (
           <div className="flex items-center gap-1">
             <Link to={"/login"}>
