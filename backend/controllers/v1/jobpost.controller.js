@@ -132,7 +132,9 @@ const patchJob = wrapAsync(async (req, res) => {
 });
 
 const getListOfJobs = wrapAsync(async (req, res) => {
-  const jobsQuery = await dbClient.query("SELECT * FROM jobposts");
+  const jobsQuery = await dbClient.query(
+    "SELECT j.*, u.avatar, u.avatar_content_type FROM jobposts j JOIN users u ON j.posted_by = u.user_id"
+  );
   const jobs = jobsQuery.rows;
   res.json({
     message: "Successfully retrieved jobs",
@@ -258,10 +260,12 @@ const getJobApplicants = wrapAsync(async (req, res) => {
     [user_id]
   );
 
+  // Extract all attributes from user application and for user's data, these are extracted:
+  // name, email, avatar, avatar_content_type
   const postedJobsWithApplicants = await Promise.all(
     postedJobsQuery.rows.map(async (postedJob) => {
       const applicantsQuery = await dbClient.query(
-        "SELECT a.*, u.name, u.email FROM applications a JOIN users u ON a.applicant_id = u.user_id WHERE jobpost_id = $1",
+        "SELECT a.*, u.name, u.email, u.avatar, u.avatar_content_type FROM applications a JOIN users u ON a.applicant_id = u.user_id WHERE jobpost_id = $1",
         [postedJob.jobpost_id]
       );
 

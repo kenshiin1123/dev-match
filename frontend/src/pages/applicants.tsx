@@ -15,6 +15,8 @@ type ApplicantType = {
   updated_at: string;
   name: string;
   email: string;
+  avatar?: string;
+  avatar_content_type?: string;
 };
 
 type JobType = {
@@ -25,7 +27,7 @@ type JobType = {
 
 const ApplicantsPage = () => {
   const jobsWithApplicants: JobType[] = useLoaderData();
-  const MotionLink = motion(Link);
+  const MotionLink = motion.create(Link);
 
   return (
     <div className="p-3">
@@ -35,7 +37,7 @@ const ApplicantsPage = () => {
             <li key={job.jobpost_id}>
               <MotionLink
                 to={"/jobs/" + job.jobpost_id}
-                className="border p-3 flex justify-between items-center bg-card rounded"
+                className="border p-3 flex justify-between items-center bg-card rounded "
                 whileHover={{ scale: 0.99 }}
               >
                 <h1 className="text-2xl font-bold">{job.title}</h1>
@@ -52,22 +54,36 @@ const ApplicantsPage = () => {
                   <h1 className="indent-2 opacity-80 my-4">Applicants</h1>
                   <ul className="mt-3 flex">
                     {job.applicants.map((applicant: ApplicantType) => {
+                      const avatarUrl =
+                        applicant.avatar && applicant.avatar_content_type
+                          ? `data:${applicant.avatar_content_type};base64,${applicant.avatar}`
+                          : "images/default_pic.png";
+
                       return (
                         <li
                           key={applicant.applicant_id}
-                          className="ml-2 px-3 py-3 border rounded bg-card w-full"
+                          className="ml-2 px-3 py-3 border rounded bg-card w-full flex gap-5"
                         >
-                          <p className="text-xl font-semibold">
-                            {applicant.name}
-                          </p>
-                          <p>{applicant.email}</p>
-                          {applicant.status === "applied" ? (
-                            <Button className="mt-5 font-bold">Respond</Button>
-                          ) : (
-                            <Button className="mt-5 font-bold" disabled>
-                              Responded Already
-                            </Button>
-                          )}
+                          <img
+                            src={avatarUrl}
+                            alt="user_profile"
+                            className="w-30 aspect-square border"
+                          />
+                          <div>
+                            <p className="text-xl font-semibold">
+                              {applicant.name}
+                            </p>
+                            <p>{applicant.email}</p>
+                            {applicant.status === "applied" ? (
+                              <Button className="mt-5 font-bold">
+                                Respond
+                              </Button>
+                            ) : (
+                              <Button className="mt-5 font-bold" disabled>
+                                Responded Already
+                              </Button>
+                            )}
+                          </div>
                         </li>
                       );
                     })}
@@ -98,6 +114,7 @@ export const loader = async () => {
     return redirect("/");
   }
 
+  console.log(data);
   return data;
 };
 
