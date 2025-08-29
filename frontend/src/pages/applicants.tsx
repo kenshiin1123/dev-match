@@ -1,5 +1,5 @@
 import { getAuthToken } from "@/util/auth";
-import { redirect, useLoaderData } from "react-router-dom";
+import { redirect, useLoaderData, type ActionFunction } from "react-router-dom";
 import { toast } from "sonner";
 import JobWithApplicants from "@/components/applicant/job-with-applicants";
 
@@ -52,6 +52,43 @@ export const loader = async () => {
   if (!success) {
     toast.error(message);
     return redirect("/");
+  }
+
+  return data;
+};
+
+export const action: ActionFunction = async ({ request }) => {
+  const formData = await request.formData();
+  const application_id = formData.get("application_id");
+
+  const payload = {
+    status: formData.get("status"),
+    note_from_employer: formData.get("note_from_employer"),
+  };
+
+  if (!(payload.status && payload.note_from_employer && application_id)) {
+    console.log(application_id);
+    return toast.error("Please fill all fields");
+  }
+
+  const { VITE_API_BASE_URL } = import.meta.env;
+  const response = await fetch(
+    `${VITE_API_BASE_URL}/users/applications/${application_id}`,
+    {
+      method: "PATCH",
+      headers: {
+        "Content-Type": "application/json",
+        Authorization: "Bearer " + getAuthToken(),
+      },
+      body: JSON.stringify(payload),
+    }
+  );
+
+  const { success, message, data } = await response.json();
+
+  if (!success) {
+    console.error(message);
+    return toast.error(message);
   }
 
   return data;

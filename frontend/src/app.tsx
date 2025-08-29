@@ -18,7 +18,10 @@ import JobDisplayPage, {
 import ApplicationsPage, {
   loader as applicationsLoader,
 } from "./pages/applications";
-import ApplicantsPage, { loader as applicantsLoader } from "./pages/applicants";
+import ApplicantsPage, {
+  loader as applicantsLoader,
+  action as employerResponseAction,
+} from "./pages/applicants";
 import { tokenLoader } from "./util/auth";
 
 // Redux Toolkit Store
@@ -64,6 +67,7 @@ const router = createBrowserRouter([
         path: "applicants",
         element: <ApplicantsPage />,
         loader: applicantsLoader,
+        action: employerResponseAction,
       },
     ],
   },
