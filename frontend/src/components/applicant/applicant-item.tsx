@@ -5,7 +5,8 @@ import { useState } from "react";
 import { toast } from "sonner";
 import LabelWithParagraphItem from "../label-with-paragraph-item";
 import { Button } from "../ui/button";
-import { motion } from "motion/react";
+import { AnimatePresence, motion, stagger, type Variants } from "motion/react";
+import { Expand, Shrink } from "lucide-react";
 
 export type EmployerResponseType = {
   status: string;
@@ -54,20 +55,46 @@ const ApplicantItem: React.FC<{ applicant: ApplicantType }> = ({
     setEmployerResponse(initialValue);
   };
 
+  const unorderedListVariant: Variants = {
+    visible: {
+      height: "auto",
+      opacity: 1,
+      transition: {
+        delayChildren: stagger(0.2),
+        duration: 0.55,
+        ease: "easeOut",
+      },
+    },
+    hidden: {
+      height: 0,
+      opacity: 0,
+      transition: {
+        duration: 0.4,
+        delayChildren: stagger(0.15),
+      },
+    },
+  };
+
   return (
     <motion.li
       key={applicant.applicant_id}
       className="ml-2 px-3 py-3 border rounded bg-card w-full flex gap-5 flex-col"
     >
       <div className="w-full flex flex-row-reverse">
-        <img
+        <motion.img
           src={avatarUrl}
           alt="user_profile"
-          className={`${
-            expanded ? "size-30" : "size-15"
-          } mb-auto aspect-square border ml-auto`}
+          className="mb-auto aspect-square border ml-auto rounded"
+          animate={{
+            width: expanded ? 120 : 60,
+            height: expanded ? 120 : 60,
+          }}
+          transition={{
+            duration: 0.3,
+            ease: "easeInOut",
+          }}
         />
-        <div>
+        <motion.div>
           <p className="text-xl font-semibold">{applicant.name}</p>
           <p>{applicant.email}</p>
           <Button
@@ -75,28 +102,38 @@ const ApplicantItem: React.FC<{ applicant: ApplicantType }> = ({
             variant={"secondary"}
             onClick={() => setExpanded((prev) => !prev)}
           >
-            {expanded ? "Shrink" : "Expand"} Contents
+            {expanded ? "Shrink" : "Expand"} Contents{" "}
+            {expanded ? <Shrink /> : <Expand />}
           </Button>
-          {expanded && (
-            <>
-              <LabelWithParagraphItem
-                label="Developer's Message"
-                paragraph={applicant.message}
-                className="flex-col divide-x-0 divide-y [&>*]:py-2 [&>*]:px-1"
-              />
-              <LabelWithParagraphItem
-                label="Status"
-                paragraph={applicant.status}
-              />
-              {applicant.status !== "applied" && (
-                <LabelWithParagraphItem
-                  label="Your message"
-                  paragraph={applicant.note_from_employer}
-                />
+          <motion.ul
+            variants={unorderedListVariant}
+            initial="hidden"
+            className="overflow-hidden"
+            animate={expanded ? "visible" : "hidden"}
+          >
+            <AnimatePresence>
+              {expanded && (
+                <>
+                  <LabelWithParagraphItem
+                    label="Developer's Message"
+                    paragraph={applicant.message}
+                    className="flex-col divide-x-0 divide-y [&>*]:py-2 [&>*]:px-1"
+                  />
+                  <LabelWithParagraphItem
+                    label="Status"
+                    paragraph={applicant.status}
+                  />
+                  {applicant.status !== "applied" && (
+                    <LabelWithParagraphItem
+                      label="Your message"
+                      paragraph={applicant.note_from_employer}
+                    />
+                  )}
+                </>
               )}
-            </>
-          )}
-        </div>
+            </AnimatePresence>
+          </motion.ul>
+        </motion.div>
       </div>
       {/* Respond Button */}
       <div className="flex justify-end">
