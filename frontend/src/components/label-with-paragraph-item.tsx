@@ -14,7 +14,7 @@ const LabelWithParagraphItem: React.FC<{
   return isItemTag ? (
     <motion.li
       variants={listItemVariant}
-      className={`flex border p-3 w-fit divide-x font-semibold text-wrap mt-5 rounded ${className}`}
+      className={`flex border p-3 w-fit divide-x font-semibold text-wrap mt-5 rounded ${className} w-full`}
       initial="hidden"
       animate="visible"
       exit="hidden"

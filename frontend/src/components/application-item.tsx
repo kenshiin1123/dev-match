@@ -77,10 +77,7 @@ const ApplicationItem: React.FC<{ application: ApplicationType }> = ({
                     paragraph={application.message}
                     className="flex-col divide-x-0 divide-y [&>*]:py-2 [&>*]:px-1"
                   />
-                  <LabelWithParagraphItem
-                    label="Status"
-                    paragraph={application.status}
-                  />
+
                   {application.status !== "applied" && (
                     <LabelWithParagraphItem
                       label="Employer's message"
