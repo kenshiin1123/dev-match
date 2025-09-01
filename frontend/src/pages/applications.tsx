@@ -23,7 +23,7 @@ const ApplicationsPage = () => {
           You have not applied to any jobs yet.
         </h1>
       )}
-      <ul className="flex flex-col gap-10">
+      <ul className="flex flex-col gap-3">
         {applications.map((application: ApplicationType) => {
           return (
             <ApplicationItem

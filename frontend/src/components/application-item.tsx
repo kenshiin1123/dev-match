@@ -40,7 +40,7 @@ const ApplicationItem: React.FC<{ application: ApplicationType }> = ({
   return (
     <motion.li
       key={application.application_id}
-      className="ml-2 px-3 py-3 border rounded bg-card w-full flex gap-5 flex-col"
+      className="px-3 py-3 border rounded bg-card w-full flex gap-5 flex-col"
     >
       <section>
         <h1 className="text-lg font-semibold">
