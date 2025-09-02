@@ -41,13 +41,14 @@ import {
 const INITIAL_ITEMS = [
   { title: "Home", url: "/", icon: Home },
   { title: "Jobs", url: "/jobs", icon: BriefcaseBusiness },
+  { title: "Connect", url: "/connections", icon: BookUser },
 ];
 
 const DEVELOPER_ITEMS = [
   { title: "Home", url: "/", icon: Home },
   { title: "Jobs", url: "/jobs", icon: BriefcaseBusiness },
   { title: "Applications", url: "/applications", icon: FileText },
-  { title: "Connections", url: "/connections", icon: BookUser },
+  { title: "Connect", url: "/connections", icon: BookUser },
   { title: "Messages", url: "/messages", icon: MessageSquare },
   { title: "Profile", url: "/profile", icon: User },
   { title: "Settings", url: "/settings", icon: Settings },
@@ -58,7 +59,7 @@ const EMPLOYER_ITEMS = [
   { title: "Post Job", url: "/jobs/new", icon: PlusCircle },
   { title: "Jobs", url: "/jobs", icon: BriefcaseBusiness },
   { title: "Applicants", url: "/applicants", icon: Users },
-  { title: "Connections", url: "/connections", icon: BookUser },
+  { title: "Connect", url: "/connections", icon: BookUser },
   { title: "Messages", url: "/messages", icon: MessageSquare },
   { title: "Company Profile", url: "/company", icon: Building },
   { title: "Settings", url: "/settings", icon: Settings },

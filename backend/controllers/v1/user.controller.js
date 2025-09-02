@@ -52,7 +52,9 @@ const getMe = wrapAsync(async (req, res) => {
 });
 
 const getUsers = wrapAsync(async (req, res, next) => {
-  const result = await dbClient.query("SELECT * FROM users");
+  const result = await dbClient.query(
+    "SELECT name, avatar, avatar_content_type, role, created_at, user_id FROM users"
+  );
 
   if (!result || !result.rows || result.rows.length === 0) {
     throw new AppError("No users found", 404);

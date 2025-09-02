@@ -57,7 +57,6 @@ export const EmployerResponseDialog: React.FC<
       <form>
         <DialogTrigger asChild>
           <Button
-            variant="outline"
             className={`ml-auto mt-5 font-bold ${className}`}
             disabled={disabled}
             size={"lg"}

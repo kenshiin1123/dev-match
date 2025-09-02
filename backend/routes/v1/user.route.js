@@ -30,7 +30,7 @@ router.get("/me", authMiddleware, getMe);
 // Get specific user
 router.get("/:user_id", getUser);
 
-// Get all users  - this is for acmin
+// Get all users
 router.get("/", getUsers);
 
 // Validate authorization token

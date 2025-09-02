@@ -80,31 +80,35 @@ const ApplicantItem: React.FC<{ applicant: ApplicantType }> = ({
       key={applicant.applicant_id}
       className="ml-2 px-3 py-3 border rounded bg-card w-full flex gap-5 flex-col"
     >
-      <div className="w-full flex flex-row-reverse">
-        <motion.img
-          src={avatarUrl}
-          alt="user_profile"
-          className="mb-auto aspect-square border ml-auto rounded"
-          animate={{
-            width: expanded ? 120 : 60,
-            height: expanded ? 120 : 60,
-          }}
-          transition={{
-            duration: 0.3,
-            ease: "easeInOut",
-          }}
-        />
-        <motion.div>
-          <p className="text-xl font-semibold">{applicant.name}</p>
-          <p>{applicant.email}</p>
-          <Button
-            className="w-40 font-bold mt-3"
-            variant={"secondary"}
-            onClick={() => setExpanded((prev) => !prev)}
-          >
-            {expanded ? "Shrink" : "Expand"} Contents{" "}
-            {expanded ? <Shrink /> : <Expand />}
-          </Button>
+      <div className="w-full flex">
+        <motion.div className="w-full">
+          <div className="w-full flex justify-between">
+            <div>
+              <p className="text-xl font-semibold">{applicant.name}</p>
+              <p>{applicant.email}</p>
+              <Button
+                className="w-40 font-bold mt-3"
+                variant={"secondary"}
+                onClick={() => setExpanded((prev) => !prev)}
+              >
+                {expanded ? "Shrink" : "Expand"} Contents{" "}
+                {expanded ? <Shrink /> : <Expand />}
+              </Button>
+            </div>
+            <motion.img
+              src={avatarUrl}
+              alt="user_profile"
+              className="aspect-square border rounded max-w-30 max-h-30"
+              animate={{
+                width: expanded ? 120 : 60,
+                height: expanded ? 120 : 60,
+              }}
+              transition={{
+                duration: 0.3,
+                ease: "easeInOut",
+              }}
+            />
+          </div>
           <motion.ul
             variants={unorderedListVariant}
             initial="hidden"

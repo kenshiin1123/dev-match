@@ -243,7 +243,7 @@ const PostJob = () => {
   }, [actionData]);
 
   return (
-    <div className="w-full min-h-[100vh] flex flex-col bg-background pt-10 items-center pb-20">
+    <div className="bg-card w-full min-h-[100vh] flex flex-col pt-10 items-center pb-20">
       <h1 className="text-4xl font-extrabold mb-10">Post A Job</h1>
       <motion.div
         initial={{ opacity: 0, y: 60 }}

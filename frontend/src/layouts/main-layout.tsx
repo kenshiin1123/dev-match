@@ -30,6 +30,7 @@ export default function MainLayout() {
     { location: "/jobs/new", title: "Job Posting Page" },
     { location: "/applications", title: "Applications Page" },
     { location: "/applicants", title: "Applicants Page" },
+    { location: "/connections", title: "Connections Page" },
   ];
 
   useEffect(() => {
