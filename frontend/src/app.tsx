@@ -25,6 +25,7 @@ import ApplicantsPage, {
 import { tokenLoader } from "./util/auth";
 import ConnectionsPage, {
   loader as connectionsLoader,
+  action as connectionAction,
 } from "./pages/connections";
 
 // Redux Toolkit Store
@@ -76,6 +77,7 @@ const router = createBrowserRouter([
         path: "connections",
         element: <ConnectionsPage />,
         loader: connectionsLoader,
+        action: connectionAction,
       },
     ],
   },

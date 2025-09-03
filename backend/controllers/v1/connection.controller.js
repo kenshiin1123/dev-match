@@ -38,8 +38,8 @@ const getConnections = wrapAsync(async (req, res) => {
 
   // GET ACCEPTED CONNECTIONS
   const queryResult = await dbClient.query(
-    "SELECT * FROM user_connections WHERE status = $1 AND sender_id = $2 OR receiver_id = $3",
-    ["accepted", user_id, user_id]
+    "SELECT * FROM user_connections WHERE sender_id = $1 OR receiver_id = $2",
+    [user_id, user_id]
   );
 
   const acceptedConnections = queryResult.rows;
