@@ -107,7 +107,10 @@ const establishConnection = wrapAsync(async (req, res) => {
     [sender_id, receiver_id, status]
   );
 
-  res.json({ message: "Successfully established a connection", success: true });
+  res.json({
+    message: "Successfully sent a connection request",
+    success: true,
+  });
 });
 
 const acceptConnection = wrapAsync(async (req, res) => {
