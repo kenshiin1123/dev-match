@@ -5,7 +5,7 @@ import { useNavigation } from "react-router-dom";
 
 const UserConnectionItem: React.FC<{ user: UserProfileType }> = ({ user }) => {
   const navigation = useNavigation();
-  const { handleConnectUser, handleRemoveConnection } =
+  const { handleConnectUser, handleRemoveConnection, handleAcceptConnection } =
     useContext(ConnectionContext);
 
   const avatarUrl =
@@ -45,11 +45,43 @@ const UserConnectionItem: React.FC<{ user: UserProfileType }> = ({ user }) => {
         >
           Cancel Request
         </Button>
+      ) : user.connect_type === "sender" && user.status === "pending" ? (
+        <div className="ml-auto flex flex-col sm:flex-row gap-2">
+          <Button
+            size={"sm"}
+            variant={"destructive"}
+            className="font-bold"
+            disabled={isLoading}
+            onClick={() =>
+              handleRemoveConnection(user.connection_id!, user.user_id)
+            }
+          >
+            Reject Request
+          </Button>
+          <Button
+            onClick={() =>
+              handleAcceptConnection(user.connection_id!, user.user_id)
+            }
+            size={"sm"}
+            className=" font-bold"
+            disabled={isLoading}
+          >
+            Accept Request
+          </Button>
+        </div>
       ) : (
         user.connect_type === "sender" &&
-        user.status === "pending" && (
-          <Button className="ml-auto font-bold" disabled={isLoading}>
-            Accept Request
+        user.status === "accepted" && (
+          <Button
+            onClick={() =>
+              handleRemoveConnection(user.connection_id!, user.user_id)
+            }
+            className="ml-auto font-bold"
+            disabled={isLoading}
+            size={"sm"}
+            variant={"ghost"}
+          >
+            Remove Connection
           </Button>
         )
       )}

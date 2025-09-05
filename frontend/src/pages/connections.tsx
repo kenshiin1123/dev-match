@@ -45,6 +45,14 @@ export const ConnectionContext = createContext({
     connection_id;
     connected_user_id;
   },
+
+  handleAcceptConnection: (
+    connection_id: ConnectionType["connection_id"],
+    user_id: UserProfileType["user_id"]
+  ) => {
+    connection_id;
+    user_id;
+  },
 });
 
 const derivedDetermineDevOrEmp = async (
@@ -119,8 +127,6 @@ const ConnectionsPage: React.FC<{}> = () => {
     derivedDetermineDevOrEmp(currentUser, setUsers);
   };
 
-  // inside ConnectionsPage
-
   const handleConnectUser = async (user_id: string) => {
     if (!["developer", "employer"].includes(currentUser.role)) {
       return toast.error("You are unauthorized. Please login first");
@@ -139,7 +145,6 @@ const ConnectionsPage: React.FC<{}> = () => {
     formData.append("user_id", user_id);
     await submit(formData, { method: "POST" });
 
-    // Optional: re-sync with server in case of mismatch
     derivedDetermineDevOrEmp(currentUser, setUsers);
   };
 
@@ -170,7 +175,36 @@ const ConnectionsPage: React.FC<{}> = () => {
     formData.append("connected_user_id", connected_user_id);
     await submit(formData, { method: "DELETE" });
 
-    // Optional: re-sync with server
+    derivedDetermineDevOrEmp(currentUser, setUsers);
+  };
+
+  const handleAcceptConnection = async (
+    connection_id: ConnectionType["connection_id"],
+    user_id: UserProfileType["user_id"]
+  ) => {
+    if (!["developer", "employer"].includes(currentUser.role)) {
+      return toast.error("You are unauthorized. Please login first");
+    }
+
+    // Optimistic update
+    setUsers((prev: UserProfileType[]) =>
+      prev.map((u) =>
+        u.user_id === user_id
+          ? {
+              ...u,
+              status: undefined,
+              connect_type: undefined,
+              connection_id: undefined,
+            }
+          : u
+      )
+    );
+
+    const formData = new FormData();
+    formData.append("connection_id", connection_id);
+    formData.append("sender_id", user_id);
+    await submit(formData, { method: "PATCH" });
+
     derivedDetermineDevOrEmp(currentUser, setUsers);
   };
 
@@ -188,7 +222,12 @@ const ConnectionsPage: React.FC<{}> = () => {
           Browse through the list and start building your network.
         </p>
         <ConnectionContext.Provider
-          value={{ users, handleConnectUser, handleRemoveConnection }}
+          value={{
+            users,
+            handleConnectUser,
+            handleRemoveConnection,
+            handleAcceptConnection,
+          }}
         >
           <Users />
         </ConnectionContext.Provider>
@@ -230,7 +269,15 @@ export const action: ActionFunction = async ({ request }) => {
     loadingMsg = "Removing connection...";
   }
 
-  await toast.promise(
+  if (request.method === "PATCH") {
+    const connection_id = formData.get("connection_id");
+    payload.sender_id = formData.get("sender_id");
+    URL = `${VITE_API_BASE_URL}/connections/${connection_id}/accept`;
+    loadingMsg = "Accepting connection...";
+    console.log(payload);
+  }
+
+  toast.promise(
     (async () => {
       const response = await fetch(URL, {
         method: request.method,
