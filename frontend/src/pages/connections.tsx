@@ -11,6 +11,8 @@ import { useEffect, useState } from "react";
 import { getAuthToken } from "@/util/auth";
 import { useSelector } from "react-redux";
 import { createContext } from "react";
+import { type UserState } from "@/store/user-reducer";
+import { socket } from "@/socket";
 
 export type ConnectionType = {
   connection_id: string;
@@ -35,8 +37,12 @@ export type UserProfileType = {
 
 export const ConnectionContext = createContext({
   users: [],
-  handleConnectUser: (user_id: UserProfileType["user_id"]) => {
-    user_id;
+  handleConnectUser: (
+    sender_id: UserProfileType["user_id"],
+    receiver_id: string
+  ) => {
+    sender_id;
+    receiver_id;
   },
   handleRemoveConnection: (
     connection_id: ConnectionType["connection_id"],
@@ -53,6 +59,7 @@ export const ConnectionContext = createContext({
     connection_id;
     user_id;
   },
+  currentUser: {} as UserState,
 });
 
 const derivedDetermineDevOrEmp = async (
@@ -127,25 +134,15 @@ const ConnectionsPage: React.FC<{}> = () => {
     derivedDetermineDevOrEmp(currentUser, setUsers);
   };
 
-  const handleConnectUser = async (user_id: string) => {
+  const handleConnectUser = async (sender_id: string, receiver_id: string) => {
     if (!["developer", "employer"].includes(currentUser.role)) {
       return toast.error("You are unauthorized. Please login first");
     }
 
-    // Optimistic update
-    setUsers((prev: UserProfileType[]) =>
-      prev.map((u) =>
-        u.user_id === user_id
-          ? { ...u, status: "pending", connect_type: "receiver" } // assume current user sent request
-          : u
-      )
-    );
-
     const formData = new FormData();
-    formData.append("user_id", user_id);
+    formData.append("sender_id", sender_id);
+    formData.append("receiver_id", receiver_id);
     await submit(formData, { method: "POST" });
-
-    derivedDetermineDevOrEmp(currentUser, setUsers);
   };
 
   const handleRemoveConnection = async (
@@ -212,6 +209,31 @@ const ConnectionsPage: React.FC<{}> = () => {
     determineDevOrEmp();
   }, [currentUser]);
 
+  useEffect(() => {
+    socket.on("establish_connection_response", (resData) => {
+      const { message, success, data } = resData;
+      if (!success) {
+        return toast.error(message);
+      }
+
+      const { sender_id, receiver_id, connection_id, status } = data;
+
+      setUsers((prevUsers: UserProfileType[]) =>
+        prevUsers.map((user) =>
+          user.user_id === sender_id || user.user_id === receiver_id
+            ? { ...user, status, connection_id }
+            : user
+        )
+      );
+    });
+
+    determineDevOrEmp();
+
+    return () => {
+      socket.off("establish_connection_response");
+    };
+  }, []);
+
   return (
     <div className="p-5">
       <section>
@@ -224,6 +246,7 @@ const ConnectionsPage: React.FC<{}> = () => {
         <ConnectionContext.Provider
           value={{
             users,
+            currentUser,
             handleConnectUser,
             handleRemoveConnection,
             handleAcceptConnection,
@@ -251,56 +274,29 @@ export const loader: LoaderFunction = async () => {
 };
 
 export const action: ActionFunction = async ({ request }) => {
-  const { VITE_API_BASE_URL } = import.meta.env;
   const formData = await request.formData();
-
-  let URL = `${VITE_API_BASE_URL}/connections/connect`;
-  let payload: any = {};
-  let loadingMsg = "Sending connection request...";
+  let event = "";
+  const payload: {
+    sender_id?: string;
+    receiver_id?: string;
+  } = {};
 
   if (request.method === "POST") {
-    payload.receiver_id = formData.get("user_id");
-  }
+    event = "establish_connection";
+    const sender_id = formData.get("sender_id");
+    const receiver_id = formData.get("receiver_id");
+    payload.sender_id = sender_id!.toString();
+    payload.receiver_id = receiver_id!.toString();
+    event = "establish_connection";
 
-  if (request.method === "DELETE") {
-    const connection_id = formData.get("connection_id");
-    payload.connected_user_id = formData.get("connected_user_id");
-    URL = `${VITE_API_BASE_URL}/connections/${connection_id}/remove`;
-    loadingMsg = "Removing connection...";
-  }
-
-  if (request.method === "PATCH") {
-    const connection_id = formData.get("connection_id");
-    payload.sender_id = formData.get("sender_id");
-    URL = `${VITE_API_BASE_URL}/connections/${connection_id}/accept`;
-    loadingMsg = "Accepting connection...";
-    console.log(payload);
-  }
-
-  toast.promise(
-    (async () => {
-      const response = await fetch(URL, {
-        method: request.method,
-        headers: {
-          "Content-Type": "application/json",
-          Authorization: `Bearer ${getAuthToken()}`,
-        },
-        body: JSON.stringify(payload),
-      });
-
-      const { success, message } = await response.json();
-      if (!success) throw new Error(message);
-      return message;
-    })(),
-    {
-      loading: loadingMsg,
-      success: (msg) =>
-        typeof msg === "string" ? msg : "Connection successful",
-      error: (msg) => (typeof msg === "string" ? msg : "Connection failed"),
+    if (!sender_id || !receiver_id) {
+      return toast.error("Sender ID and Receiver ID is required");
     }
-  );
+  }
 
-  return null; // no redirect, state refresh happens in component
+  socket.emit(event, payload);
+
+  return null;
 };
 
 export default ConnectionsPage;

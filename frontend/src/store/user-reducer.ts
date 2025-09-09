@@ -1,5 +1,24 @@
 import { createSlice } from "@reduxjs/toolkit";
 
+export type UserState = {
+  user_id: string | undefined;
+  name: string | undefined;
+  email: string | undefined;
+  role: string;
+  location: string | undefined;
+  skills: string[];
+  company: string | undefined;
+  avatar: {
+    buffer: any;
+    mimetype: string | undefined;
+  };
+  resume: {
+    buffer: any;
+    mimetype: string | undefined;
+  };
+  created_at: string | undefined;
+};
+
 const initialState = {
   user_id: undefined,
   name: undefined,
@@ -7,7 +26,7 @@ const initialState = {
   role: "anonymous",
   location: undefined,
   skills: [],
-  company: "",
+  company: undefined,
   avatar: {
     buffer: undefined,
     mimetype: undefined,

@@ -5,8 +5,12 @@ import { useNavigation } from "react-router-dom";
 
 const UserConnectionItem: React.FC<{ user: UserProfileType }> = ({ user }) => {
   const navigation = useNavigation();
-  const { handleConnectUser, handleRemoveConnection, handleAcceptConnection } =
-    useContext(ConnectionContext);
+  const {
+    handleConnectUser,
+    handleRemoveConnection,
+    handleAcceptConnection,
+    currentUser,
+  } = useContext(ConnectionContext);
 
   const avatarUrl =
     user.avatar && user.avatar_content_type
@@ -29,7 +33,7 @@ const UserConnectionItem: React.FC<{ user: UserProfileType }> = ({ user }) => {
       </section>
       {!user.status ? (
         <Button
-          onClick={() => handleConnectUser(user.user_id)}
+          onClick={() => handleConnectUser(currentUser.user_id!, user.user_id)}
           className="ml-auto font-bold"
           disabled={isLoading}
         >

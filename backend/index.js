@@ -9,6 +9,8 @@ import { createServer } from "http";
 // Routes
 import indexRouteV1 from "./routes/v1/index.route.js";
 import { Server } from "socket.io";
+import { establishConnection } from "./controllers/v2/connection.controller.js";
+import wrapAsyncSocket from "./utils/wrapAsyncSocket.js";
 
 const app = express();
 const server = createServer(app);
@@ -52,7 +54,14 @@ app.use((err, req, res, next) => {
 });
 
 io.on("connection", (socket) => {
-  console.log("A user connected!");
+  socket.on(
+    "establish_connection",
+    wrapAsyncSocket(
+      (data) => establishConnection(data, socket),
+      socket,
+      "establish_connection_response"
+    )
+  );
 });
 
 server.listen(PORT, () => {
