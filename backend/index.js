@@ -5,11 +5,17 @@ import morgan from "morgan";
 import connectDB from "./config/db.js";
 import helmet from "helmet";
 import rateLimit from "express-rate-limit";
-
+import { createServer } from "http";
 // Routes
 import indexRouteV1 from "./routes/v1/index.route.js";
+import { Server } from "socket.io";
 
 const app = express();
+const server = createServer(app);
+
+const io = new Server(server, {
+  cors: { origin: "*" },
+});
 const PORT = process.env.PORT || 3000;
 const limiter = rateLimit({
   windowMs: 15 * 60 * 1000, // 15 minutes
@@ -45,7 +51,11 @@ app.use((err, req, res, next) => {
   res.status(status).json({ message, success: false, data });
 });
 
-app.listen(PORT, () => {
+io.on("connection", (socket) => {
+  console.log("A user connected!");
+});
+
+server.listen(PORT, () => {
   console.log("Listening to port", PORT);
   connectDB();
 });
