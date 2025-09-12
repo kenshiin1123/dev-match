@@ -219,11 +219,21 @@ const ConnectionsPage: React.FC<{}> = () => {
       const { sender_id, receiver_id, connection_id, status } = data;
 
       setUsers((prevUsers: UserProfileType[]) =>
-        prevUsers.map((user) =>
-          user.user_id === sender_id || user.user_id === receiver_id
-            ? { ...user, status, connection_id }
-            : user
-        )
+        prevUsers.map((user) => {
+          if (user.user_id === sender_id || user.user_id === receiver_id) {
+            const updatedUser = {
+              ...user,
+              sender_id,
+              receiver_id,
+              connection_id,
+              status,
+            };
+
+            return updatedUser;
+          }
+
+          return user;
+        })
       );
     });
 
@@ -232,7 +242,7 @@ const ConnectionsPage: React.FC<{}> = () => {
     return () => {
       socket.off("establish_connection_response");
     };
-  }, []);
+  }, [socket, determineDevOrEmp]);
 
   return (
     <div className="p-5">

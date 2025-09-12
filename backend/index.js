@@ -6,11 +6,14 @@ import connectDB from "./config/db.js";
 import helmet from "helmet";
 import rateLimit from "express-rate-limit";
 import { createServer } from "http";
-// Routes
 import indexRouteV1 from "./routes/v1/index.route.js";
 import { Server } from "socket.io";
 import { establishConnection } from "./controllers/v2/connection.controller.js";
 import wrapAsyncSocket from "./utils/wrapAsyncSocket.js";
+import { removeConnection } from "./controllers/v1/connection.controller.js";
+import authMiddleware, {
+  socketAuthMiddleware,
+} from "./middlewares/authMiddleware.js";
 
 const app = express();
 const server = createServer(app);
@@ -19,14 +22,26 @@ const io = new Server(server, {
   cors: { origin: "*" },
 });
 const PORT = process.env.PORT || 3000;
+
 const limiter = rateLimit({
-  windowMs: 15 * 60 * 1000, // 15 minutes
+  windowMs: 10 * 60 * 1000, // 10 minutes
   max: 100, // limit each IP to 100 requests per windowMs
   message: "Too many requests from this IP, please try again later.",
 });
 
+// For socket.io
+const eventListeners = [
+  { event: "establish_connection", fn: establishConnection },
+  { event: "remove_connection", fn: removeConnection },
+];
+
+const userSocketMap = new Map();
+export const getUserSocketId = (user_id) => {
+  return userSocketMap.get(user_id);
+};
+
 app.use(cors("*"));
-app.use(morgan("dev"));
+// app.use(morgan("dev"));
 app.use(express.json());
 app.use(helmet());
 // app.use(limiter);
@@ -53,15 +68,23 @@ app.use((err, req, res, next) => {
   res.status(status).json({ message, success: false, data });
 });
 
+io.use(socketAuthMiddleware);
+
+// Loop instead of hard code
 io.on("connection", (socket) => {
-  socket.on(
-    "establish_connection",
-    wrapAsyncSocket(
-      (data) => establishConnection(data, socket),
-      socket,
-      "establish_connection_response"
-    )
-  );
+  const user_id = socket.data.token.user_id;
+  userSocketMap.set(user_id, socket.id);
+
+  eventListeners.forEach((listener) => {
+    const evt = listener.event;
+    const fn = listener.fn;
+
+    socket.on(
+      evt,
+      // This wrapper is used to handle errors
+      wrapAsyncSocket((data) => fn(evt, data, socket), socket, evt)
+    );
+  });
 });
 
 server.listen(PORT, () => {

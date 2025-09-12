@@ -29,4 +29,20 @@ const authMiddleware = async (req, res, next) => {
   next();
 };
 
+export const socketAuthMiddleware = (socket, next) => {
+  const authToken = socket.handshake.auth.token;
+
+  if (!authToken) {
+    return next(new Error("NOT AUTH. AUTH TOKEN MISSING"));
+  }
+
+  try {
+    const validatedToken = validateJWT(authToken);
+    socket.data.token = validatedToken; // store decoded payload safely
+    next();
+  } catch (err) {
+    return next(new Error("NOT AUTH. TOKEN INVALID."));
+  }
+};
+
 export default authMiddleware;
