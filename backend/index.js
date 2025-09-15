@@ -10,7 +10,7 @@ import indexRouteV1 from "./routes/v1/index.route.js";
 import { Server } from "socket.io";
 import { establishConnection } from "./controllers/v2/connection.controller.js";
 import wrapAsyncSocket from "./utils/wrapAsyncSocket.js";
-import { removeConnection } from "./controllers/v1/connection.controller.js";
+import { removeConnection } from "./controllers/v2/connection.controller.js";
 import authMiddleware, {
   socketAuthMiddleware,
 } from "./middlewares/authMiddleware.js";

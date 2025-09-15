@@ -18,7 +18,7 @@ const connectDB = () => {
       );
     })
     .catch((err) => {
-      console.err(err);
+      console.error(err);
     });
 };
 

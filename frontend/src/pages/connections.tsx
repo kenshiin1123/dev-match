@@ -1,7 +1,6 @@
 import {
   redirect,
   useLoaderData,
-  useSubmit,
   type ActionFunction,
   type LoaderFunction,
 } from "react-router-dom";
@@ -12,7 +11,12 @@ import { getAuthToken } from "@/util/auth";
 import { useSelector } from "react-redux";
 import { createContext } from "react";
 import { type UserState } from "@/store/user-reducer";
-import { socket } from "@/socket";
+import { socket } from "@/socket/socket";
+import {
+  establishConnectionListener,
+  removeConnectionListener,
+} from "@/socket/listeners/connection.listeners";
+import connectionEmitters from "@/socket/emitters/connection.emitters";
 
 export type ConnectionType = {
   connection_id: string;
@@ -125,7 +129,6 @@ const derivedDetermineDevOrEmp = async (
 };
 
 const ConnectionsPage: React.FC<{}> = () => {
-  const submit = useSubmit();
   const loadedUsers = useLoaderData();
   const currentUser = useSelector((state: any) => state.user);
   const [users, setUsers] = useState(loadedUsers);
@@ -134,115 +137,18 @@ const ConnectionsPage: React.FC<{}> = () => {
     derivedDetermineDevOrEmp(currentUser, setUsers);
   };
 
-  const handleConnectUser = async (sender_id: string, receiver_id: string) => {
-    if (!["developer", "employer"].includes(currentUser.role)) {
-      return toast.error("You are unauthorized. Please login first");
-    }
-
-    const formData = new FormData();
-    formData.append("sender_id", sender_id);
-    formData.append("receiver_id", receiver_id);
-    await submit(formData, { method: "POST" });
-  };
-
-  const handleRemoveConnection = async (
-    connection_id: string,
-    connected_user_id: string
-  ) => {
-    if (!["developer", "employer"].includes(currentUser.role)) {
-      return toast.error("You are unauthorized. Please login first");
-    }
-
-    // Optimistic update
-    setUsers((prev: UserProfileType[]) =>
-      prev.map((u) =>
-        u.user_id === connected_user_id
-          ? {
-              ...u,
-              status: undefined,
-              connect_type: undefined,
-              connection_id: undefined,
-            }
-          : u
-      )
-    );
-
-    const formData = new FormData();
-    formData.append("connection_id", connection_id);
-    formData.append("connected_user_id", connected_user_id);
-    await submit(formData, { method: "DELETE" });
-
-    derivedDetermineDevOrEmp(currentUser, setUsers);
-  };
-
-  const handleAcceptConnection = async (
-    connection_id: ConnectionType["connection_id"],
-    user_id: UserProfileType["user_id"]
-  ) => {
-    if (!["developer", "employer"].includes(currentUser.role)) {
-      return toast.error("You are unauthorized. Please login first");
-    }
-
-    // Optimistic update
-    setUsers((prev: UserProfileType[]) =>
-      prev.map((u) =>
-        u.user_id === user_id
-          ? {
-              ...u,
-              status: undefined,
-              connect_type: undefined,
-              connection_id: undefined,
-            }
-          : u
-      )
-    );
-
-    const formData = new FormData();
-    formData.append("connection_id", connection_id);
-    formData.append("sender_id", user_id);
-    await submit(formData, { method: "PATCH" });
-
-    derivedDetermineDevOrEmp(currentUser, setUsers);
-  };
+  // This is the socket emitters for connections
+  const { handleConnectUser, handleRemoveConnection, handleAcceptConnection } =
+    connectionEmitters(currentUser, setUsers);
 
   useEffect(() => {
     determineDevOrEmp();
   }, [currentUser]);
 
   useEffect(() => {
-    socket.on("establish_connection_response", (resData) => {
-      const { message, success, data } = resData;
-      if (!success) {
-        return toast.error(message);
-      }
-
-      const { sender_id, receiver_id, connection_id, status } = data;
-
-      setUsers((prevUsers: UserProfileType[]) =>
-        prevUsers.map((user) => {
-          if (user.user_id === sender_id || user.user_id === receiver_id) {
-            const updatedUser = {
-              ...user,
-              sender_id,
-              receiver_id,
-              connection_id,
-              status,
-            };
-
-            return updatedUser;
-          }
-
-          return user;
-        })
-      );
-    });
-
-    determineDevOrEmp();
-
-    return () => {
-      socket.off("establish_connection_response");
-    };
-  }, [socket, determineDevOrEmp]);
+    establishConnectionListener(setUsers);
+    removeConnectionListener(setUsers);
+  }, [socket]);
 
   return (
     <div className="p-5">
@@ -289,6 +195,8 @@ export const action: ActionFunction = async ({ request }) => {
   const payload: {
     sender_id?: string;
     receiver_id?: string;
+    connection_id?: string;
+    connected_user_id?: string;
   } = {};
 
   if (request.method === "POST") {
@@ -297,10 +205,19 @@ export const action: ActionFunction = async ({ request }) => {
     const receiver_id = formData.get("receiver_id");
     payload.sender_id = sender_id!.toString();
     payload.receiver_id = receiver_id!.toString();
-    event = "establish_connection";
 
     if (!sender_id || !receiver_id) {
       return toast.error("Sender ID and Receiver ID is required");
+    }
+  } else if (request.method === "DELETE") {
+    event = "remove_connection";
+    const connection_id = formData.get("connection_id");
+    const connected_user_id = formData.get("connected_user_id");
+    payload.connection_id = connection_id!.toString();
+    payload.connected_user_id = connected_user_id!.toString();
+
+    if (!connection_id || !connected_user_id) {
+      return toast.error("Connection ID and User ID is required");
     }
   }
 

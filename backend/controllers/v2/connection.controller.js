@@ -106,10 +106,10 @@ const removeConnection = async (evt, data, socket) => {
   );
 
   const connectedSocketId = getUserSocketId(connected_user_id);
-
   return socket.to(connectedSocketId).emit(`${evt}_response`, {
     message: "Successfully removed connection",
     success: true,
+    data: { connection_id: connection_id },
   });
 };
 

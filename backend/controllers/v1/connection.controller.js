@@ -148,8 +148,8 @@ const acceptConnection = wrapAsync(async (req, res) => {
 });
 
 const removeConnection = wrapAsync(async (req, res) => {
-  const connection_id = req.params.connection_id;
   const user_id = req.token.user_id;
+  const connection_id = req.params.connection_id;
   const connected_user_id = req.body.connected_user_id;
 
   // Verify if connection is available
