@@ -59,7 +59,6 @@ const establishConnection = async (evt, data, socket) => {
     [sender_id, receiver_id]
   );
 
-  console.log(newConnectionQuery.rows);
   const newConnection = newConnectionQuery.rows[0];
 
   const receiverSocketId = getUserSocketId(receiver_id);
