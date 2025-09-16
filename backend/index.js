@@ -8,7 +8,10 @@ import rateLimit from "express-rate-limit";
 import { createServer } from "http";
 import indexRouteV1 from "./routes/v1/index.route.js";
 import { Server } from "socket.io";
-import { establishConnection } from "./controllers/v2/connection.controller.js";
+import {
+  acceptConnection,
+  establishConnection,
+} from "./controllers/v2/connection.controller.js";
 import wrapAsyncSocket from "./utils/wrapAsyncSocket.js";
 import { removeConnection } from "./controllers/v2/connection.controller.js";
 import authMiddleware, {
@@ -33,6 +36,7 @@ const limiter = rateLimit({
 const eventListeners = [
   { event: "establish_connection", fn: establishConnection },
   { event: "remove_connection", fn: removeConnection },
+  { event: "accept_connection", fn: acceptConnection },
 ];
 
 const userSocketMap = new Map();

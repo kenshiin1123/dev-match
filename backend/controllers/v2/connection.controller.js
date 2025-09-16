@@ -112,4 +112,41 @@ const removeConnection = async (evt, data, socket) => {
   });
 };
 
-export { establishConnection, removeConnection };
+const acceptConnection = async (evt, data, socket) => {
+  const connection_id = data.connection_id;
+  const receiver_id = socket.data.token.user_id;
+  const sender_id = data.sender_id;
+
+  // Verify if connection is available
+  const existingConnection = await dbClient.query(
+    `SELECT * FROM user_connections 
+   WHERE connection_id = $1 AND receiver_id = $2 AND sender_id = $3`,
+    [connection_id, receiver_id, sender_id]
+  );
+
+  if (existingConnection.rows.length < 1) {
+    throw new Error("User connection is not found");
+  }
+
+  // Ensure that the status is pending and not blocked
+  const { status } = existingConnection.rows[0];
+  if (status !== "pending") {
+    throw new Error(
+      `Cannot accept connection: current status is '${status}', expected 'pending'.`
+    );
+  }
+
+  await dbClient.query(
+    `UPDATE user_connections SET status = 'accepted' WHERE connection_id = $1`,
+    [connection_id]
+  );
+
+  const senderSocketId = getUserSocketId(sender_id);
+  return socket.to(senderSocketId).emit(`${evt}_response`, {
+    message: "Successfully accepted connection",
+    success: true,
+    data: { connection_id: connection_id },
+  });
+};
+
+export { establishConnection, removeConnection, acceptConnection };

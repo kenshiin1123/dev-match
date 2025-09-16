@@ -13,6 +13,7 @@ import { createContext } from "react";
 import { type UserState } from "@/store/user-reducer";
 import { socket } from "@/socket/socket";
 import {
+  acceptConnectionListener,
   establishConnectionListener,
   removeConnectionListener,
 } from "@/socket/listeners/connection.listeners";
@@ -58,10 +59,10 @@ export const ConnectionContext = createContext({
 
   handleAcceptConnection: (
     connection_id: ConnectionType["connection_id"],
-    user_id: UserProfileType["user_id"]
+    sender_id: UserProfileType["user_id"]
   ) => {
     connection_id;
-    user_id;
+    sender_id;
   },
   currentUser: {} as UserState,
 });
@@ -148,6 +149,7 @@ const ConnectionsPage: React.FC<{}> = () => {
   useEffect(() => {
     establishConnectionListener(setUsers);
     removeConnectionListener(setUsers);
+    acceptConnectionListener(setUsers);
   }, [socket]);
 
   return (
@@ -218,6 +220,16 @@ export const action: ActionFunction = async ({ request }) => {
 
     if (!connection_id || !connected_user_id) {
       return toast.error("Connection ID and User ID is required");
+    }
+  } else if (request.method === "PATCH") {
+    event = "accept_connection";
+    const connection_id = formData.get("connection_id");
+    const sender_id = formData.get("sender_id");
+    payload.connection_id = connection_id!.toString();
+    payload.sender_id = sender_id!.toString();
+
+    if (!connection_id || !sender_id) {
+      return toast.error("Connection ID and Sender ID is required");
     }
   }
 

@@ -53,7 +53,7 @@ const connectionEmitters = (
 
   const handleAcceptConnection = async (
     connection_id: ConnectionType["connection_id"],
-    user_id: UserProfileType["user_id"]
+    sender_id: UserProfileType["user_id"]
   ) => {
     if (!["developer", "employer"].includes(currentUser.role)) {
       return toast.error("You are unauthorized. Please login first");
@@ -61,7 +61,7 @@ const connectionEmitters = (
 
     const formData = new FormData();
     formData.append("connection_id", connection_id);
-    formData.append("sender_id", user_id);
+    formData.append("sender_id", sender_id);
     await submit(formData, { method: "PATCH" });
   };
 

@@ -66,4 +66,32 @@ const removeConnectionListener = (setUsers: React.Dispatch<any>) => {
   return () => socket.off("remove_connection_response", listener);
 };
 
-export { establishConnectionListener, removeConnectionListener };
+const acceptConnectionListener = (setUsers: React.Dispatch<any>) => {
+  const listener = (resData: any) => {
+    const { success, message, data } = resData;
+
+    if (!success) {
+      return toast.error(message);
+    }
+
+    setUsers((prevUsers: UserProfileType[]) => {
+      return prevUsers.map((prevUser) => {
+        if (prevUser.connection_id === data.connection_id) {
+          return { ...prevUser, status: "accepted" };
+        }
+
+        return prevUser;
+      });
+    });
+  };
+
+  socket.on("accept_connection_response", listener);
+
+  return () => socket.off("accept_connection_response", listener);
+};
+
+export {
+  establishConnectionListener,
+  removeConnectionListener,
+  acceptConnectionListener,
+};

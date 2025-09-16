@@ -18,7 +18,7 @@ const UserConnectionItem: React.FC<{ user: UserProfileType }> = ({ user }) => {
       : "images/default_pic.png";
 
   const isLoading = navigation.state === "loading";
-
+  const buttonClasses = "ml-auto font-bold cursor-pointer";
   return (
     <li
       key={user.user_id}
@@ -34,14 +34,14 @@ const UserConnectionItem: React.FC<{ user: UserProfileType }> = ({ user }) => {
       {!user.status ? (
         <Button
           onClick={() => handleConnectUser(currentUser.user_id!, user.user_id)}
-          className="ml-auto font-bold"
+          className={buttonClasses}
           disabled={isLoading}
         >
           Connect
         </Button>
       ) : user.connect_type === "receiver" && user.status === "pending" ? (
         <Button
-          className="ml-auto font-bold"
+          className={buttonClasses}
           onClick={() =>
             handleRemoveConnection(user.connection_id!, user.user_id)
           }
@@ -74,18 +74,17 @@ const UserConnectionItem: React.FC<{ user: UserProfileType }> = ({ user }) => {
           </Button>
         </div>
       ) : (
-        user.connect_type === "sender" &&
         user.status === "accepted" && (
           <Button
             onClick={() =>
               handleRemoveConnection(user.connection_id!, user.user_id)
             }
-            className="ml-auto font-bold"
+            className={buttonClasses}
             disabled={isLoading}
             size={"sm"}
             variant={"ghost"}
           >
-            Remove Connection
+            Disconnect
           </Button>
         )
       )}
