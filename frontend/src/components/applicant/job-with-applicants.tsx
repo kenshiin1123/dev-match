@@ -25,7 +25,7 @@ const JobWithApplicants: React.FC<{ job: JobType }> = ({ job }) => {
       {job.applicants.length > 0 && (
         <>
           <h1 className="indent-2 opacity-80 my-4">Applicants</h1>
-          <ul className="mt-3 flex">
+          <ul className="mt-3 flex flex-col gap-2">
             {job.applicants.map((applicant: ApplicantType) => {
               return (
                 <ApplicantItem

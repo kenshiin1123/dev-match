@@ -6,7 +6,6 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { TabsContent } from "@/components/ui/tabs";
 import { TabCardButton } from "./tab-card-button";
@@ -14,6 +13,7 @@ import { passwordStrength as passwordStrengthChecker } from "check-password-stre
 
 import type { ContentType } from "./signup-form-types";
 import { useEffect, useState } from "react";
+import PasswordInput from "../password-input";
 
 export const PasswordContent: React.FC<ContentType> = ({
   inputValues,
@@ -66,9 +66,8 @@ export const PasswordContent: React.FC<ContentType> = ({
               Password
               {!inputValues.password && <span className="text-red-500">*</span>}
             </Label>
-            <Input
+            <PasswordInput
               id="password"
-              type="password"
               name="password"
               value={inputValues.password}
               onChange={onInputValueChange}
@@ -107,9 +106,8 @@ export const PasswordContent: React.FC<ContentType> = ({
                   <span className="text-red-500">Does not match *</span>
                 )}
             </Label>
-            <Input
+            <PasswordInput
               id="confirm_password"
-              type="password"
               name="confirm_password"
               value={inputValues.confirm_password}
               onChange={onInputValueChange}
