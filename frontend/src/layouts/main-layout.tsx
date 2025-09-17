@@ -22,6 +22,7 @@ export default function MainLayout() {
     { location: "/applications", title: "Applications Page" },
     { location: "/applicants", title: "Applicants Page" },
     { location: "/connections", title: "Connections Page" },
+    { location: "/messages", title: "Messages Page" },
   ];
 
   useEffect(() => {

@@ -32,6 +32,7 @@ import ConnectionsPage, {
 import store from "./store/store";
 
 import { Loader2 } from "lucide-react";
+import MessagesPage from "./pages/messages";
 
 const router = createBrowserRouter([
   {
@@ -78,6 +79,10 @@ const router = createBrowserRouter([
         element: <ConnectionsPage />,
         loader: connectionsLoader,
         action: connectionAction,
+      },
+      {
+        path: "messages",
+        element: <MessagesPage />,
       },
     ],
   },

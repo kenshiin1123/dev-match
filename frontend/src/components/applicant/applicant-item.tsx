@@ -7,6 +7,7 @@ import LabelWithParagraphItem from "../label-with-paragraph-item";
 import { Button } from "../ui/button";
 import { AnimatePresence, motion, stagger, type Variants } from "motion/react";
 import { Expand, Shrink } from "lucide-react";
+import getAvatarUrl from "@/util/getAvatarUrl";
 
 export type EmployerResponseType = {
   status: string;
@@ -27,10 +28,10 @@ const ApplicantItem: React.FC<{ applicant: ApplicantType }> = ({
   const [expanded, setExpanded] = useState(false);
 
   const submit = useSubmit();
-  const avatarUrl =
-    applicant.avatar && applicant.avatar_content_type
-      ? `data:${applicant.avatar_content_type};base64,${applicant.avatar}`
-      : "images/default_pic.png";
+  const avatarUrl = getAvatarUrl(
+    applicant.avatar,
+    applicant.avatar_content_type
+  );
 
   const handleResponseSubmit = () => {
     const { status, note_from_employer }: EmployerResponseType =
