@@ -10,7 +10,7 @@ export type ContactType = {
   avatar?: string;
   avatar_content_type?: string;
   recent_message: string;
-  date: string;
+  created_at: string;
   user_id: string;
 };
 
@@ -18,19 +18,19 @@ const contacts: ContactType[] = [
   {
     name: "Lance Ivan Gil Fernandez",
     recent_message: "hello world",
-    date: "2024-06-10T09:30:00",
+    created_at: "2024-06-10T09:30:00",
     user_id: "user1",
   },
   {
     name: "Angelie",
     recent_message: "hello world",
-    date: "2024-06-10T08:15:00",
+    created_at: "2024-06-10T08:15:00",
     user_id: "user2",
   },
   {
     name: "Rex",
     recent_message: "hello worldhello worldhello worldhello worldhello world",
-    date: "2024-06-09T22:45:00",
+    created_at: "2024-06-09T22:45:00",
     user_id: "user3",
   },
 ];
