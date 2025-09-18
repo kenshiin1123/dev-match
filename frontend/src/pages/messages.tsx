@@ -1,50 +1,78 @@
-import MessageContent from "@/components/messages/message-content";
+import MessageSection from "@/components/messages/message-section";
 import Contacts from "@/components/messages/contacts";
 import { Card } from "@/components/ui/card";
 import { motion } from "motion/react";
-import { useState } from "react";
-import { ArrowLeftRightIcon } from "lucide-react";
+import { useEffect, useState } from "react";
+import ContactPanelToggle from "../components/messages/contact-panel-toggle";
 
 export type ContactType = {
   name: string;
   avatar?: string;
   avatar_content_type?: string;
-  recent_chat: string;
+  recent_message: string;
   date: string;
+  user_id: string;
 };
 
 const contacts: ContactType[] = [
-  { name: "Lance", recent_chat: "hello world", date: "2024-06-10T09:30:00" },
-  { name: "Angelie", recent_chat: "hello world", date: "2024-06-10T08:15:00" },
+  {
+    name: "Lance Ivan Gil Fernandez",
+    recent_message: "hello world",
+    date: "2024-06-10T09:30:00",
+    user_id: "user1",
+  },
+  {
+    name: "Angelie",
+    recent_message: "hello world",
+    date: "2024-06-10T08:15:00",
+    user_id: "user2",
+  },
   {
     name: "Rex",
-    recent_chat: "hello worldhello worldhello worldhello worldhello world",
+    recent_message: "hello worldhello worldhello worldhello worldhello world",
     date: "2024-06-09T22:45:00",
+    user_id: "user3",
   },
 ];
 
 type StateType = {
   contacts: ContactType[];
   activeContact?: ContactType | null;
-  expandContacts: boolean;
 };
 
 const initialState: StateType = {
   contacts,
   activeContact: null,
-  expandContacts: true,
 };
 
 const MessagesPage = () => {
   const [state, setState] = useState<StateType>(initialState);
+  const [isMobile, setIsmobile] = useState(window.innerWidth < 640);
+  const [expandContacts, setExpandContacts] = useState(true);
+
+  useEffect(() => {
+    // Set initial state for expandContacts based on isMobile
+    setExpandContacts(!isMobile);
+
+    const handleResize = () => {
+      setIsmobile(window.innerWidth < 640);
+    };
+
+    window.addEventListener("resize", handleResize);
+
+    return () => window.removeEventListener("resize", handleResize);
+  }, [window.innerWidth]);
 
   const toggleContactDisplay = () => {
+    setExpandContacts((prev) => !prev);
+  };
+
+  const handleSetActiveContact = (contact: ContactType) => {
     setState((prevState) => {
-      return { ...prevState, expandContacts: !prevState.expandContacts };
+      return { ...prevState, activeContact: contact };
     });
   };
 
-  const MotionArrowLeftRightIcon = motion.create(ArrowLeftRightIcon);
   return (
     <motion.div
       animate={{ opacity: [0, 1], y: [30, 0] }}
@@ -52,33 +80,17 @@ const MessagesPage = () => {
       transition={{ duration: 0.3 }}
     >
       <Card className="flex flex-row p-0 w-full h-full relative">
-        <Contacts contacts={contacts} expandContacts={state.expandContacts} />
-        <MessageContent>
-          <motion.button
-            onClick={toggleContactDisplay}
-            className="flex items-center gap-3 absolute"
-            title={state.expandContacts ? "Shrink" : "Expand"}
-            animate={{
-              marginLeft:
-                state.expandContacts && window.innerWidth < 640
-                  ? 260
-                  : window.innerWidth < 640
-                  ? 15
-                  : 0,
-            }}
-          >
-            <MotionArrowLeftRightIcon
-              size={25}
-              animate={{ rotate: state.expandContacts ? 180 : -180 }}
-              transition={{ duration: 0.3 }}
-            />
-            {state.activeContact && (
-              <span className="text-xl font-bold">
-                {state.activeContact.name}
-              </span>
-            )}
-          </motion.button>
-        </MessageContent>
+        <Contacts
+          contacts={contacts}
+          expandContacts={expandContacts}
+          handleSetActiveContact={handleSetActiveContact}
+        />
+        <MessageSection contact={state.activeContact || null}>
+          <ContactPanelToggle
+            toggleContactDisplay={toggleContactDisplay}
+            state={{ expandContacts, isMobile }}
+          />
+        </MessageSection>
       </Card>
     </motion.div>
   );

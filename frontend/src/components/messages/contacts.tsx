@@ -1,13 +1,14 @@
 import type { ContactType } from "@/pages/messages";
-import Contact from "./contact";
+import ContactItem from "./contact-item";
 import { motion } from "motion/react";
 
 const Contacts: React.FC<{
   contacts: ContactType[];
   expandContacts: boolean;
-}> = ({ contacts, expandContacts }) => {
+  handleSetActiveContact: (contact: ContactType) => void;
+}> = ({ contacts, expandContacts, handleSetActiveContact }) => {
   return (
-    <motion.section
+    <motion.aside
       className={`h-full rounded-2xl overflow-hidden max-sm:absolute left-0 top-0 bg-primary-foreground z-auto ${
         expandContacts ? "border-r" : ""
       }`}
@@ -20,10 +21,14 @@ const Contacts: React.FC<{
       <h1 className="mb-10 font-bold ml-4">Contacts</h1>
       <ul>
         {contacts.map((contact, i) => (
-          <Contact {...contact} key={i} />
+          <ContactItem
+            contact={contact}
+            key={i}
+            handleSetActiveContact={handleSetActiveContact}
+          />
         ))}
       </ul>
-    </motion.section>
+    </motion.aside>
   );
 };
 
