@@ -27,12 +27,15 @@ import ConnectionsPage, {
   loader as connectionsLoader,
   action as connectionAction,
 } from "./pages/connections";
+import MessagesPage, {
+  loader as messagesLoader,
+  action as messagesAction,
+} from "./pages/messages";
 
 // Redux Toolkit Store
 import store from "./store/store";
 
 import { Loader2 } from "lucide-react";
-import MessagesPage from "./pages/messages";
 
 const router = createBrowserRouter([
   {
@@ -83,6 +86,8 @@ const router = createBrowserRouter([
       {
         path: "messages",
         element: <MessagesPage />,
+        loader: messagesLoader,
+        action: messagesAction,
       },
     ],
   },

@@ -2,8 +2,19 @@ import MessageSection from "@/components/messages/message-section";
 import Contacts from "@/components/messages/contacts";
 import { Card } from "@/components/ui/card";
 import { motion } from "motion/react";
-import { useEffect, useState } from "react";
+import { createContext, useEffect, useState } from "react";
 import ContactPanelToggle from "../components/messages/contact-panel-toggle";
+import {
+  Link,
+  useLoaderData,
+  type ActionFunction,
+  type LoaderFunction,
+} from "react-router-dom";
+import { getAuthToken } from "@/util/auth";
+import { toast } from "sonner";
+import { Button } from "@/components/ui/button";
+import messageEmitters from "@/socket/emitters/message.emitters";
+import { socket } from "@/socket/socket";
 
 export type ContactType = {
   name: string;
@@ -14,41 +25,27 @@ export type ContactType = {
   user_id: string;
 };
 
-const contacts: ContactType[] = [
-  {
-    name: "Lance Ivan Gil Fernandez",
-    recent_message: "hello world",
-    created_at: "2024-06-10T09:30:00",
-    user_id: "user1",
+export const MessageContext = createContext({
+  handlePostMessage: (message: string, receiver_id: string) => {
+    message;
+    receiver_id;
   },
-  {
-    name: "Angelie",
-    recent_message: "hello world",
-    created_at: "2024-06-10T08:15:00",
-    user_id: "user2",
+  contacts: [] as ContactType[],
+  expandContacts: true,
+  handleSetActiveContact: (contact: ContactType) => {
+    contact;
   },
-  {
-    name: "Rex",
-    recent_message: "hello worldhello worldhello worldhello worldhello world",
-    created_at: "2024-06-09T22:45:00",
-    user_id: "user3",
-  },
-];
-
-type StateType = {
-  contacts: ContactType[];
-  activeContact?: ContactType | null;
-};
-
-const initialState: StateType = {
-  contacts,
-  activeContact: null,
-};
+  activeContact: null as ContactType | null | undefined,
+});
 
 const MessagesPage = () => {
-  const [state, setState] = useState<StateType>(initialState);
+  const loadedContacts: ContactType[] = useLoaderData();
+  const [contacts, _] = useState<ContactType[]>(loadedContacts);
   const [isMobile, setIsmobile] = useState(window.innerWidth < 640);
   const [expandContacts, setExpandContacts] = useState(true);
+  const [activeContact, setActiveContact] = useState<ContactType>();
+
+  const { handlePostMessage } = messageEmitters();
 
   useEffect(() => {
     // Set initial state for expandContacts based on isMobile
@@ -68,32 +65,90 @@ const MessagesPage = () => {
   };
 
   const handleSetActiveContact = (contact: ContactType) => {
-    setState((prevState) => {
-      return { ...prevState, activeContact: contact };
-    });
+    setActiveContact(contact);
   };
 
+  if (!loadedContacts.length) {
+    return (
+      <motion.div
+        animate={{ opacity: [0, 1], y: [30, 0] }}
+        className="w-full h-70 flex justify-center items-center flex-col gap-5"
+        transition={{ duration: 0.3 }}
+      >
+        <h1 className="text-2xl font-bold">No conversations yet.</h1>
+        <Link to={"/connections"}>
+          <Button>Start a new connection</Button>
+        </Link>
+      </motion.div>
+    );
+  }
+
   return (
-    <motion.div
-      animate={{ opacity: [0, 1], y: [30, 0] }}
-      className="w-full h-screen p-5"
-      transition={{ duration: 0.3 }}
+    <MessageContext.Provider
+      value={{
+        activeContact,
+        contacts,
+        expandContacts,
+        handlePostMessage,
+        handleSetActiveContact,
+      }}
     >
-      <Card className="flex flex-row p-0 w-full h-full relative">
-        <Contacts
-          contacts={contacts}
-          expandContacts={expandContacts}
-          handleSetActiveContact={handleSetActiveContact}
-        />
-        <MessageSection contact={state.activeContact || null}>
-          <ContactPanelToggle
-            toggleContactDisplay={toggleContactDisplay}
-            state={{ expandContacts, isMobile }}
-          />
-        </MessageSection>
-      </Card>
-    </motion.div>
+      <motion.div
+        animate={{ opacity: [0, 1], y: [30, 0] }}
+        className="w-full h-[92vh] p-5"
+        transition={{ duration: 0.3 }}
+      >
+        <Card className="flex flex-row p-0 w-full h-full relative">
+          <Contacts />
+          <MessageSection contact={activeContact || null}>
+            <ContactPanelToggle
+              toggleContactDisplay={toggleContactDisplay}
+              state={{ expandContacts, isMobile }}
+            />
+          </MessageSection>
+        </Card>
+      </motion.div>
+    </MessageContext.Provider>
   );
 };
 
 export default MessagesPage;
+
+export const loader: LoaderFunction = async () => {
+  const { VITE_API_BASE_URL } = import.meta.env;
+  const response = await fetch(`${VITE_API_BASE_URL}/messages`, {
+    headers: {
+      Authorization: "Bearer " + getAuthToken(),
+    },
+  });
+
+  const { message, success, data } = await response.json();
+
+  if (!success) {
+    return toast.error(message);
+  }
+
+  return data;
+};
+
+export const action: ActionFunction = async ({ request }) => {
+  const formData = await request.formData();
+  const payload: { receiver_id?: string; content?: string } = {};
+  let event = "";
+
+  if (request.method === "POST") {
+    const receiver_id = formData.get("receiver_id");
+    const content = formData.get("content");
+
+    payload.receiver_id = receiver_id!.toString();
+    payload.content = content!.toString();
+
+    event = "send_message";
+
+    if (!receiver_id || !content) return;
+  }
+
+  socket.emit(event, payload);
+
+  return null;
+};

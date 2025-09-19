@@ -17,6 +17,7 @@ import { removeConnection } from "./controllers/v2/connection.controller.js";
 import authMiddleware, {
   socketAuthMiddleware,
 } from "./middlewares/authMiddleware.js";
+import { postMessage } from "./controllers/v1/messages.controller.js";
 
 const app = express();
 const server = createServer(app);
@@ -34,9 +35,15 @@ const limiter = rateLimit({
 
 // For socket.io
 const eventListeners = [
+  // Connection Events
+
   { event: "establish_connection", fn: establishConnection },
   { event: "remove_connection", fn: removeConnection },
   { event: "accept_connection", fn: acceptConnection },
+
+  // Message Events
+
+  { event: "send_message", fn: postMessage },
 ];
 
 const userSocketMap = new Map();
@@ -74,7 +81,6 @@ app.use((err, req, res, next) => {
 
 io.use(socketAuthMiddleware);
 
-// Loop instead of hard code
 io.on("connection", (socket) => {
   const user_id = socket.data.token.user_id;
   userSocketMap.set(user_id, socket.id);

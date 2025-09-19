@@ -1,13 +1,14 @@
 import getAvatarUrl from "@/util/getAvatarUrl";
-import type { ContactType } from "@/pages/messages";
+import { MessageContext, type ContactType } from "@/pages/messages";
 import { motion } from "motion/react";
+import { useContext } from "react";
 
 const ContactItem: React.FC<{
   contact: ContactType;
-  handleSetActiveContact: (contact: ContactType) => void;
-}> = ({ contact, handleSetActiveContact }) => {
+}> = ({ contact }) => {
   const { name, recent_message, avatar, avatar_content_type } = contact;
   const avatarUrl = getAvatarUrl(avatar, avatar_content_type);
+  const { handleSetActiveContact } = useContext(MessageContext);
 
   return (
     <motion.li

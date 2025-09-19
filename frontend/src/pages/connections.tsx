@@ -194,6 +194,7 @@ export const loader: LoaderFunction = async () => {
 export const action: ActionFunction = async ({ request }) => {
   const formData = await request.formData();
   let event = "";
+
   const payload: {
     sender_id?: string;
     receiver_id?: string;
