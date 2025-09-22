@@ -1,7 +1,7 @@
-import { success } from "zod";
 import { dbClient } from "../../config/db.js";
 import AppError from "../../utils/AppError.js";
 import wrapAsync from "../../utils/wrapAsync.js";
+import { getUserSocketId, io } from "../../index.js";
 
 const postMessage = async (evt, data, socket) => {
   const sender_id = socket.data.token.user_id;
@@ -23,7 +23,7 @@ const postMessage = async (evt, data, socket) => {
     throw new Error("Sender or receiver not found");
   }
 
-  const messageQuery = dbClient.query(
+  const messageQuery = await dbClient.query(
     "INSERT INTO messages (sender_id, receiver_id, content) VALUES ($1, $2, $3) RETURNING *",
     [sender_id, receiver_id, content]
   );
@@ -31,7 +31,8 @@ const postMessage = async (evt, data, socket) => {
   const newMessage = await messageQuery.rows[0];
 
   const receiverSocketId = getUserSocketId(receiver_id);
-  return socket.to(receiverSocketId).emit(`${evt}_response`, {
+  const senderSocketId = getUserSocketId(sender_id);
+  return io.to(senderSocketId).to(receiverSocketId).emit(`${evt}_response`, {
     message: "Successfully sent a message",
     success: true,
     data: newMessage,
@@ -116,4 +117,37 @@ const retrieveUserContacts = wrapAsync(async (req, res) => {
   });
 });
 
-export { postMessage, retrieveUserContacts };
+const retrieveUserMessages = wrapAsync(async (req, res) => {
+  const user_id = req.token.user_id;
+  const { receiver_id } = req.params;
+
+  if (!user_id || !receiver_id) {
+    return res.json({
+      message: "Validation failure, user ID and receiver_id is required!",
+      success: false,
+    });
+  }
+
+  const existingReceiverQuery = await dbClient.query(
+    "SELECT user_id FROM users WHERE user_id = $1",
+    [receiver_id]
+  );
+
+  if (existingReceiverQuery.rows < 1) {
+    throw new AppError("User not found", 404);
+  }
+
+  const messagesQuery = await dbClient.query(
+    "SELECT * FROM messages WHERE sender_id = $1 AND receiver_id = $2 OR sender_id = $2 AND receiver_id = $1",
+    [user_id, receiver_id]
+  );
+
+  const messages = messagesQuery.rows;
+  return res.json({
+    message: "Successfully Retrieved Messages",
+    success: true,
+    data: messages,
+  });
+});
+
+export { postMessage, retrieveUserContacts, retrieveUserMessages };

@@ -10,7 +10,7 @@ const ContactPanelToggle: React.FC<{
   return (
     <motion.button
       onClick={toggleContactDisplay}
-      className="flex items-center gap-3 mb-5"
+      className="flex items-center gap-3 mb-5 w-fit"
       title={state.expandContacts ? "Shrink" : "Expand"}
       animate={{
         marginLeft:

@@ -15,6 +15,7 @@ import { toast } from "sonner";
 import { Button } from "@/components/ui/button";
 import messageEmitters from "@/socket/emitters/message.emitters";
 import { socket } from "@/socket/socket";
+import { postMessageListener } from "../socket/listeners/message.listeners";
 
 export type ContactType = {
   name: string;
@@ -23,6 +24,16 @@ export type ContactType = {
   recent_message: string;
   created_at: string;
   user_id: string;
+};
+
+export type MessageType = {
+  message_id: string;
+  sender_id: string;
+  receiver_id: string;
+  content: string;
+  status: string;
+  created_at: string;
+  updated_at: string;
 };
 
 export const MessageContext = createContext({
@@ -36,6 +47,9 @@ export const MessageContext = createContext({
     contact;
   },
   activeContact: null as ContactType | null | undefined,
+  messages: [] as MessageType[],
+  setMessages: (_: React.SetStateAction<MessageType[]>) => {},
+  isMobile: false,
 });
 
 const MessagesPage = () => {
@@ -43,8 +57,10 @@ const MessagesPage = () => {
   const [contacts, _] = useState<ContactType[]>(loadedContacts);
   const [isMobile, setIsmobile] = useState(window.innerWidth < 640);
   const [expandContacts, setExpandContacts] = useState(true);
-  const [activeContact, setActiveContact] = useState<ContactType>();
-
+  const [activeContact, setActiveContact] = useState<ContactType | null>(
+    contacts.length > 0 ? contacts[0] : null
+  );
+  const [messages, setMessages] = useState<MessageType[]>([]);
   const { handlePostMessage } = messageEmitters();
 
   useEffect(() => {
@@ -59,6 +75,28 @@ const MessagesPage = () => {
 
     return () => window.removeEventListener("resize", handleResize);
   }, [window.innerWidth]);
+
+  useEffect(() => {
+    return postMessageListener(setMessages);
+  }, [socket]);
+
+  useEffect(() => {
+    if (!activeContact!.user_id) return;
+    const fetchMessages = async () => {
+      const { VITE_API_BASE_URL } = import.meta.env;
+      const response = await fetch(
+        `${VITE_API_BASE_URL}/messages/${activeContact!.user_id}`,
+        { headers: { Authorization: "Bearer " + getAuthToken() } }
+      );
+
+      const { message, success, data } = await response.json();
+
+      if (!success) return toast.error(message);
+
+      setMessages(data);
+    };
+    fetchMessages();
+  }, [activeContact]);
 
   const toggleContactDisplay = () => {
     setExpandContacts((prev) => !prev);
@@ -91,6 +129,9 @@ const MessagesPage = () => {
         expandContacts,
         handlePostMessage,
         handleSetActiveContact,
+        messages,
+        setMessages,
+        isMobile,
       }}
     >
       <motion.div

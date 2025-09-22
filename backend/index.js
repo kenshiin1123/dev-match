@@ -22,7 +22,7 @@ import { postMessage } from "./controllers/v1/messages.controller.js";
 const app = express();
 const server = createServer(app);
 
-const io = new Server(server, {
+export const io = new Server(server, {
   cors: { origin: "*" },
 });
 const PORT = process.env.PORT || 3000;

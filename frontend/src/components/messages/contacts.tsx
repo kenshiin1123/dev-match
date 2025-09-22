@@ -9,7 +9,7 @@ const Contacts = () => {
 
   return (
     <motion.aside
-      className={`h-full rounded-2xl overflow-hidden max-sm:absolute left-0 top-0 bg-primary-foreground z-auto ${
+      className={`h-full rounded-2xl overflow-hidden max-sm:absolute left-0 top-0 bg-primary-foreground z-20 ${
         expandContacts ? "border-r" : ""
       }`}
       animate={{
@@ -17,7 +17,7 @@ const Contacts = () => {
         opacity: expandContacts ? 1 : 0,
       }}
     >
-      <ScrollArea className="h-full pt-5">
+      <ScrollArea className="h-140 pt-5">
         <h1 className="mb-10 font-bold ml-4">Contacts</h1>
         <ul>
           {contacts.map((contact, i) => (

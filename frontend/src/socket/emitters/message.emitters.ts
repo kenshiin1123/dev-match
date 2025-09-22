@@ -12,7 +12,6 @@ const messageEmitters = () => {
     const formData = new FormData();
     formData.set("receiver_id", receiver_id);
     formData.set("content", content);
-
     submit(formData, { method: "POST" });
   };
 
