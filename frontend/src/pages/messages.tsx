@@ -54,7 +54,7 @@ export const MessageContext = createContext({
 
 const MessagesPage = () => {
   const loadedContacts: ContactType[] = useLoaderData();
-  const [contacts, _] = useState<ContactType[]>(loadedContacts);
+  const [contacts, setContacts] = useState<ContactType[]>(loadedContacts);
   const [isMobile, setIsmobile] = useState(window.innerWidth < 640);
   const [expandContacts, setExpandContacts] = useState(true);
   const [activeContact, setActiveContact] = useState<ContactType | null>(
@@ -77,7 +77,7 @@ const MessagesPage = () => {
   }, [window.innerWidth]);
 
   useEffect(() => {
-    return postMessageListener(setMessages);
+    return postMessageListener(setMessages, setContacts);
   }, [socket]);
 
   useEffect(() => {
