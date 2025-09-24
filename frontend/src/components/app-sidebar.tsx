@@ -61,7 +61,7 @@ const EMPLOYER_ITEMS = [
   { title: "Applicants", url: "/applicants", icon: Users },
   { title: "Connect", url: "/connections", icon: BookUser },
   { title: "Messages", url: "/messages", icon: MessageSquare },
-  { title: "Company Profile", url: "/company", icon: Building },
+  { title: "Company Profile", url: "/profile", icon: Building },
   { title: "Settings", url: "/settings", icon: Settings },
 ];
 

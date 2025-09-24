@@ -1,3 +1,5 @@
+import { cn } from "@/lib/utils";
+import capitalizeFirstLetter from "@/util/capitalizeFirstLetter";
 import { motion, type Variants } from "motion/react";
 
 const LabelWithParagraphItem: React.FC<{
@@ -5,7 +7,8 @@ const LabelWithParagraphItem: React.FC<{
   paragraph: string;
   className?: string;
   isItemTag?: boolean;
-}> = ({ label, paragraph, className, isItemTag = true }) => {
+  animate?: boolean;
+}> = ({ label, paragraph, className, isItemTag = true, animate = true }) => {
   const listItemVariant: Variants = {
     visible: { x: 0, opacity: 1 },
     hidden: { x: -50, opacity: 0 },
@@ -13,16 +16,17 @@ const LabelWithParagraphItem: React.FC<{
 
   return isItemTag ? (
     <motion.li
-      variants={listItemVariant}
-      className={`flex border p-3 w-fit divide-x font-semibold text-wrap mt-5 rounded ${className} w-full`}
+      variants={animate ? listItemVariant : {}}
+      className={cn(
+        "flex border p-3 divide-x font-semibold text-wrap mt-5 rounded w-full",
+        className
+      )}
       initial="hidden"
       animate="visible"
       exit="hidden"
     >
       <label className="pr-4">{label}</label>
-      <p className="pl-4">
-        {paragraph.charAt(0).toUpperCase() + paragraph.slice(1)}
-      </p>
+      <p className="pl-4">{capitalizeFirstLetter(paragraph)}</p>
     </motion.li>
   ) : (
     <motion.div
@@ -30,9 +34,7 @@ const LabelWithParagraphItem: React.FC<{
       exit="hidden"
     >
       <label className="pr-4">{label}</label>
-      <p className="pl-4">
-        {paragraph.charAt(0).toUpperCase() + paragraph.slice(1)}
-      </p>
+      <p className="pl-4">{capitalizeFirstLetter(paragraph)}</p>
     </motion.div>
   );
 };

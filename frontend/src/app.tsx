@@ -31,6 +31,7 @@ import MessagesPage, {
   loader as messagesLoader,
   action as messagesAction,
 } from "./pages/messages";
+import ProfilePage, { loader as profileLoader } from "./pages/profile";
 
 // Redux Toolkit Store
 import store from "./store/store";
@@ -88,6 +89,11 @@ const router = createBrowserRouter([
         element: <MessagesPage />,
         loader: messagesLoader,
         action: messagesAction,
+      },
+      {
+        path: "profile",
+        element: <ProfilePage />,
+        loader: profileLoader,
       },
     ],
   },
