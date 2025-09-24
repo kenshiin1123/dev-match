@@ -8,13 +8,15 @@ import SalaryRange from "@/components/jobpost-form/salary-range";
 import EmploymentType from "@/components/jobpost-form/employment-type";
 import RemoteSwitch from "@/components/jobpost-form/remote-switch";
 import {
+  redirect,
   useActionData,
   useNavigation,
   useSubmit,
   type ActionFunction,
+  type LoaderFunction,
 } from "react-router-dom";
 import { toast } from "sonner";
-import { getAuthToken } from "@/util/auth";
+import { getAuthToken, tokenLoader } from "@/util/auth";
 import { useSelector } from "react-redux";
 
 export type SalaryRangeType = {
@@ -289,6 +291,14 @@ const PostJob = () => {
 };
 
 export default PostJob;
+
+export const loader: LoaderFunction = () => {
+  const token = tokenLoader();
+  if (token.role !== "employer") {
+    return redirect("/jobs");
+  }
+  return null;
+};
 
 export const action: ActionFunction = async ({ request }) => {
   const { VITE_API_BASE_URL } = import.meta.env;

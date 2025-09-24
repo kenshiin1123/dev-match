@@ -1,5 +1,5 @@
-import { getAuthToken } from "@/util/auth";
-import { useLoaderData } from "react-router-dom";
+import { getAuthToken, tokenLoader } from "@/util/auth";
+import { redirect, useLoaderData } from "react-router-dom";
 import { toast } from "sonner";
 import ApplicationItem from "@/components/application-item";
 
@@ -38,6 +38,12 @@ const ApplicationsPage = () => {
 };
 
 export const loader = async () => {
+  // Redirect if not employer
+  const token = tokenLoader();
+  if (token.role !== "developer") {
+    return redirect("/jobs");
+  }
+
   const { VITE_API_BASE_URL } = import.meta.env;
 
   const response = await fetch(`${VITE_API_BASE_URL}/users/applications`, {

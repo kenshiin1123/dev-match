@@ -10,7 +10,10 @@ import Homepage from "./pages/home";
 import Loginpage, { action as loginAction } from "./pages/login";
 import Signuppage, { action as signupAction } from "./pages/signup";
 import JobsPage from "./pages/jobs";
-import PostJobPage, { action as jobPostAction } from "./pages/post-job";
+import PostJobPage, {
+  action as jobPostAction,
+  loader as postJobLoader,
+} from "./pages/post-job";
 import JobDisplayPage, {
   loader as jobDisplayLoader,
   action as jobApplicationAction,
@@ -64,7 +67,12 @@ const router = createBrowserRouter([
             loader: jobDisplayLoader,
             action: jobApplicationAction,
           },
-          { path: "new", element: <PostJobPage />, action: jobPostAction },
+          {
+            path: "new",
+            element: <PostJobPage />,
+            loader: postJobLoader,
+            action: jobPostAction,
+          },
         ],
       },
       {

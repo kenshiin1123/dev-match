@@ -72,7 +72,7 @@ const derivedDetermineDevOrEmp = async (
   setUsers: React.Dispatch<any>
 ) => {
   if (currentUser.role !== "developer" && currentUser.role !== "employer") {
-    return toast.error("You are unauthorized. Please login first");
+    return;
   }
 
   const { VITE_API_BASE_URL } = import.meta.env;
@@ -134,16 +134,12 @@ const ConnectionsPage: React.FC<{}> = () => {
   const currentUser = useSelector((state: any) => state.user);
   const [users, setUsers] = useState(loadedUsers);
 
-  const determineDevOrEmp = () => {
-    derivedDetermineDevOrEmp(currentUser, setUsers);
-  };
-
   // This is the socket emitters for connections
   const { handleConnectUser, handleRemoveConnection, handleAcceptConnection } =
     connectionEmitters(currentUser, setUsers);
 
   useEffect(() => {
-    determineDevOrEmp();
+    derivedDetermineDevOrEmp(currentUser, setUsers);
   }, [currentUser]);
 
   useEffect(() => {

@@ -14,7 +14,7 @@ export type MessageType = {
   updated_at: string;
 };
 
-const Messages = () => {
+const MessageBubbles = () => {
   const { messages, isMobile, expandContacts } = useContext(MessageContext);
 
   return (
@@ -32,4 +32,4 @@ const Messages = () => {
   );
 };
 
-export default Messages;
+export default MessageBubbles;

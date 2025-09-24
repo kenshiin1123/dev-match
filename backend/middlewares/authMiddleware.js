@@ -31,7 +31,6 @@ const authMiddleware = async (req, res, next) => {
 
 export const socketAuthMiddleware = (socket, next) => {
   const authToken = socket.handshake.auth.token;
-
   if (!authToken) {
     return next(new Error("NOT AUTH. AUTH TOKEN MISSING"));
   }

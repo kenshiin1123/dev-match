@@ -1,8 +1,8 @@
 import { MessageContext, type ContactType } from "@/pages/messages";
 import getAvatarUrl from "@/util/getAvatarUrl";
 import { useContext, useEffect, useRef, type PropsWithChildren } from "react";
-import ChatBox from "./chat-box";
-import Messages from "./messages";
+import MessageBox from "./message-box";
+import MessageBubbles from "./message-bubbles";
 import { ScrollArea } from "../ui/scroll-area";
 
 const MessageSection: React.FC<
@@ -33,9 +33,9 @@ const MessageSection: React.FC<
               <img src={avatarUrl} className="mx-2 size-8 rounded-full" />
               <h1>{contact.name}</h1>
             </header>
-            <Messages />
+            <MessageBubbles />
           </ScrollArea>
-          <ChatBox />
+          <MessageBox />
         </>
       )}
     </section>

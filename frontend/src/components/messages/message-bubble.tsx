@@ -1,5 +1,5 @@
 import getAvatarUrl from "@/util/getAvatarUrl";
-import { type MessageType } from "./messages";
+import { type MessageType } from "./message-bubbles";
 import { MessageContext } from "@/pages/messages";
 import { useContext } from "react";
 import { useSelector } from "react-redux";

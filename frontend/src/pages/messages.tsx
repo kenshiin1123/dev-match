@@ -6,11 +6,12 @@ import { createContext, useEffect, useState } from "react";
 import ContactPanelToggle from "../components/messages/contact-panel-toggle";
 import {
   Link,
+  redirect,
   useLoaderData,
   type ActionFunction,
   type LoaderFunction,
 } from "react-router-dom";
-import { getAuthToken } from "@/util/auth";
+import { getAuthToken, tokenLoader } from "@/util/auth";
 import { toast } from "sonner";
 import { Button } from "@/components/ui/button";
 import messageEmitters from "@/socket/emitters/message.emitters";
@@ -81,7 +82,7 @@ const MessagesPage = () => {
   }, [socket]);
 
   useEffect(() => {
-    if (!activeContact!.user_id) return;
+    if (!activeContact?.user_id) return;
     const fetchMessages = async () => {
       const { VITE_API_BASE_URL } = import.meta.env;
       const response = await fetch(
@@ -156,6 +157,12 @@ const MessagesPage = () => {
 export default MessagesPage;
 
 export const loader: LoaderFunction = async () => {
+  // Redirect if role is neither employer or developer
+  const loadedToken = tokenLoader();
+  if (!["developer", "employer"].includes(loadedToken.role)) {
+    return redirect("/jobs");
+  }
+
   const { VITE_API_BASE_URL } = import.meta.env;
   const response = await fetch(`${VITE_API_BASE_URL}/messages`, {
     headers: {

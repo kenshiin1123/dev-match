@@ -2,9 +2,9 @@ import LabelWithParagraphItem from "@/components/label-with-paragraph-item";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { ScrollArea } from "@/components/ui/scroll-area";
-import { getAuthToken } from "@/util/auth";
+import { getAuthToken, tokenLoader } from "@/util/auth";
 import getAvatarUrl from "@/util/getAvatarUrl";
-import { useLoaderData, type LoaderFunction } from "react-router-dom";
+import { redirect, useLoaderData, type LoaderFunction } from "react-router-dom";
 import { toast } from "sonner";
 
 export type UserProfile = {
@@ -94,7 +94,14 @@ const ProfilePage = () => {
 export default ProfilePage;
 
 export const loader: LoaderFunction = async () => {
+  // Redirect if role is neither employer or developer
+  const loadedToken = tokenLoader();
+  if (!["developer", "employer"].includes(loadedToken.role)) {
+    return redirect("/jobs");
+  }
+
   const token = getAuthToken();
+
   const { VITE_API_BASE_URL } = import.meta.env;
   const response = await fetch(`${VITE_API_BASE_URL}/users/me`, {
     headers: {

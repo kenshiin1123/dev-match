@@ -134,6 +134,20 @@ export default function Home() {
           </motion.div>
         </>
       )}
+      {role === "developer" && (
+        <Link to={"/jobs"}>
+          <Button size={"lg"} className="font-bold">
+            Explore Job Opportunities
+          </Button>
+        </Link>
+      )}
+      {role === "employer" && (
+        <Link to={"/jobs/new"}>
+          <Button size={"lg"} className="font-bold">
+            Post a Job
+          </Button>
+        </Link>
+      )}
     </motion.div>
   );
 }

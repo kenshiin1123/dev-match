@@ -2,7 +2,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { MessageContext } from "@/pages/messages";
 import { SendHorizonal } from "lucide-react";
 import { useContext, useState, type ChangeEvent } from "react";
-const ChatBox = () => {
+const MessageBox = () => {
   const [message, setMessage] = useState<string>("");
   const { handlePostMessage, activeContact } = useContext(MessageContext);
 
@@ -32,4 +32,4 @@ const ChatBox = () => {
   );
 };
 
-export default ChatBox;
+export default MessageBox;
