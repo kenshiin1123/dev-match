@@ -1,7 +1,7 @@
 import type { UserProfileType } from "@/pages/connections";
-import { socket } from "@/socket/socket";
+import { getSocket } from "@/socket/socket";
 import { toast } from "sonner";
-
+const socket = getSocket();
 const establishConnectionListener = (setUsers: React.Dispatch<any>) => {
   const listener = (resData: any) => {
     const { message, success, data } = resData;
@@ -30,10 +30,10 @@ const establishConnectionListener = (setUsers: React.Dispatch<any>) => {
     );
   };
 
-  socket.on("establish_connection_response", listener);
+  socket?.on("establish_connection_response", listener);
 
   // return cleanup for useEffect
-  return () => socket.off("establish_connection_response", listener);
+  return () => socket?.off("establish_connection_response", listener);
 };
 
 const removeConnectionListener = (setUsers: React.Dispatch<any>) => {
@@ -60,10 +60,10 @@ const removeConnectionListener = (setUsers: React.Dispatch<any>) => {
     );
   };
 
-  socket.on("remove_connection_response", listener);
+  socket?.on("remove_connection_response", listener);
 
   // return cleanup
-  return () => socket.off("remove_connection_response", listener);
+  return () => socket?.off("remove_connection_response", listener);
 };
 
 const acceptConnectionListener = (setUsers: React.Dispatch<any>) => {
@@ -85,9 +85,9 @@ const acceptConnectionListener = (setUsers: React.Dispatch<any>) => {
     });
   };
 
-  socket.on("accept_connection_response", listener);
+  socket?.on("accept_connection_response", listener);
 
-  return () => socket.off("accept_connection_response", listener);
+  return () => socket?.off("accept_connection_response", listener);
 };
 
 export {

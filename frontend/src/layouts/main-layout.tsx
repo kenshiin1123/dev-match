@@ -7,6 +7,7 @@ import { Toaster } from "sonner";
 import { useDispatch } from "react-redux";
 import { userActions } from "@/store/user-reducer";
 import { getAuthToken } from "@/util/auth";
+import { connectSocket } from "@/socket/socket";
 
 export default function MainLayout() {
   const location = useLocation();
@@ -41,6 +42,10 @@ export default function MainLayout() {
       // Don't proceed to next block if user_id is missing
       return;
     }
+
+    // Only connect when the user is loggedIn
+    const token = getAuthToken();
+    connectSocket(token!);
 
     const fetchUserData = async () => {
       const { VITE_API_BASE_URL } = import.meta.env;

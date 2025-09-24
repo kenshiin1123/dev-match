@@ -37,7 +37,7 @@ export const socketAuthMiddleware = (socket, next) => {
 
   try {
     const validatedToken = validateJWT(authToken);
-    socket.data.token = validatedToken; // store decoded payload safely
+    socket.data.user = validatedToken; // store decoded payload safely
     next();
   } catch (err) {
     return next(new Error("NOT AUTH. TOKEN INVALID."));

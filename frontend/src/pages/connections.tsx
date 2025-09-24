@@ -11,7 +11,7 @@ import { getAuthToken } from "@/util/auth";
 import { useSelector } from "react-redux";
 import { createContext } from "react";
 import { type UserState } from "@/store/user-reducer";
-import { socket } from "@/socket/socket";
+import { getSocket } from "@/socket/socket";
 import {
   acceptConnectionListener,
   establishConnectionListener,
@@ -133,6 +133,7 @@ const ConnectionsPage: React.FC<{}> = () => {
   const loadedUsers = useLoaderData();
   const currentUser = useSelector((state: any) => state.user);
   const [users, setUsers] = useState(loadedUsers);
+  const socket = getSocket();
 
   // This is the socket emitters for connections
   const { handleConnectUser, handleRemoveConnection, handleAcceptConnection } =
@@ -188,6 +189,7 @@ export const loader: LoaderFunction = async () => {
 };
 
 export const action: ActionFunction = async ({ request }) => {
+  const socket = getSocket();
   const formData = await request.formData();
   let event = "";
 
@@ -230,7 +232,7 @@ export const action: ActionFunction = async ({ request }) => {
     }
   }
 
-  socket.emit(event, payload);
+  socket?.emit(event, payload);
 
   return null;
 };

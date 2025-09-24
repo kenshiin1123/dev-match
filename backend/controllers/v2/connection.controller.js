@@ -4,7 +4,7 @@ import { getUserSocketId } from "../../index.js";
 const establishConnection = async (evt, data, socket) => {
   // Get all required fields
   const extractedData = {
-    sender_id: socket.data.token.user_id,
+    sender_id: socket.data.user.user_id,
     receiver_id: data.receiver_id,
     status: "pending",
   };
@@ -71,7 +71,7 @@ const establishConnection = async (evt, data, socket) => {
 };
 
 const removeConnection = async (evt, data, socket) => {
-  const user_id = socket.data.token.user_id;
+  const user_id = socket.data.user.user_id;
   const connected_user_id = data.connected_user_id;
   const connection_id = data.connection_id;
 
@@ -114,7 +114,7 @@ const removeConnection = async (evt, data, socket) => {
 
 const acceptConnection = async (evt, data, socket) => {
   const connection_id = data.connection_id;
-  const receiver_id = socket.data.token.user_id;
+  const receiver_id = socket.data.user.user_id;
   const sender_id = data.sender_id;
 
   // Verify if connection is available

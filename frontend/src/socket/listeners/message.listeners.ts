@@ -1,11 +1,12 @@
 import { toast } from "sonner";
-import { socket } from "../socket";
+import { getSocket } from "../socket";
 import { type ContactType, type MessageType } from "@/pages/messages";
 
 const postMessageListener = (
   setMessages: React.Dispatch<React.SetStateAction<MessageType[]>>,
   setContacts: React.Dispatch<React.SetStateAction<ContactType[]>>
 ) => {
+  const socket = getSocket();
   const listener = (resData: any) => {
     const { success, message, data } = resData;
 
@@ -31,9 +32,9 @@ const postMessageListener = (
     });
   };
 
-  socket.on("send_message_response", listener);
+  socket?.on("send_message_response", listener);
   return () => {
-    socket.off("send_message_response", listener);
+    socket?.off("send_message_response", listener);
   };
 };
 

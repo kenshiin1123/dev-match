@@ -4,7 +4,7 @@ import wrapAsync from "../../utils/wrapAsync.js";
 import { getUserSocketId, io } from "../../index.js";
 
 const postMessage = async (evt, data, socket) => {
-  const sender_id = socket.data.token.user_id;
+  const sender_id = socket.data.user.user_id;
   const receiver_id = data.receiver_id;
   const content = data.content;
 

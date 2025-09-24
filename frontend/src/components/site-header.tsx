@@ -5,6 +5,7 @@ import ThemeSelector from "./theme-selector";
 import { Link, useNavigate } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { userActions } from "@/store/user-reducer";
+import { disconnectSocket } from "@/socket/socket";
 
 export function SiteHeader() {
   const userRole = useSelector((state: any) => state.user.role);
@@ -14,6 +15,7 @@ export function SiteHeader() {
   const handleLogout = () => {
     localStorage.removeItem("token");
     dispatch(userActions.logOutUser());
+    disconnectSocket();
     navigate("/");
   };
 

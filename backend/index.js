@@ -82,7 +82,7 @@ app.use((err, req, res, next) => {
 io.use(socketAuthMiddleware);
 
 io.on("connection", (socket) => {
-  const user_id = socket.data.token.user_id;
+  const user_id = socket.data.user.user_id;
   userSocketMap.set(user_id, socket.id);
 
   eventListeners.forEach((listener) => {

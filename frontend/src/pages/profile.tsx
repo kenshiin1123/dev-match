@@ -46,20 +46,20 @@ const ProfilePage = () => {
               Edit Profile
             </Button>
           </section>
-          <section>
+          <section className="flex flex-col max-sm:items-center">
             <h1 className="text-xl font-semibold">{userData?.name}</h1>
             <p className="text-muted-foreground">{userData?.email}</p>
             <LabelWithParagraphItem
               label={"Account type"}
               paragraph={userData!.role}
-              className="p-2 w-60 mt-3 text-sm font-medium justify-center bg-secondary"
+              className="p-2 w-60 mt-5 text-sm font-medium justify-center bg-secondary"
               animate={false}
             />
             {userData!.role === "employer" && (
               <LabelWithParagraphItem
                 label={"Company"}
                 paragraph={userData!.company}
-                className={`p-2 mt-1 text-sm font-medium bg-secondary ${
+                className={`p-2 mt-2 text-sm font-medium bg-secondary ${
                   userData!.company.length > 15
                     ? "justify-start w-fit"
                     : "justify-center w-60"
@@ -69,10 +69,10 @@ const ProfilePage = () => {
             )}
           </section>
           <section className="mt-5">
-            <h1 className="text-lg font-semibold">
+            <h1 className="text-lg font-semibold indent-3">
               {userData!.skills.length > 1 ? "Skills" : "Skill"}
             </h1>
-            <ul className="border min-h-30 mt-3 p-5 flex gap-3">
+            <ul className="border min-h-30 mt-3 p-5 flex gap-3 rounded">
               {userData!.skills.map((skill, i) => {
                 return (
                   <li

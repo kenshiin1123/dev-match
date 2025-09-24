@@ -15,7 +15,7 @@ import { getAuthToken, tokenLoader } from "@/util/auth";
 import { toast } from "sonner";
 import { Button } from "@/components/ui/button";
 import messageEmitters from "@/socket/emitters/message.emitters";
-import { socket } from "@/socket/socket";
+import { getSocket } from "@/socket/socket";
 import { postMessageListener } from "../socket/listeners/message.listeners";
 
 export type ContactType = {
@@ -63,6 +63,7 @@ const MessagesPage = () => {
   );
   const [messages, setMessages] = useState<MessageType[]>([]);
   const { handlePostMessage } = messageEmitters();
+  const socket = getSocket();
 
   useEffect(() => {
     // Set initial state for expandContacts based on isMobile
@@ -180,6 +181,7 @@ export const loader: LoaderFunction = async () => {
 };
 
 export const action: ActionFunction = async ({ request }) => {
+  const socket = getSocket();
   const formData = await request.formData();
   const payload: { receiver_id?: string; content?: string } = {};
   let event = "";
@@ -196,7 +198,7 @@ export const action: ActionFunction = async ({ request }) => {
     if (!receiver_id || !content) return;
   }
 
-  socket.emit(event, payload);
+  socket?.emit(event, payload);
 
   return null;
 };
