@@ -1,29 +1,55 @@
 import getAvatarUrl from "@/util/getAvatarUrl";
 import { type MessageType } from "./message-bubbles";
 import { MessageContext } from "@/pages/messages";
-import { useContext } from "react";
+import { useContext, useEffect, useState } from "react";
 import { useSelector } from "react-redux";
+import { formatDistance } from "date-fns";
 
 const MessageBubble: React.FC<{ message: MessageType }> = ({ message }) => {
   const { activeContact } = useContext(MessageContext);
   const currentUserId = useSelector((state: any) => state.user.user_id);
 
+  const [time, setTime] = useState(new Date());
   const avatarUrl = getAvatarUrl(
     activeContact?.avatar,
     activeContact?.avatar_content_type
   );
-
   const isCurrUser = message.sender_id === currentUserId;
+
+  useEffect(() => {
+    const interval = setInterval(() => {
+      setTime(new Date());
+    }, 60_000); // every minute
+    return () => clearInterval(interval);
+  }, []);
 
   return (
     <li
-      key={message.message_id}
       className={`w-fit flex gap-4 items-center ${
         isCurrUser ? "ml-auto" : ""
       } max-w-[70%]`}
     >
-      {!isCurrUser && <img src={avatarUrl} className="size-8" />}
-      <p className="border rounded bg-secondary px-3 py-2">{message.content}</p>
+      {!isCurrUser && (
+        <img src={avatarUrl ?? "/default-avatar.png"} className="size-8" />
+      )}
+      <div className="w-full flex flex-col">
+        <p
+          className={`border rounded bg-secondary px-3 py-2 w-fit ${
+            isCurrUser ? "ml-auto" : "mr-auto"
+          }`}
+        >
+          {message.content}
+        </p>
+        <small
+          className={`text-muted-foreground text-xs mt-1 ${
+            isCurrUser ? "ml-auto mr-1" : "mr-auto ml-1"
+          }`}
+        >
+          {formatDistance(new Date(message.created_at), time, {
+            includeSeconds: true,
+          })}
+        </small>
+      </div>
     </li>
   );
 };
