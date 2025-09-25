@@ -19,7 +19,23 @@ const postMessageListener = (
     });
 
     setContacts((prevContacts: ContactType[]) => {
-      return prevContacts.map((prevContact) => {
+      // Current contact
+      const currentContact = prevContacts.filter(
+        (prevContact) =>
+          prevContact.user_id === data.sender_id ||
+          prevContact.user_id === data.receiver_id
+      )[0];
+
+      // Exclude the currentContact in the list of contacts
+      const filteredContacts = prevContacts.filter(
+        (prevContact) => prevContact.user_id !== currentContact.user_id
+      );
+
+      // Bring currentContact to the top
+      const sortedContacts = [currentContact, ...filteredContacts];
+
+      // Update recent message of the currentContact
+      return sortedContacts.map((prevContact) => {
         if (
           prevContact.user_id === data.sender_id ||
           prevContact.user_id === data.receiver_id

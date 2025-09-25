@@ -4,6 +4,7 @@ import { useContext, useEffect, useRef, type PropsWithChildren } from "react";
 import MessageBox from "./message-box";
 import MessageBubbles from "./message-bubbles";
 import { ScrollArea } from "../ui/scroll-area";
+import { Settings } from "lucide-react";
 
 const MessageSection: React.FC<
   PropsWithChildren<{ contact: ContactType | null }>
@@ -29,9 +30,12 @@ const MessageSection: React.FC<
       {contact && (
         <>
           <ScrollArea className="h-0 grow" viewportRef={scrollAreaRef}>
-            <header className="flex text-xl">
+            <header className="flex text-xl sticky top-0 bg-card/90 pb-5">
               <img src={avatarUrl} className="mx-2 size-8 rounded-full" />
               <h1>{contact.name}</h1>
+              <button className="ml-auto">
+                <Settings />
+              </button>
             </header>
             <MessageBubbles />
           </ScrollArea>
