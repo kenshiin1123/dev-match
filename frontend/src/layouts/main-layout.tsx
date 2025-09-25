@@ -1,4 +1,9 @@
-import { Outlet, useLoaderData, useLocation } from "react-router-dom";
+import {
+  Outlet,
+  useLoaderData,
+  useLocation,
+  useNavigation,
+} from "react-router-dom";
 import AppSideBar from "../components/app-sidebar";
 import { ThemeProvider } from "@/components/ui/theme-provider";
 import { SiteHeader } from "@/components/site-header";
@@ -8,11 +13,14 @@ import { useDispatch } from "react-redux";
 import { userActions } from "@/store/user-reducer";
 import { getAuthToken } from "@/util/auth";
 import { connectSocket } from "@/socket/socket";
+import { RotateCw } from "lucide-react";
 
 export default function MainLayout() {
   const location = useLocation();
   const loaderData = useLoaderData();
   const dispatch = useDispatch();
+  const navigation = useNavigation();
+  const isLoading = navigation.state === "loading";
 
   const locations = [
     { location: "/", title: "Homepage" },
@@ -75,6 +83,11 @@ export default function MainLayout() {
         <Outlet />
       </AppSideBar>
       <Toaster />
+      {isLoading && (
+        <div className="top-0 fixed h-screen w-full flex justify-center items-center bg-black/50 transition-colors z-50">
+          <RotateCw className={"animate-spin"} size={60} />
+        </div>
+      )}
     </ThemeProvider>
   );
 }
