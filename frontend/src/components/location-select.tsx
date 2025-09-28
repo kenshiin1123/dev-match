@@ -150,7 +150,7 @@ export function CountrySelect({
   }
 
   return (
-    <Popover>
+    <Popover modal={true}>
       <PopoverTrigger asChild>
         <Button
           variant="outline"
@@ -298,7 +298,7 @@ export function CitySelect({
   }
 
   return (
-    <Popover>
+    <Popover modal={true}>
       <PopoverTrigger asChild>
         <Button
           variant="outline"

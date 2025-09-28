@@ -135,14 +135,14 @@ export default function Home() {
         </>
       )}
       {role === "developer" && (
-        <Link to={"/jobs"}>
+        <Link to={"/jobs"} className="w-full flex justify-center">
           <Button size={"lg"} className="font-bold">
             Explore Job Opportunities
           </Button>
         </Link>
       )}
       {role === "employer" && (
-        <Link to={"/jobs/new"}>
+        <Link to={"/jobs/new"} className="w-full flex justify-center">
           <Button size={"lg"} className="font-bold">
             Post a Job
           </Button>

@@ -32,7 +32,6 @@ import {
   FileText,
   MessageSquare,
   User,
-  Settings,
   PlusCircle,
   Users,
   Building,
@@ -51,7 +50,7 @@ const DEVELOPER_ITEMS = [
   { title: "Connect", url: "/connections", icon: BookUser },
   { title: "Messages", url: "/messages", icon: MessageSquare },
   { title: "Profile", url: "/profile", icon: User },
-  { title: "Settings", url: "/settings", icon: Settings },
+  // { title: "Settings", url: "/settings", icon: Settings },
 ];
 
 const EMPLOYER_ITEMS = [
@@ -62,7 +61,7 @@ const EMPLOYER_ITEMS = [
   { title: "Connect", url: "/connections", icon: BookUser },
   { title: "Messages", url: "/messages", icon: MessageSquare },
   { title: "Company Profile", url: "/profile", icon: Building },
-  { title: "Settings", url: "/settings", icon: Settings },
+  // { title: "Settings", url: "/settings", icon: Settings },
 ];
 
 const AppSidebar: FC<PropsWithChildren> = ({ children }) => {

@@ -88,6 +88,7 @@ const JobDisplayPage: React.FC = () => {
 
     formData.append("message", messageRef.current!.value);
 
+    setShowApplication(false);
     return submit(formData, { method: "POST" });
   };
 

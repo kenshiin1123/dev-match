@@ -34,7 +34,10 @@ import MessagesPage, {
   loader as messagesLoader,
   action as messagesAction,
 } from "./pages/messages";
-import ProfilePage, { loader as profileLoader } from "./pages/profile";
+import ProfilePage, {
+  loader as profileLoader,
+  action as profileAction,
+} from "./pages/profile";
 import SettingsPage from "./pages/settings";
 
 // Redux Toolkit Store
@@ -103,6 +106,7 @@ const router = createBrowserRouter([
         path: "profile",
         element: <ProfilePage />,
         loader: profileLoader,
+        action: profileAction,
       },
       {
         path: "settings",

@@ -4,8 +4,14 @@ import { Card } from "@/components/ui/card";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { getAuthToken, tokenLoader } from "@/util/auth";
 import getAvatarUrl from "@/util/getAvatarUrl";
-import { redirect, useLoaderData, type LoaderFunction } from "react-router-dom";
+import {
+  redirect,
+  useLoaderData,
+  type ActionFunction,
+  type LoaderFunction,
+} from "react-router-dom";
 import { toast } from "sonner";
+import EditProfileSheet from "@/components/edit-profile-sheet";
 
 export type UserProfile = {
   user_id: string;
@@ -27,6 +33,7 @@ const ProfilePage = () => {
     userData?.avatar || undefined,
     userData?.avatar_content_type || undefined
   );
+
   return (
     <div className="h-screen flex justify-center items-center">
       <Card className="w-[95%] h-[95%] rounded-md p-0 flex">
@@ -42,13 +49,16 @@ const ProfilePage = () => {
                 ? "Upload your avatar"
                 : "Change Avatar"}
             </Button>
-            <Button className="w-full rounded-none mt-1" variant={"outline"}>
-              Edit Profile
-            </Button>
+            <EditProfileSheet userData={userData} />
           </section>
           <section className="flex flex-col max-sm:items-center">
             <h1 className="text-xl font-semibold">{userData?.name}</h1>
-            <p className="text-muted-foreground">{userData?.email}</p>
+            <p className="text-muted-foreground mt-3">
+              <b>Email:</b> {userData?.email}
+            </p>
+            <p className="text-muted-foreground">
+              <b>Location:</b> {userData?.location}
+            </p>
             <LabelWithParagraphItem
               label={"Account type"}
               paragraph={userData!.role}
@@ -117,4 +127,38 @@ export const loader: LoaderFunction = async () => {
   }
 
   return data;
+};
+
+export const action: ActionFunction = async ({ request }) => {
+  const formData = await request.formData();
+  const { VITE_API_BASE_URL } = import.meta.env;
+  const toastPosition = window.innerWidth < 640 ? "top-right" : "bottom-right";
+
+  const payload = {
+    name: formData.get("name"),
+    email: formData.get("email"),
+    company: formData.get("company"),
+    location: formData.get("location"),
+    skills: JSON.parse(formData.get("skills")!.toString()),
+  };
+
+  const response = await fetch(`${VITE_API_BASE_URL}/users`, {
+    method: "PATCH",
+    headers: {
+      "Content-Type": "application/json",
+      Authorization: "Bearer " + getAuthToken(),
+    },
+    body: JSON.stringify(payload),
+  });
+
+  const { message, success } = await response.json();
+
+  if (!success) {
+    toast.error(message, { position: toastPosition });
+    return success;
+  }
+
+  toast.success(message, { position: toastPosition });
+
+  return success;
 };
