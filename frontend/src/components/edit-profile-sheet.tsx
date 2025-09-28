@@ -166,7 +166,7 @@ const EditProfileSheet: React.FC<{
         side="bottom"
         className="max-w-170 mx-auto sm:mb-4 sm:p-4 sm:rounded"
       >
-        <ScrollArea className="h-screen sm:h-[90vh]">
+        <ScrollArea className="h-[90vh]">
           <SheetHeader>
             <SheetTitle>Edit profile</SheetTitle>
             <SheetDescription>

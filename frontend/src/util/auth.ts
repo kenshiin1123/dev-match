@@ -58,6 +58,14 @@ const checkAuthLoader = () => {
   return null;
 };
 
+export const authLoader = () => {
+  const token = tokenLoader();
+  if (token.role === "developer" || token.role === "employer") {
+    return redirect("/jobs");
+  }
+  return null;
+};
+
 const deleteAuthToken = () => {
   localStorage.removeItem("token");
 };

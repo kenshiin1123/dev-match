@@ -82,7 +82,7 @@ const ProfilePage = () => {
             <h1 className="text-lg font-semibold indent-3">
               {userData!.skills.length > 1 ? "Skills" : "Skill"}
             </h1>
-            <ul className="border min-h-30 mt-3 p-5 flex gap-3 rounded">
+            <ul className="border min-h-30 mt-3 p-5 flex gap-3 rounded flex-wrap">
               {userData!.skills.map((skill, i) => {
                 return (
                   <li

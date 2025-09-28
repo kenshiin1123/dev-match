@@ -25,7 +25,7 @@ import ApplicantsPage, {
   loader as applicantsLoader,
   action as employerResponseAction,
 } from "./pages/applicants";
-import { tokenLoader } from "./util/auth";
+import { authLoader, tokenLoader } from "./util/auth";
 import ConnectionsPage, {
   loader as connectionsLoader,
   action as connectionAction,
@@ -58,8 +58,18 @@ const router = createBrowserRouter([
     ),
     children: [
       { index: true, element: <Homepage /> },
-      { path: "login", element: <Loginpage />, action: loginAction },
-      { path: "signup", element: <Signuppage />, action: signupAction },
+      {
+        path: "login",
+        element: <Loginpage />,
+        loader: authLoader,
+        action: loginAction,
+      },
+      {
+        path: "signup",
+        element: <Signuppage />,
+        loader: authLoader,
+        action: signupAction,
+      },
       {
         path: "jobs",
         element: <JobsLayout />,

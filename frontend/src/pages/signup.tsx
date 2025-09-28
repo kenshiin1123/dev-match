@@ -141,7 +141,6 @@ export default function signup() {
     </PageContainer>
   );
 }
-
 export const action: ActionFunction = async ({ request }) => {
   const { VITE_API_BASE_URL } = import.meta.env;
   const formData = await request.formData();
