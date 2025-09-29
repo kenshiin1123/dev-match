@@ -1,4 +1,5 @@
 import { MessageContext, type ContactType } from "@/pages/messages";
+import getCloudinaryImage from "@/util/getCloudinaryImage";
 import { motion } from "motion/react";
 import { useContext } from "react";
 
@@ -17,7 +18,11 @@ const ContactItem: React.FC<{
       }}
     >
       <img
-        src={avatar || "images/default_pic.png"}
+        src={
+          avatar
+            ? getCloudinaryImage(avatar, { w: 80, h: 80 })
+            : "images/default_pic.png"
+        }
         className="mx-2 size-8 rounded-full"
       />
       <div>

@@ -12,6 +12,7 @@ import {
   getUsers,
   deleteUser,
   getMe,
+  postAvatar,
 } from "../../controllers/v1/user.controller.js";
 
 // Get user applications
@@ -26,6 +27,9 @@ router.get("/jobs", authMiddleware, getEmployerPostedJobs);
 
 // Get all user's data
 router.get("/me", authMiddleware, getMe);
+
+// Upload Avatar
+router.post("/avatar", authMiddleware, postAvatar);
 
 // Get specific user
 router.get("/:user_id", getUser);

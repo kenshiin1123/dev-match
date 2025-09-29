@@ -1,5 +1,4 @@
 import LabelWithParagraphItem from "@/components/label-with-paragraph-item";
-import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { getAuthToken, tokenLoader } from "@/util/auth";
 import {
@@ -10,7 +9,9 @@ import {
 } from "react-router-dom";
 import { toast } from "sonner";
 import EditProfileSheet from "@/components/edit-profile-sheet";
-import { useRef } from "react";
+import AvatarUpload from "@/components/avatar-upload";
+import { useState } from "react";
+import getCloudinaryImage from "@/util/getCloudinaryImage";
 
 export type UserProfile = {
   user_id: string;
@@ -27,24 +28,23 @@ export type UserProfile = {
 
 const ProfilePage = () => {
   const userData: UserProfile = useLoaderData();
-  const avatarInputRef = useRef<HTMLInputElement>(null);
+  const [avatar, setAvatar] = useState(userData?.avatar);
+
   return (
     <div className="flex justify-center items-center py-7">
       <Card className="w-[95%] rounded-md flex p-4">
         <section className="flex flex-col w-fit justify-center items-center mb-5 max-sm:mx-auto">
           <img
-            src={userData?.avatar || "images/default_pic.png"}
+            src={
+              avatar
+                ? getCloudinaryImage(avatar, { w: 200, h: 200 })
+                : "images/default_pic.png"
+            }
             alt="User avatar"
             className="border size-40 mb-1"
           />
-          <Button
-            className="w-full rounded-none"
-            variant={"outline"}
-            onClick={() => avatarInputRef.current?.click()}
-          >
-            {!userData?.avatar ? "Upload your avatar" : "Change Avatar"}
-          </Button>
-          <input ref={avatarInputRef} type="file" accept="image/*" hidden />
+
+          <AvatarUpload avatar={avatar} setAvatar={setAvatar} />
           <EditProfileSheet userData={userData} />
         </section>
         <section className="flex flex-col max-sm:items-center">

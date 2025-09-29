@@ -51,6 +51,26 @@ const getMe = wrapAsync(async (req, res) => {
   });
 });
 
+const postAvatar = wrapAsync(async (req, res) => {
+  const user_id = req.token.user_id;
+  const avatar = req.body.avatar;
+
+  if (!user_id) throw new AppError("User id is required!", 422);
+  if (!avatar) throw new AppError("Avatar is required!", 422);
+
+  // Find user in database by the id provided
+
+  await dbClient.query("UPDATE users SET avatar=$1 WHERE user_id=$2;", [
+    avatar,
+    user_id,
+  ]);
+
+  res.json({
+    message: "Successfully updated user avatar",
+    success: true,
+  });
+});
+
 const getUsers = wrapAsync(async (req, res, next) => {
   const result = await dbClient.query(
     "SELECT name, avatar, role, created_at, user_id FROM users"
@@ -236,6 +256,7 @@ const deleteUser = wrapAsync(async (req, res) => {
 export {
   patchUser,
   getMe,
+  postAvatar,
   getUser,
   getEmployerPostedJobs,
   getUserApplications,

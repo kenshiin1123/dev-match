@@ -6,6 +6,7 @@ import userRoute from "./user.route.js";
 import jobRoute from "./jobpost.route.js";
 import connectionRoute from "./connection.route.js";
 import messagesRoute from "./messages.route.js";
+import uploadRoute from "./upload.route.js";
 
 const router = express.Router();
 
@@ -14,5 +15,6 @@ router.use("/users", userRoute);
 router.use("/connections", connectionRoute);
 router.use("/jobposts", jobRoute);
 router.use("/messages", messagesRoute);
+router.use("/upload", uploadRoute);
 
 export default router;

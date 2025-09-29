@@ -1,3 +1,4 @@
+import getCloudinaryImage from "@/util/getCloudinaryImage";
 import { motion, type Variants } from "motion/react";
 import { Link } from "react-router-dom";
 
@@ -30,7 +31,11 @@ const JobItem: React.FC<{ jobpost: JobpostType }> = ({ jobpost }) => {
         className="border min-h-35 p-2 flex gap-4 h-20 bg-card"
       >
         <img
-          src={jobpost.avatar || "images/default_pic.png"}
+          src={
+            jobpost.avatar
+              ? getCloudinaryImage(jobpost.avatar, { w: 200, h: 200 })
+              : "images/default_pic.png"
+          }
           alt=""
           className="h-full aspect-square"
         />

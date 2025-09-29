@@ -7,6 +7,7 @@ import LabelWithParagraphItem from "../label-with-paragraph-item";
 import { Button } from "../ui/button";
 import { AnimatePresence, motion, stagger, type Variants } from "motion/react";
 import { Expand, Shrink } from "lucide-react";
+import getCloudinaryImage from "@/util/getCloudinaryImage";
 
 export type EmployerResponseType = {
   status: string;
@@ -92,7 +93,11 @@ const ApplicantItem: React.FC<{ applicant: ApplicantType }> = ({
               </Button>
             </div>
             <motion.img
-              src={applicant.avatar || "images/default_pic.png"}
+              src={
+                applicant.avatar
+                  ? getCloudinaryImage(applicant.avatar, { w: 200, h: 200 })
+                  : "images/default_pic.png"
+              }
               alt="user_profile"
               className="aspect-square border rounded max-w-30 max-h-30"
               animate={{

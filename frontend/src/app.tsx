@@ -25,7 +25,7 @@ import ApplicantsPage, {
   loader as applicantsLoader,
   action as employerResponseAction,
 } from "./pages/applicants";
-import { authLoader, tokenLoader } from "./util/auth";
+import { tokenLoader } from "./util/auth";
 import ConnectionsPage, {
   loader as connectionsLoader,
   action as connectionAction,
@@ -61,13 +61,13 @@ const router = createBrowserRouter([
       {
         path: "login",
         element: <Loginpage />,
-        loader: authLoader,
+        // loader: authLoader,
         action: loginAction,
       },
       {
         path: "signup",
         element: <Signuppage />,
-        loader: authLoader,
+        // loader: authLoader,
         action: signupAction,
       },
       {

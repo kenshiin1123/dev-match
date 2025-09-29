@@ -8,10 +8,7 @@ export type UserState = {
   location: string | undefined;
   skills: string[];
   company: string | undefined;
-  avatar: {
-    buffer: any;
-    mimetype: string | undefined;
-  };
+  avatar: string | undefined;
   resume: {
     buffer: any;
     mimetype: string | undefined;
@@ -27,10 +24,7 @@ const initialState = {
   location: undefined,
   skills: [],
   company: undefined,
-  avatar: {
-    buffer: undefined,
-    mimetype: undefined,
-  },
+  avatar: undefined,
   resume: {
     buffer: undefined,
     mimetype: undefined,
@@ -53,10 +47,7 @@ const userSlice = createSlice({
         location: payload.location || undefined,
         skills: payload.skills || [],
         company: payload.company || undefined,
-        avatar: {
-          buffer: payload.avatar || undefined,
-          mimetype: payload.avatar_content_type || undefined,
-        },
+        avatar: payload.avatar || undefined,
         resume: {
           buffer: payload.resume || undefined,
           mimetype: payload.resume_content_type || undefined,
@@ -64,6 +55,10 @@ const userSlice = createSlice({
         created_at: payload.created_at || undefined,
       };
       return data;
+    },
+    setAvatar(state, action) {
+      const avatar = action.payload;
+      state.avatar = avatar;
     },
     logOutUser() {
       return initialState;
