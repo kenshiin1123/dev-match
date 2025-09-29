@@ -31,7 +31,6 @@ export type ConnectionType = {
 export type UserProfileType = {
   user_id: string;
   avatar?: string;
-  avatar_content_type?: string;
   created_at: string;
   name: string;
   role: string;

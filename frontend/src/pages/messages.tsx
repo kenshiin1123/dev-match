@@ -21,7 +21,6 @@ import { postMessageListener } from "../socket/listeners/message.listeners";
 export type ContactType = {
   name: string;
   avatar?: string;
-  avatar_content_type?: string;
   recent_message: string;
   created_at: string;
   user_id: string;

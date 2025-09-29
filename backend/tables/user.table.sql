@@ -10,8 +10,7 @@ CREATE TABLE users (
   skills TEXT[] DEFAULT '{}',
   company VARCHAR(100),
 
-  avatar BYTEA,             -- Store image as binary
-  avatar_content_type TEXT, -- Optional: to store MIME type
+  avatar TEXT,
 
   resume BYTEA,             -- Store resume file as binary
   resume_content_type TEXT, -- Optional: to store MIME type

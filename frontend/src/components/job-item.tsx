@@ -15,7 +15,6 @@ type JobpostType = {
   timestamp: number;
   title: string;
   avatar?: string;
-  avatar_content_type?: string;
 };
 
 const JobItem: React.FC<{ jobpost: JobpostType }> = ({ jobpost }) => {
@@ -24,18 +23,17 @@ const JobItem: React.FC<{ jobpost: JobpostType }> = ({ jobpost }) => {
     hidden: { opacity: 0, x: -30 },
   };
 
-  const avatarUrl =
-    jobpost.avatar && jobpost.avatar_content_type
-      ? `data:${jobpost.avatar_content_type};base64,${jobpost.avatar}`
-      : "images/default_pic.png";
-
   return (
     <motion.li variants={elementVariant} whileHover={{ scale: 1.01 }}>
       <Link
         to={jobpost.jobpost_id}
         className="border min-h-35 p-2 flex gap-4 h-20 bg-card"
       >
-        <img src={avatarUrl} alt="" className="h-full aspect-square" />
+        <img
+          src={jobpost.avatar || "images/default_pic.png"}
+          alt=""
+          className="h-full aspect-square"
+        />
         <div className="flex flex-col">
           <h1 className="text-xl font-bold">
             {jobpost.title}{" "}

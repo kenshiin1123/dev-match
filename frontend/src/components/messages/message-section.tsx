@@ -1,5 +1,4 @@
 import { MessageContext, type ContactType } from "@/pages/messages";
-import getAvatarUrl from "@/util/getAvatarUrl";
 import { useContext, useEffect, useRef, type PropsWithChildren } from "react";
 import MessageBox from "./message-box";
 import MessageBubbles from "./message-bubbles";
@@ -8,12 +7,7 @@ import { ScrollArea } from "../ui/scroll-area";
 const MessageSection: React.FC<
   PropsWithChildren<{ contact: ContactType | null }>
 > = ({ children, contact }) => {
-  let avatarUrl = "";
   const scrollAreaRef = useRef<HTMLDivElement>(null);
-
-  if (contact) {
-    avatarUrl = getAvatarUrl(contact.avatar, contact.avatar_content_type);
-  }
 
   const { messages } = useContext(MessageContext);
 
@@ -30,7 +24,10 @@ const MessageSection: React.FC<
         <>
           <ScrollArea className="h-0 grow" viewportRef={scrollAreaRef}>
             <header className="flex text-xl sticky top-0 bg-card/90 pb-5">
-              <img src={avatarUrl} className="mx-2 size-8 rounded-full" />
+              <img
+                src={contact.avatar || "images/default_pic.png"}
+                className="mx-2 size-8 rounded-full"
+              />
               <h1>{contact.name}</h1>
             </header>
             <MessageBubbles />

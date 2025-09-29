@@ -15,7 +15,6 @@ export type ApplicantType = {
   name: string;
   email: string;
   avatar?: string;
-  avatar_content_type?: string;
 };
 
 export type JobType = {

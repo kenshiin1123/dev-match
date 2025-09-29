@@ -1,4 +1,3 @@
-import getAvatarUrl from "@/util/getAvatarUrl";
 import { type MessageType } from "./message-bubbles";
 import { MessageContext } from "@/pages/messages";
 import { useContext, useEffect, useState } from "react";
@@ -9,10 +8,7 @@ const MessageBubble: React.FC<{ message: MessageType }> = ({ message }) => {
   const { activeContact } = useContext(MessageContext);
   const currentUserId = useSelector((state: any) => state.user.user_id);
   const [time, setTime] = useState(new Date());
-  const avatarUrl = getAvatarUrl(
-    activeContact?.avatar,
-    activeContact?.avatar_content_type
-  );
+
   const isCurrUser = message.sender_id === currentUserId;
   const isOlderThenOneDay =
     time.getTime() - new Date(message.created_at).getTime() >
@@ -35,7 +31,10 @@ const MessageBubble: React.FC<{ message: MessageType }> = ({ message }) => {
       } max-w-[70%]`}
     >
       {!isCurrUser && (
-        <img src={avatarUrl ?? "/default-avatar.png"} className="size-8" />
+        <img
+          src={activeContact?.avatar || "images/default_pic.png"}
+          className="size-8"
+        />
       )}
       <div className="w-full flex flex-col">
         <p

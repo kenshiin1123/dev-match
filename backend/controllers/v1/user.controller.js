@@ -12,7 +12,7 @@ const getUser = wrapAsync(async (req, res) => {
   // Find user in database by the id provided
 
   const user = await dbClient.query(
-    "SELECT name, email, skills, company, avatar, avatar_content_type, role, created_at FROM users WHERE user_id=$1;",
+    "SELECT name, email, skills, company, avatar, role, created_at FROM users WHERE user_id=$1;",
     [user_id]
   );
 
@@ -35,7 +35,7 @@ const getMe = wrapAsync(async (req, res) => {
   // Find user in database by the id provided
 
   const user = await dbClient.query(
-    "SELECT user_id, name, email, role, location, skills, company, created_at, updated_at, avatar, avatar_content_type FROM users WHERE user_id=$1;",
+    "SELECT user_id, name, email, role, location, skills, company, created_at, updated_at, avatar FROM users WHERE user_id=$1;",
     [user_id]
   );
 
@@ -53,7 +53,7 @@ const getMe = wrapAsync(async (req, res) => {
 
 const getUsers = wrapAsync(async (req, res, next) => {
   const result = await dbClient.query(
-    "SELECT name, avatar, avatar_content_type, role, created_at, user_id FROM users"
+    "SELECT name, avatar, role, created_at, user_id FROM users"
   );
 
   if (!result || !result.rows || result.rows.length === 0) {

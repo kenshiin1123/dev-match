@@ -93,7 +93,6 @@ const retrieveUserContacts = wrapAsync(async (req, res) => {
     u.user_id,
     u.name,
     u.avatar,
-    u.avatar_content_type,
     lm.recent_message,
     lm.created_at
   FROM

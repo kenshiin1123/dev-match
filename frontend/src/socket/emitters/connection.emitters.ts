@@ -33,7 +33,6 @@ const connectionEmitters = (
           const updatedUser = {
             user_id: user.user_id,
             avatar: user.avatar,
-            avatar_content_type: user.avatar_content_type,
             created_at: user.created_at,
             name: user.name,
             role: user.role,
