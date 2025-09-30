@@ -1,5 +1,6 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import { Provider } from "react-redux";
+import { lazy, Suspense } from "react";
 
 // Layouts
 import MainLayout from "./layouts/main-layout";
@@ -14,10 +15,15 @@ import PostJobPage, {
   action as jobPostAction,
   loader as postJobLoader,
 } from "./pages/post-job";
-import JobDisplayPage, {
+
+const JobDisplayPage = lazy(() => import("./pages/job-display"));
+import { JobDisplayPageSkeleton } from "./pages/job-display";
+
+import {
   loader as jobDisplayLoader,
   action as jobApplicationAction,
 } from "./pages/job-display";
+
 import ApplicationsPage, {
   loader as applicationsLoader,
 } from "./pages/applications";
@@ -77,7 +83,11 @@ const router = createBrowserRouter([
           { index: true, element: <JobsPage /> },
           {
             path: ":jobpost_id",
-            element: <JobDisplayPage />,
+            element: (
+              <Suspense fallback={<JobDisplayPageSkeleton />}>
+                <JobDisplayPage />
+              </Suspense>
+            ),
             loader: jobDisplayLoader,
             action: jobApplicationAction,
           },

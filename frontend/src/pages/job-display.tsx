@@ -16,6 +16,7 @@ import {
 } from "react-router-dom";
 import { toast } from "sonner";
 import timeAgo from "@/util/timeAgo";
+import { Skeleton } from "@/components/ui/skeleton";
 
 type JobpostType = {
   company: string;
@@ -214,3 +215,33 @@ export const action: ActionFunction = async ({ params, request }) => {
 };
 
 export default JobDisplayPage;
+
+export const JobDisplayPageSkeleton: React.FC = () => {
+  return (
+    <div className="p-5 pb-20">
+      <div className="bg-card rounded w-full min-h-[85vh] p-5 py-10">
+        <Skeleton className="h-8 w-48 mb-3" />
+        <Skeleton className="h-10 w-3/4 mb-5" />
+        <Skeleton className="h-6 w-1/3 mb-1" />
+        <Skeleton className="h-6 w-24 mb-1" />
+        <Skeleton className="h-6 w-32 mb-5" />
+        <Skeleton className="h-8 w-48 mb-5" />
+
+        <Skeleton className="h-12 w-40 mt-5" />
+
+        <Skeleton className="h-px w-full mt-5" />
+        <Skeleton className="h-7 w-48 mt-5 mb-3" />
+        <div className="flex gap-3 mt-3 flex-wrap">
+          <Skeleton className="h-10 w-24" />
+          <Skeleton className="h-10 w-28" />
+          <Skeleton className="h-10 w-20" />
+        </div>
+        <Skeleton className="h-px w-full mt-5" />
+        <Skeleton className="h-7 w-48 mt-5 mb-3" />
+        <Skeleton className="h-24 w-full mt-3" />
+        <Skeleton className="h-px w-full mt-5" />
+        <Skeleton className="h-7 w-64 mt-5" />
+      </div>
+    </div>
+  );
+};

@@ -28,7 +28,7 @@ const JobItem: React.FC<{ jobpost: JobpostType }> = ({ jobpost }) => {
     <motion.li variants={elementVariant} whileHover={{ scale: 1.01 }}>
       <Link
         to={jobpost.jobpost_id}
-        className="border min-h-35 p-2 flex gap-4 h-20 bg-card"
+        className="border min-h-35 p-2 flex gap-4 h-fit bg-card"
       >
         <img
           src={
@@ -37,7 +37,7 @@ const JobItem: React.FC<{ jobpost: JobpostType }> = ({ jobpost }) => {
               : "images/default_pic.png"
           }
           alt=""
-          className="h-full aspect-square"
+          className="h-30 aspect-square"
         />
         <div className="flex flex-col">
           <h1 className="text-xl font-bold">
