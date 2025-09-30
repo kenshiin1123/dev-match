@@ -143,9 +143,15 @@ const ConnectionsPage: React.FC<{}> = () => {
   }, [currentUser]);
 
   useEffect(() => {
-    establishConnectionListener(setUsers);
-    removeConnectionListener(setUsers);
-    acceptConnectionListener(setUsers);
+    const cleanupEstablish = establishConnectionListener(setUsers);
+    const cleanupRemove = removeConnectionListener(setUsers);
+    const cleanupAccept = acceptConnectionListener(setUsers);
+
+    return () => {
+      cleanupEstablish?.();
+      cleanupRemove?.();
+      cleanupAccept?.();
+    };
   }, [socket]);
 
   return (
