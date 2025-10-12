@@ -75,7 +75,7 @@ const MessagesPage = () => {
     window.addEventListener("resize", handleResize);
 
     return () => window.removeEventListener("resize", handleResize);
-  }, [window.innerWidth]);
+  }, []);
 
   useEffect(() => {
     return postMessageListener(setMessages, setContacts);

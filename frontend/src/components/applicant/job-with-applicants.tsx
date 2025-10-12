@@ -7,7 +7,7 @@ const JobWithApplicants: React.FC<{ job: JobType }> = ({ job }) => {
   const MotionLink = motion.create(Link);
 
   return (
-    <li key={job.jobpost_id}>
+    <li>
       <MotionLink
         to={"/jobs/" + job.jobpost_id}
         className="border p-3 flex justify-between items-center bg-card rounded "

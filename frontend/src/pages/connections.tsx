@@ -6,7 +6,7 @@ import {
 } from "react-router-dom";
 import { toast } from "sonner";
 import Users from "@/components/users";
-import { useEffect, useState } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { getAuthToken } from "@/util/auth";
 import { useSelector } from "react-redux";
 import { createContext } from "react";
@@ -134,12 +134,17 @@ const ConnectionsPage: React.FC<{}> = () => {
   const [users, setUsers] = useState(loadedUsers);
   const socket = getSocket();
 
+  const determineDevOrEmp = useCallback(
+    () => derivedDetermineDevOrEmp(currentUser, setUsers),
+    [currentUser, setUsers]
+  );
+
   // This is the socket emitters for connections
   const { handleConnectUser, handleRemoveConnection, handleAcceptConnection } =
     connectionEmitters(currentUser, setUsers);
 
   useEffect(() => {
-    derivedDetermineDevOrEmp(currentUser, setUsers);
+    determineDevOrEmp();
   }, [currentUser]);
 
   useEffect(() => {
